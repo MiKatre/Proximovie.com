@@ -42,5 +42,57 @@
 		"Ann Austen",
 		"Cassi Simonds",
 		"Fred Soulie"
+	],
+	"related_by_cast":[
+		{
+			"title":"Zack Snyder's Justice League",
+			"gatsby_image_path":"..\/..\/images\/zack-snyder's-justice-league.jpg",
+			"slug":"zack-snyder's-justice-league"
+		},
+		{
+			"title":"Xtreme",
+			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
+			"slug":"xtreme"
+		},
+		{
+			"title":"Wrath of Man",
+			"gatsby_image_path":"..\/..\/images\/wrath-of-man.jpg",
+			"slug":"wrath-of-man"
+		},
+		{
+			"title":"Wonder Woman 1984",
+			"gatsby_image_path":"..\/..\/images\/wonder-woman-1984.jpg",
+			"slug":"wonder-woman-1984"
+		},
+		{
+			"title":"Wish Dragon",
+			"gatsby_image_path":"..\/..\/images\/wish-dragon.jpg",
+			"slug":"wish-dragon"
+		},
+		{
+			"title":"Willy's Wonderland",
+			"gatsby_image_path":"..\/..\/images\/willy's-wonderland.jpg",
+			"slug":"willy's-wonderland"
+		},
+		{
+			"title":"Venom: Let There Be Carnage",
+			"gatsby_image_path":"..\/..\/images\/venom-let-there-be-carnage.jpg",
+			"slug":"venom-let-there-be-carnage"
+		},
+		{
+			"title":"Venom",
+			"gatsby_image_path":"..\/..\/images\/venom.jpg",
+			"slug":"venom"
+		},
+		{
+			"title":"Vanquish",
+			"gatsby_image_path":"..\/..\/images\/vanquish.jpg",
+			"slug":"vanquish"
+		},
+		{
+			"title":"Vanguard",
+			"gatsby_image_path":"..\/..\/images\/vanguard.jpg",
+			"slug":"vanguard"
+		}
 	]
 }

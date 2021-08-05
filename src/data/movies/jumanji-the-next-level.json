@@ -50,5 +50,57 @@
 		"Dwayne Johnson",
 		"Steve Edwards",
 		"Gyula Pados"
+	],
+	"related_by_cast":[
+		{
+			"title":"Raya and the Last Dragon",
+			"gatsby_image_path":"..\/..\/images\/raya-and-the-last-dragon.jpg",
+			"slug":"raya-and-the-last-dragon"
+		},
+		{
+			"title":"Old",
+			"gatsby_image_path":"..\/..\/images\/old.jpg",
+			"slug":"old"
+		},
+		{
+			"title":"Jungle Cruise",
+			"gatsby_image_path":"..\/..\/images\/jungle-cruise.jpg",
+			"slug":"jungle-cruise"
+		},
+		{
+			"title":"Fatherhood",
+			"gatsby_image_path":"..\/..\/images\/fatherhood.jpg",
+			"slug":"fatherhood"
+		},
+		{
+			"title":"Fast & Furious Presents: Hobbs & Shaw",
+			"gatsby_image_path":"..\/..\/images\/fast-furious-presents-hobbs-shaw.jpg",
+			"slug":"fast-furious-presents-hobbs-shaw"
+		},
+		{
+			"title":"Chaos Walking",
+			"gatsby_image_path":"..\/..\/images\/chaos-walking.jpg",
+			"slug":"chaos-walking"
+		},
+		{
+			"title":"Avengers: Infinity War",
+			"gatsby_image_path":"..\/..\/images\/avengers-infinity-war.jpg",
+			"slug":"avengers-infinity-war"
+		},
+		{
+			"title":"Zack Snyder's Justice League",
+			"gatsby_image_path":"..\/..\/images\/zack-snyder's-justice-league.jpg",
+			"slug":"zack-snyder's-justice-league"
+		},
+		{
+			"title":"Xtreme",
+			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
+			"slug":"xtreme"
+		},
+		{
+			"title":"Wrath of Man",
+			"gatsby_image_path":"..\/..\/images\/wrath-of-man.jpg",
+			"slug":"wrath-of-man"
+		}
 	]
 }
