@@ -9,16 +9,21 @@ const BlogPost = ({data}) => {
   console.log(data)
   const movie = data.allMoviesJson.edges[0].node
   const image = getImage(movie.gatsby_image_path)
-  const relatedByCast = movie.related_by_cast.map(i => (
-    <li>
-      <Link to={`/movie/${i.slug}`}>{i.title}</Link>
-    </li>
-  ))
+  const relatedByCast = movie.related_by_cast.map(i => {
+    let image = getImage(i.gatsby_image_path)
+  return (
+    <div className="m-2">
+      <Link to={`/movie/${i.slug}`}>
+        <GatsbyImage className="shadow rounded" image={image} alt=""/>
+      </Link>
+        {/* {i.title} */}
+    </div>
+  )})
   return (
     <Layout>
       <div className="">
         <div className="m-auto text-center bg-dark py-2">
-          <GatsbyImage className="shadow" image={image} alt=""/>
+          <GatsbyImage className="shadow rounded" image={image} alt=""/>
         </div>
 
         <Container fluid className="">
@@ -26,9 +31,9 @@ const BlogPost = ({data}) => {
             <h1 className="fw-bolder text-center pt-5">Similar movies</h1>
             <p className="text-center">Best movies like <em>{movie.title}</em></p>
             <div>
-              <ul>
+              <div className="d-flex flex-wrap justify-content-center">
                 {relatedByCast}
-              </ul>
+              </div>
             </div>
           </Row>
           <Row>
@@ -62,7 +67,7 @@ export const query = graphql`
             gatsby_image_path {
               childImageSharp {
                 gatsbyImageData(
-                  width: 200
+                  width: 300
                   placeholder: BLURRED
                 )
               }
