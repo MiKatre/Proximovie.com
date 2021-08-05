@@ -4,26 +4,18 @@ import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import { Container, Row } from 'react-bootstrap'
 import { Button } from 'react-bootstrap'
 import Layout from '../../components/Layout'
+import MovieList from '../../components/MovieList'
 
 const BlogPost = ({data}) => {
   console.log(data)
   const movie = data.allMoviesJson.edges[0].node
   const image = getImage(movie.gatsby_image_path)
-  const relatedByCast = movie.related_by_cast.map(i => {
-    let image = getImage(i.gatsby_image_path)
-  return (
-    <div className="m-2">
-      <Link to={`/movie/${i.slug}`}>
-        <GatsbyImage className="shadow rounded" image={image} alt=""/>
-      </Link>
-        {/* {i.title} */}
-    </div>
-  )})
+
   return (
     <Layout>
       <div className="">
-        <div className="m-auto text-center bg-dark py-2">
-          <GatsbyImage className="shadow rounded" image={image} alt=""/>
+        <div className="m-auto text-center bg-dark py-2 ">
+          <GatsbyImage className="shadow rounded m-md-0 mx-5 mb-3" image={image} alt=""/>
         </div>
 
         <Container fluid className="">
@@ -31,9 +23,7 @@ const BlogPost = ({data}) => {
             <h1 className="fw-bolder text-center pt-5">Similar movies</h1>
             <p className="text-center">Best movies like <em>{movie.title}</em></p>
             <div>
-              <div className="d-flex flex-wrap justify-content-center">
-                {relatedByCast}
-              </div>
+              <MovieList movies={movie.related_by_cast}/>
             </div>
           </Row>
           <Row>
@@ -41,9 +31,10 @@ const BlogPost = ({data}) => {
             <p className="text-center">Best movies like <em>{movie.title}</em> with similar plots</p>
             <p className="text-center"> 
             <Button className="mx-1" variant="dark" size="sm">Posters</Button>
-            <Button className="mx-1" variant="outline-dark" size="sm">Plot</Button>
-            <Button className="mx-1" variant="outline-dark" size="sm">Release year</Button>
-            <Button className="mx-1" variant="outline-dark" size="sm">Actors and casting</Button>
+            <Button className="mx-1" variant="outline-dark" size="sm">Titles</Button>
+            <Button className="mx-1" variant="outline-dark" size="sm">Plots</Button>
+            <Button className="mx-1" variant="outline-dark" size="sm">Release</Button>
+            <Button className="mx-1" variant="outline-dark" size="sm">Casting</Button>
             </p>
           </Row>
         </Container>
