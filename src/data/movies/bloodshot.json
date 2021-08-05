@@ -68,6 +68,11 @@
 			"slug":"the-seventh-day"
 		},
 		{
+			"title":"The Fate of the Furious",
+			"gatsby_image_path":"..\/..\/images\/the-fate-of-the-furious.jpg",
+			"slug":"the-fate-of-the-furious"
+		},
+		{
 			"title":"Spirit Untamed",
 			"gatsby_image_path":"..\/..\/images\/spirit-untamed.jpg",
 			"slug":"spirit-untamed"
@@ -78,9 +83,19 @@
 			"slug":"infinite"
 		},
 		{
+			"title":"Guardians of the Galaxy Vol. 2",
+			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy-vol-2.jpg",
+			"slug":"guardians-of-the-galaxy-vol-2"
+		},
+		{
 			"title":"Godzilla vs. Kong",
 			"gatsby_image_path":"..\/..\/images\/godzilla-vs.-kong.jpg",
 			"slug":"godzilla-vs.-kong"
+		},
+		{
+			"title":"Furious 7",
+			"gatsby_image_path":"..\/..\/images\/furious-7.jpg",
+			"slug":"furious-7"
 		},
 		{
 			"title":"Fast & Furious Presents: Hobbs & Shaw",
@@ -91,21 +106,6 @@
 			"title":"Fast & Furious 10",
 			"gatsby_image_path":"..\/..\/images\/fast-furious-10.jpg",
 			"slug":"fast-furious-10"
-		},
-		{
-			"title":"F9",
-			"gatsby_image_path":"..\/..\/images\/f9.jpg",
-			"slug":"f9"
-		},
-		{
-			"title":"Zack Snyder's Justice League",
-			"gatsby_image_path":"..\/..\/images\/zack-snyder's-justice-league.jpg",
-			"slug":"zack-snyder's-justice-league"
-		},
-		{
-			"title":"Xtreme",
-			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
-			"slug":"xtreme"
 		}
 	]
 }
