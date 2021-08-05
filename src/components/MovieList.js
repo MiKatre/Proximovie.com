@@ -4,7 +4,6 @@ import React from "react"
 import { img } from './movielist.module.css'
 
 const MovieList = ({movies})=> {
-    console.log(movies)
     if (!movies || !movies.length) return ''
     const list = movies.map(i => {
         let image = getImage(i.gatsby_image_path)

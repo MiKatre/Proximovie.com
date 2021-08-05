@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { graphql, Link } from 'gatsby' 
+import { graphql } from 'gatsby' 
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import { Container, Row } from 'react-bootstrap'
 import { Button } from 'react-bootstrap'
@@ -7,14 +7,13 @@ import Layout from '../../components/Layout'
 import MovieList from '../../components/MovieList'
 
 const BlogPost = ({data}) => {
-  console.log(data)
   const movie = data.allMoviesJson.edges[0].node
   const image = getImage(movie.gatsby_image_path)
 
   return (
     <Layout>
       <div className="">
-        <div className="m-auto text-center bg-dark py-2 ">
+        <div className="m-auto text-center py-4" style={{backgroundColor:"#131313"}}>
           <GatsbyImage className="shadow rounded m-md-0 mx-5 mb-3" image={image} alt=""/>
         </div>
 
