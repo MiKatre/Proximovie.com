@@ -17,7 +17,7 @@ const Navi = () => {
             <Container>
             <Navbar.Brand>
                 <Link to="/" className="text-decoration-none text-light">
-                    Cinetimes <em className="text-secondary">similar movies</em>
+                    <span className="fw-bold">Cinetimes</span> <em className="text-secondary">similar movies</em>
                 </Link>
             </Navbar.Brand>
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
