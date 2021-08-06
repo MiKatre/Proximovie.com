@@ -1,14 +1,20 @@
 import * as React from 'react'
-import { graphql } from 'gatsby' 
+import { graphql, Link } from 'gatsby' 
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import { Col, Container, Row } from 'react-bootstrap'
 import { Button } from 'react-bootstrap'
 import Layout from '../../components/Layout'
 import MovieList from '../../components/MovieList'
+import { slugify } from '../../utils/main'
 
-const BlogPost = ({data}) => {
+const MoviePage = ({data}) => {
   const movie = data.allMoviesJson.edges[0].node
   const image = getImage(movie.gatsby_image_path)
+  const genres = movie.genres.map(i => (<span className="text-secondary">, <Link className="text-decoration-none" to={`/genre/${slugify(i)}`}>{i}</Link></span>))
+  const countries = movie.production_countries.map(i => (<span className="text-secondary"><Link className="text-decoration-none" to={`/genre/${slugify(i)}`}>{i}</Link>, </span>))
+  const production = movie.production_companies.map(i => (<span className="text-secondary"><Link className="text-decoration-none" to={`/company/${slugify(i)}`}>{i}</Link>, </span>))
+  const actors = movie.cast.map(i => (<span className="text-secondary"><Link className="text-decoration-none" to={`/people/${slugify(i)}`}>{i}</Link>, </span>))
+  const crew = movie.crew.map(i => (<span className="text-secondary"><Link className="text-decoration-none" to={`/people/${slugify(i)}`}>{i}</Link>, </span>))
 
   return (
     <Layout>
@@ -17,16 +23,32 @@ const BlogPost = ({data}) => {
           
           <Container className="p-3" >
             <Row>
-              <Col className="text-end">
+              <Col xs={12} md={{ span: 4, offset: 1 }} lg={{ span: 3, offset: 2 }} className="text-center text-md-end">
                 <GatsbyImage className="shadow rounded m-md-0 mx-5 mb-3" image={image} alt={movie.title}/>
               </Col>
-              <Col>
-                <h1 className="display-6 fw-bold">{movie.title}</h1>
-                <p>{movie.release_date} <br/>
-                <span className="text-secondary">Actors</span>: Robert Downey Junior, Emma Watson   <br/>
-                <span className="text-secondary">Genres</span>: Action, Adventure, Fantastix <br/>
-                <span className="text-secondary">Countries</span>: United States <br/>
-                <span className="text-secondary">Production</span>: Marvel Studios Picture</p>
+              <Col xs={12} md={6} lg={5} className="bg-dark rounded-3 p-3 text-center text-md-start">
+                <h1 className="display-6 fw-bold mb-0">{movie.title}</h1>
+                <span className="text-secondary text-center text-md-start">{movie.release_date}</span> 
+                {genres}
+                <div className="text-start">
+                  <p>
+                    <span className="fw-bold text-secondary">Countries</span> <br/>
+                    {countries.slice(0, 4)} 
+                  </p>
+                  <p>
+                    <span className="fw-bold text-secondary">Producion companies</span> <br/>
+                    {production.slice(0, 4)}
+                  </p>
+                  <p>
+                    <span className="fw-bold text-secondary">Actors</span> <br/>
+                    {actors.slice(0, 4)}
+                  </p>
+
+                  <p>
+                    <span className="fw-bold text-secondary">Crew</span> <br/>
+                    {crew.slice(0, 4)}
+                  </p>
+                </div>
               </Col>
             </Row>
 
@@ -62,7 +84,7 @@ const BlogPost = ({data}) => {
   )
 }
 
-export default BlogPost
+export default MoviePage
 
 export const query = graphql`
   query MyQuery($id: String) {
@@ -70,7 +92,12 @@ export const query = graphql`
       edges {
         node {
           title
-          release_date(formatString: "MMMM D, YYYY")
+          release_date(formatString: "YYYY")
+          production_countries
+          production_companies
+          genres
+          cast
+          crew
           gatsby_image_path {
             childImageSharp {
               gatsbyImageData(
