@@ -7,7 +7,7 @@ import Jumbotron from '../components/Jumbotron'
 import SEO from '../components/Seo'
 
 const IndexPage = ({data}) => {
-  console.log(data)
+
   const recent = data.recent.edges
   const budget = data.budget.edges
 

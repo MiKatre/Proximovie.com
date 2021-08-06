@@ -19,8 +19,8 @@ const MoviePage = ({data}) => {
 
 
   const title = `Best movies like ${movie.title} (${movie.release_date})`
-  const description = `Discover movies like ${movie.title} - ${movie.related_by_cast[0].title}, ${movie.related_by_cast[1].title}, ${movie.related_by_cast[2].title}, ${movie.related_by_cast[3].title}`
-  console.log(image)
+  const description = `Discover movies like ${movie.title} (${movie.release_date}): ${movie.related_by_cast[0].title}, ${movie.related_by_cast[1].title}, ${movie.related_by_cast[2].title}, ${movie.related_by_cast[3].title}`
+
   return (
     <Layout>
       <SEO 
