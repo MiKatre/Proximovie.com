@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     siteUrl: "https://similar.cinetimes.org",
-    title: "Similar Movies",
-    titleTemplate: "%s · SimilariMovies",
+    title: "ProxiMovie - What to watch next",
+    titleTemplate: "%s · ProxiMovie",
     description:
     "Find movies that are similar to the ones you already enjoy. If you don't find here what to watch next, I am afraid there is no hope for you.",
     image: "/images/logo.png", 
