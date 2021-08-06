@@ -6,18 +6,29 @@ import { Button } from 'react-bootstrap'
 import Layout from '../../components/Layout'
 import MovieList from '../../components/MovieList'
 import { slugify } from '../../utils/main'
+import SEO from '../../components/Seo'
 
 const MoviePage = ({data}) => {
   const movie = data.allMoviesJson.edges[0].node
   const image = getImage(movie.gatsby_image_path)
   const genres = movie.genres.map(i => (<span className="text-secondary">, <Link className="text-decoration-none" to={`/genre/${slugify(i)}`}>{i}</Link></span>))
-  const countries = movie.production_countries.map(i => (<span className="text-secondary"><Link className="text-decoration-none" to={`/genre/${slugify(i)}`}>{i}</Link>, </span>))
+  const countries = movie.production_countries.map(i => (<span className="text-secondary"><Link className="text-decoration-none" to={`/country/${slugify(i)}`}>{i}</Link>, </span>))
   const production = movie.production_companies.map(i => (<span className="text-secondary"><Link className="text-decoration-none" to={`/company/${slugify(i)}`}>{i}</Link>, </span>))
   const actors = movie.cast.map(i => (<span className="text-secondary"><Link className="text-decoration-none" to={`/people/${slugify(i)}`}>{i}</Link>, </span>))
   const crew = movie.crew.map(i => (<span className="text-secondary"><Link className="text-decoration-none" to={`/people/${slugify(i)}`}>{i}</Link>, </span>))
 
+
+  const title = `Best movies like ${movie.title} (${movie.release_date})`
+  const description = `Discover movies like ${movie.title} - ${movie.related_by_cast[0].title}, ${movie.related_by_cast[1].title}, ${movie.related_by_cast[2].title}, ${movie.related_by_cast[3].title}`
+  console.log(image)
   return (
     <Layout>
+      <SEO 
+        title={title}
+        description={description}
+        image={image.images.fallback.src}
+        // article={}
+      />
       <div className="" >
         <div className="text-white" style={{backgroundColor:"#131313"}} > 
           

@@ -4,6 +4,7 @@ import Layout from '../components/Layout'
 import MovieList from '../components/MovieList'
 import { Container, Row } from 'react-bootstrap'
 import Jumbotron from '../components/Jumbotron'
+import SEO from '../components/Seo'
 
 const IndexPage = ({data}) => {
   console.log(data)
@@ -12,6 +13,7 @@ const IndexPage = ({data}) => {
 
   return (
     <Layout>
+      <SEO/>
       <Jumbotron/>
       <Container fluid className="">
       <Row>
