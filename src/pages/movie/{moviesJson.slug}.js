@@ -44,14 +44,17 @@ const BlogPost = ({data}) => {
           </Row>
           <Row>
             <h1 className="fw-bolder text-center pt-5">Movies with similar <em className="text-secondary">posters</em> </h1>
-            <p className="text-center">Best movies like <em>{movie.title}</em> with similar plots</p>
+            <p className="text-center">Best movies like <em>{movie.title}</em> with similar posters</p>
             <p className="text-center"> 
             <Button className="mx-1" variant="dark" size="sm">Posters</Button>
-            <Button className="mx-1" variant="outline-dark" size="sm">Titles</Button>
+            {/* <Button className="mx-1" variant="outline-dark" size="sm">Titles</Button>
             <Button className="mx-1" variant="outline-dark" size="sm">Plots</Button>
             <Button className="mx-1" variant="outline-dark" size="sm">Release</Button>
-            <Button className="mx-1" variant="outline-dark" size="sm">Casting</Button>
+            <Button className="mx-1" variant="outline-dark" size="sm">Casting</Button> */}
             </p>
+            <div>
+              <MovieList movies={movie.related_by_poster}/>
+            </div>
           </Row>
         </Container>
       </div>
@@ -68,6 +71,14 @@ export const query = graphql`
         node {
           title
           release_date(formatString: "MMMM D, YYYY")
+          gatsby_image_path {
+            childImageSharp {
+              gatsbyImageData(
+                width: 300
+                placeholder: BLURRED
+              )
+            }
+          }
           related_by_cast {
             title
             slug
@@ -80,12 +91,16 @@ export const query = graphql`
               }
             }
           }
-          gatsby_image_path {
-            childImageSharp {
-              gatsbyImageData(
-                width: 300
-                placeholder: BLURRED
-              )
+          related_by_poster {
+            title
+            slug
+            gatsby_image_path {
+              childImageSharp {
+                gatsbyImageData(
+                  width: 300
+                  placeholder: BLURRED
+                )
+              }
             }
           }
         }
