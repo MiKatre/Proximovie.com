@@ -11,7 +11,7 @@ const MovieList = ({movies})=> {
         return (
             <div className={img}>
                 <Link to={`/movie/${m.slug}`}>
-                    <GatsbyImage className="shadow rounded img-fluid" image={image} alt=""/>
+                    <GatsbyImage className="shadow rounded img-fluid" image={image} alt={m.title}/>
                 </Link>
             </div>
         )})

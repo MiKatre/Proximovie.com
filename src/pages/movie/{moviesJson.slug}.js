@@ -1,7 +1,7 @@
 import * as React from 'react'
 import { graphql } from 'gatsby' 
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
-import { Container, Row } from 'react-bootstrap'
+import { Col, Container, Row } from 'react-bootstrap'
 import { Button } from 'react-bootstrap'
 import Layout from '../../components/Layout'
 import MovieList from '../../components/MovieList'
@@ -12,10 +12,27 @@ const BlogPost = ({data}) => {
 
   return (
     <Layout>
-      <div className="">
-        <div className="m-auto text-center py-4" style={{backgroundColor:"#131313"}}>
-          <GatsbyImage className="shadow rounded m-md-0 mx-5 mb-3" image={image} alt=""/>
+      <div className="" >
+        <div className="text-white" style={{backgroundColor:"#131313"}} > 
+          
+          <Container className="p-3" >
+            <Row>
+              <Col className="text-end">
+                <GatsbyImage className="shadow rounded m-md-0 mx-5 mb-3" image={image} alt={movie.title}/>
+              </Col>
+              <Col>
+                <h1 className="display-6 fw-bold">{movie.title}</h1>
+                <p>{movie.release_date} <br/>
+                <span className="text-secondary">Actors</span>: Robert Downey Junior, Emma Watson   <br/>
+                <span className="text-secondary">Genres</span>: Action, Adventure, Fantastix <br/>
+                <span className="text-secondary">Countries</span>: United States <br/>
+                <span className="text-secondary">Production</span>: Marvel Studios Picture</p>
+              </Col>
+            </Row>
+
+          </Container>
         </div>
+
 
         <Container fluid className="">
           <Row>
@@ -66,7 +83,7 @@ export const query = graphql`
           gatsby_image_path {
             childImageSharp {
               gatsbyImageData(
-                width: 400
+                width: 300
                 placeholder: BLURRED
               )
             }
