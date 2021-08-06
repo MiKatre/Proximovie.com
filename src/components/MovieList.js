@@ -6,13 +6,13 @@ import { img } from './movielist.module.css'
 const MovieList = ({movies})=> {
     if (!movies || !movies.length) return ''
     const list = movies.map(i => {
-        let image = getImage(i.gatsby_image_path)
+        const m = "node" in i ? i.node : i ;
+        let image = getImage(m.gatsby_image_path)
         return (
             <div className={img}>
-                <Link to={`/movie/${i.slug}`}>
+                <Link to={`/movie/${m.slug}`}>
                     <GatsbyImage className="shadow rounded img-fluid" image={image} alt=""/>
                 </Link>
-
             </div>
         )})
     return (

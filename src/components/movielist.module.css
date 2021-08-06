@@ -12,18 +12,21 @@
 
 @media (min-width: 576px) { 
     .img {
-        max-width: 1000px;
-        margin: 0.5rem;
+        max-width: 12rem;
+        margin: 0.4rem;
     }
 }
 
 
 @media (min-width: 768px) { 
-    
+
 }
 
 @media (min-width: 992px) { 
-    
+    .img {
+        max-width: 1000px;
+        margin: 0.5rem;
+    }
 }
 
 @media (min-width: 1200px) { 
