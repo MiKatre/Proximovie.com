@@ -13,7 +13,7 @@ const IndexPage = ({data}) => {
   return (
     <Layout>
       <Jumbotron/>
-      <Container  className="">
+      <Container fluid className="">
       <Row>
           <h1 id="popular_movies" className="fw-bolder text-center pt-5 pb-3">Most popular movies</h1>
           {/* <p className="text-center">Best movies like </p> */}
