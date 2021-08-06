@@ -21,15 +21,16 @@ const MoviePage = ({data}) => {
       <div className="" >
         <div className="text-white" style={{backgroundColor:"#131313"}} > 
           
-          <Container className="p-3" >
+          <Container fluid className="p-3" >
             <Row>
-              <Col xs={12} md={{ span: 4, offset: 1 }} lg={{ span: 3, offset: 2 }} className="text-center text-md-end">
+              <Col xs={12} md={{ span: 4, offset: 0 }} lg={{ span: 3, offset: 2 }} className="text-center text-md-end">
                 <GatsbyImage className="shadow rounded m-md-0 mx-5 mb-3" image={image} alt={movie.title}/>
               </Col>
-              <Col xs={12} md={6} lg={5} className="bg-dark rounded-3 p-3 text-center text-md-start">
+              <Col xs={12} md={8} lg={6} className="bg-dark rounded-3 p-3 text-center text-md-start">
                 <h1 className="display-6 fw-bold mb-0">{movie.title}</h1>
                 <span className="text-secondary text-center text-md-start">{movie.release_date}</span> 
                 {genres}
+                
                 <div className="text-start">
                   <p>
                     <span className="fw-bold text-secondary">Countries</span> <br/>
