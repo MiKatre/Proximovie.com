@@ -1,0 +1,16 @@
+.pills-dark {
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+
+.pills-dark .active,
+.pills-dark .active button:hover {
+    color: #fff !important;
+    background-color: #1c1f23 !important;
+}
+.pills-dark button {
+    color: #1c1f23;
+    border: 1px solid black !important;
+    padding: 5px 10px;
+    margin: 0 10px;
+}

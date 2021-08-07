@@ -1,12 +1,14 @@
 import * as React from 'react'
 import { graphql, Link } from 'gatsby' 
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
-import { Col, Container, Row } from 'react-bootstrap'
+import { Col, Container, Row, Tabs } from 'react-bootstrap'
 import { Button } from 'react-bootstrap'
 import Layout from '../../components/Layout'
 import MovieList from '../../components/MovieList'
 import { slugify } from '../../utils/main'
 import SEO from '../../components/Seo'
+import { Tab } from 'bootstrap'
+import './movie.css'
 
 const MoviePage = ({data}) => {
   const movie = data.allMoviesJson.edges[0].node
@@ -80,15 +82,42 @@ const MoviePage = ({data}) => {
             <h1 className="fw-bolder text-center pt-5">Movies with similar <em className="text-secondary">posters</em> </h1>
             <p className="text-center">Best movies like <em>{movie.title}</em> with similar posters</p>
             <p className="text-center"> 
-            <Button className="mx-1" variant="dark" size="sm">Posters</Button>
+            {/* <Button className="mx-1" variant="dark" size="sm">Posters</Button> */}
+
+
+            <Tabs
+              defaultActiveKey="posters"
+              transition={false}
+              id="noanim-tab-example"
+              className="pills-dark"
+              variant="pills"
+            >
+
+              <Tab eventKey="posters" title="Posters" tabClassName="m-auto">
+                <div>
+                  <MovieList movies={movie.related_by_poster}/>
+                </div>
+              </Tab>
+              <Tab eventKey="actors" title="Actors">
+              <div>
+                <MovieList movies={movie.related_by_cast}/>
+              </div>
+              </Tab>
+
+            </Tabs>
+
+
             {/* <Button className="mx-1" variant="outline-dark" size="sm">Titles</Button>
             <Button className="mx-1" variant="outline-dark" size="sm">Plots</Button>
             <Button className="mx-1" variant="outline-dark" size="sm">Release</Button>
             <Button className="mx-1" variant="outline-dark" size="sm">Casting</Button> */}
             </p>
-            <div>
+            {/* <div>
               <MovieList movies={movie.related_by_poster}/>
-            </div>
+            </div> */}
+
+
+
           </Row>
         </Container>
       </div>
