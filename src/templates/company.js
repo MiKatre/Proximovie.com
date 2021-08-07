@@ -15,7 +15,12 @@ const Company = ({ pageContext, data }) => {
   } made by ${company}`
 
   const title = `Movies made by ${company} and similar`
-  const description = `Browse recent and popular ${company} movies such as ${recent[0].node.title}, ${recent[1].node.title}, ${budget[0].node.title}, ${budget[1].node.title}.`
+  let description
+  try {
+    description = `Browse recent and popular ${company} movies such as ${recent[0].node.title}, ${recent[1].node.title}, ${budget[0].node.title}, ${budget[1].node.title}.`
+  } catch (err) {
+    description = `Browse recent and popular ${company} movies such as ${recent[0].node.title} and ${budget[0].node.title}.`
+  }
   return (
       <Layout>
         <SEO 
