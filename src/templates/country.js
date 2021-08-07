@@ -32,15 +32,15 @@ const Country = ({ pageContext, data }) => {
 
             <h2 className="fw-bolder text-center pt-5">Recent Movies made in {country}  </h2>
             <p className="text-center">Last released movies produced in {country.toLowerCase()} </p>
-            <ul>
+            <div>
                 <MovieList movies={recent} />
-            </ul>
+            </div>
 
             <h2 className="fw-bolder text-center pt-5">Popular Movies made in {country} </h2>
             <p className="text-center">The most popular movies produced in {country.toLowerCase()} </p>
-            <ul>
+            <div>
                 <MovieList movies={budget} />
-            </ul>
+            </div>
         </div>
       </Layout>
   )

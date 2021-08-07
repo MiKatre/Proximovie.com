@@ -27,15 +27,15 @@ const Genres = ({ pageContext, data }) => {
 
             <h2 className="fw-bolder text-center pt-5">Recent {genre} Movies </h2>
             <p className="text-center">Last released {genre.toLowerCase()} movies </p>
-            <ul>
+            <div>
                 <MovieList movies={recent} />
-            </ul>
+            </div>
 
             <h2 className="fw-bolder text-center pt-5">Popular {genre} Movies </h2>
             <p className="text-center">The most popular {genre.toLowerCase()} movies </p>
-            <ul>
+            <div>
                 <MovieList movies={budget} />
-            </ul>
+            </div>
         </div>
       </Layout>
   )

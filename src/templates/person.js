@@ -37,17 +37,17 @@ const Person = ({ pageContext, data }) => {
 
             <h2 className="fw-bolder text-center pt-5">Recent {person} Movies </h2>
             <p className="text-center">Last released {person.toLowerCase()} movies </p>
-            <ul>
+            <div>
                 <MovieList movies={recent} />
                 <MovieList movies={recentCrew} />
-            </ul>
+            </div>
 
             <h2 className="fw-bolder text-center pt-5">Popular {person} Movies </h2>
             <p className="text-center">The most popular {person.toLowerCase()} movies </p>
-            <ul>
+            <div>
                 <MovieList movies={budget} />
                 <MovieList movies={budgetCrew} />
-            </ul>
+            </div>
         </div>
       </Layout>
   )
