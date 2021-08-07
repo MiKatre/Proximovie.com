@@ -16,7 +16,7 @@ const Genres = ({ pageContext, data }) => {
   }`
 
   const title = `${genre} movies and similar`
-  const description = `Browse recent and popular ${genre} movies such as ${recent[0].node.title}, ${recent[1].node.title}, ${recent[2].node.title}, ${recent[3].node.title}.`
+  const description = `Browse recent and popular ${genre} movies such as ${recent[0].node.title}, ${recent[1].node.title}, ${budget[0].node.title}, ${budget[1].node.title}.`
   return (
       <Layout>
         <SEO 
