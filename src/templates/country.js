@@ -15,7 +15,12 @@ const Country = ({ pageContext, data }) => {
   } made in ${country}`
 
   const title = `Movies made in ${country} and similar`
-  const description = `Browse recent and popular ${country} movies such as ${recent[0].node.title}, ${recent[1].node.title}, ${budget[0].node.title}, ${budget[1].node.title}.`
+  let description
+  try {
+    description = `Browse recent and popular movies made in ${country} such as ${recent[0].node.title}, ${recent[1].node.title}, ${budget[0].node.title}, ${budget[1].node.title}.`
+  } catch (err) {
+    description = `Browse recent and popular movies made in ${country} such as ${recent[0].node.title} and ${budget[0].node.title}.`
+  }
   return (
       <Layout>
         <SEO 
