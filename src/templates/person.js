@@ -21,11 +21,9 @@ const Person = ({ pageContext, data }) => {
   const title = `${person} movies and similar`
   let description = `Browse recent and popular movies and tv shows involving ${person}`
   try {
-    description = `Browse recent and popular ${person} movies and TV Shows such as ${recent[0].node.title} ${budget[0].node.title}}.`
+    description = `Browse recent and popular ${person} movies and TV Shows such as ${recent[0].node.title} ${budget[0].node.title}.`
 } catch (err) {
-    description = `Browse recent and popular ${person} movies and TV Shows such as ${recentCrew[0].node.title} ${budgetCrew[0].node.title}}.`
-  } finally {
-    description = `Browse recent and popular movies and tv shows involving ${person}`
+    description = `Browse recent and popular ${person} movies and TV Shows such as ${recentCrew[0].node.title} ${budgetCrew[0].node.title}.`
   }
 
   return (
