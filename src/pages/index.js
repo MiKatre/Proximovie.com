@@ -1,10 +1,10 @@
 import * as React from 'react'
-import { graphql, Link } from 'gatsby' 
+import { graphql } from 'gatsby' 
 import Layout from '../components/Layout'
 import MovieList from '../components/MovieList'
 import { Container, Row } from 'react-bootstrap'
 import Jumbotron from '../components/Jumbotron'
-import SEO from '../components/Seo'
+import Seo from '../components/Seo'
 
 const IndexPage = ({data}) => {
 
@@ -13,11 +13,11 @@ const IndexPage = ({data}) => {
 
   return (
     <Layout>
-      <SEO/>
+      <Seo/>
       <Jumbotron/>
       <Container fluid className="">
       <Row>
-          <h1 id="popular_movies" className="fw-bolder text-center pt-5 pb-3">Most popular movies</h1>
+          <h1 id="popular_movies" className="fw-bolder text-center pt-1 pt-md-5 pb-3">Most popular movies</h1>
           {/* <p className="text-center">Best movies like </p> */}
           <MovieList movies={budget}/>
         </Row>

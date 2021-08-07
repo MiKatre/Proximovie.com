@@ -3,7 +3,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import MovieList from "../components/MovieList"
 import Layout from "../components/Layout"
-import SEO from "../components/Seo"
+import Seo from "../components/Seo"
 
 const Country = ({ pageContext, data }) => {
   const { country } = pageContext
@@ -23,7 +23,7 @@ const Country = ({ pageContext, data }) => {
   }
   return (
       <Layout>
-        <SEO 
+        <Seo 
             title={title}
             description={description}
         />

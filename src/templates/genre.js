@@ -3,7 +3,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import MovieList from "../components/MovieList"
 import Layout from "../components/Layout"
-import SEO from "../components/Seo"
+import Seo from "../components/Seo"
 
 const Genres = ({ pageContext, data }) => {
   const { genre } = pageContext
@@ -18,7 +18,7 @@ const Genres = ({ pageContext, data }) => {
   const description = `Browse recent and popular ${genre} movies such as ${recent[0].node.title}, ${recent[1].node.title}, ${budget[0].node.title}, ${budget[1].node.title}.`
   return (
       <Layout>
-        <SEO 
+        <Seo 
             title={title}
             description={description}
         />

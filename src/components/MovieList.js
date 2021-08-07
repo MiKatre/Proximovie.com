@@ -1,7 +1,7 @@
 import { Link } from "gatsby"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import React from "react"
-import { img } from './movielist.module.css'
+import { wrapper } from './movielist.module.css'
 
 const MovieList = ({movies})=> {
     if (!movies || !movies.length) return ''
@@ -9,7 +9,7 @@ const MovieList = ({movies})=> {
         const m = "node" in i ? i.node : i ;
         let image = getImage(m.gatsby_image_path)
         return (
-            <div className={img}>
+            <div className={wrapper}>
                 <Link to={`/movie/${m.slug}`}>
                     <GatsbyImage className="shadow rounded img-fluid" image={image} alt={m.title}/>
                 </Link>

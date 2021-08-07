@@ -1,18 +1,18 @@
-.img {
-    max-width: 8rem;
+.wrapper {
+    max-width: 48%;
     margin: 0.1rem;
 }
 
-@media (min-width: 374px) { 
-    .img {
+/* @media (min-width: 374px) { 
+    .wrapper {
         max-width: 10rem;
         margin: 0.2rem;
     }
-}
+} */
 
 @media (min-width: 576px) { 
-    .img {
-        max-width: 12rem;
+    .wrapper {
+        max-width: 30%;
         margin: 0.4rem;
     }
 }
@@ -23,7 +23,7 @@
 }
 
 @media (min-width: 992px) { 
-    .img {
+    .wrapper {
         max-width: 1000px;
         margin: 0.5rem;
     }

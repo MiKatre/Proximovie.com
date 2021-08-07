@@ -5,7 +5,7 @@ import { Col, Container, Row, Tabs, Tab } from 'react-bootstrap'
 import Layout from '../../components/Layout'
 import MovieList from '../../components/MovieList'
 import { slugify } from '../../utils/main'
-import SEO from '../../components/Seo'
+import Seo from '../../components/Seo'
 import './movie.css'
 
 const MoviePage = ({data}) => {
@@ -23,10 +23,10 @@ const MoviePage = ({data}) => {
 
   return (
     <Layout>
-      <SEO 
+      <Seo 
         title={title}
         description={description}
-        image={image.images.fallback.src}
+        image={typeof image === "undefined" ? null : image.images.fallback.src}
       />
       <div className="" >
         <div className="text-white" style={{backgroundColor:"#131313"}} > 
