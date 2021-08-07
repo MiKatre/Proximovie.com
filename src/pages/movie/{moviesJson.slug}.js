@@ -73,7 +73,7 @@ const MoviePage = ({data}) => {
             <h1 className="fw-bolder text-center pt-5">Similar movies</h1>
             <p className="text-center">Best movies like <em>{movie.title}</em></p>
             <div>
-              <MovieList movies={movie.related_by_cast}/>
+              <MovieList movies={movie.related_most_similar}/>
             </div>
           </Row>
           <Row>
@@ -143,6 +143,18 @@ export const query = graphql`
                 width: 300
                 placeholder: BLURRED
               )
+            }
+          }
+          related_most_similar {
+            title
+            slug
+            gatsby_image_path {
+              childImageSharp {
+                gatsbyImageData(
+                  width: 300
+                  placeholder: BLURRED
+                )
+              }
             }
           }
           related_by_cast {
