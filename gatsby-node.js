@@ -1,11 +1,20 @@
 const path = require("path")
 const _ = require("lodash")
 
+function slugify(slug) {
+    if (!slug){
+      return ''
+    }
+    return slug.toLowerCase().replace(/ /g,'-').replace(/[^\w-]+/g,'')
+}
+
 exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions
 
   const genreTemplate = path.resolve("src/templates/genre.js")
   const personTemplate = path.resolve("src/templates/person.js")
+  const countryTemplate = path.resolve("src/templates/country.js")
+  const companyTemplate = path.resolve("src/templates/company.js")
 
   const result = await graphql(`
     {
@@ -24,6 +33,16 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
           fieldValue
         }
       }
+      countryGroup: allMoviesJson(limit: 2000) {
+        group(field: production_countries) {
+          fieldValue
+        }
+      }
+      companyGroup: allMoviesJson(limit: 2000) {
+        group(field: production_companies) {
+          fieldValue
+        }
+      }
     }
   `)
 
@@ -36,11 +55,13 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   // Extract tag data from query
   const genres = result.data.genresGroup.group
   const persons = [...result.data.castGroup.group,...result.data.crewGroup.group]
+  const countries = result.data.countryGroup.group
+  const companies = result.data.companyGroup.group
 
   // Make genre pages
   genres.forEach(genre => {
     createPage({
-      path: `/genre/${_.kebabCase(genre.fieldValue)}/`,
+      path: `/genre/${slugify(genre.fieldValue)}/`,
       component: genreTemplate,
       context: {
         genre: genre.fieldValue,
@@ -51,10 +72,32 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   // Make person pages
   persons.forEach(person => {
     createPage({
-      path: `/person/${_.kebabCase(person.fieldValue)}/`,
+      path: `/person/${slugify(person.fieldValue)}/`,
       component: personTemplate,
       context: {
         person: person.fieldValue,
+      },
+    })
+  })
+
+  // Make country pages
+  countries.forEach(country => {
+    createPage({
+      path: `/country/${slugify(country.fieldValue)}/`,
+      component: countryTemplate,
+      context: {
+        country: country.fieldValue,
+      },
+    })
+  })
+
+  // Make company pages
+  companies.forEach(company => {
+    createPage({
+      path: `/company/${slugify(company.fieldValue)}/`,
+      component: companyTemplate,
+      context: {
+        company: company.fieldValue,
       },
     })
   })
