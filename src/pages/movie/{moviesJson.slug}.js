@@ -1,13 +1,11 @@
 import * as React from 'react'
 import { graphql, Link } from 'gatsby' 
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
-import { Col, Container, Row, Tabs } from 'react-bootstrap'
-import { Button } from 'react-bootstrap'
+import { Col, Container, Row, Tabs, Tab } from 'react-bootstrap'
 import Layout from '../../components/Layout'
 import MovieList from '../../components/MovieList'
 import { slugify } from '../../utils/main'
 import SEO from '../../components/Seo'
-import { Tab } from 'bootstrap'
 import './movie.css'
 
 const MoviePage = ({data}) => {
