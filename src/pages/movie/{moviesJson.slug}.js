@@ -14,8 +14,8 @@ const MoviePage = ({data}) => {
   const genres = movie.genres.map(i => (<span className="text-secondary">, <Link className="text-decoration-none" to={`/genre/${slugify(i)}`}>{i}</Link></span>))
   const countries = movie.production_countries.map(i => (<span className="text-secondary"><Link className="text-decoration-none" to={`/country/${slugify(i)}`}>{i}</Link>, </span>))
   const production = movie.production_companies.map(i => (<span className="text-secondary"><Link className="text-decoration-none" to={`/company/${slugify(i)}`}>{i}</Link>, </span>))
-  const actors = movie.cast.map(i => (<span className="text-secondary"><Link className="text-decoration-none" to={`/people/${slugify(i)}`}>{i}</Link>, </span>))
-  const crew = movie.crew.map(i => (<span className="text-secondary"><Link className="text-decoration-none" to={`/people/${slugify(i)}`}>{i}</Link>, </span>))
+  const actors = movie.cast.map(i => (<span className="text-secondary"><Link className="text-decoration-none" to={`/person/${slugify(i)}`}>{i}</Link>, </span>))
+  const crew = movie.crew.map(i => (<span className="text-secondary"><Link className="text-decoration-none" to={`/person/${slugify(i)}`}>{i}</Link>, </span>))
 
 
   const title = `Best movies like ${movie.title} (${movie.release_date})`

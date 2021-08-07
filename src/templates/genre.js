@@ -1,14 +1,13 @@
 import React from "react"
-import PropTypes from "prop-types"
 
-import { Link, graphql } from "gatsby"
+import { graphql } from "gatsby"
 import MovieList from "../components/MovieList"
 import Layout from "../components/Layout"
 import SEO from "../components/Seo"
 
 const Genres = ({ pageContext, data }) => {
   const { genre } = pageContext
-  const { edges, totalCount } = data.recent
+  const { totalCount } = data.recent
   const recent = data.recent.edges
   const budget = data.budget.edges
   const genreHeader = `${genre} movie${
