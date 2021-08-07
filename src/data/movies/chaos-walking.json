@@ -66,9 +66,39 @@
 			"slug":"the-water-man"
 		},
 		{
+			"title":"The Nun",
+			"gatsby_image_path":"..\/..\/images\/the-nun.jpg",
+			"slug":"the-nun"
+		},
+		{
+			"title":"The Lost City of Z",
+			"gatsby_image_path":"..\/..\/images\/the-lost-city-of-z.jpg",
+			"slug":"the-lost-city-of-z"
+		},
+		{
+			"title":"The Blind Side",
+			"gatsby_image_path":"..\/..\/images\/the-blind-side.jpg",
+			"slug":"the-blind-side"
+		},
+		{
 			"title":"Star Wars: The Rise of Skywalker",
 			"gatsby_image_path":"..\/..\/images\/star-wars-the-rise-of-skywalker.jpg",
 			"slug":"star-wars-the-rise-of-skywalker"
+		},
+		{
+			"title":"Star Wars: The Last Jedi",
+			"gatsby_image_path":"..\/..\/images\/star-wars-the-last-jedi.jpg",
+			"slug":"star-wars-the-last-jedi"
+		},
+		{
+			"title":"Star Wars: The Force Awakens",
+			"gatsby_image_path":"..\/..\/images\/star-wars-the-force-awakens.jpg",
+			"slug":"star-wars-the-force-awakens"
+		},
+		{
+			"title":"Spies in Disguise",
+			"gatsby_image_path":"..\/..\/images\/spies-in-disguise.jpg",
+			"slug":"spies-in-disguise"
 		},
 		{
 			"title":"Spider-Man: No Way Home",
@@ -79,138 +109,6 @@
 			"title":"Spider-Man: Homecoming",
 			"gatsby_image_path":"..\/..\/images\/spider-man-homecoming.jpg",
 			"slug":"spider-man-homecoming"
-		},
-		{
-			"title":"Spider-Man: Far From Home",
-			"gatsby_image_path":"..\/..\/images\/spider-man-far-from-home.jpg",
-			"slug":"spider-man-far-from-home"
-		},
-		{
-			"title":"Peter Rabbit 2: The Runaway",
-			"gatsby_image_path":"..\/..\/images\/peter-rabbit-2-the-runaway.jpg",
-			"slug":"peter-rabbit-2-the-runaway"
-		},
-		{
-			"title":"Jumanji: The Next Level",
-			"gatsby_image_path":"..\/..\/images\/jumanji-the-next-level.jpg",
-			"slug":"jumanji-the-next-level"
-		},
-		{
-			"title":"Godzilla vs. Kong",
-			"gatsby_image_path":"..\/..\/images\/godzilla-vs.-kong.jpg",
-			"slug":"godzilla-vs.-kong"
-		},
-		{
-			"title":"Ford v Ferrari",
-			"gatsby_image_path":"..\/..\/images\/ford-v-ferrari.jpg",
-			"slug":"ford-v-ferrari"
-		},
-		{
-			"title":"Cherry",
-			"gatsby_image_path":"..\/..\/images\/cherry.jpg",
-			"slug":"cherry"
-		}
-	],
-	"related_by_poster":[
-		{
-			"title":"Penguin Bloom",
-			"gatsby_image_path":"..\/..\/images\/penguin-bloom.jpg",
-			"slug":"penguin-bloom"
-		},
-		{
-			"title":"A Score to Settle",
-			"gatsby_image_path":"..\/..\/images\/a-score-to-settle.jpg",
-			"slug":"a-score-to-settle"
-		},
-		{
-			"title":"Don't Breathe 2",
-			"gatsby_image_path":"..\/..\/images\/don't-breathe-2.jpg",
-			"slug":"don't-breathe-2"
-		},
-		{
-			"title":"Dark Phoenix",
-			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
-			"slug":"dark-phoenix"
-		},
-		{
-			"title":"Dancing Queens",
-			"gatsby_image_path":"..\/..\/images\/dancing-queens.jpg",
-			"slug":"dancing-queens"
-		},
-		{
-			"title":"No Sudden Move",
-			"gatsby_image_path":"..\/..\/images\/no-sudden-move.jpg",
-			"slug":"no-sudden-move"
-		},
-		{
-			"title":"Fifty Shades of Grey",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
-			"slug":"fifty-shades-of-grey"
-		},
-		{
-			"title":"Pirates of the Caribbean: At World's End",
-			"gatsby_image_path":"..\/..\/images\/pirates-of-the-caribbean-at-world's-end.jpg",
-			"slug":"pirates-of-the-caribbean-at-world's-end"
-		},
-		{
-			"title":"Harry Potter and the Philosopher's Stone",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher's-stone.jpg",
-			"slug":"harry-potter-and-the-philosopher's-stone"
-		},
-		{
-			"title":"The Water Man",
-			"gatsby_image_path":"..\/..\/images\/the-water-man.jpg",
-			"slug":"the-water-man"
-		},
-		{
-			"title":"The Conjuring: The Devil Made Me Do It",
-			"gatsby_image_path":"..\/..\/images\/the-conjuring-the-devil-made-me-do-it.jpg",
-			"slug":"the-conjuring-the-devil-made-me-do-it"
-		},
-		{
-			"title":"Avatar",
-			"gatsby_image_path":"..\/..\/images\/avatar.jpg",
-			"slug":"avatar"
-		},
-		{
-			"title":"Rurouni Kenshin Part I: Origins",
-			"gatsby_image_path":"..\/..\/images\/rurouni-kenshin-part-i-origins.jpg",
-			"slug":"rurouni-kenshin-part-i-origins"
-		},
-		{
-			"title":"Code 8",
-			"gatsby_image_path":"..\/..\/images\/code-8.jpg",
-			"slug":"code-8"
-		},
-		{
-			"title":"Harry Potter and the Prisoner of Azkaban",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-prisoner-of-azkaban.jpg",
-			"slug":"harry-potter-and-the-prisoner-of-azkaban"
-		},
-		{
-			"title":"Roald Dahl's The Witches",
-			"gatsby_image_path":"..\/..\/images\/roald-dahl's-the-witches.jpg",
-			"slug":"roald-dahl's-the-witches"
-		},
-		{
-			"title":"Harry Potter and the Goblet of Fire",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
-			"slug":"harry-potter-and-the-goblet-of-fire"
-		},
-		{
-			"title":"Cruella",
-			"gatsby_image_path":"..\/..\/images\/cruella.jpg",
-			"slug":"cruella"
-		},
-		{
-			"title":"Harry Potter and the Order of the Phoenix",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-order-of-the-phoenix.jpg",
-			"slug":"harry-potter-and-the-order-of-the-phoenix"
-		},
-		{
-			"title":"Awake",
-			"gatsby_image_path":"..\/..\/images\/awake.jpg",
-			"slug":"awake"
 		}
 	],
 	"related_most_similar":[
@@ -225,44 +123,146 @@
 			"slug":"star-wars-the-rise-of-skywalker"
 		},
 		{
-			"title":"Underwater",
-			"gatsby_image_path":"..\/..\/images\/underwater.jpg",
-			"slug":"underwater"
+			"title":"Solo: A Star Wars Story",
+			"gatsby_image_path":"..\/..\/images\/solo-a-star-wars-story.jpg",
+			"slug":"solo-a-star-wars-story"
 		},
 		{
-			"title":"The Water Man",
-			"gatsby_image_path":"..\/..\/images\/the-water-man.jpg",
-			"slug":"the-water-man"
+			"title":"Power Rangers",
+			"gatsby_image_path":"..\/..\/images\/power-rangers.jpg",
+			"slug":"power-rangers"
 		},
 		{
-			"title":"The Predator",
-			"gatsby_image_path":"..\/..\/images\/the-predator.jpg",
-			"slug":"the-predator"
+			"title":"Now You See Me 2",
+			"gatsby_image_path":"..\/..\/images\/now-you-see-me-2.jpg",
+			"slug":"now-you-see-me-2"
 		},
 		{
-			"title":"The Hitman's Bodyguard",
-			"gatsby_image_path":"..\/..\/images\/the-hitman's-bodyguard.jpg",
-			"slug":"the-hitman's-bodyguard"
+			"title":"Insurgent",
+			"gatsby_image_path":"..\/..\/images\/insurgent.jpg",
+			"slug":"insurgent"
 		},
 		{
-			"title":"Spiral: From the Book of Saw",
-			"gatsby_image_path":"..\/..\/images\/spiral-from-the-book-of-saw.jpg",
-			"slug":"spiral-from-the-book-of-saw"
+			"title":"How It Ends",
+			"gatsby_image_path":"..\/..\/images\/how-it-ends.jpg",
+			"slug":"how-it-ends"
 		},
 		{
-			"title":"Spider-Man: No Way Home",
-			"gatsby_image_path":"..\/..\/images\/spider-man-no-way-home.jpg",
-			"slug":"spider-man-no-way-home"
+			"title":"Gods of Egypt",
+			"gatsby_image_path":"..\/..\/images\/gods-of-egypt.jpg",
+			"slug":"gods-of-egypt"
 		},
 		{
-			"title":"Spider-Man: Homecoming",
-			"gatsby_image_path":"..\/..\/images\/spider-man-homecoming.jpg",
-			"slug":"spider-man-homecoming"
+			"title":"Don't Let Go",
+			"gatsby_image_path":"..\/..\/images\/don-t-let-go.jpg",
+			"slug":"don-t-let-go"
 		},
 		{
-			"title":"Spider-Man: Far From Home",
-			"gatsby_image_path":"..\/..\/images\/spider-man-far-from-home.jpg",
-			"slug":"spider-man-far-from-home"
+			"title":"Assassin's Creed",
+			"gatsby_image_path":"..\/..\/images\/assassin-s-creed.jpg",
+			"slug":"assassin-s-creed"
+		}
+	],
+	"related_by_poster":[
+		{
+			"title":"Souvenir",
+			"gatsby_image_path":"..\/..\/images\/souvenir.jpg",
+			"slug":"souvenir"
+		},
+		{
+			"title":"Penguin Bloom",
+			"gatsby_image_path":"..\/..\/images\/penguin-bloom.jpg",
+			"slug":"penguin-bloom"
+		},
+		{
+			"title":"A Werewolf Boy",
+			"gatsby_image_path":"..\/..\/images\/a-werewolf-boy.jpg",
+			"slug":"a-werewolf-boy"
+		},
+		{
+			"title":"The Unfamiliar",
+			"gatsby_image_path":"..\/..\/images\/the-unfamiliar.jpg",
+			"slug":"the-unfamiliar"
+		},
+		{
+			"title":"Se7en",
+			"gatsby_image_path":"..\/..\/images\/se7en.jpg",
+			"slug":"se7en"
+		},
+		{
+			"title":"Finding Grace",
+			"gatsby_image_path":"..\/..\/images\/finding-grace.jpg",
+			"slug":"finding-grace"
+		},
+		{
+			"title":"Unforgettable",
+			"gatsby_image_path":"..\/..\/images\/unforgettable.jpg",
+			"slug":"unforgettable"
+		},
+		{
+			"title":"Blue Miracle",
+			"gatsby_image_path":"..\/..\/images\/blue-miracle.jpg",
+			"slug":"blue-miracle"
+		},
+		{
+			"title":"Ella Enchanted",
+			"gatsby_image_path":"..\/..\/images\/ella-enchanted.jpg",
+			"slug":"ella-enchanted"
+		},
+		{
+			"title":"A Score to Settle",
+			"gatsby_image_path":"..\/..\/images\/a-score-to-settle.jpg",
+			"slug":"a-score-to-settle"
+		},
+		{
+			"title":"Greta",
+			"gatsby_image_path":"..\/..\/images\/greta.jpg",
+			"slug":"greta"
+		},
+		{
+			"title":"Black Box",
+			"gatsby_image_path":"..\/..\/images\/black-box.jpg",
+			"slug":"black-box"
+		},
+		{
+			"title":"The Twilight Saga: Breaking Dawn - Part 2",
+			"gatsby_image_path":"..\/..\/images\/the-twilight-saga-breaking-dawn-part-2.jpg",
+			"slug":"the-twilight-saga-breaking-dawn-part-2"
+		},
+		{
+			"title":"From Straight A's to XXX",
+			"gatsby_image_path":"..\/..\/images\/from-straight-a-s-to-xxx.jpg",
+			"slug":"from-straight-a-s-to-xxx"
+		},
+		{
+			"title":"Greenland",
+			"gatsby_image_path":"..\/..\/images\/greenland.jpg",
+			"slug":"greenland"
+		},
+		{
+			"title":"Insidious: Chapter 2",
+			"gatsby_image_path":"..\/..\/images\/insidious-chapter-2.jpg",
+			"slug":"insidious-chapter-2"
+		},
+		{
+			"title":"She's All That",
+			"gatsby_image_path":"..\/..\/images\/she-s-all-that.jpg",
+			"slug":"she-s-all-that"
+		},
+		{
+			"title":"Traffik",
+			"gatsby_image_path":"..\/..\/images\/traffik.jpg",
+			"slug":"traffik"
+		},
+		{
+			"title":"Don't Breathe 2",
+			"gatsby_image_path":"..\/..\/images\/don-t-breathe-2.jpg",
+			"slug":"don-t-breathe-2"
+		},
+		{
+			"title":"Final Destination 2",
+			"gatsby_image_path":"..\/..\/images\/final-destination-2.jpg",
+			"slug":"final-destination-2"
 		}
 	]
 }

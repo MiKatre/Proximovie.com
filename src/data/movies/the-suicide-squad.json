@@ -15,7 +15,7 @@
 		"The Safran Company",
 		"Warner Bros. Pictures"
 	],
-	"poster_path":"\/464N3J1i6L5SsazPmX9m3q1GiZ3.jpg",
+	"poster_path":"\/lSEr1nphZuCqXli3VziIgCI8Ivf.jpg",
 	"imdb_id":"tt6334354",
 	"original_title":"The Suicide Squad",
 	"overview":"Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
@@ -37,10 +37,10 @@
 		"Joel Kinnaman",
 		"Sylvester Stallone",
 		"Viola Davis",
-		"Jai Courtney",
-		"Peter Capaldi",
 		"David Dastmalchian",
-		"Daniela Melchior"
+		"Daniela Melchior",
+		"Michael Rooker",
+		"Jai Courtney"
 	],
 	"crew":[
 		"Charles Roven",
@@ -49,16 +49,51 @@
 		"Robert Fechtman",
 		"Judianna Makovsky",
 		"Anna MacKenzie",
+		"Paul Burke",
 		"Zack Snyder",
 		"James Gunn",
-		"James Gunn",
-		"Henry Braham"
+		"James Gunn"
 	],
 	"related_by_cast":[
+		{
+			"title":"Guardians of the Galaxy Vol. 2",
+			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy-vol-2.jpg",
+			"slug":"guardians-of-the-galaxy-vol-2"
+		},
+		{
+			"title":"F9",
+			"gatsby_image_path":"..\/..\/images\/f9.jpg",
+			"slug":"f9"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Vivo",
+			"gatsby_image_path":"..\/..\/images\/vivo.jpg",
+			"slug":"vivo"
+		},
+		{
+			"title":"Undisputed",
+			"gatsby_image_path":"..\/..\/images\/undisputed.jpg",
+			"slug":"undisputed"
+		},
+		{
+			"title":"Thor: The Dark World",
+			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
+			"slug":"thor-the-dark-world"
+		},
 		{
 			"title":"Thor: Ragnarok",
 			"gatsby_image_path":"..\/..\/images\/thor-ragnarok.jpg",
 			"slug":"thor-ragnarok"
+		},
+		{
+			"title":"Thor",
+			"gatsby_image_path":"..\/..\/images\/thor.jpg",
+			"slug":"thor"
 		},
 		{
 			"title":"The Wolf of Wall Street",
@@ -66,153 +101,31 @@
 			"slug":"the-wolf-of-wall-street"
 		},
 		{
-			"title":"Rambo: Last Blood",
-			"gatsby_image_path":"..\/..\/images\/rambo-last-blood.jpg",
-			"slug":"rambo-last-blood"
-		},
-		{
-			"title":"Peter Rabbit 2: The Runaway",
-			"gatsby_image_path":"..\/..\/images\/peter-rabbit-2-the-runaway.jpg",
-			"slug":"peter-rabbit-2-the-runaway"
-		},
-		{
-			"title":"Jolt",
-			"gatsby_image_path":"..\/..\/images\/jolt.jpg",
-			"slug":"jolt"
-		},
-		{
-			"title":"Honest Thief",
-			"gatsby_image_path":"..\/..\/images\/honest-thief.jpg",
-			"slug":"honest-thief"
-		},
-		{
-			"title":"Guardians of the Galaxy Vol. 2",
-			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy-vol-2.jpg",
-			"slug":"guardians-of-the-galaxy-vol-2"
-		},
-		{
-			"title":"Fast & Furious Presents: Hobbs & Shaw",
-			"gatsby_image_path":"..\/..\/images\/fast-furious-presents-hobbs-shaw.jpg",
-			"slug":"fast-furious-presents-hobbs-shaw"
-		},
-		{
-			"title":"Fast & Furious 10",
-			"gatsby_image_path":"..\/..\/images\/fast-furious-10.jpg",
-			"slug":"fast-furious-10"
-		},
-		{
-			"title":"F9",
-			"gatsby_image_path":"..\/..\/images\/f9.jpg",
-			"slug":"f9"
-		}
-	],
-	"related_by_poster":[
-		{
-			"title":"My Hero Academia: Two Heroes",
-			"gatsby_image_path":"..\/..\/images\/my-hero-academia-two-heroes.jpg",
-			"slug":"my-hero-academia-two-heroes"
-		},
-		{
-			"title":"The Croods: A New Age",
-			"gatsby_image_path":"..\/..\/images\/the-croods-a-new-age.jpg",
-			"slug":"the-croods-a-new-age"
-		},
-		{
-			"title":"PAW Patrol: The Movie",
-			"gatsby_image_path":"..\/..\/images\/paw-patrol-the-movie.jpg",
-			"slug":"paw-patrol-the-movie"
-		},
-		{
-			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
-			"gatsby_image_path":"..\/..\/images\/yu-gi-oh-the-dark-side-of-dimensions.jpg",
-			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
-		},
-		{
-			"title":"Roald Dahl's The Witches",
-			"gatsby_image_path":"..\/..\/images\/roald-dahl's-the-witches.jpg",
-			"slug":"roald-dahl's-the-witches"
-		},
-		{
-			"title":"Scooby-Doo! The Sword and the Scoob",
-			"gatsby_image_path":"..\/..\/images\/scooby-doo-the-sword-and-the-scoob.jpg",
-			"slug":"scooby-doo-the-sword-and-the-scoob"
-		},
-		{
-			"title":"The Doorman",
-			"gatsby_image_path":"..\/..\/images\/the-doorman.jpg",
-			"slug":"the-doorman"
-		},
-		{
-			"title":"Hotel Transylvania: Transformania",
-			"gatsby_image_path":"..\/..\/images\/hotel-transylvania-transformania.jpg",
-			"slug":"hotel-transylvania-transformania"
-		},
-		{
-			"title":"Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
-			"gatsby_image_path":"..\/..\/images\/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train.jpg",
-			"slug":"demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train"
-		},
-		{
-			"title":"Avengers: Infinity War",
-			"gatsby_image_path":"..\/..\/images\/avengers-infinity-war.jpg",
-			"slug":"avengers-infinity-war"
-		},
-		{
-			"title":"The Misfits",
-			"gatsby_image_path":"..\/..\/images\/the-misfits.jpg",
-			"slug":"the-misfits"
-		},
-		{
-			"title":"Psycho Goreman",
-			"gatsby_image_path":"..\/..\/images\/psycho-goreman.jpg",
-			"slug":"psycho-goreman"
-		},
-		{
-			"title":"Saint Seiya Heaven Chapter: Overture",
-			"gatsby_image_path":"..\/..\/images\/saint-seiya-heaven-chapter-overture.jpg",
-			"slug":"saint-seiya-heaven-chapter-overture"
-		},
-		{
-			"title":"Dark Phoenix",
-			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
-			"slug":"dark-phoenix"
-		},
-		{
-			"title":"Coco",
-			"gatsby_image_path":"..\/..\/images\/coco.jpg",
-			"slug":"coco"
-		},
-		{
-			"title":"Sing",
-			"gatsby_image_path":"..\/..\/images\/sing.jpg",
-			"slug":"sing"
-		},
-		{
-			"title":"Endangered Species",
-			"gatsby_image_path":"..\/..\/images\/endangered-species.jpg",
-			"slug":"endangered-species"
-		},
-		{
-			"title":"Naruto Shippuden the Movie: The Lost Tower",
-			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-the-lost-tower.jpg",
-			"slug":"naruto-shippuden-the-movie-the-lost-tower"
-		},
-		{
-			"title":"Dragon Ball Z: Cooler's Revenge",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-cooler's-revenge.jpg",
-			"slug":"dragon-ball-z-cooler's-revenge"
-		},
-		{
-			"title":"Toy Story",
-			"gatsby_image_path":"..\/..\/images\/toy-story.jpg",
-			"slug":"toy-story"
+			"title":"The Wall",
+			"gatsby_image_path":"..\/..\/images\/the-wall.jpg",
+			"slug":"the-wall"
 		}
 	],
 	"related_most_similar":[
 		{
 			"title":"Zack Snyder's Justice League",
-			"gatsby_image_path":"..\/..\/images\/zack-snyder's-justice-league.jpg",
-			"slug":"zack-snyder's-justice-league"
+			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
+			"slug":"zack-snyder-s-justice-league"
+		},
+		{
+			"title":"Justice League",
+			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
+			"slug":"justice-league"
+		},
+		{
+			"title":"Guardians of the Galaxy Vol. 3",
+			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy-vol-3.jpg",
+			"slug":"guardians-of-the-galaxy-vol-3"
+		},
+		{
+			"title":"Wonder Woman",
+			"gatsby_image_path":"..\/..\/images\/wonder-woman.jpg",
+			"slug":"wonder-woman"
 		},
 		{
 			"title":"Wonder Woman 1984",
@@ -225,39 +138,126 @@
 			"slug":"army-of-the-dead"
 		},
 		{
+			"title":"Aquaman",
+			"gatsby_image_path":"..\/..\/images\/aquaman.jpg",
+			"slug":"aquaman"
+		},
+		{
+			"title":"The Flash",
+			"gatsby_image_path":"..\/..\/images\/the-flash.jpg",
+			"slug":"the-flash"
+		},
+		{
 			"title":"Shazam!",
 			"gatsby_image_path":"..\/..\/images\/shazam.jpg",
 			"slug":"shazam"
 		},
 		{
-			"title":"Guardians of the Galaxy Vol. 2",
-			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy-vol-2.jpg",
-			"slug":"guardians-of-the-galaxy-vol-2"
+			"title":"Man of Steel",
+			"gatsby_image_path":"..\/..\/images\/man-of-steel.jpg",
+			"slug":"man-of-steel"
+		}
+	],
+	"related_by_poster":[
+		{
+			"title":"Justice League",
+			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
+			"slug":"justice-league"
 		},
 		{
-			"title":"Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
-			"gatsby_image_path":"..\/..\/images\/birds-of-prey-and-the-fantabulous-emancipation-of-one-harley-quinn.jpg",
-			"slug":"birds-of-prey-and-the-fantabulous-emancipation-of-one-harley-quinn"
+			"title":"Dragon Ball Z: The World's Strongest",
+			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-the-world-s-strongest.jpg",
+			"slug":"dragon-ball-z-the-world-s-strongest"
 		},
 		{
-			"title":"Thor: Ragnarok",
-			"gatsby_image_path":"..\/..\/images\/thor-ragnarok.jpg",
-			"slug":"thor-ragnarok"
+			"title":"The Night Comes for Us",
+			"gatsby_image_path":"..\/..\/images\/the-night-comes-for-us.jpg",
+			"slug":"the-night-comes-for-us"
 		},
 		{
-			"title":"The Avengers",
-			"gatsby_image_path":"..\/..\/images\/the-avengers.jpg",
-			"slug":"the-avengers"
+			"title":"Naruto Shippuden the Movie: The Will of Fire",
+			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-the-will-of-fire.jpg",
+			"slug":"naruto-shippuden-the-movie-the-will-of-fire"
 		},
 		{
-			"title":"Teen Titans Go! See Space Jam",
-			"gatsby_image_path":"..\/..\/images\/teen-titans-go-see-space-jam.jpg",
-			"slug":"teen-titans-go-see-space-jam"
+			"title":"Next Avengers: Heroes of Tomorrow",
+			"gatsby_image_path":"..\/..\/images\/next-avengers-heroes-of-tomorrow.jpg",
+			"slug":"next-avengers-heroes-of-tomorrow"
 		},
 		{
-			"title":"Creed II",
-			"gatsby_image_path":"..\/..\/images\/creed-ii.jpg",
-			"slug":"creed-ii"
+			"title":"Pokémon the Movie: Volcanion and the Mechanical Marvel",
+			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-volcanion-and-the-mechanical-marvel.jpg",
+			"slug":"pokémon-the-movie-volcanion-and-the-mechanical-marvel"
+		},
+		{
+			"title":"Rio 2",
+			"gatsby_image_path":"..\/..\/images\/rio-2.jpg",
+			"slug":"rio-2"
+		},
+		{
+			"title":"Descendants 3",
+			"gatsby_image_path":"..\/..\/images\/descendants-3.jpg",
+			"slug":"descendants-3"
+		},
+		{
+			"title":"Nanny McPhee",
+			"gatsby_image_path":"..\/..\/images\/nanny-mcphee.jpg",
+			"slug":"nanny-mcphee"
+		},
+		{
+			"title":"Bright",
+			"gatsby_image_path":"..\/..\/images\/bright.jpg",
+			"slug":"bright"
+		},
+		{
+			"title":"The Croods: A New Age",
+			"gatsby_image_path":"..\/..\/images\/the-croods-a-new-age.jpg",
+			"slug":"the-croods-a-new-age"
+		},
+		{
+			"title":"Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+			"gatsby_image_path":"..\/..\/images\/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train.jpg",
+			"slug":"demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train"
+		},
+		{
+			"title":"Eiga: Kakegurui",
+			"gatsby_image_path":"..\/..\/images\/eiga-kakegurui.jpg",
+			"slug":"eiga-kakegurui"
+		},
+		{
+			"title":"Scouts Guide to the Zombie Apocalypse",
+			"gatsby_image_path":"..\/..\/images\/scouts-guide-to-the-zombie-apocalypse.jpg",
+			"slug":"scouts-guide-to-the-zombie-apocalypse"
+		},
+		{
+			"title":"Dragon Ball Z: The Tree of Might",
+			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-the-tree-of-might.jpg",
+			"slug":"dragon-ball-z-the-tree-of-might"
+		},
+		{
+			"title":"Scary Movie 3",
+			"gatsby_image_path":"..\/..\/images\/scary-movie-3.jpg",
+			"slug":"scary-movie-3"
+		},
+		{
+			"title":"One Piece Film: GOLD",
+			"gatsby_image_path":"..\/..\/images\/one-piece-film-gold.jpg",
+			"slug":"one-piece-film-gold"
+		},
+		{
+			"title":"Astro Boy",
+			"gatsby_image_path":"..\/..\/images\/astro-boy.jpg",
+			"slug":"astro-boy"
+		},
+		{
+			"title":"Naruto Shippuden the Movie: The Lost Tower",
+			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-the-lost-tower.jpg",
+			"slug":"naruto-shippuden-the-movie-the-lost-tower"
+		},
+		{
+			"title":"Justice League: Gods and Monsters",
+			"gatsby_image_path":"..\/..\/images\/justice-league-gods-and-monsters.jpg",
+			"slug":"justice-league-gods-and-monsters"
 		}
 	]
 }

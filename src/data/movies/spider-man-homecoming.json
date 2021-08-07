@@ -65,146 +65,44 @@
 			"slug":"spider-man-no-way-home"
 		},
 		{
+			"title":"Iron Man",
+			"gatsby_image_path":"..\/..\/images\/iron-man.jpg",
+			"slug":"iron-man"
+		},
+		{
+			"title":"Iron Man 3",
+			"gatsby_image_path":"..\/..\/images\/iron-man-3.jpg",
+			"slug":"iron-man-3"
+		},
+		{
+			"title":"Solo: A Star Wars Story",
+			"gatsby_image_path":"..\/..\/images\/solo-a-star-wars-story.jpg",
+			"slug":"solo-a-star-wars-story"
+		},
+		{
+			"title":"Iron Man 2",
+			"gatsby_image_path":"..\/..\/images\/iron-man-2.jpg",
+			"slug":"iron-man-2"
+		},
+		{
 			"title":"Avengers: Infinity War",
 			"gatsby_image_path":"..\/..\/images\/avengers-infinity-war.jpg",
 			"slug":"avengers-infinity-war"
 		},
 		{
-			"title":"The First Purge",
-			"gatsby_image_path":"..\/..\/images\/the-first-purge.jpg",
-			"slug":"the-first-purge"
+			"title":"The Lost City of Z",
+			"gatsby_image_path":"..\/..\/images\/the-lost-city-of-z.jpg",
+			"slug":"the-lost-city-of-z"
 		},
 		{
-			"title":"The Avengers",
-			"gatsby_image_path":"..\/..\/images\/the-avengers.jpg",
-			"slug":"the-avengers"
+			"title":"The Jungle Book",
+			"gatsby_image_path":"..\/..\/images\/the-jungle-book.jpg",
+			"slug":"the-jungle-book"
 		},
 		{
-			"title":"Space Jam: A New Legacy",
-			"gatsby_image_path":"..\/..\/images\/space-jam-a-new-legacy.jpg",
-			"slug":"space-jam-a-new-legacy"
-		},
-		{
-			"title":"Cherry",
-			"gatsby_image_path":"..\/..\/images\/cherry.jpg",
-			"slug":"cherry"
-		},
-		{
-			"title":"Chaos Walking",
-			"gatsby_image_path":"..\/..\/images\/chaos-walking.jpg",
-			"slug":"chaos-walking"
-		},
-		{
-			"title":"Captain America: Civil War",
-			"gatsby_image_path":"..\/..\/images\/captain-america-civil-war.jpg",
-			"slug":"captain-america-civil-war"
-		},
-		{
-			"title":"Avengers: Endgame",
-			"gatsby_image_path":"..\/..\/images\/avengers-endgame.jpg",
-			"slug":"avengers-endgame"
-		}
-	],
-	"related_by_poster":[
-		{
-			"title":"Big Hero 6",
-			"gatsby_image_path":"..\/..\/images\/big-hero-6.jpg",
-			"slug":"big-hero-6"
-		},
-		{
-			"title":"The Tomorrow War",
-			"gatsby_image_path":"..\/..\/images\/the-tomorrow-war.jpg",
-			"slug":"the-tomorrow-war"
-		},
-		{
-			"title":"Harry Potter and the Philosopher's Stone",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher's-stone.jpg",
-			"slug":"harry-potter-and-the-philosopher's-stone"
-		},
-		{
-			"title":"Crawl",
-			"gatsby_image_path":"..\/..\/images\/crawl.jpg",
-			"slug":"crawl"
-		},
-		{
-			"title":"Star Wars: The Rise of Skywalker",
-			"gatsby_image_path":"..\/..\/images\/star-wars-the-rise-of-skywalker.jpg",
-			"slug":"star-wars-the-rise-of-skywalker"
-		},
-		{
-			"title":"Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
-			"gatsby_image_path":"..\/..\/images\/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train.jpg",
-			"slug":"demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train"
-		},
-		{
-			"title":"The Viking War",
-			"gatsby_image_path":"..\/..\/images\/the-viking-war.jpg",
-			"slug":"the-viking-war"
-		},
-		{
-			"title":"6 Underground",
-			"gatsby_image_path":"..\/..\/images\/6-underground.jpg",
-			"slug":"6-underground"
-		},
-		{
-			"title":"Breach",
-			"gatsby_image_path":"..\/..\/images\/breach.jpg",
-			"slug":"breach"
-		},
-		{
-			"title":"Extraction",
-			"gatsby_image_path":"..\/..\/images\/extraction.jpg",
-			"slug":"extraction"
-		},
-		{
-			"title":"Skylines",
-			"gatsby_image_path":"..\/..\/images\/skylines.jpg",
-			"slug":"skylines"
-		},
-		{
-			"title":"Alita: Battle Angel",
-			"gatsby_image_path":"..\/..\/images\/alita-battle-angel.jpg",
-			"slug":"alita-battle-angel"
-		},
-		{
-			"title":"Naruto Shippuden the Movie: The Lost Tower",
-			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-the-lost-tower.jpg",
-			"slug":"naruto-shippuden-the-movie-the-lost-tower"
-		},
-		{
-			"title":"The Water Man",
-			"gatsby_image_path":"..\/..\/images\/the-water-man.jpg",
-			"slug":"the-water-man"
-		},
-		{
-			"title":"Peninsula",
-			"gatsby_image_path":"..\/..\/images\/peninsula.jpg",
-			"slug":"peninsula"
-		},
-		{
-			"title":"How I Became a Superhero",
-			"gatsby_image_path":"..\/..\/images\/how-i-became-a-superhero.jpg",
-			"slug":"how-i-became-a-superhero"
-		},
-		{
-			"title":"Harry Potter and the Prisoner of Azkaban",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-prisoner-of-azkaban.jpg",
-			"slug":"harry-potter-and-the-prisoner-of-azkaban"
-		},
-		{
-			"title":"My Hero Academia: Two Heroes",
-			"gatsby_image_path":"..\/..\/images\/my-hero-academia-two-heroes.jpg",
-			"slug":"my-hero-academia-two-heroes"
-		},
-		{
-			"title":"Jiu Jitsu",
-			"gatsby_image_path":"..\/..\/images\/jiu-jitsu.jpg",
-			"slug":"jiu-jitsu"
-		},
-		{
-			"title":"Miraculous World: New York, United HeroeZ",
-			"gatsby_image_path":"..\/..\/images\/miraculous-world-new-york-united-heroez.jpg",
-			"slug":"miraculous-world-new-york-united-heroez"
+			"title":"The Greatest Showman",
+			"gatsby_image_path":"..\/..\/images\/the-greatest-showman.jpg",
+			"slug":"the-greatest-showman"
 		}
 	],
 	"related_most_similar":[
@@ -219,9 +117,29 @@
 			"slug":"spider-man-no-way-home"
 		},
 		{
+			"title":"Thor",
+			"gatsby_image_path":"..\/..\/images\/thor.jpg",
+			"slug":"thor"
+		},
+		{
 			"title":"Spider-Man: Into the Spider-Verse",
 			"gatsby_image_path":"..\/..\/images\/spider-man-into-the-spider-verse.jpg",
 			"slug":"spider-man-into-the-spider-verse"
+		},
+		{
+			"title":"Iron Man",
+			"gatsby_image_path":"..\/..\/images\/iron-man.jpg",
+			"slug":"iron-man"
+		},
+		{
+			"title":"Iron Man 3",
+			"gatsby_image_path":"..\/..\/images\/iron-man-3.jpg",
+			"slug":"iron-man-3"
+		},
+		{
+			"title":"Iron Man 2",
+			"gatsby_image_path":"..\/..\/images\/iron-man-2.jpg",
+			"slug":"iron-man-2"
 		},
 		{
 			"title":"Avengers: Endgame",
@@ -229,34 +147,116 @@
 			"slug":"avengers-endgame"
 		},
 		{
+			"title":"Doctor Strange",
+			"gatsby_image_path":"..\/..\/images\/doctor-strange.jpg",
+			"slug":"doctor-strange"
+		},
+		{
 			"title":"Avengers: Infinity War",
 			"gatsby_image_path":"..\/..\/images\/avengers-infinity-war.jpg",
 			"slug":"avengers-infinity-war"
+		}
+	],
+	"related_by_poster":[
+		{
+			"title":"A Christmas Carol",
+			"gatsby_image_path":"..\/..\/images\/a-christmas-carol.jpg",
+			"slug":"a-christmas-carol"
 		},
 		{
-			"title":"Avengers: Age of Ultron",
-			"gatsby_image_path":"..\/..\/images\/avengers-age-of-ultron.jpg",
-			"slug":"avengers-age-of-ultron"
+			"title":"Kingsglaive: Final Fantasy XV",
+			"gatsby_image_path":"..\/..\/images\/kingsglaive-final-fantasy-xv.jpg",
+			"slug":"kingsglaive-final-fantasy-xv"
 		},
 		{
-			"title":"Ant-Man and the Wasp",
-			"gatsby_image_path":"..\/..\/images\/ant-man-and-the-wasp.jpg",
-			"slug":"ant-man-and-the-wasp"
+			"title":"Big Hero 6",
+			"gatsby_image_path":"..\/..\/images\/big-hero-6.jpg",
+			"slug":"big-hero-6"
 		},
 		{
-			"title":"Thor: Ragnarok",
-			"gatsby_image_path":"..\/..\/images\/thor-ragnarok.jpg",
-			"slug":"thor-ragnarok"
+			"title":"Justice League vs. Teen Titans",
+			"gatsby_image_path":"..\/..\/images\/justice-league-vs.-teen-titans.jpg",
+			"slug":"justice-league-vs.-teen-titans"
 		},
 		{
-			"title":"Captain Marvel",
-			"gatsby_image_path":"..\/..\/images\/captain-marvel.jpg",
-			"slug":"captain-marvel"
+			"title":"The 5th Wave",
+			"gatsby_image_path":"..\/..\/images\/the-5th-wave.jpg",
+			"slug":"the-5th-wave"
 		},
 		{
-			"title":"Black Panther",
-			"gatsby_image_path":"..\/..\/images\/black-panther.jpg",
-			"slug":"black-panther"
+			"title":"The Tomorrow War",
+			"gatsby_image_path":"..\/..\/images\/the-tomorrow-war.jpg",
+			"slug":"the-tomorrow-war"
+		},
+		{
+			"title":"Teen Titans: The Judas Contract",
+			"gatsby_image_path":"..\/..\/images\/teen-titans-the-judas-contract.jpg",
+			"slug":"teen-titans-the-judas-contract"
+		},
+		{
+			"title":"The Night Comes for Us",
+			"gatsby_image_path":"..\/..\/images\/the-night-comes-for-us.jpg",
+			"slug":"the-night-comes-for-us"
+		},
+		{
+			"title":"Insidious: The Last Key",
+			"gatsby_image_path":"..\/..\/images\/insidious-the-last-key.jpg",
+			"slug":"insidious-the-last-key"
+		},
+		{
+			"title":"In the Shadow of the Moon",
+			"gatsby_image_path":"..\/..\/images\/in-the-shadow-of-the-moon.jpg",
+			"slug":"in-the-shadow-of-the-moon"
+		},
+		{
+			"title":"Pokémon the Movie: Volcanion and the Mechanical Marvel",
+			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-volcanion-and-the-mechanical-marvel.jpg",
+			"slug":"pokémon-the-movie-volcanion-and-the-mechanical-marvel"
+		},
+		{
+			"title":"Tom and Jerry: The Fast and the Furry",
+			"gatsby_image_path":"..\/..\/images\/tom-and-jerry-the-fast-and-the-furry.jpg",
+			"slug":"tom-and-jerry-the-fast-and-the-furry"
+		},
+		{
+			"title":"How to Train Your Dragon 2",
+			"gatsby_image_path":"..\/..\/images\/how-to-train-your-dragon-2.jpg",
+			"slug":"how-to-train-your-dragon-2"
+		},
+		{
+			"title":"Iron Man 3",
+			"gatsby_image_path":"..\/..\/images\/iron-man-3.jpg",
+			"slug":"iron-man-3"
+		},
+		{
+			"title":"Paradise Beach",
+			"gatsby_image_path":"..\/..\/images\/paradise-beach.jpg",
+			"slug":"paradise-beach"
+		},
+		{
+			"title":"Alpha",
+			"gatsby_image_path":"..\/..\/images\/alpha.jpg",
+			"slug":"alpha"
+		},
+		{
+			"title":"The Viking War",
+			"gatsby_image_path":"..\/..\/images\/the-viking-war.jpg",
+			"slug":"the-viking-war"
+		},
+		{
+			"title":"Harry Potter and the Philosopher's Stone",
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher-s-stone.jpg",
+			"slug":"harry-potter-and-the-philosopher-s-stone"
+		},
+		{
+			"title":"Sword Art Online: The Movie - Ordinal Scale",
+			"gatsby_image_path":"..\/..\/images\/sword-art-online-the-movie-ordinal-scale.jpg",
+			"slug":"sword-art-online-the-movie-ordinal-scale"
+		},
+		{
+			"title":"Ellipse",
+			"gatsby_image_path":"..\/..\/images\/ellipse.jpg",
+			"slug":"ellipse"
 		}
 	]
 }

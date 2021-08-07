@@ -60,9 +60,44 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Twilight",
+			"gatsby_image_path":"..\/..\/images\/twilight.jpg",
+			"slug":"twilight"
+		},
+		{
+			"title":"The Seven Deadly Sins the Movie: Cursed by Light",
+			"gatsby_image_path":"..\/..\/images\/the-seven-deadly-sins-the-movie-cursed-by-light.jpg",
+			"slug":"the-seven-deadly-sins-the-movie-cursed-by-light"
+		},
+		{
+			"title":"Space Pirate Captain Harlock",
+			"gatsby_image_path":"..\/..\/images\/space-pirate-captain-harlock.jpg",
+			"slug":"space-pirate-captain-harlock"
+		},
+		{
 			"title":"Psycho-Pass 3: First Inspector",
 			"gatsby_image_path":"..\/..\/images\/psycho-pass-3-first-inspector.jpg",
 			"slug":"psycho-pass-3-first-inspector"
+		},
+		{
+			"title":"Princess Mononoke",
+			"gatsby_image_path":"..\/..\/images\/princess-mononoke.jpg",
+			"slug":"princess-mononoke"
+		},
+		{
+			"title":"Pokémon the Movie: Volcanion and the Mechanical Marvel",
+			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-volcanion-and-the-mechanical-marvel.jpg",
+			"slug":"pokémon-the-movie-volcanion-and-the-mechanical-marvel"
+		},
+		{
+			"title":"Pokémon the Movie: Hoopa and the Clash of Ages",
+			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-hoopa-and-the-clash-of-ages.jpg",
+			"slug":"pokémon-the-movie-hoopa-and-the-clash-of-ages"
+		},
+		{
+			"title":"My Neighbor Totoro",
+			"gatsby_image_path":"..\/..\/images\/my-neighbor-totoro.jpg",
+			"slug":"my-neighbor-totoro"
 		},
 		{
 			"title":"My Hero Academia: World Heroes' Mission",
@@ -73,150 +108,43 @@
 			"title":"My Hero Academia: Two Heroes",
 			"gatsby_image_path":"..\/..\/images\/my-hero-academia-two-heroes.jpg",
 			"slug":"my-hero-academia-two-heroes"
-		},
-		{
-			"title":"My Hero Academia: Heroes Rising",
-			"gatsby_image_path":"..\/..\/images\/my-hero-academia-heroes-rising.jpg",
-			"slug":"my-hero-academia-heroes-rising"
-		},
-		{
-			"title":"Godzilla vs. Kong",
-			"gatsby_image_path":"..\/..\/images\/godzilla-vs.-kong.jpg",
-			"slug":"godzilla-vs.-kong"
-		},
-		{
-			"title":"Zombieland: Double Tap",
-			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
-			"slug":"zombieland-double-tap"
-		},
-		{
-			"title":"Zack Snyder's Justice League",
-			"gatsby_image_path":"..\/..\/images\/zack-snyder's-justice-league.jpg",
-			"slug":"zack-snyder's-justice-league"
-		},
-		{
-			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
-			"gatsby_image_path":"..\/..\/images\/yu-gi-oh-the-dark-side-of-dimensions.jpg",
-			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
-		},
-		{
-			"title":"Your Name.",
-			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
-			"slug":"your-name"
-		},
-		{
-			"title":"Young Sister-in-law 3 - 2019",
-			"gatsby_image_path":"..\/..\/images\/young-sister-in-law-3-2019.jpg",
-			"slug":"young-sister-in-law-3-2019"
-		}
-	],
-	"related_by_poster":[
-		{
-			"title":"Your Name.",
-			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
-			"slug":"your-name"
-		},
-		{
-			"title":"The Tomorrow War",
-			"gatsby_image_path":"..\/..\/images\/the-tomorrow-war.jpg",
-			"slug":"the-tomorrow-war"
-		},
-		{
-			"title":"Fear of Rain",
-			"gatsby_image_path":"..\/..\/images\/fear-of-rain.jpg",
-			"slug":"fear-of-rain"
-		},
-		{
-			"title":"Cowboys",
-			"gatsby_image_path":"..\/..\/images\/cowboys.jpg",
-			"slug":"cowboys"
-		},
-		{
-			"title":"Breakthrough",
-			"gatsby_image_path":"..\/..\/images\/breakthrough.jpg",
-			"slug":"breakthrough"
-		},
-		{
-			"title":"6 Underground",
-			"gatsby_image_path":"..\/..\/images\/6-underground.jpg",
-			"slug":"6-underground"
-		},
-		{
-			"title":"The Water Man",
-			"gatsby_image_path":"..\/..\/images\/the-water-man.jpg",
-			"slug":"the-water-man"
-		},
-		{
-			"title":"Devoto, la invasión silenciosa",
-			"gatsby_image_path":"..\/..\/images\/devoto-la-invasión-silenciosa.jpg",
-			"slug":"devoto-la-invasión-silenciosa"
-		},
-		{
-			"title":"Harry Potter and the Prisoner of Azkaban",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-prisoner-of-azkaban.jpg",
-			"slug":"harry-potter-and-the-prisoner-of-azkaban"
-		},
-		{
-			"title":"Extraction",
-			"gatsby_image_path":"..\/..\/images\/extraction.jpg",
-			"slug":"extraction"
-		},
-		{
-			"title":"Call Me by Your Name",
-			"gatsby_image_path":"..\/..\/images\/call-me-by-your-name.jpg",
-			"slug":"call-me-by-your-name"
-		},
-		{
-			"title":"Alita: Battle Angel",
-			"gatsby_image_path":"..\/..\/images\/alita-battle-angel.jpg",
-			"slug":"alita-battle-angel"
-		},
-		{
-			"title":"Bloodshot",
-			"gatsby_image_path":"..\/..\/images\/bloodshot.jpg",
-			"slug":"bloodshot"
-		},
-		{
-			"title":"Fifty Shades of Grey",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
-			"slug":"fifty-shades-of-grey"
-		},
-		{
-			"title":"Ready Player One",
-			"gatsby_image_path":"..\/..\/images\/ready-player-one.jpg",
-			"slug":"ready-player-one"
-		},
-		{
-			"title":"Harry Potter and the Order of the Phoenix",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-order-of-the-phoenix.jpg",
-			"slug":"harry-potter-and-the-order-of-the-phoenix"
-		},
-		{
-			"title":"Rascal Does Not Dream of a Dreaming Girl",
-			"gatsby_image_path":"..\/..\/images\/rascal-does-not-dream-of-a-dreaming-girl.jpg",
-			"slug":"rascal-does-not-dream-of-a-dreaming-girl"
-		},
-		{
-			"title":"Star Wars: The Rise of Skywalker",
-			"gatsby_image_path":"..\/..\/images\/star-wars-the-rise-of-skywalker.jpg",
-			"slug":"star-wars-the-rise-of-skywalker"
-		},
-		{
-			"title":"Harry Potter and the Philosopher's Stone",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher's-stone.jpg",
-			"slug":"harry-potter-and-the-philosopher's-stone"
-		},
-		{
-			"title":"The First Purge",
-			"gatsby_image_path":"..\/..\/images\/the-first-purge.jpg",
-			"slug":"the-first-purge"
 		}
 	],
 	"related_most_similar":[
 		{
-			"title":"Your Name.",
+			"title":"The Garden of Words",
+			"gatsby_image_path":"..\/..\/images\/the-garden-of-words.jpg",
+			"slug":"the-garden-of-words"
+		},
+		{
+			"title":"5 Centimeters per Second",
+			"gatsby_image_path":"..\/..\/images\/5-centimeters-per-second.jpg",
+			"slug":"5-centimeters-per-second"
+		},
+		{
+			"title":"Fireworks",
+			"gatsby_image_path":"..\/..\/images\/fireworks.jpg",
+			"slug":"fireworks"
+		},
+		{
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
+		},
+		{
+			"title":"Ride Your Wave",
+			"gatsby_image_path":"..\/..\/images\/ride-your-wave.jpg",
+			"slug":"ride-your-wave"
+		},
+		{
+			"title":"The Boy and the Beast",
+			"gatsby_image_path":"..\/..\/images\/the-boy-and-the-beast.jpg",
+			"slug":"the-boy-and-the-beast"
+		},
+		{
+			"title":"Wolf Children",
+			"gatsby_image_path":"..\/..\/images\/wolf-children.jpg",
+			"slug":"wolf-children"
 		},
 		{
 			"title":"Rascal Does Not Dream of a Dreaming Girl",
@@ -232,36 +160,108 @@
 			"title":"My Hero Academia: Two Heroes",
 			"gatsby_image_path":"..\/..\/images\/my-hero-academia-two-heroes.jpg",
 			"slug":"my-hero-academia-two-heroes"
+		}
+	],
+	"related_by_poster":[
+		{
+			"title":"The Tomorrow War",
+			"gatsby_image_path":"..\/..\/images\/the-tomorrow-war.jpg",
+			"slug":"the-tomorrow-war"
 		},
 		{
-			"title":"My Hero Academia: Heroes Rising",
-			"gatsby_image_path":"..\/..\/images\/my-hero-academia-heroes-rising.jpg",
-			"slug":"my-hero-academia-heroes-rising"
+			"title":"Eternal Sunshine of the Spotless Mind",
+			"gatsby_image_path":"..\/..\/images\/eternal-sunshine-of-the-spotless-mind.jpg",
+			"slug":"eternal-sunshine-of-the-spotless-mind"
 		},
 		{
-			"title":"Naruto Shippuden the Movie: Road to Ninja",
-			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-road-to-ninja.jpg",
-			"slug":"naruto-shippuden-the-movie-road-to-ninja"
+			"title":"Jupiter Ascending",
+			"gatsby_image_path":"..\/..\/images\/jupiter-ascending.jpg",
+			"slug":"jupiter-ascending"
 		},
 		{
-			"title":"My Hero Academia: World Heroes' Mission",
-			"gatsby_image_path":"..\/..\/images\/my-hero-academia-world-heroes-mission.jpg",
-			"slug":"my-hero-academia-world-heroes-mission"
+			"title":"Underworld",
+			"gatsby_image_path":"..\/..\/images\/underworld.jpg",
+			"slug":"underworld"
 		},
 		{
-			"title":"I Want to Eat Your Pancreas",
-			"gatsby_image_path":"..\/..\/images\/i-want-to-eat-your-pancreas.jpg",
-			"slug":"i-want-to-eat-your-pancreas"
+			"title":"The Evil Dead",
+			"gatsby_image_path":"..\/..\/images\/the-evil-dead.jpg",
+			"slug":"the-evil-dead"
 		},
 		{
-			"title":"Given",
-			"gatsby_image_path":"..\/..\/images\/given.jpg",
-			"slug":"given"
+			"title":"Chronicle",
+			"gatsby_image_path":"..\/..\/images\/chronicle.jpg",
+			"slug":"chronicle"
 		},
 		{
-			"title":"Evangelion: 3.0+1.0 Thrice Upon a Time",
-			"gatsby_image_path":"..\/..\/images\/evangelion-3.0-+1.0-thrice-upon-a-time.jpg",
-			"slug":"evangelion-3.0-+1.0-thrice-upon-a-time"
+			"title":"The Shack",
+			"gatsby_image_path":"..\/..\/images\/the-shack.jpg",
+			"slug":"the-shack"
+		},
+		{
+			"title":"Porno Unplugged",
+			"gatsby_image_path":"..\/..\/images\/porno-unplugged.jpg",
+			"slug":"porno-unplugged"
+		},
+		{
+			"title":"Bohemian Rhapsody",
+			"gatsby_image_path":"..\/..\/images\/bohemian-rhapsody.jpg",
+			"slug":"bohemian-rhapsody"
+		},
+		{
+			"title":"50 Greatest Harry Potter Moments",
+			"gatsby_image_path":"..\/..\/images\/50-greatest-harry-potter-moments.jpg",
+			"slug":"50-greatest-harry-potter-moments"
+		},
+		{
+			"title":"Cowboys",
+			"gatsby_image_path":"..\/..\/images\/cowboys.jpg",
+			"slug":"cowboys"
+		},
+		{
+			"title":"Fantasia",
+			"gatsby_image_path":"..\/..\/images\/fantasia.jpg",
+			"slug":"fantasia"
+		},
+		{
+			"title":"Fear of Rain",
+			"gatsby_image_path":"..\/..\/images\/fear-of-rain.jpg",
+			"slug":"fear-of-rain"
+		},
+		{
+			"title":"Breakthrough",
+			"gatsby_image_path":"..\/..\/images\/breakthrough.jpg",
+			"slug":"breakthrough"
+		},
+		{
+			"title":"5 Centimeters per Second",
+			"gatsby_image_path":"..\/..\/images\/5-centimeters-per-second.jpg",
+			"slug":"5-centimeters-per-second"
+		},
+		{
+			"title":"Sword Art Online: The Movie - Ordinal Scale",
+			"gatsby_image_path":"..\/..\/images\/sword-art-online-the-movie-ordinal-scale.jpg",
+			"slug":"sword-art-online-the-movie-ordinal-scale"
+		},
+		{
+			"title":"Pandemic",
+			"gatsby_image_path":"..\/..\/images\/pandemic.jpg",
+			"slug":"pandemic"
+		},
+		{
+			"title":"All the Devil's Men",
+			"gatsby_image_path":"..\/..\/images\/all-the-devil-s-men.jpg",
+			"slug":"all-the-devil-s-men"
+		},
+		{
+			"title":"How to Train Your Dragon 2",
+			"gatsby_image_path":"..\/..\/images\/how-to-train-your-dragon-2.jpg",
+			"slug":"how-to-train-your-dragon-2"
+		},
+		{
+			"title":"X-Men: Days of Future Past",
+			"gatsby_image_path":"..\/..\/images\/x-men-days-of-future-past.jpg",
+			"slug":"x-men-days-of-future-past"
 		}
 	]
 }

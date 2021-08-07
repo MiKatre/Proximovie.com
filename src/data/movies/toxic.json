@@ -49,14 +49,34 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
 			"title":"Zombieland: Double Tap",
 			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
 			"slug":"zombieland-double-tap"
 		},
 		{
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
+		},
+		{
 			"title":"Zack Snyder's Justice League",
-			"gatsby_image_path":"..\/..\/images\/zack-snyder's-justice-league.jpg",
-			"slug":"zack-snyder's-justice-league"
+			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
+			"slug":"zack-snyder-s-justice-league"
+		},
+		{
+			"title":"Zack and Miri Make a Porno",
+			"gatsby_image_path":"..\/..\/images\/zack-and-miri-make-a-porno.jpg",
+			"slug":"zack-and-miri-make-a-porno"
 		},
 		{
 			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
@@ -64,7 +84,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -74,131 +94,9 @@
 			"slug":"young-sister-in-law-3-2019"
 		},
 		{
-			"title":"Xtreme",
-			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
-			"slug":"xtreme"
-		},
-		{
-			"title":"Xico's Journey",
-			"gatsby_image_path":"..\/..\/images\/xico's-journey.jpg",
-			"slug":"xico's-journey"
-		},
-		{
-			"title":"Wrong Turn",
-			"gatsby_image_path":"..\/..\/images\/wrong-turn.jpg",
-			"slug":"wrong-turn"
-		},
-		{
-			"title":"Wrath of Man",
-			"gatsby_image_path":"..\/..\/images\/wrath-of-man.jpg",
-			"slug":"wrath-of-man"
-		},
-		{
-			"title":"Wonder Woman 1984",
-			"gatsby_image_path":"..\/..\/images\/wonder-woman-1984.jpg",
-			"slug":"wonder-woman-1984"
-		}
-	],
-	"related_by_poster":[
-		{
-			"title":"Dark Phoenix",
-			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
-			"slug":"dark-phoenix"
-		},
-		{
-			"title":"Fifty Shades of Grey",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
-			"slug":"fifty-shades-of-grey"
-		},
-		{
-			"title":"Harry Potter and the Deathly Hallows: Part 1",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-deathly-hallows-part-1.jpg",
-			"slug":"harry-potter-and-the-deathly-hallows-part-1"
-		},
-		{
-			"title":"Ashfall",
-			"gatsby_image_path":"..\/..\/images\/ashfall.jpg",
-			"slug":"ashfall"
-		},
-		{
-			"title":"Pokémon the Movie: I Choose You!",
-			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-i-choose-you.jpg",
-			"slug":"pokémon-the-movie-i-choose-you"
-		},
-		{
-			"title":"Hitman's Wife's Bodyguard",
-			"gatsby_image_path":"..\/..\/images\/hitman's-wife's-bodyguard.jpg",
-			"slug":"hitman's-wife's-bodyguard"
-		},
-		{
-			"title":"Harry Potter and the Goblet of Fire",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
-			"slug":"harry-potter-and-the-goblet-of-fire"
-		},
-		{
-			"title":"Harry Potter and the Prisoner of Azkaban",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-prisoner-of-azkaban.jpg",
-			"slug":"harry-potter-and-the-prisoner-of-azkaban"
-		},
-		{
-			"title":"Devoto, la invasión silenciosa",
-			"gatsby_image_path":"..\/..\/images\/devoto-la-invasión-silenciosa.jpg",
-			"slug":"devoto-la-invasión-silenciosa"
-		},
-		{
-			"title":"Harry Potter and the Philosopher's Stone",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher's-stone.jpg",
-			"slug":"harry-potter-and-the-philosopher's-stone"
-		},
-		{
-			"title":"Fear of Rain",
-			"gatsby_image_path":"..\/..\/images\/fear-of-rain.jpg",
-			"slug":"fear-of-rain"
-		},
-		{
-			"title":"Breach",
-			"gatsby_image_path":"..\/..\/images\/breach.jpg",
-			"slug":"breach"
-		},
-		{
-			"title":"The First Purge",
-			"gatsby_image_path":"..\/..\/images\/the-first-purge.jpg",
-			"slug":"the-first-purge"
-		},
-		{
-			"title":"The Hitman's Bodyguard",
-			"gatsby_image_path":"..\/..\/images\/the-hitman's-bodyguard.jpg",
-			"slug":"the-hitman's-bodyguard"
-		},
-		{
-			"title":"Jiu Jitsu",
-			"gatsby_image_path":"..\/..\/images\/jiu-jitsu.jpg",
-			"slug":"jiu-jitsu"
-		},
-		{
-			"title":"Batman: Death in the Family",
-			"gatsby_image_path":"..\/..\/images\/batman-death-in-the-family.jpg",
-			"slug":"batman-death-in-the-family"
-		},
-		{
-			"title":"Rurouni Kenshin Part I: Origins",
-			"gatsby_image_path":"..\/..\/images\/rurouni-kenshin-part-i-origins.jpg",
-			"slug":"rurouni-kenshin-part-i-origins"
-		},
-		{
-			"title":"Avatar",
-			"gatsby_image_path":"..\/..\/images\/avatar.jpg",
-			"slug":"avatar"
-		},
-		{
-			"title":"No Sudden Move",
-			"gatsby_image_path":"..\/..\/images\/no-sudden-move.jpg",
-			"slug":"no-sudden-move"
-		},
-		{
-			"title":"Fifty Shades Freed",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-freed.jpg",
-			"slug":"fifty-shades-freed"
+			"title":"Yes Day",
+			"gatsby_image_path":"..\/..\/images\/yes-day.jpg",
+			"slug":"yes-day"
 		}
 	],
 	"related_most_similar":[
@@ -208,49 +106,151 @@
 			"slug":"devoto-la-invasión-silenciosa"
 		},
 		{
+			"title":"The Platform",
+			"gatsby_image_path":"..\/..\/images\/the-platform.jpg",
+			"slug":"the-platform"
+		},
+		{
+			"title":"The Last Man",
+			"gatsby_image_path":"..\/..\/images\/the-last-man.jpg",
+			"slug":"the-last-man"
+		},
+		{
+			"title":"The Hypocrites",
+			"gatsby_image_path":"..\/..\/images\/the-hypocrites.jpg",
+			"slug":"the-hypocrites"
+		},
+		{
 			"title":"The Heist of the Century",
 			"gatsby_image_path":"..\/..\/images\/the-heist-of-the-century.jpg",
 			"slug":"the-heist-of-the-century"
 		},
 		{
-			"title":"Underwater",
-			"gatsby_image_path":"..\/..\/images\/underwater.jpg",
-			"slug":"underwater"
+			"title":"La sabiduría",
+			"gatsby_image_path":"..\/..\/images\/la-sabiduría.jpg",
+			"slug":"la-sabiduría"
 		},
 		{
-			"title":"The Purge",
-			"gatsby_image_path":"..\/..\/images\/the-purge.jpg",
-			"slug":"the-purge"
+			"title":"Expansivas",
+			"gatsby_image_path":"..\/..\/images\/expansivas.jpg",
+			"slug":"expansivas"
 		},
 		{
-			"title":"The Maze Runner",
-			"gatsby_image_path":"..\/..\/images\/the-maze-runner.jpg",
-			"slug":"the-maze-runner"
+			"title":"4x4",
+			"gatsby_image_path":"..\/..\/images\/4x4.jpg",
+			"slug":"4x4"
 		},
 		{
-			"title":"The Funeral Home",
-			"gatsby_image_path":"..\/..\/images\/the-funeral-home.jpg",
-			"slug":"the-funeral-home"
+			"title":"World War Z",
+			"gatsby_image_path":"..\/..\/images\/world-war-z.jpg",
+			"slug":"world-war-z"
 		},
 		{
-			"title":"The First Purge",
-			"gatsby_image_path":"..\/..\/images\/the-first-purge.jpg",
-			"slug":"the-first-purge"
+			"title":"What Happened to Monday",
+			"gatsby_image_path":"..\/..\/images\/what-happened-to-monday.jpg",
+			"slug":"what-happened-to-monday"
+		}
+	],
+	"related_by_poster":[
+		{
+			"title":"Mad World",
+			"gatsby_image_path":"..\/..\/images\/mad-world.jpg",
+			"slug":"mad-world"
 		},
 		{
-			"title":"The Blackout",
-			"gatsby_image_path":"..\/..\/images\/the-blackout.jpg",
-			"slug":"the-blackout"
+			"title":"Robert Reborn",
+			"gatsby_image_path":"..\/..\/images\/robert-reborn.jpg",
+			"slug":"robert-reborn"
 		},
 		{
-			"title":"Tenet",
-			"gatsby_image_path":"..\/..\/images\/tenet.jpg",
-			"slug":"tenet"
+			"title":"Max Steel",
+			"gatsby_image_path":"..\/..\/images\/max-steel.jpg",
+			"slug":"max-steel"
 		},
 		{
-			"title":"Oxygen",
-			"gatsby_image_path":"..\/..\/images\/oxygen.jpg",
-			"slug":"oxygen"
+			"title":"The Ring Two",
+			"gatsby_image_path":"..\/..\/images\/the-ring-two.jpg",
+			"slug":"the-ring-two"
+		},
+		{
+			"title":"Dark Phoenix",
+			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
+			"slug":"dark-phoenix"
+		},
+		{
+			"title":"A Christmas Carol",
+			"gatsby_image_path":"..\/..\/images\/a-christmas-carol.jpg",
+			"slug":"a-christmas-carol"
+		},
+		{
+			"title":"Backdraft 2",
+			"gatsby_image_path":"..\/..\/images\/backdraft-2.jpg",
+			"slug":"backdraft-2"
+		},
+		{
+			"title":"Lights Out",
+			"gatsby_image_path":"..\/..\/images\/lights-out.jpg",
+			"slug":"lights-out"
+		},
+		{
+			"title":"Fifty Shades of Grey",
+			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
+			"slug":"fifty-shades-of-grey"
+		},
+		{
+			"title":"The Legend of Tarzan",
+			"gatsby_image_path":"..\/..\/images\/the-legend-of-tarzan.jpg",
+			"slug":"the-legend-of-tarzan"
+		},
+		{
+			"title":"Ghosts of War",
+			"gatsby_image_path":"..\/..\/images\/ghosts-of-war.jpg",
+			"slug":"ghosts-of-war"
+		},
+		{
+			"title":"Justice League: Gods and Monsters",
+			"gatsby_image_path":"..\/..\/images\/justice-league-gods-and-monsters.jpg",
+			"slug":"justice-league-gods-and-monsters"
+		},
+		{
+			"title":"Jumanji: Welcome to the Jungle",
+			"gatsby_image_path":"..\/..\/images\/jumanji-welcome-to-the-jungle.jpg",
+			"slug":"jumanji-welcome-to-the-jungle"
+		},
+		{
+			"title":"Harry Potter and the Deathly Hallows: Part 1",
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-deathly-hallows-part-1.jpg",
+			"slug":"harry-potter-and-the-deathly-hallows-part-1"
+		},
+		{
+			"title":"Fucking Different XXX",
+			"gatsby_image_path":"..\/..\/images\/fucking-different-xxx.jpg",
+			"slug":"fucking-different-xxx"
+		},
+		{
+			"title":"Rise of the Guardians",
+			"gatsby_image_path":"..\/..\/images\/rise-of-the-guardians.jpg",
+			"slug":"rise-of-the-guardians"
+		},
+		{
+			"title":"Edge of Tomorrow",
+			"gatsby_image_path":"..\/..\/images\/edge-of-tomorrow.jpg",
+			"slug":"edge-of-tomorrow"
+		},
+		{
+			"title":"Guardians of the Galaxy Vol. 3",
+			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy-vol-3.jpg",
+			"slug":"guardians-of-the-galaxy-vol-3"
+		},
+		{
+			"title":"Kingsglaive: Final Fantasy XV",
+			"gatsby_image_path":"..\/..\/images\/kingsglaive-final-fantasy-xv.jpg",
+			"slug":"kingsglaive-final-fantasy-xv"
+		},
+		{
+			"title":"Pokémon the Movie: I Choose You!",
+			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-i-choose-you.jpg",
+			"slug":"pokémon-the-movie-i-choose-you"
 		}
 	]
 }

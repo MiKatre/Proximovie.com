@@ -27,14 +27,14 @@
 	"cast":[
 		"Robert Downey Jr.",
 		"Chris Hemsworth",
+		"Mark Ruffalo",
 		"Chris Evans",
 		"Scarlett Johansson",
 		"Benedict Cumberbatch",
 		"Tom Holland",
 		"Chadwick Boseman",
 		"Don Cheadle",
-		"Zoe Saldana",
-		"Karen Gillan"
+		"Zoe Saldana"
 	],
 	"crew":[
 		"Alan Silvestri",
@@ -55,11 +55,6 @@
 			"slug":"avengers-endgame"
 		},
 		{
-			"title":"Captain America: Civil War",
-			"gatsby_image_path":"..\/..\/images\/captain-america-civil-war.jpg",
-			"slug":"captain-america-civil-war"
-		},
-		{
 			"title":"Avengers: Age of Ultron",
 			"gatsby_image_path":"..\/..\/images\/avengers-age-of-ultron.jpg",
 			"slug":"avengers-age-of-ultron"
@@ -70,9 +65,24 @@
 			"slug":"the-avengers"
 		},
 		{
+			"title":"Captain America: Civil War",
+			"gatsby_image_path":"..\/..\/images\/captain-america-civil-war.jpg",
+			"slug":"captain-america-civil-war"
+		},
+		{
 			"title":"Thor: Ragnarok",
 			"gatsby_image_path":"..\/..\/images\/thor-ragnarok.jpg",
 			"slug":"thor-ragnarok"
+		},
+		{
+			"title":"Iron Man 2",
+			"gatsby_image_path":"..\/..\/images\/iron-man-2.jpg",
+			"slug":"iron-man-2"
+		},
+		{
+			"title":"Star Trek Into Darkness",
+			"gatsby_image_path":"..\/..\/images\/star-trek-into-darkness.jpg",
+			"slug":"star-trek-into-darkness"
 		},
 		{
 			"title":"Spider-Man: No Way Home",
@@ -85,121 +95,9 @@
 			"slug":"spider-man-homecoming"
 		},
 		{
-			"title":"Guardians of the Galaxy Vol. 2",
-			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy-vol-2.jpg",
-			"slug":"guardians-of-the-galaxy-vol-2"
-		},
-		{
-			"title":"The Hobbit: The Battle of the Five Armies",
-			"gatsby_image_path":"..\/..\/images\/the-hobbit-the-battle-of-the-five-armies.jpg",
-			"slug":"the-hobbit-the-battle-of-the-five-armies"
-		},
-		{
-			"title":"Spider-Man: Far From Home",
-			"gatsby_image_path":"..\/..\/images\/spider-man-far-from-home.jpg",
-			"slug":"spider-man-far-from-home"
-		}
-	],
-	"related_by_poster":[
-		{
-			"title":"Guardians of the Galaxy Vol. 2",
-			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy-vol-2.jpg",
-			"slug":"guardians-of-the-galaxy-vol-2"
-		},
-		{
-			"title":"Avengers: Endgame",
-			"gatsby_image_path":"..\/..\/images\/avengers-endgame.jpg",
-			"slug":"avengers-endgame"
-		},
-		{
-			"title":"Dark Phoenix",
-			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
-			"slug":"dark-phoenix"
-		},
-		{
-			"title":"Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
-			"gatsby_image_path":"..\/..\/images\/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train.jpg",
-			"slug":"demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train"
-		},
-		{
-			"title":"Peninsula",
-			"gatsby_image_path":"..\/..\/images\/peninsula.jpg",
-			"slug":"peninsula"
-		},
-		{
-			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
-			"gatsby_image_path":"..\/..\/images\/yu-gi-oh-the-dark-side-of-dimensions.jpg",
-			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
-		},
-		{
-			"title":"Psycho Goreman",
-			"gatsby_image_path":"..\/..\/images\/psycho-goreman.jpg",
-			"slug":"psycho-goreman"
-		},
-		{
-			"title":"The Tax Collector",
-			"gatsby_image_path":"..\/..\/images\/the-tax-collector.jpg",
-			"slug":"the-tax-collector"
-		},
-		{
-			"title":"My Hero Academia: Two Heroes",
-			"gatsby_image_path":"..\/..\/images\/my-hero-academia-two-heroes.jpg",
-			"slug":"my-hero-academia-two-heroes"
-		},
-		{
-			"title":"Naruto Shippuden the Movie: The Lost Tower",
-			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-the-lost-tower.jpg",
-			"slug":"naruto-shippuden-the-movie-the-lost-tower"
-		},
-		{
-			"title":"Hitman's Wife's Bodyguard",
-			"gatsby_image_path":"..\/..\/images\/hitman's-wife's-bodyguard.jpg",
-			"slug":"hitman's-wife's-bodyguard"
-		},
-		{
-			"title":"Phineas and Ferb: The Movie: Candace Against the Universe",
-			"gatsby_image_path":"..\/..\/images\/phineas-and-ferb-the-movie-candace-against-the-universe.jpg",
-			"slug":"phineas-and-ferb-the-movie-candace-against-the-universe"
-		},
-		{
-			"title":"Roald Dahl's The Witches",
-			"gatsby_image_path":"..\/..\/images\/roald-dahl's-the-witches.jpg",
-			"slug":"roald-dahl's-the-witches"
-		},
-		{
-			"title":"Star Wars: The Rise of Skywalker",
-			"gatsby_image_path":"..\/..\/images\/star-wars-the-rise-of-skywalker.jpg",
-			"slug":"star-wars-the-rise-of-skywalker"
-		},
-		{
-			"title":"My Hero Academia: World Heroes' Mission",
-			"gatsby_image_path":"..\/..\/images\/my-hero-academia-world-heroes-mission.jpg",
-			"slug":"my-hero-academia-world-heroes-mission"
-		},
-		{
-			"title":"Skylines",
-			"gatsby_image_path":"..\/..\/images\/skylines.jpg",
-			"slug":"skylines"
-		},
-		{
-			"title":"Willy's Wonderland",
-			"gatsby_image_path":"..\/..\/images\/willy's-wonderland.jpg",
-			"slug":"willy's-wonderland"
-		},
-		{
-			"title":"Jungle Cruise",
-			"gatsby_image_path":"..\/..\/images\/jungle-cruise.jpg",
-			"slug":"jungle-cruise"
-		},
-		{
-			"title":"Jiu Jitsu",
-			"gatsby_image_path":"..\/..\/images\/jiu-jitsu.jpg",
-			"slug":"jiu-jitsu"
-		},
-		{
-			"title":"Ready Player One",
-			"gatsby_image_path":"..\/..\/images\/ready-player-one.jpg",
-			"slug":"ready-player-one"
+			"title":"Iron Man 3",
+			"gatsby_image_path":"..\/..\/images\/iron-man-3.jpg",
+			"slug":"iron-man-3"
 		}
 	],
 	"related_most_similar":[
@@ -219,14 +117,19 @@
 			"slug":"avengers-age-of-ultron"
 		},
 		{
+			"title":"Captain America: The Winter Soldier",
+			"gatsby_image_path":"..\/..\/images\/captain-america-the-winter-soldier.jpg",
+			"slug":"captain-america-the-winter-soldier"
+		},
+		{
 			"title":"Thor: Ragnarok",
 			"gatsby_image_path":"..\/..\/images\/thor-ragnarok.jpg",
 			"slug":"thor-ragnarok"
 		},
 		{
-			"title":"Spider-Man: Homecoming",
-			"gatsby_image_path":"..\/..\/images\/spider-man-homecoming.jpg",
-			"slug":"spider-man-homecoming"
+			"title":"Thor",
+			"gatsby_image_path":"..\/..\/images\/thor.jpg",
+			"slug":"thor"
 		},
 		{
 			"title":"The Avengers",
@@ -234,14 +137,26 @@
 			"slug":"the-avengers"
 		},
 		{
-			"title":"Spider-Man: No Way Home",
-			"gatsby_image_path":"..\/..\/images\/spider-man-no-way-home.jpg",
-			"slug":"spider-man-no-way-home"
+			"title":"Spider-Man: Homecoming",
+			"gatsby_image_path":"..\/..\/images\/spider-man-homecoming.jpg",
+			"slug":"spider-man-homecoming"
 		},
 		{
-			"title":"Spider-Man: Far From Home",
-			"gatsby_image_path":"..\/..\/images\/spider-man-far-from-home.jpg",
-			"slug":"spider-man-far-from-home"
+			"title":"Iron Man 2",
+			"gatsby_image_path":"..\/..\/images\/iron-man-2.jpg",
+			"slug":"iron-man-2"
+		},
+		{
+			"title":"Doctor Strange",
+			"gatsby_image_path":"..\/..\/images\/doctor-strange.jpg",
+			"slug":"doctor-strange"
+		}
+	],
+	"related_by_poster":[
+		{
+			"title":"Avengers: Endgame",
+			"gatsby_image_path":"..\/..\/images\/avengers-endgame.jpg",
+			"slug":"avengers-endgame"
 		},
 		{
 			"title":"Guardians of the Galaxy Vol. 2",
@@ -249,9 +164,94 @@
 			"slug":"guardians-of-the-galaxy-vol-2"
 		},
 		{
-			"title":"Black Widow",
-			"gatsby_image_path":"..\/..\/images\/black-widow.jpg",
-			"slug":"black-widow"
+			"title":"Dark Phoenix",
+			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
+			"slug":"dark-phoenix"
+		},
+		{
+			"title":"Guardians of the Galaxy",
+			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy.jpg",
+			"slug":"guardians-of-the-galaxy"
+		},
+		{
+			"title":"Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+			"gatsby_image_path":"..\/..\/images\/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train.jpg",
+			"slug":"demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train"
+		},
+		{
+			"title":"Peninsula",
+			"gatsby_image_path":"..\/..\/images\/peninsula.jpg",
+			"slug":"peninsula"
+		},
+		{
+			"title":"Star Wars: The Force Awakens",
+			"gatsby_image_path":"..\/..\/images\/star-wars-the-force-awakens.jpg",
+			"slug":"star-wars-the-force-awakens"
+		},
+		{
+			"title":"The Tax Collector",
+			"gatsby_image_path":"..\/..\/images\/the-tax-collector.jpg",
+			"slug":"the-tax-collector"
+		},
+		{
+			"title":"Adventures of Aladdin",
+			"gatsby_image_path":"..\/..\/images\/adventures-of-aladdin.jpg",
+			"slug":"adventures-of-aladdin"
+		},
+		{
+			"title":"Hunter x Hunter: The Last Mission",
+			"gatsby_image_path":"..\/..\/images\/hunter-x-hunter-the-last-mission.jpg",
+			"slug":"hunter-x-hunter-the-last-mission"
+		},
+		{
+			"title":"Justice League vs. Teen Titans",
+			"gatsby_image_path":"..\/..\/images\/justice-league-vs.-teen-titans.jpg",
+			"slug":"justice-league-vs.-teen-titans"
+		},
+		{
+			"title":"Iron Man 3",
+			"gatsby_image_path":"..\/..\/images\/iron-man-3.jpg",
+			"slug":"iron-man-3"
+		},
+		{
+			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
+			"gatsby_image_path":"..\/..\/images\/yu-gi-oh-the-dark-side-of-dimensions.jpg",
+			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
+		},
+		{
+			"title":"The Lego Movie 2: The Second Part",
+			"gatsby_image_path":"..\/..\/images\/the-lego-movie-2-the-second-part.jpg",
+			"slug":"the-lego-movie-2-the-second-part"
+		},
+		{
+			"title":"Psycho Goreman",
+			"gatsby_image_path":"..\/..\/images\/psycho-goreman.jpg",
+			"slug":"psycho-goreman"
+		},
+		{
+			"title":"Missing Link",
+			"gatsby_image_path":"..\/..\/images\/missing-link.jpg",
+			"slug":"missing-link"
+		},
+		{
+			"title":"Scouts Guide to the Zombie Apocalypse",
+			"gatsby_image_path":"..\/..\/images\/scouts-guide-to-the-zombie-apocalypse.jpg",
+			"slug":"scouts-guide-to-the-zombie-apocalypse"
+		},
+		{
+			"title":"My Hero Academia: Two Heroes",
+			"gatsby_image_path":"..\/..\/images\/my-hero-academia-two-heroes.jpg",
+			"slug":"my-hero-academia-two-heroes"
+		},
+		{
+			"title":"Dragon Ball Super: Broly",
+			"gatsby_image_path":"..\/..\/images\/dragon-ball-super-broly.jpg",
+			"slug":"dragon-ball-super-broly"
+		},
+		{
+			"title":"Jingle Jangle: A Christmas Journey",
+			"gatsby_image_path":"..\/..\/images\/jingle-jangle-a-christmas-journey.jpg",
+			"slug":"jingle-jangle-a-christmas-journey"
 		}
 	]
 }

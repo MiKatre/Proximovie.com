@@ -52,9 +52,44 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Welcome to the Jungle",
+			"gatsby_image_path":"..\/..\/images\/welcome-to-the-jungle.jpg",
+			"slug":"welcome-to-the-jungle"
+		},
+		{
+			"title":"The Incredibles",
+			"gatsby_image_path":"..\/..\/images\/the-incredibles.jpg",
+			"slug":"the-incredibles"
+		},
+		{
+			"title":"The Grinch",
+			"gatsby_image_path":"..\/..\/images\/the-grinch.jpg",
+			"slug":"the-grinch"
+		},
+		{
+			"title":"Monster House",
+			"gatsby_image_path":"..\/..\/images\/monster-house.jpg",
+			"slug":"monster-house"
+		},
+		{
+			"title":"Inside Out",
+			"gatsby_image_path":"..\/..\/images\/inside-out.jpg",
+			"slug":"inside-out"
+		},
+		{
 			"title":"Finding 'Ohana",
 			"gatsby_image_path":"..\/..\/images\/finding-ohana.jpg",
 			"slug":"finding-ohana"
+		},
+		{
+			"title":"Dragons: Rescue Riders: Huttsgalor Holiday",
+			"gatsby_image_path":"..\/..\/images\/dragons-rescue-riders-huttsgalor-holiday.jpg",
+			"slug":"dragons-rescue-riders-huttsgalor-holiday"
+		},
+		{
+			"title":"Descendants 2",
+			"gatsby_image_path":"..\/..\/images\/descendants-2.jpg",
+			"slug":"descendants-2"
 		},
 		{
 			"title":"Batman: Death in the Family",
@@ -65,53 +100,80 @@
 			"title":"America: The Motion Picture",
 			"gatsby_image_path":"..\/..\/images\/america-the-motion-picture.jpg",
 			"slug":"america-the-motion-picture"
-		},
-		{
-			"title":"Zombieland: Double Tap",
-			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
-			"slug":"zombieland-double-tap"
-		},
-		{
-			"title":"Zack Snyder's Justice League",
-			"gatsby_image_path":"..\/..\/images\/zack-snyder's-justice-league.jpg",
-			"slug":"zack-snyder's-justice-league"
-		},
-		{
-			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
-			"gatsby_image_path":"..\/..\/images\/yu-gi-oh-the-dark-side-of-dimensions.jpg",
-			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
-		},
-		{
-			"title":"Your Name.",
-			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
-			"slug":"your-name"
-		},
-		{
-			"title":"Young Sister-in-law 3 - 2019",
-			"gatsby_image_path":"..\/..\/images\/young-sister-in-law-3-2019.jpg",
-			"slug":"young-sister-in-law-3-2019"
-		},
-		{
-			"title":"Xtreme",
-			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
-			"slug":"xtreme"
-		},
-		{
-			"title":"Xico's Journey",
-			"gatsby_image_path":"..\/..\/images\/xico's-journey.jpg",
-			"slug":"xico's-journey"
 		}
 	],
-	"related_by_poster":[
+	"related_most_similar":[
+		{
+			"title":"Toy Story That Time Forgot",
+			"gatsby_image_path":"..\/..\/images\/toy-story-that-time-forgot.jpg",
+			"slug":"toy-story-that-time-forgot"
+		},
+		{
+			"title":"Steven Universe: The Movie",
+			"gatsby_image_path":"..\/..\/images\/steven-universe-the-movie.jpg",
+			"slug":"steven-universe-the-movie"
+		},
 		{
 			"title":"Phineas and Ferb: The Movie: Candace Against the Universe",
 			"gatsby_image_path":"..\/..\/images\/phineas-and-ferb-the-movie-candace-against-the-universe.jpg",
 			"slug":"phineas-and-ferb-the-movie-candace-against-the-universe"
 		},
 		{
-			"title":"The Simpsons: The Good, the Bart, and the Loki",
-			"gatsby_image_path":"..\/..\/images\/the-simpsons-the-good-the-bart-and-the-loki.jpg",
-			"slug":"the-simpsons-the-good-the-bart-and-the-loki"
+			"title":"Inside Out",
+			"gatsby_image_path":"..\/..\/images\/inside-out.jpg",
+			"slug":"inside-out"
+		},
+		{
+			"title":"Alvin and the Chipmunks: The Road Chip",
+			"gatsby_image_path":"..\/..\/images\/alvin-and-the-chipmunks-the-road-chip.jpg",
+			"slug":"alvin-and-the-chipmunks-the-road-chip"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Wreck-It Ralph",
+			"gatsby_image_path":"..\/..\/images\/wreck-it-ralph.jpg",
+			"slug":"wreck-it-ralph"
+		},
+		{
+			"title":"Wizards of Waverly Place: The Movie",
+			"gatsby_image_path":"..\/..\/images\/wizards-of-waverly-place-the-movie.jpg",
+			"slug":"wizards-of-waverly-place-the-movie"
+		},
+		{
+			"title":"Vivo",
+			"gatsby_image_path":"..\/..\/images\/vivo.jpg",
+			"slug":"vivo"
+		},
+		{
+			"title":"Up",
+			"gatsby_image_path":"..\/..\/images\/up.jpg",
+			"slug":"up"
+		}
+	],
+	"related_by_poster":[
+		{
+			"title":"Dragon Ball Z: Bardock - The Father of Goku",
+			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-bardock-the-father-of-goku.jpg",
+			"slug":"dragon-ball-z-bardock-the-father-of-goku"
+		},
+		{
+			"title":"Phineas and Ferb: The Movie: Candace Against the Universe",
+			"gatsby_image_path":"..\/..\/images\/phineas-and-ferb-the-movie-candace-against-the-universe.jpg",
+			"slug":"phineas-and-ferb-the-movie-candace-against-the-universe"
+		},
+		{
+			"title":"Next Avengers: Heroes of Tomorrow",
+			"gatsby_image_path":"..\/..\/images\/next-avengers-heroes-of-tomorrow.jpg",
+			"slug":"next-avengers-heroes-of-tomorrow"
+		},
+		{
+			"title":"La leyenda de la Llorona",
+			"gatsby_image_path":"..\/..\/images\/la-leyenda-de-la-llorona.jpg",
+			"slug":"la-leyenda-de-la-llorona"
 		},
 		{
 			"title":"Money Heist: The Phenomenon",
@@ -119,9 +181,34 @@
 			"slug":"money-heist-the-phenomenon"
 		},
 		{
+			"title":"The Simpsons: The Good, the Bart, and the Loki",
+			"gatsby_image_path":"..\/..\/images\/the-simpsons-the-good-the-bart-and-the-loki.jpg",
+			"slug":"the-simpsons-the-good-the-bart-and-the-loki"
+		},
+		{
+			"title":"Combat Wombat",
+			"gatsby_image_path":"..\/..\/images\/combat-wombat.jpg",
+			"slug":"combat-wombat"
+		},
+		{
+			"title":"Astro Boy",
+			"gatsby_image_path":"..\/..\/images\/astro-boy.jpg",
+			"slug":"astro-boy"
+		},
+		{
+			"title":"Cinderella III: A Twist in Time",
+			"gatsby_image_path":"..\/..\/images\/cinderella-iii-a-twist-in-time.jpg",
+			"slug":"cinderella-iii-a-twist-in-time"
+		},
+		{
 			"title":"Hotel Transylvania: Transformania",
 			"gatsby_image_path":"..\/..\/images\/hotel-transylvania-transformania.jpg",
 			"slug":"hotel-transylvania-transformania"
+		},
+		{
+			"title":"Inside Out",
+			"gatsby_image_path":"..\/..\/images\/inside-out.jpg",
+			"slug":"inside-out"
 		},
 		{
 			"title":"Maya the Bee: The Golden Orb",
@@ -129,131 +216,44 @@
 			"slug":"maya-the-bee-the-golden-orb"
 		},
 		{
-			"title":"Toy Story",
-			"gatsby_image_path":"..\/..\/images\/toy-story.jpg",
-			"slug":"toy-story"
+			"title":"Dragon Ball Z: The World's Strongest",
+			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-the-world-s-strongest.jpg",
+			"slug":"dragon-ball-z-the-world-s-strongest"
 		},
 		{
-			"title":"PAW Patrol: The Movie",
-			"gatsby_image_path":"..\/..\/images\/paw-patrol-the-movie.jpg",
-			"slug":"paw-patrol-the-movie"
+			"title":"Igor",
+			"gatsby_image_path":"..\/..\/images\/igor.jpg",
+			"slug":"igor"
 		},
 		{
-			"title":"Happy Halloween, Scooby-Doo!",
-			"gatsby_image_path":"..\/..\/images\/happy-halloween-scooby-doo.jpg",
-			"slug":"happy-halloween-scooby-doo"
+			"title":"Scooby-Doo! in Where's My Mummy?",
+			"gatsby_image_path":"..\/..\/images\/scooby-doo-in-where-s-my-mummy.jpg",
+			"slug":"scooby-doo-in-where-s-my-mummy"
 		},
 		{
-			"title":"Curious George: Go West, Go Wild",
-			"gatsby_image_path":"..\/..\/images\/curious-george-go-west-go-wild.jpg",
-			"slug":"curious-george-go-west-go-wild"
+			"title":"Barbie as the Island Princess",
+			"gatsby_image_path":"..\/..\/images\/barbie-as-the-island-princess.jpg",
+			"slug":"barbie-as-the-island-princess"
 		},
 		{
-			"title":"Toy Story 2",
-			"gatsby_image_path":"..\/..\/images\/toy-story-2.jpg",
-			"slug":"toy-story-2"
+			"title":"Pokémon the Movie: Hoopa and the Clash of Ages",
+			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-hoopa-and-the-clash-of-ages.jpg",
+			"slug":"pokémon-the-movie-hoopa-and-the-clash-of-ages"
 		},
 		{
-			"title":"PAW Patrol: Jet to the Rescue",
-			"gatsby_image_path":"..\/..\/images\/paw-patrol-jet-to-the-rescue.jpg",
-			"slug":"paw-patrol-jet-to-the-rescue"
+			"title":"PAW Patrol: Mighty Pups",
+			"gatsby_image_path":"..\/..\/images\/paw-patrol-mighty-pups.jpg",
+			"slug":"paw-patrol-mighty-pups"
 		},
 		{
-			"title":"Shrek 2",
-			"gatsby_image_path":"..\/..\/images\/shrek-2.jpg",
-			"slug":"shrek-2"
+			"title":"Barbie Fairytopia: Mermaidia",
+			"gatsby_image_path":"..\/..\/images\/barbie-fairytopia-mermaidia.jpg",
+			"slug":"barbie-fairytopia-mermaidia"
 		},
 		{
-			"title":"Space Jam: A New Legacy",
-			"gatsby_image_path":"..\/..\/images\/space-jam-a-new-legacy.jpg",
-			"slug":"space-jam-a-new-legacy"
-		},
-		{
-			"title":"The Croods: A New Age",
-			"gatsby_image_path":"..\/..\/images\/the-croods-a-new-age.jpg",
-			"slug":"the-croods-a-new-age"
-		},
-		{
-			"title":"The Simpsons Movie",
-			"gatsby_image_path":"..\/..\/images\/the-simpsons-movie.jpg",
-			"slug":"the-simpsons-movie"
-		},
-		{
-			"title":"Toy Story 4",
-			"gatsby_image_path":"..\/..\/images\/toy-story-4.jpg",
-			"slug":"toy-story-4"
-		},
-		{
-			"title":"Sing",
-			"gatsby_image_path":"..\/..\/images\/sing.jpg",
-			"slug":"sing"
-		},
-		{
-			"title":"Wish Dragon",
-			"gatsby_image_path":"..\/..\/images\/wish-dragon.jpg",
-			"slug":"wish-dragon"
-		},
-		{
-			"title":"Xico's Journey",
-			"gatsby_image_path":"..\/..\/images\/xico's-journey.jpg",
-			"slug":"xico's-journey"
-		},
-		{
-			"title":"Naruto Shippuden the Movie: The Lost Tower",
-			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-the-lost-tower.jpg",
-			"slug":"naruto-shippuden-the-movie-the-lost-tower"
-		}
-	],
-	"related_most_similar":[
-		{
-			"title":"Phineas and Ferb: The Movie: Candace Against the Universe",
-			"gatsby_image_path":"..\/..\/images\/phineas-and-ferb-the-movie-candace-against-the-universe.jpg",
-			"slug":"phineas-and-ferb-the-movie-candace-against-the-universe"
-		},
-		{
-			"title":"Toy Story",
-			"gatsby_image_path":"..\/..\/images\/toy-story.jpg",
-			"slug":"toy-story"
-		},
-		{
-			"title":"Toy Story 4",
-			"gatsby_image_path":"..\/..\/images\/toy-story-4.jpg",
-			"slug":"toy-story-4"
-		},
-		{
-			"title":"The SpongeBob Movie: Sponge on the Run",
-			"gatsby_image_path":"..\/..\/images\/the-spongebob-movie-sponge-on-the-run.jpg",
-			"slug":"the-spongebob-movie-sponge-on-the-run"
-		},
-		{
-			"title":"The Croods: A New Age",
-			"gatsby_image_path":"..\/..\/images\/the-croods-a-new-age.jpg",
-			"slug":"the-croods-a-new-age"
-		},
-		{
-			"title":"The Boss Baby: Family Business",
-			"gatsby_image_path":"..\/..\/images\/the-boss-baby-family-business.jpg",
-			"slug":"the-boss-baby-family-business"
-		},
-		{
-			"title":"Teen Titans Go! See Space Jam",
-			"gatsby_image_path":"..\/..\/images\/teen-titans-go-see-space-jam.jpg",
-			"slug":"teen-titans-go-see-space-jam"
-		},
-		{
-			"title":"Shrek",
-			"gatsby_image_path":"..\/..\/images\/shrek.jpg",
-			"slug":"shrek"
-		},
-		{
-			"title":"Shrek 2",
-			"gatsby_image_path":"..\/..\/images\/shrek-2.jpg",
-			"slug":"shrek-2"
-		},
-		{
-			"title":"Scooby-Doo! The Sword and the Scoob",
-			"gatsby_image_path":"..\/..\/images\/scooby-doo-the-sword-and-the-scoob.jpg",
-			"slug":"scooby-doo-the-sword-and-the-scoob"
+			"title":"Frozen Fever",
+			"gatsby_image_path":"..\/..\/images\/frozen-fever.jpg",
+			"slug":"frozen-fever"
 		}
 	]
 }

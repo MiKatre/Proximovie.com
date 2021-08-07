@@ -52,9 +52,34 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"The Witch",
+			"gatsby_image_path":"..\/..\/images\/the-witch.jpg",
+			"slug":"the-witch"
+		},
+		{
+			"title":"The Owners",
+			"gatsby_image_path":"..\/..\/images\/the-owners.jpg",
+			"slug":"the-owners"
+		},
+		{
+			"title":"Split",
+			"gatsby_image_path":"..\/..\/images\/split.jpg",
+			"slug":"split"
+		},
+		{
 			"title":"Soul",
 			"gatsby_image_path":"..\/..\/images\/soul.jpg",
 			"slug":"soul"
+		},
+		{
+			"title":"Predators",
+			"gatsby_image_path":"..\/..\/images\/predators.jpg",
+			"slug":"predators"
+		},
+		{
+			"title":"I Am Legend",
+			"gatsby_image_path":"..\/..\/images\/i-am-legend.jpg",
+			"slug":"i-am-legend"
 		},
 		{
 			"title":"Glass",
@@ -62,149 +87,42 @@
 			"slug":"glass"
 		},
 		{
-			"title":"22 vs. Earth",
-			"gatsby_image_path":"..\/..\/images\/22-vs.-earth.jpg",
-			"slug":"22-vs.-earth"
+			"title":"Emma.",
+			"gatsby_image_path":"..\/..\/images\/emma.jpg",
+			"slug":"emma"
 		},
 		{
-			"title":"Zombieland: Double Tap",
-			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
-			"slug":"zombieland-double-tap"
+			"title":"City of God",
+			"gatsby_image_path":"..\/..\/images\/city-of-god.jpg",
+			"slug":"city-of-god"
 		},
 		{
-			"title":"Zack Snyder's Justice League",
-			"gatsby_image_path":"..\/..\/images\/zack-snyder's-justice-league.jpg",
-			"slug":"zack-snyder's-justice-league"
-		},
-		{
-			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
-			"gatsby_image_path":"..\/..\/images\/yu-gi-oh-the-dark-side-of-dimensions.jpg",
-			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
-		},
-		{
-			"title":"Your Name.",
-			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
-			"slug":"your-name"
-		},
-		{
-			"title":"Young Sister-in-law 3 - 2019",
-			"gatsby_image_path":"..\/..\/images\/young-sister-in-law-3-2019.jpg",
-			"slug":"young-sister-in-law-3-2019"
-		},
-		{
-			"title":"Xtreme",
-			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
-			"slug":"xtreme"
-		},
-		{
-			"title":"Xico's Journey",
-			"gatsby_image_path":"..\/..\/images\/xico's-journey.jpg",
-			"slug":"xico's-journey"
-		}
-	],
-	"related_by_poster":[
-		{
-			"title":"Black Panther",
-			"gatsby_image_path":"..\/..\/images\/black-panther.jpg",
-			"slug":"black-panther"
-		},
-		{
-			"title":"Boruto: Naruto the Movie",
-			"gatsby_image_path":"..\/..\/images\/boruto-naruto-the-movie.jpg",
-			"slug":"boruto-naruto-the-movie"
-		},
-		{
-			"title":"Naruto Shippuden the Movie: Road to Ninja",
-			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-road-to-ninja.jpg",
-			"slug":"naruto-shippuden-the-movie-road-to-ninja"
-		},
-		{
-			"title":"Batman: Death in the Family",
-			"gatsby_image_path":"..\/..\/images\/batman-death-in-the-family.jpg",
-			"slug":"batman-death-in-the-family"
-		},
-		{
-			"title":"Naruto Shippuden the Movie: The Lost Tower",
-			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-the-lost-tower.jpg",
-			"slug":"naruto-shippuden-the-movie-the-lost-tower"
-		},
-		{
-			"title":"Terminator: Dark Fate",
-			"gatsby_image_path":"..\/..\/images\/terminator-dark-fate.jpg",
-			"slug":"terminator-dark-fate"
-		},
-		{
-			"title":"Black and Blue",
-			"gatsby_image_path":"..\/..\/images\/black-and-blue.jpg",
-			"slug":"black-and-blue"
-		},
-		{
-			"title":"Hitman's Wife's Bodyguard",
-			"gatsby_image_path":"..\/..\/images\/hitman's-wife's-bodyguard.jpg",
-			"slug":"hitman's-wife's-bodyguard"
-		},
-		{
-			"title":"Roald Dahl's The Witches",
-			"gatsby_image_path":"..\/..\/images\/roald-dahl's-the-witches.jpg",
-			"slug":"roald-dahl's-the-witches"
-		},
-		{
-			"title":"Dark Phoenix",
-			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
-			"slug":"dark-phoenix"
-		},
-		{
-			"title":"The First Purge",
-			"gatsby_image_path":"..\/..\/images\/the-first-purge.jpg",
-			"slug":"the-first-purge"
-		},
-		{
-			"title":"The Tomorrow War",
-			"gatsby_image_path":"..\/..\/images\/the-tomorrow-war.jpg",
-			"slug":"the-tomorrow-war"
-		},
-		{
-			"title":"Spider-Man: Far From Home",
-			"gatsby_image_path":"..\/..\/images\/spider-man-far-from-home.jpg",
-			"slug":"spider-man-far-from-home"
-		},
-		{
-			"title":"Life in a Year",
-			"gatsby_image_path":"..\/..\/images\/life-in-a-year.jpg",
-			"slug":"life-in-a-year"
-		},
-		{
-			"title":"Avengers: Age of Ultron",
-			"gatsby_image_path":"..\/..\/images\/avengers-age-of-ultron.jpg",
-			"slug":"avengers-age-of-ultron"
-		},
-		{
-			"title":"Captain America: Civil War",
-			"gatsby_image_path":"..\/..\/images\/captain-america-civil-war.jpg",
-			"slug":"captain-america-civil-war"
-		},
-		{
-			"title":"Fifty Shades of Grey",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
-			"slug":"fifty-shades-of-grey"
-		},
-		{
-			"title":"Jiu Jitsu",
-			"gatsby_image_path":"..\/..\/images\/jiu-jitsu.jpg",
-			"slug":"jiu-jitsu"
-		},
-		{
-			"title":"My Hero Academia: World Heroes' Mission",
-			"gatsby_image_path":"..\/..\/images\/my-hero-academia-world-heroes-mission.jpg",
-			"slug":"my-hero-academia-world-heroes-mission"
-		},
-		{
-			"title":"My Hero Academia: Two Heroes",
-			"gatsby_image_path":"..\/..\/images\/my-hero-academia-two-heroes.jpg",
-			"slug":"my-hero-academia-two-heroes"
+			"title":"Bright",
+			"gatsby_image_path":"..\/..\/images\/bright.jpg",
+			"slug":"bright"
 		}
 	],
 	"related_most_similar":[
+		{
+			"title":"X-Men: Days of Future Past",
+			"gatsby_image_path":"..\/..\/images\/x-men-days-of-future-past.jpg",
+			"slug":"x-men-days-of-future-past"
+		},
+		{
+			"title":"X-Men: Apocalypse",
+			"gatsby_image_path":"..\/..\/images\/x-men-apocalypse.jpg",
+			"slug":"x-men-apocalypse"
+		},
+		{
+			"title":"Thor",
+			"gatsby_image_path":"..\/..\/images\/thor.jpg",
+			"slug":"thor"
+		},
+		{
+			"title":"Fantastic Four",
+			"gatsby_image_path":"..\/..\/images\/fantastic-four.jpg",
+			"slug":"fantastic-four"
+		},
 		{
 			"title":"Deadpool",
 			"gatsby_image_path":"..\/..\/images\/deadpool.jpg",
@@ -221,39 +139,121 @@
 			"slug":"spider-man-into-the-spider-verse"
 		},
 		{
-			"title":"Deadpool 2",
-			"gatsby_image_path":"..\/..\/images\/deadpool-2.jpg",
-			"slug":"deadpool-2"
+			"title":"The Incredible Hulk",
+			"gatsby_image_path":"..\/..\/images\/the-incredible-hulk.jpg",
+			"slug":"the-incredible-hulk"
 		},
 		{
-			"title":"Avengers: Endgame",
-			"gatsby_image_path":"..\/..\/images\/avengers-endgame.jpg",
-			"slug":"avengers-endgame"
+			"title":"Iron Man",
+			"gatsby_image_path":"..\/..\/images\/iron-man.jpg",
+			"slug":"iron-man"
 		},
 		{
-			"title":"Venom",
-			"gatsby_image_path":"..\/..\/images\/venom.jpg",
-			"slug":"venom"
+			"title":"Iron Man 2",
+			"gatsby_image_path":"..\/..\/images\/iron-man-2.jpg",
+			"slug":"iron-man-2"
+		}
+	],
+	"related_by_poster":[
+		{
+			"title":"Real Steel",
+			"gatsby_image_path":"..\/..\/images\/real-steel.jpg",
+			"slug":"real-steel"
 		},
 		{
-			"title":"Underwater",
-			"gatsby_image_path":"..\/..\/images\/underwater.jpg",
-			"slug":"underwater"
+			"title":"X-Men: Apocalypse",
+			"gatsby_image_path":"..\/..\/images\/x-men-apocalypse.jpg",
+			"slug":"x-men-apocalypse"
 		},
 		{
-			"title":"Thor: Ragnarok",
-			"gatsby_image_path":"..\/..\/images\/thor-ragnarok.jpg",
-			"slug":"thor-ragnarok"
+			"title":"Black Panther",
+			"gatsby_image_path":"..\/..\/images\/black-panther.jpg",
+			"slug":"black-panther"
 		},
 		{
-			"title":"Spider-Man: Homecoming",
-			"gatsby_image_path":"..\/..\/images\/spider-man-homecoming.jpg",
-			"slug":"spider-man-homecoming"
+			"title":"Boruto: Naruto the Movie",
+			"gatsby_image_path":"..\/..\/images\/boruto-naruto-the-movie.jpg",
+			"slug":"boruto-naruto-the-movie"
 		},
 		{
-			"title":"Spider-Man: Far From Home",
-			"gatsby_image_path":"..\/..\/images\/spider-man-far-from-home.jpg",
-			"slug":"spider-man-far-from-home"
+			"title":"Robert Reborn",
+			"gatsby_image_path":"..\/..\/images\/robert-reborn.jpg",
+			"slug":"robert-reborn"
+		},
+		{
+			"title":"Sword Art Online: The Movie - Ordinal Scale",
+			"gatsby_image_path":"..\/..\/images\/sword-art-online-the-movie-ordinal-scale.jpg",
+			"slug":"sword-art-online-the-movie-ordinal-scale"
+		},
+		{
+			"title":"Naruto Shippuden the Movie: Road to Ninja",
+			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-road-to-ninja.jpg",
+			"slug":"naruto-shippuden-the-movie-road-to-ninja"
+		},
+		{
+			"title":"Naruto the Movie: Legend of the Stone of Gelel",
+			"gatsby_image_path":"..\/..\/images\/naruto-the-movie-legend-of-the-stone-of-gelel.jpg",
+			"slug":"naruto-the-movie-legend-of-the-stone-of-gelel"
+		},
+		{
+			"title":"Anna",
+			"gatsby_image_path":"..\/..\/images\/anna.jpg",
+			"slug":"anna"
+		},
+		{
+			"title":"Bordello of Blood",
+			"gatsby_image_path":"..\/..\/images\/bordello-of-blood.jpg",
+			"slug":"bordello-of-blood"
+		},
+		{
+			"title":"Naruto Shippuden the Movie: The Will of Fire",
+			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-the-will-of-fire.jpg",
+			"slug":"naruto-shippuden-the-movie-the-will-of-fire"
+		},
+		{
+			"title":"Dragon Ball Z: The History of Trunks",
+			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-the-history-of-trunks.jpg",
+			"slug":"dragon-ball-z-the-history-of-trunks"
+		},
+		{
+			"title":"Justice League: Gods and Monsters",
+			"gatsby_image_path":"..\/..\/images\/justice-league-gods-and-monsters.jpg",
+			"slug":"justice-league-gods-and-monsters"
+		},
+		{
+			"title":"Terminator Genisys",
+			"gatsby_image_path":"..\/..\/images\/terminator-genisys.jpg",
+			"slug":"terminator-genisys"
+		},
+		{
+			"title":"Iron Mask",
+			"gatsby_image_path":"..\/..\/images\/iron-mask.jpg",
+			"slug":"iron-mask"
+		},
+		{
+			"title":"The Night Comes for Us",
+			"gatsby_image_path":"..\/..\/images\/the-night-comes-for-us.jpg",
+			"slug":"the-night-comes-for-us"
+		},
+		{
+			"title":"Incredibles 2",
+			"gatsby_image_path":"..\/..\/images\/incredibles-2.jpg",
+			"slug":"incredibles-2"
+		},
+		{
+			"title":"Batman: Death in the Family",
+			"gatsby_image_path":"..\/..\/images\/batman-death-in-the-family.jpg",
+			"slug":"batman-death-in-the-family"
+		},
+		{
+			"title":"Teenage Mutant Ninja Turtles: Out of the Shadows",
+			"gatsby_image_path":"..\/..\/images\/teenage-mutant-ninja-turtles-out-of-the-shadows.jpg",
+			"slug":"teenage-mutant-ninja-turtles-out-of-the-shadows"
+		},
+		{
+			"title":"Bright",
+			"gatsby_image_path":"..\/..\/images\/bright.jpg",
+			"slug":"bright"
 		}
 	]
 }

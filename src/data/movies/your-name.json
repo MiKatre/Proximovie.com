@@ -1,205 +1,89 @@
 {
-	"title":"Your Name.",
-	"status":"Released",
-	"runtime":106,
-	"revenue":357986087,
-	"release_date":"2016-08-26",
+	"title":"Your Name",
+	"status":"Planned",
+	"runtime":0,
+	"revenue":0,
+	"release_date":"",
 	"production_countries":[
-		"Japan"
+		"United States of America"
 	],
 	"production_companies":[
-		"CoMix Wave Films"
+		"Bad Robot"
 	],
-	"poster_path":"\/q719jXXEzOoYaps6babgKnONONX.jpg",
-	"imdb_id":"tt5311514",
-	"original_title":"君の名は。",
-	"overview":"High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
-	"original_language":"ja",
+	"poster_path":null,
+	"imdb_id":"tt7456298",
+	"original_title":"Your Name",
+	"overview":"J.J. Abrams and Paramount Pictures have announced they’ll be turning the critically acclaimed Japanese anime Your Name into a live-action film.",
+	"original_language":"en",
 	"adult":false,
 	"budget":0,
 	"genres":[
-		"Romance",
-		"Animation",
-		"Drama"
+		"Drama",
+		"Fantasy",
+		"Romance"
 	],
 	"slug":"your-name",
 	"gatsby_image_path":"..\/..\/images\/your-name.jpg",
-	"cast":[
-		"Ryunosuke Kamiki",
-		"Mone Kamishiraishi",
-		"Ryo Narita",
-		"Aoi Yuki",
-		"Nobunaga Shimazaki",
-		"Kaito Ishikawa",
-		"Kanon Tani",
-		"Masaki Terasoma",
-		"Sayaka Ohara",
-		"Kazuhiko Inoue"
-	],
+	"cast":[],
 	"crew":[
-		"Takeshi Inamura",
-		"Hiroyuki Okiura",
-		"Kazuchika Kise",
-		"Masashi Ando",
-		"Masashi Ando",
-		"Masashi Ando",
+		"J.J. Abrams",
 		"Makoto Shinkai",
-		"Makoto Shinkai",
-		"Makoto Shinkai",
-		"Makoto Shinkai"
+		"Eric Heisserer",
+		"Genki Kawamura",
+		"Lee Isaac Chung",
+		"Lee Isaac Chung",
+		"Lindsey Weber"
 	],
 	"related_by_cast":[
 		{
-			"title":"Naruto Shippuden the Movie: Blood Prison",
-			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-blood-prison.jpg",
-			"slug":"naruto-shippuden-the-movie-blood-prison"
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
 		},
 		{
-			"title":"The Last: Naruto the Movie",
-			"gatsby_image_path":"..\/..\/images\/the-last-naruto-the-movie.jpg",
-			"slug":"the-last-naruto-the-movie"
+			"title":"Zombieland: Double Tap",
+			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
+			"slug":"zombieland-double-tap"
 		},
 		{
-			"title":"Rurouni Kenshin Part II: Kyoto Inferno",
-			"gatsby_image_path":"..\/..\/images\/rurouni-kenshin-part-ii-kyoto-inferno.jpg",
-			"slug":"rurouni-kenshin-part-ii-kyoto-inferno"
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
 		},
 		{
-			"title":"Rascal Does Not Dream of a Dreaming Girl",
-			"gatsby_image_path":"..\/..\/images\/rascal-does-not-dream-of-a-dreaming-girl.jpg",
-			"slug":"rascal-does-not-dream-of-a-dreaming-girl"
+			"title":"Zack Snyder's Justice League",
+			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
+			"slug":"zack-snyder-s-justice-league"
 		},
 		{
-			"title":"Naruto Shippuden the Movie: The Lost Tower",
-			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-the-lost-tower.jpg",
-			"slug":"naruto-shippuden-the-movie-the-lost-tower"
+			"title":"Zack and Miri Make a Porno",
+			"gatsby_image_path":"..\/..\/images\/zack-and-miri-make-a-porno.jpg",
+			"slug":"zack-and-miri-make-a-porno"
 		},
 		{
-			"title":"Naruto Shippuden the Movie: Road to Ninja",
-			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-road-to-ninja.jpg",
-			"slug":"naruto-shippuden-the-movie-road-to-ninja"
+			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
+			"gatsby_image_path":"..\/..\/images\/yu-gi-oh-the-dark-side-of-dimensions.jpg",
+			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"My Hero Academia: Two Heroes",
-			"gatsby_image_path":"..\/..\/images\/my-hero-academia-two-heroes.jpg",
-			"slug":"my-hero-academia-two-heroes"
+			"title":"Your Name",
+			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
+			"slug":"your-name"
 		},
 		{
-			"title":"My Hero Academia: Heroes Rising",
-			"gatsby_image_path":"..\/..\/images\/my-hero-academia-heroes-rising.jpg",
-			"slug":"my-hero-academia-heroes-rising"
+			"title":"Young Sister-in-law 3 - 2019",
+			"gatsby_image_path":"..\/..\/images\/young-sister-in-law-3-2019.jpg",
+			"slug":"young-sister-in-law-3-2019"
 		},
 		{
-			"title":"Boruto: Naruto the Movie",
-			"gatsby_image_path":"..\/..\/images\/boruto-naruto-the-movie.jpg",
-			"slug":"boruto-naruto-the-movie"
+			"title":"Yes Day",
+			"gatsby_image_path":"..\/..\/images\/yes-day.jpg",
+			"slug":"yes-day"
 		},
 		{
-			"title":"A Silent Voice: The Movie",
-			"gatsby_image_path":"..\/..\/images\/a-silent-voice-the-movie.jpg",
-			"slug":"a-silent-voice-the-movie"
-		}
-	],
-	"related_by_poster":[
-		{
-			"title":"The Water Man",
-			"gatsby_image_path":"..\/..\/images\/the-water-man.jpg",
-			"slug":"the-water-man"
-		},
-		{
-			"title":"Extraction",
-			"gatsby_image_path":"..\/..\/images\/extraction.jpg",
-			"slug":"extraction"
-		},
-		{
-			"title":"Harry Potter and the Prisoner of Azkaban",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-prisoner-of-azkaban.jpg",
-			"slug":"harry-potter-and-the-prisoner-of-azkaban"
-		},
-		{
-			"title":"Fear of Rain",
-			"gatsby_image_path":"..\/..\/images\/fear-of-rain.jpg",
-			"slug":"fear-of-rain"
-		},
-		{
-			"title":"Weathering with You",
-			"gatsby_image_path":"..\/..\/images\/weathering-with-you.jpg",
-			"slug":"weathering-with-you"
-		},
-		{
-			"title":"Breakthrough",
-			"gatsby_image_path":"..\/..\/images\/breakthrough.jpg",
-			"slug":"breakthrough"
-		},
-		{
-			"title":"Harry Potter and the Philosopher's Stone",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher's-stone.jpg",
-			"slug":"harry-potter-and-the-philosopher's-stone"
-		},
-		{
-			"title":"The Tomorrow War",
-			"gatsby_image_path":"..\/..\/images\/the-tomorrow-war.jpg",
-			"slug":"the-tomorrow-war"
-		},
-		{
-			"title":"Star Wars: The Rise of Skywalker",
-			"gatsby_image_path":"..\/..\/images\/star-wars-the-rise-of-skywalker.jpg",
-			"slug":"star-wars-the-rise-of-skywalker"
-		},
-		{
-			"title":"The Pilgrim's Progress",
-			"gatsby_image_path":"..\/..\/images\/the-pilgrim's-progress.jpg",
-			"slug":"the-pilgrim's-progress"
-		},
-		{
-			"title":"Pokémon the Movie: I Choose You!",
-			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-i-choose-you.jpg",
-			"slug":"pokémon-the-movie-i-choose-you"
-		},
-		{
-			"title":"Trauma Center",
-			"gatsby_image_path":"..\/..\/images\/trauma-center.jpg",
-			"slug":"trauma-center"
-		},
-		{
-			"title":"Dark Phoenix",
-			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
-			"slug":"dark-phoenix"
-		},
-		{
-			"title":"Ready Player One",
-			"gatsby_image_path":"..\/..\/images\/ready-player-one.jpg",
-			"slug":"ready-player-one"
-		},
-		{
-			"title":"The Little Things",
-			"gatsby_image_path":"..\/..\/images\/the-little-things.jpg",
-			"slug":"the-little-things"
-		},
-		{
-			"title":"Harry Potter and the Order of the Phoenix",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-order-of-the-phoenix.jpg",
-			"slug":"harry-potter-and-the-order-of-the-phoenix"
-		},
-		{
-			"title":"Thor: Ragnarok",
-			"gatsby_image_path":"..\/..\/images\/thor-ragnarok.jpg",
-			"slug":"thor-ragnarok"
-		},
-		{
-			"title":"Peninsula",
-			"gatsby_image_path":"..\/..\/images\/peninsula.jpg",
-			"slug":"peninsula"
-		},
-		{
-			"title":"Spider-Man: Far From Home",
-			"gatsby_image_path":"..\/..\/images\/spider-man-far-from-home.jpg",
-			"slug":"spider-man-far-from-home"
-		},
-		{
-			"title":"Rurouni Kenshin Part I: Origins",
-			"gatsby_image_path":"..\/..\/images\/rurouni-kenshin-part-i-origins.jpg",
-			"slug":"rurouni-kenshin-part-i-origins"
+			"title":"xXx: Return of Xander Cage",
+			"gatsby_image_path":"..\/..\/images\/xxx-return-of-xander-cage.jpg",
+			"slug":"xxx-return-of-xander-cage"
 		}
 	],
 	"related_most_similar":[
@@ -209,49 +93,151 @@
 			"slug":"weathering-with-you"
 		},
 		{
-			"title":"Rascal Does Not Dream of a Dreaming Girl",
-			"gatsby_image_path":"..\/..\/images\/rascal-does-not-dream-of-a-dreaming-girl.jpg",
-			"slug":"rascal-does-not-dream-of-a-dreaming-girl"
+			"title":"The Garden of Words",
+			"gatsby_image_path":"..\/..\/images\/the-garden-of-words.jpg",
+			"slug":"the-garden-of-words"
 		},
 		{
-			"title":"The Last: Naruto the Movie",
-			"gatsby_image_path":"..\/..\/images\/the-last-naruto-the-movie.jpg",
-			"slug":"the-last-naruto-the-movie"
+			"title":"5 Centimeters per Second",
+			"gatsby_image_path":"..\/..\/images\/5-centimeters-per-second.jpg",
+			"slug":"5-centimeters-per-second"
 		},
 		{
-			"title":"Pretty Guardian Sailor Moon Eternal The Movie Part 2",
-			"gatsby_image_path":"..\/..\/images\/pretty-guardian-sailor-moon-eternal-the-movie-part-2.jpg",
-			"slug":"pretty-guardian-sailor-moon-eternal-the-movie-part-2"
+			"title":"The Twilight Saga: New Moon",
+			"gatsby_image_path":"..\/..\/images\/the-twilight-saga-new-moon.jpg",
+			"slug":"the-twilight-saga-new-moon"
 		},
 		{
-			"title":"Naruto Shippuden the Movie: Blood Prison",
-			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-blood-prison.jpg",
-			"slug":"naruto-shippuden-the-movie-blood-prison"
+			"title":"The Twilight Saga: Eclipse",
+			"gatsby_image_path":"..\/..\/images\/the-twilight-saga-eclipse.jpg",
+			"slug":"the-twilight-saga-eclipse"
 		},
 		{
-			"title":"I Want to Eat Your Pancreas",
-			"gatsby_image_path":"..\/..\/images\/i-want-to-eat-your-pancreas.jpg",
-			"slug":"i-want-to-eat-your-pancreas"
+			"title":"The Twilight Saga: Breaking Dawn - Part 2",
+			"gatsby_image_path":"..\/..\/images\/the-twilight-saga-breaking-dawn-part-2.jpg",
+			"slug":"the-twilight-saga-breaking-dawn-part-2"
 		},
 		{
-			"title":"Given",
-			"gatsby_image_path":"..\/..\/images\/given.jpg",
-			"slug":"given"
+			"title":"The Shape of Water",
+			"gatsby_image_path":"..\/..\/images\/the-shape-of-water.jpg",
+			"slug":"the-shape-of-water"
 		},
 		{
-			"title":"A Silent Voice: The Movie",
-			"gatsby_image_path":"..\/..\/images\/a-silent-voice-the-movie.jpg",
-			"slug":"a-silent-voice-the-movie"
+			"title":"The Legend of Tarzan",
+			"gatsby_image_path":"..\/..\/images\/the-legend-of-tarzan.jpg",
+			"slug":"the-legend-of-tarzan"
 		},
 		{
-			"title":"Rurouni Kenshin Part II: Kyoto Inferno",
-			"gatsby_image_path":"..\/..\/images\/rurouni-kenshin-part-ii-kyoto-inferno.jpg",
-			"slug":"rurouni-kenshin-part-ii-kyoto-inferno"
+			"title":"Star Trek Into Darkness",
+			"gatsby_image_path":"..\/..\/images\/star-trek-into-darkness.jpg",
+			"slug":"star-trek-into-darkness"
 		},
 		{
-			"title":"Ride or Die",
-			"gatsby_image_path":"..\/..\/images\/ride-or-die.jpg",
-			"slug":"ride-or-die"
+			"title":"Quest for Camelot",
+			"gatsby_image_path":"..\/..\/images\/quest-for-camelot.jpg",
+			"slug":"quest-for-camelot"
+		}
+	],
+	"related_by_poster":[
+		{
+			"title":"The Case Of The Vanishing Gods",
+			"gatsby_image_path":"..\/..\/images\/the-case-of-the-vanishing-gods.jpg",
+			"slug":"the-case-of-the-vanishing-gods"
+		},
+		{
+			"title":"Tiempo al tiempo",
+			"gatsby_image_path":"..\/..\/images\/tiempo-al-tiempo.jpg",
+			"slug":"tiempo-al-tiempo"
+		},
+		{
+			"title":"Your Name",
+			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
+			"slug":"your-name"
+		},
+		{
+			"title":"John Wick: Chapter 5",
+			"gatsby_image_path":"..\/..\/images\/john-wick-chapter-5.jpg",
+			"slug":"john-wick-chapter-5"
+		},
+		{
+			"title":"How to Be a Latin Lover",
+			"gatsby_image_path":"..\/..\/images\/how-to-be-a-latin-lover.jpg",
+			"slug":"how-to-be-a-latin-lover"
+		},
+		{
+			"title":"Fucking Different XXX",
+			"gatsby_image_path":"..\/..\/images\/fucking-different-xxx.jpg",
+			"slug":"fucking-different-xxx"
+		},
+		{
+			"title":"Line of Duty",
+			"gatsby_image_path":"..\/..\/images\/line-of-duty.jpg",
+			"slug":"line-of-duty"
+		},
+		{
+			"title":"Lucy",
+			"gatsby_image_path":"..\/..\/images\/lucy.jpg",
+			"slug":"lucy"
+		},
+		{
+			"title":"Good Will Hunting",
+			"gatsby_image_path":"..\/..\/images\/good-will-hunting.jpg",
+			"slug":"good-will-hunting"
+		},
+		{
+			"title":"Guardians of the Galaxy Vol. 3",
+			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy-vol-3.jpg",
+			"slug":"guardians-of-the-galaxy-vol-3"
+		},
+		{
+			"title":"211",
+			"gatsby_image_path":"..\/..\/images\/211.jpg",
+			"slug":"211"
+		},
+		{
+			"title":"The Accountant",
+			"gatsby_image_path":"..\/..\/images\/the-accountant.jpg",
+			"slug":"the-accountant"
+		},
+		{
+			"title":"Mission: Impossible - Rogue Nation",
+			"gatsby_image_path":"..\/..\/images\/mission-impossible-rogue-nation.jpg",
+			"slug":"mission-impossible-rogue-nation"
+		},
+		{
+			"title":"The 8th Night",
+			"gatsby_image_path":"..\/..\/images\/the-8th-night.jpg",
+			"slug":"the-8th-night"
+		},
+		{
+			"title":"Straight Outta Compton",
+			"gatsby_image_path":"..\/..\/images\/straight-outta-compton.jpg",
+			"slug":"straight-outta-compton"
+		},
+		{
+			"title":"Soul of Hero",
+			"gatsby_image_path":"..\/..\/images\/soul-of-hero.jpg",
+			"slug":"soul-of-hero"
+		},
+		{
+			"title":"Paranormal Activity: The Marked Ones",
+			"gatsby_image_path":"..\/..\/images\/paranormal-activity-the-marked-ones.jpg",
+			"slug":"paranormal-activity-the-marked-ones"
+		},
+		{
+			"title":"Boss Level",
+			"gatsby_image_path":"..\/..\/images\/boss-level.jpg",
+			"slug":"boss-level"
+		},
+		{
+			"title":"Blended",
+			"gatsby_image_path":"..\/..\/images\/blended.jpg",
+			"slug":"blended"
+		},
+		{
+			"title":"John and the Hole",
+			"gatsby_image_path":"..\/..\/images\/john-and-the-hole.jpg",
+			"slug":"john-and-the-hole"
 		}
 	]
 }

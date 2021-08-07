@@ -52,9 +52,39 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Thor: The Dark World",
+			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
+			"slug":"thor-the-dark-world"
+		},
+		{
 			"title":"Thor: Ragnarok",
 			"gatsby_image_path":"..\/..\/images\/thor-ragnarok.jpg",
 			"slug":"thor-ragnarok"
+		},
+		{
+			"title":"Thor",
+			"gatsby_image_path":"..\/..\/images\/thor.jpg",
+			"slug":"thor"
+		},
+		{
+			"title":"The Upside",
+			"gatsby_image_path":"..\/..\/images\/the-upside.jpg",
+			"slug":"the-upside"
+		},
+		{
+			"title":"The Huntsman: Winter's War",
+			"gatsby_image_path":"..\/..\/images\/the-huntsman-winter-s-war.jpg",
+			"slug":"the-huntsman-winter-s-war"
+		},
+		{
+			"title":"The Equalizer",
+			"gatsby_image_path":"..\/..\/images\/the-equalizer.jpg",
+			"slug":"the-equalizer"
+		},
+		{
+			"title":"The Cabin in the Woods",
+			"gatsby_image_path":"..\/..\/images\/the-cabin-in-the-woods.jpg",
+			"slug":"the-cabin-in-the-woods"
 		},
 		{
 			"title":"The Avengers",
@@ -62,146 +92,14 @@
 			"slug":"the-avengers"
 		},
 		{
-			"title":"No Sudden Move",
-			"gatsby_image_path":"..\/..\/images\/no-sudden-move.jpg",
-			"slug":"no-sudden-move"
+			"title":"Revolutionary Road",
+			"gatsby_image_path":"..\/..\/images\/revolutionary-road.jpg",
+			"slug":"revolutionary-road"
 		},
 		{
-			"title":"Men in Black: International",
-			"gatsby_image_path":"..\/..\/images\/men-in-black-international.jpg",
-			"slug":"men-in-black-international"
-		},
-		{
-			"title":"Hellboy",
-			"gatsby_image_path":"..\/..\/images\/hellboy.jpg",
-			"slug":"hellboy"
-		},
-		{
-			"title":"Drive",
-			"gatsby_image_path":"..\/..\/images\/drive.jpg",
-			"slug":"drive"
-		},
-		{
-			"title":"Black Widow",
-			"gatsby_image_path":"..\/..\/images\/black-widow.jpg",
-			"slug":"black-widow"
-		},
-		{
-			"title":"Avengers: Infinity War",
-			"gatsby_image_path":"..\/..\/images\/avengers-infinity-war.jpg",
-			"slug":"avengers-infinity-war"
-		},
-		{
-			"title":"Avengers: Endgame",
-			"gatsby_image_path":"..\/..\/images\/avengers-endgame.jpg",
-			"slug":"avengers-endgame"
-		},
-		{
-			"title":"Avengers: Age of Ultron",
-			"gatsby_image_path":"..\/..\/images\/avengers-age-of-ultron.jpg",
-			"slug":"avengers-age-of-ultron"
-		}
-	],
-	"related_by_poster":[
-		{
-			"title":"Zombieland: Double Tap",
-			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
-			"slug":"zombieland-double-tap"
-		},
-		{
-			"title":"6 Underground",
-			"gatsby_image_path":"..\/..\/images\/6-underground.jpg",
-			"slug":"6-underground"
-		},
-		{
-			"title":"Harry Potter and the Prisoner of Azkaban",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-prisoner-of-azkaban.jpg",
-			"slug":"harry-potter-and-the-prisoner-of-azkaban"
-		},
-		{
-			"title":"Harry Potter and the Philosopher's Stone",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher's-stone.jpg",
-			"slug":"harry-potter-and-the-philosopher's-stone"
-		},
-		{
-			"title":"Trauma Center",
-			"gatsby_image_path":"..\/..\/images\/trauma-center.jpg",
-			"slug":"trauma-center"
-		},
-		{
-			"title":"Devoto, la invasión silenciosa",
-			"gatsby_image_path":"..\/..\/images\/devoto-la-invasión-silenciosa.jpg",
-			"slug":"devoto-la-invasión-silenciosa"
-		},
-		{
-			"title":"Los viejos",
-			"gatsby_image_path":"..\/..\/images\/los-viejos.jpg",
-			"slug":"los-viejos"
-		},
-		{
-			"title":"Alita: Battle Angel",
-			"gatsby_image_path":"..\/..\/images\/alita-battle-angel.jpg",
-			"slug":"alita-battle-angel"
-		},
-		{
-			"title":"The Tomorrow War",
-			"gatsby_image_path":"..\/..\/images\/the-tomorrow-war.jpg",
-			"slug":"the-tomorrow-war"
-		},
-		{
-			"title":"The Water Man",
-			"gatsby_image_path":"..\/..\/images\/the-water-man.jpg",
-			"slug":"the-water-man"
-		},
-		{
-			"title":"Harry Potter and the Order of the Phoenix",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-order-of-the-phoenix.jpg",
-			"slug":"harry-potter-and-the-order-of-the-phoenix"
-		},
-		{
-			"title":"Harry Potter and the Goblet of Fire",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
-			"slug":"harry-potter-and-the-goblet-of-fire"
-		},
-		{
-			"title":"Code 8",
-			"gatsby_image_path":"..\/..\/images\/code-8.jpg",
-			"slug":"code-8"
-		},
-		{
-			"title":"Major Grom: Plague Doctor",
-			"gatsby_image_path":"..\/..\/images\/major-grom-plague-doctor.jpg",
-			"slug":"major-grom-plague-doctor"
-		},
-		{
-			"title":"Crawl",
-			"gatsby_image_path":"..\/..\/images\/crawl.jpg",
-			"slug":"crawl"
-		},
-		{
-			"title":"Fear of Rain",
-			"gatsby_image_path":"..\/..\/images\/fear-of-rain.jpg",
-			"slug":"fear-of-rain"
-		},
-		{
-			"title":"Peninsula",
-			"gatsby_image_path":"..\/..\/images\/peninsula.jpg",
-			"slug":"peninsula"
-		},
-		{
-			"title":"Fifty Shades of Grey",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
-			"slug":"fifty-shades-of-grey"
-		},
-		{
-			"title":"Harry Potter and the Deathly Hallows: Part 2",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-deathly-hallows-part-2.jpg",
-			"slug":"harry-potter-and-the-deathly-hallows-part-2"
-		},
-		{
-			"title":"Spider-Man: Far From Home",
-			"gatsby_image_path":"..\/..\/images\/spider-man-far-from-home.jpg",
-			"slug":"spider-man-far-from-home"
+			"title":"Pirates of the Caribbean: Dead Men Tell No Tales",
+			"gatsby_image_path":"..\/..\/images\/pirates-of-the-caribbean-dead-men-tell-no-tales.jpg",
+			"slug":"pirates-of-the-caribbean-dead-men-tell-no-tales"
 		}
 	],
 	"related_most_similar":[
@@ -211,9 +109,34 @@
 			"slug":"cherry"
 		},
 		{
+			"title":"21 Bridges",
+			"gatsby_image_path":"..\/..\/images\/21-bridges.jpg",
+			"slug":"21-bridges"
+		},
+		{
+			"title":"San Andreas",
+			"gatsby_image_path":"..\/..\/images\/san-andreas.jpg",
+			"slug":"san-andreas"
+		},
+		{
 			"title":"Black Widow",
 			"gatsby_image_path":"..\/..\/images\/black-widow.jpg",
 			"slug":"black-widow"
+		},
+		{
+			"title":"World War Z",
+			"gatsby_image_path":"..\/..\/images\/world-war-z.jpg",
+			"slug":"world-war-z"
+		},
+		{
+			"title":"White House Down",
+			"gatsby_image_path":"..\/..\/images\/white-house-down.jpg",
+			"slug":"white-house-down"
+		},
+		{
+			"title":"Undisputed",
+			"gatsby_image_path":"..\/..\/images\/undisputed.jpg",
+			"slug":"undisputed"
 		},
 		{
 			"title":"Those Who Wish Me Dead",
@@ -221,39 +144,116 @@
 			"slug":"those-who-wish-me-dead"
 		},
 		{
+			"title":"Thor: The Dark World",
+			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
+			"slug":"thor-the-dark-world"
+		},
+		{
 			"title":"Thor: Ragnarok",
 			"gatsby_image_path":"..\/..\/images\/thor-ragnarok.jpg",
 			"slug":"thor-ragnarok"
+		}
+	],
+	"related_by_poster":[
+		{
+			"title":"A Christmas Carol",
+			"gatsby_image_path":"..\/..\/images\/a-christmas-carol.jpg",
+			"slug":"a-christmas-carol"
 		},
 		{
-			"title":"The Kill Team",
-			"gatsby_image_path":"..\/..\/images\/the-kill-team.jpg",
-			"slug":"the-kill-team"
+			"title":"All the Devil's Men",
+			"gatsby_image_path":"..\/..\/images\/all-the-devil-s-men.jpg",
+			"slug":"all-the-devil-s-men"
 		},
 		{
-			"title":"The Courier",
-			"gatsby_image_path":"..\/..\/images\/the-courier.jpg",
-			"slug":"the-courier"
+			"title":"How to Train Your Dragon 2",
+			"gatsby_image_path":"..\/..\/images\/how-to-train-your-dragon-2.jpg",
+			"slug":"how-to-train-your-dragon-2"
 		},
 		{
-			"title":"The Avengers",
-			"gatsby_image_path":"..\/..\/images\/the-avengers.jpg",
-			"slug":"the-avengers"
+			"title":"Mad World",
+			"gatsby_image_path":"..\/..\/images\/mad-world.jpg",
+			"slug":"mad-world"
 		},
 		{
-			"title":"Spider-Man: Homecoming",
-			"gatsby_image_path":"..\/..\/images\/spider-man-homecoming.jpg",
-			"slug":"spider-man-homecoming"
+			"title":"The Thing About Harry",
+			"gatsby_image_path":"..\/..\/images\/the-thing-about-harry.jpg",
+			"slug":"the-thing-about-harry"
 		},
 		{
-			"title":"Rambo: Last Blood",
-			"gatsby_image_path":"..\/..\/images\/rambo-last-blood.jpg",
-			"slug":"rambo-last-blood"
+			"title":"Eternal Sunshine of the Spotless Mind",
+			"gatsby_image_path":"..\/..\/images\/eternal-sunshine-of-the-spotless-mind.jpg",
+			"slug":"eternal-sunshine-of-the-spotless-mind"
 		},
 		{
-			"title":"No Sudden Move",
-			"gatsby_image_path":"..\/..\/images\/no-sudden-move.jpg",
-			"slug":"no-sudden-move"
+			"title":"Zombieland: Double Tap",
+			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
+			"slug":"zombieland-double-tap"
+		},
+		{
+			"title":"Boyz n the Hood",
+			"gatsby_image_path":"..\/..\/images\/boyz-n-the-hood.jpg",
+			"slug":"boyz-n-the-hood"
+		},
+		{
+			"title":"Sextuplets",
+			"gatsby_image_path":"..\/..\/images\/sextuplets.jpg",
+			"slug":"sextuplets"
+		},
+		{
+			"title":"The Legend of Tarzan",
+			"gatsby_image_path":"..\/..\/images\/the-legend-of-tarzan.jpg",
+			"slug":"the-legend-of-tarzan"
+		},
+		{
+			"title":"The Quake",
+			"gatsby_image_path":"..\/..\/images\/the-quake.jpg",
+			"slug":"the-quake"
+		},
+		{
+			"title":"Jumanji: Welcome to the Jungle",
+			"gatsby_image_path":"..\/..\/images\/jumanji-welcome-to-the-jungle.jpg",
+			"slug":"jumanji-welcome-to-the-jungle"
+		},
+		{
+			"title":"6 Underground",
+			"gatsby_image_path":"..\/..\/images\/6-underground.jpg",
+			"slug":"6-underground"
+		},
+		{
+			"title":"Ghosts of War",
+			"gatsby_image_path":"..\/..\/images\/ghosts-of-war.jpg",
+			"slug":"ghosts-of-war"
+		},
+		{
+			"title":"Blue Miracle",
+			"gatsby_image_path":"..\/..\/images\/blue-miracle.jpg",
+			"slug":"blue-miracle"
+		},
+		{
+			"title":"The Curse of La Llorona",
+			"gatsby_image_path":"..\/..\/images\/the-curse-of-la-llorona.jpg",
+			"slug":"the-curse-of-la-llorona"
+		},
+		{
+			"title":"Harry Potter and the Prisoner of Azkaban",
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-prisoner-of-azkaban.jpg",
+			"slug":"harry-potter-and-the-prisoner-of-azkaban"
+		},
+		{
+			"title":"Fallen",
+			"gatsby_image_path":"..\/..\/images\/fallen.jpg",
+			"slug":"fallen"
+		},
+		{
+			"title":"Lights Out",
+			"gatsby_image_path":"..\/..\/images\/lights-out.jpg",
+			"slug":"lights-out"
+		},
+		{
+			"title":"2012",
+			"gatsby_image_path":"..\/..\/images\/2012.jpg",
+			"slug":"2012"
 		}
 	]
 }

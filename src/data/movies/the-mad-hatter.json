@@ -45,14 +45,34 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
 			"title":"Zombieland: Double Tap",
 			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
 			"slug":"zombieland-double-tap"
 		},
 		{
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
+		},
+		{
 			"title":"Zack Snyder's Justice League",
-			"gatsby_image_path":"..\/..\/images\/zack-snyder's-justice-league.jpg",
-			"slug":"zack-snyder's-justice-league"
+			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
+			"slug":"zack-snyder-s-justice-league"
+		},
+		{
+			"title":"Zack and Miri Make a Porno",
+			"gatsby_image_path":"..\/..\/images\/zack-and-miri-make-a-porno.jpg",
+			"slug":"zack-and-miri-make-a-porno"
 		},
 		{
 			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
@@ -60,7 +80,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -70,131 +90,9 @@
 			"slug":"young-sister-in-law-3-2019"
 		},
 		{
-			"title":"Xtreme",
-			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
-			"slug":"xtreme"
-		},
-		{
-			"title":"Xico's Journey",
-			"gatsby_image_path":"..\/..\/images\/xico's-journey.jpg",
-			"slug":"xico's-journey"
-		},
-		{
-			"title":"Wrong Turn",
-			"gatsby_image_path":"..\/..\/images\/wrong-turn.jpg",
-			"slug":"wrong-turn"
-		},
-		{
-			"title":"Wrath of Man",
-			"gatsby_image_path":"..\/..\/images\/wrath-of-man.jpg",
-			"slug":"wrath-of-man"
-		},
-		{
-			"title":"Wonder Woman 1984",
-			"gatsby_image_path":"..\/..\/images\/wonder-woman-1984.jpg",
-			"slug":"wonder-woman-1984"
-		}
-	],
-	"related_by_poster":[
-		{
-			"title":"Peninsula",
-			"gatsby_image_path":"..\/..\/images\/peninsula.jpg",
-			"slug":"peninsula"
-		},
-		{
-			"title":"Hellboy",
-			"gatsby_image_path":"..\/..\/images\/hellboy.jpg",
-			"slug":"hellboy"
-		},
-		{
-			"title":"Assassin 33 A.D.",
-			"gatsby_image_path":"..\/..\/images\/assassin-33-a.d..jpg",
-			"slug":"assassin-33-a.d."
-		},
-		{
-			"title":"Fear Street: 1666",
-			"gatsby_image_path":"..\/..\/images\/fear-street-1666.jpg",
-			"slug":"fear-street-1666"
-		},
-		{
-			"title":"Those Who Wish Me Dead",
-			"gatsby_image_path":"..\/..\/images\/those-who-wish-me-dead.jpg",
-			"slug":"those-who-wish-me-dead"
-		},
-		{
-			"title":"The Purge",
-			"gatsby_image_path":"..\/..\/images\/the-purge.jpg",
-			"slug":"the-purge"
-		},
-		{
-			"title":"Toxic",
-			"gatsby_image_path":"..\/..\/images\/toxic.jpg",
-			"slug":"toxic"
-		},
-		{
-			"title":"Dark Phoenix",
-			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
-			"slug":"dark-phoenix"
-		},
-		{
-			"title":"Harry Potter and the Chamber of Secrets",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-chamber-of-secrets.jpg",
-			"slug":"harry-potter-and-the-chamber-of-secrets"
-		},
-		{
-			"title":"Fear Street: 1978",
-			"gatsby_image_path":"..\/..\/images\/fear-street-1978.jpg",
-			"slug":"fear-street-1978"
-		},
-		{
-			"title":"Sputnik",
-			"gatsby_image_path":"..\/..\/images\/sputnik.jpg",
-			"slug":"sputnik"
-		},
-		{
-			"title":"Hacker",
-			"gatsby_image_path":"..\/..\/images\/hacker.jpg",
-			"slug":"hacker"
-		},
-		{
-			"title":"Ashfall",
-			"gatsby_image_path":"..\/..\/images\/ashfall.jpg",
-			"slug":"ashfall"
-		},
-		{
-			"title":"Avatar",
-			"gatsby_image_path":"..\/..\/images\/avatar.jpg",
-			"slug":"avatar"
-		},
-		{
-			"title":"The Doorman",
-			"gatsby_image_path":"..\/..\/images\/the-doorman.jpg",
-			"slug":"the-doorman"
-		},
-		{
-			"title":"Initiation",
-			"gatsby_image_path":"..\/..\/images\/initiation.jpg",
-			"slug":"initiation"
-		},
-		{
-			"title":"Glass",
-			"gatsby_image_path":"..\/..\/images\/glass.jpg",
-			"slug":"glass"
-		},
-		{
-			"title":"Don't Breathe 2",
-			"gatsby_image_path":"..\/..\/images\/don't-breathe-2.jpg",
-			"slug":"don't-breathe-2"
-		},
-		{
-			"title":"No Sudden Move",
-			"gatsby_image_path":"..\/..\/images\/no-sudden-move.jpg",
-			"slug":"no-sudden-move"
-		},
-		{
-			"title":"Night in Paradise",
-			"gatsby_image_path":"..\/..\/images\/night-in-paradise.jpg",
-			"slug":"night-in-paradise"
+			"title":"Yes Day",
+			"gatsby_image_path":"..\/..\/images\/yes-day.jpg",
+			"slug":"yes-day"
 		}
 	],
 	"related_most_similar":[
@@ -204,49 +102,151 @@
 			"slug":"wrong-turn"
 		},
 		{
+			"title":"Wrong Turn 5: Bloodlines",
+			"gatsby_image_path":"..\/..\/images\/wrong-turn-5-bloodlines.jpg",
+			"slug":"wrong-turn-5-bloodlines"
+		},
+		{
+			"title":"Wrong Turn 4: Bloody Beginnings",
+			"gatsby_image_path":"..\/..\/images\/wrong-turn-4-bloody-beginnings.jpg",
+			"slug":"wrong-turn-4-bloody-beginnings"
+		},
+		{
+			"title":"Wrong Turn 3: Left for Dead",
+			"gatsby_image_path":"..\/..\/images\/wrong-turn-3-left-for-dead.jpg",
+			"slug":"wrong-turn-3-left-for-dead"
+		},
+		{
+			"title":"Wrong Turn 2: Dead End",
+			"gatsby_image_path":"..\/..\/images\/wrong-turn-2-dead-end.jpg",
+			"slug":"wrong-turn-2-dead-end"
+		},
+		{
+			"title":"World War Z",
+			"gatsby_image_path":"..\/..\/images\/world-war-z.jpg",
+			"slug":"world-war-z"
+		},
+		{
 			"title":"Underwater",
 			"gatsby_image_path":"..\/..\/images\/underwater.jpg",
 			"slug":"underwater"
 		},
 		{
-			"title":"The Wolf of Snow Hollow",
-			"gatsby_image_path":"..\/..\/images\/the-wolf-of-snow-hollow.jpg",
-			"slug":"the-wolf-of-snow-hollow"
+			"title":"Traffik",
+			"gatsby_image_path":"..\/..\/images\/traffik.jpg",
+			"slug":"traffik"
 		},
 		{
-			"title":"The Purge",
-			"gatsby_image_path":"..\/..\/images\/the-purge.jpg",
-			"slug":"the-purge"
+			"title":"Till Death",
+			"gatsby_image_path":"..\/..\/images\/till-death.jpg",
+			"slug":"till-death"
 		},
 		{
-			"title":"The Purge: Election Year",
-			"gatsby_image_path":"..\/..\/images\/the-purge-election-year.jpg",
-			"slug":"the-purge-election-year"
+			"title":"Thir13en Ghosts",
+			"gatsby_image_path":"..\/..\/images\/thir13en-ghosts.jpg",
+			"slug":"thir13en-ghosts"
+		}
+	],
+	"related_by_poster":[
+		{
+			"title":"Hell on the Border",
+			"gatsby_image_path":"..\/..\/images\/hell-on-the-border.jpg",
+			"slug":"hell-on-the-border"
 		},
 		{
-			"title":"The Forever Purge",
-			"gatsby_image_path":"..\/..\/images\/the-forever-purge.jpg",
-			"slug":"the-forever-purge"
+			"title":"The Dark Knight Rises",
+			"gatsby_image_path":"..\/..\/images\/the-dark-knight-rises.jpg",
+			"slug":"the-dark-knight-rises"
 		},
 		{
-			"title":"The First Purge",
-			"gatsby_image_path":"..\/..\/images\/the-first-purge.jpg",
-			"slug":"the-first-purge"
+			"title":"The Amityville Horror",
+			"gatsby_image_path":"..\/..\/images\/the-amityville-horror.jpg",
+			"slug":"the-amityville-horror"
 		},
 		{
-			"title":"The Conjuring: The Devil Made Me Do It",
-			"gatsby_image_path":"..\/..\/images\/the-conjuring-the-devil-made-me-do-it.jpg",
-			"slug":"the-conjuring-the-devil-made-me-do-it"
+			"title":"Wolf Warrior 2",
+			"gatsby_image_path":"..\/..\/images\/wolf-warrior-2.jpg",
+			"slug":"wolf-warrior-2"
 		},
 		{
-			"title":"The Conjuring",
-			"gatsby_image_path":"..\/..\/images\/the-conjuring.jpg",
-			"slug":"the-conjuring"
+			"title":"Peninsula",
+			"gatsby_image_path":"..\/..\/images\/peninsula.jpg",
+			"slug":"peninsula"
 		},
 		{
-			"title":"The Conjuring 2",
-			"gatsby_image_path":"..\/..\/images\/the-conjuring-2.jpg",
-			"slug":"the-conjuring-2"
+			"title":"The Last Samurai",
+			"gatsby_image_path":"..\/..\/images\/the-last-samurai.jpg",
+			"slug":"the-last-samurai"
+		},
+		{
+			"title":"Annihilation",
+			"gatsby_image_path":"..\/..\/images\/annihilation.jpg",
+			"slug":"annihilation"
+		},
+		{
+			"title":"Backdraft 2",
+			"gatsby_image_path":"..\/..\/images\/backdraft-2.jpg",
+			"slug":"backdraft-2"
+		},
+		{
+			"title":"The Texas Chainsaw Massacre",
+			"gatsby_image_path":"..\/..\/images\/the-texas-chainsaw-massacre.jpg",
+			"slug":"the-texas-chainsaw-massacre"
+		},
+		{
+			"title":"First Man",
+			"gatsby_image_path":"..\/..\/images\/first-man.jpg",
+			"slug":"first-man"
+		},
+		{
+			"title":"Assassin 33 A.D.",
+			"gatsby_image_path":"..\/..\/images\/assassin-33-a.d..jpg",
+			"slug":"assassin-33-a.d."
+		},
+		{
+			"title":"Hellboy",
+			"gatsby_image_path":"..\/..\/images\/hellboy.jpg",
+			"slug":"hellboy"
+		},
+		{
+			"title":"Wrong Turn 3: Left for Dead",
+			"gatsby_image_path":"..\/..\/images\/wrong-turn-3-left-for-dead.jpg",
+			"slug":"wrong-turn-3-left-for-dead"
+		},
+		{
+			"title":"The Chronicles of Narnia: Prince Caspian",
+			"gatsby_image_path":"..\/..\/images\/the-chronicles-of-narnia-prince-caspian.jpg",
+			"slug":"the-chronicles-of-narnia-prince-caspian"
+		},
+		{
+			"title":"Terminator 3: Rise of the Machines",
+			"gatsby_image_path":"..\/..\/images\/terminator-3-rise-of-the-machines.jpg",
+			"slug":"terminator-3-rise-of-the-machines"
+		},
+		{
+			"title":"The Ring Two",
+			"gatsby_image_path":"..\/..\/images\/the-ring-two.jpg",
+			"slug":"the-ring-two"
+		},
+		{
+			"title":"Samson",
+			"gatsby_image_path":"..\/..\/images\/samson.jpg",
+			"slug":"samson"
+		},
+		{
+			"title":"Fear Street: 1666",
+			"gatsby_image_path":"..\/..\/images\/fear-street-1666.jpg",
+			"slug":"fear-street-1666"
+		},
+		{
+			"title":"Fireproof",
+			"gatsby_image_path":"..\/..\/images\/fireproof.jpg",
+			"slug":"fireproof"
+		},
+		{
+			"title":"Sacrifice",
+			"gatsby_image_path":"..\/..\/images\/sacrifice.jpg",
+			"slug":"sacrifice"
 		}
 	]
 }

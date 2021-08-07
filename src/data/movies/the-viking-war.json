@@ -40,14 +40,34 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
 			"title":"Zombieland: Double Tap",
 			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
 			"slug":"zombieland-double-tap"
 		},
 		{
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
+		},
+		{
 			"title":"Zack Snyder's Justice League",
-			"gatsby_image_path":"..\/..\/images\/zack-snyder's-justice-league.jpg",
-			"slug":"zack-snyder's-justice-league"
+			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
+			"slug":"zack-snyder-s-justice-league"
+		},
+		{
+			"title":"Zack and Miri Make a Porno",
+			"gatsby_image_path":"..\/..\/images\/zack-and-miri-make-a-porno.jpg",
+			"slug":"zack-and-miri-make-a-porno"
 		},
 		{
 			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
@@ -55,7 +75,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -65,36 +85,123 @@
 			"slug":"young-sister-in-law-3-2019"
 		},
 		{
-			"title":"Xtreme",
-			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
-			"slug":"xtreme"
+			"title":"Yes Day",
+			"gatsby_image_path":"..\/..\/images\/yes-day.jpg",
+			"slug":"yes-day"
+		}
+	],
+	"related_most_similar":[
+		{
+			"title":"Your Name",
+			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
+			"slug":"your-name"
 		},
 		{
-			"title":"Xico's Journey",
-			"gatsby_image_path":"..\/..\/images\/xico's-journey.jpg",
-			"slug":"xico's-journey"
+			"title":"Wizards of Waverly Place: The Movie",
+			"gatsby_image_path":"..\/..\/images\/wizards-of-waverly-place-the-movie.jpg",
+			"slug":"wizards-of-waverly-place-the-movie"
 		},
 		{
-			"title":"Wrong Turn",
-			"gatsby_image_path":"..\/..\/images\/wrong-turn.jpg",
-			"slug":"wrong-turn"
+			"title":"Toy Story 4",
+			"gatsby_image_path":"..\/..\/images\/toy-story-4.jpg",
+			"slug":"toy-story-4"
 		},
 		{
-			"title":"Wrath of Man",
-			"gatsby_image_path":"..\/..\/images\/wrath-of-man.jpg",
-			"slug":"wrath-of-man"
+			"title":"The Witch",
+			"gatsby_image_path":"..\/..\/images\/the-witch.jpg",
+			"slug":"the-witch"
 		},
 		{
-			"title":"Wonder Woman 1984",
-			"gatsby_image_path":"..\/..\/images\/wonder-woman-1984.jpg",
-			"slug":"wonder-woman-1984"
+			"title":"The Twilight Saga: New Moon",
+			"gatsby_image_path":"..\/..\/images\/the-twilight-saga-new-moon.jpg",
+			"slug":"the-twilight-saga-new-moon"
+		},
+		{
+			"title":"The Twilight Saga: Eclipse",
+			"gatsby_image_path":"..\/..\/images\/the-twilight-saga-eclipse.jpg",
+			"slug":"the-twilight-saga-eclipse"
+		},
+		{
+			"title":"The Twilight Saga: Breaking Dawn - Part 2",
+			"gatsby_image_path":"..\/..\/images\/the-twilight-saga-breaking-dawn-part-2.jpg",
+			"slug":"the-twilight-saga-breaking-dawn-part-2"
+		},
+		{
+			"title":"The Ten Commandments",
+			"gatsby_image_path":"..\/..\/images\/the-ten-commandments.jpg",
+			"slug":"the-ten-commandments"
+		},
+		{
+			"title":"The Shape of Water",
+			"gatsby_image_path":"..\/..\/images\/the-shape-of-water.jpg",
+			"slug":"the-shape-of-water"
+		},
+		{
+			"title":"The Shack",
+			"gatsby_image_path":"..\/..\/images\/the-shack.jpg",
+			"slug":"the-shack"
 		}
 	],
 	"related_by_poster":[
 		{
+			"title":"Ghosts of War",
+			"gatsby_image_path":"..\/..\/images\/ghosts-of-war.jpg",
+			"slug":"ghosts-of-war"
+		},
+		{
+			"title":"Justice League vs. Teen Titans",
+			"gatsby_image_path":"..\/..\/images\/justice-league-vs.-teen-titans.jpg",
+			"slug":"justice-league-vs.-teen-titans"
+		},
+		{
 			"title":"Harry Potter and the Philosopher's Stone",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher's-stone.jpg",
-			"slug":"harry-potter-and-the-philosopher's-stone"
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher-s-stone.jpg",
+			"slug":"harry-potter-and-the-philosopher-s-stone"
+		},
+		{
+			"title":"Pokémon the Movie: Volcanion and the Mechanical Marvel",
+			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-volcanion-and-the-mechanical-marvel.jpg",
+			"slug":"pokémon-the-movie-volcanion-and-the-mechanical-marvel"
+		},
+		{
+			"title":"Jumanji: Welcome to the Jungle",
+			"gatsby_image_path":"..\/..\/images\/jumanji-welcome-to-the-jungle.jpg",
+			"slug":"jumanji-welcome-to-the-jungle"
+		},
+		{
+			"title":"Kingsglaive: Final Fantasy XV",
+			"gatsby_image_path":"..\/..\/images\/kingsglaive-final-fantasy-xv.jpg",
+			"slug":"kingsglaive-final-fantasy-xv"
+		},
+		{
+			"title":"A Christmas Carol",
+			"gatsby_image_path":"..\/..\/images\/a-christmas-carol.jpg",
+			"slug":"a-christmas-carol"
+		},
+		{
+			"title":"Mermaid Down",
+			"gatsby_image_path":"..\/..\/images\/mermaid-down.jpg",
+			"slug":"mermaid-down"
+		},
+		{
+			"title":"Thor: The Dark World",
+			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
+			"slug":"thor-the-dark-world"
+		},
+		{
+			"title":"Justice League",
+			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
+			"slug":"justice-league"
+		},
+		{
+			"title":"Rise of the Guardians",
+			"gatsby_image_path":"..\/..\/images\/rise-of-the-guardians.jpg",
+			"slug":"rise-of-the-guardians"
+		},
+		{
+			"title":"In the Heights",
+			"gatsby_image_path":"..\/..\/images\/in-the-heights.jpg",
+			"slug":"in-the-heights"
 		},
 		{
 			"title":"Jiu Jitsu",
@@ -102,14 +209,24 @@
 			"slug":"jiu-jitsu"
 		},
 		{
+			"title":"X-Men: Apocalypse",
+			"gatsby_image_path":"..\/..\/images\/x-men-apocalypse.jpg",
+			"slug":"x-men-apocalypse"
+		},
+		{
 			"title":"Peninsula",
 			"gatsby_image_path":"..\/..\/images\/peninsula.jpg",
 			"slug":"peninsula"
 		},
 		{
-			"title":"My Hero Academia: Two Heroes",
-			"gatsby_image_path":"..\/..\/images\/my-hero-academia-two-heroes.jpg",
-			"slug":"my-hero-academia-two-heroes"
+			"title":"Sicario: Day of the Soldado",
+			"gatsby_image_path":"..\/..\/images\/sicario-day-of-the-soldado.jpg",
+			"slug":"sicario-day-of-the-soldado"
+		},
+		{
+			"title":"Pirates of the Caribbean: Dead Men Tell No Tales",
+			"gatsby_image_path":"..\/..\/images\/pirates-of-the-caribbean-dead-men-tell-no-tales.jpg",
+			"slug":"pirates-of-the-caribbean-dead-men-tell-no-tales"
 		},
 		{
 			"title":"Harry Potter and the Deathly Hallows: Part 1",
@@ -117,131 +234,14 @@
 			"slug":"harry-potter-and-the-deathly-hallows-part-1"
 		},
 		{
-			"title":"Dark Phoenix",
-			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
-			"slug":"dark-phoenix"
+			"title":"Mary Poppins",
+			"gatsby_image_path":"..\/..\/images\/mary-poppins.jpg",
+			"slug":"mary-poppins"
 		},
 		{
-			"title":"Harry Potter and the Prisoner of Azkaban",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-prisoner-of-azkaban.jpg",
-			"slug":"harry-potter-and-the-prisoner-of-azkaban"
-		},
-		{
-			"title":"Harry Potter and the Half-Blood Prince",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-half-blood-prince.jpg",
-			"slug":"harry-potter-and-the-half-blood-prince"
-		},
-		{
-			"title":"Psycho Goreman",
-			"gatsby_image_path":"..\/..\/images\/psycho-goreman.jpg",
-			"slug":"psycho-goreman"
-		},
-		{
-			"title":"The Water Man",
-			"gatsby_image_path":"..\/..\/images\/the-water-man.jpg",
-			"slug":"the-water-man"
-		},
-		{
-			"title":"6 Underground",
-			"gatsby_image_path":"..\/..\/images\/6-underground.jpg",
-			"slug":"6-underground"
-		},
-		{
-			"title":"How I Became a Superhero",
-			"gatsby_image_path":"..\/..\/images\/how-i-became-a-superhero.jpg",
-			"slug":"how-i-became-a-superhero"
-		},
-		{
-			"title":"America: The Motion Picture",
-			"gatsby_image_path":"..\/..\/images\/america-the-motion-picture.jpg",
-			"slug":"america-the-motion-picture"
-		},
-		{
-			"title":"Alita: Battle Angel",
-			"gatsby_image_path":"..\/..\/images\/alita-battle-angel.jpg",
-			"slug":"alita-battle-angel"
-		},
-		{
-			"title":"Hitman's Wife's Bodyguard",
-			"gatsby_image_path":"..\/..\/images\/hitman's-wife's-bodyguard.jpg",
-			"slug":"hitman's-wife's-bodyguard"
-		},
-		{
-			"title":"Naruto Shippuden the Movie: The Lost Tower",
-			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-the-lost-tower.jpg",
-			"slug":"naruto-shippuden-the-movie-the-lost-tower"
-		},
-		{
-			"title":"Fifty Shades of Grey",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
-			"slug":"fifty-shades-of-grey"
-		},
-		{
-			"title":"Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
-			"gatsby_image_path":"..\/..\/images\/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train.jpg",
-			"slug":"demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train"
-		},
-		{
-			"title":"Avengers: Infinity War",
-			"gatsby_image_path":"..\/..\/images\/avengers-infinity-war.jpg",
-			"slug":"avengers-infinity-war"
-		},
-		{
-			"title":"The Tomorrow War",
-			"gatsby_image_path":"..\/..\/images\/the-tomorrow-war.jpg",
-			"slug":"the-tomorrow-war"
-		}
-	],
-	"related_most_similar":[
-		{
-			"title":"Toy Story 4",
-			"gatsby_image_path":"..\/..\/images\/toy-story-4.jpg",
-			"slug":"toy-story-4"
-		},
-		{
-			"title":"The King",
-			"gatsby_image_path":"..\/..\/images\/the-king.jpg",
-			"slug":"the-king"
-		},
-		{
-			"title":"Tentacles",
-			"gatsby_image_path":"..\/..\/images\/tentacles.jpg",
-			"slug":"tentacles"
-		},
-		{
-			"title":"Hacksaw Ridge",
-			"gatsby_image_path":"..\/..\/images\/hacksaw-ridge.jpg",
-			"slug":"hacksaw-ridge"
-		},
-		{
-			"title":"Ford v Ferrari",
-			"gatsby_image_path":"..\/..\/images\/ford-v-ferrari.jpg",
-			"slug":"ford-v-ferrari"
-		},
-		{
-			"title":"America: The Motion Picture",
-			"gatsby_image_path":"..\/..\/images\/america-the-motion-picture.jpg",
-			"slug":"america-the-motion-picture"
-		},
-		{
-			"title":"Zack Snyder's Justice League",
-			"gatsby_image_path":"..\/..\/images\/zack-snyder's-justice-league.jpg",
-			"slug":"zack-snyder's-justice-league"
-		},
-		{
-			"title":"Wonder Woman 1984",
-			"gatsby_image_path":"..\/..\/images\/wonder-woman-1984.jpg",
-			"slug":"wonder-woman-1984"
-		},
-		{
-			"title":"Wish Dragon",
-			"gatsby_image_path":"..\/..\/images\/wish-dragon.jpg",
-			"slug":"wish-dragon"
-		},
-		{
-			"title":"We Can Be Heroes",
-			"gatsby_image_path":"..\/..\/images\/we-can-be-heroes.jpg",
-			"slug":"we-can-be-heroes"
+			"title":"The Legend of Tarzan",
+			"gatsby_image_path":"..\/..\/images\/the-legend-of-tarzan.jpg",
+			"slug":"the-legend-of-tarzan"
 		}
 	]
 }

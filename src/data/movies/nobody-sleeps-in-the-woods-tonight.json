@@ -45,14 +45,34 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
 			"title":"Zombieland: Double Tap",
 			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
 			"slug":"zombieland-double-tap"
 		},
 		{
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
+		},
+		{
 			"title":"Zack Snyder's Justice League",
-			"gatsby_image_path":"..\/..\/images\/zack-snyder's-justice-league.jpg",
-			"slug":"zack-snyder's-justice-league"
+			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
+			"slug":"zack-snyder-s-justice-league"
+		},
+		{
+			"title":"Zack and Miri Make a Porno",
+			"gatsby_image_path":"..\/..\/images\/zack-and-miri-make-a-porno.jpg",
+			"slug":"zack-and-miri-make-a-porno"
 		},
 		{
 			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
@@ -60,7 +80,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -70,131 +90,9 @@
 			"slug":"young-sister-in-law-3-2019"
 		},
 		{
-			"title":"Xtreme",
-			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
-			"slug":"xtreme"
-		},
-		{
-			"title":"Xico's Journey",
-			"gatsby_image_path":"..\/..\/images\/xico's-journey.jpg",
-			"slug":"xico's-journey"
-		},
-		{
-			"title":"Wrong Turn",
-			"gatsby_image_path":"..\/..\/images\/wrong-turn.jpg",
-			"slug":"wrong-turn"
-		},
-		{
-			"title":"Wrath of Man",
-			"gatsby_image_path":"..\/..\/images\/wrath-of-man.jpg",
-			"slug":"wrath-of-man"
-		},
-		{
-			"title":"Wonder Woman 1984",
-			"gatsby_image_path":"..\/..\/images\/wonder-woman-1984.jpg",
-			"slug":"wonder-woman-1984"
-		}
-	],
-	"related_by_poster":[
-		{
-			"title":"Harry Potter and the Philosopher's Stone",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher's-stone.jpg",
-			"slug":"harry-potter-and-the-philosopher's-stone"
-		},
-		{
-			"title":"Alita: Battle Angel",
-			"gatsby_image_path":"..\/..\/images\/alita-battle-angel.jpg",
-			"slug":"alita-battle-angel"
-		},
-		{
-			"title":"Harry Potter and the Goblet of Fire",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
-			"slug":"harry-potter-and-the-goblet-of-fire"
-		},
-		{
-			"title":"Harry Potter and the Prisoner of Azkaban",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-prisoner-of-azkaban.jpg",
-			"slug":"harry-potter-and-the-prisoner-of-azkaban"
-		},
-		{
-			"title":"Rurouni Kenshin Part I: Origins",
-			"gatsby_image_path":"..\/..\/images\/rurouni-kenshin-part-i-origins.jpg",
-			"slug":"rurouni-kenshin-part-i-origins"
-		},
-		{
-			"title":"Kingsman: The Golden Circle",
-			"gatsby_image_path":"..\/..\/images\/kingsman-the-golden-circle.jpg",
-			"slug":"kingsman-the-golden-circle"
-		},
-		{
-			"title":"The Water Man",
-			"gatsby_image_path":"..\/..\/images\/the-water-man.jpg",
-			"slug":"the-water-man"
-		},
-		{
-			"title":"Breakthrough",
-			"gatsby_image_path":"..\/..\/images\/breakthrough.jpg",
-			"slug":"breakthrough"
-		},
-		{
-			"title":"Extraction",
-			"gatsby_image_path":"..\/..\/images\/extraction.jpg",
-			"slug":"extraction"
-		},
-		{
-			"title":"6 Underground",
-			"gatsby_image_path":"..\/..\/images\/6-underground.jpg",
-			"slug":"6-underground"
-		},
-		{
-			"title":"Black Water: Abyss",
-			"gatsby_image_path":"..\/..\/images\/black-water-abyss.jpg",
-			"slug":"black-water-abyss"
-		},
-		{
-			"title":"Godmothered",
-			"gatsby_image_path":"..\/..\/images\/godmothered.jpg",
-			"slug":"godmothered"
-		},
-		{
-			"title":"Pirates of the Caribbean: At World's End",
-			"gatsby_image_path":"..\/..\/images\/pirates-of-the-caribbean-at-world's-end.jpg",
-			"slug":"pirates-of-the-caribbean-at-world's-end"
-		},
-		{
-			"title":"Bloodshot",
-			"gatsby_image_path":"..\/..\/images\/bloodshot.jpg",
-			"slug":"bloodshot"
-		},
-		{
-			"title":"Crawl",
-			"gatsby_image_path":"..\/..\/images\/crawl.jpg",
-			"slug":"crawl"
-		},
-		{
-			"title":"Dark Phoenix",
-			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
-			"slug":"dark-phoenix"
-		},
-		{
-			"title":"Ashfall",
-			"gatsby_image_path":"..\/..\/images\/ashfall.jpg",
-			"slug":"ashfall"
-		},
-		{
-			"title":"The Little Things",
-			"gatsby_image_path":"..\/..\/images\/the-little-things.jpg",
-			"slug":"the-little-things"
-		},
-		{
-			"title":"How I Became a Superhero",
-			"gatsby_image_path":"..\/..\/images\/how-i-became-a-superhero.jpg",
-			"slug":"how-i-became-a-superhero"
-		},
-		{
-			"title":"Los viejos",
-			"gatsby_image_path":"..\/..\/images\/los-viejos.jpg",
-			"slug":"los-viejos"
+			"title":"Yes Day",
+			"gatsby_image_path":"..\/..\/images\/yes-day.jpg",
+			"slug":"yes-day"
 		}
 	],
 	"related_most_similar":[
@@ -214,39 +112,141 @@
 			"slug":"wrong-turn"
 		},
 		{
+			"title":"Wrong Turn 5: Bloodlines",
+			"gatsby_image_path":"..\/..\/images\/wrong-turn-5-bloodlines.jpg",
+			"slug":"wrong-turn-5-bloodlines"
+		},
+		{
+			"title":"Wrong Turn 4: Bloody Beginnings",
+			"gatsby_image_path":"..\/..\/images\/wrong-turn-4-bloody-beginnings.jpg",
+			"slug":"wrong-turn-4-bloody-beginnings"
+		},
+		{
+			"title":"Wrong Turn 3: Left for Dead",
+			"gatsby_image_path":"..\/..\/images\/wrong-turn-3-left-for-dead.jpg",
+			"slug":"wrong-turn-3-left-for-dead"
+		},
+		{
+			"title":"Wrong Turn 2: Dead End",
+			"gatsby_image_path":"..\/..\/images\/wrong-turn-2-dead-end.jpg",
+			"slug":"wrong-turn-2-dead-end"
+		},
+		{
+			"title":"World War Z",
+			"gatsby_image_path":"..\/..\/images\/world-war-z.jpg",
+			"slug":"world-war-z"
+		},
+		{
 			"title":"Underwater",
 			"gatsby_image_path":"..\/..\/images\/underwater.jpg",
 			"slug":"underwater"
 		},
 		{
-			"title":"The Wolf of Snow Hollow",
-			"gatsby_image_path":"..\/..\/images\/the-wolf-of-snow-hollow.jpg",
-			"slug":"the-wolf-of-snow-hollow"
+			"title":"Train to Busan",
+			"gatsby_image_path":"..\/..\/images\/train-to-busan.jpg",
+			"slug":"train-to-busan"
+		}
+	],
+	"related_by_poster":[
+		{
+			"title":"Harry Potter and the Philosopher's Stone",
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher-s-stone.jpg",
+			"slug":"harry-potter-and-the-philosopher-s-stone"
 		},
 		{
-			"title":"The Purge",
-			"gatsby_image_path":"..\/..\/images\/the-purge.jpg",
-			"slug":"the-purge"
+			"title":"Justice League",
+			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
+			"slug":"justice-league"
 		},
 		{
-			"title":"The Purge: Election Year",
-			"gatsby_image_path":"..\/..\/images\/the-purge-election-year.jpg",
-			"slug":"the-purge-election-year"
+			"title":"Alita: Battle Angel",
+			"gatsby_image_path":"..\/..\/images\/alita-battle-angel.jpg",
+			"slug":"alita-battle-angel"
 		},
 		{
-			"title":"The Mad Hatter",
-			"gatsby_image_path":"..\/..\/images\/the-mad-hatter.jpg",
-			"slug":"the-mad-hatter"
+			"title":"Train to Busan",
+			"gatsby_image_path":"..\/..\/images\/train-to-busan.jpg",
+			"slug":"train-to-busan"
 		},
 		{
-			"title":"The Haunting of Helena",
-			"gatsby_image_path":"..\/..\/images\/the-haunting-of-helena.jpg",
-			"slug":"the-haunting-of-helena"
+			"title":"Scary Movie 5",
+			"gatsby_image_path":"..\/..\/images\/scary-movie-5.jpg",
+			"slug":"scary-movie-5"
 		},
 		{
-			"title":"The Forever Purge",
-			"gatsby_image_path":"..\/..\/images\/the-forever-purge.jpg",
-			"slug":"the-forever-purge"
+			"title":"The Huntsman: Winter's War",
+			"gatsby_image_path":"..\/..\/images\/the-huntsman-winter-s-war.jpg",
+			"slug":"the-huntsman-winter-s-war"
+		},
+		{
+			"title":"Jumanji: Welcome to the Jungle",
+			"gatsby_image_path":"..\/..\/images\/jumanji-welcome-to-the-jungle.jpg",
+			"slug":"jumanji-welcome-to-the-jungle"
+		},
+		{
+			"title":"Sin City: A Dame to Kill For",
+			"gatsby_image_path":"..\/..\/images\/sin-city-a-dame-to-kill-for.jpg",
+			"slug":"sin-city-a-dame-to-kill-for"
+		},
+		{
+			"title":"Harry Potter and the Goblet of Fire",
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
+			"slug":"harry-potter-and-the-goblet-of-fire"
+		},
+		{
+			"title":"The Legend of Tarzan",
+			"gatsby_image_path":"..\/..\/images\/the-legend-of-tarzan.jpg",
+			"slug":"the-legend-of-tarzan"
+		},
+		{
+			"title":"Thor: The Dark World",
+			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
+			"slug":"thor-the-dark-world"
+		},
+		{
+			"title":"A Christmas Carol",
+			"gatsby_image_path":"..\/..\/images\/a-christmas-carol.jpg",
+			"slug":"a-christmas-carol"
+		},
+		{
+			"title":"Rurouni Kenshin Part I: Origins",
+			"gatsby_image_path":"..\/..\/images\/rurouni-kenshin-part-i-origins.jpg",
+			"slug":"rurouni-kenshin-part-i-origins"
+		},
+		{
+			"title":"Piranha",
+			"gatsby_image_path":"..\/..\/images\/piranha.jpg",
+			"slug":"piranha"
+		},
+		{
+			"title":"American Renegades",
+			"gatsby_image_path":"..\/..\/images\/american-renegades.jpg",
+			"slug":"american-renegades"
+		},
+		{
+			"title":"Harry Potter and the Prisoner of Azkaban",
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-prisoner-of-azkaban.jpg",
+			"slug":"harry-potter-and-the-prisoner-of-azkaban"
+		},
+		{
+			"title":"All the Devil's Men",
+			"gatsby_image_path":"..\/..\/images\/all-the-devil-s-men.jpg",
+			"slug":"all-the-devil-s-men"
+		},
+		{
+			"title":"Resident Evil: Damnation",
+			"gatsby_image_path":"..\/..\/images\/resident-evil-damnation.jpg",
+			"slug":"resident-evil-damnation"
+		},
+		{
+			"title":"Kingsman: The Golden Circle",
+			"gatsby_image_path":"..\/..\/images\/kingsman-the-golden-circle.jpg",
+			"slug":"kingsman-the-golden-circle"
+		},
+		{
+			"title":"Breakthrough",
+			"gatsby_image_path":"..\/..\/images\/breakthrough.jpg",
+			"slug":"breakthrough"
 		}
 	]
 }

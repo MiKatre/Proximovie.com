@@ -55,9 +55,34 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"X-Men: Apocalypse",
+			"gatsby_image_path":"..\/..\/images\/x-men-apocalypse.jpg",
+			"slug":"x-men-apocalypse"
+		},
+		{
+			"title":"X-Men: Days of Future Past",
+			"gatsby_image_path":"..\/..\/images\/x-men-days-of-future-past.jpg",
+			"slug":"x-men-days-of-future-past"
+		},
+		{
 			"title":"It Chapter Two",
 			"gatsby_image_path":"..\/..\/images\/it-chapter-two.jpg",
 			"slug":"it-chapter-two"
+		},
+		{
+			"title":"Voyagers",
+			"gatsby_image_path":"..\/..\/images\/voyagers.jpg",
+			"slug":"voyagers"
+		},
+		{
+			"title":"Victor Frankenstein",
+			"gatsby_image_path":"..\/..\/images\/victor-frankenstein.jpg",
+			"slug":"victor-frankenstein"
+		},
+		{
+			"title":"Time Freak",
+			"gatsby_image_path":"..\/..\/images\/time-freak.jpg",
+			"slug":"time-freak"
 		},
 		{
 			"title":"Those Who Wish Me Dead",
@@ -65,149 +90,42 @@
 			"slug":"those-who-wish-me-dead"
 		},
 		{
-			"title":"Ready Player One",
-			"gatsby_image_path":"..\/..\/images\/ready-player-one.jpg",
-			"slug":"ready-player-one"
+			"title":"The Martian",
+			"gatsby_image_path":"..\/..\/images\/the-martian.jpg",
+			"slug":"the-martian"
 		},
 		{
-			"title":"Glass",
-			"gatsby_image_path":"..\/..\/images\/glass.jpg",
-			"slug":"glass"
+			"title":"The Light Between Oceans",
+			"gatsby_image_path":"..\/..\/images\/the-light-between-oceans.jpg",
+			"slug":"the-light-between-oceans"
 		},
 		{
-			"title":"Ava",
-			"gatsby_image_path":"..\/..\/images\/ava.jpg",
-			"slug":"ava"
-		},
-		{
-			"title":"Zombieland: Double Tap",
-			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
-			"slug":"zombieland-double-tap"
-		},
-		{
-			"title":"Zack Snyder's Justice League",
-			"gatsby_image_path":"..\/..\/images\/zack-snyder's-justice-league.jpg",
-			"slug":"zack-snyder's-justice-league"
-		},
-		{
-			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
-			"gatsby_image_path":"..\/..\/images\/yu-gi-oh-the-dark-side-of-dimensions.jpg",
-			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
-		},
-		{
-			"title":"Your Name.",
-			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
-			"slug":"your-name"
-		},
-		{
-			"title":"Young Sister-in-law 3 - 2019",
-			"gatsby_image_path":"..\/..\/images\/young-sister-in-law-3-2019.jpg",
-			"slug":"young-sister-in-law-3-2019"
-		}
-	],
-	"related_by_poster":[
-		{
-			"title":"The Water Man",
-			"gatsby_image_path":"..\/..\/images\/the-water-man.jpg",
-			"slug":"the-water-man"
-		},
-		{
-			"title":"Psycho Goreman",
-			"gatsby_image_path":"..\/..\/images\/psycho-goreman.jpg",
-			"slug":"psycho-goreman"
-		},
-		{
-			"title":"Jungle Cruise",
-			"gatsby_image_path":"..\/..\/images\/jungle-cruise.jpg",
-			"slug":"jungle-cruise"
-		},
-		{
-			"title":"Peninsula",
-			"gatsby_image_path":"..\/..\/images\/peninsula.jpg",
-			"slug":"peninsula"
-		},
-		{
-			"title":"Harry Potter and the Prisoner of Azkaban",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-prisoner-of-azkaban.jpg",
-			"slug":"harry-potter-and-the-prisoner-of-azkaban"
-		},
-		{
-			"title":"Harry Potter and the Philosopher's Stone",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher's-stone.jpg",
-			"slug":"harry-potter-and-the-philosopher's-stone"
-		},
-		{
-			"title":"Harry Potter and the Chamber of Secrets",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-chamber-of-secrets.jpg",
-			"slug":"harry-potter-and-the-chamber-of-secrets"
-		},
-		{
-			"title":"Don't Breathe 2",
-			"gatsby_image_path":"..\/..\/images\/don't-breathe-2.jpg",
-			"slug":"don't-breathe-2"
-		},
-		{
-			"title":"Roald Dahl's The Witches",
-			"gatsby_image_path":"..\/..\/images\/roald-dahl's-the-witches.jpg",
-			"slug":"roald-dahl's-the-witches"
-		},
-		{
-			"title":"Avengers: Infinity War",
-			"gatsby_image_path":"..\/..\/images\/avengers-infinity-war.jpg",
-			"slug":"avengers-infinity-war"
-		},
-		{
-			"title":"Hitman's Wife's Bodyguard",
-			"gatsby_image_path":"..\/..\/images\/hitman's-wife's-bodyguard.jpg",
-			"slug":"hitman's-wife's-bodyguard"
-		},
-		{
-			"title":"Avengers: Endgame",
-			"gatsby_image_path":"..\/..\/images\/avengers-endgame.jpg",
-			"slug":"avengers-endgame"
-		},
-		{
-			"title":"Harry Potter and the Goblet of Fire",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
-			"slug":"harry-potter-and-the-goblet-of-fire"
-		},
-		{
-			"title":"Star Wars: The Rise of Skywalker",
-			"gatsby_image_path":"..\/..\/images\/star-wars-the-rise-of-skywalker.jpg",
-			"slug":"star-wars-the-rise-of-skywalker"
-		},
-		{
-			"title":"Fifty Shades of Grey",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
-			"slug":"fifty-shades-of-grey"
-		},
-		{
-			"title":"The Little Things",
-			"gatsby_image_path":"..\/..\/images\/the-little-things.jpg",
-			"slug":"the-little-things"
-		},
-		{
-			"title":"Rurouni Kenshin Part I: Origins",
-			"gatsby_image_path":"..\/..\/images\/rurouni-kenshin-part-i-origins.jpg",
-			"slug":"rurouni-kenshin-part-i-origins"
-		},
-		{
-			"title":"Batman: Death in the Family",
-			"gatsby_image_path":"..\/..\/images\/batman-death-in-the-family.jpg",
-			"slug":"batman-death-in-the-family"
-		},
-		{
-			"title":"How I Became a Superhero",
-			"gatsby_image_path":"..\/..\/images\/how-i-became-a-superhero.jpg",
-			"slug":"how-i-became-a-superhero"
-		},
-		{
-			"title":"Sing",
-			"gatsby_image_path":"..\/..\/images\/sing.jpg",
-			"slug":"sing"
+			"title":"The Huntsman: Winter's War",
+			"gatsby_image_path":"..\/..\/images\/the-huntsman-winter-s-war.jpg",
+			"slug":"the-huntsman-winter-s-war"
 		}
 	],
 	"related_most_similar":[
+		{
+			"title":"X-Men: Apocalypse",
+			"gatsby_image_path":"..\/..\/images\/x-men-apocalypse.jpg",
+			"slug":"x-men-apocalypse"
+		},
+		{
+			"title":"X-Men: Days of Future Past",
+			"gatsby_image_path":"..\/..\/images\/x-men-days-of-future-past.jpg",
+			"slug":"x-men-days-of-future-past"
+		},
+		{
+			"title":"Thor",
+			"gatsby_image_path":"..\/..\/images\/thor.jpg",
+			"slug":"thor"
+		},
+		{
+			"title":"Fantastic Four",
+			"gatsby_image_path":"..\/..\/images\/fantastic-four.jpg",
+			"slug":"fantastic-four"
+		},
 		{
 			"title":"Spider-Man: Into the Spider-Verse",
 			"gatsby_image_path":"..\/..\/images\/spider-man-into-the-spider-verse.jpg",
@@ -229,34 +147,116 @@
 			"slug":"avengers-endgame"
 		},
 		{
-			"title":"Thor: Ragnarok",
-			"gatsby_image_path":"..\/..\/images\/thor-ragnarok.jpg",
-			"slug":"thor-ragnarok"
+			"title":"The Incredible Hulk",
+			"gatsby_image_path":"..\/..\/images\/the-incredible-hulk.jpg",
+			"slug":"the-incredible-hulk"
 		},
 		{
-			"title":"The New Mutants",
-			"gatsby_image_path":"..\/..\/images\/the-new-mutants.jpg",
-			"slug":"the-new-mutants"
+			"title":"The Amazing Spider-Man 2",
+			"gatsby_image_path":"..\/..\/images\/the-amazing-spider-man-2.jpg",
+			"slug":"the-amazing-spider-man-2"
+		}
+	],
+	"related_by_poster":[
+		{
+			"title":"Rise of the Guardians",
+			"gatsby_image_path":"..\/..\/images\/rise-of-the-guardians.jpg",
+			"slug":"rise-of-the-guardians"
 		},
 		{
-			"title":"Spider-Man: Homecoming",
-			"gatsby_image_path":"..\/..\/images\/spider-man-homecoming.jpg",
-			"slug":"spider-man-homecoming"
+			"title":"Werewolves Within",
+			"gatsby_image_path":"..\/..\/images\/werewolves-within.jpg",
+			"slug":"werewolves-within"
 		},
 		{
-			"title":"Spider-Man: Far From Home",
-			"gatsby_image_path":"..\/..\/images\/spider-man-far-from-home.jpg",
-			"slug":"spider-man-far-from-home"
+			"title":"Iron Man 3",
+			"gatsby_image_path":"..\/..\/images\/iron-man-3.jpg",
+			"slug":"iron-man-3"
 		},
 		{
-			"title":"Captain Marvel",
-			"gatsby_image_path":"..\/..\/images\/captain-marvel.jpg",
-			"slug":"captain-marvel"
+			"title":"The Water Man",
+			"gatsby_image_path":"..\/..\/images\/the-water-man.jpg",
+			"slug":"the-water-man"
 		},
 		{
-			"title":"Black Panther",
-			"gatsby_image_path":"..\/..\/images\/black-panther.jpg",
-			"slug":"black-panther"
+			"title":"Scary Movie 3",
+			"gatsby_image_path":"..\/..\/images\/scary-movie-3.jpg",
+			"slug":"scary-movie-3"
+		},
+		{
+			"title":"Jungle Cruise",
+			"gatsby_image_path":"..\/..\/images\/jungle-cruise.jpg",
+			"slug":"jungle-cruise"
+		},
+		{
+			"title":"Peninsula",
+			"gatsby_image_path":"..\/..\/images\/peninsula.jpg",
+			"slug":"peninsula"
+		},
+		{
+			"title":"Scouts Guide to the Zombie Apocalypse",
+			"gatsby_image_path":"..\/..\/images\/scouts-guide-to-the-zombie-apocalypse.jpg",
+			"slug":"scouts-guide-to-the-zombie-apocalypse"
+		},
+		{
+			"title":"Backdraft 2",
+			"gatsby_image_path":"..\/..\/images\/backdraft-2.jpg",
+			"slug":"backdraft-2"
+		},
+		{
+			"title":"Descendants 3",
+			"gatsby_image_path":"..\/..\/images\/descendants-3.jpg",
+			"slug":"descendants-3"
+		},
+		{
+			"title":"Adventures of Aladdin",
+			"gatsby_image_path":"..\/..\/images\/adventures-of-aladdin.jpg",
+			"slug":"adventures-of-aladdin"
+		},
+		{
+			"title":"Psycho Goreman",
+			"gatsby_image_path":"..\/..\/images\/psycho-goreman.jpg",
+			"slug":"psycho-goreman"
+		},
+		{
+			"title":"Guardians of the Galaxy",
+			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy.jpg",
+			"slug":"guardians-of-the-galaxy"
+		},
+		{
+			"title":"Se7en",
+			"gatsby_image_path":"..\/..\/images\/se7en.jpg",
+			"slug":"se7en"
+		},
+		{
+			"title":"Harry Potter and the Prisoner of Azkaban",
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-prisoner-of-azkaban.jpg",
+			"slug":"harry-potter-and-the-prisoner-of-azkaban"
+		},
+		{
+			"title":"Night at the Museum: Secret of the Tomb",
+			"gatsby_image_path":"..\/..\/images\/night-at-the-museum-secret-of-the-tomb.jpg",
+			"slug":"night-at-the-museum-secret-of-the-tomb"
+		},
+		{
+			"title":"Spy Kids",
+			"gatsby_image_path":"..\/..\/images\/spy-kids.jpg",
+			"slug":"spy-kids"
+		},
+		{
+			"title":"Hunter x Hunter: The Last Mission",
+			"gatsby_image_path":"..\/..\/images\/hunter-x-hunter-the-last-mission.jpg",
+			"slug":"hunter-x-hunter-the-last-mission"
+		},
+		{
+			"title":"Harry Potter and the Chamber of Secrets",
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-chamber-of-secrets.jpg",
+			"slug":"harry-potter-and-the-chamber-of-secrets"
+		},
+		{
+			"title":"Thor: The Dark World",
+			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
+			"slug":"thor-the-dark-world"
 		}
 	]
 }

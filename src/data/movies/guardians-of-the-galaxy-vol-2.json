@@ -51,9 +51,34 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Guardians of the Galaxy Vol. 3",
+			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy-vol-3.jpg",
+			"slug":"guardians-of-the-galaxy-vol-3"
+		},
+		{
+			"title":"Guardians of the Galaxy",
+			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy.jpg",
+			"slug":"guardians-of-the-galaxy"
+		},
+		{
+			"title":"Vivo",
+			"gatsby_image_path":"..\/..\/images\/vivo.jpg",
+			"slug":"vivo"
+		},
+		{
+			"title":"The Suicide Squad",
+			"gatsby_image_path":"..\/..\/images\/the-suicide-squad.jpg",
+			"slug":"the-suicide-squad"
+		},
+		{
 			"title":"The Fate of the Furious",
 			"gatsby_image_path":"..\/..\/images\/the-fate-of-the-furious.jpg",
 			"slug":"the-fate-of-the-furious"
+		},
+		{
+			"title":"Stuber",
+			"gatsby_image_path":"..\/..\/images\/stuber.jpg",
+			"slug":"stuber"
 		},
 		{
 			"title":"Fast & Furious 10",
@@ -71,139 +96,32 @@
 			"slug":"escape-plan-the-extractors"
 		},
 		{
-			"title":"Avengers: Infinity War",
-			"gatsby_image_path":"..\/..\/images\/avengers-infinity-war.jpg",
-			"slug":"avengers-infinity-war"
-		},
-		{
-			"title":"Thunder Force",
-			"gatsby_image_path":"..\/..\/images\/thunder-force.jpg",
-			"slug":"thunder-force"
-		},
-		{
-			"title":"The Tomorrow War",
-			"gatsby_image_path":"..\/..\/images\/the-tomorrow-war.jpg",
-			"slug":"the-tomorrow-war"
-		},
-		{
-			"title":"The Suicide Squad",
-			"gatsby_image_path":"..\/..\/images\/the-suicide-squad.jpg",
-			"slug":"the-suicide-squad"
-		},
-		{
-			"title":"Rambo: Last Blood",
-			"gatsby_image_path":"..\/..\/images\/rambo-last-blood.jpg",
-			"slug":"rambo-last-blood"
-		},
-		{
-			"title":"Jurassic World",
-			"gatsby_image_path":"..\/..\/images\/jurassic-world.jpg",
-			"slug":"jurassic-world"
-		}
-	],
-	"related_by_poster":[
-		{
-			"title":"Avengers: Infinity War",
-			"gatsby_image_path":"..\/..\/images\/avengers-infinity-war.jpg",
-			"slug":"avengers-infinity-war"
-		},
-		{
-			"title":"Avengers: Endgame",
-			"gatsby_image_path":"..\/..\/images\/avengers-endgame.jpg",
-			"slug":"avengers-endgame"
-		},
-		{
-			"title":"Dark Phoenix",
-			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
-			"slug":"dark-phoenix"
-		},
-		{
-			"title":"The Tax Collector",
-			"gatsby_image_path":"..\/..\/images\/the-tax-collector.jpg",
-			"slug":"the-tax-collector"
-		},
-		{
-			"title":"Star Wars: The Rise of Skywalker",
-			"gatsby_image_path":"..\/..\/images\/star-wars-the-rise-of-skywalker.jpg",
-			"slug":"star-wars-the-rise-of-skywalker"
-		},
-		{
-			"title":"Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
-			"gatsby_image_path":"..\/..\/images\/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train.jpg",
-			"slug":"demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train"
-		},
-		{
-			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
-			"gatsby_image_path":"..\/..\/images\/yu-gi-oh-the-dark-side-of-dimensions.jpg",
-			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
-		},
-		{
-			"title":"Naruto Shippuden the Movie: The Lost Tower",
-			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-the-lost-tower.jpg",
-			"slug":"naruto-shippuden-the-movie-the-lost-tower"
-		},
-		{
-			"title":"Peninsula",
-			"gatsby_image_path":"..\/..\/images\/peninsula.jpg",
-			"slug":"peninsula"
-		},
-		{
-			"title":"Roald Dahl's The Witches",
-			"gatsby_image_path":"..\/..\/images\/roald-dahl's-the-witches.jpg",
-			"slug":"roald-dahl's-the-witches"
-		},
-		{
-			"title":"Saint Seiya Heaven Chapter: Overture",
-			"gatsby_image_path":"..\/..\/images\/saint-seiya-heaven-chapter-overture.jpg",
-			"slug":"saint-seiya-heaven-chapter-overture"
-		},
-		{
-			"title":"Captain Marvel",
-			"gatsby_image_path":"..\/..\/images\/captain-marvel.jpg",
-			"slug":"captain-marvel"
-		},
-		{
-			"title":"Phineas and Ferb: The Movie: Candace Against the Universe",
-			"gatsby_image_path":"..\/..\/images\/phineas-and-ferb-the-movie-candace-against-the-universe.jpg",
-			"slug":"phineas-and-ferb-the-movie-candace-against-the-universe"
-		},
-		{
-			"title":"Miraculous World: Shanghai – The Legend of Ladydragon",
-			"gatsby_image_path":"..\/..\/images\/miraculous-world-shanghai-the-legend-of-ladydragon.jpg",
-			"slug":"miraculous-world-shanghai-the-legend-of-ladydragon"
-		},
-		{
-			"title":"Hitman's Wife's Bodyguard",
-			"gatsby_image_path":"..\/..\/images\/hitman's-wife's-bodyguard.jpg",
-			"slug":"hitman's-wife's-bodyguard"
-		},
-		{
-			"title":"Dragon Ball Z: Bio-Broly",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-bio-broly.jpg",
-			"slug":"dragon-ball-z-bio-broly"
-		},
-		{
-			"title":"Army of the Dead",
-			"gatsby_image_path":"..\/..\/images\/army-of-the-dead.jpg",
-			"slug":"army-of-the-dead"
-		},
-		{
-			"title":"Hellboy",
-			"gatsby_image_path":"..\/..\/images\/hellboy.jpg",
-			"slug":"hellboy"
-		},
-		{
-			"title":"Black Panther",
-			"gatsby_image_path":"..\/..\/images\/black-panther.jpg",
-			"slug":"black-panther"
-		},
-		{
-			"title":"Skylines",
-			"gatsby_image_path":"..\/..\/images\/skylines.jpg",
-			"slug":"skylines"
+			"title":"Escape Plan 2: Hades",
+			"gatsby_image_path":"..\/..\/images\/escape-plan-2-hades.jpg",
+			"slug":"escape-plan-2-hades"
 		}
 	],
 	"related_most_similar":[
+		{
+			"title":"Guardians of the Galaxy",
+			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy.jpg",
+			"slug":"guardians-of-the-galaxy"
+		},
+		{
+			"title":"Guardians of the Galaxy Vol. 3",
+			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy-vol-3.jpg",
+			"slug":"guardians-of-the-galaxy-vol-3"
+		},
+		{
+			"title":"Thor",
+			"gatsby_image_path":"..\/..\/images\/thor.jpg",
+			"slug":"thor"
+		},
+		{
+			"title":"Iron Man 2",
+			"gatsby_image_path":"..\/..\/images\/iron-man-2.jpg",
+			"slug":"iron-man-2"
+		},
 		{
 			"title":"Captain Marvel",
 			"gatsby_image_path":"..\/..\/images\/captain-marvel.jpg",
@@ -220,29 +138,26 @@
 			"slug":"thor-ragnarok"
 		},
 		{
+			"title":"Iron Man",
+			"gatsby_image_path":"..\/..\/images\/iron-man.jpg",
+			"slug":"iron-man"
+		},
+		{
 			"title":"Black Panther",
 			"gatsby_image_path":"..\/..\/images\/black-panther.jpg",
 			"slug":"black-panther"
 		},
 		{
-			"title":"Avengers: Infinity War",
-			"gatsby_image_path":"..\/..\/images\/avengers-infinity-war.jpg",
-			"slug":"avengers-infinity-war"
-		},
-		{
 			"title":"Ant-Man and the Wasp",
 			"gatsby_image_path":"..\/..\/images\/ant-man-and-the-wasp.jpg",
 			"slug":"ant-man-and-the-wasp"
-		},
+		}
+	],
+	"related_by_poster":[
 		{
-			"title":"Spider-Man: Homecoming",
-			"gatsby_image_path":"..\/..\/images\/spider-man-homecoming.jpg",
-			"slug":"spider-man-homecoming"
-		},
-		{
-			"title":"Spider-Man: Far From Home",
-			"gatsby_image_path":"..\/..\/images\/spider-man-far-from-home.jpg",
-			"slug":"spider-man-far-from-home"
+			"title":"Avengers: Infinity War",
+			"gatsby_image_path":"..\/..\/images\/avengers-infinity-war.jpg",
+			"slug":"avengers-infinity-war"
 		},
 		{
 			"title":"Avengers: Endgame",
@@ -250,9 +165,94 @@
 			"slug":"avengers-endgame"
 		},
 		{
-			"title":"The Avengers",
-			"gatsby_image_path":"..\/..\/images\/the-avengers.jpg",
-			"slug":"the-avengers"
+			"title":"Guardians of the Galaxy",
+			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy.jpg",
+			"slug":"guardians-of-the-galaxy"
+		},
+		{
+			"title":"Dragon Ball Super: Broly",
+			"gatsby_image_path":"..\/..\/images\/dragon-ball-super-broly.jpg",
+			"slug":"dragon-ball-super-broly"
+		},
+		{
+			"title":"Iron Man",
+			"gatsby_image_path":"..\/..\/images\/iron-man.jpg",
+			"slug":"iron-man"
+		},
+		{
+			"title":"Iron Man 3",
+			"gatsby_image_path":"..\/..\/images\/iron-man-3.jpg",
+			"slug":"iron-man-3"
+		},
+		{
+			"title":"Hunter x Hunter: The Last Mission",
+			"gatsby_image_path":"..\/..\/images\/hunter-x-hunter-the-last-mission.jpg",
+			"slug":"hunter-x-hunter-the-last-mission"
+		},
+		{
+			"title":"Dark Phoenix",
+			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
+			"slug":"dark-phoenix"
+		},
+		{
+			"title":"The Tax Collector",
+			"gatsby_image_path":"..\/..\/images\/the-tax-collector.jpg",
+			"slug":"the-tax-collector"
+		},
+		{
+			"title":"The Adventures of Sharkboy and Lavagirl",
+			"gatsby_image_path":"..\/..\/images\/the-adventures-of-sharkboy-and-lavagirl.jpg",
+			"slug":"the-adventures-of-sharkboy-and-lavagirl"
+		},
+		{
+			"title":"Star Wars: The Force Awakens",
+			"gatsby_image_path":"..\/..\/images\/star-wars-the-force-awakens.jpg",
+			"slug":"star-wars-the-force-awakens"
+		},
+		{
+			"title":"Incredibles 2",
+			"gatsby_image_path":"..\/..\/images\/incredibles-2.jpg",
+			"slug":"incredibles-2"
+		},
+		{
+			"title":"Werewolves Within",
+			"gatsby_image_path":"..\/..\/images\/werewolves-within.jpg",
+			"slug":"werewolves-within"
+		},
+		{
+			"title":"Dragon Ball Z: Bojack Unbound",
+			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-bojack-unbound.jpg",
+			"slug":"dragon-ball-z-bojack-unbound"
+		},
+		{
+			"title":"Jingle Jangle: A Christmas Journey",
+			"gatsby_image_path":"..\/..\/images\/jingle-jangle-a-christmas-journey.jpg",
+			"slug":"jingle-jangle-a-christmas-journey"
+		},
+		{
+			"title":"Teen Titans: The Judas Contract",
+			"gatsby_image_path":"..\/..\/images\/teen-titans-the-judas-contract.jpg",
+			"slug":"teen-titans-the-judas-contract"
+		},
+		{
+			"title":"The Hunger Games: Mockingjay - Part 2",
+			"gatsby_image_path":"..\/..\/images\/the-hunger-games-mockingjay-part-2.jpg",
+			"slug":"the-hunger-games-mockingjay-part-2"
+		},
+		{
+			"title":"The Expendables 2",
+			"gatsby_image_path":"..\/..\/images\/the-expendables-2.jpg",
+			"slug":"the-expendables-2"
+		},
+		{
+			"title":"Star Wars: The Rise of Skywalker",
+			"gatsby_image_path":"..\/..\/images\/star-wars-the-rise-of-skywalker.jpg",
+			"slug":"star-wars-the-rise-of-skywalker"
+		},
+		{
+			"title":"Rise of the Guardians",
+			"gatsby_image_path":"..\/..\/images\/rise-of-the-guardians.jpg",
+			"slug":"rise-of-the-guardians"
 		}
 	]
 }

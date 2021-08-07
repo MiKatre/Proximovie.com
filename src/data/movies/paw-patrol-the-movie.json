@@ -1,6 +1,6 @@
 {
 	"title":"PAW Patrol: The Movie",
-	"status":"Post Production",
+	"status":"Released",
 	"runtime":88,
 	"revenue":0,
 	"release_date":"2021-08-09",
@@ -54,9 +54,24 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
+		},
+		{
 			"title":"Those Who Wish Me Dead",
 			"gatsby_image_path":"..\/..\/images\/those-who-wish-me-dead.jpg",
 			"slug":"those-who-wish-me-dead"
+		},
+		{
+			"title":"The Simpsons 20th Anniversary Special - In 3D! On Ice!",
+			"gatsby_image_path":"..\/..\/images\/the-simpsons-20th-anniversary-special-in-3d-on-ice.jpg",
+			"slug":"the-simpsons-20th-anniversary-special-in-3d-on-ice"
+		},
+		{
+			"title":"The Boss Baby",
+			"gatsby_image_path":"..\/..\/images\/the-boss-baby.jpg",
+			"slug":"the-boss-baby"
 		},
 		{
 			"title":"The Boss Baby: Family Business",
@@ -64,47 +79,89 @@
 			"slug":"the-boss-baby-family-business"
 		},
 		{
+			"title":"Teenage Mutant Ninja Turtles: Out of the Shadows",
+			"gatsby_image_path":"..\/..\/images\/teenage-mutant-ninja-turtles-out-of-the-shadows.jpg",
+			"slug":"teenage-mutant-ninja-turtles-out-of-the-shadows"
+		},
+		{
 			"title":"Spirit Untamed",
 			"gatsby_image_path":"..\/..\/images\/spirit-untamed.jpg",
 			"slug":"spirit-untamed"
 		},
 		{
-			"title":"Zombieland: Double Tap",
-			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
-			"slug":"zombieland-double-tap"
+			"title":"Monsters vs Aliens",
+			"gatsby_image_path":"..\/..\/images\/monsters-vs-aliens.jpg",
+			"slug":"monsters-vs-aliens"
 		},
 		{
-			"title":"Zack Snyder's Justice League",
-			"gatsby_image_path":"..\/..\/images\/zack-snyder's-justice-league.jpg",
-			"slug":"zack-snyder's-justice-league"
+			"title":"Gone Girl",
+			"gatsby_image_path":"..\/..\/images\/gone-girl.jpg",
+			"slug":"gone-girl"
 		},
 		{
-			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
-			"gatsby_image_path":"..\/..\/images\/yu-gi-oh-the-dark-side-of-dimensions.jpg",
-			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
+			"title":"Garfield",
+			"gatsby_image_path":"..\/..\/images\/garfield.jpg",
+			"slug":"garfield"
+		}
+	],
+	"related_most_similar":[
+		{
+			"title":"The SpongeBob Movie: Sponge on the Run",
+			"gatsby_image_path":"..\/..\/images\/the-spongebob-movie-sponge-on-the-run.jpg",
+			"slug":"the-spongebob-movie-sponge-on-the-run"
 		},
 		{
-			"title":"Your Name.",
-			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
-			"slug":"your-name"
+			"title":"The SpongeBob Movie: Sponge Out of Water",
+			"gatsby_image_path":"..\/..\/images\/the-spongebob-movie-sponge-out-of-water.jpg",
+			"slug":"the-spongebob-movie-sponge-out-of-water"
 		},
 		{
-			"title":"Young Sister-in-law 3 - 2019",
-			"gatsby_image_path":"..\/..\/images\/young-sister-in-law-3-2019.jpg",
-			"slug":"young-sister-in-law-3-2019"
+			"title":"The Rugrats Movie",
+			"gatsby_image_path":"..\/..\/images\/the-rugrats-movie.jpg",
+			"slug":"the-rugrats-movie"
 		},
 		{
-			"title":"Xtreme",
-			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
-			"slug":"xtreme"
+			"title":"The Angry Birds Movie 2",
+			"gatsby_image_path":"..\/..\/images\/the-angry-birds-movie-2.jpg",
+			"slug":"the-angry-birds-movie-2"
 		},
 		{
-			"title":"Xico's Journey",
-			"gatsby_image_path":"..\/..\/images\/xico's-journey.jpg",
-			"slug":"xico's-journey"
+			"title":"Teenage Mutant Ninja Turtles: Out of the Shadows",
+			"gatsby_image_path":"..\/..\/images\/teenage-mutant-ninja-turtles-out-of-the-shadows.jpg",
+			"slug":"teenage-mutant-ninja-turtles-out-of-the-shadows"
+		},
+		{
+			"title":"Rango",
+			"gatsby_image_path":"..\/..\/images\/rango.jpg",
+			"slug":"rango"
+		},
+		{
+			"title":"Minions",
+			"gatsby_image_path":"..\/..\/images\/minions.jpg",
+			"slug":"minions"
+		},
+		{
+			"title":"Despicable Me 3",
+			"gatsby_image_path":"..\/..\/images\/despicable-me-3.jpg",
+			"slug":"despicable-me-3"
+		},
+		{
+			"title":"The SpongeBob SquarePants Movie",
+			"gatsby_image_path":"..\/..\/images\/the-spongebob-squarepants-movie.jpg",
+			"slug":"the-spongebob-squarepants-movie"
+		},
+		{
+			"title":"The Emperor's New Groove",
+			"gatsby_image_path":"..\/..\/images\/the-emperor-s-new-groove.jpg",
+			"slug":"the-emperor-s-new-groove"
 		}
 	],
 	"related_by_poster":[
+		{
+			"title":"Combat Wombat",
+			"gatsby_image_path":"..\/..\/images\/combat-wombat.jpg",
+			"slug":"combat-wombat"
+		},
 		{
 			"title":"Toy Story",
 			"gatsby_image_path":"..\/..\/images\/toy-story.jpg",
@@ -121,6 +178,26 @@
 			"slug":"the-croods-a-new-age"
 		},
 		{
+			"title":"Hoodwinked Too! Hood VS. Evil",
+			"gatsby_image_path":"..\/..\/images\/hoodwinked-too-hood-vs.-evil.jpg",
+			"slug":"hoodwinked-too-hood-vs.-evil"
+		},
+		{
+			"title":"Next Avengers: Heroes of Tomorrow",
+			"gatsby_image_path":"..\/..\/images\/next-avengers-heroes-of-tomorrow.jpg",
+			"slug":"next-avengers-heroes-of-tomorrow"
+		},
+		{
+			"title":"Jungle Beat: The Movie",
+			"gatsby_image_path":"..\/..\/images\/jungle-beat-the-movie.jpg",
+			"slug":"jungle-beat-the-movie"
+		},
+		{
+			"title":"Pokémon the Movie: Volcanion and the Mechanical Marvel",
+			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-volcanion-and-the-mechanical-marvel.jpg",
+			"slug":"pokémon-the-movie-volcanion-and-the-mechanical-marvel"
+		},
+		{
 			"title":"Sing",
 			"gatsby_image_path":"..\/..\/images\/sing.jpg",
 			"slug":"sing"
@@ -131,131 +208,54 @@
 			"slug":"my-hero-academia-two-heroes"
 		},
 		{
+			"title":"Pokémon the Movie: Hoopa and the Clash of Ages",
+			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-hoopa-and-the-clash-of-ages.jpg",
+			"slug":"pokémon-the-movie-hoopa-and-the-clash-of-ages"
+		},
+		{
+			"title":"Checkered Ninja",
+			"gatsby_image_path":"..\/..\/images\/checkered-ninja.jpg",
+			"slug":"checkered-ninja"
+		},
+		{
+			"title":"Huevos: Little Rooster's Egg-Cellent Adventure",
+			"gatsby_image_path":"..\/..\/images\/huevos-little-rooster-s-egg-cellent-adventure.jpg",
+			"slug":"huevos-little-rooster-s-egg-cellent-adventure"
+		},
+		{
 			"title":"Toy Story 2",
 			"gatsby_image_path":"..\/..\/images\/toy-story-2.jpg",
 			"slug":"toy-story-2"
 		},
 		{
-			"title":"Shrek 2",
-			"gatsby_image_path":"..\/..\/images\/shrek-2.jpg",
-			"slug":"shrek-2"
+			"title":"Scooby-Doo! in Where's My Mummy?",
+			"gatsby_image_path":"..\/..\/images\/scooby-doo-in-where-s-my-mummy.jpg",
+			"slug":"scooby-doo-in-where-s-my-mummy"
 		},
 		{
-			"title":"PAW Patrol: Jet to the Rescue",
-			"gatsby_image_path":"..\/..\/images\/paw-patrol-jet-to-the-rescue.jpg",
-			"slug":"paw-patrol-jet-to-the-rescue"
+			"title":"Robin Hood",
+			"gatsby_image_path":"..\/..\/images\/robin-hood.jpg",
+			"slug":"robin-hood"
 		},
 		{
-			"title":"Phineas and Ferb: The Movie: Candace Against the Universe",
-			"gatsby_image_path":"..\/..\/images\/phineas-and-ferb-the-movie-candace-against-the-universe.jpg",
-			"slug":"phineas-and-ferb-the-movie-candace-against-the-universe"
+			"title":"Ella Bella Bingo",
+			"gatsby_image_path":"..\/..\/images\/ella-bella-bingo.jpg",
+			"slug":"ella-bella-bingo"
 		},
 		{
-			"title":"Super Monsters: Once Upon a Rhyme",
-			"gatsby_image_path":"..\/..\/images\/super-monsters-once-upon-a-rhyme.jpg",
-			"slug":"super-monsters-once-upon-a-rhyme"
+			"title":"Toy Story That Time Forgot",
+			"gatsby_image_path":"..\/..\/images\/toy-story-that-time-forgot.jpg",
+			"slug":"toy-story-that-time-forgot"
 		},
 		{
-			"title":"Toy Story 4",
-			"gatsby_image_path":"..\/..\/images\/toy-story-4.jpg",
-			"slug":"toy-story-4"
+			"title":"Barbie Fairytopia: Mermaidia",
+			"gatsby_image_path":"..\/..\/images\/barbie-fairytopia-mermaidia.jpg",
+			"slug":"barbie-fairytopia-mermaidia"
 		},
 		{
-			"title":"Shrek",
-			"gatsby_image_path":"..\/..\/images\/shrek.jpg",
-			"slug":"shrek"
-		},
-		{
-			"title":"War of Likes",
-			"gatsby_image_path":"..\/..\/images\/war-of-likes.jpg",
-			"slug":"war-of-likes"
-		},
-		{
-			"title":"Naruto Shippuden the Movie: The Lost Tower",
-			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-the-lost-tower.jpg",
-			"slug":"naruto-shippuden-the-movie-the-lost-tower"
-		},
-		{
-			"title":"How I Became a Superhero",
-			"gatsby_image_path":"..\/..\/images\/how-i-became-a-superhero.jpg",
-			"slug":"how-i-became-a-superhero"
-		},
-		{
-			"title":"Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
-			"gatsby_image_path":"..\/..\/images\/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train.jpg",
-			"slug":"demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train"
-		},
-		{
-			"title":"We Can Be Heroes",
-			"gatsby_image_path":"..\/..\/images\/we-can-be-heroes.jpg",
-			"slug":"we-can-be-heroes"
-		},
-		{
-			"title":"We Bare Bears: The Movie",
-			"gatsby_image_path":"..\/..\/images\/we-bare-bears-the-movie.jpg",
-			"slug":"we-bare-bears-the-movie"
-		},
-		{
-			"title":"Dark Phoenix",
-			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
-			"slug":"dark-phoenix"
-		},
-		{
-			"title":"Barbie & Chelsea the Lost Birthday",
-			"gatsby_image_path":"..\/..\/images\/barbie-chelsea-the-lost-birthday.jpg",
-			"slug":"barbie-chelsea-the-lost-birthday"
-		}
-	],
-	"related_most_similar":[
-		{
-			"title":"The SpongeBob Movie: Sponge on the Run",
-			"gatsby_image_path":"..\/..\/images\/the-spongebob-movie-sponge-on-the-run.jpg",
-			"slug":"the-spongebob-movie-sponge-on-the-run"
-		},
-		{
-			"title":"The Boss Baby: Family Business",
-			"gatsby_image_path":"..\/..\/images\/the-boss-baby-family-business.jpg",
-			"slug":"the-boss-baby-family-business"
-		},
-		{
-			"title":"We Bare Bears: The Movie",
-			"gatsby_image_path":"..\/..\/images\/we-bare-bears-the-movie.jpg",
-			"slug":"we-bare-bears-the-movie"
-		},
-		{
-			"title":"Toy Story",
-			"gatsby_image_path":"..\/..\/images\/toy-story.jpg",
-			"slug":"toy-story"
-		},
-		{
-			"title":"Toy Story 4",
-			"gatsby_image_path":"..\/..\/images\/toy-story-4.jpg",
-			"slug":"toy-story-4"
-		},
-		{
-			"title":"The Croods: A New Age",
-			"gatsby_image_path":"..\/..\/images\/the-croods-a-new-age.jpg",
-			"slug":"the-croods-a-new-age"
-		},
-		{
-			"title":"Teen Titans Go! See Space Jam",
-			"gatsby_image_path":"..\/..\/images\/teen-titans-go-see-space-jam.jpg",
-			"slug":"teen-titans-go-see-space-jam"
-		},
-		{
-			"title":"Teenage Mutant Ninja Turtles",
-			"gatsby_image_path":"..\/..\/images\/teenage-mutant-ninja-turtles.jpg",
-			"slug":"teenage-mutant-ninja-turtles"
-		},
-		{
-			"title":"Spirit Untamed",
-			"gatsby_image_path":"..\/..\/images\/spirit-untamed.jpg",
-			"slug":"spirit-untamed"
-		},
-		{
-			"title":"Space Jam: A New Legacy",
-			"gatsby_image_path":"..\/..\/images\/space-jam-a-new-legacy.jpg",
-			"slug":"space-jam-a-new-legacy"
+			"title":"Eggs Run",
+			"gatsby_image_path":"..\/..\/images\/eggs-run.jpg",
+			"slug":"eggs-run"
 		}
 	]
 }

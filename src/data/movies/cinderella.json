@@ -1,239 +1,187 @@
 {
 	"title":"Cinderella",
 	"status":"Released",
-	"runtime":74,
-	"revenue":263591415,
-	"release_date":"1950-02-22",
+	"runtime":105,
+	"revenue":543514353,
+	"release_date":"2015-03-12",
 	"production_countries":[
+		"United Kingdom",
 		"United States of America"
 	],
 	"production_companies":[
 		"Walt Disney Pictures",
-		"Walt Disney Productions"
+		"Genre Films",
+		"Beagle Pug Films",
+		"Allison Shearmur Productions"
 	],
-	"poster_path":"\/4nssBcQUBadCTBjrAkX46mVEKts.jpg",
-	"imdb_id":"tt0042332",
+	"poster_path":"\/ryKwNlAfDXu0do6SX9h4G9Si1kG.jpg",
+	"imdb_id":"tt1661199",
 	"original_title":"Cinderella",
-	"overview":"Cinderella has faith her dreams of a better life will come true. With help from her loyal mice friends and a wave of her Fairy Godmother's wand, Cinderella's rags are magically turned into a glorious gown and off she goes to the Royal Ball. But when the clock strikes midnight, the spell is broken, leaving a single glass slipper... the only key to the ultimate fairy-tale ending!",
+	"overview":"When her father unexpectedly passes away, young Ella finds herself at the mercy of her cruel stepmother and her daughters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger in the woods.",
 	"original_language":"en",
 	"adult":false,
-	"budget":2900000,
+	"budget":95000000,
 	"genres":[
-		"Family",
+		"Romance",
 		"Fantasy",
-		"Animation",
-		"Romance"
+		"Family",
+		"Drama"
 	],
 	"slug":"cinderella",
 	"gatsby_image_path":"..\/..\/images\/cinderella.jpg",
 	"cast":[
-		"Ilene Woods",
-		"Eleanor Audley",
-		"Verna Felton",
-		"Claire Du Brey",
-		"Rhoda Williams",
-		"James MacDonald",
-		"Helene Stanley",
-		"Luis van Rooten",
-		"Don Barclay",
-		"Lucille Bliss"
+		"Lily James",
+		"Cate Blanchett",
+		"Richard Madden",
+		"Stellan Skarsgård",
+		"Holliday Grainger",
+		"Sophie McShera",
+		"Derek Jacobi",
+		"Helena Bonham Carter",
+		"Nonso Anozie",
+		"Ben Chaplin"
 	],
 	"crew":[
-		"Walt Disney",
-		"Paul J. Smith",
-		"C.O. Slyfield",
-		"Robert O. Cook",
-		"Ted Sears",
-		"Ben Sharpsteen",
-		"Hamilton Luske",
-		"Wilfred Jackson",
-		"Eric Larson",
-		"Charles Perrault"
+		"Dante Ferretti",
+		"Chris Weitz",
+		"Leslie Tomkins",
+		"Francesca Lo Schiavo",
+		"Sandy Powell",
+		"Patrick Doyle",
+		"Patrick Doyle",
+		"Martin Walsh",
+		"Kenneth Branagh",
+		"James Mather"
 	],
 	"related_by_cast":[
 		{
-			"title":"Zombieland: Double Tap",
-			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
-			"slug":"zombieland-double-tap"
+			"title":"The Dig",
+			"gatsby_image_path":"..\/..\/images\/the-dig.jpg",
+			"slug":"the-dig"
 		},
 		{
-			"title":"Zack Snyder's Justice League",
-			"gatsby_image_path":"..\/..\/images\/zack-snyder's-justice-league.jpg",
-			"slug":"zack-snyder's-justice-league"
+			"title":"Ocean's Eight",
+			"gatsby_image_path":"..\/..\/images\/ocean-s-eight.jpg",
+			"slug":"ocean-s-eight"
 		},
 		{
-			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
-			"gatsby_image_path":"..\/..\/images\/yu-gi-oh-the-dark-side-of-dimensions.jpg",
-			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
+			"title":"Wrath of the Titans",
+			"gatsby_image_path":"..\/..\/images\/wrath-of-the-titans.jpg",
+			"slug":"wrath-of-the-titans"
 		},
 		{
-			"title":"Your Name.",
-			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
-			"slug":"your-name"
+			"title":"Where'd You Go, Bernadette",
+			"gatsby_image_path":"..\/..\/images\/where-d-you-go-bernadette.jpg",
+			"slug":"where-d-you-go-bernadette"
 		},
 		{
-			"title":"Young Sister-in-law 3 - 2019",
-			"gatsby_image_path":"..\/..\/images\/young-sister-in-law-3-2019.jpg",
-			"slug":"young-sister-in-law-3-2019"
+			"title":"Tomb Raider",
+			"gatsby_image_path":"..\/..\/images\/tomb-raider.jpg",
+			"slug":"tomb-raider"
 		},
 		{
-			"title":"Xtreme",
-			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
-			"slug":"xtreme"
+			"title":"Thor: Ragnarok",
+			"gatsby_image_path":"..\/..\/images\/thor-ragnarok.jpg",
+			"slug":"thor-ragnarok"
 		},
 		{
-			"title":"Xico's Journey",
-			"gatsby_image_path":"..\/..\/images\/xico's-journey.jpg",
-			"slug":"xico's-journey"
+			"title":"Thor",
+			"gatsby_image_path":"..\/..\/images\/thor.jpg",
+			"slug":"thor"
 		},
 		{
-			"title":"Wrong Turn",
-			"gatsby_image_path":"..\/..\/images\/wrong-turn.jpg",
-			"slug":"wrong-turn"
+			"title":"The Hobbit: An Unexpected Journey",
+			"gatsby_image_path":"..\/..\/images\/the-hobbit-an-unexpected-journey.jpg",
+			"slug":"the-hobbit-an-unexpected-journey"
 		},
 		{
-			"title":"Wrath of Man",
-			"gatsby_image_path":"..\/..\/images\/wrath-of-man.jpg",
-			"slug":"wrath-of-man"
+			"title":"The Grey",
+			"gatsby_image_path":"..\/..\/images\/the-grey.jpg",
+			"slug":"the-grey"
 		},
 		{
-			"title":"Wonder Woman 1984",
-			"gatsby_image_path":"..\/..\/images\/wonder-woman-1984.jpg",
-			"slug":"wonder-woman-1984"
-		}
-	],
-	"related_by_poster":[
-		{
-			"title":"Toy Story 2",
-			"gatsby_image_path":"..\/..\/images\/toy-story-2.jpg",
-			"slug":"toy-story-2"
-		},
-		{
-			"title":"Toy Story",
-			"gatsby_image_path":"..\/..\/images\/toy-story.jpg",
-			"slug":"toy-story"
-		},
-		{
-			"title":"Shrek 2",
-			"gatsby_image_path":"..\/..\/images\/shrek-2.jpg",
-			"slug":"shrek-2"
-		},
-		{
-			"title":"Wish Dragon",
-			"gatsby_image_path":"..\/..\/images\/wish-dragon.jpg",
-			"slug":"wish-dragon"
-		},
-		{
-			"title":"Sing",
-			"gatsby_image_path":"..\/..\/images\/sing.jpg",
-			"slug":"sing"
-		},
-		{
-			"title":"The Croods: A New Age",
-			"gatsby_image_path":"..\/..\/images\/the-croods-a-new-age.jpg",
-			"slug":"the-croods-a-new-age"
-		},
-		{
-			"title":"Hotel Transylvania: Transformania",
-			"gatsby_image_path":"..\/..\/images\/hotel-transylvania-transformania.jpg",
-			"slug":"hotel-transylvania-transformania"
-		},
-		{
-			"title":"Maya the Bee: The Golden Orb",
-			"gatsby_image_path":"..\/..\/images\/maya-the-bee-the-golden-orb.jpg",
-			"slug":"maya-the-bee-the-golden-orb"
-		},
-		{
-			"title":"PAW Patrol: The Movie",
-			"gatsby_image_path":"..\/..\/images\/paw-patrol-the-movie.jpg",
-			"slug":"paw-patrol-the-movie"
-		},
-		{
-			"title":"We Can Be Heroes",
-			"gatsby_image_path":"..\/..\/images\/we-can-be-heroes.jpg",
-			"slug":"we-can-be-heroes"
-		},
-		{
-			"title":"Naruto Shippuden the Movie: The Lost Tower",
-			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-the-lost-tower.jpg",
-			"slug":"naruto-shippuden-the-movie-the-lost-tower"
-		},
-		{
-			"title":"Dragon Ball Z: Cooler's Revenge",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-cooler's-revenge.jpg",
-			"slug":"dragon-ball-z-cooler's-revenge"
-		},
-		{
-			"title":"Harry Potter and the Philosopher's Stone",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher's-stone.jpg",
-			"slug":"harry-potter-and-the-philosopher's-stone"
-		},
-		{
-			"title":"Sweet & Sour",
-			"gatsby_image_path":"..\/..\/images\/sweet-sour.jpg",
-			"slug":"sweet-sour"
-		},
-		{
-			"title":"The Little Mermaid",
-			"gatsby_image_path":"..\/..\/images\/the-little-mermaid.jpg",
-			"slug":"the-little-mermaid"
-		},
-		{
-			"title":"Life in a Year",
-			"gatsby_image_path":"..\/..\/images\/life-in-a-year.jpg",
-			"slug":"life-in-a-year"
-		},
-		{
-			"title":"6 Underground",
-			"gatsby_image_path":"..\/..\/images\/6-underground.jpg",
-			"slug":"6-underground"
-		},
-		{
-			"title":"Dark Phoenix",
-			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
-			"slug":"dark-phoenix"
-		},
-		{
-			"title":"How I Became a Superhero",
-			"gatsby_image_path":"..\/..\/images\/how-i-became-a-superhero.jpg",
-			"slug":"how-i-became-a-superhero"
-		},
-		{
-			"title":"Barbie & Chelsea the Lost Birthday",
-			"gatsby_image_path":"..\/..\/images\/barbie-chelsea-the-lost-birthday.jpg",
-			"slug":"barbie-chelsea-the-lost-birthday"
+			"title":"The Finest Hours",
+			"gatsby_image_path":"..\/..\/images\/the-finest-hours.jpg",
+			"slug":"the-finest-hours"
 		}
 	],
 	"related_most_similar":[
 		{
+			"title":"Artemis Fowl",
+			"gatsby_image_path":"..\/..\/images\/artemis-fowl.jpg",
+			"slug":"artemis-fowl"
+		},
+		{
+			"title":"Quest for Camelot",
+			"gatsby_image_path":"..\/..\/images\/quest-for-camelot.jpg",
+			"slug":"quest-for-camelot"
+		},
+		{
+			"title":"The Legend of Tarzan",
+			"gatsby_image_path":"..\/..\/images\/the-legend-of-tarzan.jpg",
+			"slug":"the-legend-of-tarzan"
+		},
+		{
+			"title":"The Jungle Book",
+			"gatsby_image_path":"..\/..\/images\/the-jungle-book.jpg",
+			"slug":"the-jungle-book"
+		},
+		{
+			"title":"Rise of the Planet of the Apes",
+			"gatsby_image_path":"..\/..\/images\/rise-of-the-planet-of-the-apes.jpg",
+			"slug":"rise-of-the-planet-of-the-apes"
+		},
+		{
+			"title":"Nanny McPhee",
+			"gatsby_image_path":"..\/..\/images\/nanny-mcphee.jpg",
+			"slug":"nanny-mcphee"
+		},
+		{
+			"title":"Harry Potter and the Goblet of Fire",
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
+			"slug":"harry-potter-and-the-goblet-of-fire"
+		},
+		{
+			"title":"Alice Through the Looking Glass",
+			"gatsby_image_path":"..\/..\/images\/alice-through-the-looking-glass.jpg",
+			"slug":"alice-through-the-looking-glass"
+		},
+		{
+			"title":"Wrath of the Titans",
+			"gatsby_image_path":"..\/..\/images\/wrath-of-the-titans.jpg",
+			"slug":"wrath-of-the-titans"
+		},
+		{
 			"title":"Toy Story 4",
 			"gatsby_image_path":"..\/..\/images\/toy-story-4.jpg",
 			"slug":"toy-story-4"
+		}
+	],
+	"related_by_poster":[
+		{
+			"title":"ariana grande: excuse me, i love you",
+			"gatsby_image_path":"..\/..\/images\/ariana-grande-excuse-me-i-love-you.jpg",
+			"slug":"ariana-grande-excuse-me-i-love-you"
 		},
 		{
-			"title":"The Little Mermaid",
-			"gatsby_image_path":"..\/..\/images\/the-little-mermaid.jpg",
-			"slug":"the-little-mermaid"
+			"title":"Harry Potter and the Goblet of Fire",
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
+			"slug":"harry-potter-and-the-goblet-of-fire"
 		},
 		{
-			"title":"Soul",
-			"gatsby_image_path":"..\/..\/images\/soul.jpg",
-			"slug":"soul"
+			"title":"Enchanted",
+			"gatsby_image_path":"..\/..\/images\/enchanted.jpg",
+			"slug":"enchanted"
 		},
 		{
-			"title":"Raya and the Last Dragon",
-			"gatsby_image_path":"..\/..\/images\/raya-and-the-last-dragon.jpg",
-			"slug":"raya-and-the-last-dragon"
+			"title":"Barbie: The Princess & The Popstar",
+			"gatsby_image_path":"..\/..\/images\/barbie-the-princess-the-popstar.jpg",
+			"slug":"barbie-the-princess-the-popstar"
 		},
 		{
-			"title":"Ratatouille",
-			"gatsby_image_path":"..\/..\/images\/ratatouille.jpg",
-			"slug":"ratatouille"
-		},
-		{
-			"title":"Luca",
-			"gatsby_image_path":"..\/..\/images\/luca.jpg",
-			"slug":"luca"
+			"title":"Deadly Illusions",
+			"gatsby_image_path":"..\/..\/images\/deadly-illusions.jpg",
+			"slug":"deadly-illusions"
 		},
 		{
 			"title":"Frozen II",
@@ -241,19 +189,74 @@
 			"slug":"frozen-ii"
 		},
 		{
-			"title":"Coco",
-			"gatsby_image_path":"..\/..\/images\/coco.jpg",
-			"slug":"coco"
+			"title":"Life in a Year",
+			"gatsby_image_path":"..\/..\/images\/life-in-a-year.jpg",
+			"slug":"life-in-a-year"
 		},
 		{
-			"title":"22 vs. Earth",
-			"gatsby_image_path":"..\/..\/images\/22-vs.-earth.jpg",
-			"slug":"22-vs.-earth"
+			"title":"The Evil Dead",
+			"gatsby_image_path":"..\/..\/images\/the-evil-dead.jpg",
+			"slug":"the-evil-dead"
 		},
 		{
-			"title":"Wish Dragon",
-			"gatsby_image_path":"..\/..\/images\/wish-dragon.jpg",
-			"slug":"wish-dragon"
+			"title":"In the Heights",
+			"gatsby_image_path":"..\/..\/images\/in-the-heights.jpg",
+			"slug":"in-the-heights"
+		},
+		{
+			"title":"The Sword in the Stone",
+			"gatsby_image_path":"..\/..\/images\/the-sword-in-the-stone.jpg",
+			"slug":"the-sword-in-the-stone"
+		},
+		{
+			"title":"Roald Dahl's The Witches",
+			"gatsby_image_path":"..\/..\/images\/roald-dahl-s-the-witches.jpg",
+			"slug":"roald-dahl-s-the-witches"
+		},
+		{
+			"title":"Joseph: King of Dreams",
+			"gatsby_image_path":"..\/..\/images\/joseph-king-of-dreams.jpg",
+			"slug":"joseph-king-of-dreams"
+		},
+		{
+			"title":"Barbie Fairytopia: Mermaidia",
+			"gatsby_image_path":"..\/..\/images\/barbie-fairytopia-mermaidia.jpg",
+			"slug":"barbie-fairytopia-mermaidia"
+		},
+		{
+			"title":"Let's Be Tigers",
+			"gatsby_image_path":"..\/..\/images\/let-s-be-tigers.jpg",
+			"slug":"let-s-be-tigers"
+		},
+		{
+			"title":"Barbie and the Diamond Castle",
+			"gatsby_image_path":"..\/..\/images\/barbie-and-the-diamond-castle.jpg",
+			"slug":"barbie-and-the-diamond-castle"
+		},
+		{
+			"title":"Godmothered",
+			"gatsby_image_path":"..\/..\/images\/godmothered.jpg",
+			"slug":"godmothered"
+		},
+		{
+			"title":"Fifty Shades of Grey",
+			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
+			"slug":"fifty-shades-of-grey"
+		},
+		{
+			"title":"Sugar Daddy",
+			"gatsby_image_path":"..\/..\/images\/sugar-daddy.jpg",
+			"slug":"sugar-daddy"
+		},
+		{
+			"title":"Barbie: A Fashion Fairytale",
+			"gatsby_image_path":"..\/..\/images\/barbie-a-fashion-fairytale.jpg",
+			"slug":"barbie-a-fashion-fairytale"
+		},
+		{
+			"title":"A Star Is Born",
+			"gatsby_image_path":"..\/..\/images\/a-star-is-born.jpg",
+			"slug":"a-star-is-born"
 		}
 	]
 }

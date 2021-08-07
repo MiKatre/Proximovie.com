@@ -57,9 +57,29 @@
 			"slug":"this-little-love-of-mine"
 		},
 		{
+			"title":"The Rugrats Movie",
+			"gatsby_image_path":"..\/..\/images\/the-rugrats-movie.jpg",
+			"slug":"the-rugrats-movie"
+		},
+		{
+			"title":"Teen Titans Go! vs. Teen Titans",
+			"gatsby_image_path":"..\/..\/images\/teen-titans-go-vs.-teen-titans.jpg",
+			"slug":"teen-titans-go-vs.-teen-titans"
+		},
+		{
+			"title":"Teen Titans Go! To the Movies",
+			"gatsby_image_path":"..\/..\/images\/teen-titans-go-to-the-movies.jpg",
+			"slug":"teen-titans-go-to-the-movies"
+		},
+		{
 			"title":"Teen Titans Go! See Space Jam",
 			"gatsby_image_path":"..\/..\/images\/teen-titans-go-see-space-jam.jpg",
 			"slug":"teen-titans-go-see-space-jam"
+		},
+		{
+			"title":"Security",
+			"gatsby_image_path":"..\/..\/images\/security.jpg",
+			"slug":"security"
 		},
 		{
 			"title":"Justice Society: World War II",
@@ -67,46 +87,98 @@
 			"slug":"justice-society-world-war-ii"
 		},
 		{
+			"title":"Justice League: The Flashpoint Paradox",
+			"gatsby_image_path":"..\/..\/images\/justice-league-the-flashpoint-paradox.jpg",
+			"slug":"justice-league-the-flashpoint-paradox"
+		},
+		{
+			"title":"Justice League: Gods and Monsters",
+			"gatsby_image_path":"..\/..\/images\/justice-league-gods-and-monsters.jpg",
+			"slug":"justice-league-gods-and-monsters"
+		},
+		{
 			"title":"Batman: The Long Halloween, Part Two",
 			"gatsby_image_path":"..\/..\/images\/batman-the-long-halloween-part-two.jpg",
 			"slug":"batman-the-long-halloween-part-two"
+		}
+	],
+	"related_most_similar":[
+		{
+			"title":"Justice League vs. Teen Titans",
+			"gatsby_image_path":"..\/..\/images\/justice-league-vs.-teen-titans.jpg",
+			"slug":"justice-league-vs.-teen-titans"
 		},
 		{
-			"title":"Batman: The Long Halloween, Part One",
-			"gatsby_image_path":"..\/..\/images\/batman-the-long-halloween-part-one.jpg",
-			"slug":"batman-the-long-halloween-part-one"
+			"title":"Teen Titans: The Judas Contract",
+			"gatsby_image_path":"..\/..\/images\/teen-titans-the-judas-contract.jpg",
+			"slug":"teen-titans-the-judas-contract"
 		},
 		{
-			"title":"Zombieland: Double Tap",
-			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
-			"slug":"zombieland-double-tap"
+			"title":"Justice League: Throne of Atlantis",
+			"gatsby_image_path":"..\/..\/images\/justice-league-throne-of-atlantis.jpg",
+			"slug":"justice-league-throne-of-atlantis"
 		},
 		{
-			"title":"Zack Snyder's Justice League",
-			"gatsby_image_path":"..\/..\/images\/zack-snyder's-justice-league.jpg",
-			"slug":"zack-snyder's-justice-league"
+			"title":"Justice League: Gods and Monsters",
+			"gatsby_image_path":"..\/..\/images\/justice-league-gods-and-monsters.jpg",
+			"slug":"justice-league-gods-and-monsters"
 		},
 		{
-			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
-			"gatsby_image_path":"..\/..\/images\/yu-gi-oh-the-dark-side-of-dimensions.jpg",
-			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
+			"title":"Justice League: The Flashpoint Paradox",
+			"gatsby_image_path":"..\/..\/images\/justice-league-the-flashpoint-paradox.jpg",
+			"slug":"justice-league-the-flashpoint-paradox"
 		},
 		{
-			"title":"Your Name.",
-			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
-			"slug":"your-name"
+			"title":"Batman: The Dark Knight Returns, Part 1",
+			"gatsby_image_path":"..\/..\/images\/batman-the-dark-knight-returns-part-1.jpg",
+			"slug":"batman-the-dark-knight-returns-part-1"
 		},
 		{
-			"title":"Young Sister-in-law 3 - 2019",
-			"gatsby_image_path":"..\/..\/images\/young-sister-in-law-3-2019.jpg",
-			"slug":"young-sister-in-law-3-2019"
+			"title":"Batman: Soul of the Dragon",
+			"gatsby_image_path":"..\/..\/images\/batman-soul-of-the-dragon.jpg",
+			"slug":"batman-soul-of-the-dragon"
+		},
+		{
+			"title":"Teen Titans Go! To the Movies",
+			"gatsby_image_path":"..\/..\/images\/teen-titans-go-to-the-movies.jpg",
+			"slug":"teen-titans-go-to-the-movies"
+		},
+		{
+			"title":"Superman: Man of Tomorrow",
+			"gatsby_image_path":"..\/..\/images\/superman-man-of-tomorrow.jpg",
+			"slug":"superman-man-of-tomorrow"
+		},
+		{
+			"title":"Justice Society: World War II",
+			"gatsby_image_path":"..\/..\/images\/justice-society-world-war-ii.jpg",
+			"slug":"justice-society-world-war-ii"
 		}
 	],
 	"related_by_poster":[
 		{
+			"title":"Ant-Man",
+			"gatsby_image_path":"..\/..\/images\/ant-man.jpg",
+			"slug":"ant-man"
+		},
+		{
+			"title":"Justice League",
+			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
+			"slug":"justice-league"
+		},
+		{
 			"title":"Batman: Death in the Family",
 			"gatsby_image_path":"..\/..\/images\/batman-death-in-the-family.jpg",
 			"slug":"batman-death-in-the-family"
+		},
+		{
+			"title":"Green Lantern: Emerald Knights",
+			"gatsby_image_path":"..\/..\/images\/green-lantern-emerald-knights.jpg",
+			"slug":"green-lantern-emerald-knights"
+		},
+		{
+			"title":"Teen Titans: The Judas Contract",
+			"gatsby_image_path":"..\/..\/images\/teen-titans-the-judas-contract.jpg",
+			"slug":"teen-titans-the-judas-contract"
 		},
 		{
 			"title":"Deadpool",
@@ -114,9 +186,49 @@
 			"slug":"deadpool"
 		},
 		{
-			"title":"Black Widow",
-			"gatsby_image_path":"..\/..\/images\/black-widow.jpg",
-			"slug":"black-widow"
+			"title":"A Babysitter's Guide to Monster Hunting",
+			"gatsby_image_path":"..\/..\/images\/a-babysitter-s-guide-to-monster-hunting.jpg",
+			"slug":"a-babysitter-s-guide-to-monster-hunting"
+		},
+		{
+			"title":"Bright",
+			"gatsby_image_path":"..\/..\/images\/bright.jpg",
+			"slug":"bright"
+		},
+		{
+			"title":"Dragon Ball Z: The World's Strongest",
+			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-the-world-s-strongest.jpg",
+			"slug":"dragon-ball-z-the-world-s-strongest"
+		},
+		{
+			"title":"Mary Poppins",
+			"gatsby_image_path":"..\/..\/images\/mary-poppins.jpg",
+			"slug":"mary-poppins"
+		},
+		{
+			"title":"Scary Movie 3",
+			"gatsby_image_path":"..\/..\/images\/scary-movie-3.jpg",
+			"slug":"scary-movie-3"
+		},
+		{
+			"title":"Kingsglaive: Final Fantasy XV",
+			"gatsby_image_path":"..\/..\/images\/kingsglaive-final-fantasy-xv.jpg",
+			"slug":"kingsglaive-final-fantasy-xv"
+		},
+		{
+			"title":"Justice League: Gods and Monsters",
+			"gatsby_image_path":"..\/..\/images\/justice-league-gods-and-monsters.jpg",
+			"slug":"justice-league-gods-and-monsters"
+		},
+		{
+			"title":"13 Hours: The Secret Soldiers of Benghazi",
+			"gatsby_image_path":"..\/..\/images\/13-hours-the-secret-soldiers-of-benghazi.jpg",
+			"slug":"13-hours-the-secret-soldiers-of-benghazi"
+		},
+		{
+			"title":"The Road to El Dorado",
+			"gatsby_image_path":"..\/..\/images\/the-road-to-el-dorado.jpg",
+			"slug":"the-road-to-el-dorado"
 		},
 		{
 			"title":"Bloodshot",
@@ -124,136 +236,24 @@
 			"slug":"bloodshot"
 		},
 		{
+			"title":"The Accountant",
+			"gatsby_image_path":"..\/..\/images\/the-accountant.jpg",
+			"slug":"the-accountant"
+		},
+		{
 			"title":"Alita: Battle Angel",
 			"gatsby_image_path":"..\/..\/images\/alita-battle-angel.jpg",
 			"slug":"alita-battle-angel"
 		},
 		{
-			"title":"The Croods: A New Age",
-			"gatsby_image_path":"..\/..\/images\/the-croods-a-new-age.jpg",
-			"slug":"the-croods-a-new-age"
-		},
-		{
-			"title":"Harry Potter and the Prisoner of Azkaban",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-prisoner-of-azkaban.jpg",
-			"slug":"harry-potter-and-the-prisoner-of-azkaban"
+			"title":"Black Widow",
+			"gatsby_image_path":"..\/..\/images\/black-widow.jpg",
+			"slug":"black-widow"
 		},
 		{
 			"title":"How I Became a Superhero",
 			"gatsby_image_path":"..\/..\/images\/how-i-became-a-superhero.jpg",
 			"slug":"how-i-became-a-superhero"
-		},
-		{
-			"title":"Dark Phoenix",
-			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
-			"slug":"dark-phoenix"
-		},
-		{
-			"title":"Black and Blue",
-			"gatsby_image_path":"..\/..\/images\/black-and-blue.jpg",
-			"slug":"black-and-blue"
-		},
-		{
-			"title":"Harry Potter and the Goblet of Fire",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
-			"slug":"harry-potter-and-the-goblet-of-fire"
-		},
-		{
-			"title":"Harry Potter and the Philosopher's Stone",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher's-stone.jpg",
-			"slug":"harry-potter-and-the-philosopher's-stone"
-		},
-		{
-			"title":"Hitman's Wife's Bodyguard",
-			"gatsby_image_path":"..\/..\/images\/hitman's-wife's-bodyguard.jpg",
-			"slug":"hitman's-wife's-bodyguard"
-		},
-		{
-			"title":"The Little Things",
-			"gatsby_image_path":"..\/..\/images\/the-little-things.jpg",
-			"slug":"the-little-things"
-		},
-		{
-			"title":"Naruto Shippuden the Movie: The Lost Tower",
-			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-the-lost-tower.jpg",
-			"slug":"naruto-shippuden-the-movie-the-lost-tower"
-		},
-		{
-			"title":"Fifty Shades of Grey",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
-			"slug":"fifty-shades-of-grey"
-		},
-		{
-			"title":"Escape Plan: The Extractors",
-			"gatsby_image_path":"..\/..\/images\/escape-plan-the-extractors.jpg",
-			"slug":"escape-plan-the-extractors"
-		},
-		{
-			"title":"The Last: Naruto the Movie",
-			"gatsby_image_path":"..\/..\/images\/the-last-naruto-the-movie.jpg",
-			"slug":"the-last-naruto-the-movie"
-		},
-		{
-			"title":"Naruto Shippuden the Movie: Road to Ninja",
-			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-road-to-ninja.jpg",
-			"slug":"naruto-shippuden-the-movie-road-to-ninja"
-		},
-		{
-			"title":"Fear of Rain",
-			"gatsby_image_path":"..\/..\/images\/fear-of-rain.jpg",
-			"slug":"fear-of-rain"
-		}
-	],
-	"related_most_similar":[
-		{
-			"title":"Justice Society: World War II",
-			"gatsby_image_path":"..\/..\/images\/justice-society-world-war-ii.jpg",
-			"slug":"justice-society-world-war-ii"
-		},
-		{
-			"title":"Batman: The Long Halloween, Part Two",
-			"gatsby_image_path":"..\/..\/images\/batman-the-long-halloween-part-two.jpg",
-			"slug":"batman-the-long-halloween-part-two"
-		},
-		{
-			"title":"Batman: The Long Halloween, Part One",
-			"gatsby_image_path":"..\/..\/images\/batman-the-long-halloween-part-one.jpg",
-			"slug":"batman-the-long-halloween-part-one"
-		},
-		{
-			"title":"Teen Titans Go! See Space Jam",
-			"gatsby_image_path":"..\/..\/images\/teen-titans-go-see-space-jam.jpg",
-			"slug":"teen-titans-go-see-space-jam"
-		},
-		{
-			"title":"Batman: Death in the Family",
-			"gatsby_image_path":"..\/..\/images\/batman-death-in-the-family.jpg",
-			"slug":"batman-death-in-the-family"
-		},
-		{
-			"title":"Zack Snyder's Justice League",
-			"gatsby_image_path":"..\/..\/images\/zack-snyder's-justice-league.jpg",
-			"slug":"zack-snyder's-justice-league"
-		},
-		{
-			"title":"The Suicide Squad",
-			"gatsby_image_path":"..\/..\/images\/the-suicide-squad.jpg",
-			"slug":"the-suicide-squad"
-		},
-		{
-			"title":"Mortal Kombat Legends: Scorpion's Revenge",
-			"gatsby_image_path":"..\/..\/images\/mortal-kombat-legends-scorpion's-revenge.jpg",
-			"slug":"mortal-kombat-legends-scorpion's-revenge"
-		},
-		{
-			"title":"Wonder Woman 1984",
-			"gatsby_image_path":"..\/..\/images\/wonder-woman-1984.jpg",
-			"slug":"wonder-woman-1984"
-		},
-		{
-			"title":"Trollhunters: Rise of the Titans",
-			"gatsby_image_path":"..\/..\/images\/trollhunters-rise-of-the-titans.jpg",
-			"slug":"trollhunters-rise-of-the-titans"
 		}
 	]
 }

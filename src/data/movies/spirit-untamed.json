@@ -32,10 +32,10 @@
 		"Julianne Moore",
 		"Marsai Martin",
 		"Mckenna Grace",
-		"Eiza González",
 		"Walton Goggins",
+		"Gary A. Hecker",
+		"Eiza González",
 		"Andre Braugher",
-		"Alejandra Blengio",
 		"Lucian Perez"
 	],
 	"crew":[
@@ -49,159 +49,77 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Transformers: The Last Knight",
+			"gatsby_image_path":"..\/..\/images\/transformers-the-last-knight.jpg",
+			"slug":"transformers-the-last-knight"
+		},
+		{
+			"title":"Tomb Raider",
+			"gatsby_image_path":"..\/..\/images\/tomb-raider.jpg",
+			"slug":"tomb-raider"
+		},
+		{
+			"title":"The Woman in the Window",
+			"gatsby_image_path":"..\/..\/images\/the-woman-in-the-window.jpg",
+			"slug":"the-woman-in-the-window"
+		},
+		{
+			"title":"The Hunger Games: Mockingjay - Part 2",
+			"gatsby_image_path":"..\/..\/images\/the-hunger-games-mockingjay-part-2.jpg",
+			"slug":"the-hunger-games-mockingjay-part-2"
+		},
+		{
+			"title":"The Hunger Games: Mockingjay - Part 1",
+			"gatsby_image_path":"..\/..\/images\/the-hunger-games-mockingjay-part-1.jpg",
+			"slug":"the-hunger-games-mockingjay-part-1"
+		},
+		{
 			"title":"Spider-Man: Far From Home",
 			"gatsby_image_path":"..\/..\/images\/spider-man-far-from-home.jpg",
 			"slug":"spider-man-far-from-home"
 		},
 		{
-			"title":"PAW Patrol: The Movie",
-			"gatsby_image_path":"..\/..\/images\/paw-patrol-the-movie.jpg",
-			"slug":"paw-patrol-the-movie"
+			"title":"Southpaw",
+			"gatsby_image_path":"..\/..\/images\/southpaw.jpg",
+			"slug":"southpaw"
 		},
 		{
-			"title":"Kingsman: The Golden Circle",
-			"gatsby_image_path":"..\/..\/images\/kingsman-the-golden-circle.jpg",
-			"slug":"kingsman-the-golden-circle"
+			"title":"Sicario: Day of the Soldado",
+			"gatsby_image_path":"..\/..\/images\/sicario-day-of-the-soldado.jpg",
+			"slug":"sicario-day-of-the-soldado"
 		},
 		{
-			"title":"Godzilla vs. Kong",
-			"gatsby_image_path":"..\/..\/images\/godzilla-vs.-kong.jpg",
-			"slug":"godzilla-vs.-kong"
+			"title":"Seventh Son",
+			"gatsby_image_path":"..\/..\/images\/seventh-son.jpg",
+			"slug":"seventh-son"
 		},
 		{
-			"title":"Fast & Furious Presents: Hobbs & Shaw",
-			"gatsby_image_path":"..\/..\/images\/fast-furious-presents-hobbs-shaw.jpg",
-			"slug":"fast-furious-presents-hobbs-shaw"
-		},
-		{
-			"title":"Bloodshot",
-			"gatsby_image_path":"..\/..\/images\/bloodshot.jpg",
-			"slug":"bloodshot"
-		},
-		{
-			"title":"Ant-Man and the Wasp",
-			"gatsby_image_path":"..\/..\/images\/ant-man-and-the-wasp.jpg",
-			"slug":"ant-man-and-the-wasp"
-		},
-		{
-			"title":"Alita: Battle Angel",
-			"gatsby_image_path":"..\/..\/images\/alita-battle-angel.jpg",
-			"slug":"alita-battle-angel"
-		},
-		{
-			"title":"Zombieland: Double Tap",
-			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
-			"slug":"zombieland-double-tap"
-		},
-		{
-			"title":"Zack Snyder's Justice League",
-			"gatsby_image_path":"..\/..\/images\/zack-snyder's-justice-league.jpg",
-			"slug":"zack-snyder's-justice-league"
-		}
-	],
-	"related_by_poster":[
-		{
-			"title":"6 Underground",
-			"gatsby_image_path":"..\/..\/images\/6-underground.jpg",
-			"slug":"6-underground"
-		},
-		{
-			"title":"Code 8",
-			"gatsby_image_path":"..\/..\/images\/code-8.jpg",
-			"slug":"code-8"
-		},
-		{
-			"title":"Mulan",
-			"gatsby_image_path":"..\/..\/images\/mulan.jpg",
-			"slug":"mulan"
-		},
-		{
-			"title":"The Water Man",
-			"gatsby_image_path":"..\/..\/images\/the-water-man.jpg",
-			"slug":"the-water-man"
-		},
-		{
-			"title":"Fifty Shades of Grey",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
-			"slug":"fifty-shades-of-grey"
-		},
-		{
-			"title":"Justice Society: World War II",
-			"gatsby_image_path":"..\/..\/images\/justice-society-world-war-ii.jpg",
-			"slug":"justice-society-world-war-ii"
-		},
-		{
-			"title":"Penguin Bloom",
-			"gatsby_image_path":"..\/..\/images\/penguin-bloom.jpg",
-			"slug":"penguin-bloom"
-		},
-		{
-			"title":"Cowboys",
-			"gatsby_image_path":"..\/..\/images\/cowboys.jpg",
-			"slug":"cowboys"
-		},
-		{
-			"title":"Los viejos",
-			"gatsby_image_path":"..\/..\/images\/los-viejos.jpg",
-			"slug":"los-viejos"
-		},
-		{
-			"title":"Harry Potter and the Philosopher's Stone",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher's-stone.jpg",
-			"slug":"harry-potter-and-the-philosopher's-stone"
-		},
-		{
-			"title":"Call Me by Your Name",
-			"gatsby_image_path":"..\/..\/images\/call-me-by-your-name.jpg",
-			"slug":"call-me-by-your-name"
-		},
-		{
-			"title":"Honest Thief",
-			"gatsby_image_path":"..\/..\/images\/honest-thief.jpg",
-			"slug":"honest-thief"
-		},
-		{
-			"title":"Angel Has Fallen",
-			"gatsby_image_path":"..\/..\/images\/angel-has-fallen.jpg",
-			"slug":"angel-has-fallen"
-		},
-		{
-			"title":"Dancing Queens",
-			"gatsby_image_path":"..\/..\/images\/dancing-queens.jpg",
-			"slug":"dancing-queens"
-		},
-		{
-			"title":"Coraline",
-			"gatsby_image_path":"..\/..\/images\/coraline.jpg",
-			"slug":"coraline"
-		},
-		{
-			"title":"Fifty Shades Freed",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-freed.jpg",
-			"slug":"fifty-shades-freed"
-		},
-		{
-			"title":"Hitman's Wife's Bodyguard",
-			"gatsby_image_path":"..\/..\/images\/hitman's-wife's-bodyguard.jpg",
-			"slug":"hitman's-wife's-bodyguard"
-		},
-		{
-			"title":"Godmothered",
-			"gatsby_image_path":"..\/..\/images\/godmothered.jpg",
-			"slug":"godmothered"
-		},
-		{
-			"title":"Frozen II",
-			"gatsby_image_path":"..\/..\/images\/frozen-ii.jpg",
-			"slug":"frozen-ii"
-		},
-		{
-			"title":"Roald Dahl's The Witches",
-			"gatsby_image_path":"..\/..\/images\/roald-dahl's-the-witches.jpg",
-			"slug":"roald-dahl's-the-witches"
+			"title":"Predators",
+			"gatsby_image_path":"..\/..\/images\/predators.jpg",
+			"slug":"predators"
 		}
 	],
 	"related_most_similar":[
+		{
+			"title":"Spirit: Stallion of the Cimarron",
+			"gatsby_image_path":"..\/..\/images\/spirit-stallion-of-the-cimarron.jpg",
+			"slug":"spirit-stallion-of-the-cimarron"
+		},
+		{
+			"title":"Trolls World Tour",
+			"gatsby_image_path":"..\/..\/images\/trolls-world-tour.jpg",
+			"slug":"trolls-world-tour"
+		},
+		{
+			"title":"Trolls",
+			"gatsby_image_path":"..\/..\/images\/trolls.jpg",
+			"slug":"trolls"
+		},
+		{
+			"title":"The Road to El Dorado",
+			"gatsby_image_path":"..\/..\/images\/the-road-to-el-dorado.jpg",
+			"slug":"the-road-to-el-dorado"
+		},
 		{
 			"title":"The Croods: A New Age",
 			"gatsby_image_path":"..\/..\/images\/the-croods-a-new-age.jpg",
@@ -213,44 +131,126 @@
 			"slug":"the-boss-baby-family-business"
 		},
 		{
+			"title":"Sinbad: Legend of the Seven Seas",
+			"gatsby_image_path":"..\/..\/images\/sinbad-legend-of-the-seven-seas.jpg",
+			"slug":"sinbad-legend-of-the-seven-seas"
+		},
+		{
+			"title":"An American Tail: Fievel Goes West",
+			"gatsby_image_path":"..\/..\/images\/an-american-tail-fievel-goes-west.jpg",
+			"slug":"an-american-tail-fievel-goes-west"
+		},
+		{
+			"title":"Abominable",
+			"gatsby_image_path":"..\/..\/images\/abominable.jpg",
+			"slug":"abominable"
+		},
+		{
 			"title":"Trollhunters: Rise of the Titans",
 			"gatsby_image_path":"..\/..\/images\/trollhunters-rise-of-the-titans.jpg",
 			"slug":"trollhunters-rise-of-the-titans"
+		}
+	],
+	"related_by_poster":[
+		{
+			"title":"Ainbo: Spirit of the Amazon",
+			"gatsby_image_path":"..\/..\/images\/ainbo-spirit-of-the-amazon.jpg",
+			"slug":"ainbo-spirit-of-the-amazon"
 		},
 		{
-			"title":"Shrek",
-			"gatsby_image_path":"..\/..\/images\/shrek.jpg",
-			"slug":"shrek"
+			"title":"Spirit: Stallion of the Cimarron",
+			"gatsby_image_path":"..\/..\/images\/spirit-stallion-of-the-cimarron.jpg",
+			"slug":"spirit-stallion-of-the-cimarron"
 		},
 		{
-			"title":"Shrek 2",
-			"gatsby_image_path":"..\/..\/images\/shrek-2.jpg",
-			"slug":"shrek-2"
+			"title":"Batman: The Dark Knight Returns, Part 2",
+			"gatsby_image_path":"..\/..\/images\/batman-the-dark-knight-returns-part-2.jpg",
+			"slug":"batman-the-dark-knight-returns-part-2"
 		},
 		{
-			"title":"PAW Patrol: The Movie",
-			"gatsby_image_path":"..\/..\/images\/paw-patrol-the-movie.jpg",
-			"slug":"paw-patrol-the-movie"
+			"title":"Miracles from Heaven",
+			"gatsby_image_path":"..\/..\/images\/miracles-from-heaven.jpg",
+			"slug":"miracles-from-heaven"
 		},
 		{
-			"title":"We Bare Bears: The Movie",
-			"gatsby_image_path":"..\/..\/images\/we-bare-bears-the-movie.jpg",
-			"slug":"we-bare-bears-the-movie"
+			"title":"Batman v Superman: Dawn of Justice",
+			"gatsby_image_path":"..\/..\/images\/batman-v-superman-dawn-of-justice.jpg",
+			"slug":"batman-v-superman-dawn-of-justice"
 		},
 		{
-			"title":"Toy Story",
-			"gatsby_image_path":"..\/..\/images\/toy-story.jpg",
-			"slug":"toy-story"
+			"title":"6 Underground",
+			"gatsby_image_path":"..\/..\/images\/6-underground.jpg",
+			"slug":"6-underground"
 		},
 		{
-			"title":"Toy Story 4",
-			"gatsby_image_path":"..\/..\/images\/toy-story-4.jpg",
-			"slug":"toy-story-4"
+			"title":"Hercules",
+			"gatsby_image_path":"..\/..\/images\/hercules.jpg",
+			"slug":"hercules"
 		},
 		{
-			"title":"The SpongeBob Movie: Sponge on the Run",
-			"gatsby_image_path":"..\/..\/images\/the-spongebob-movie-sponge-on-the-run.jpg",
-			"slug":"the-spongebob-movie-sponge-on-the-run"
+			"title":"Code 8",
+			"gatsby_image_path":"..\/..\/images\/code-8.jpg",
+			"slug":"code-8"
+		},
+		{
+			"title":"Greenland",
+			"gatsby_image_path":"..\/..\/images\/greenland.jpg",
+			"slug":"greenland"
+		},
+		{
+			"title":"In the Shadow of the Moon",
+			"gatsby_image_path":"..\/..\/images\/in-the-shadow-of-the-moon.jpg",
+			"slug":"in-the-shadow-of-the-moon"
+		},
+		{
+			"title":"The Haunting of Margam Castle",
+			"gatsby_image_path":"..\/..\/images\/the-haunting-of-margam-castle.jpg",
+			"slug":"the-haunting-of-margam-castle"
+		},
+		{
+			"title":"Mulan",
+			"gatsby_image_path":"..\/..\/images\/mulan.jpg",
+			"slug":"mulan"
+		},
+		{
+			"title":"5 Centimeters per Second",
+			"gatsby_image_path":"..\/..\/images\/5-centimeters-per-second.jpg",
+			"slug":"5-centimeters-per-second"
+		},
+		{
+			"title":"Fifty Shades of Grey",
+			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
+			"slug":"fifty-shades-of-grey"
+		},
+		{
+			"title":"The Water Man",
+			"gatsby_image_path":"..\/..\/images\/the-water-man.jpg",
+			"slug":"the-water-man"
+		},
+		{
+			"title":"Eternal Sunshine of the Spotless Mind",
+			"gatsby_image_path":"..\/..\/images\/eternal-sunshine-of-the-spotless-mind.jpg",
+			"slug":"eternal-sunshine-of-the-spotless-mind"
+		},
+		{
+			"title":"Deadly Illusions",
+			"gatsby_image_path":"..\/..\/images\/deadly-illusions.jpg",
+			"slug":"deadly-illusions"
+		},
+		{
+			"title":"Justice Society: World War II",
+			"gatsby_image_path":"..\/..\/images\/justice-society-world-war-ii.jpg",
+			"slug":"justice-society-world-war-ii"
+		},
+		{
+			"title":"Los viejos",
+			"gatsby_image_path":"..\/..\/images\/los-viejos.jpg",
+			"slug":"los-viejos"
+		},
+		{
+			"title":"A Star Is Born",
+			"gatsby_image_path":"..\/..\/images\/a-star-is-born.jpg",
+			"slug":"a-star-is-born"
 		}
 	]
 }

@@ -42,14 +42,34 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
 			"title":"Zombieland: Double Tap",
 			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
 			"slug":"zombieland-double-tap"
 		},
 		{
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
+		},
+		{
 			"title":"Zack Snyder's Justice League",
-			"gatsby_image_path":"..\/..\/images\/zack-snyder's-justice-league.jpg",
-			"slug":"zack-snyder's-justice-league"
+			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
+			"slug":"zack-snyder-s-justice-league"
+		},
+		{
+			"title":"Zack and Miri Make a Porno",
+			"gatsby_image_path":"..\/..\/images\/zack-and-miri-make-a-porno.jpg",
+			"slug":"zack-and-miri-make-a-porno"
 		},
 		{
 			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
@@ -57,7 +77,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -67,134 +87,17 @@
 			"slug":"young-sister-in-law-3-2019"
 		},
 		{
-			"title":"Xtreme",
-			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
-			"slug":"xtreme"
-		},
-		{
-			"title":"Xico's Journey",
-			"gatsby_image_path":"..\/..\/images\/xico's-journey.jpg",
-			"slug":"xico's-journey"
-		},
-		{
-			"title":"Wrong Turn",
-			"gatsby_image_path":"..\/..\/images\/wrong-turn.jpg",
-			"slug":"wrong-turn"
-		},
-		{
-			"title":"Wrath of Man",
-			"gatsby_image_path":"..\/..\/images\/wrath-of-man.jpg",
-			"slug":"wrath-of-man"
-		},
-		{
-			"title":"Wonder Woman 1984",
-			"gatsby_image_path":"..\/..\/images\/wonder-woman-1984.jpg",
-			"slug":"wonder-woman-1984"
-		}
-	],
-	"related_by_poster":[
-		{
-			"title":"Tom & Jerry",
-			"gatsby_image_path":"..\/..\/images\/tom-jerry.jpg",
-			"slug":"tom-jerry"
-		},
-		{
-			"title":"Code 8",
-			"gatsby_image_path":"..\/..\/images\/code-8.jpg",
-			"slug":"code-8"
-		},
-		{
-			"title":"Fifty Shades Freed",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-freed.jpg",
-			"slug":"fifty-shades-freed"
-		},
-		{
-			"title":"The First Purge",
-			"gatsby_image_path":"..\/..\/images\/the-first-purge.jpg",
-			"slug":"the-first-purge"
-		},
-		{
-			"title":"Dancing Queens",
-			"gatsby_image_path":"..\/..\/images\/dancing-queens.jpg",
-			"slug":"dancing-queens"
-		},
-		{
-			"title":"Sing",
-			"gatsby_image_path":"..\/..\/images\/sing.jpg",
-			"slug":"sing"
-		},
-		{
-			"title":"I Am All Girls",
-			"gatsby_image_path":"..\/..\/images\/i-am-all-girls.jpg",
-			"slug":"i-am-all-girls"
-		},
-		{
-			"title":"We Can Be Heroes",
-			"gatsby_image_path":"..\/..\/images\/we-can-be-heroes.jpg",
-			"slug":"we-can-be-heroes"
-		},
-		{
-			"title":"Trauma Center",
-			"gatsby_image_path":"..\/..\/images\/trauma-center.jpg",
-			"slug":"trauma-center"
-		},
-		{
-			"title":"The Purge",
-			"gatsby_image_path":"..\/..\/images\/the-purge.jpg",
-			"slug":"the-purge"
-		},
-		{
-			"title":"Fifty Shades of Grey",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
-			"slug":"fifty-shades-of-grey"
-		},
-		{
-			"title":"Hitman's Wife's Bodyguard",
-			"gatsby_image_path":"..\/..\/images\/hitman's-wife's-bodyguard.jpg",
-			"slug":"hitman's-wife's-bodyguard"
-		},
-		{
-			"title":"The Last Thing He Wanted",
-			"gatsby_image_path":"..\/..\/images\/the-last-thing-he-wanted.jpg",
-			"slug":"the-last-thing-he-wanted"
-		},
-		{
-			"title":"Prime Time",
-			"gatsby_image_path":"..\/..\/images\/prime-time.jpg",
-			"slug":"prime-time"
-		},
-		{
-			"title":"Captain America: Civil War",
-			"gatsby_image_path":"..\/..\/images\/captain-america-civil-war.jpg",
-			"slug":"captain-america-civil-war"
-		},
-		{
-			"title":"Black and Blue",
-			"gatsby_image_path":"..\/..\/images\/black-and-blue.jpg",
-			"slug":"black-and-blue"
-		},
-		{
-			"title":"Spider-Man: Far From Home",
-			"gatsby_image_path":"..\/..\/images\/spider-man-far-from-home.jpg",
-			"slug":"spider-man-far-from-home"
-		},
-		{
-			"title":"Harry Potter and the Philosopher's Stone",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher's-stone.jpg",
-			"slug":"harry-potter-and-the-philosopher's-stone"
-		},
-		{
-			"title":"Grand Isle",
-			"gatsby_image_path":"..\/..\/images\/grand-isle.jpg",
-			"slug":"grand-isle"
-		},
-		{
-			"title":"Toxic",
-			"gatsby_image_path":"..\/..\/images\/toxic.jpg",
-			"slug":"toxic"
+			"title":"Yes Day",
+			"gatsby_image_path":"..\/..\/images\/yes-day.jpg",
+			"slug":"yes-day"
 		}
 	],
 	"related_most_similar":[
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
 		{
 			"title":"Zombieland: Double Tap",
 			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
@@ -206,44 +109,141 @@
 			"slug":"wrong-turn"
 		},
 		{
+			"title":"Wrong Turn 6: Last Resort",
+			"gatsby_image_path":"..\/..\/images\/wrong-turn-6-last-resort.jpg",
+			"slug":"wrong-turn-6-last-resort"
+		},
+		{
+			"title":"Wrong Turn 5: Bloodlines",
+			"gatsby_image_path":"..\/..\/images\/wrong-turn-5-bloodlines.jpg",
+			"slug":"wrong-turn-5-bloodlines"
+		},
+		{
+			"title":"Wrong Turn 4: Bloody Beginnings",
+			"gatsby_image_path":"..\/..\/images\/wrong-turn-4-bloody-beginnings.jpg",
+			"slug":"wrong-turn-4-bloody-beginnings"
+		},
+		{
+			"title":"Wrong Turn 3: Left for Dead",
+			"gatsby_image_path":"..\/..\/images\/wrong-turn-3-left-for-dead.jpg",
+			"slug":"wrong-turn-3-left-for-dead"
+		},
+		{
+			"title":"Wrong Turn 2: Dead End",
+			"gatsby_image_path":"..\/..\/images\/wrong-turn-2-dead-end.jpg",
+			"slug":"wrong-turn-2-dead-end"
+		},
+		{
+			"title":"World War Z",
+			"gatsby_image_path":"..\/..\/images\/world-war-z.jpg",
+			"slug":"world-war-z"
+		},
+		{
 			"title":"Willy's Wonderland",
-			"gatsby_image_path":"..\/..\/images\/willy's-wonderland.jpg",
-			"slug":"willy's-wonderland"
+			"gatsby_image_path":"..\/..\/images\/willy-s-wonderland.jpg",
+			"slug":"willy-s-wonderland"
+		}
+	],
+	"related_by_poster":[
+		{
+			"title":"Child's Play 3",
+			"gatsby_image_path":"..\/..\/images\/child-s-play-3.jpg",
+			"slug":"child-s-play-3"
 		},
 		{
-			"title":"Underwater",
-			"gatsby_image_path":"..\/..\/images\/underwater.jpg",
-			"slug":"underwater"
+			"title":"Tom & Jerry",
+			"gatsby_image_path":"..\/..\/images\/tom-jerry.jpg",
+			"slug":"tom-jerry"
 		},
 		{
-			"title":"The Wolf of Snow Hollow",
-			"gatsby_image_path":"..\/..\/images\/the-wolf-of-snow-hollow.jpg",
-			"slug":"the-wolf-of-snow-hollow"
+			"title":"Seed of Chucky",
+			"gatsby_image_path":"..\/..\/images\/seed-of-chucky.jpg",
+			"slug":"seed-of-chucky"
 		},
 		{
-			"title":"The Unholy",
-			"gatsby_image_path":"..\/..\/images\/the-unholy.jpg",
-			"slug":"the-unholy"
+			"title":"Code 8",
+			"gatsby_image_path":"..\/..\/images\/code-8.jpg",
+			"slug":"code-8"
 		},
 		{
-			"title":"The Seventh Day",
-			"gatsby_image_path":"..\/..\/images\/the-seventh-day.jpg",
-			"slug":"the-seventh-day"
+			"title":"In the Shadow of the Moon",
+			"gatsby_image_path":"..\/..\/images\/in-the-shadow-of-the-moon.jpg",
+			"slug":"in-the-shadow-of-the-moon"
 		},
 		{
-			"title":"The Purge",
-			"gatsby_image_path":"..\/..\/images\/the-purge.jpg",
-			"slug":"the-purge"
+			"title":"Fifty Shades Freed",
+			"gatsby_image_path":"..\/..\/images\/fifty-shades-freed.jpg",
+			"slug":"fifty-shades-freed"
 		},
 		{
-			"title":"The Purge: Election Year",
-			"gatsby_image_path":"..\/..\/images\/the-purge-election-year.jpg",
-			"slug":"the-purge-election-year"
+			"title":"Superman: Man of Tomorrow",
+			"gatsby_image_path":"..\/..\/images\/superman-man-of-tomorrow.jpg",
+			"slug":"superman-man-of-tomorrow"
 		},
 		{
-			"title":"The New Mutants",
-			"gatsby_image_path":"..\/..\/images\/the-new-mutants.jpg",
-			"slug":"the-new-mutants"
+			"title":"Inuyashiki",
+			"gatsby_image_path":"..\/..\/images\/inuyashiki.jpg",
+			"slug":"inuyashiki"
+		},
+		{
+			"title":"Rogue One: A Star Wars Story",
+			"gatsby_image_path":"..\/..\/images\/rogue-one-a-star-wars-story.jpg",
+			"slug":"rogue-one-a-star-wars-story"
+		},
+		{
+			"title":"Bad Sister",
+			"gatsby_image_path":"..\/..\/images\/bad-sister.jpg",
+			"slug":"bad-sister"
+		},
+		{
+			"title":"4x4",
+			"gatsby_image_path":"..\/..\/images\/4x4.jpg",
+			"slug":"4x4"
+		},
+		{
+			"title":"Alan Saldaña: Locked Up",
+			"gatsby_image_path":"..\/..\/images\/alan-saldaña-locked-up.jpg",
+			"slug":"alan-saldaña-locked-up"
+		},
+		{
+			"title":"101 Dalmatians II: Patch's London Adventure",
+			"gatsby_image_path":"..\/..\/images\/101-dalmatians-ii-patch-s-london-adventure.jpg",
+			"slug":"101-dalmatians-ii-patch-s-london-adventure"
+		},
+		{
+			"title":"Dancing Queens",
+			"gatsby_image_path":"..\/..\/images\/dancing-queens.jpg",
+			"slug":"dancing-queens"
+		},
+		{
+			"title":"Ghosts of War",
+			"gatsby_image_path":"..\/..\/images\/ghosts-of-war.jpg",
+			"slug":"ghosts-of-war"
+		},
+		{
+			"title":"Love, Chunibyo & Other Delusions! Rikka Version",
+			"gatsby_image_path":"..\/..\/images\/love-chunibyo-other-delusions-rikka-version.jpg",
+			"slug":"love-chunibyo-other-delusions-rikka-version"
+		},
+		{
+			"title":"The First Purge",
+			"gatsby_image_path":"..\/..\/images\/the-first-purge.jpg",
+			"slug":"the-first-purge"
+		},
+		{
+			"title":"The Ten Commandments: The Movie",
+			"gatsby_image_path":"..\/..\/images\/the-ten-commandments-the-movie.jpg",
+			"slug":"the-ten-commandments-the-movie"
+		},
+		{
+			"title":"Justice League vs. Teen Titans",
+			"gatsby_image_path":"..\/..\/images\/justice-league-vs.-teen-titans.jpg",
+			"slug":"justice-league-vs.-teen-titans"
+		},
+		{
+			"title":"A Haunted House 2",
+			"gatsby_image_path":"..\/..\/images\/a-haunted-house-2.jpg",
+			"slug":"a-haunted-house-2"
 		}
 	]
 }

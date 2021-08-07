@@ -28,14 +28,34 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
 			"title":"Zombieland: Double Tap",
 			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
 			"slug":"zombieland-double-tap"
 		},
 		{
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
+		},
+		{
 			"title":"Zack Snyder's Justice League",
-			"gatsby_image_path":"..\/..\/images\/zack-snyder's-justice-league.jpg",
-			"slug":"zack-snyder's-justice-league"
+			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
+			"slug":"zack-snyder-s-justice-league"
+		},
+		{
+			"title":"Zack and Miri Make a Porno",
+			"gatsby_image_path":"..\/..\/images\/zack-and-miri-make-a-porno.jpg",
+			"slug":"zack-and-miri-make-a-porno"
 		},
 		{
 			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
@@ -43,7 +63,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -53,138 +73,41 @@
 			"slug":"young-sister-in-law-3-2019"
 		},
 		{
-			"title":"Xtreme",
-			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
-			"slug":"xtreme"
-		},
-		{
-			"title":"Xico's Journey",
-			"gatsby_image_path":"..\/..\/images\/xico's-journey.jpg",
-			"slug":"xico's-journey"
-		},
-		{
-			"title":"Wrong Turn",
-			"gatsby_image_path":"..\/..\/images\/wrong-turn.jpg",
-			"slug":"wrong-turn"
-		},
-		{
-			"title":"Wrath of Man",
-			"gatsby_image_path":"..\/..\/images\/wrath-of-man.jpg",
-			"slug":"wrath-of-man"
-		},
-		{
-			"title":"Wonder Woman 1984",
-			"gatsby_image_path":"..\/..\/images\/wonder-woman-1984.jpg",
-			"slug":"wonder-woman-1984"
-		}
-	],
-	"related_by_poster":[
-		{
-			"title":"PAW Patrol: The Movie",
-			"gatsby_image_path":"..\/..\/images\/paw-patrol-the-movie.jpg",
-			"slug":"paw-patrol-the-movie"
-		},
-		{
-			"title":"Hotel Transylvania: Transformania",
-			"gatsby_image_path":"..\/..\/images\/hotel-transylvania-transformania.jpg",
-			"slug":"hotel-transylvania-transformania"
-		},
-		{
-			"title":"Toy Story",
-			"gatsby_image_path":"..\/..\/images\/toy-story.jpg",
-			"slug":"toy-story"
-		},
-		{
-			"title":"Super Monsters: Once Upon a Rhyme",
-			"gatsby_image_path":"..\/..\/images\/super-monsters-once-upon-a-rhyme.jpg",
-			"slug":"super-monsters-once-upon-a-rhyme"
-		},
-		{
-			"title":"Shrek 2",
-			"gatsby_image_path":"..\/..\/images\/shrek-2.jpg",
-			"slug":"shrek-2"
-		},
-		{
-			"title":"We Bare Bears: The Movie",
-			"gatsby_image_path":"..\/..\/images\/we-bare-bears-the-movie.jpg",
-			"slug":"we-bare-bears-the-movie"
-		},
-		{
-			"title":"Maya the Bee: The Golden Orb",
-			"gatsby_image_path":"..\/..\/images\/maya-the-bee-the-golden-orb.jpg",
-			"slug":"maya-the-bee-the-golden-orb"
-		},
-		{
-			"title":"Scooby-Doo! The Sword and the Scoob",
-			"gatsby_image_path":"..\/..\/images\/scooby-doo-the-sword-and-the-scoob.jpg",
-			"slug":"scooby-doo-the-sword-and-the-scoob"
-		},
-		{
-			"title":"Toy Story 2",
-			"gatsby_image_path":"..\/..\/images\/toy-story-2.jpg",
-			"slug":"toy-story-2"
-		},
-		{
-			"title":"The Little Mermaid",
-			"gatsby_image_path":"..\/..\/images\/the-little-mermaid.jpg",
-			"slug":"the-little-mermaid"
-		},
-		{
-			"title":"The Croods: A New Age",
-			"gatsby_image_path":"..\/..\/images\/the-croods-a-new-age.jpg",
-			"slug":"the-croods-a-new-age"
-		},
-		{
-			"title":"Sing",
-			"gatsby_image_path":"..\/..\/images\/sing.jpg",
-			"slug":"sing"
-		},
-		{
-			"title":"The Simpsons: The Good, the Bart, and the Loki",
-			"gatsby_image_path":"..\/..\/images\/the-simpsons-the-good-the-bart-and-the-loki.jpg",
-			"slug":"the-simpsons-the-good-the-bart-and-the-loki"
-		},
-		{
-			"title":"Happy Halloween, Scooby-Doo!",
-			"gatsby_image_path":"..\/..\/images\/happy-halloween-scooby-doo.jpg",
-			"slug":"happy-halloween-scooby-doo"
-		},
-		{
-			"title":"Space Jam: A New Legacy",
-			"gatsby_image_path":"..\/..\/images\/space-jam-a-new-legacy.jpg",
-			"slug":"space-jam-a-new-legacy"
-		},
-		{
-			"title":"Phineas and Ferb: The Movie: Candace Against the Universe",
-			"gatsby_image_path":"..\/..\/images\/phineas-and-ferb-the-movie-candace-against-the-universe.jpg",
-			"slug":"phineas-and-ferb-the-movie-candace-against-the-universe"
-		},
-		{
-			"title":"Barbie & Chelsea the Lost Birthday",
-			"gatsby_image_path":"..\/..\/images\/barbie-chelsea-the-lost-birthday.jpg",
-			"slug":"barbie-chelsea-the-lost-birthday"
-		},
-		{
-			"title":"Toy Story 4",
-			"gatsby_image_path":"..\/..\/images\/toy-story-4.jpg",
-			"slug":"toy-story-4"
-		},
-		{
-			"title":"War of Likes",
-			"gatsby_image_path":"..\/..\/images\/war-of-likes.jpg",
-			"slug":"war-of-likes"
-		},
-		{
-			"title":"Dragon Ball Z: Broly – Second Coming",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-broly-second-coming.jpg",
-			"slug":"dragon-ball-z-broly-second-coming"
+			"title":"Yes Day",
+			"gatsby_image_path":"..\/..\/images\/yes-day.jpg",
+			"slug":"yes-day"
 		}
 	],
 	"related_most_similar":[
 		{
+			"title":"Latte and the Magic Waterstone",
+			"gatsby_image_path":"..\/..\/images\/latte-and-the-magic-waterstone.jpg",
+			"slug":"latte-and-the-magic-waterstone"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
 			"title":"Xico's Journey",
-			"gatsby_image_path":"..\/..\/images\/xico's-journey.jpg",
-			"slug":"xico's-journey"
+			"gatsby_image_path":"..\/..\/images\/xico-s-journey.jpg",
+			"slug":"xico-s-journey"
+		},
+		{
+			"title":"Wreck-It Ralph",
+			"gatsby_image_path":"..\/..\/images\/wreck-it-ralph.jpg",
+			"slug":"wreck-it-ralph"
+		},
+		{
+			"title":"Woody Woodpecker",
+			"gatsby_image_path":"..\/..\/images\/woody-woodpecker.jpg",
+			"slug":"woody-woodpecker"
+		},
+		{
+			"title":"Wolf Children",
+			"gatsby_image_path":"..\/..\/images\/wolf-children.jpg",
+			"slug":"wolf-children"
 		},
 		{
 			"title":"Wish Dragon",
@@ -192,14 +115,101 @@
 			"slug":"wish-dragon"
 		},
 		{
+			"title":"Whisper of the Heart",
+			"gatsby_image_path":"..\/..\/images\/whisper-of-the-heart.jpg",
+			"slug":"whisper-of-the-heart"
+		},
+		{
 			"title":"We Bare Bears: The Movie",
 			"gatsby_image_path":"..\/..\/images\/we-bare-bears-the-movie.jpg",
 			"slug":"we-bare-bears-the-movie"
 		},
 		{
-			"title":"Trollhunters: Rise of the Titans",
-			"gatsby_image_path":"..\/..\/images\/trollhunters-rise-of-the-titans.jpg",
-			"slug":"trollhunters-rise-of-the-titans"
+			"title":"WALL·E",
+			"gatsby_image_path":"..\/..\/images\/wall-e.jpg",
+			"slug":"wall-e"
+		}
+	],
+	"related_by_poster":[
+		{
+			"title":"The Angry Birds Movie 2",
+			"gatsby_image_path":"..\/..\/images\/the-angry-birds-movie-2.jpg",
+			"slug":"the-angry-birds-movie-2"
+		},
+		{
+			"title":"Huevos: Little Rooster's Egg-Cellent Adventure",
+			"gatsby_image_path":"..\/..\/images\/huevos-little-rooster-s-egg-cellent-adventure.jpg",
+			"slug":"huevos-little-rooster-s-egg-cellent-adventure"
+		},
+		{
+			"title":"PAW Patrol: Mighty Pups",
+			"gatsby_image_path":"..\/..\/images\/paw-patrol-mighty-pups.jpg",
+			"slug":"paw-patrol-mighty-pups"
+		},
+		{
+			"title":"La leyenda de la Llorona",
+			"gatsby_image_path":"..\/..\/images\/la-leyenda-de-la-llorona.jpg",
+			"slug":"la-leyenda-de-la-llorona"
+		},
+		{
+			"title":"Combat Wombat",
+			"gatsby_image_path":"..\/..\/images\/combat-wombat.jpg",
+			"slug":"combat-wombat"
+		},
+		{
+			"title":"Ella Bella Bingo",
+			"gatsby_image_path":"..\/..\/images\/ella-bella-bingo.jpg",
+			"slug":"ella-bella-bingo"
+		},
+		{
+			"title":"Pokémon the Movie: Hoopa and the Clash of Ages",
+			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-hoopa-and-the-clash-of-ages.jpg",
+			"slug":"pokémon-the-movie-hoopa-and-the-clash-of-ages"
+		},
+		{
+			"title":"Robin Hood",
+			"gatsby_image_path":"..\/..\/images\/robin-hood.jpg",
+			"slug":"robin-hood"
+		},
+		{
+			"title":"PAW Patrol: The Movie",
+			"gatsby_image_path":"..\/..\/images\/paw-patrol-the-movie.jpg",
+			"slug":"paw-patrol-the-movie"
+		},
+		{
+			"title":"Kung Fu Panda 2",
+			"gatsby_image_path":"..\/..\/images\/kung-fu-panda-2.jpg",
+			"slug":"kung-fu-panda-2"
+		},
+		{
+			"title":"Hotel Transylvania: Transformania",
+			"gatsby_image_path":"..\/..\/images\/hotel-transylvania-transformania.jpg",
+			"slug":"hotel-transylvania-transformania"
+		},
+		{
+			"title":"Inside Out",
+			"gatsby_image_path":"..\/..\/images\/inside-out.jpg",
+			"slug":"inside-out"
+		},
+		{
+			"title":"Dragon Ball Z: Dead Zone",
+			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-dead-zone.jpg",
+			"slug":"dragon-ball-z-dead-zone"
+		},
+		{
+			"title":"Scooby-Doo! in Where's My Mummy?",
+			"gatsby_image_path":"..\/..\/images\/scooby-doo-in-where-s-my-mummy.jpg",
+			"slug":"scooby-doo-in-where-s-my-mummy"
+		},
+		{
+			"title":"Super Monsters: Once Upon a Rhyme",
+			"gatsby_image_path":"..\/..\/images\/super-monsters-once-upon-a-rhyme.jpg",
+			"slug":"super-monsters-once-upon-a-rhyme"
+		},
+		{
+			"title":"Pets United",
+			"gatsby_image_path":"..\/..\/images\/pets-united.jpg",
+			"slug":"pets-united"
 		},
 		{
 			"title":"Toy Story",
@@ -207,29 +217,19 @@
 			"slug":"toy-story"
 		},
 		{
-			"title":"Toy Story 4",
-			"gatsby_image_path":"..\/..\/images\/toy-story-4.jpg",
-			"slug":"toy-story-4"
+			"title":"Next Avengers: Heroes of Tomorrow",
+			"gatsby_image_path":"..\/..\/images\/next-avengers-heroes-of-tomorrow.jpg",
+			"slug":"next-avengers-heroes-of-tomorrow"
 		},
 		{
-			"title":"Toy Story 2",
-			"gatsby_image_path":"..\/..\/images\/toy-story-2.jpg",
-			"slug":"toy-story-2"
+			"title":"Barbie and the Diamond Castle",
+			"gatsby_image_path":"..\/..\/images\/barbie-and-the-diamond-castle.jpg",
+			"slug":"barbie-and-the-diamond-castle"
 		},
 		{
-			"title":"Tom & Jerry",
-			"gatsby_image_path":"..\/..\/images\/tom-jerry.jpg",
-			"slug":"tom-jerry"
-		},
-		{
-			"title":"The SpongeBob Movie: Sponge on the Run",
-			"gatsby_image_path":"..\/..\/images\/the-spongebob-movie-sponge-on-the-run.jpg",
-			"slug":"the-spongebob-movie-sponge-on-the-run"
-		},
-		{
-			"title":"The Simpsons: The Good, the Bart, and the Loki",
-			"gatsby_image_path":"..\/..\/images\/the-simpsons-the-good-the-bart-and-the-loki.jpg",
-			"slug":"the-simpsons-the-good-the-bart-and-the-loki"
+			"title":"Hoodwinked Too! Hood VS. Evil",
+			"gatsby_image_path":"..\/..\/images\/hoodwinked-too-hood-vs.-evil.jpg",
+			"slug":"hoodwinked-too-hood-vs.-evil"
 		}
 	]
 }

@@ -58,13 +58,28 @@
 	"related_by_cast":[
 		{
 			"title":"Willy's Wonderland",
-			"gatsby_image_path":"..\/..\/images\/willy's-wonderland.jpg",
-			"slug":"willy's-wonderland"
+			"gatsby_image_path":"..\/..\/images\/willy-s-wonderland.jpg",
+			"slug":"willy-s-wonderland"
+		},
+		{
+			"title":"Turner & Hooch",
+			"gatsby_image_path":"..\/..\/images\/turner-hooch.jpg",
+			"slug":"turner-hooch"
+		},
+		{
+			"title":"The Croods",
+			"gatsby_image_path":"..\/..\/images\/the-croods.jpg",
+			"slug":"the-croods"
 		},
 		{
 			"title":"The Croods: A New Age",
 			"gatsby_image_path":"..\/..\/images\/the-croods-a-new-age.jpg",
 			"slug":"the-croods-a-new-age"
+		},
+		{
+			"title":"Snake Eyes",
+			"gatsby_image_path":"..\/..\/images\/snake-eyes.jpg",
+			"slug":"snake-eyes"
 		},
 		{
 			"title":"Primal",
@@ -77,19 +92,31 @@
 			"slug":"old"
 		},
 		{
+			"title":"Mandy",
+			"gatsby_image_path":"..\/..\/images\/mandy.jpg",
+			"slug":"mandy"
+		},
+		{
 			"title":"Kill Chain",
 			"gatsby_image_path":"..\/..\/images\/kill-chain.jpg",
 			"slug":"kill-chain"
 		},
 		{
-			"title":"Jumanji: The Next Level",
-			"gatsby_image_path":"..\/..\/images\/jumanji-the-next-level.jpg",
-			"slug":"jumanji-the-next-level"
+			"title":"Jumanji: Welcome to the Jungle",
+			"gatsby_image_path":"..\/..\/images\/jumanji-welcome-to-the-jungle.jpg",
+			"slug":"jumanji-welcome-to-the-jungle"
+		}
+	],
+	"related_most_similar":[
+		{
+			"title":"Willy's Wonderland",
+			"gatsby_image_path":"..\/..\/images\/willy-s-wonderland.jpg",
+			"slug":"willy-s-wonderland"
 		},
 		{
-			"title":"Jiu Jitsu",
-			"gatsby_image_path":"..\/..\/images\/jiu-jitsu.jpg",
-			"slug":"jiu-jitsu"
+			"title":"Kill Chain",
+			"gatsby_image_path":"..\/..\/images\/kill-chain.jpg",
+			"slug":"kill-chain"
 		},
 		{
 			"title":"Grand Isle",
@@ -102,9 +129,34 @@
 			"slug":"a-score-to-settle"
 		},
 		{
-			"title":"Zombieland: Double Tap",
-			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
-			"slug":"zombieland-double-tap"
+			"title":"Victor Frankenstein",
+			"gatsby_image_path":"..\/..\/images\/victor-frankenstein.jpg",
+			"slug":"victor-frankenstein"
+		},
+		{
+			"title":"The Witch",
+			"gatsby_image_path":"..\/..\/images\/the-witch.jpg",
+			"slug":"the-witch"
+		},
+		{
+			"title":"The Upside",
+			"gatsby_image_path":"..\/..\/images\/the-upside.jpg",
+			"slug":"the-upside"
+		},
+		{
+			"title":"The Mauritanian",
+			"gatsby_image_path":"..\/..\/images\/the-mauritanian.jpg",
+			"slug":"the-mauritanian"
+		},
+		{
+			"title":"The Last Thing He Wanted",
+			"gatsby_image_path":"..\/..\/images\/the-last-thing-he-wanted.jpg",
+			"slug":"the-last-thing-he-wanted"
+		},
+		{
+			"title":"The Imitation Game",
+			"gatsby_image_path":"..\/..\/images\/the-imitation-game.jpg",
+			"slug":"the-imitation-game"
 		}
 	],
 	"related_by_poster":[
@@ -114,151 +166,99 @@
 			"slug":"the-conjuring-the-devil-made-me-do-it"
 		},
 		{
+			"title":"A Werewolf Boy",
+			"gatsby_image_path":"..\/..\/images\/a-werewolf-boy.jpg",
+			"slug":"a-werewolf-boy"
+		},
+		{
+			"title":"Malcolm & Marie",
+			"gatsby_image_path":"..\/..\/images\/malcolm-marie.jpg",
+			"slug":"malcolm-marie"
+		},
+		{
+			"title":"Level Sixteen",
+			"gatsby_image_path":"..\/..\/images\/level-sixteen.jpg",
+			"slug":"level-sixteen"
+		},
+		{
+			"title":"Disobedience",
+			"gatsby_image_path":"..\/..\/images\/disobedience.jpg",
+			"slug":"disobedience"
+		},
+		{
+			"title":"Greta",
+			"gatsby_image_path":"..\/..\/images\/greta.jpg",
+			"slug":"greta"
+		},
+		{
+			"title":"Child's Play 3",
+			"gatsby_image_path":"..\/..\/images\/child-s-play-3.jpg",
+			"slug":"child-s-play-3"
+		},
+		{
+			"title":"Lucy",
+			"gatsby_image_path":"..\/..\/images\/lucy.jpg",
+			"slug":"lucy"
+		},
+		{
+			"title":"Chemical Hearts",
+			"gatsby_image_path":"..\/..\/images\/chemical-hearts.jpg",
+			"slug":"chemical-hearts"
+		},
+		{
+			"title":"The Unfamiliar",
+			"gatsby_image_path":"..\/..\/images\/the-unfamiliar.jpg",
+			"slug":"the-unfamiliar"
+		},
+		{
+			"title":"Black Box",
+			"gatsby_image_path":"..\/..\/images\/black-box.jpg",
+			"slug":"black-box"
+		},
+		{
+			"title":"Parasyte: Part 2",
+			"gatsby_image_path":"..\/..\/images\/parasyte-part-2.jpg",
+			"slug":"parasyte-part-2"
+		},
+		{
+			"title":"Se7en",
+			"gatsby_image_path":"..\/..\/images\/se7en.jpg",
+			"slug":"se7en"
+		},
+		{
+			"title":"Souvenir",
+			"gatsby_image_path":"..\/..\/images\/souvenir.jpg",
+			"slug":"souvenir"
+		},
+		{
 			"title":"Ferry",
 			"gatsby_image_path":"..\/..\/images\/ferry.jpg",
 			"slug":"ferry"
 		},
 		{
-			"title":"Code 8",
-			"gatsby_image_path":"..\/..\/images\/code-8.jpg",
-			"slug":"code-8"
+			"title":"The Invisible Man",
+			"gatsby_image_path":"..\/..\/images\/the-invisible-man.jpg",
+			"slug":"the-invisible-man"
 		},
 		{
-			"title":"Fifty Shades Freed",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-freed.jpg",
-			"slug":"fifty-shades-freed"
+			"title":"The Fault in Our Stars",
+			"gatsby_image_path":"..\/..\/images\/the-fault-in-our-stars.jpg",
+			"slug":"the-fault-in-our-stars"
 		},
 		{
-			"title":"A Score to Settle",
-			"gatsby_image_path":"..\/..\/images\/a-score-to-settle.jpg",
-			"slug":"a-score-to-settle"
+			"title":"Unforgettable",
+			"gatsby_image_path":"..\/..\/images\/unforgettable.jpg",
+			"slug":"unforgettable"
 		},
 		{
-			"title":"No Sudden Move",
-			"gatsby_image_path":"..\/..\/images\/no-sudden-move.jpg",
-			"slug":"no-sudden-move"
+			"title":"365 Days",
+			"gatsby_image_path":"..\/..\/images\/365-days.jpg",
+			"slug":"365-days"
 		},
 		{
-			"title":"Chaos Walking",
-			"gatsby_image_path":"..\/..\/images\/chaos-walking.jpg",
-			"slug":"chaos-walking"
-		},
-		{
-			"title":"Fifty Shades of Grey",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
-			"slug":"fifty-shades-of-grey"
-		},
-		{
-			"title":"Grand Isle",
-			"gatsby_image_path":"..\/..\/images\/grand-isle.jpg",
-			"slug":"grand-isle"
-		},
-		{
-			"title":"Don't Breathe 2",
-			"gatsby_image_path":"..\/..\/images\/don't-breathe-2.jpg",
-			"slug":"don't-breathe-2"
-		},
-		{
-			"title":"Mortal Kombat",
-			"gatsby_image_path":"..\/..\/images\/mortal-kombat.jpg",
-			"slug":"mortal-kombat"
-		},
-		{
-			"title":"Avatar",
-			"gatsby_image_path":"..\/..\/images\/avatar.jpg",
-			"slug":"avatar"
-		},
-		{
-			"title":"Those Who Wish Me Dead",
-			"gatsby_image_path":"..\/..\/images\/those-who-wish-me-dead.jpg",
-			"slug":"those-who-wish-me-dead"
-		},
-		{
-			"title":"Awake",
-			"gatsby_image_path":"..\/..\/images\/awake.jpg",
-			"slug":"awake"
-		},
-		{
-			"title":"Jolt",
-			"gatsby_image_path":"..\/..\/images\/jolt.jpg",
-			"slug":"jolt"
-		},
-		{
-			"title":"Dancing Queens",
-			"gatsby_image_path":"..\/..\/images\/dancing-queens.jpg",
-			"slug":"dancing-queens"
-		},
-		{
-			"title":"Oxygen",
-			"gatsby_image_path":"..\/..\/images\/oxygen.jpg",
-			"slug":"oxygen"
-		},
-		{
-			"title":"Penguin Bloom",
-			"gatsby_image_path":"..\/..\/images\/penguin-bloom.jpg",
-			"slug":"penguin-bloom"
-		},
-		{
-			"title":"Spider-Man: No Way Home",
-			"gatsby_image_path":"..\/..\/images\/spider-man-no-way-home.jpg",
-			"slug":"spider-man-no-way-home"
-		},
-		{
-			"title":"Dark Phoenix",
-			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
-			"slug":"dark-phoenix"
-		}
-	],
-	"related_most_similar":[
-		{
-			"title":"Willy's Wonderland",
-			"gatsby_image_path":"..\/..\/images\/willy's-wonderland.jpg",
-			"slug":"willy's-wonderland"
-		},
-		{
-			"title":"Kill Chain",
-			"gatsby_image_path":"..\/..\/images\/kill-chain.jpg",
-			"slug":"kill-chain"
-		},
-		{
-			"title":"Grand Isle",
-			"gatsby_image_path":"..\/..\/images\/grand-isle.jpg",
-			"slug":"grand-isle"
-		},
-		{
-			"title":"A Score to Settle",
-			"gatsby_image_path":"..\/..\/images\/a-score-to-settle.jpg",
-			"slug":"a-score-to-settle"
-		},
-		{
-			"title":"The Last Thing He Wanted",
-			"gatsby_image_path":"..\/..\/images\/the-last-thing-he-wanted.jpg",
-			"slug":"the-last-thing-he-wanted"
-		},
-		{
-			"title":"The Courier",
-			"gatsby_image_path":"..\/..\/images\/the-courier.jpg",
-			"slug":"the-courier"
-		},
-		{
-			"title":"Fear of Rain",
-			"gatsby_image_path":"..\/..\/images\/fear-of-rain.jpg",
-			"slug":"fear-of-rain"
-		},
-		{
-			"title":"Code 8",
-			"gatsby_image_path":"..\/..\/images\/code-8.jpg",
-			"slug":"code-8"
-		},
-		{
-			"title":"Wrong Turn",
-			"gatsby_image_path":"..\/..\/images\/wrong-turn.jpg",
-			"slug":"wrong-turn"
-		},
-		{
-			"title":"Wrath of Man",
-			"gatsby_image_path":"..\/..\/images\/wrath-of-man.jpg",
-			"slug":"wrath-of-man"
+			"title":"My Extraordinary Summer With Tess",
+			"gatsby_image_path":"..\/..\/images\/my-extraordinary-summer-with-tess.jpg",
+			"slug":"my-extraordinary-summer-with-tess"
 		}
 	]
 }

@@ -1,71 +1,68 @@
 {
 	"title":"Ava",
 	"status":"Released",
-	"runtime":96,
-	"revenue":2987741,
-	"release_date":"2020-07-02",
+	"runtime":106,
+	"revenue":0,
+	"release_date":"2017-06-21",
 	"production_countries":[
-		"United States of America"
+		"France"
 	],
 	"production_companies":[
-		"Freckle Films",
-		"Voltage Pictures",
-		"Vertical Entertainment"
+		"Trois Brigands Productions",
+		"F Comme Film",
+		"Ciné@",
+		"ARTE France Cinéma",
+		"Canal+",
+		"ARTE",
+		"Cinémage 11",
+		"Cofinova 13"
 	],
-	"poster_path":"\/qzA87Wf4jo1h8JMk9GilyIYvwsA.jpg",
-	"imdb_id":"tt8784956",
+	"poster_path":"\/cUI1PFsrQVJR3IZOpkfsOOOUhTO.jpg",
+	"imdb_id":"tt6194530",
 	"original_title":"Ava",
-	"overview":"A black ops assassin is forced to fight for her own survival after a job goes dangerously wrong.",
-	"original_language":"en",
+	"overview":"Ava, 13, is spending the summer on the Atlantic coast when she learns that she will lose her sight sooner than expected. Her mother decides to act as if everything were normal so as to spend their best summer ever. Ava confronts the problem in her own way. She steals a big black dog that belongs to a young man on the run...",
+	"original_language":"fr",
 	"adult":false,
 	"budget":0,
 	"genres":[
-		"Action",
-		"Crime",
-		"Drama",
-		"Thriller"
+		"Drama"
 	],
 	"slug":"ava",
 	"gatsby_image_path":"..\/..\/images\/ava.jpg",
 	"cast":[
-		"Jessica Chastain",
-		"John Malkovich",
-		"Colin Farrell",
-		"Common",
-		"Geena Davis",
-		"Jess Weixler",
-		"Joan Chen",
-		"Ioan Gruffudd",
-		"Diana Silvers",
-		"Efka Kvaraciejus"
+		"Noée Abita",
+		"Juan Cano",
+		"Laure Calamy",
+		"Tamara Cano",
+		"Ismaël Capelot",
+		"Daouda Diakhaté",
+		"Baptiste Archimbaud",
+		"Franck Beckmann",
+		"Valentine Cadic",
+		"Mary Lefèvre"
 	],
 	"crew":[
-		"Zach Staenberg",
-		"Stephen Goldblatt",
-		"Leslie E. Rollins",
-		"Molly Hughes",
-		"Greg P. Russell",
-		"Linda Cohen",
-		"Brenda McNally",
-		"Nancy Kirhoffer",
-		"Vikram Kale",
-		"Trish Seeney"
+		"Jean-Louis Livi",
+		"Yolande Decarsin",
+		"Florencia Di Concilio",
+		"Pierre Deschamps",
+		"Judith Chalier",
+		"François Guignard",
+		"Paul Guilhaume",
+		"Paul Guilhaume",
+		"Léa Mysius",
+		"Léa Mysius"
 	],
 	"related_by_cast":[
 		{
-			"title":"John Wick: Chapter 2",
-			"gatsby_image_path":"..\/..\/images\/john-wick-chapter-2.jpg",
-			"slug":"john-wick-chapter-2"
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
 		},
 		{
-			"title":"It Chapter Two",
-			"gatsby_image_path":"..\/..\/images\/it-chapter-two.jpg",
-			"slug":"it-chapter-two"
-		},
-		{
-			"title":"Dark Phoenix",
-			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
-			"slug":"dark-phoenix"
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
 		},
 		{
 			"title":"Zombieland: Double Tap",
@@ -73,9 +70,19 @@
 			"slug":"zombieland-double-tap"
 		},
 		{
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
+		},
+		{
 			"title":"Zack Snyder's Justice League",
-			"gatsby_image_path":"..\/..\/images\/zack-snyder's-justice-league.jpg",
-			"slug":"zack-snyder's-justice-league"
+			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
+			"slug":"zack-snyder-s-justice-league"
+		},
+		{
+			"title":"Zack and Miri Make a Porno",
+			"gatsby_image_path":"..\/..\/images\/zack-and-miri-make-a-porno.jpg",
+			"slug":"zack-and-miri-make-a-porno"
 		},
 		{
 			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
@@ -83,7 +90,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -93,168 +100,163 @@
 			"slug":"young-sister-in-law-3-2019"
 		},
 		{
-			"title":"Xtreme",
-			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
-			"slug":"xtreme"
-		},
-		{
-			"title":"Xico's Journey",
-			"gatsby_image_path":"..\/..\/images\/xico's-journey.jpg",
-			"slug":"xico's-journey"
-		}
-	],
-	"related_by_poster":[
-		{
-			"title":"After",
-			"gatsby_image_path":"..\/..\/images\/after.jpg",
-			"slug":"after"
-		},
-		{
-			"title":"Ride or Die",
-			"gatsby_image_path":"..\/..\/images\/ride-or-die.jpg",
-			"slug":"ride-or-die"
-		},
-		{
-			"title":"Fifty Shades Freed",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-freed.jpg",
-			"slug":"fifty-shades-freed"
-		},
-		{
-			"title":"Breach",
-			"gatsby_image_path":"..\/..\/images\/breach.jpg",
-			"slug":"breach"
-		},
-		{
-			"title":"Me Before You",
-			"gatsby_image_path":"..\/..\/images\/me-before-you.jpg",
-			"slug":"me-before-you"
-		},
-		{
-			"title":"No Sudden Move",
-			"gatsby_image_path":"..\/..\/images\/no-sudden-move.jpg",
-			"slug":"no-sudden-move"
-		},
-		{
-			"title":"The Conjuring: The Devil Made Me Do It",
-			"gatsby_image_path":"..\/..\/images\/the-conjuring-the-devil-made-me-do-it.jpg",
-			"slug":"the-conjuring-the-devil-made-me-do-it"
-		},
-		{
-			"title":"Code 8",
-			"gatsby_image_path":"..\/..\/images\/code-8.jpg",
-			"slug":"code-8"
-		},
-		{
-			"title":"Roald Dahl's The Witches",
-			"gatsby_image_path":"..\/..\/images\/roald-dahl's-the-witches.jpg",
-			"slug":"roald-dahl's-the-witches"
-		},
-		{
-			"title":"Mulan",
-			"gatsby_image_path":"..\/..\/images\/mulan.jpg",
-			"slug":"mulan"
-		},
-		{
-			"title":"Fifty Shades of Grey",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
-			"slug":"fifty-shades-of-grey"
-		},
-		{
-			"title":"Penguin Bloom",
-			"gatsby_image_path":"..\/..\/images\/penguin-bloom.jpg",
-			"slug":"penguin-bloom"
-		},
-		{
-			"title":"Cherry",
-			"gatsby_image_path":"..\/..\/images\/cherry.jpg",
-			"slug":"cherry"
-		},
-		{
-			"title":"Hitman's Wife's Bodyguard",
-			"gatsby_image_path":"..\/..\/images\/hitman's-wife's-bodyguard.jpg",
-			"slug":"hitman's-wife's-bodyguard"
-		},
-		{
-			"title":"Those Who Wish Me Dead",
-			"gatsby_image_path":"..\/..\/images\/those-who-wish-me-dead.jpg",
-			"slug":"those-who-wish-me-dead"
-		},
-		{
-			"title":"Life in a Year",
-			"gatsby_image_path":"..\/..\/images\/life-in-a-year.jpg",
-			"slug":"life-in-a-year"
-		},
-		{
-			"title":"Harry Potter and the Chamber of Secrets",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-chamber-of-secrets.jpg",
-			"slug":"harry-potter-and-the-chamber-of-secrets"
-		},
-		{
-			"title":"Don't Breathe 2",
-			"gatsby_image_path":"..\/..\/images\/don't-breathe-2.jpg",
-			"slug":"don't-breathe-2"
-		},
-		{
-			"title":"Dancing Queens",
-			"gatsby_image_path":"..\/..\/images\/dancing-queens.jpg",
-			"slug":"dancing-queens"
-		},
-		{
-			"title":"A Perfect Fit",
-			"gatsby_image_path":"..\/..\/images\/a-perfect-fit.jpg",
-			"slug":"a-perfect-fit"
+			"title":"Yes Day",
+			"gatsby_image_path":"..\/..\/images\/yes-day.jpg",
+			"slug":"yes-day"
 		}
 	],
 	"related_most_similar":[
 		{
-			"title":"The Marksman",
-			"gatsby_image_path":"..\/..\/images\/the-marksman.jpg",
-			"slug":"the-marksman"
+			"title":"The Father",
+			"gatsby_image_path":"..\/..\/images\/the-father.jpg",
+			"slug":"the-father"
 		},
 		{
-			"title":"The Courier",
-			"gatsby_image_path":"..\/..\/images\/the-courier.jpg",
-			"slug":"the-courier"
+			"title":"The Intouchables",
+			"gatsby_image_path":"..\/..\/images\/the-intouchables.jpg",
+			"slug":"the-intouchables"
 		},
 		{
-			"title":"Nobody",
-			"gatsby_image_path":"..\/..\/images\/nobody.jpg",
-			"slug":"nobody"
+			"title":"The Emperor of Paris",
+			"gatsby_image_path":"..\/..\/images\/the-emperor-of-paris.jpg",
+			"slug":"the-emperor-of-paris"
 		},
 		{
-			"title":"John Wick: Chapter 2",
-			"gatsby_image_path":"..\/..\/images\/john-wick-chapter-2.jpg",
-			"slug":"john-wick-chapter-2"
+			"title":"The Bouncer",
+			"gatsby_image_path":"..\/..\/images\/the-bouncer.jpg",
+			"slug":"the-bouncer"
 		},
 		{
-			"title":"Honest Thief",
-			"gatsby_image_path":"..\/..\/images\/honest-thief.jpg",
-			"slug":"honest-thief"
+			"title":"Personal Shopper",
+			"gatsby_image_path":"..\/..\/images\/personal-shopper.jpg",
+			"slug":"personal-shopper"
 		},
 		{
-			"title":"Furious 7",
-			"gatsby_image_path":"..\/..\/images\/furious-7.jpg",
-			"slug":"furious-7"
+			"title":"The Last Letter From Your Lover",
+			"gatsby_image_path":"..\/..\/images\/the-last-letter-from-your-lover.jpg",
+			"slug":"the-last-letter-from-your-lover"
 		},
 		{
-			"title":"El Camino: A Breaking Bad Movie",
-			"gatsby_image_path":"..\/..\/images\/el-camino-a-breaking-bad-movie.jpg",
-			"slug":"el-camino-a-breaking-bad-movie"
+			"title":"Sex Doll",
+			"gatsby_image_path":"..\/..\/images\/sex-doll.jpg",
+			"slug":"sex-doll"
 		},
 		{
-			"title":"Code 8",
-			"gatsby_image_path":"..\/..\/images\/code-8.jpg",
-			"slug":"code-8"
+			"title":"Sentinelle",
+			"gatsby_image_path":"..\/..\/images\/sentinelle.jpg",
+			"slug":"sentinelle"
 		},
 		{
-			"title":"Brothers by Blood",
-			"gatsby_image_path":"..\/..\/images\/brothers-by-blood.jpg",
-			"slug":"brothers-by-blood"
+			"title":"Revenge",
+			"gatsby_image_path":"..\/..\/images\/revenge.jpg",
+			"slug":"revenge"
 		},
 		{
-			"title":"Body Brokers",
-			"gatsby_image_path":"..\/..\/images\/body-brokers.jpg",
-			"slug":"body-brokers"
+			"title":"Oxygen",
+			"gatsby_image_path":"..\/..\/images\/oxygen.jpg",
+			"slug":"oxygen"
+		}
+	],
+	"related_by_poster":[
+		{
+			"title":"War Dogs",
+			"gatsby_image_path":"..\/..\/images\/war-dogs.jpg",
+			"slug":"war-dogs"
+		},
+		{
+			"title":"Miracles from Heaven",
+			"gatsby_image_path":"..\/..\/images\/miracles-from-heaven.jpg",
+			"slug":"miracles-from-heaven"
+		},
+		{
+			"title":"Sinbad: Legend of the Seven Seas",
+			"gatsby_image_path":"..\/..\/images\/sinbad-legend-of-the-seven-seas.jpg",
+			"slug":"sinbad-legend-of-the-seven-seas"
+		},
+		{
+			"title":"Cowboys",
+			"gatsby_image_path":"..\/..\/images\/cowboys.jpg",
+			"slug":"cowboys"
+		},
+		{
+			"title":"Kubo and the Two Strings",
+			"gatsby_image_path":"..\/..\/images\/kubo-and-the-two-strings.jpg",
+			"slug":"kubo-and-the-two-strings"
+		},
+		{
+			"title":"Every Day",
+			"gatsby_image_path":"..\/..\/images\/every-day.jpg",
+			"slug":"every-day"
+		},
+		{
+			"title":"Fantasia",
+			"gatsby_image_path":"..\/..\/images\/fantasia.jpg",
+			"slug":"fantasia"
+		},
+		{
+			"title":"Midnight Sun",
+			"gatsby_image_path":"..\/..\/images\/midnight-sun.jpg",
+			"slug":"midnight-sun"
+		},
+		{
+			"title":"The Water Man",
+			"gatsby_image_path":"..\/..\/images\/the-water-man.jpg",
+			"slug":"the-water-man"
+		},
+		{
+			"title":"The Evil Dead",
+			"gatsby_image_path":"..\/..\/images\/the-evil-dead.jpg",
+			"slug":"the-evil-dead"
+		},
+		{
+			"title":"Spirit: Stallion of the Cimarron",
+			"gatsby_image_path":"..\/..\/images\/spirit-stallion-of-the-cimarron.jpg",
+			"slug":"spirit-stallion-of-the-cimarron"
+		},
+		{
+			"title":"The 5th Wave",
+			"gatsby_image_path":"..\/..\/images\/the-5th-wave.jpg",
+			"slug":"the-5th-wave"
+		},
+		{
+			"title":"When Marnie Was There",
+			"gatsby_image_path":"..\/..\/images\/when-marnie-was-there.jpg",
+			"slug":"when-marnie-was-there"
+		},
+		{
+			"title":"Can You Keep a Secret?",
+			"gatsby_image_path":"..\/..\/images\/can-you-keep-a-secret.jpg",
+			"slug":"can-you-keep-a-secret"
+		},
+		{
+			"title":"Sword Art Online: The Movie - Ordinal Scale",
+			"gatsby_image_path":"..\/..\/images\/sword-art-online-the-movie-ordinal-scale.jpg",
+			"slug":"sword-art-online-the-movie-ordinal-scale"
+		},
+		{
+			"title":"Call Me by Your Name",
+			"gatsby_image_path":"..\/..\/images\/call-me-by-your-name.jpg",
+			"slug":"call-me-by-your-name"
+		},
+		{
+			"title":"Gone Girl",
+			"gatsby_image_path":"..\/..\/images\/gone-girl.jpg",
+			"slug":"gone-girl"
+		},
+		{
+			"title":"The Ash Lad: In the Hall of the Mountain King",
+			"gatsby_image_path":"..\/..\/images\/the-ash-lad-in-the-hall-of-the-mountain-king.jpg",
+			"slug":"the-ash-lad-in-the-hall-of-the-mountain-king"
+		},
+		{
+			"title":"Ainbo: Spirit of the Amazon",
+			"gatsby_image_path":"..\/..\/images\/ainbo-spirit-of-the-amazon.jpg",
+			"slug":"ainbo-spirit-of-the-amazon"
+		},
+		{
+			"title":"6 Underground",
+			"gatsby_image_path":"..\/..\/images\/6-underground.jpg",
+			"slug":"6-underground"
 		}
 	]
 }

@@ -26,34 +26,57 @@
 	"cast":[
 		"Molly Nutley",
 		"Christopher Wollter",
+		"Fredrik Quinones",
 		"Rakel Wärmländer",
 		"Mattias Nordkvist",
 		"Marie Göranzon",
-		"Emil Almén",
 		"Claes Malmberg",
-		"Robert Fux",
-		"Razmus Nyström",
-		"Dominika Peczynski"
+		"Max Ulveson",
+		"Emil Almén",
+		"Razmus Nyström"
 	],
 	"crew":[
 		"Helena Bergström",
 		"Helena Bergström",
 		"Colin Nutley",
+		"Peter Mokrosinski",
 		"Denize Karabuda",
+		"Gaute Storaas",
 		"Christina Braun-Bredelius",
 		"Mikael Bergkvist",
-		"Joana Sorobetea"
+		"Joana Sorobetea",
+		"Philip Puljak"
 	],
 	"related_by_cast":[
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
 		{
 			"title":"Zombieland: Double Tap",
 			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
 			"slug":"zombieland-double-tap"
 		},
 		{
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
+		},
+		{
 			"title":"Zack Snyder's Justice League",
-			"gatsby_image_path":"..\/..\/images\/zack-snyder's-justice-league.jpg",
-			"slug":"zack-snyder's-justice-league"
+			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
+			"slug":"zack-snyder-s-justice-league"
+		},
+		{
+			"title":"Zack and Miri Make a Porno",
+			"gatsby_image_path":"..\/..\/images\/zack-and-miri-make-a-porno.jpg",
+			"slug":"zack-and-miri-make-a-porno"
 		},
 		{
 			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
@@ -61,7 +84,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -71,131 +94,9 @@
 			"slug":"young-sister-in-law-3-2019"
 		},
 		{
-			"title":"Xtreme",
-			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
-			"slug":"xtreme"
-		},
-		{
-			"title":"Xico's Journey",
-			"gatsby_image_path":"..\/..\/images\/xico's-journey.jpg",
-			"slug":"xico's-journey"
-		},
-		{
-			"title":"Wrong Turn",
-			"gatsby_image_path":"..\/..\/images\/wrong-turn.jpg",
-			"slug":"wrong-turn"
-		},
-		{
-			"title":"Wrath of Man",
-			"gatsby_image_path":"..\/..\/images\/wrath-of-man.jpg",
-			"slug":"wrath-of-man"
-		},
-		{
-			"title":"Wonder Woman 1984",
-			"gatsby_image_path":"..\/..\/images\/wonder-woman-1984.jpg",
-			"slug":"wonder-woman-1984"
-		}
-	],
-	"related_by_poster":[
-		{
-			"title":"Hitman's Wife's Bodyguard",
-			"gatsby_image_path":"..\/..\/images\/hitman's-wife's-bodyguard.jpg",
-			"slug":"hitman's-wife's-bodyguard"
-		},
-		{
-			"title":"Harry Potter and the Philosopher's Stone",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher's-stone.jpg",
-			"slug":"harry-potter-and-the-philosopher's-stone"
-		},
-		{
-			"title":"Roald Dahl's The Witches",
-			"gatsby_image_path":"..\/..\/images\/roald-dahl's-the-witches.jpg",
-			"slug":"roald-dahl's-the-witches"
-		},
-		{
-			"title":"Harry Potter and the Goblet of Fire",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
-			"slug":"harry-potter-and-the-goblet-of-fire"
-		},
-		{
-			"title":"Harry Potter and the Prisoner of Azkaban",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-prisoner-of-azkaban.jpg",
-			"slug":"harry-potter-and-the-prisoner-of-azkaban"
-		},
-		{
-			"title":"Fifty Shades Freed",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-freed.jpg",
-			"slug":"fifty-shades-freed"
-		},
-		{
-			"title":"Tom & Jerry",
-			"gatsby_image_path":"..\/..\/images\/tom-jerry.jpg",
-			"slug":"tom-jerry"
-		},
-		{
-			"title":"War of Likes",
-			"gatsby_image_path":"..\/..\/images\/war-of-likes.jpg",
-			"slug":"war-of-likes"
-		},
-		{
-			"title":"Initiation",
-			"gatsby_image_path":"..\/..\/images\/initiation.jpg",
-			"slug":"initiation"
-		},
-		{
-			"title":"Girl in the Basement",
-			"gatsby_image_path":"..\/..\/images\/girl-in-the-basement.jpg",
-			"slug":"girl-in-the-basement"
-		},
-		{
-			"title":"Mulan",
-			"gatsby_image_path":"..\/..\/images\/mulan.jpg",
-			"slug":"mulan"
-		},
-		{
-			"title":"The Last Thing He Wanted",
-			"gatsby_image_path":"..\/..\/images\/the-last-thing-he-wanted.jpg",
-			"slug":"the-last-thing-he-wanted"
-		},
-		{
-			"title":"Breach",
-			"gatsby_image_path":"..\/..\/images\/breach.jpg",
-			"slug":"breach"
-		},
-		{
-			"title":"Sweet & Sour",
-			"gatsby_image_path":"..\/..\/images\/sweet-sour.jpg",
-			"slug":"sweet-sour"
-		},
-		{
-			"title":"The Croods: A New Age",
-			"gatsby_image_path":"..\/..\/images\/the-croods-a-new-age.jpg",
-			"slug":"the-croods-a-new-age"
-		},
-		{
-			"title":"After",
-			"gatsby_image_path":"..\/..\/images\/after.jpg",
-			"slug":"after"
-		},
-		{
-			"title":"Fifty Shades of Grey",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
-			"slug":"fifty-shades-of-grey"
-		},
-		{
-			"title":"Sing",
-			"gatsby_image_path":"..\/..\/images\/sing.jpg",
-			"slug":"sing"
-		},
-		{
-			"title":"We Can Be Heroes",
-			"gatsby_image_path":"..\/..\/images\/we-can-be-heroes.jpg",
-			"slug":"we-can-be-heroes"
-		},
-		{
-			"title":"Dark Phoenix",
-			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
-			"slug":"dark-phoenix"
+			"title":"Yes Day",
+			"gatsby_image_path":"..\/..\/images\/yes-day.jpg",
+			"slug":"yes-day"
 		}
 	],
 	"related_most_similar":[
@@ -205,9 +106,34 @@
 			"slug":"red-dot"
 		},
 		{
+			"title":"Wizards of Waverly Place: The Movie",
+			"gatsby_image_path":"..\/..\/images\/wizards-of-waverly-place-the-movie.jpg",
+			"slug":"wizards-of-waverly-place-the-movie"
+		},
+		{
+			"title":"Where'd You Go, Bernadette",
+			"gatsby_image_path":"..\/..\/images\/where-d-you-go-bernadette.jpg",
+			"slug":"where-d-you-go-bernadette"
+		},
+		{
+			"title":"War Dogs",
+			"gatsby_image_path":"..\/..\/images\/war-dogs.jpg",
+			"slug":"war-dogs"
+		},
+		{
 			"title":"Toy Story 4",
 			"gatsby_image_path":"..\/..\/images\/toy-story-4.jpg",
 			"slug":"toy-story-4"
+		},
+		{
+			"title":"To All the Boys: Always and Forever",
+			"gatsby_image_path":"..\/..\/images\/to-all-the-boys-always-and-forever.jpg",
+			"slug":"to-all-the-boys-always-and-forever"
+		},
+		{
+			"title":"Think Like a Dog",
+			"gatsby_image_path":"..\/..\/images\/think-like-a-dog.jpg",
+			"slug":"think-like-a-dog"
 		},
 		{
 			"title":"The Wolf of Wall Street",
@@ -215,39 +141,116 @@
 			"slug":"the-wolf-of-wall-street"
 		},
 		{
-			"title":"The Guide to the Perfect Family",
-			"gatsby_image_path":"..\/..\/images\/the-guide-to-the-perfect-family.jpg",
-			"slug":"the-guide-to-the-perfect-family"
+			"title":"The Upside",
+			"gatsby_image_path":"..\/..\/images\/the-upside.jpg",
+			"slug":"the-upside"
 		},
 		{
-			"title":"Sing",
-			"gatsby_image_path":"..\/..\/images\/sing.jpg",
-			"slug":"sing"
+			"title":"The Truman Show",
+			"gatsby_image_path":"..\/..\/images\/the-truman-show.jpg",
+			"slug":"the-truman-show"
+		}
+	],
+	"related_by_poster":[
+		{
+			"title":"Deadly Illusions",
+			"gatsby_image_path":"..\/..\/images\/deadly-illusions.jpg",
+			"slug":"deadly-illusions"
 		},
 		{
-			"title":"Rascal Does Not Dream of a Dreaming Girl",
-			"gatsby_image_path":"..\/..\/images\/rascal-does-not-dream-of-a-dreaming-girl.jpg",
-			"slug":"rascal-does-not-dream-of-a-dreaming-girl"
+			"title":"Hitman's Wife's Bodyguard",
+			"gatsby_image_path":"..\/..\/images\/hitman-s-wife-s-bodyguard.jpg",
+			"slug":"hitman-s-wife-s-bodyguard"
 		},
 		{
-			"title":"Pretty Guardian Sailor Moon Eternal The Movie Part 2",
-			"gatsby_image_path":"..\/..\/images\/pretty-guardian-sailor-moon-eternal-the-movie-part-2.jpg",
-			"slug":"pretty-guardian-sailor-moon-eternal-the-movie-part-2"
+			"title":"How to Be a Latin Lover",
+			"gatsby_image_path":"..\/..\/images\/how-to-be-a-latin-lover.jpg",
+			"slug":"how-to-be-a-latin-lover"
 		},
 		{
-			"title":"Parasite",
-			"gatsby_image_path":"..\/..\/images\/parasite.jpg",
-			"slug":"parasite"
+			"title":"Sacrifice",
+			"gatsby_image_path":"..\/..\/images\/sacrifice.jpg",
+			"slug":"sacrifice"
 		},
 		{
-			"title":"Instructions for Su",
-			"gatsby_image_path":"..\/..\/images\/instructions-for-su.jpg",
-			"slug":"instructions-for-su"
+			"title":"Barbie Fairytopia: Mermaidia",
+			"gatsby_image_path":"..\/..\/images\/barbie-fairytopia-mermaidia.jpg",
+			"slug":"barbie-fairytopia-mermaidia"
 		},
 		{
-			"title":"Fatherhood",
-			"gatsby_image_path":"..\/..\/images\/fatherhood.jpg",
-			"slug":"fatherhood"
+			"title":"Anton",
+			"gatsby_image_path":"..\/..\/images\/anton.jpg",
+			"slug":"anton"
+		},
+		{
+			"title":"Scary Movie 3",
+			"gatsby_image_path":"..\/..\/images\/scary-movie-3.jpg",
+			"slug":"scary-movie-3"
+		},
+		{
+			"title":"Roald Dahl's The Witches",
+			"gatsby_image_path":"..\/..\/images\/roald-dahl-s-the-witches.jpg",
+			"slug":"roald-dahl-s-the-witches"
+		},
+		{
+			"title":"Harry Potter and the Philosopher's Stone",
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher-s-stone.jpg",
+			"slug":"harry-potter-and-the-philosopher-s-stone"
+		},
+		{
+			"title":"Silk Road",
+			"gatsby_image_path":"..\/..\/images\/silk-road.jpg",
+			"slug":"silk-road"
+		},
+		{
+			"title":"Harry Potter and the Goblet of Fire",
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
+			"slug":"harry-potter-and-the-goblet-of-fire"
+		},
+		{
+			"title":"The Red Sea Diving Resort",
+			"gatsby_image_path":"..\/..\/images\/the-red-sea-diving-resort.jpg",
+			"slug":"the-red-sea-diving-resort"
+		},
+		{
+			"title":"Harry Potter and the Prisoner of Azkaban",
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-prisoner-of-azkaban.jpg",
+			"slug":"harry-potter-and-the-prisoner-of-azkaban"
+		},
+		{
+			"title":"The Lovebirds",
+			"gatsby_image_path":"..\/..\/images\/the-lovebirds.jpg",
+			"slug":"the-lovebirds"
+		},
+		{
+			"title":"Blue Miracle",
+			"gatsby_image_path":"..\/..\/images\/blue-miracle.jpg",
+			"slug":"blue-miracle"
+		},
+		{
+			"title":"The Twilight Saga: Breaking Dawn - Part 2",
+			"gatsby_image_path":"..\/..\/images\/the-twilight-saga-breaking-dawn-part-2.jpg",
+			"slug":"the-twilight-saga-breaking-dawn-part-2"
+		},
+		{
+			"title":"Dragon Ball Z: Bardock - The Father of Goku",
+			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-bardock-the-father-of-goku.jpg",
+			"slug":"dragon-ball-z-bardock-the-father-of-goku"
+		},
+		{
+			"title":"Tom & Jerry",
+			"gatsby_image_path":"..\/..\/images\/tom-jerry.jpg",
+			"slug":"tom-jerry"
+		},
+		{
+			"title":"Ghosts of War",
+			"gatsby_image_path":"..\/..\/images\/ghosts-of-war.jpg",
+			"slug":"ghosts-of-war"
+		},
+		{
+			"title":"Return of the Living Dead III",
+			"gatsby_image_path":"..\/..\/images\/return-of-the-living-dead-iii.jpg",
+			"slug":"return-of-the-living-dead-iii"
 		}
 	]
 }

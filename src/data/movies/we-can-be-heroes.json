@@ -53,14 +53,34 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
 			"title":"Zombieland: Double Tap",
 			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
 			"slug":"zombieland-double-tap"
 		},
 		{
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
+		},
+		{
 			"title":"Zack Snyder's Justice League",
-			"gatsby_image_path":"..\/..\/images\/zack-snyder's-justice-league.jpg",
-			"slug":"zack-snyder's-justice-league"
+			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
+			"slug":"zack-snyder-s-justice-league"
+		},
+		{
+			"title":"Zack and Miri Make a Porno",
+			"gatsby_image_path":"..\/..\/images\/zack-and-miri-make-a-porno.jpg",
+			"slug":"zack-and-miri-make-a-porno"
 		},
 		{
 			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
@@ -68,7 +88,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -78,41 +98,118 @@
 			"slug":"young-sister-in-law-3-2019"
 		},
 		{
-			"title":"Xtreme",
-			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
-			"slug":"xtreme"
+			"title":"Yes Day",
+			"gatsby_image_path":"..\/..\/images\/yes-day.jpg",
+			"slug":"yes-day"
+		}
+	],
+	"related_most_similar":[
+		{
+			"title":"We Can Be Heroes",
+			"gatsby_image_path":"..\/..\/images\/we-can-be-heroes.jpg",
+			"slug":"we-can-be-heroes"
 		},
 		{
-			"title":"Xico's Journey",
-			"gatsby_image_path":"..\/..\/images\/xico's-journey.jpg",
-			"slug":"xico's-journey"
+			"title":"Spy Kids",
+			"gatsby_image_path":"..\/..\/images\/spy-kids.jpg",
+			"slug":"spy-kids"
 		},
 		{
-			"title":"Wrong Turn",
-			"gatsby_image_path":"..\/..\/images\/wrong-turn.jpg",
-			"slug":"wrong-turn"
+			"title":"The Adventures of Sharkboy and Lavagirl",
+			"gatsby_image_path":"..\/..\/images\/the-adventures-of-sharkboy-and-lavagirl.jpg",
+			"slug":"the-adventures-of-sharkboy-and-lavagirl"
 		},
 		{
-			"title":"Wrath of Man",
-			"gatsby_image_path":"..\/..\/images\/wrath-of-man.jpg",
-			"slug":"wrath-of-man"
+			"title":"Spy Kids 3-D: Game Over",
+			"gatsby_image_path":"..\/..\/images\/spy-kids-3-d-game-over.jpg",
+			"slug":"spy-kids-3-d-game-over"
 		},
 		{
-			"title":"Wonder Woman 1984",
-			"gatsby_image_path":"..\/..\/images\/wonder-woman-1984.jpg",
-			"slug":"wonder-woman-1984"
+			"title":"Sin City: A Dame to Kill For",
+			"gatsby_image_path":"..\/..\/images\/sin-city-a-dame-to-kill-for.jpg",
+			"slug":"sin-city-a-dame-to-kill-for"
+		},
+		{
+			"title":"Alita: Battle Angel",
+			"gatsby_image_path":"..\/..\/images\/alita-battle-angel.jpg",
+			"slug":"alita-battle-angel"
+		},
+		{
+			"title":"Predators",
+			"gatsby_image_path":"..\/..\/images\/predators.jpg",
+			"slug":"predators"
+		},
+		{
+			"title":"Kill Bill: Vol. 1",
+			"gatsby_image_path":"..\/..\/images\/kill-bill-vol-1.jpg",
+			"slug":"kill-bill-vol-1"
+		},
+		{
+			"title":"Django Unchained",
+			"gatsby_image_path":"..\/..\/images\/django-unchained.jpg",
+			"slug":"django-unchained"
+		},
+		{
+			"title":"The Lego Batman Movie",
+			"gatsby_image_path":"..\/..\/images\/the-lego-batman-movie.jpg",
+			"slug":"the-lego-batman-movie"
 		}
 	],
 	"related_by_poster":[
+		{
+			"title":"Scary Movie 3",
+			"gatsby_image_path":"..\/..\/images\/scary-movie-3.jpg",
+			"slug":"scary-movie-3"
+		},
+		{
+			"title":"Scary Movie 2",
+			"gatsby_image_path":"..\/..\/images\/scary-movie-2.jpg",
+			"slug":"scary-movie-2"
+		},
 		{
 			"title":"Harry Potter and the Goblet of Fire",
 			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
 			"slug":"harry-potter-and-the-goblet-of-fire"
 		},
 		{
+			"title":"RED 2",
+			"gatsby_image_path":"..\/..\/images\/red-2.jpg",
+			"slug":"red-2"
+		},
+		{
+			"title":"American Reunion",
+			"gatsby_image_path":"..\/..\/images\/american-reunion.jpg",
+			"slug":"american-reunion"
+		},
+		{
+			"title":"Resident Evil: Damnation",
+			"gatsby_image_path":"..\/..\/images\/resident-evil-damnation.jpg",
+			"slug":"resident-evil-damnation"
+		},
+		{
+			"title":"Knives Out",
+			"gatsby_image_path":"..\/..\/images\/knives-out.jpg",
+			"slug":"knives-out"
+		},
+		{
 			"title":"Hitman's Wife's Bodyguard",
-			"gatsby_image_path":"..\/..\/images\/hitman's-wife's-bodyguard.jpg",
-			"slug":"hitman's-wife's-bodyguard"
+			"gatsby_image_path":"..\/..\/images\/hitman-s-wife-s-bodyguard.jpg",
+			"slug":"hitman-s-wife-s-bodyguard"
+		},
+		{
+			"title":"The Twilight Saga: Breaking Dawn - Part 2",
+			"gatsby_image_path":"..\/..\/images\/the-twilight-saga-breaking-dawn-part-2.jpg",
+			"slug":"the-twilight-saga-breaking-dawn-part-2"
+		},
+		{
+			"title":"Crazy About Her",
+			"gatsby_image_path":"..\/..\/images\/crazy-about-her.jpg",
+			"slug":"crazy-about-her"
+		},
+		{
+			"title":"Gully",
+			"gatsby_image_path":"..\/..\/images\/gully.jpg",
+			"slug":"gully"
 		},
 		{
 			"title":"Sweet & Sour",
@@ -120,141 +217,44 @@
 			"slug":"sweet-sour"
 		},
 		{
-			"title":"Tom & Jerry",
-			"gatsby_image_path":"..\/..\/images\/tom-jerry.jpg",
-			"slug":"tom-jerry"
+			"title":"American Pie Presents: Band Camp",
+			"gatsby_image_path":"..\/..\/images\/american-pie-presents-band-camp.jpg",
+			"slug":"american-pie-presents-band-camp"
 		},
 		{
-			"title":"Rurouni Kenshin Part I: Origins",
-			"gatsby_image_path":"..\/..\/images\/rurouni-kenshin-part-i-origins.jpg",
-			"slug":"rurouni-kenshin-part-i-origins"
+			"title":"The Hangover Part III",
+			"gatsby_image_path":"..\/..\/images\/the-hangover-part-iii.jpg",
+			"slug":"the-hangover-part-iii"
 		},
 		{
-			"title":"Como Hackear Seu Chefe",
-			"gatsby_image_path":"..\/..\/images\/como-hackear-seu-chefe.jpg",
-			"slug":"como-hackear-seu-chefe"
+			"title":"Deadly Illusions",
+			"gatsby_image_path":"..\/..\/images\/deadly-illusions.jpg",
+			"slug":"deadly-illusions"
 		},
 		{
-			"title":"Harry Potter and the Prisoner of Azkaban",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-prisoner-of-azkaban.jpg",
-			"slug":"harry-potter-and-the-prisoner-of-azkaban"
+			"title":"The Lovebirds",
+			"gatsby_image_path":"..\/..\/images\/the-lovebirds.jpg",
+			"slug":"the-lovebirds"
 		},
 		{
-			"title":"War of Likes",
-			"gatsby_image_path":"..\/..\/images\/war-of-likes.jpg",
-			"slug":"war-of-likes"
+			"title":"Top Gun",
+			"gatsby_image_path":"..\/..\/images\/top-gun.jpg",
+			"slug":"top-gun"
 		},
 		{
-			"title":"Harry Potter and the Philosopher's Stone",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher's-stone.jpg",
-			"slug":"harry-potter-and-the-philosopher's-stone"
+			"title":"Eminence Hill",
+			"gatsby_image_path":"..\/..\/images\/eminence-hill.jpg",
+			"slug":"eminence-hill"
 		},
 		{
-			"title":"Fifty Shades Freed",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-freed.jpg",
-			"slug":"fifty-shades-freed"
+			"title":"I Love You, Stupid",
+			"gatsby_image_path":"..\/..\/images\/i-love-you-stupid.jpg",
+			"slug":"i-love-you-stupid"
 		},
 		{
-			"title":"Naruto Shippuden the Movie: The Lost Tower",
-			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-the-lost-tower.jpg",
-			"slug":"naruto-shippuden-the-movie-the-lost-tower"
-		},
-		{
-			"title":"Fifty Shades of Grey",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
-			"slug":"fifty-shades-of-grey"
-		},
-		{
-			"title":"Sing",
-			"gatsby_image_path":"..\/..\/images\/sing.jpg",
-			"slug":"sing"
-		},
-		{
-			"title":"Trauma Center",
-			"gatsby_image_path":"..\/..\/images\/trauma-center.jpg",
-			"slug":"trauma-center"
-		},
-		{
-			"title":"Dancing Queens",
-			"gatsby_image_path":"..\/..\/images\/dancing-queens.jpg",
-			"slug":"dancing-queens"
-		},
-		{
-			"title":"After",
-			"gatsby_image_path":"..\/..\/images\/after.jpg",
-			"slug":"after"
-		},
-		{
-			"title":"Toy Story 2",
-			"gatsby_image_path":"..\/..\/images\/toy-story-2.jpg",
-			"slug":"toy-story-2"
-		},
-		{
-			"title":"Dark Phoenix",
-			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
-			"slug":"dark-phoenix"
-		},
-		{
-			"title":"Breach",
-			"gatsby_image_path":"..\/..\/images\/breach.jpg",
-			"slug":"breach"
-		},
-		{
-			"title":"Devoto, la invasión silenciosa",
-			"gatsby_image_path":"..\/..\/images\/devoto-la-invasión-silenciosa.jpg",
-			"slug":"devoto-la-invasión-silenciosa"
-		}
-	],
-	"related_most_similar":[
-		{
-			"title":"Alita: Battle Angel",
-			"gatsby_image_path":"..\/..\/images\/alita-battle-angel.jpg",
-			"slug":"alita-battle-angel"
-		},
-		{
-			"title":"Teen Titans Go! See Space Jam",
-			"gatsby_image_path":"..\/..\/images\/teen-titans-go-see-space-jam.jpg",
-			"slug":"teen-titans-go-see-space-jam"
-		},
-		{
-			"title":"Wish Dragon",
-			"gatsby_image_path":"..\/..\/images\/wish-dragon.jpg",
-			"slug":"wish-dragon"
-		},
-		{
-			"title":"Trollhunters: Rise of the Titans",
-			"gatsby_image_path":"..\/..\/images\/trollhunters-rise-of-the-titans.jpg",
-			"slug":"trollhunters-rise-of-the-titans"
-		},
-		{
-			"title":"Toy Story 4",
-			"gatsby_image_path":"..\/..\/images\/toy-story-4.jpg",
-			"slug":"toy-story-4"
-		},
-		{
-			"title":"Thor: Ragnarok",
-			"gatsby_image_path":"..\/..\/images\/thor-ragnarok.jpg",
-			"slug":"thor-ragnarok"
-		},
-		{
-			"title":"The SpongeBob Movie: Sponge on the Run",
-			"gatsby_image_path":"..\/..\/images\/the-spongebob-movie-sponge-on-the-run.jpg",
-			"slug":"the-spongebob-movie-sponge-on-the-run"
-		},
-		{
-			"title":"The Croods: A New Age",
-			"gatsby_image_path":"..\/..\/images\/the-croods-a-new-age.jpg",
-			"slug":"the-croods-a-new-age"
-		},
-		{
-			"title":"Soul",
-			"gatsby_image_path":"..\/..\/images\/soul.jpg",
-			"slug":"soul"
-		},
-		{
-			"title":"Sonic the Hedgehog",
-			"gatsby_image_path":"..\/..\/images\/sonic-the-hedgehog.jpg",
-			"slug":"sonic-the-hedgehog"
+			"title":"Boyz n the Hood",
+			"gatsby_image_path":"..\/..\/images\/boyz-n-the-hood.jpg",
+			"slug":"boyz-n-the-hood"
 		}
 	]
 }

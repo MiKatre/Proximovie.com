@@ -48,14 +48,34 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
 			"title":"Zombieland: Double Tap",
 			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
 			"slug":"zombieland-double-tap"
 		},
 		{
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
+		},
+		{
 			"title":"Zack Snyder's Justice League",
-			"gatsby_image_path":"..\/..\/images\/zack-snyder's-justice-league.jpg",
-			"slug":"zack-snyder's-justice-league"
+			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
+			"slug":"zack-snyder-s-justice-league"
+		},
+		{
+			"title":"Zack and Miri Make a Porno",
+			"gatsby_image_path":"..\/..\/images\/zack-and-miri-make-a-porno.jpg",
+			"slug":"zack-and-miri-make-a-porno"
 		},
 		{
 			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
@@ -63,7 +83,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -73,134 +93,17 @@
 			"slug":"young-sister-in-law-3-2019"
 		},
 		{
-			"title":"Xtreme",
-			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
-			"slug":"xtreme"
-		},
-		{
-			"title":"Xico's Journey",
-			"gatsby_image_path":"..\/..\/images\/xico's-journey.jpg",
-			"slug":"xico's-journey"
-		},
-		{
-			"title":"Wrong Turn",
-			"gatsby_image_path":"..\/..\/images\/wrong-turn.jpg",
-			"slug":"wrong-turn"
-		},
-		{
-			"title":"Wrath of Man",
-			"gatsby_image_path":"..\/..\/images\/wrath-of-man.jpg",
-			"slug":"wrath-of-man"
-		},
-		{
-			"title":"Wonder Woman 1984",
-			"gatsby_image_path":"..\/..\/images\/wonder-woman-1984.jpg",
-			"slug":"wonder-woman-1984"
-		}
-	],
-	"related_by_poster":[
-		{
-			"title":"Avengers: Endgame",
-			"gatsby_image_path":"..\/..\/images\/avengers-endgame.jpg",
-			"slug":"avengers-endgame"
-		},
-		{
-			"title":"Toxic",
-			"gatsby_image_path":"..\/..\/images\/toxic.jpg",
-			"slug":"toxic"
-		},
-		{
-			"title":"Harry Potter and the Deathly Hallows: Part 1",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-deathly-hallows-part-1.jpg",
-			"slug":"harry-potter-and-the-deathly-hallows-part-1"
-		},
-		{
-			"title":"Dark Phoenix",
-			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
-			"slug":"dark-phoenix"
-		},
-		{
-			"title":"Terminator: Dark Fate",
-			"gatsby_image_path":"..\/..\/images\/terminator-dark-fate.jpg",
-			"slug":"terminator-dark-fate"
-		},
-		{
-			"title":"Mortal Kombat Legends: Scorpion's Revenge",
-			"gatsby_image_path":"..\/..\/images\/mortal-kombat-legends-scorpion's-revenge.jpg",
-			"slug":"mortal-kombat-legends-scorpion's-revenge"
-		},
-		{
-			"title":"John Wick: Chapter 2",
-			"gatsby_image_path":"..\/..\/images\/john-wick-chapter-2.jpg",
-			"slug":"john-wick-chapter-2"
-		},
-		{
-			"title":"Breach",
-			"gatsby_image_path":"..\/..\/images\/breach.jpg",
-			"slug":"breach"
-		},
-		{
-			"title":"Baba Yaga: Terror of the Dark Forest",
-			"gatsby_image_path":"..\/..\/images\/baba-yaga-terror-of-the-dark-forest.jpg",
-			"slug":"baba-yaga-terror-of-the-dark-forest"
-		},
-		{
-			"title":"Ashfall",
-			"gatsby_image_path":"..\/..\/images\/ashfall.jpg",
-			"slug":"ashfall"
-		},
-		{
-			"title":"Animal World",
-			"gatsby_image_path":"..\/..\/images\/animal-world.jpg",
-			"slug":"animal-world"
-		},
-		{
-			"title":"The First Purge",
-			"gatsby_image_path":"..\/..\/images\/the-first-purge.jpg",
-			"slug":"the-first-purge"
-		},
-		{
-			"title":"Star Wars: The Rise of Skywalker",
-			"gatsby_image_path":"..\/..\/images\/star-wars-the-rise-of-skywalker.jpg",
-			"slug":"star-wars-the-rise-of-skywalker"
-		},
-		{
-			"title":"Thor: Ragnarok",
-			"gatsby_image_path":"..\/..\/images\/thor-ragnarok.jpg",
-			"slug":"thor-ragnarok"
-		},
-		{
-			"title":"Ready Player One",
-			"gatsby_image_path":"..\/..\/images\/ready-player-one.jpg",
-			"slug":"ready-player-one"
-		},
-		{
-			"title":"Naruto Shippuden the Movie: The Lost Tower",
-			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-the-lost-tower.jpg",
-			"slug":"naruto-shippuden-the-movie-the-lost-tower"
-		},
-		{
-			"title":"Avengers: Infinity War",
-			"gatsby_image_path":"..\/..\/images\/avengers-infinity-war.jpg",
-			"slug":"avengers-infinity-war"
-		},
-		{
-			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
-			"gatsby_image_path":"..\/..\/images\/yu-gi-oh-the-dark-side-of-dimensions.jpg",
-			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
-		},
-		{
-			"title":"The Tax Collector",
-			"gatsby_image_path":"..\/..\/images\/the-tax-collector.jpg",
-			"slug":"the-tax-collector"
-		},
-		{
-			"title":"Harry Potter and the Prisoner of Azkaban",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-prisoner-of-azkaban.jpg",
-			"slug":"harry-potter-and-the-prisoner-of-azkaban"
+			"title":"Yes Day",
+			"gatsby_image_path":"..\/..\/images\/yes-day.jpg",
+			"slug":"yes-day"
 		}
 	],
 	"related_most_similar":[
+		{
+			"title":"World War Z",
+			"gatsby_image_path":"..\/..\/images\/world-war-z.jpg",
+			"slug":"world-war-z"
+		},
 		{
 			"title":"Underwater",
 			"gatsby_image_path":"..\/..\/images\/underwater.jpg",
@@ -212,44 +115,141 @@
 			"slug":"the-purge"
 		},
 		{
+			"title":"The Invisible Man",
+			"gatsby_image_path":"..\/..\/images\/the-invisible-man.jpg",
+			"slug":"the-invisible-man"
+		},
+		{
 			"title":"The First Purge",
 			"gatsby_image_path":"..\/..\/images\/the-first-purge.jpg",
 			"slug":"the-first-purge"
 		},
 		{
-			"title":"A Quiet Place Part II",
-			"gatsby_image_path":"..\/..\/images\/a-quiet-place-part-ii.jpg",
-			"slug":"a-quiet-place-part-ii"
+			"title":"The Car: Road to Revenge",
+			"gatsby_image_path":"..\/..\/images\/the-car-road-to-revenge.jpg",
+			"slug":"the-car-road-to-revenge"
 		},
 		{
-			"title":"Wrong Turn",
-			"gatsby_image_path":"..\/..\/images\/wrong-turn.jpg",
-			"slug":"wrong-turn"
+			"title":"The Banana Splits Movie",
+			"gatsby_image_path":"..\/..\/images\/the-banana-splits-movie.jpg",
+			"slug":"the-banana-splits-movie"
 		},
 		{
-			"title":"The Wolf of Snow Hollow",
-			"gatsby_image_path":"..\/..\/images\/the-wolf-of-snow-hollow.jpg",
-			"slug":"the-wolf-of-snow-hollow"
+			"title":"Pandemic",
+			"gatsby_image_path":"..\/..\/images\/pandemic.jpg",
+			"slug":"pandemic"
 		},
 		{
-			"title":"The Purge: Election Year",
-			"gatsby_image_path":"..\/..\/images\/the-purge-election-year.jpg",
-			"slug":"the-purge-election-year"
+			"title":"Morbius",
+			"gatsby_image_path":"..\/..\/images\/morbius.jpg",
+			"slug":"morbius"
 		},
 		{
-			"title":"The New Mutants",
-			"gatsby_image_path":"..\/..\/images\/the-new-mutants.jpg",
-			"slug":"the-new-mutants"
+			"title":"Escape Room: Tournament of Champions",
+			"gatsby_image_path":"..\/..\/images\/escape-room-tournament-of-champions.jpg",
+			"slug":"escape-room-tournament-of-champions"
+		}
+	],
+	"related_by_poster":[
+		{
+			"title":"Crimson Peak",
+			"gatsby_image_path":"..\/..\/images\/crimson-peak.jpg",
+			"slug":"crimson-peak"
 		},
 		{
-			"title":"The Meg",
-			"gatsby_image_path":"..\/..\/images\/the-meg.jpg",
-			"slug":"the-meg"
+			"title":"Freddy's Dead: The Final Nightmare",
+			"gatsby_image_path":"..\/..\/images\/freddy-s-dead-the-final-nightmare.jpg",
+			"slug":"freddy-s-dead-the-final-nightmare"
 		},
 		{
-			"title":"The Maze Runner",
-			"gatsby_image_path":"..\/..\/images\/the-maze-runner.jpg",
-			"slug":"the-maze-runner"
+			"title":"Backdraft 2",
+			"gatsby_image_path":"..\/..\/images\/backdraft-2.jpg",
+			"slug":"backdraft-2"
+		},
+		{
+			"title":"Max Steel",
+			"gatsby_image_path":"..\/..\/images\/max-steel.jpg",
+			"slug":"max-steel"
+		},
+		{
+			"title":"The Abyss",
+			"gatsby_image_path":"..\/..\/images\/the-abyss.jpg",
+			"slug":"the-abyss"
+		},
+		{
+			"title":"Iron Mask",
+			"gatsby_image_path":"..\/..\/images\/iron-mask.jpg",
+			"slug":"iron-mask"
+		},
+		{
+			"title":"Rendel",
+			"gatsby_image_path":"..\/..\/images\/rendel.jpg",
+			"slug":"rendel"
+		},
+		{
+			"title":"Rise of the Guardians",
+			"gatsby_image_path":"..\/..\/images\/rise-of-the-guardians.jpg",
+			"slug":"rise-of-the-guardians"
+		},
+		{
+			"title":"Robert Reborn",
+			"gatsby_image_path":"..\/..\/images\/robert-reborn.jpg",
+			"slug":"robert-reborn"
+		},
+		{
+			"title":"Guardians",
+			"gatsby_image_path":"..\/..\/images\/guardians.jpg",
+			"slug":"guardians"
+		},
+		{
+			"title":"A Christmas Carol",
+			"gatsby_image_path":"..\/..\/images\/a-christmas-carol.jpg",
+			"slug":"a-christmas-carol"
+		},
+		{
+			"title":"Predator 2",
+			"gatsby_image_path":"..\/..\/images\/predator-2.jpg",
+			"slug":"predator-2"
+		},
+		{
+			"title":"Avengers: Endgame",
+			"gatsby_image_path":"..\/..\/images\/avengers-endgame.jpg",
+			"slug":"avengers-endgame"
+		},
+		{
+			"title":"Back to the Future",
+			"gatsby_image_path":"..\/..\/images\/back-to-the-future.jpg",
+			"slug":"back-to-the-future"
+		},
+		{
+			"title":"Lights Out",
+			"gatsby_image_path":"..\/..\/images\/lights-out.jpg",
+			"slug":"lights-out"
+		},
+		{
+			"title":"Kingsglaive: Final Fantasy XV",
+			"gatsby_image_path":"..\/..\/images\/kingsglaive-final-fantasy-xv.jpg",
+			"slug":"kingsglaive-final-fantasy-xv"
+		},
+		{
+			"title":"Annabelle: Creation",
+			"gatsby_image_path":"..\/..\/images\/annabelle-creation.jpg",
+			"slug":"annabelle-creation"
+		},
+		{
+			"title":"Star Wars: The Force Awakens",
+			"gatsby_image_path":"..\/..\/images\/star-wars-the-force-awakens.jpg",
+			"slug":"star-wars-the-force-awakens"
+		},
+		{
+			"title":"X-Men: Apocalypse",
+			"gatsby_image_path":"..\/..\/images\/x-men-apocalypse.jpg",
+			"slug":"x-men-apocalypse"
+		},
+		{
+			"title":"The Ring Two",
+			"gatsby_image_path":"..\/..\/images\/the-ring-two.jpg",
+			"slug":"the-ring-two"
 		}
 	]
 }

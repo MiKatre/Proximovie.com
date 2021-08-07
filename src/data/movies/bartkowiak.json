@@ -41,14 +41,34 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
 			"title":"Zombieland: Double Tap",
 			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
 			"slug":"zombieland-double-tap"
 		},
 		{
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
+		},
+		{
 			"title":"Zack Snyder's Justice League",
-			"gatsby_image_path":"..\/..\/images\/zack-snyder's-justice-league.jpg",
-			"slug":"zack-snyder's-justice-league"
+			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
+			"slug":"zack-snyder-s-justice-league"
+		},
+		{
+			"title":"Zack and Miri Make a Porno",
+			"gatsby_image_path":"..\/..\/images\/zack-and-miri-make-a-porno.jpg",
+			"slug":"zack-and-miri-make-a-porno"
 		},
 		{
 			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
@@ -56,7 +76,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -66,19 +86,21 @@
 			"slug":"young-sister-in-law-3-2019"
 		},
 		{
-			"title":"Xtreme",
-			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
-			"slug":"xtreme"
+			"title":"Yes Day",
+			"gatsby_image_path":"..\/..\/images\/yes-day.jpg",
+			"slug":"yes-day"
+		}
+	],
+	"related_most_similar":[
+		{
+			"title":"Prime Time",
+			"gatsby_image_path":"..\/..\/images\/prime-time.jpg",
+			"slug":"prime-time"
 		},
 		{
-			"title":"Xico's Journey",
-			"gatsby_image_path":"..\/..\/images\/xico's-journey.jpg",
-			"slug":"xico's-journey"
-		},
-		{
-			"title":"Wrong Turn",
-			"gatsby_image_path":"..\/..\/images\/wrong-turn.jpg",
-			"slug":"wrong-turn"
+			"title":"Nobody Sleeps in the Woods Tonight",
+			"gatsby_image_path":"..\/..\/images\/nobody-sleeps-in-the-woods-tonight.jpg",
+			"slug":"nobody-sleeps-in-the-woods-tonight"
 		},
 		{
 			"title":"Wrath of Man",
@@ -86,9 +108,39 @@
 			"slug":"wrath-of-man"
 		},
 		{
-			"title":"Wonder Woman 1984",
-			"gatsby_image_path":"..\/..\/images\/wonder-woman-1984.jpg",
-			"slug":"wonder-woman-1984"
+			"title":"World War Z",
+			"gatsby_image_path":"..\/..\/images\/world-war-z.jpg",
+			"slug":"world-war-z"
+		},
+		{
+			"title":"Wild Card",
+			"gatsby_image_path":"..\/..\/images\/wild-card.jpg",
+			"slug":"wild-card"
+		},
+		{
+			"title":"White House Down",
+			"gatsby_image_path":"..\/..\/images\/white-house-down.jpg",
+			"slug":"white-house-down"
+		},
+		{
+			"title":"Vanquish",
+			"gatsby_image_path":"..\/..\/images\/vanquish.jpg",
+			"slug":"vanquish"
+		},
+		{
+			"title":"Valentine",
+			"gatsby_image_path":"..\/..\/images\/valentine.jpg",
+			"slug":"valentine"
+		},
+		{
+			"title":"Upgrade",
+			"gatsby_image_path":"..\/..\/images\/upgrade.jpg",
+			"slug":"upgrade"
+		},
+		{
+			"title":"Undisputed",
+			"gatsby_image_path":"..\/..\/images\/undisputed.jpg",
+			"slug":"undisputed"
 		}
 	],
 	"related_by_poster":[
@@ -96,6 +148,36 @@
 			"title":"Fifty Shades of Grey",
 			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
 			"slug":"fifty-shades-of-grey"
+		},
+		{
+			"title":"Paper Lives",
+			"gatsby_image_path":"..\/..\/images\/paper-lives.jpg",
+			"slug":"paper-lives"
+		},
+		{
+			"title":"A Gruta",
+			"gatsby_image_path":"..\/..\/images\/a-gruta.jpg",
+			"slug":"a-gruta"
+		},
+		{
+			"title":"Undisputed",
+			"gatsby_image_path":"..\/..\/images\/undisputed.jpg",
+			"slug":"undisputed"
+		},
+		{
+			"title":"Crank: High Voltage",
+			"gatsby_image_path":"..\/..\/images\/crank-high-voltage.jpg",
+			"slug":"crank-high-voltage"
+		},
+		{
+			"title":"Saving Private Ryan",
+			"gatsby_image_path":"..\/..\/images\/saving-private-ryan.jpg",
+			"slug":"saving-private-ryan"
+		},
+		{
+			"title":"The Unfamiliar",
+			"gatsby_image_path":"..\/..\/images\/the-unfamiliar.jpg",
+			"slug":"the-unfamiliar"
 		},
 		{
 			"title":"Honest Thief",
@@ -123,9 +205,34 @@
 			"slug":"last-summer"
 		},
 		{
+			"title":"Motherless Brooklyn",
+			"gatsby_image_path":"..\/..\/images\/motherless-brooklyn.jpg",
+			"slug":"motherless-brooklyn"
+		},
+		{
 			"title":"Girl in the Basement",
 			"gatsby_image_path":"..\/..\/images\/girl-in-the-basement.jpg",
 			"slug":"girl-in-the-basement"
+		},
+		{
+			"title":"The Equalizer",
+			"gatsby_image_path":"..\/..\/images\/the-equalizer.jpg",
+			"slug":"the-equalizer"
+		},
+		{
+			"title":"Captain America: Civil War",
+			"gatsby_image_path":"..\/..\/images\/captain-america-civil-war.jpg",
+			"slug":"captain-america-civil-war"
+		},
+		{
+			"title":"No Country for Old Men",
+			"gatsby_image_path":"..\/..\/images\/no-country-for-old-men.jpg",
+			"slug":"no-country-for-old-men"
+		},
+		{
+			"title":"Siberia",
+			"gatsby_image_path":"..\/..\/images\/siberia.jpg",
+			"slug":"siberia"
 		},
 		{
 			"title":"No Sudden Move",
@@ -136,113 +243,6 @@
 			"title":"Code 8",
 			"gatsby_image_path":"..\/..\/images\/code-8.jpg",
 			"slug":"code-8"
-		},
-		{
-			"title":"Captain America: Civil War",
-			"gatsby_image_path":"..\/..\/images\/captain-america-civil-war.jpg",
-			"slug":"captain-america-civil-war"
-		},
-		{
-			"title":"Avatar",
-			"gatsby_image_path":"..\/..\/images\/avatar.jpg",
-			"slug":"avatar"
-		},
-		{
-			"title":"The Last Thing He Wanted",
-			"gatsby_image_path":"..\/..\/images\/the-last-thing-he-wanted.jpg",
-			"slug":"the-last-thing-he-wanted"
-		},
-		{
-			"title":"Fifty Shades Freed",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-freed.jpg",
-			"slug":"fifty-shades-freed"
-		},
-		{
-			"title":"Trauma Center",
-			"gatsby_image_path":"..\/..\/images\/trauma-center.jpg",
-			"slug":"trauma-center"
-		},
-		{
-			"title":"Glass",
-			"gatsby_image_path":"..\/..\/images\/glass.jpg",
-			"slug":"glass"
-		},
-		{
-			"title":"The King",
-			"gatsby_image_path":"..\/..\/images\/the-king.jpg",
-			"slug":"the-king"
-		},
-		{
-			"title":"Sputnik",
-			"gatsby_image_path":"..\/..\/images\/sputnik.jpg",
-			"slug":"sputnik"
-		},
-		{
-			"title":"Life in a Year",
-			"gatsby_image_path":"..\/..\/images\/life-in-a-year.jpg",
-			"slug":"life-in-a-year"
-		},
-		{
-			"title":"Nobody",
-			"gatsby_image_path":"..\/..\/images\/nobody.jpg",
-			"slug":"nobody"
-		},
-		{
-			"title":"Don't Breathe 2",
-			"gatsby_image_path":"..\/..\/images\/don't-breathe-2.jpg",
-			"slug":"don't-breathe-2"
-		}
-	],
-	"related_most_similar":[
-		{
-			"title":"Prime Time",
-			"gatsby_image_path":"..\/..\/images\/prime-time.jpg",
-			"slug":"prime-time"
-		},
-		{
-			"title":"Nobody Sleeps in the Woods Tonight",
-			"gatsby_image_path":"..\/..\/images\/nobody-sleeps-in-the-woods-tonight.jpg",
-			"slug":"nobody-sleeps-in-the-woods-tonight"
-		},
-		{
-			"title":"Wrath of Man",
-			"gatsby_image_path":"..\/..\/images\/wrath-of-man.jpg",
-			"slug":"wrath-of-man"
-		},
-		{
-			"title":"Vanquish",
-			"gatsby_image_path":"..\/..\/images\/vanquish.jpg",
-			"slug":"vanquish"
-		},
-		{
-			"title":"Underwater",
-			"gatsby_image_path":"..\/..\/images\/underwater.jpg",
-			"slug":"underwater"
-		},
-		{
-			"title":"Trigger Point",
-			"gatsby_image_path":"..\/..\/images\/trigger-point.jpg",
-			"slug":"trigger-point"
-		},
-		{
-			"title":"Trauma Center",
-			"gatsby_image_path":"..\/..\/images\/trauma-center.jpg",
-			"slug":"trauma-center"
-		},
-		{
-			"title":"Tom Clancy's Without Remorse",
-			"gatsby_image_path":"..\/..\/images\/tom-clancy's-without-remorse.jpg",
-			"slug":"tom-clancy's-without-remorse"
-		},
-		{
-			"title":"Time to Hunt",
-			"gatsby_image_path":"..\/..\/images\/time-to-hunt.jpg",
-			"slug":"time-to-hunt"
-		},
-		{
-			"title":"Those Who Wish Me Dead",
-			"gatsby_image_path":"..\/..\/images\/those-who-wish-me-dead.jpg",
-			"slug":"those-who-wish-me-dead"
 		}
 	]
 }
