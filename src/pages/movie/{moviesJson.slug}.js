@@ -27,7 +27,6 @@ const MoviePage = ({data}) => {
         title={title}
         description={description}
         image={image.images.fallback.src}
-        // article={}
       />
       <div className="" >
         <div className="text-white" style={{backgroundColor:"#131313"}} > 
