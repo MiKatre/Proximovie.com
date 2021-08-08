@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://similar.cinetimes.org",
+    siteUrl: "https://proximovie.com",
     title: "ProxiMovie - What to watch next",
     titleTemplate: "%s · ProxiMovie",
     description:
