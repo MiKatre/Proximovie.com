@@ -96,9 +96,14 @@ const MoviePage = ({data}) => {
                 </div>
               </Tab>
               <Tab eventKey="actors" title="Actors">
-              <div>
-                <MovieList movies={movie.related_by_cast}/>
-              </div>
+                <div>
+                  <MovieList movies={movie.related_by_cast}/>
+                </div>
+              </Tab>
+              <Tab eventKey="plot" title="Plot">
+                <div>
+                  <MovieList movies={movie.related_by_overview}/>
+                </div>
               </Tab>
 
             </Tabs>
@@ -169,6 +174,18 @@ export const query = graphql`
             }
           }
           related_by_poster {
+            title
+            slug
+            gatsby_image_path {
+              childImageSharp {
+                gatsbyImageData(
+                  width: 300
+                  placeholder: BLURRED
+                )
+              }
+            }
+          }
+          related_by_overview {
             title
             slug
             gatsby_image_path {
