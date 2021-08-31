@@ -45,6 +45,12 @@ module.exports = {
       },
     },
     {
+      resolve : `gatsby-plugin-sumo`,
+      options : {
+        sumoSiteId : `47554348a10fd186b76c60b90b0663654d7505a6f3ff853b2be30c9c665c7a68` 
+      }
+    },
+    {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
         // You can add multiple tracking ids and a pageview event will be fired for all of them.
