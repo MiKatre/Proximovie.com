@@ -1,12 +1,14 @@
 import { Link } from "gatsby"
 import React from "react"
 import { Container, Nav, Navbar } from "react-bootstrap"
+import FeedbackButton from "./FeedbackButton"
 
 export default function Layout({ children }) {
   return (
     <div>
-    <Navi/>
-      {children}
+        <FeedbackButton/>
+        <Navi/>
+        {children}
     </div>
   )
 }

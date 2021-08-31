@@ -1,0 +1,11 @@
+.feedback-button {
+    position: fixed;
+    right: 0;
+    top: 80%;
+    background-color: #23272b;
+    opacity: 75%;
+    transform: rotate(-90deg);
+    z-index: 999;
+    padding: 10px 20px;
+    margin-right: -34px;
+}
