@@ -1,389 +1,56 @@
 {
 	"title":"Aftermath",
 	"status":"Released",
-	"runtime":92,
-	"revenue":261465,
-	"release_date":"2017-02-28",
+	"runtime":114,
+	"revenue":0,
+	"release_date":"2021-08-04",
 	"production_countries":[
-		"United Kingdom",
 		"United States of America"
 	],
 	"production_companies":[
-		"Ingenious Media",
-		"Protozoa Pictures",
-		"The Fyzz",
-		"Oak Productions",
-		"Pacific View Management",
-		"Union Editorial",
-		"Hat and Coat Productions",
-		"EFO Films"
+		"Winther Brothers Entertainment",
+		"Productivity Media",
+		"RiverRun Entertainment"
 	],
-	"poster_path":"\/25oWTCGqIik4gUTMidx3L8DI4Bt.jpg",
-	"imdb_id":"tt4581576",
+	"poster_path":"\/cbhxqeDIgeX36x5jmOvl5OP2MCv.jpg",
+	"imdb_id":"tt10691162",
 	"original_title":"Aftermath",
-	"overview":"A fatal plane crash changes the lives of Roman and Jake forever. Roman loses his wife and daughter in the accident, while Jake loses his mind—as he happens to be the air traffic controller who failed to avert the nightmare. Rage and revenge engulfs Roman and Jake finds himself swamped with guilt and regret.",
+	"overview":"Desperate to save their marriage, a young couple takes a deal to move into their dream home, but disturbing events reveal the house's troubled history.",
 	"original_language":"en",
 	"adult":false,
-	"budget":10500000,
+	"budget":0,
 	"genres":[
+		"Horror",
+		"Crime",
 		"Drama",
 		"Thriller"
 	],
+	"keywords":[],
+	"tmdb_id":"763149",
 	"slug":"aftermath",
 	"gatsby_image_path":"..\/..\/images\/aftermath.jpg",
 	"cast":[
-		"Arnold Schwarzenegger",
-		"Scoot McNairy",
-		"Maggie Grace",
-		"Judah Nelson",
-		"Larry Sullivan",
-		"Jason McCune",
-		"Glenn Morshower",
-		"Mariana Klaveno",
-		"Martin Donovan",
-		"Hannah Ware"
+		"Ashley Greene",
+		"Shawn Ashmore",
+		"Britt Baron",
+		"Ross McCall",
+		"Soraya Kelley",
+		"Diana Hopper",
+		"Travis Coles",
+		"Debbie Fan",
+		"Sandra Prosper",
+		"Ryan P. Shrime"
 	],
 	"crew":[
-		"Mary Vernieu",
-		"Robert Jones",
-		"Darren Aronofsky",
-		"Eric Watson",
-		"George Furla",
-		"Randall Emmett",
-		"Vance Owen",
-		"William B. Steakley",
-		"Barry Brooker",
-		"Nicholas Wayman-Harris"
-	],
-	"related_by_cast":[
-		{
-			"title":"The Terminator",
-			"gatsby_image_path":"..\/..\/images\/the-terminator.jpg",
-			"slug":"the-terminator"
-		},
-		{
-			"title":"The Little Things",
-			"gatsby_image_path":"..\/..\/images\/the-little-things.jpg",
-			"slug":"the-little-things"
-		},
-		{
-			"title":"The Hurricane Heist",
-			"gatsby_image_path":"..\/..\/images\/the-hurricane-heist.jpg",
-			"slug":"the-hurricane-heist"
-		},
-		{
-			"title":"The Expendables 3",
-			"gatsby_image_path":"..\/..\/images\/the-expendables-3.jpg",
-			"slug":"the-expendables-3"
-		},
-		{
-			"title":"The Expendables 2",
-			"gatsby_image_path":"..\/..\/images\/the-expendables-2.jpg",
-			"slug":"the-expendables-2"
-		},
-		{
-			"title":"The Art of Racing in the Rain",
-			"gatsby_image_path":"..\/..\/images\/the-art-of-racing-in-the-rain.jpg",
-			"slug":"the-art-of-racing-in-the-rain"
-		},
-		{
-			"title":"Terminator Genisys",
-			"gatsby_image_path":"..\/..\/images\/terminator-genisys.jpg",
-			"slug":"terminator-genisys"
-		},
-		{
-			"title":"Terminator: Dark Fate",
-			"gatsby_image_path":"..\/..\/images\/terminator-dark-fate.jpg",
-			"slug":"terminator-dark-fate"
-		},
-		{
-			"title":"Terminator 3: Rise of the Machines",
-			"gatsby_image_path":"..\/..\/images\/terminator-3-rise-of-the-machines.jpg",
-			"slug":"terminator-3-rise-of-the-machines"
-		},
-		{
-			"title":"Terminator 2: Judgment Day",
-			"gatsby_image_path":"..\/..\/images\/terminator-2-judgment-day.jpg",
-			"slug":"terminator-2-judgment-day"
-		}
-	],
-	"related_most_similar":[
-		{
-			"title":"Reprisal",
-			"gatsby_image_path":"..\/..\/images\/reprisal.jpg",
-			"slug":"reprisal"
-		},
-		{
-			"title":"Backtrace",
-			"gatsby_image_path":"..\/..\/images\/backtrace.jpg",
-			"slug":"backtrace"
-		},
-		{
-			"title":"Boss Level",
-			"gatsby_image_path":"..\/..\/images\/boss-level.jpg",
-			"slug":"boss-level"
-		},
-		{
-			"title":"Escape Plan 2: Hades",
-			"gatsby_image_path":"..\/..\/images\/escape-plan-2-hades.jpg",
-			"slug":"escape-plan-2-hades"
-		},
-		{
-			"title":"The Last Thing He Wanted",
-			"gatsby_image_path":"..\/..\/images\/the-last-thing-he-wanted.jpg",
-			"slug":"the-last-thing-he-wanted"
-		},
-		{
-			"title":"Escape Plan",
-			"gatsby_image_path":"..\/..\/images\/escape-plan.jpg",
-			"slug":"escape-plan"
-		},
-		{
-			"title":"Code 8",
-			"gatsby_image_path":"..\/..\/images\/code-8.jpg",
-			"slug":"code-8"
-		},
-		{
-			"title":"Trauma Center",
-			"gatsby_image_path":"..\/..\/images\/trauma-center.jpg",
-			"slug":"trauma-center"
-		},
-		{
-			"title":"Out of Death",
-			"gatsby_image_path":"..\/..\/images\/out-of-death.jpg",
-			"slug":"out-of-death"
-		},
-		{
-			"title":"Midnight in the Switchgrass",
-			"gatsby_image_path":"..\/..\/images\/midnight-in-the-switchgrass.jpg",
-			"slug":"midnight-in-the-switchgrass"
-		}
-	],
-	"related_by_poster":[
-		{
-			"title":"The First King",
-			"gatsby_image_path":"..\/..\/images\/the-first-king.jpg",
-			"slug":"the-first-king"
-		},
-		{
-			"title":"Crank: High Voltage",
-			"gatsby_image_path":"..\/..\/images\/crank-high-voltage.jpg",
-			"slug":"crank-high-voltage"
-		},
-		{
-			"title":"Rurouni Kenshin Part II: Kyoto Inferno",
-			"gatsby_image_path":"..\/..\/images\/rurouni-kenshin-part-ii-kyoto-inferno.jpg",
-			"slug":"rurouni-kenshin-part-ii-kyoto-inferno"
-		},
-		{
-			"title":"The Hobbit: The Battle of the Five Armies",
-			"gatsby_image_path":"..\/..\/images\/the-hobbit-the-battle-of-the-five-armies.jpg",
-			"slug":"the-hobbit-the-battle-of-the-five-armies"
-		},
-		{
-			"title":"Collateral Beauty",
-			"gatsby_image_path":"..\/..\/images\/collateral-beauty.jpg",
-			"slug":"collateral-beauty"
-		},
-		{
-			"title":"Harry Potter and the Chamber of Secrets",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-chamber-of-secrets.jpg",
-			"slug":"harry-potter-and-the-chamber-of-secrets"
-		},
-		{
-			"title":"Cult of Chucky",
-			"gatsby_image_path":"..\/..\/images\/cult-of-chucky.jpg",
-			"slug":"cult-of-chucky"
-		},
-		{
-			"title":"Glass",
-			"gatsby_image_path":"..\/..\/images\/glass.jpg",
-			"slug":"glass"
-		},
-		{
-			"title":"50 Greatest Harry Potter Moments",
-			"gatsby_image_path":"..\/..\/images\/50-greatest-harry-potter-moments.jpg",
-			"slug":"50-greatest-harry-potter-moments"
-		},
-		{
-			"title":"How to Be a Latin Lover",
-			"gatsby_image_path":"..\/..\/images\/how-to-be-a-latin-lover.jpg",
-			"slug":"how-to-be-a-latin-lover"
-		},
-		{
-			"title":"Fifty Shades of Grey",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
-			"slug":"fifty-shades-of-grey"
-		},
-		{
-			"title":"The Unfamiliar",
-			"gatsby_image_path":"..\/..\/images\/the-unfamiliar.jpg",
-			"slug":"the-unfamiliar"
-		},
-		{
-			"title":"A Werewolf Boy",
-			"gatsby_image_path":"..\/..\/images\/a-werewolf-boy.jpg",
-			"slug":"a-werewolf-boy"
-		},
-		{
-			"title":"The Terminator",
-			"gatsby_image_path":"..\/..\/images\/the-terminator.jpg",
-			"slug":"the-terminator"
-		},
-		{
-			"title":"Overcomer",
-			"gatsby_image_path":"..\/..\/images\/overcomer.jpg",
-			"slug":"overcomer"
-		},
-		{
-			"title":"Out of Death",
-			"gatsby_image_path":"..\/..\/images\/out-of-death.jpg",
-			"slug":"out-of-death"
-		},
-		{
-			"title":"In the Shadow of the Moon",
-			"gatsby_image_path":"..\/..\/images\/in-the-shadow-of-the-moon.jpg",
-			"slug":"in-the-shadow-of-the-moon"
-		},
-		{
-			"title":"Unbreakable",
-			"gatsby_image_path":"..\/..\/images\/unbreakable.jpg",
-			"slug":"unbreakable"
-		},
-		{
-			"title":"Blue Miracle",
-			"gatsby_image_path":"..\/..\/images\/blue-miracle.jpg",
-			"slug":"blue-miracle"
-		},
-		{
-			"title":"Parasyte: Part 2",
-			"gatsby_image_path":"..\/..\/images\/parasyte-part-2.jpg",
-			"slug":"parasyte-part-2"
-		}
-	],
-	"related_by_overview":[
-		{
-			"title":"Alien Outbreak",
-			"gatsby_image_path":"..\/..\/images\/alien-outbreak.jpg",
-			"slug":"alien-outbreak"
-		},
-		{
-			"title":"Revenge",
-			"gatsby_image_path":"..\/..\/images\/revenge.jpg",
-			"slug":"revenge"
-		},
-		{
-			"title":"The Next Three Days",
-			"gatsby_image_path":"..\/..\/images\/the-next-three-days.jpg",
-			"slug":"the-next-three-days"
-		},
-		{
-			"title":"Get Out",
-			"gatsby_image_path":"..\/..\/images\/get-out.jpg",
-			"slug":"get-out"
-		},
-		{
-			"title":"The Upside",
-			"gatsby_image_path":"..\/..\/images\/the-upside.jpg",
-			"slug":"the-upside"
-		},
-		{
-			"title":"It Follows",
-			"gatsby_image_path":"..\/..\/images\/it-follows.jpg",
-			"slug":"it-follows"
-		},
-		{
-			"title":"A Star Is Born",
-			"gatsby_image_path":"..\/..\/images\/a-star-is-born.jpg",
-			"slug":"a-star-is-born"
-		},
-		{
-			"title":"Dead Silence",
-			"gatsby_image_path":"..\/..\/images\/dead-silence.jpg",
-			"slug":"dead-silence"
-		},
-		{
-			"title":"Crawl",
-			"gatsby_image_path":"..\/..\/images\/crawl.jpg",
-			"slug":"crawl"
-		},
-		{
-			"title":"Zack and Miri Make a Porno",
-			"gatsby_image_path":"..\/..\/images\/zack-and-miri-make-a-porno.jpg",
-			"slug":"zack-and-miri-make-a-porno"
-		},
-		{
-			"title":"Love Wedding Repeat",
-			"gatsby_image_path":"..\/..\/images\/love-wedding-repeat.jpg",
-			"slug":"love-wedding-repeat"
-		},
-		{
-			"title":"The Mummy Returns",
-			"gatsby_image_path":"..\/..\/images\/the-mummy-returns.jpg",
-			"slug":"the-mummy-returns"
-		},
-		{
-			"title":"Castle Freak",
-			"gatsby_image_path":"..\/..\/images\/castle-freak.jpg",
-			"slug":"castle-freak"
-		},
-		{
-			"title":"Cold Pursuit",
-			"gatsby_image_path":"..\/..\/images\/cold-pursuit.jpg",
-			"slug":"cold-pursuit"
-		},
-		{
-			"title":"Tremors: A Cold Day in Hell",
-			"gatsby_image_path":"..\/..\/images\/tremors-a-cold-day-in-hell.jpg",
-			"slug":"tremors-a-cold-day-in-hell"
-		},
-		{
-			"title":"Burn",
-			"gatsby_image_path":"..\/..\/images\/burn.jpg",
-			"slug":"burn"
-		},
-		{
-			"title":"The Kill Team",
-			"gatsby_image_path":"..\/..\/images\/the-kill-team.jpg",
-			"slug":"the-kill-team"
-		},
-		{
-			"title":"The Empty Man",
-			"gatsby_image_path":"..\/..\/images\/the-empty-man.jpg",
-			"slug":"the-empty-man"
-		},
-		{
-			"title":"Project X",
-			"gatsby_image_path":"..\/..\/images\/project-x.jpg",
-			"slug":"project-x"
-		},
-		{
-			"title":"Pandemic",
-			"gatsby_image_path":"..\/..\/images\/pandemic.jpg",
-			"slug":"pandemic"
-		}
-	],
-	"tmdb_id":390051,
-	"keywords":[
-		"airport",
-		"depression",
-		"secret",
-		"sadness",
-		"forgiveness",
-		"airplane",
-		"mental breakdown",
-		"investigation",
-		"vigilante",
-		"flight",
-		"based on a true story",
-		"revenge",
-		"grief",
-		"tragedy",
-		"lawyer",
-		"airplane crash",
-		"drinking",
-		"death",
-		"air traffic control",
-		"accusation"
+		"Travis Zariwny",
+		"Peter Winther",
+		"Peter Winther",
+		"Peter Winther",
+		"Alan Pao",
+		"Kellie Madison",
+		"Tom Camarda",
+		"Melanie Rein",
+		"James Andrew Felts",
+		"Jake Garber"
 	]
 }

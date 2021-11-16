@@ -1,384 +1,84 @@
 {
 	"title":"Lolita",
 	"status":"Released",
-	"runtime":137,
-	"revenue":1071255,
-	"release_date":"1997-09-27",
+	"runtime":154,
+	"revenue":9250000,
+	"release_date":"1962-06-21",
 	"production_countries":[
-		"France",
+		"United Kingdom",
 		"United States of America"
 	],
 	"production_companies":[
-		"Pathé",
-		"Lolita Productions"
+		"Seven Arts Productions",
+		"Allied Artists",
+		"Transworld Pictures",
+		"Metro-Goldwyn-Mayer"
 	],
-	"poster_path":"\/v7ZRAYz0WZrMQ1MH34cSFvC8drq.jpg",
-	"imdb_id":"tt0119558",
+	"poster_path":"\/lPdCVPf0hkuCJc8mAGPCnHo05Z9.jpg",
+	"imdb_id":"tt0056193",
 	"original_title":"Lolita",
-	"overview":"Urbane professor Humbert Humbert marries a New England widow to be near her nymphet daughter.",
+	"overview":"Humbert Humbert is a middle-aged British novelist who is both appalled by and attracted to the vulgarity of American culture. When he comes to stay at the boarding house run by Charlotte Haze, he soon becomes obsessed with Lolita, the woman's teenaged daughter.",
 	"original_language":"en",
 	"adult":false,
-	"budget":62000000,
+	"budget":2000000,
 	"genres":[
-		"Drama"
+		"Crime",
+		"Drama",
+		"Romance"
 	],
+	"keywords":[
+		"sexual obsession",
+		"hotel",
+		"loss of loved one",
+		"based on novel or book",
+		"depression",
+		"small town",
+		"flirt",
+		"midlife crisis",
+		"eroticism",
+		"youngster",
+		"lolita",
+		"motel",
+		"diary",
+		"seduction",
+		"forbidden love",
+		"literature professor",
+		"provocation",
+		"fascination",
+		"one-sided love",
+		"widow",
+		"adoptive father",
+		"summer camp",
+		"secret love",
+		"older man younger woman relationship",
+		"sex with a minor",
+		"stanley kubrick"
+	],
+	"tmdb_id":"802",
 	"slug":"lolita",
 	"gatsby_image_path":"..\/..\/images\/lolita.jpg",
 	"cast":[
-		"Jeremy Irons",
-		"Dominique Swain",
-		"Melanie Griffith",
-		"Frank Langella",
-		"Suzanne Shepherd",
-		"Keith Reddin",
-		"Erin J. Dean",
-		"Joan Glover",
-		"Pat Perkins",
-		"Ed Grady"
+		"James Mason",
+		"Shelley Winters",
+		"Sue Lyon",
+		"Gary Cockrell",
+		"Jerry Stovin",
+		"Diana Decker",
+		"Lois Maxwell",
+		"Cec Linder",
+		"Bill Greene",
+		"Shirley Douglas"
 	],
 	"crew":[
-		"Jina Jay",
-		"Ennio Morricone",
-		"Bill Abbott",
-		"Ellen Chenoweth",
-		"Jon Hutman",
-		"Mario Kassar",
-		"Joel B. Michaels",
-		"David Brenner",
-		"Adrian Lyne",
-		"Judianna Makovsky"
-	],
-	"related_by_cast":[
-		{
-			"title":"Zack Snyder's Justice League",
-			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
-			"slug":"zack-snyder-s-justice-league"
-		},
-		{
-			"title":"Stuart Little 2",
-			"gatsby_image_path":"..\/..\/images\/stuart-little-2.jpg",
-			"slug":"stuart-little-2"
-		},
-		{
-			"title":"Red Sparrow",
-			"gatsby_image_path":"..\/..\/images\/red-sparrow.jpg",
-			"slug":"red-sparrow"
-		},
-		{
-			"title":"Kingdom of Heaven",
-			"gatsby_image_path":"..\/..\/images\/kingdom-of-heaven.jpg",
-			"slug":"kingdom-of-heaven"
-		},
-		{
-			"title":"Justice League",
-			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
-			"slug":"justice-league"
-		},
-		{
-			"title":"Eminence Hill",
-			"gatsby_image_path":"..\/..\/images\/eminence-hill.jpg",
-			"slug":"eminence-hill"
-		},
-		{
-			"title":"Die Hard: With a Vengeance",
-			"gatsby_image_path":"..\/..\/images\/die-hard-with-a-vengeance.jpg",
-			"slug":"die-hard-with-a-vengeance"
-		},
-		{
-			"title":"Batman v Superman: Dawn of Justice",
-			"gatsby_image_path":"..\/..\/images\/batman-v-superman-dawn-of-justice.jpg",
-			"slug":"batman-v-superman-dawn-of-justice"
-		},
-		{
-			"title":"Assassin's Creed",
-			"gatsby_image_path":"..\/..\/images\/assassin-s-creed.jpg",
-			"slug":"assassin-s-creed"
-		},
-		{
-			"title":"Zootopia",
-			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
-			"slug":"zootopia"
-		}
-	],
-	"related_most_similar":[
-		{
-			"title":"The Bear",
-			"gatsby_image_path":"..\/..\/images\/the-bear.jpg",
-			"slug":"the-bear"
-		},
-		{
-			"title":"Terminator Salvation",
-			"gatsby_image_path":"..\/..\/images\/terminator-salvation.jpg",
-			"slug":"terminator-salvation"
-		},
-		{
-			"title":"Pride & Prejudice",
-			"gatsby_image_path":"..\/..\/images\/pride-prejudice.jpg",
-			"slug":"pride-prejudice"
-		},
-		{
-			"title":"Need for Speed",
-			"gatsby_image_path":"..\/..\/images\/need-for-speed.jpg",
-			"slug":"need-for-speed"
-		},
-		{
-			"title":"Kingdom of Heaven",
-			"gatsby_image_path":"..\/..\/images\/kingdom-of-heaven.jpg",
-			"slug":"kingdom-of-heaven"
-		},
-		{
-			"title":"Assassin's Creed",
-			"gatsby_image_path":"..\/..\/images\/assassin-s-creed.jpg",
-			"slug":"assassin-s-creed"
-		},
-		{
-			"title":"Victor Frankenstein",
-			"gatsby_image_path":"..\/..\/images\/victor-frankenstein.jpg",
-			"slug":"victor-frankenstein"
-		},
-		{
-			"title":"To All the Boys: Always and Forever",
-			"gatsby_image_path":"..\/..\/images\/to-all-the-boys-always-and-forever.jpg",
-			"slug":"to-all-the-boys-always-and-forever"
-		},
-		{
-			"title":"The Woman in the Window",
-			"gatsby_image_path":"..\/..\/images\/the-woman-in-the-window.jpg",
-			"slug":"the-woman-in-the-window"
-		},
-		{
-			"title":"The Next Three Days",
-			"gatsby_image_path":"..\/..\/images\/the-next-three-days.jpg",
-			"slug":"the-next-three-days"
-		}
-	],
-	"related_by_poster":[
-		{
-			"title":"Fall in Love at First Kiss",
-			"gatsby_image_path":"..\/..\/images\/fall-in-love-at-first-kiss.jpg",
-			"slug":"fall-in-love-at-first-kiss"
-		},
-		{
-			"title":"Evangelion: 3.0+1.0 Thrice Upon a Time",
-			"gatsby_image_path":"..\/..\/images\/evangelion-3.0-+1.0-thrice-upon-a-time.jpg",
-			"slug":"evangelion-3.0-+1.0-thrice-upon-a-time"
-		},
-		{
-			"title":"Rick and Morty 'Exquisite Corpse'",
-			"gatsby_image_path":"..\/..\/images\/rick-and-morty-exquisite-corpse.jpg",
-			"slug":"rick-and-morty-exquisite-corpse"
-		},
-		{
-			"title":"Cats",
-			"gatsby_image_path":"..\/..\/images\/cats.jpg",
-			"slug":"cats"
-		},
-		{
-			"title":"Scooby-Doo! and the Cyber Chase",
-			"gatsby_image_path":"..\/..\/images\/scooby-doo-and-the-cyber-chase.jpg",
-			"slug":"scooby-doo-and-the-cyber-chase"
-		},
-		{
-			"title":"Silk Road",
-			"gatsby_image_path":"..\/..\/images\/silk-road.jpg",
-			"slug":"silk-road"
-		},
-		{
-			"title":"Once Upon a Deadpool",
-			"gatsby_image_path":"..\/..\/images\/once-upon-a-deadpool.jpg",
-			"slug":"once-upon-a-deadpool"
-		},
-		{
-			"title":"Why Him?",
-			"gatsby_image_path":"..\/..\/images\/why-him.jpg",
-			"slug":"why-him"
-		},
-		{
-			"title":"Cowboys",
-			"gatsby_image_path":"..\/..\/images\/cowboys.jpg",
-			"slug":"cowboys"
-		},
-		{
-			"title":"28 Days Later",
-			"gatsby_image_path":"..\/..\/images\/28-days-later.jpg",
-			"slug":"28-days-later"
-		},
-		{
-			"title":"Alice in Wonderland",
-			"gatsby_image_path":"..\/..\/images\/alice-in-wonderland.jpg",
-			"slug":"alice-in-wonderland"
-		},
-		{
-			"title":"Barbie & Chelsea the Lost Birthday",
-			"gatsby_image_path":"..\/..\/images\/barbie-chelsea-the-lost-birthday.jpg",
-			"slug":"barbie-chelsea-the-lost-birthday"
-		},
-		{
-			"title":"Flora & Ulysses",
-			"gatsby_image_path":"..\/..\/images\/flora-ulysses.jpg",
-			"slug":"flora-ulysses"
-		},
-		{
-			"title":"Dr. No",
-			"gatsby_image_path":"..\/..\/images\/dr.-no.jpg",
-			"slug":"dr.-no"
-		},
-		{
-			"title":"Sinister",
-			"gatsby_image_path":"..\/..\/images\/sinister.jpg",
-			"slug":"sinister"
-		},
-		{
-			"title":"Justice League: The New Frontier",
-			"gatsby_image_path":"..\/..\/images\/justice-league-the-new-frontier.jpg",
-			"slug":"justice-league-the-new-frontier"
-		},
-		{
-			"title":"The Hills Have Eyes",
-			"gatsby_image_path":"..\/..\/images\/the-hills-have-eyes.jpg",
-			"slug":"the-hills-have-eyes"
-		},
-		{
-			"title":"One Hundred and One Dalmatians",
-			"gatsby_image_path":"..\/..\/images\/one-hundred-and-one-dalmatians.jpg",
-			"slug":"one-hundred-and-one-dalmatians"
-		},
-		{
-			"title":"Wrong Turn 2: Dead End",
-			"gatsby_image_path":"..\/..\/images\/wrong-turn-2-dead-end.jpg",
-			"slug":"wrong-turn-2-dead-end"
-		},
-		{
-			"title":"Happy Death Day",
-			"gatsby_image_path":"..\/..\/images\/happy-death-day.jpg",
-			"slug":"happy-death-day"
-		}
-	],
-	"related_by_overview":[
-		{
-			"title":"Mary Poppins",
-			"gatsby_image_path":"..\/..\/images\/mary-poppins.jpg",
-			"slug":"mary-poppins"
-		},
-		{
-			"title":"Sex and Lucía",
-			"gatsby_image_path":"..\/..\/images\/sex-and-lucía.jpg",
-			"slug":"sex-and-lucía"
-		},
-		{
-			"title":"Paperhouse",
-			"gatsby_image_path":"..\/..\/images\/paperhouse.jpg",
-			"slug":"paperhouse"
-		},
-		{
-			"title":"High Flying Romance",
-			"gatsby_image_path":"..\/..\/images\/high-flying-romance.jpg",
-			"slug":"high-flying-romance"
-		},
-		{
-			"title":"Valley Girl",
-			"gatsby_image_path":"..\/..\/images\/valley-girl.jpg",
-			"slug":"valley-girl"
-		},
-		{
-			"title":"Cobra",
-			"gatsby_image_path":"..\/..\/images\/cobra.jpg",
-			"slug":"cobra"
-		},
-		{
-			"title":"The Light Between Oceans",
-			"gatsby_image_path":"..\/..\/images\/the-light-between-oceans.jpg",
-			"slug":"the-light-between-oceans"
-		},
-		{
-			"title":"Edward Scissorhands",
-			"gatsby_image_path":"..\/..\/images\/edward-scissorhands.jpg",
-			"slug":"edward-scissorhands"
-		},
-		{
-			"title":"Emma.",
-			"gatsby_image_path":"..\/..\/images\/emma.jpg",
-			"slug":"emma"
-		},
-		{
-			"title":"John Wick: Chapter 4",
-			"gatsby_image_path":"..\/..\/images\/john-wick-chapter-4.jpg",
-			"slug":"john-wick-chapter-4"
-		},
-		{
-			"title":"The Chronicles of Narnia: The Voyage of the Dawn Treader",
-			"gatsby_image_path":"..\/..\/images\/the-chronicles-of-narnia-the-voyage-of-the-dawn-treader.jpg",
-			"slug":"the-chronicles-of-narnia-the-voyage-of-the-dawn-treader"
-		},
-		{
-			"title":"Evil Eye",
-			"gatsby_image_path":"..\/..\/images\/evil-eye.jpg",
-			"slug":"evil-eye"
-		},
-		{
-			"title":"Spirit Untamed",
-			"gatsby_image_path":"..\/..\/images\/spirit-untamed.jpg",
-			"slug":"spirit-untamed"
-		},
-		{
-			"title":"Earth and Blood",
-			"gatsby_image_path":"..\/..\/images\/earth-and-blood.jpg",
-			"slug":"earth-and-blood"
-		},
-		{
-			"title":"Eminence Hill",
-			"gatsby_image_path":"..\/..\/images\/eminence-hill.jpg",
-			"slug":"eminence-hill"
-		},
-		{
-			"title":"The Art of Racing in the Rain",
-			"gatsby_image_path":"..\/..\/images\/the-art-of-racing-in-the-rain.jpg",
-			"slug":"the-art-of-racing-in-the-rain"
-		},
-		{
-			"title":"The Indian in the Cupboard",
-			"gatsby_image_path":"..\/..\/images\/the-indian-in-the-cupboard.jpg",
-			"slug":"the-indian-in-the-cupboard"
-		},
-		{
-			"title":"Braven",
-			"gatsby_image_path":"..\/..\/images\/braven.jpg",
-			"slug":"braven"
-		},
-		{
-			"title":"The Misadventures of Rick and Morty",
-			"gatsby_image_path":"..\/..\/images\/the-misadventures-of-rick-and-morty.jpg",
-			"slug":"the-misadventures-of-rick-and-morty"
-		},
-		{
-			"title":"7 Guardians of the Tomb",
-			"gatsby_image_path":"..\/..\/images\/7-guardians-of-the-tomb.jpg",
-			"slug":"7-guardians-of-the-tomb"
-		}
-	],
-	"tmdb_id":9769,
-	"keywords":[
-		"based on novel or book",
-		"jealousy",
-		"secret",
-		"obsession",
-		"blackmail",
-		"professor",
-		"lolita",
-		"seduction",
-		"police",
-		"road trip",
-		"love",
-		"murder",
-		"teacher",
-		"older man younger woman relationship",
-		"lust",
-		"desire",
-		"illness",
-		"underage",
-		"voyeurism",
-		"flirtation",
-		"virginity",
-		"sex with a minor"
+		"Stanley Kubrick",
+		"H.L. Bird",
+		"Winston Ryder",
+		"James Liggat",
+		"James B. Harris",
+		"Nelson Riddle",
+		"Oswald Morris",
+		"Vladimir Nabokov",
+		"Vladimir Nabokov",
+		"Bob Harris"
 	]
 }

@@ -1,385 +1,64 @@
 {
 	"title":"The Jungle Book",
 	"status":"Released",
-	"runtime":106,
-	"revenue":966550600,
-	"release_date":"2016-04-07",
+	"runtime":78,
+	"revenue":205843612,
+	"release_date":"1967-10-18",
 	"production_countries":[
-		"United Kingdom",
 		"United States of America"
 	],
 	"production_companies":[
-		"Walt Disney Pictures",
-		"Fairview Entertainment",
-		"Moving Picture Company"
+		"Walt Disney Productions"
 	],
-	"poster_path":"\/tOEOlmLP71IojeJ91dyJ9Nsb8O8.jpg",
-	"imdb_id":"tt3040964",
+	"poster_path":"\/fyKUxjaOP8KINir6MPFprsGtiT0.jpg",
+	"imdb_id":"tt0061852",
 	"original_title":"The Jungle Book",
-	"overview":"A man-cub named Mowgli fostered by wolves. After a threat from the tiger Shere Khan, Mowgli is forced to flee the jungle, by which he embarks on a journey of self discovery with the help of the panther, Bagheera and the free-spirited bear, Baloo.",
+	"overview":"The boy Mowgli makes his way to the man-village with Bagheera, the wise panther. Along the way he meets jazzy King Louie, the hypnotic snake Kaa and the lovable, happy-go-lucky bear Baloo, who teaches Mowgli \"The Bare Necessities\" of life and the true meaning of friendship.",
 	"original_language":"en",
 	"adult":false,
-	"budget":175000000,
+	"budget":4000000,
 	"genres":[
 		"Family",
-		"Adventure",
-		"Drama",
-		"Fantasy"
+		"Animation",
+		"Adventure"
 	],
-	"slug":"the-jungle-book",
-	"gatsby_image_path":"..\/..\/images\/the-jungle-book.jpg",
-	"cast":[
-		"Neel Sethi",
-		"Bill Murray",
-		"Ben Kingsley",
-		"Idris Elba",
-		"Scarlett Johansson",
-		"Christopher Walken",
-		"Lupita Nyong'o",
-		"Giancarlo Esposito",
-		"Garry Shandling",
-		"Jon Favreau"
-	],
-	"crew":[
-		"John Debney",
-		"Sarah Halley Finn",
-		"Mark Livolsi",
-		"Richard M. Sherman",
-		"Robert B. Sherman",
-		"Bill Pope",
-		"Laura Jean Shannon",
-		"Rudyard Kipling",
-		"Jon Favreau",
-		"Jon Favreau"
-	],
-	"related_by_cast":[
-		{
-			"title":"Iron Man 3",
-			"gatsby_image_path":"..\/..\/images\/iron-man-3.jpg",
-			"slug":"iron-man-3"
-		},
-		{
-			"title":"Iron Man 2",
-			"gatsby_image_path":"..\/..\/images\/iron-man-2.jpg",
-			"slug":"iron-man-2"
-		},
-		{
-			"title":"Zootopia",
-			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
-			"slug":"zootopia"
-		},
-		{
-			"title":"Zombieland",
-			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
-			"slug":"zombieland"
-		},
-		{
-			"title":"Wild Things",
-			"gatsby_image_path":"..\/..\/images\/wild-things.jpg",
-			"slug":"wild-things"
-		},
-		{
-			"title":"Thor: The Dark World",
-			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
-			"slug":"thor-the-dark-world"
-		},
-		{
-			"title":"Thor: Ragnarok",
-			"gatsby_image_path":"..\/..\/images\/thor-ragnarok.jpg",
-			"slug":"thor-ragnarok"
-		},
-		{
-			"title":"Thor",
-			"gatsby_image_path":"..\/..\/images\/thor.jpg",
-			"slug":"thor"
-		},
-		{
-			"title":"The Suicide Squad",
-			"gatsby_image_path":"..\/..\/images\/the-suicide-squad.jpg",
-			"slug":"the-suicide-squad"
-		},
-		{
-			"title":"The SpongeBob SquarePants Movie",
-			"gatsby_image_path":"..\/..\/images\/the-spongebob-squarepants-movie.jpg",
-			"slug":"the-spongebob-squarepants-movie"
-		}
-	],
-	"related_most_similar":[
-		{
-			"title":"The Lion King",
-			"gatsby_image_path":"..\/..\/images\/the-lion-king.jpg",
-			"slug":"the-lion-king"
-		},
-		{
-			"title":"Spider-Man: Homecoming",
-			"gatsby_image_path":"..\/..\/images\/spider-man-homecoming.jpg",
-			"slug":"spider-man-homecoming"
-		},
-		{
-			"title":"Iron Man",
-			"gatsby_image_path":"..\/..\/images\/iron-man.jpg",
-			"slug":"iron-man"
-		},
-		{
-			"title":"Iron Man 3",
-			"gatsby_image_path":"..\/..\/images\/iron-man-3.jpg",
-			"slug":"iron-man-3"
-		},
-		{
-			"title":"Iron Man 2",
-			"gatsby_image_path":"..\/..\/images\/iron-man-2.jpg",
-			"slug":"iron-man-2"
-		},
-		{
-			"title":"Dumbo",
-			"gatsby_image_path":"..\/..\/images\/dumbo.jpg",
-			"slug":"dumbo"
-		},
-		{
-			"title":"Zathura: A Space Adventure",
-			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
-			"slug":"zathura-a-space-adventure"
-		},
-		{
-			"title":"Toy Story 4",
-			"gatsby_image_path":"..\/..\/images\/toy-story-4.jpg",
-			"slug":"toy-story-4"
-		},
-		{
-			"title":"Thor: Ragnarok",
-			"gatsby_image_path":"..\/..\/images\/thor-ragnarok.jpg",
-			"slug":"thor-ragnarok"
-		},
-		{
-			"title":"The Emperor's New Groove",
-			"gatsby_image_path":"..\/..\/images\/the-emperor-s-new-groove.jpg",
-			"slug":"the-emperor-s-new-groove"
-		}
-	],
-	"related_by_poster":[
-		{
-			"title":"Friday the 13th",
-			"gatsby_image_path":"..\/..\/images\/friday-the-13th.jpg",
-			"slug":"friday-the-13th"
-		},
-		{
-			"title":"Jungle Cruise",
-			"gatsby_image_path":"..\/..\/images\/jungle-cruise.jpg",
-			"slug":"jungle-cruise"
-		},
-		{
-			"title":"Peninsula",
-			"gatsby_image_path":"..\/..\/images\/peninsula.jpg",
-			"slug":"peninsula"
-		},
-		{
-			"title":"300",
-			"gatsby_image_path":"..\/..\/images\/300.jpg",
-			"slug":"300"
-		},
-		{
-			"title":"Illang: The Wolf Brigade",
-			"gatsby_image_path":"..\/..\/images\/illang-the-wolf-brigade.jpg",
-			"slug":"illang-the-wolf-brigade"
-		},
-		{
-			"title":"Rise of the Guardians",
-			"gatsby_image_path":"..\/..\/images\/rise-of-the-guardians.jpg",
-			"slug":"rise-of-the-guardians"
-		},
-		{
-			"title":"Guardians of the Galaxy",
-			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy.jpg",
-			"slug":"guardians-of-the-galaxy"
-		},
-		{
-			"title":"The Croods",
-			"gatsby_image_path":"..\/..\/images\/the-croods.jpg",
-			"slug":"the-croods"
-		},
-		{
-			"title":"Wonder Woman",
-			"gatsby_image_path":"..\/..\/images\/wonder-woman.jpg",
-			"slug":"wonder-woman"
-		},
-		{
-			"title":"Skylines",
-			"gatsby_image_path":"..\/..\/images\/skylines.jpg",
-			"slug":"skylines"
-		},
-		{
-			"title":"Aliens",
-			"gatsby_image_path":"..\/..\/images\/aliens.jpg",
-			"slug":"aliens"
-		},
-		{
-			"title":"The Mortuary Collection",
-			"gatsby_image_path":"..\/..\/images\/the-mortuary-collection.jpg",
-			"slug":"the-mortuary-collection"
-		},
-		{
-			"title":"The Mummy",
-			"gatsby_image_path":"..\/..\/images\/the-mummy.jpg",
-			"slug":"the-mummy"
-		},
-		{
-			"title":"Fear Street: 1666",
-			"gatsby_image_path":"..\/..\/images\/fear-street-1666.jpg",
-			"slug":"fear-street-1666"
-		},
-		{
-			"title":"Hunter x Hunter: The Last Mission",
-			"gatsby_image_path":"..\/..\/images\/hunter-x-hunter-the-last-mission.jpg",
-			"slug":"hunter-x-hunter-the-last-mission"
-		},
-		{
-			"title":"Dark Phoenix",
-			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
-			"slug":"dark-phoenix"
-		},
-		{
-			"title":"Stray",
-			"gatsby_image_path":"..\/..\/images\/stray.jpg",
-			"slug":"stray"
-		},
-		{
-			"title":"How to Train Your Dragon: The Hidden World",
-			"gatsby_image_path":"..\/..\/images\/how-to-train-your-dragon-the-hidden-world.jpg",
-			"slug":"how-to-train-your-dragon-the-hidden-world"
-		},
-		{
-			"title":"Final Destination 2",
-			"gatsby_image_path":"..\/..\/images\/final-destination-2.jpg",
-			"slug":"final-destination-2"
-		},
-		{
-			"title":"The Avengers",
-			"gatsby_image_path":"..\/..\/images\/the-avengers.jpg",
-			"slug":"the-avengers"
-		}
-	],
-	"related_by_overview":[
-		{
-			"title":"The Wild",
-			"gatsby_image_path":"..\/..\/images\/the-wild.jpg",
-			"slug":"the-wild"
-		},
-		{
-			"title":"How to Train Your Dragon",
-			"gatsby_image_path":"..\/..\/images\/how-to-train-your-dragon.jpg",
-			"slug":"how-to-train-your-dragon"
-		},
-		{
-			"title":"Dolittle",
-			"gatsby_image_path":"..\/..\/images\/dolittle.jpg",
-			"slug":"dolittle"
-		},
-		{
-			"title":"Abominable",
-			"gatsby_image_path":"..\/..\/images\/abominable.jpg",
-			"slug":"abominable"
-		},
-		{
-			"title":"Frankenweenie",
-			"gatsby_image_path":"..\/..\/images\/frankenweenie.jpg",
-			"slug":"frankenweenie"
-		},
-		{
-			"title":"Pirates of the Caribbean: Dead Men Tell No Tales",
-			"gatsby_image_path":"..\/..\/images\/pirates-of-the-caribbean-dead-men-tell-no-tales.jpg",
-			"slug":"pirates-of-the-caribbean-dead-men-tell-no-tales"
-		},
-		{
-			"title":"Phineas and Ferb: The Movie: Candace Against the Universe",
-			"gatsby_image_path":"..\/..\/images\/phineas-and-ferb-the-movie-candace-against-the-universe.jpg",
-			"slug":"phineas-and-ferb-the-movie-candace-against-the-universe"
-		},
-		{
-			"title":"Bāhubali 2: The Conclusion",
-			"gatsby_image_path":"..\/..\/images\/bāhubali-2-the-conclusion.jpg",
-			"slug":"bāhubali-2-the-conclusion"
-		},
-		{
-			"title":"Pirates of the Caribbean: On Stranger Tides",
-			"gatsby_image_path":"..\/..\/images\/pirates-of-the-caribbean-on-stranger-tides.jpg",
-			"slug":"pirates-of-the-caribbean-on-stranger-tides"
-		},
-		{
-			"title":"How to Train Your Dragon 2",
-			"gatsby_image_path":"..\/..\/images\/how-to-train-your-dragon-2.jpg",
-			"slug":"how-to-train-your-dragon-2"
-		},
-		{
-			"title":"Primal: Tales of Savagery",
-			"gatsby_image_path":"..\/..\/images\/primal-tales-of-savagery.jpg",
-			"slug":"primal-tales-of-savagery"
-		},
-		{
-			"title":"Deep Blue Sea 3",
-			"gatsby_image_path":"..\/..\/images\/deep-blue-sea-3.jpg",
-			"slug":"deep-blue-sea-3"
-		},
-		{
-			"title":"Sicario",
-			"gatsby_image_path":"..\/..\/images\/sicario.jpg",
-			"slug":"sicario"
-		},
-		{
-			"title":"Barbie Presents: Thumbelina",
-			"gatsby_image_path":"..\/..\/images\/barbie-presents-thumbelina.jpg",
-			"slug":"barbie-presents-thumbelina"
-		},
-		{
-			"title":"Ice Age: Collision Course",
-			"gatsby_image_path":"..\/..\/images\/ice-age-collision-course.jpg",
-			"slug":"ice-age-collision-course"
-		},
-		{
-			"title":"Goosebumps 2: Haunted Halloween",
-			"gatsby_image_path":"..\/..\/images\/goosebumps-2-haunted-halloween.jpg",
-			"slug":"goosebumps-2-haunted-halloween"
-		},
-		{
-			"title":"Iron Mask",
-			"gatsby_image_path":"..\/..\/images\/iron-mask.jpg",
-			"slug":"iron-mask"
-		},
-		{
-			"title":"La Llorona",
-			"gatsby_image_path":"..\/..\/images\/la-llorona.jpg",
-			"slug":"la-llorona"
-		},
-		{
-			"title":"The Vault",
-			"gatsby_image_path":"..\/..\/images\/the-vault.jpg",
-			"slug":"the-vault"
-		},
-		{
-			"title":"Saw III",
-			"gatsby_image_path":"..\/..\/images\/saw-iii.jpg",
-			"slug":"saw-iii"
-		}
-	],
-	"tmdb_id":278927,
 	"keywords":[
 		"based on novel or book",
-		"snake",
-		"wolf",
-		"elephant",
-		"tiger",
+		"narration",
+		"human animal relationship",
+		"musical",
 		"feral child",
-		"panther",
-		"remake",
-		"bear",
 		"jungle",
 		"anthropomorphism",
 		"orphan",
-		"ape",
-		"monkey",
-		"animal",
-		"talking to animals",
-		"climbing a tree",
-		"live action and animation",
-		"live action remake"
+		"india",
+		"animal lead"
+	],
+	"tmdb_id":"9325",
+	"slug":"the-jungle-book",
+	"gatsby_image_path":"..\/..\/images\/the-jungle-book.jpg",
+	"cast":[
+		"Bruce Reitherman",
+		"Phil Harris",
+		"Sebastian Cabot",
+		"George Sanders",
+		"Sterling Holloway",
+		"Louis Prima",
+		"J. Pat O'Malley",
+		"Verna Felton",
+		"Clint Howard",
+		"Chad Stuart"
+	],
+	"crew":[
+		"Walt Disney",
+		"Robert O. Cook",
+		"Richard M. Sherman",
+		"Robert B. Sherman",
+		"Rudyard Kipling",
+		"Rudyard Kipling",
+		"Wolfgang Reitherman",
+		"Larry Clemmons",
+		"Ken Anderson",
+		"Vance Gerry"
 	]
 }

@@ -1,382 +1,75 @@
 {
 	"title":"Aladdin",
 	"status":"Released",
-	"runtime":90,
-	"revenue":504050219,
-	"release_date":"1992-11-25",
+	"runtime":128,
+	"revenue":1047612394,
+	"release_date":"2019-05-22",
 	"production_countries":[
 		"United States of America"
 	],
 	"production_companies":[
 		"Walt Disney Pictures",
-		"Walt Disney Animation Studios"
+		"Lin Pictures",
+		"Rideback",
+		"Marc Platt Productions"
 	],
-	"poster_path":"\/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
-	"imdb_id":"tt0103639",
+	"poster_path":"\/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg",
+	"imdb_id":"tt6139732",
 	"original_title":"Aladdin",
-	"overview":"Princess Jasmine grows tired of being forced to remain in the palace, so she sneaks out into the marketplace, in disguise, where she meets street-urchin Aladdin.  The couple falls in love, although Jasmine may only marry a prince.  After being thrown in jail, Aladdin becomes embroiled in a plot to find a mysterious lamp, with which the evil Jafar hopes to rule the land.",
+	"overview":"A kindhearted street urchin named Aladdin embarks on a magical adventure after finding a lamp that releases a wisecracking genie while a power-hungry Grand Vizier vies for the same lamp that has the power to make their deepest wishes come true.",
 	"original_language":"en",
 	"adult":false,
-	"budget":28000000,
+	"budget":183000000,
 	"genres":[
-		"Animation",
-		"Family",
 		"Adventure",
 		"Fantasy",
-		"Romance"
+		"Romance",
+		"Family"
 	],
+	"keywords":[
+		"hero",
+		"hustler",
+		"palace",
+		"musical",
+		"sultan",
+		"flying carpet",
+		"rags to riches",
+		"romance",
+		"monkey",
+		"family",
+		"first love",
+		"based on myths, legends or folklore",
+		"genie",
+		"arabian nights",
+		"aladdin",
+		"live action and animation",
+		"live action remake"
+	],
+	"tmdb_id":"420817",
 	"slug":"aladdin",
 	"gatsby_image_path":"..\/..\/images\/aladdin.jpg",
 	"cast":[
-		"Scott Weinger",
-		"Robin Williams",
-		"Linda Larkin",
-		"Jonathan Freeman",
-		"Gilbert Gottfried",
-		"Frank Welker",
-		"Douglas Seale",
-		"Brad Kane",
-		"Lea Salonga",
-		"Bruce Adler"
+		"Mena Massoud",
+		"Naomi Scott",
+		"Will Smith",
+		"Marwan Kenzari",
+		"Navid Negahban",
+		"Nasim Pedrad",
+		"Billy Magnussen",
+		"Numan Acar",
+		"Nina Wadia",
+		"Alan Tudyk"
 	],
 	"crew":[
-		"Ted Elliott",
-		"Terry Rossio",
-		"Donald W. Ernst",
-		"Clayton Collins",
-		"Tia W. Kratter",
-		"Ron Clements",
-		"Ron Clements",
-		"Ron Clements",
-		"John Musker",
-		"John Musker"
-	],
-	"related_by_cast":[
-		{
-			"title":"The Return of Jafar",
-			"gatsby_image_path":"..\/..\/images\/the-return-of-jafar.jpg",
-			"slug":"the-return-of-jafar"
-		},
-		{
-			"title":"Aladdin and the King of Thieves",
-			"gatsby_image_path":"..\/..\/images\/aladdin-and-the-king-of-thieves.jpg",
-			"slug":"aladdin-and-the-king-of-thieves"
-		},
-		{
-			"title":"Transformers: Beginnings",
-			"gatsby_image_path":"..\/..\/images\/transformers-beginnings.jpg",
-			"slug":"transformers-beginnings"
-		},
-		{
-			"title":"The Road to El Dorado",
-			"gatsby_image_path":"..\/..\/images\/the-road-to-el-dorado.jpg",
-			"slug":"the-road-to-el-dorado"
-		},
-		{
-			"title":"Scooby-Doo! The Sword and the Scoob",
-			"gatsby_image_path":"..\/..\/images\/scooby-doo-the-sword-and-the-scoob.jpg",
-			"slug":"scooby-doo-the-sword-and-the-scoob"
-		},
-		{
-			"title":"Scooby-Doo! in Where's My Mummy?",
-			"gatsby_image_path":"..\/..\/images\/scooby-doo-in-where-s-my-mummy.jpg",
-			"slug":"scooby-doo-in-where-s-my-mummy"
-		},
-		{
-			"title":"Scooby-Doo! Curse of the Lake Monster",
-			"gatsby_image_path":"..\/..\/images\/scooby-doo-curse-of-the-lake-monster.jpg",
-			"slug":"scooby-doo-curse-of-the-lake-monster"
-		},
-		{
-			"title":"Scooby-Doo! and the Reluctant Werewolf",
-			"gatsby_image_path":"..\/..\/images\/scooby-doo-and-the-reluctant-werewolf.jpg",
-			"slug":"scooby-doo-and-the-reluctant-werewolf"
-		},
-		{
-			"title":"Scooby-Doo! and the Cyber Chase",
-			"gatsby_image_path":"..\/..\/images\/scooby-doo-and-the-cyber-chase.jpg",
-			"slug":"scooby-doo-and-the-cyber-chase"
-		},
-		{
-			"title":"Scoob!",
-			"gatsby_image_path":"..\/..\/images\/scoob.jpg",
-			"slug":"scoob"
-		}
-	],
-	"related_most_similar":[
-		{
-			"title":"The Princess and the Frog",
-			"gatsby_image_path":"..\/..\/images\/the-princess-and-the-frog.jpg",
-			"slug":"the-princess-and-the-frog"
-		},
-		{
-			"title":"Treasure Planet",
-			"gatsby_image_path":"..\/..\/images\/treasure-planet.jpg",
-			"slug":"treasure-planet"
-		},
-		{
-			"title":"The Return of Jafar",
-			"gatsby_image_path":"..\/..\/images\/the-return-of-jafar.jpg",
-			"slug":"the-return-of-jafar"
-		},
-		{
-			"title":"The Little Mermaid",
-			"gatsby_image_path":"..\/..\/images\/the-little-mermaid.jpg",
-			"slug":"the-little-mermaid"
-		},
-		{
-			"title":"Shrek",
-			"gatsby_image_path":"..\/..\/images\/shrek.jpg",
-			"slug":"shrek"
-		},
-		{
-			"title":"Aladdin and the King of Thieves",
-			"gatsby_image_path":"..\/..\/images\/aladdin-and-the-king-of-thieves.jpg",
-			"slug":"aladdin-and-the-king-of-thieves"
-		},
-		{
-			"title":"The Fox and the Hound",
-			"gatsby_image_path":"..\/..\/images\/the-fox-and-the-hound.jpg",
-			"slug":"the-fox-and-the-hound"
-		},
-		{
-			"title":"Pocahontas",
-			"gatsby_image_path":"..\/..\/images\/pocahontas.jpg",
-			"slug":"pocahontas"
-		},
-		{
-			"title":"Pirates of the Caribbean: The Curse of the Black Pearl",
-			"gatsby_image_path":"..\/..\/images\/pirates-of-the-caribbean-the-curse-of-the-black-pearl.jpg",
-			"slug":"pirates-of-the-caribbean-the-curse-of-the-black-pearl"
-		},
-		{
-			"title":"Pirates of the Caribbean: Dead Men Tell No Tales",
-			"gatsby_image_path":"..\/..\/images\/pirates-of-the-caribbean-dead-men-tell-no-tales.jpg",
-			"slug":"pirates-of-the-caribbean-dead-men-tell-no-tales"
-		}
-	],
-	"related_by_poster":[
-		{
-			"title":"Black Fox",
-			"gatsby_image_path":"..\/..\/images\/black-fox.jpg",
-			"slug":"black-fox"
-		},
-		{
-			"title":"The Return of Jafar",
-			"gatsby_image_path":"..\/..\/images\/the-return-of-jafar.jpg",
-			"slug":"the-return-of-jafar"
-		},
-		{
-			"title":"Jiu Jitsu",
-			"gatsby_image_path":"..\/..\/images\/jiu-jitsu.jpg",
-			"slug":"jiu-jitsu"
-		},
-		{
-			"title":"The Lion King II: Simba's Pride",
-			"gatsby_image_path":"..\/..\/images\/the-lion-king-ii-simba-s-pride.jpg",
-			"slug":"the-lion-king-ii-simba-s-pride"
-		},
-		{
-			"title":"Dragon Ball Z: Lord Slug",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-lord-slug.jpg",
-			"slug":"dragon-ball-z-lord-slug"
-		},
-		{
-			"title":"Dragon Ball Z: Bardock - The Father of Goku",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-bardock-the-father-of-goku.jpg",
-			"slug":"dragon-ball-z-bardock-the-father-of-goku"
-		},
-		{
-			"title":"Cinderella III: A Twist in Time",
-			"gatsby_image_path":"..\/..\/images\/cinderella-iii-a-twist-in-time.jpg",
-			"slug":"cinderella-iii-a-twist-in-time"
-		},
-		{
-			"title":"Leprechaun 2",
-			"gatsby_image_path":"..\/..\/images\/leprechaun-2.jpg",
-			"slug":"leprechaun-2"
-		},
-		{
-			"title":"Aladdin and the King of Thieves",
-			"gatsby_image_path":"..\/..\/images\/aladdin-and-the-king-of-thieves.jpg",
-			"slug":"aladdin-and-the-king-of-thieves"
-		},
-		{
-			"title":"Xico's Journey",
-			"gatsby_image_path":"..\/..\/images\/xico-s-journey.jpg",
-			"slug":"xico-s-journey"
-		},
-		{
-			"title":"Casper",
-			"gatsby_image_path":"..\/..\/images\/casper.jpg",
-			"slug":"casper"
-		},
-		{
-			"title":"Watchmen",
-			"gatsby_image_path":"..\/..\/images\/watchmen.jpg",
-			"slug":"watchmen"
-		},
-		{
-			"title":"Dragon Ball Z: Dead Zone",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-dead-zone.jpg",
-			"slug":"dragon-ball-z-dead-zone"
-		},
-		{
-			"title":"Incredibles 2",
-			"gatsby_image_path":"..\/..\/images\/incredibles-2.jpg",
-			"slug":"incredibles-2"
-		},
-		{
-			"title":"Bumblebee",
-			"gatsby_image_path":"..\/..\/images\/bumblebee.jpg",
-			"slug":"bumblebee"
-		},
-		{
-			"title":"Madagascar 3: Europe's Most Wanted",
-			"gatsby_image_path":"..\/..\/images\/madagascar-3-europe-s-most-wanted.jpg",
-			"slug":"madagascar-3-europe-s-most-wanted"
-		},
-		{
-			"title":"Dragon Ball Z: Cooler's Revenge",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-cooler-s-revenge.jpg",
-			"slug":"dragon-ball-z-cooler-s-revenge"
-		},
-		{
-			"title":"Dragon Ball Z: Bojack Unbound",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-bojack-unbound.jpg",
-			"slug":"dragon-ball-z-bojack-unbound"
-		},
-		{
-			"title":"Iron Man",
-			"gatsby_image_path":"..\/..\/images\/iron-man.jpg",
-			"slug":"iron-man"
-		},
-		{
-			"title":"300",
-			"gatsby_image_path":"..\/..\/images\/300.jpg",
-			"slug":"300"
-		}
-	],
-	"related_by_overview":[
-		{
-			"title":"Shrek 2",
-			"gatsby_image_path":"..\/..\/images\/shrek-2.jpg",
-			"slug":"shrek-2"
-		},
-		{
-			"title":"One Hundred and One Dalmatians",
-			"gatsby_image_path":"..\/..\/images\/one-hundred-and-one-dalmatians.jpg",
-			"slug":"one-hundred-and-one-dalmatians"
-		},
-		{
-			"title":"The Return of Jafar",
-			"gatsby_image_path":"..\/..\/images\/the-return-of-jafar.jpg",
-			"slug":"the-return-of-jafar"
-		},
-		{
-			"title":"101 Dalmatians",
-			"gatsby_image_path":"..\/..\/images\/101-dalmatians.jpg",
-			"slug":"101-dalmatians"
-		},
-		{
-			"title":"Snow White and the Seven Dwarfs",
-			"gatsby_image_path":"..\/..\/images\/snow-white-and-the-seven-dwarfs.jpg",
-			"slug":"snow-white-and-the-seven-dwarfs"
-		},
-		{
-			"title":"Tinker Bell and the Great Fairy Rescue",
-			"gatsby_image_path":"..\/..\/images\/tinker-bell-and-the-great-fairy-rescue.jpg",
-			"slug":"tinker-bell-and-the-great-fairy-rescue"
-		},
-		{
-			"title":"Siberia",
-			"gatsby_image_path":"..\/..\/images\/siberia.jpg",
-			"slug":"siberia"
-		},
-		{
-			"title":"Harry Potter and the Half-Blood Prince",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-half-blood-prince.jpg",
-			"slug":"harry-potter-and-the-half-blood-prince"
-		},
-		{
-			"title":"The Hunchback of Notre Dame",
-			"gatsby_image_path":"..\/..\/images\/the-hunchback-of-notre-dame.jpg",
-			"slug":"the-hunchback-of-notre-dame"
-		},
-		{
-			"title":"Barbie: The Pearl Princess",
-			"gatsby_image_path":"..\/..\/images\/barbie-the-pearl-princess.jpg",
-			"slug":"barbie-the-pearl-princess"
-		},
-		{
-			"title":"Nanny McPhee",
-			"gatsby_image_path":"..\/..\/images\/nanny-mcphee.jpg",
-			"slug":"nanny-mcphee"
-		},
-		{
-			"title":"Frozen",
-			"gatsby_image_path":"..\/..\/images\/frozen.jpg",
-			"slug":"frozen"
-		},
-		{
-			"title":"Quest for Camelot",
-			"gatsby_image_path":"..\/..\/images\/quest-for-camelot.jpg",
-			"slug":"quest-for-camelot"
-		},
-		{
-			"title":"Barbie in The 12 Dancing Princesses",
-			"gatsby_image_path":"..\/..\/images\/barbie-in-the-12-dancing-princesses.jpg",
-			"slug":"barbie-in-the-12-dancing-princesses"
-		},
-		{
-			"title":"The Mummy Returns",
-			"gatsby_image_path":"..\/..\/images\/the-mummy-returns.jpg",
-			"slug":"the-mummy-returns"
-		},
-		{
-			"title":"Amulet",
-			"gatsby_image_path":"..\/..\/images\/amulet.jpg",
-			"slug":"amulet"
-		},
-		{
-			"title":"Tinker Bell and the Pirate Fairy",
-			"gatsby_image_path":"..\/..\/images\/tinker-bell-and-the-pirate-fairy.jpg",
-			"slug":"tinker-bell-and-the-pirate-fairy"
-		},
-		{
-			"title":"The Protector",
-			"gatsby_image_path":"..\/..\/images\/the-protector.jpg",
-			"slug":"the-protector"
-		},
-		{
-			"title":"The Lord of the Rings: The Fellowship of the Ring",
-			"gatsby_image_path":"..\/..\/images\/the-lord-of-the-rings-the-fellowship-of-the-ring.jpg",
-			"slug":"the-lord-of-the-rings-the-fellowship-of-the-ring"
-		},
-		{
-			"title":"Meet the Robinsons",
-			"gatsby_image_path":"..\/..\/images\/meet-the-robinsons.jpg",
-			"slug":"meet-the-robinsons"
-		}
-	],
-	"tmdb_id":812,
-	"keywords":[
-		"magic",
-		"parrot",
-		"musical",
-		"tiger",
-		"sultan",
-		"flying carpet",
-		"wish",
-		"cartoon",
-		"princess",
-		"love",
-		"monkey",
-		"arab",
-		"aftercreditsstinger",
-		"genie",
-		"arabian nights",
-		"animal sidekick",
-		"magic lamp"
+		"Lucinda Syson",
+		"Guy Ritchie",
+		"Guy Ritchie",
+		"John August",
+		"Michael Wilkinson",
+		"Peter Russell",
+		"Gemma Jackson",
+		"Alan Menken",
+		"Tina Jones",
+		"Jamal Sims"
 	]
 }

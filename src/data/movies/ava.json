@@ -1,375 +1,60 @@
 {
 	"title":"Ava",
 	"status":"Released",
-	"runtime":106,
-	"revenue":0,
-	"release_date":"2017-06-21",
+	"runtime":96,
+	"revenue":2987741,
+	"release_date":"2020-07-02",
 	"production_countries":[
-		"France"
+		"United States of America"
 	],
 	"production_companies":[
-		"Trois Brigands Productions",
-		"F Comme Film",
-		"Ciné@",
-		"ARTE France Cinéma",
-		"Canal+",
-		"ARTE",
-		"Cinémage 11",
-		"Cofinova 13"
+		"Freckle Films",
+		"Voltage Pictures",
+		"Vertical Entertainment"
 	],
-	"poster_path":"\/cUI1PFsrQVJR3IZOpkfsOOOUhTO.jpg",
-	"imdb_id":"tt6194530",
+	"poster_path":"\/qzA87Wf4jo1h8JMk9GilyIYvwsA.jpg",
+	"imdb_id":"tt8784956",
 	"original_title":"Ava",
-	"overview":"Ava, 13, is spending the summer on the Atlantic coast when she learns that she will lose her sight sooner than expected. Her mother decides to act as if everything were normal so as to spend their best summer ever. Ava confronts the problem in her own way. She steals a big black dog that belongs to a young man on the run...",
-	"original_language":"fr",
+	"overview":"A black ops assassin is forced to fight for her own survival after a job goes dangerously wrong.",
+	"original_language":"en",
 	"adult":false,
 	"budget":0,
 	"genres":[
-		"Drama"
+		"Action",
+		"Crime",
+		"Drama",
+		"Thriller"
 	],
+	"keywords":[
+		"assassin",
+		"murder",
+		"violence"
+	],
+	"tmdb_id":"539885",
 	"slug":"ava",
 	"gatsby_image_path":"..\/..\/images\/ava.jpg",
 	"cast":[
-		"Noée Abita",
-		"Juan Cano",
-		"Laure Calamy",
-		"Tamara Cano",
-		"Ismaël Capelot",
-		"Daouda Diakhaté",
-		"Baptiste Archimbaud",
-		"Franck Beckmann",
-		"Valentine Cadic",
-		"Mary Lefèvre"
+		"Jessica Chastain",
+		"John Malkovich",
+		"Colin Farrell",
+		"Common",
+		"Geena Davis",
+		"Jess Weixler",
+		"Joan Chen",
+		"Ioan Gruffudd",
+		"Diana Silvers",
+		"Efka Kvaraciejus"
 	],
 	"crew":[
-		"Jean-Louis Livi",
-		"Yolande Decarsin",
-		"Florencia Di Concilio",
-		"Pierre Deschamps",
-		"Judith Chalier",
-		"François Guignard",
-		"Paul Guilhaume",
-		"Paul Guilhaume",
-		"Léa Mysius",
-		"Léa Mysius"
-	],
-	"related_by_cast":[
-		{
-			"title":"Zootopia",
-			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
-			"slug":"zootopia"
-		},
-		{
-			"title":"Zombieland",
-			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
-			"slug":"zombieland"
-		},
-		{
-			"title":"Zombieland: Double Tap",
-			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
-			"slug":"zombieland-double-tap"
-		},
-		{
-			"title":"Zathura: A Space Adventure",
-			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
-			"slug":"zathura-a-space-adventure"
-		},
-		{
-			"title":"Zack Snyder's Justice League",
-			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
-			"slug":"zack-snyder-s-justice-league"
-		},
-		{
-			"title":"Zack and Miri Make a Porno",
-			"gatsby_image_path":"..\/..\/images\/zack-and-miri-make-a-porno.jpg",
-			"slug":"zack-and-miri-make-a-porno"
-		},
-		{
-			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
-			"gatsby_image_path":"..\/..\/images\/yu-gi-oh-the-dark-side-of-dimensions.jpg",
-			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
-		},
-		{
-			"title":"Your Name",
-			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
-			"slug":"your-name"
-		},
-		{
-			"title":"Young Sister-in-law 3 - 2019",
-			"gatsby_image_path":"..\/..\/images\/young-sister-in-law-3-2019.jpg",
-			"slug":"young-sister-in-law-3-2019"
-		},
-		{
-			"title":"Yes Day",
-			"gatsby_image_path":"..\/..\/images\/yes-day.jpg",
-			"slug":"yes-day"
-		}
-	],
-	"related_most_similar":[
-		{
-			"title":"The Father",
-			"gatsby_image_path":"..\/..\/images\/the-father.jpg",
-			"slug":"the-father"
-		},
-		{
-			"title":"The Intouchables",
-			"gatsby_image_path":"..\/..\/images\/the-intouchables.jpg",
-			"slug":"the-intouchables"
-		},
-		{
-			"title":"The Emperor of Paris",
-			"gatsby_image_path":"..\/..\/images\/the-emperor-of-paris.jpg",
-			"slug":"the-emperor-of-paris"
-		},
-		{
-			"title":"The Bouncer",
-			"gatsby_image_path":"..\/..\/images\/the-bouncer.jpg",
-			"slug":"the-bouncer"
-		},
-		{
-			"title":"Personal Shopper",
-			"gatsby_image_path":"..\/..\/images\/personal-shopper.jpg",
-			"slug":"personal-shopper"
-		},
-		{
-			"title":"The Last Letter From Your Lover",
-			"gatsby_image_path":"..\/..\/images\/the-last-letter-from-your-lover.jpg",
-			"slug":"the-last-letter-from-your-lover"
-		},
-		{
-			"title":"Sex Doll",
-			"gatsby_image_path":"..\/..\/images\/sex-doll.jpg",
-			"slug":"sex-doll"
-		},
-		{
-			"title":"Sentinelle",
-			"gatsby_image_path":"..\/..\/images\/sentinelle.jpg",
-			"slug":"sentinelle"
-		},
-		{
-			"title":"Revenge",
-			"gatsby_image_path":"..\/..\/images\/revenge.jpg",
-			"slug":"revenge"
-		},
-		{
-			"title":"Oxygen",
-			"gatsby_image_path":"..\/..\/images\/oxygen.jpg",
-			"slug":"oxygen"
-		}
-	],
-	"related_by_poster":[
-		{
-			"title":"War Dogs",
-			"gatsby_image_path":"..\/..\/images\/war-dogs.jpg",
-			"slug":"war-dogs"
-		},
-		{
-			"title":"Miracles from Heaven",
-			"gatsby_image_path":"..\/..\/images\/miracles-from-heaven.jpg",
-			"slug":"miracles-from-heaven"
-		},
-		{
-			"title":"Sinbad: Legend of the Seven Seas",
-			"gatsby_image_path":"..\/..\/images\/sinbad-legend-of-the-seven-seas.jpg",
-			"slug":"sinbad-legend-of-the-seven-seas"
-		},
-		{
-			"title":"Cowboys",
-			"gatsby_image_path":"..\/..\/images\/cowboys.jpg",
-			"slug":"cowboys"
-		},
-		{
-			"title":"Kubo and the Two Strings",
-			"gatsby_image_path":"..\/..\/images\/kubo-and-the-two-strings.jpg",
-			"slug":"kubo-and-the-two-strings"
-		},
-		{
-			"title":"Every Day",
-			"gatsby_image_path":"..\/..\/images\/every-day.jpg",
-			"slug":"every-day"
-		},
-		{
-			"title":"Fantasia",
-			"gatsby_image_path":"..\/..\/images\/fantasia.jpg",
-			"slug":"fantasia"
-		},
-		{
-			"title":"Midnight Sun",
-			"gatsby_image_path":"..\/..\/images\/midnight-sun.jpg",
-			"slug":"midnight-sun"
-		},
-		{
-			"title":"The Water Man",
-			"gatsby_image_path":"..\/..\/images\/the-water-man.jpg",
-			"slug":"the-water-man"
-		},
-		{
-			"title":"The Evil Dead",
-			"gatsby_image_path":"..\/..\/images\/the-evil-dead.jpg",
-			"slug":"the-evil-dead"
-		},
-		{
-			"title":"Spirit: Stallion of the Cimarron",
-			"gatsby_image_path":"..\/..\/images\/spirit-stallion-of-the-cimarron.jpg",
-			"slug":"spirit-stallion-of-the-cimarron"
-		},
-		{
-			"title":"The 5th Wave",
-			"gatsby_image_path":"..\/..\/images\/the-5th-wave.jpg",
-			"slug":"the-5th-wave"
-		},
-		{
-			"title":"When Marnie Was There",
-			"gatsby_image_path":"..\/..\/images\/when-marnie-was-there.jpg",
-			"slug":"when-marnie-was-there"
-		},
-		{
-			"title":"Can You Keep a Secret?",
-			"gatsby_image_path":"..\/..\/images\/can-you-keep-a-secret.jpg",
-			"slug":"can-you-keep-a-secret"
-		},
-		{
-			"title":"Sword Art Online: The Movie - Ordinal Scale",
-			"gatsby_image_path":"..\/..\/images\/sword-art-online-the-movie-ordinal-scale.jpg",
-			"slug":"sword-art-online-the-movie-ordinal-scale"
-		},
-		{
-			"title":"Call Me by Your Name",
-			"gatsby_image_path":"..\/..\/images\/call-me-by-your-name.jpg",
-			"slug":"call-me-by-your-name"
-		},
-		{
-			"title":"Gone Girl",
-			"gatsby_image_path":"..\/..\/images\/gone-girl.jpg",
-			"slug":"gone-girl"
-		},
-		{
-			"title":"The Ash Lad: In the Hall of the Mountain King",
-			"gatsby_image_path":"..\/..\/images\/the-ash-lad-in-the-hall-of-the-mountain-king.jpg",
-			"slug":"the-ash-lad-in-the-hall-of-the-mountain-king"
-		},
-		{
-			"title":"Ainbo: Spirit of the Amazon",
-			"gatsby_image_path":"..\/..\/images\/ainbo-spirit-of-the-amazon.jpg",
-			"slug":"ainbo-spirit-of-the-amazon"
-		},
-		{
-			"title":"6 Underground",
-			"gatsby_image_path":"..\/..\/images\/6-underground.jpg",
-			"slug":"6-underground"
-		}
-	],
-	"related_by_overview":[
-		{
-			"title":"Infidelity in Suburbia",
-			"gatsby_image_path":"..\/..\/images\/infidelity-in-suburbia.jpg",
-			"slug":"infidelity-in-suburbia"
-		},
-		{
-			"title":"From Straight A's to XXX",
-			"gatsby_image_path":"..\/..\/images\/from-straight-a-s-to-xxx.jpg",
-			"slug":"from-straight-a-s-to-xxx"
-		},
-		{
-			"title":"War Room",
-			"gatsby_image_path":"..\/..\/images\/war-room.jpg",
-			"slug":"war-room"
-		},
-		{
-			"title":"The Hot Chick",
-			"gatsby_image_path":"..\/..\/images\/the-hot-chick.jpg",
-			"slug":"the-hot-chick"
-		},
-		{
-			"title":"Burn",
-			"gatsby_image_path":"..\/..\/images\/burn.jpg",
-			"slug":"burn"
-		},
-		{
-			"title":"About Time",
-			"gatsby_image_path":"..\/..\/images\/about-time.jpg",
-			"slug":"about-time"
-		},
-		{
-			"title":"I Spit on Your Grave",
-			"gatsby_image_path":"..\/..\/images\/i-spit-on-your-grave.jpg",
-			"slug":"i-spit-on-your-grave"
-		},
-		{
-			"title":"Tall Girl",
-			"gatsby_image_path":"..\/..\/images\/tall-girl.jpg",
-			"slug":"tall-girl"
-		},
-		{
-			"title":"Get Out",
-			"gatsby_image_path":"..\/..\/images\/get-out.jpg",
-			"slug":"get-out"
-		},
-		{
-			"title":"Big Time Adolescence",
-			"gatsby_image_path":"..\/..\/images\/big-time-adolescence.jpg",
-			"slug":"big-time-adolescence"
-		},
-		{
-			"title":"Toys of Terror",
-			"gatsby_image_path":"..\/..\/images\/toys-of-terror.jpg",
-			"slug":"toys-of-terror"
-		},
-		{
-			"title":"Me Before You",
-			"gatsby_image_path":"..\/..\/images\/me-before-you.jpg",
-			"slug":"me-before-you"
-		},
-		{
-			"title":"Even in Dreams",
-			"gatsby_image_path":"..\/..\/images\/even-in-dreams.jpg",
-			"slug":"even-in-dreams"
-		},
-		{
-			"title":"Love & Other Drugs",
-			"gatsby_image_path":"..\/..\/images\/love-other-drugs.jpg",
-			"slug":"love-other-drugs"
-		},
-		{
-			"title":"The Next Three Days",
-			"gatsby_image_path":"..\/..\/images\/the-next-three-days.jpg",
-			"slug":"the-next-three-days"
-		},
-		{
-			"title":"Open 24 Hours",
-			"gatsby_image_path":"..\/..\/images\/open-24-hours.jpg",
-			"slug":"open-24-hours"
-		},
-		{
-			"title":"The Upside",
-			"gatsby_image_path":"..\/..\/images\/the-upside.jpg",
-			"slug":"the-upside"
-		},
-		{
-			"title":"A Walk to Remember",
-			"gatsby_image_path":"..\/..\/images\/a-walk-to-remember.jpg",
-			"slug":"a-walk-to-remember"
-		},
-		{
-			"title":"Can You Keep a Secret?",
-			"gatsby_image_path":"..\/..\/images\/can-you-keep-a-secret.jpg",
-			"slug":"can-you-keep-a-secret"
-		},
-		{
-			"title":"This Little Love of Mine",
-			"gatsby_image_path":"..\/..\/images\/this-little-love-of-mine.jpg",
-			"slug":"this-little-love-of-mine"
-		}
-	],
-	"tmdb_id":453354,
-	"keywords":[
-		"beach",
-		"parent child relationship",
-		"teenage girl",
-		"summer",
-		"summer vacation",
-		"dog",
-		"blindness",
-		"woman director"
+		"Zach Staenberg",
+		"Stephen Goldblatt",
+		"Leslie E. Rollins",
+		"Molly Hughes",
+		"Greg P. Russell",
+		"Linda Cohen",
+		"Brenda McNally",
+		"Nancy Kirhoffer",
+		"Vikram Kale",
+		"Trish Seeney"
 	]
 }
