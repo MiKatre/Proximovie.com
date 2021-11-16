@@ -39,9 +39,19 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Dinosaur Hotel",
+			"gatsby_image_path":"..\/..\/images\/dinosaur-hotel.jpg",
+			"slug":"dinosaur-hotel"
+		},
+		{
 			"title":"Zootopia",
 			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
 			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
 		},
 		{
 			"title":"Zombieland",
@@ -74,7 +84,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name",
+			"title":"Your Name.",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -84,9 +94,49 @@
 			"slug":"young-sister-in-law-3-2019"
 		},
 		{
+			"title":"Young and Wild",
+			"gatsby_image_path":"..\/..\/images\/young-and-wild.jpg",
+			"slug":"young-and-wild"
+		},
+		{
+			"title":"Yes, No, or Maybe Half?",
+			"gatsby_image_path":"..\/..\/images\/yes-no-or-maybe-half.jpg",
+			"slug":"yes-no-or-maybe-half"
+		},
+		{
+			"title":"Yes Man",
+			"gatsby_image_path":"..\/..\/images\/yes-man.jpg",
+			"slug":"yes-man"
+		},
+		{
 			"title":"Yes Day",
 			"gatsby_image_path":"..\/..\/images\/yes-day.jpg",
 			"slug":"yes-day"
+		},
+		{
+			"title":"Year One",
+			"gatsby_image_path":"..\/..\/images\/year-one.jpg",
+			"slug":"year-one"
+		},
+		{
+			"title":"Yara",
+			"gatsby_image_path":"..\/..\/images\/yara.jpg",
+			"slug":"yara"
+		},
+		{
+			"title":"xXx: Return of Xander Cage",
+			"gatsby_image_path":"..\/..\/images\/xxx-return-of-xander-cage.jpg",
+			"slug":"xxx-return-of-xander-cage"
+		},
+		{
+			"title":"Xtreme",
+			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
+			"slug":"xtreme"
+		},
+		{
+			"title":"X-Men: Days of Future Past",
+			"gatsby_image_path":"..\/..\/images\/x-men-days-of-future-past.jpg",
+			"slug":"x-men-days-of-future-past"
 		}
 	],
 	"related_most_similar":[
@@ -250,6 +300,11 @@
 			"slug":"prometheus"
 		},
 		{
+			"title":"The Green Inferno",
+			"gatsby_image_path":"..\/..\/images\/the-green-inferno.jpg",
+			"slug":"the-green-inferno"
+		},
+		{
 			"title":"The Abyss",
 			"gatsby_image_path":"..\/..\/images\/the-abyss.jpg",
 			"slug":"the-abyss"
@@ -258,11 +313,6 @@
 			"title":"Zathura: A Space Adventure",
 			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
 			"slug":"zathura-a-space-adventure"
-		},
-		{
-			"title":"Death Note",
-			"gatsby_image_path":"..\/..\/images\/death-note.jpg",
-			"slug":"death-note"
 		},
 		{
 			"title":"In Time",
@@ -285,14 +335,9 @@
 			"slug":"slender-man"
 		},
 		{
-			"title":"Monster Hunter",
-			"gatsby_image_path":"..\/..\/images\/monster-hunter.jpg",
-			"slug":"monster-hunter"
-		},
-		{
-			"title":"Artemis Fowl",
-			"gatsby_image_path":"..\/..\/images\/artemis-fowl.jpg",
-			"slug":"artemis-fowl"
+			"title":"Project Almanac",
+			"gatsby_image_path":"..\/..\/images\/project-almanac.jpg",
+			"slug":"project-almanac"
 		},
 		{
 			"title":"Man of Steel",
@@ -300,9 +345,29 @@
 			"slug":"man-of-steel"
 		},
 		{
+			"title":"AVP: Alien vs. Predator",
+			"gatsby_image_path":"..\/..\/images\/avp-alien-vs.-predator.jpg",
+			"slug":"avp-alien-vs.-predator"
+		},
+		{
+			"title":"Artemis Fowl",
+			"gatsby_image_path":"..\/..\/images\/artemis-fowl.jpg",
+			"slug":"artemis-fowl"
+		},
+		{
+			"title":"Monster Hunter",
+			"gatsby_image_path":"..\/..\/images\/monster-hunter.jpg",
+			"slug":"monster-hunter"
+		},
+		{
 			"title":"The Last Man",
 			"gatsby_image_path":"..\/..\/images\/the-last-man.jpg",
 			"slug":"the-last-man"
+		},
+		{
+			"title":"Assassin 33 A.D.",
+			"gatsby_image_path":"..\/..\/images\/assassin-33-a.d..jpg",
+			"slug":"assassin-33-a.d."
 		},
 		{
 			"title":"9",
@@ -310,14 +375,14 @@
 			"slug":"9"
 		},
 		{
-			"title":"Ghost in the Shell",
-			"gatsby_image_path":"..\/..\/images\/ghost-in-the-shell.jpg",
-			"slug":"ghost-in-the-shell"
+			"title":"Son of the Mask",
+			"gatsby_image_path":"..\/..\/images\/son-of-the-mask.jpg",
+			"slug":"son-of-the-mask"
 		},
 		{
-			"title":"Assassin 33 A.D.",
-			"gatsby_image_path":"..\/..\/images\/assassin-33-a.d..jpg",
-			"slug":"assassin-33-a.d."
+			"title":"Phantom",
+			"gatsby_image_path":"..\/..\/images\/phantom.jpg",
+			"slug":"phantom"
 		},
 		{
 			"title":"Meet the Robinsons",
@@ -328,21 +393,6 @@
 			"title":"Dragon Ball Z: Broly – Second Coming",
 			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-broly-second-coming.jpg",
 			"slug":"dragon-ball-z-broly-second-coming"
-		},
-		{
-			"title":"War for the Planet of the Apes",
-			"gatsby_image_path":"..\/..\/images\/war-for-the-planet-of-the-apes.jpg",
-			"slug":"war-for-the-planet-of-the-apes"
-		},
-		{
-			"title":"Quest for Camelot",
-			"gatsby_image_path":"..\/..\/images\/quest-for-camelot.jpg",
-			"slug":"quest-for-camelot"
-		},
-		{
-			"title":"Eternals",
-			"gatsby_image_path":"..\/..\/images\/eternals.jpg",
-			"slug":"eternals"
 		}
 	],
 	"tmdb_id":791910,

@@ -65,5 +65,209 @@
 		"Arthur Max",
 		"Matt Damon",
 		"Matt Damon"
+	],
+	"related_by_cast":[
+		{
+			"title":"Good Will Hunting",
+			"gatsby_image_path":"..\/..\/images\/good-will-hunting.jpg",
+			"slug":"good-will-hunting"
+		},
+		{
+			"title":"Zack Snyder's Justice League",
+			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
+			"slug":"zack-snyder-s-justice-league"
+		},
+		{
+			"title":"Triple Frontier",
+			"gatsby_image_path":"..\/..\/images\/triple-frontier.jpg",
+			"slug":"triple-frontier"
+		},
+		{
+			"title":"The Town",
+			"gatsby_image_path":"..\/..\/images\/the-town.jpg",
+			"slug":"the-town"
+		},
+		{
+			"title":"The Monuments Men",
+			"gatsby_image_path":"..\/..\/images\/the-monuments-men.jpg",
+			"slug":"the-monuments-men"
+		},
+		{
+			"title":"The Martian",
+			"gatsby_image_path":"..\/..\/images\/the-martian.jpg",
+			"slug":"the-martian"
+		},
+		{
+			"title":"The Last Thing He Wanted",
+			"gatsby_image_path":"..\/..\/images\/the-last-thing-he-wanted.jpg",
+			"slug":"the-last-thing-he-wanted"
+		},
+		{
+			"title":"The Great Wall",
+			"gatsby_image_path":"..\/..\/images\/the-great-wall.jpg",
+			"slug":"the-great-wall"
+		},
+		{
+			"title":"The Flash",
+			"gatsby_image_path":"..\/..\/images\/the-flash.jpg",
+			"slug":"the-flash"
+		},
+		{
+			"title":"The Equalizer",
+			"gatsby_image_path":"..\/..\/images\/the-equalizer.jpg",
+			"slug":"the-equalizer"
+		},
+		{
+			"title":"The Commuter",
+			"gatsby_image_path":"..\/..\/images\/the-commuter.jpg",
+			"slug":"the-commuter"
+		},
+		{
+			"title":"The Accountant",
+			"gatsby_image_path":"..\/..\/images\/the-accountant.jpg",
+			"slug":"the-accountant"
+		},
+		{
+			"title":"Stillwater",
+			"gatsby_image_path":"..\/..\/images\/stillwater.jpg",
+			"slug":"stillwater"
+		},
+		{
+			"title":"State of Play",
+			"gatsby_image_path":"..\/..\/images\/state-of-play.jpg",
+			"slug":"state-of-play"
+		},
+		{
+			"title":"Star Wars: The Rise of Skywalker",
+			"gatsby_image_path":"..\/..\/images\/star-wars-the-rise-of-skywalker.jpg",
+			"slug":"star-wars-the-rise-of-skywalker"
+		},
+		{
+			"title":"Star Wars: The Last Jedi",
+			"gatsby_image_path":"..\/..\/images\/star-wars-the-last-jedi.jpg",
+			"slug":"star-wars-the-last-jedi"
+		},
+		{
+			"title":"Star Wars: The Force Awakens",
+			"gatsby_image_path":"..\/..\/images\/star-wars-the-force-awakens.jpg",
+			"slug":"star-wars-the-force-awakens"
+		},
+		{
+			"title":"Spirit: Stallion of the Cimarron",
+			"gatsby_image_path":"..\/..\/images\/spirit-stallion-of-the-cimarron.jpg",
+			"slug":"spirit-stallion-of-the-cimarron"
+		},
+		{
+			"title":"Silence",
+			"gatsby_image_path":"..\/..\/images\/silence.jpg",
+			"slug":"silence"
+		},
+		{
+			"title":"Saving Private Ryan",
+			"gatsby_image_path":"..\/..\/images\/saving-private-ryan.jpg",
+			"slug":"saving-private-ryan"
+		}
+	],
+	"related_by_overview":[
+		{
+			"title":"Silence",
+			"gatsby_image_path":"..\/..\/images\/silence.jpg",
+			"slug":"silence"
+		},
+		{
+			"title":"Overboard",
+			"gatsby_image_path":"..\/..\/images\/overboard.jpg",
+			"slug":"overboard"
+		},
+		{
+			"title":"UFO",
+			"gatsby_image_path":"..\/..\/images\/ufo.jpg",
+			"slug":"ufo"
+		},
+		{
+			"title":"Monte Carlo",
+			"gatsby_image_path":"..\/..\/images\/monte-carlo.jpg",
+			"slug":"monte-carlo"
+		},
+		{
+			"title":"Children of the Corn",
+			"gatsby_image_path":"..\/..\/images\/children-of-the-corn.jpg",
+			"slug":"children-of-the-corn"
+		},
+		{
+			"title":"Pocahontas",
+			"gatsby_image_path":"..\/..\/images\/pocahontas.jpg",
+			"slug":"pocahontas"
+		},
+		{
+			"title":"Avengement",
+			"gatsby_image_path":"..\/..\/images\/avengement.jpg",
+			"slug":"avengement"
+		},
+		{
+			"title":"Edward Scissorhands",
+			"gatsby_image_path":"..\/..\/images\/edward-scissorhands.jpg",
+			"slug":"edward-scissorhands"
+		},
+		{
+			"title":"The Quake",
+			"gatsby_image_path":"..\/..\/images\/the-quake.jpg",
+			"slug":"the-quake"
+		},
+		{
+			"title":"Mariposa",
+			"gatsby_image_path":"..\/..\/images\/mariposa.jpg",
+			"slug":"mariposa"
+		},
+		{
+			"title":"Welcome to the Jungle",
+			"gatsby_image_path":"..\/..\/images\/welcome-to-the-jungle.jpg",
+			"slug":"welcome-to-the-jungle"
+		},
+		{
+			"title":"Los Perros",
+			"gatsby_image_path":"..\/..\/images\/los-perros.jpg",
+			"slug":"los-perros"
+		},
+		{
+			"title":"Operación Camarón",
+			"gatsby_image_path":"..\/..\/images\/operación-camarón.jpg",
+			"slug":"operación-camarón"
+		},
+		{
+			"title":"Swan Song",
+			"gatsby_image_path":"..\/..\/images\/swan-song.jpg",
+			"slug":"swan-song"
+		},
+		{
+			"title":"The King",
+			"gatsby_image_path":"..\/..\/images\/the-king.jpg",
+			"slug":"the-king"
+		},
+		{
+			"title":"One Piece Film: GOLD",
+			"gatsby_image_path":"..\/..\/images\/one-piece-film-gold.jpg",
+			"slug":"one-piece-film-gold"
+		},
+		{
+			"title":"Friday the 13th",
+			"gatsby_image_path":"..\/..\/images\/friday-the-13th.jpg",
+			"slug":"friday-the-13th"
+		},
+		{
+			"title":"Dragon Fury",
+			"gatsby_image_path":"..\/..\/images\/dragon-fury.jpg",
+			"slug":"dragon-fury"
+		},
+		{
+			"title":"Dinosaur",
+			"gatsby_image_path":"..\/..\/images\/dinosaur.jpg",
+			"slug":"dinosaur"
+		},
+		{
+			"title":"Killing Season",
+			"gatsby_image_path":"..\/..\/images\/killing-season.jpg",
+			"slug":"killing-season"
+		}
 	]
 }

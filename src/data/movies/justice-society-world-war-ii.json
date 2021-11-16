@@ -58,6 +58,11 @@
 			"slug":"this-little-love-of-mine"
 		},
 		{
+			"title":"The Three Stooges",
+			"gatsby_image_path":"..\/..\/images\/the-three-stooges.jpg",
+			"slug":"the-three-stooges"
+		},
+		{
 			"title":"The Texas Chainsaw Massacre: The Beginning",
 			"gatsby_image_path":"..\/..\/images\/the-texas-chainsaw-massacre-the-beginning.jpg",
 			"slug":"the-texas-chainsaw-massacre-the-beginning"
@@ -66,6 +71,11 @@
 			"title":"The Magnificent Seven",
 			"gatsby_image_path":"..\/..\/images\/the-magnificent-seven.jpg",
 			"slug":"the-magnificent-seven"
+		},
+		{
+			"title":"The Double",
+			"gatsby_image_path":"..\/..\/images\/the-double.jpg",
+			"slug":"the-double"
 		},
 		{
 			"title":"Superman: Man of Tomorrow",
@@ -78,9 +88,9 @@
 			"slug":"suicide-squad-hell-to-pay"
 		},
 		{
-			"title":"Security",
-			"gatsby_image_path":"..\/..\/images\/security.jpg",
-			"slug":"security"
+			"title":"Stan Helsing",
+			"gatsby_image_path":"..\/..\/images\/stan-helsing.jpg",
+			"slug":"stan-helsing"
 		},
 		{
 			"title":"Resident Evil: Vendetta",
@@ -93,14 +103,54 @@
 			"slug":"resident-evil-damnation"
 		},
 		{
+			"title":"Red Notice",
+			"gatsby_image_path":"..\/..\/images\/red-notice.jpg",
+			"slug":"red-notice"
+		},
+		{
+			"title":"Mortal Kombat Legends: Battle of the Realms",
+			"gatsby_image_path":"..\/..\/images\/mortal-kombat-legends-battle-of-the-realms.jpg",
+			"slug":"mortal-kombat-legends-battle-of-the-realms"
+		},
+		{
 			"title":"In Time",
 			"gatsby_image_path":"..\/..\/images\/in-time.jpg",
 			"slug":"in-time"
 		},
 		{
+			"title":"Empire State",
+			"gatsby_image_path":"..\/..\/images\/empire-state.jpg",
+			"slug":"empire-state"
+		},
+		{
+			"title":"(500) Days of Summer",
+			"gatsby_image_path":"..\/..\/images\/500-days-of-summer.jpg",
+			"slug":"500-days-of-summer"
+		},
+		{
 			"title":"Zootopia",
 			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
 			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
+			"title":"Zombieland: Double Tap",
+			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
+			"slug":"zombieland-double-tap"
+		},
+		{
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
 		}
 	],
 	"related_most_similar":[
@@ -269,6 +319,11 @@
 			"slug":"x-men-apocalypse"
 		},
 		{
+			"title":"Avengers Confidential: Black Widow & Punisher",
+			"gatsby_image_path":"..\/..\/images\/avengers-confidential-black-widow-punisher.jpg",
+			"slug":"avengers-confidential-black-widow-punisher"
+		},
+		{
 			"title":"Batman: The Long Halloween, Part One",
 			"gatsby_image_path":"..\/..\/images\/batman-the-long-halloween-part-one.jpg",
 			"slug":"batman-the-long-halloween-part-one"
@@ -289,6 +344,11 @@
 			"slug":"kingsman-the-golden-circle"
 		},
 		{
+			"title":"The Incredible Hulk",
+			"gatsby_image_path":"..\/..\/images\/the-incredible-hulk.jpg",
+			"slug":"the-incredible-hulk"
+		},
+		{
 			"title":"Batman: Under the Red Hood",
 			"gatsby_image_path":"..\/..\/images\/batman-under-the-red-hood.jpg",
 			"slug":"batman-under-the-red-hood"
@@ -297,11 +357,6 @@
 			"title":"Batman v Superman: Dawn of Justice",
 			"gatsby_image_path":"..\/..\/images\/batman-v-superman-dawn-of-justice.jpg",
 			"slug":"batman-v-superman-dawn-of-justice"
-		},
-		{
-			"title":"The Incredible Hulk",
-			"gatsby_image_path":"..\/..\/images\/the-incredible-hulk.jpg",
-			"slug":"the-incredible-hulk"
 		},
 		{
 			"title":"Iron Man",
@@ -319,6 +374,11 @@
 			"slug":"superman-man-of-tomorrow"
 		},
 		{
+			"title":"Thor: Ragnarok",
+			"gatsby_image_path":"..\/..\/images\/thor-ragnarok.jpg",
+			"slug":"thor-ragnarok"
+		},
+		{
 			"title":"Zack Snyder's Justice League",
 			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
 			"slug":"zack-snyder-s-justice-league"
@@ -327,11 +387,6 @@
 			"title":"Joker",
 			"gatsby_image_path":"..\/..\/images\/joker.jpg",
 			"slug":"joker"
-		},
-		{
-			"title":"Thor: Ragnarok",
-			"gatsby_image_path":"..\/..\/images\/thor-ragnarok.jpg",
-			"slug":"thor-ragnarok"
 		},
 		{
 			"title":"Captain Marvel",
@@ -352,11 +407,6 @@
 			"title":"Steven Universe: The Movie",
 			"gatsby_image_path":"..\/..\/images\/steven-universe-the-movie.jpg",
 			"slug":"steven-universe-the-movie"
-		},
-		{
-			"title":"The New Mutants",
-			"gatsby_image_path":"..\/..\/images\/the-new-mutants.jpg",
-			"slug":"the-new-mutants"
 		}
 	],
 	"tmdb_id":736069,

@@ -63,6 +63,11 @@
 			"slug":"ant-man-and-the-wasp"
 		},
 		{
+			"title":"Tower Heist",
+			"gatsby_image_path":"..\/..\/images\/tower-heist.jpg",
+			"slug":"tower-heist"
+		},
+		{
 			"title":"Thunder Force",
 			"gatsby_image_path":"..\/..\/images\/thunder-force.jpg",
 			"slug":"thunder-force"
@@ -101,6 +106,51 @@
 			"title":"The Equalizer",
 			"gatsby_image_path":"..\/..\/images\/the-equalizer.jpg",
 			"slug":"the-equalizer"
+		},
+		{
+			"title":"The Amityville Horror",
+			"gatsby_image_path":"..\/..\/images\/the-amityville-horror.jpg",
+			"slug":"the-amityville-horror"
+		},
+		{
+			"title":"The Addams Family",
+			"gatsby_image_path":"..\/..\/images\/the-addams-family.jpg",
+			"slug":"the-addams-family"
+		},
+		{
+			"title":"The Addams Family 2",
+			"gatsby_image_path":"..\/..\/images\/the-addams-family-2.jpg",
+			"slug":"the-addams-family-2"
+		},
+		{
+			"title":"The 5th Wave",
+			"gatsby_image_path":"..\/..\/images\/the-5th-wave.jpg",
+			"slug":"the-5th-wave"
+		},
+		{
+			"title":"Suspiria",
+			"gatsby_image_path":"..\/..\/images\/suspiria.jpg",
+			"slug":"suspiria"
+		},
+		{
+			"title":"Spy",
+			"gatsby_image_path":"..\/..\/images\/spy.jpg",
+			"slug":"spy"
+		},
+		{
+			"title":"Sing 2",
+			"gatsby_image_path":"..\/..\/images\/sing-2.jpg",
+			"slug":"sing-2"
+		},
+		{
+			"title":"Shooter",
+			"gatsby_image_path":"..\/..\/images\/shooter.jpg",
+			"slug":"shooter"
+		},
+		{
+			"title":"Shadow in the Cloud",
+			"gatsby_image_path":"..\/..\/images\/shadow-in-the-cloud.jpg",
+			"slug":"shadow-in-the-cloud"
 		}
 	],
 	"related_most_similar":[
@@ -259,19 +309,34 @@
 	],
 	"related_by_overview":[
 		{
+			"title":"Under Wraps",
+			"gatsby_image_path":"..\/..\/images\/under-wraps.jpg",
+			"slug":"under-wraps"
+		},
+		{
 			"title":"A Cinderella Story: Christmas Wish",
 			"gatsby_image_path":"..\/..\/images\/a-cinderella-story-christmas-wish.jpg",
 			"slug":"a-cinderella-story-christmas-wish"
 		},
 		{
-			"title":"Escape Room",
-			"gatsby_image_path":"..\/..\/images\/escape-room.jpg",
-			"slug":"escape-room"
+			"title":"Tooth Fairy",
+			"gatsby_image_path":"..\/..\/images\/tooth-fairy.jpg",
+			"slug":"tooth-fairy"
 		},
 		{
 			"title":"The Nightmare Before Christmas",
 			"gatsby_image_path":"..\/..\/images\/the-nightmare-before-christmas.jpg",
 			"slug":"the-nightmare-before-christmas"
+		},
+		{
+			"title":"Bedtime Stories",
+			"gatsby_image_path":"..\/..\/images\/bedtime-stories.jpg",
+			"slug":"bedtime-stories"
+		},
+		{
+			"title":"Mr. Popper's Penguins",
+			"gatsby_image_path":"..\/..\/images\/mr.-popper-s-penguins.jpg",
+			"slug":"mr.-popper-s-penguins"
 		},
 		{
 			"title":"Bride of Chucky",
@@ -284,9 +349,24 @@
 			"slug":"good-on-paper"
 		},
 		{
+			"title":"Stan Helsing",
+			"gatsby_image_path":"..\/..\/images\/stan-helsing.jpg",
+			"slug":"stan-helsing"
+		},
+		{
+			"title":"The Ritual",
+			"gatsby_image_path":"..\/..\/images\/the-ritual.jpg",
+			"slug":"the-ritual"
+		},
+		{
 			"title":"The Boy in the Striped Pyjamas",
 			"gatsby_image_path":"..\/..\/images\/the-boy-in-the-striped-pyjamas.jpg",
 			"slug":"the-boy-in-the-striped-pyjamas"
+		},
+		{
+			"title":"Blue Miracle",
+			"gatsby_image_path":"..\/..\/images\/blue-miracle.jpg",
+			"slug":"blue-miracle"
 		},
 		{
 			"title":"Harry Potter and the Chamber of Secrets",
@@ -309,34 +389,14 @@
 			"slug":"hacker"
 		},
 		{
-			"title":"Blue Miracle",
-			"gatsby_image_path":"..\/..\/images\/blue-miracle.jpg",
-			"slug":"blue-miracle"
-		},
-		{
-			"title":"Friday the 13th: The Final Chapter",
-			"gatsby_image_path":"..\/..\/images\/friday-the-13th-the-final-chapter.jpg",
-			"slug":"friday-the-13th-the-final-chapter"
-		},
-		{
 			"title":"Harry Potter and the Deathly Hallows: Part 1",
 			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-deathly-hallows-part-1.jpg",
 			"slug":"harry-potter-and-the-deathly-hallows-part-1"
 		},
 		{
-			"title":"Despicable Me",
-			"gatsby_image_path":"..\/..\/images\/despicable-me.jpg",
-			"slug":"despicable-me"
-		},
-		{
-			"title":"The Lion King II: Simba's Pride",
-			"gatsby_image_path":"..\/..\/images\/the-lion-king-ii-simba-s-pride.jpg",
-			"slug":"the-lion-king-ii-simba-s-pride"
-		},
-		{
-			"title":"Ghostbusters",
-			"gatsby_image_path":"..\/..\/images\/ghostbusters.jpg",
-			"slug":"ghostbusters"
+			"title":"The Wailer",
+			"gatsby_image_path":"..\/..\/images\/the-wailer.jpg",
+			"slug":"the-wailer"
 		},
 		{
 			"title":"Lying and Stealing",
@@ -344,19 +404,9 @@
 			"slug":"lying-and-stealing"
 		},
 		{
-			"title":"Barbie and the Three Musketeers",
-			"gatsby_image_path":"..\/..\/images\/barbie-and-the-three-musketeers.jpg",
-			"slug":"barbie-and-the-three-musketeers"
-		},
-		{
-			"title":"The Autopsy of Jane Doe",
-			"gatsby_image_path":"..\/..\/images\/the-autopsy-of-jane-doe.jpg",
-			"slug":"the-autopsy-of-jane-doe"
-		},
-		{
-			"title":"The Shawshank Redemption",
-			"gatsby_image_path":"..\/..\/images\/the-shawshank-redemption.jpg",
-			"slug":"the-shawshank-redemption"
+			"title":"Despicable Me",
+			"gatsby_image_path":"..\/..\/images\/despicable-me.jpg",
+			"slug":"despicable-me"
 		}
 	],
 	"tmdb_id":587807,

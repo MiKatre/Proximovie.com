@@ -69,6 +69,11 @@
 			"slug":"vanquish"
 		},
 		{
+			"title":"Unthinkable",
+			"gatsby_image_path":"..\/..\/images\/unthinkable.jpg",
+			"slug":"unthinkable"
+		},
+		{
 			"title":"Unbroken: Path to Redemption",
 			"gatsby_image_path":"..\/..\/images\/unbroken-path-to-redemption.jpg",
 			"slug":"unbroken-path-to-redemption"
@@ -97,6 +102,51 @@
 			"title":"The SpongeBob Movie: Sponge on the Run",
 			"gatsby_image_path":"..\/..\/images\/the-spongebob-movie-sponge-on-the-run.jpg",
 			"slug":"the-spongebob-movie-sponge-on-the-run"
+		},
+		{
+			"title":"The Mortuary Collection",
+			"gatsby_image_path":"..\/..\/images\/the-mortuary-collection.jpg",
+			"slug":"the-mortuary-collection"
+		},
+		{
+			"title":"The Highwaymen",
+			"gatsby_image_path":"..\/..\/images\/the-highwaymen.jpg",
+			"slug":"the-highwaymen"
+		},
+		{
+			"title":"The Dark Knight Rises",
+			"gatsby_image_path":"..\/..\/images\/the-dark-knight-rises.jpg",
+			"slug":"the-dark-knight-rises"
+		},
+		{
+			"title":"The Dark Knight",
+			"gatsby_image_path":"..\/..\/images\/the-dark-knight.jpg",
+			"slug":"the-dark-knight"
+		},
+		{
+			"title":"The Comeback Trail",
+			"gatsby_image_path":"..\/..\/images\/the-comeback-trail.jpg",
+			"slug":"the-comeback-trail"
+		},
+		{
+			"title":"Ted 2",
+			"gatsby_image_path":"..\/..\/images\/ted-2.jpg",
+			"slug":"ted-2"
+		},
+		{
+			"title":"Se7en",
+			"gatsby_image_path":"..\/..\/images\/se7en.jpg",
+			"slug":"se7en"
+		},
+		{
+			"title":"Scary Stories to Tell in the Dark",
+			"gatsby_image_path":"..\/..\/images\/scary-stories-to-tell-in-the-dark.jpg",
+			"slug":"scary-stories-to-tell-in-the-dark"
+		},
+		{
+			"title":"Saw V",
+			"gatsby_image_path":"..\/..\/images\/saw-v.jpg",
+			"slug":"saw-v"
 		}
 	],
 	"related_most_similar":[
@@ -260,11 +310,6 @@
 			"slug":"friday-the-13th-the-final-chapter"
 		},
 		{
-			"title":"Flashback",
-			"gatsby_image_path":"..\/..\/images\/flashback.jpg",
-			"slug":"flashback"
-		},
-		{
 			"title":"Bordello of Blood",
 			"gatsby_image_path":"..\/..\/images\/bordello-of-blood.jpg",
 			"slug":"bordello-of-blood"
@@ -275,19 +320,29 @@
 			"slug":"palmer"
 		},
 		{
-			"title":"Knives Out",
-			"gatsby_image_path":"..\/..\/images\/knives-out.jpg",
-			"slug":"knives-out"
-		},
-		{
 			"title":"Undisputed III: Redemption",
 			"gatsby_image_path":"..\/..\/images\/undisputed-iii-redemption.jpg",
 			"slug":"undisputed-iii-redemption"
 		},
 		{
+			"title":"Dark Shadows",
+			"gatsby_image_path":"..\/..\/images\/dark-shadows.jpg",
+			"slug":"dark-shadows"
+		},
+		{
+			"title":"Knives Out",
+			"gatsby_image_path":"..\/..\/images\/knives-out.jpg",
+			"slug":"knives-out"
+		},
+		{
 			"title":"First Blood",
 			"gatsby_image_path":"..\/..\/images\/first-blood.jpg",
 			"slug":"first-blood"
+		},
+		{
+			"title":"Candyman",
+			"gatsby_image_path":"..\/..\/images\/candyman.jpg",
+			"slug":"candyman"
 		},
 		{
 			"title":"The Call of the Wild",
@@ -300,9 +355,9 @@
 			"slug":"a-christmas-carol"
 		},
 		{
-			"title":"The Drug King",
-			"gatsby_image_path":"..\/..\/images\/the-drug-king.jpg",
-			"slug":"the-drug-king"
+			"title":"Tooth Fairy",
+			"gatsby_image_path":"..\/..\/images\/tooth-fairy.jpg",
+			"slug":"tooth-fairy"
 		},
 		{
 			"title":"The Hills Have Eyes",
@@ -310,14 +365,19 @@
 			"slug":"the-hills-have-eyes"
 		},
 		{
+			"title":"The Drug King",
+			"gatsby_image_path":"..\/..\/images\/the-drug-king.jpg",
+			"slug":"the-drug-king"
+		},
+		{
+			"title":"Hole in One",
+			"gatsby_image_path":"..\/..\/images\/hole-in-one.jpg",
+			"slug":"hole-in-one"
+		},
+		{
 			"title":"Once Upon a Time… in Hollywood",
 			"gatsby_image_path":"..\/..\/images\/once-upon-a-time-in-hollywood.jpg",
 			"slug":"once-upon-a-time-in-hollywood"
-		},
-		{
-			"title":"The Autopsy of Jane Doe",
-			"gatsby_image_path":"..\/..\/images\/the-autopsy-of-jane-doe.jpg",
-			"slug":"the-autopsy-of-jane-doe"
 		},
 		{
 			"title":"Saw 3D",
@@ -330,29 +390,19 @@
 			"slug":"captive-state"
 		},
 		{
-			"title":"The Misfits",
-			"gatsby_image_path":"..\/..\/images\/the-misfits.jpg",
-			"slug":"the-misfits"
-		},
-		{
-			"title":"The Exorcist",
-			"gatsby_image_path":"..\/..\/images\/the-exorcist.jpg",
-			"slug":"the-exorcist"
-		},
-		{
-			"title":"Inglourious Basterds",
-			"gatsby_image_path":"..\/..\/images\/inglourious-basterds.jpg",
-			"slug":"inglourious-basterds"
-		},
-		{
-			"title":"Crisis",
-			"gatsby_image_path":"..\/..\/images\/crisis.jpg",
-			"slug":"crisis"
+			"title":"Tears of the Sun",
+			"gatsby_image_path":"..\/..\/images\/tears-of-the-sun.jpg",
+			"slug":"tears-of-the-sun"
 		},
 		{
 			"title":"Reaptown",
 			"gatsby_image_path":"..\/..\/images\/reaptown.jpg",
 			"slug":"reaptown"
+		},
+		{
+			"title":"Hancock",
+			"gatsby_image_path":"..\/..\/images\/hancock.jpg",
+			"slug":"hancock"
 		}
 	],
 	"tmdb_id":278,

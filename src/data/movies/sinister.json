@@ -60,6 +60,11 @@
 			"slug":"the-magnificent-seven"
 		},
 		{
+			"title":"The Black Phone",
+			"gatsby_image_path":"..\/..\/images\/the-black-phone.jpg",
+			"slug":"the-black-phone"
+		},
+		{
 			"title":"Valerian and the City of a Thousand Planets",
 			"gatsby_image_path":"..\/..\/images\/valerian-and-the-city-of-a-thousand-planets.jpg",
 			"slug":"valerian-and-the-city-of-a-thousand-planets"
@@ -70,9 +75,19 @@
 			"slug":"the-purge"
 		},
 		{
+			"title":"The Guilty",
+			"gatsby_image_path":"..\/..\/images\/the-guilty.jpg",
+			"slug":"the-guilty"
+		},
+		{
 			"title":"Rings",
 			"gatsby_image_path":"..\/..\/images\/rings.jpg",
 			"slug":"rings"
+		},
+		{
+			"title":"Predestination",
+			"gatsby_image_path":"..\/..\/images\/predestination.jpg",
+			"slug":"predestination"
 		},
 		{
 			"title":"Men in Black",
@@ -100,9 +115,44 @@
 			"slug":"escape-plan"
 		},
 		{
+			"title":"Empire State",
+			"gatsby_image_path":"..\/..\/images\/empire-state.jpg",
+			"slug":"empire-state"
+		},
+		{
 			"title":"Death Wish",
 			"gatsby_image_path":"..\/..\/images\/death-wish.jpg",
 			"slug":"death-wish"
+		},
+		{
+			"title":"Captive State",
+			"gatsby_image_path":"..\/..\/images\/captive-state.jpg",
+			"slug":"captive-state"
+		},
+		{
+			"title":"Birds of Paradise",
+			"gatsby_image_path":"..\/..\/images\/birds-of-paradise.jpg",
+			"slug":"birds-of-paradise"
+		},
+		{
+			"title":"A Dog's Purpose",
+			"gatsby_image_path":"..\/..\/images\/a-dog-s-purpose.jpg",
+			"slug":"a-dog-s-purpose"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
 		}
 	],
 	"related_most_similar":[
@@ -266,14 +316,19 @@
 			"slug":"ghostbusters-afterlife"
 		},
 		{
-			"title":"The Autopsy of Jane Doe",
-			"gatsby_image_path":"..\/..\/images\/the-autopsy-of-jane-doe.jpg",
-			"slug":"the-autopsy-of-jane-doe"
-		},
-		{
 			"title":"Gifted",
 			"gatsby_image_path":"..\/..\/images\/gifted.jpg",
 			"slug":"gifted"
+		},
+		{
+			"title":"Candyman",
+			"gatsby_image_path":"..\/..\/images\/candyman.jpg",
+			"slug":"candyman"
+		},
+		{
+			"title":"The Autopsy of Jane Doe",
+			"gatsby_image_path":"..\/..\/images\/the-autopsy-of-jane-doe.jpg",
+			"slug":"the-autopsy-of-jane-doe"
 		},
 		{
 			"title":"Knives Out",
@@ -281,14 +336,19 @@
 			"slug":"knives-out"
 		},
 		{
-			"title":"Escape Room",
-			"gatsby_image_path":"..\/..\/images\/escape-room.jpg",
-			"slug":"escape-room"
+			"title":"Ghostbusters",
+			"gatsby_image_path":"..\/..\/images\/ghostbusters.jpg",
+			"slug":"ghostbusters"
 		},
 		{
-			"title":"Return of the Living Dead III",
-			"gatsby_image_path":"..\/..\/images\/return-of-the-living-dead-iii.jpg",
-			"slug":"return-of-the-living-dead-iii"
+			"title":"Lockout",
+			"gatsby_image_path":"..\/..\/images\/lockout.jpg",
+			"slug":"lockout"
+		},
+		{
+			"title":"Everly",
+			"gatsby_image_path":"..\/..\/images\/everly.jpg",
+			"slug":"everly"
 		},
 		{
 			"title":"Descendants",
@@ -296,9 +356,24 @@
 			"slug":"descendants"
 		},
 		{
+			"title":"Kill Command",
+			"gatsby_image_path":"..\/..\/images\/kill-command.jpg",
+			"slug":"kill-command"
+		},
+		{
+			"title":"Mighty Flash",
+			"gatsby_image_path":"..\/..\/images\/mighty-flash.jpg",
+			"slug":"mighty-flash"
+		},
+		{
 			"title":"Constantine",
 			"gatsby_image_path":"..\/..\/images\/constantine.jpg",
 			"slug":"constantine"
+		},
+		{
+			"title":"Return of the Living Dead III",
+			"gatsby_image_path":"..\/..\/images\/return-of-the-living-dead-iii.jpg",
+			"slug":"return-of-the-living-dead-iii"
 		},
 		{
 			"title":"Sucker Punch",
@@ -306,44 +381,19 @@
 			"slug":"sucker-punch"
 		},
 		{
+			"title":"Dark Shadows",
+			"gatsby_image_path":"..\/..\/images\/dark-shadows.jpg",
+			"slug":"dark-shadows"
+		},
+		{
 			"title":"Pets United",
 			"gatsby_image_path":"..\/..\/images\/pets-united.jpg",
 			"slug":"pets-united"
 		},
 		{
-			"title":"Friday the 13th: The Final Chapter",
-			"gatsby_image_path":"..\/..\/images\/friday-the-13th-the-final-chapter.jpg",
-			"slug":"friday-the-13th-the-final-chapter"
-		},
-		{
-			"title":"The Matrix",
-			"gatsby_image_path":"..\/..\/images\/the-matrix.jpg",
-			"slug":"the-matrix"
-		},
-		{
-			"title":"The Shawshank Redemption",
-			"gatsby_image_path":"..\/..\/images\/the-shawshank-redemption.jpg",
-			"slug":"the-shawshank-redemption"
-		},
-		{
-			"title":"Guns Akimbo",
-			"gatsby_image_path":"..\/..\/images\/guns-akimbo.jpg",
-			"slug":"guns-akimbo"
-		},
-		{
-			"title":"Saw 3D",
-			"gatsby_image_path":"..\/..\/images\/saw-3d.jpg",
-			"slug":"saw-3d"
-		},
-		{
-			"title":"The Shape of Water",
-			"gatsby_image_path":"..\/..\/images\/the-shape-of-water.jpg",
-			"slug":"the-shape-of-water"
-		},
-		{
-			"title":"Naked Singularity",
-			"gatsby_image_path":"..\/..\/images\/naked-singularity.jpg",
-			"slug":"naked-singularity"
+			"title":"Ticking Clock",
+			"gatsby_image_path":"..\/..\/images\/ticking-clock.jpg",
+			"slug":"ticking-clock"
 		},
 		{
 			"title":"Epic",
@@ -351,14 +401,14 @@
 			"slug":"epic"
 		},
 		{
-			"title":"Ghostbusters",
-			"gatsby_image_path":"..\/..\/images\/ghostbusters.jpg",
-			"slug":"ghostbusters"
+			"title":"The Matrix",
+			"gatsby_image_path":"..\/..\/images\/the-matrix.jpg",
+			"slug":"the-matrix"
 		},
 		{
-			"title":"It",
-			"gatsby_image_path":"..\/..\/images\/it.jpg",
-			"slug":"it"
+			"title":"Saw 3D",
+			"gatsby_image_path":"..\/..\/images\/saw-3d.jpg",
+			"slug":"saw-3d"
 		}
 	],
 	"tmdb_id":82507,

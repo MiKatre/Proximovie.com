@@ -71,6 +71,11 @@
 			"slug":"stand-by-me-doraemon"
 		},
 		{
+			"title":"Jujutsu Kaisen 0: The Movie",
+			"gatsby_image_path":"..\/..\/images\/jujutsu-kaisen-0-the-movie.jpg",
+			"slug":"jujutsu-kaisen-0-the-movie"
+		},
+		{
 			"title":"Doraemon: Nobita's Great Adventure in the Antarctic Kachi Kochi",
 			"gatsby_image_path":"..\/..\/images\/doraemon-nobita-s-great-adventure-in-the-antarctic-kachi-kochi.jpg",
 			"slug":"doraemon-nobita-s-great-adventure-in-the-antarctic-kachi-kochi"
@@ -99,6 +104,51 @@
 			"title":"Pokémon the Movie: Volcanion and the Mechanical Marvel",
 			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-volcanion-and-the-mechanical-marvel.jpg",
 			"slug":"pokémon-the-movie-volcanion-and-the-mechanical-marvel"
+		},
+		{
+			"title":"Pokémon the Movie: The Power of Us",
+			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-the-power-of-us.jpg",
+			"slug":"pokémon-the-movie-the-power-of-us"
+		},
+		{
+			"title":"Pokémon the Movie: Secrets of the Jungle",
+			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-secrets-of-the-jungle.jpg",
+			"slug":"pokémon-the-movie-secrets-of-the-jungle"
+		},
+		{
+			"title":"Pokémon the Movie: I Choose You!",
+			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-i-choose-you.jpg",
+			"slug":"pokémon-the-movie-i-choose-you"
+		},
+		{
+			"title":"Pokémon the Movie: Hoopa and the Clash of Ages",
+			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-hoopa-and-the-clash-of-ages.jpg",
+			"slug":"pokémon-the-movie-hoopa-and-the-clash-of-ages"
+		},
+		{
+			"title":"Pokémon: Mewtwo Strikes Back - Evolution",
+			"gatsby_image_path":"..\/..\/images\/pokémon-mewtwo-strikes-back-evolution.jpg",
+			"slug":"pokémon-mewtwo-strikes-back-evolution"
+		},
+		{
+			"title":"One Piece Film: Z",
+			"gatsby_image_path":"..\/..\/images\/one-piece-film-z.jpg",
+			"slug":"one-piece-film-z"
+		},
+		{
+			"title":"One Piece Film: GOLD",
+			"gatsby_image_path":"..\/..\/images\/one-piece-film-gold.jpg",
+			"slug":"one-piece-film-gold"
+		},
+		{
+			"title":"One Piece 3D: Straw Hat Chase",
+			"gatsby_image_path":"..\/..\/images\/one-piece-3d-straw-hat-chase.jpg",
+			"slug":"one-piece-3d-straw-hat-chase"
+		},
+		{
+			"title":"Naruto the Movie: Legend of the Stone of Gelel",
+			"gatsby_image_path":"..\/..\/images\/naruto-the-movie-legend-of-the-stone-of-gelel.jpg",
+			"slug":"naruto-the-movie-legend-of-the-stone-of-gelel"
 		}
 	],
 	"related_most_similar":[
@@ -312,11 +362,6 @@
 			"slug":"naruto-shippuden-the-movie-bonds"
 		},
 		{
-			"title":"Pretty Guardian Sailor Moon Eternal The Movie Part 2",
-			"gatsby_image_path":"..\/..\/images\/pretty-guardian-sailor-moon-eternal-the-movie-part-2.jpg",
-			"slug":"pretty-guardian-sailor-moon-eternal-the-movie-part-2"
-		},
-		{
 			"title":"Doraemon: Nobita's Great Adventure in the Antarctic Kachi Kochi",
 			"gatsby_image_path":"..\/..\/images\/doraemon-nobita-s-great-adventure-in-the-antarctic-kachi-kochi.jpg",
 			"slug":"doraemon-nobita-s-great-adventure-in-the-antarctic-kachi-kochi"
@@ -327,14 +372,19 @@
 			"slug":"magical-girl-lyrical-nanoha-detonation"
 		},
 		{
-			"title":"Mortal Kombat Legends: Scorpion's Revenge",
-			"gatsby_image_path":"..\/..\/images\/mortal-kombat-legends-scorpion-s-revenge.jpg",
-			"slug":"mortal-kombat-legends-scorpion-s-revenge"
-		},
-		{
 			"title":"Sword Art Online: The Movie - Ordinal Scale",
 			"gatsby_image_path":"..\/..\/images\/sword-art-online-the-movie-ordinal-scale.jpg",
 			"slug":"sword-art-online-the-movie-ordinal-scale"
+		},
+		{
+			"title":"Pretty Guardian Sailor Moon Eternal The Movie Part 2",
+			"gatsby_image_path":"..\/..\/images\/pretty-guardian-sailor-moon-eternal-the-movie-part-2.jpg",
+			"slug":"pretty-guardian-sailor-moon-eternal-the-movie-part-2"
+		},
+		{
+			"title":"Mortal Kombat Legends: Scorpion's Revenge",
+			"gatsby_image_path":"..\/..\/images\/mortal-kombat-legends-scorpion-s-revenge.jpg",
+			"slug":"mortal-kombat-legends-scorpion-s-revenge"
 		},
 		{
 			"title":"Naruto the Movie: Legend of the Stone of Gelel",
@@ -347,14 +397,14 @@
 			"slug":"rurouni-kenshin-part-i-origins"
 		},
 		{
-			"title":"Dragon Ball Z: The World's Strongest",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-the-world-s-strongest.jpg",
-			"slug":"dragon-ball-z-the-world-s-strongest"
-		},
-		{
 			"title":"One Piece 3D: Straw Hat Chase",
 			"gatsby_image_path":"..\/..\/images\/one-piece-3d-straw-hat-chase.jpg",
 			"slug":"one-piece-3d-straw-hat-chase"
+		},
+		{
+			"title":"Dragon Ball Z: The World's Strongest",
+			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-the-world-s-strongest.jpg",
+			"slug":"dragon-ball-z-the-world-s-strongest"
 		}
 	],
 	"tmdb_id":15137,

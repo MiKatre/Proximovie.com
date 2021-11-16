@@ -55,6 +55,11 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Lady Bird",
+			"gatsby_image_path":"..\/..\/images\/lady-bird.jpg",
+			"slug":"lady-bird"
+		},
+		{
 			"title":"Vivarium",
 			"gatsby_image_path":"..\/..\/images\/vivarium.jpg",
 			"slug":"vivarium"
@@ -100,9 +105,54 @@
 			"slug":"ford-v-ferrari"
 		},
 		{
+			"title":"Dark Shadows",
+			"gatsby_image_path":"..\/..\/images\/dark-shadows.jpg",
+			"slug":"dark-shadows"
+		},
+		{
 			"title":"Casino Royale",
 			"gatsby_image_path":"..\/..\/images\/casino-royale.jpg",
 			"slug":"casino-royale"
+		},
+		{
+			"title":"Bird Box",
+			"gatsby_image_path":"..\/..\/images\/bird-box.jpg",
+			"slug":"bird-box"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
+			"title":"Zombieland: Double Tap",
+			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
+			"slug":"zombieland-double-tap"
+		},
+		{
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
+		},
+		{
+			"title":"Zack Snyder's Justice League",
+			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
+			"slug":"zack-snyder-s-justice-league"
+		},
+		{
+			"title":"Zack and Miri Make a Porno",
+			"gatsby_image_path":"..\/..\/images\/zack-and-miri-make-a-porno.jpg",
+			"slug":"zack-and-miri-make-a-porno"
 		}
 	],
 	"related_most_similar":[
@@ -281,9 +331,24 @@
 			"slug":"the-mad-hatter"
 		},
 		{
-			"title":"The Unholy",
-			"gatsby_image_path":"..\/..\/images\/the-unholy.jpg",
-			"slug":"the-unholy"
+			"title":"A Thousand Words",
+			"gatsby_image_path":"..\/..\/images\/a-thousand-words.jpg",
+			"slug":"a-thousand-words"
+		},
+		{
+			"title":"Scott Pilgrim vs. the World",
+			"gatsby_image_path":"..\/..\/images\/scott-pilgrim-vs.-the-world.jpg",
+			"slug":"scott-pilgrim-vs.-the-world"
+		},
+		{
+			"title":"The Truman Show",
+			"gatsby_image_path":"..\/..\/images\/the-truman-show.jpg",
+			"slug":"the-truman-show"
+		},
+		{
+			"title":"Drag Me to Hell",
+			"gatsby_image_path":"..\/..\/images\/drag-me-to-hell.jpg",
+			"slug":"drag-me-to-hell"
 		},
 		{
 			"title":"Die Hard",
@@ -291,9 +356,9 @@
 			"slug":"die-hard"
 		},
 		{
-			"title":"The Truman Show",
-			"gatsby_image_path":"..\/..\/images\/the-truman-show.jpg",
-			"slug":"the-truman-show"
+			"title":"The Unholy",
+			"gatsby_image_path":"..\/..\/images\/the-unholy.jpg",
+			"slug":"the-unholy"
 		},
 		{
 			"title":"The Conjuring: The Devil Made Me Do It",
@@ -306,14 +371,14 @@
 			"slug":"can-you-keep-a-secret"
 		},
 		{
+			"title":"Halloween: Resurrection",
+			"gatsby_image_path":"..\/..\/images\/halloween-resurrection.jpg",
+			"slug":"halloween-resurrection"
+		},
+		{
 			"title":"Night Drive",
 			"gatsby_image_path":"..\/..\/images\/night-drive.jpg",
 			"slug":"night-drive"
-		},
-		{
-			"title":"The Mule",
-			"gatsby_image_path":"..\/..\/images\/the-mule.jpg",
-			"slug":"the-mule"
 		},
 		{
 			"title":"Infidelity in Suburbia",
@@ -321,44 +386,29 @@
 			"slug":"infidelity-in-suburbia"
 		},
 		{
-			"title":"17 Again",
-			"gatsby_image_path":"..\/..\/images\/17-again.jpg",
-			"slug":"17-again"
-		},
-		{
 			"title":"No Time to Die",
 			"gatsby_image_path":"..\/..\/images\/no-time-to-die.jpg",
 			"slug":"no-time-to-die"
 		},
 		{
-			"title":"War of the Worlds",
-			"gatsby_image_path":"..\/..\/images\/war-of-the-worlds.jpg",
-			"slug":"war-of-the-worlds"
+			"title":"Confessions of a Shopaholic",
+			"gatsby_image_path":"..\/..\/images\/confessions-of-a-shopaholic.jpg",
+			"slug":"confessions-of-a-shopaholic"
 		},
 		{
-			"title":"This Little Love of Mine",
-			"gatsby_image_path":"..\/..\/images\/this-little-love-of-mine.jpg",
-			"slug":"this-little-love-of-mine"
+			"title":"17 Again",
+			"gatsby_image_path":"..\/..\/images\/17-again.jpg",
+			"slug":"17-again"
 		},
 		{
-			"title":"The Fourth Kind",
-			"gatsby_image_path":"..\/..\/images\/the-fourth-kind.jpg",
-			"slug":"the-fourth-kind"
+			"title":"The Game Plan",
+			"gatsby_image_path":"..\/..\/images\/the-game-plan.jpg",
+			"slug":"the-game-plan"
 		},
 		{
-			"title":"Transporter 3",
-			"gatsby_image_path":"..\/..\/images\/transporter-3.jpg",
-			"slug":"transporter-3"
-		},
-		{
-			"title":"Casino Royale",
-			"gatsby_image_path":"..\/..\/images\/casino-royale.jpg",
-			"slug":"casino-royale"
-		},
-		{
-			"title":"Catch Me If You Can",
-			"gatsby_image_path":"..\/..\/images\/catch-me-if-you-can.jpg",
-			"slug":"catch-me-if-you-can"
+			"title":"The Mule",
+			"gatsby_image_path":"..\/..\/images\/the-mule.jpg",
+			"slug":"the-mule"
 		}
 	],
 	"tmdb_id":599960,

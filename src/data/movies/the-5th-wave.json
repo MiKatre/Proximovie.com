@@ -73,6 +73,11 @@
 			"slug":"the-water-man"
 		},
 		{
+			"title":"The Legacy of Chucky",
+			"gatsby_image_path":"..\/..\/images\/the-legacy-of-chucky.jpg",
+			"slug":"the-legacy-of-chucky"
+		},
+		{
 			"title":"The Flash",
 			"gatsby_image_path":"..\/..\/images\/the-flash.jpg",
 			"slug":"the-flash"
@@ -93,6 +98,21 @@
 			"slug":"the-amityville-horror"
 		},
 		{
+			"title":"The Addams Family",
+			"gatsby_image_path":"..\/..\/images\/the-addams-family.jpg",
+			"slug":"the-addams-family"
+		},
+		{
+			"title":"The Addams Family 2",
+			"gatsby_image_path":"..\/..\/images\/the-addams-family-2.jpg",
+			"slug":"the-addams-family-2"
+		},
+		{
+			"title":"Suspiria",
+			"gatsby_image_path":"..\/..\/images\/suspiria.jpg",
+			"slug":"suspiria"
+		},
+		{
 			"title":"Spider-Man: No Way Home",
 			"gatsby_image_path":"..\/..\/images\/spider-man-no-way-home.jpg",
 			"slug":"spider-man-no-way-home"
@@ -101,6 +121,36 @@
 			"title":"Spider-Man: Far From Home",
 			"gatsby_image_path":"..\/..\/images\/spider-man-far-from-home.jpg",
 			"slug":"spider-man-far-from-home"
+		},
+		{
+			"title":"Silk Road",
+			"gatsby_image_path":"..\/..\/images\/silk-road.jpg",
+			"slug":"silk-road"
+		},
+		{
+			"title":"Salt",
+			"gatsby_image_path":"..\/..\/images\/salt.jpg",
+			"slug":"salt"
+		},
+		{
+			"title":"Rings",
+			"gatsby_image_path":"..\/..\/images\/rings.jpg",
+			"slug":"rings"
+		},
+		{
+			"title":"Red Shoes And The Seven Dwarfs",
+			"gatsby_image_path":"..\/..\/images\/red-shoes-and-the-seven-dwarfs.jpg",
+			"slug":"red-shoes-and-the-seven-dwarfs"
+		},
+		{
+			"title":"Prisoners",
+			"gatsby_image_path":"..\/..\/images\/prisoners.jpg",
+			"slug":"prisoners"
+		},
+		{
+			"title":"Neighbors 2: Sorority Rising",
+			"gatsby_image_path":"..\/..\/images\/neighbors-2-sorority-rising.jpg",
+			"slug":"neighbors-2-sorority-rising"
 		}
 	],
 	"related_most_similar":[
@@ -274,9 +324,9 @@
 			"slug":"the-osiris-child"
 		},
 		{
-			"title":"Wonder Woman",
-			"gatsby_image_path":"..\/..\/images\/wonder-woman.jpg",
-			"slug":"wonder-woman"
+			"title":"Dawn of the Dead",
+			"gatsby_image_path":"..\/..\/images\/dawn-of-the-dead.jpg",
+			"slug":"dawn-of-the-dead"
 		},
 		{
 			"title":"Ellipse",
@@ -284,14 +334,9 @@
 			"slug":"ellipse"
 		},
 		{
-			"title":"Kingsman: The Secret Service",
-			"gatsby_image_path":"..\/..\/images\/kingsman-the-secret-service.jpg",
-			"slug":"kingsman-the-secret-service"
-		},
-		{
-			"title":"Dawn of the Dead",
-			"gatsby_image_path":"..\/..\/images\/dawn-of-the-dead.jpg",
-			"slug":"dawn-of-the-dead"
+			"title":"Wonder Woman",
+			"gatsby_image_path":"..\/..\/images\/wonder-woman.jpg",
+			"slug":"wonder-woman"
 		},
 		{
 			"title":"Wrath of the Titans",
@@ -299,14 +344,14 @@
 			"slug":"wrath-of-the-titans"
 		},
 		{
+			"title":"Kingsman: The Secret Service",
+			"gatsby_image_path":"..\/..\/images\/kingsman-the-secret-service.jpg",
+			"slug":"kingsman-the-secret-service"
+		},
+		{
 			"title":"Blade",
 			"gatsby_image_path":"..\/..\/images\/blade.jpg",
 			"slug":"blade"
-		},
-		{
-			"title":"Mission: Impossible - Rogue Nation",
-			"gatsby_image_path":"..\/..\/images\/mission-impossible-rogue-nation.jpg",
-			"slug":"mission-impossible-rogue-nation"
 		},
 		{
 			"title":"The Matrix Revolutions",
@@ -324,14 +369,9 @@
 			"slug":"the-ring-two"
 		},
 		{
-			"title":"Stowaway",
-			"gatsby_image_path":"..\/..\/images\/stowaway.jpg",
-			"slug":"stowaway"
-		},
-		{
-			"title":"Predator",
-			"gatsby_image_path":"..\/..\/images\/predator.jpg",
-			"slug":"predator"
+			"title":"Mission: Impossible - Rogue Nation",
+			"gatsby_image_path":"..\/..\/images\/mission-impossible-rogue-nation.jpg",
+			"slug":"mission-impossible-rogue-nation"
 		},
 		{
 			"title":"Penguins of Madagascar",
@@ -339,9 +379,14 @@
 			"slug":"penguins-of-madagascar"
 		},
 		{
-			"title":"Sausage Party",
-			"gatsby_image_path":"..\/..\/images\/sausage-party.jpg",
-			"slug":"sausage-party"
+			"title":"Stowaway",
+			"gatsby_image_path":"..\/..\/images\/stowaway.jpg",
+			"slug":"stowaway"
+		},
+		{
+			"title":"Matilda",
+			"gatsby_image_path":"..\/..\/images\/matilda.jpg",
+			"slug":"matilda"
 		},
 		{
 			"title":"Death Race: Beyond Anarchy",
@@ -349,14 +394,19 @@
 			"slug":"death-race-beyond-anarchy"
 		},
 		{
+			"title":"Predator",
+			"gatsby_image_path":"..\/..\/images\/predator.jpg",
+			"slug":"predator"
+		},
+		{
 			"title":"Time Trap",
 			"gatsby_image_path":"..\/..\/images\/time-trap.jpg",
 			"slug":"time-trap"
 		},
 		{
-			"title":"Resident Evil: Vendetta",
-			"gatsby_image_path":"..\/..\/images\/resident-evil-vendetta.jpg",
-			"slug":"resident-evil-vendetta"
+			"title":"Sausage Party",
+			"gatsby_image_path":"..\/..\/images\/sausage-party.jpg",
+			"slug":"sausage-party"
 		}
 	],
 	"tmdb_id":299687,

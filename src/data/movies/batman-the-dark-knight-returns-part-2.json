@@ -58,6 +58,16 @@
 			"slug":"batman-the-dark-knight-returns-part-1"
 		},
 		{
+			"title":"Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog",
+			"gatsby_image_path":"..\/..\/images\/straight-outta-nowhere-scooby-doo-meets-courage-the-cowardly-dog.jpg",
+			"slug":"straight-outta-nowhere-scooby-doo-meets-courage-the-cowardly-dog"
+		},
+		{
+			"title":"Sharkdog’s Fintastic Halloween",
+			"gatsby_image_path":"..\/..\/images\/sharkdog’s-fintastic-halloween.jpg",
+			"slug":"sharkdog’s-fintastic-halloween"
+		},
+		{
 			"title":"Scooby-Doo! The Sword and the Scoob",
 			"gatsby_image_path":"..\/..\/images\/scooby-doo-the-sword-and-the-scoob.jpg",
 			"slug":"scooby-doo-the-sword-and-the-scoob"
@@ -76,6 +86,11 @@
 			"title":"Happy Halloween, Scooby-Doo!",
 			"gatsby_image_path":"..\/..\/images\/happy-halloween-scooby-doo.jpg",
 			"slug":"happy-halloween-scooby-doo"
+		},
+		{
+			"title":"Codename: Kids Next Door - Operation Z.E.R.O.",
+			"gatsby_image_path":"..\/..\/images\/codename-kids-next-door-operation-z.e.r.o..jpg",
+			"slug":"codename-kids-next-door-operation-z.e.r.o."
 		},
 		{
 			"title":"Aloha Scooby-Doo!",
@@ -98,9 +113,44 @@
 			"slug":"the-return-of-jafar"
 		},
 		{
+			"title":"The Loud House Movie",
+			"gatsby_image_path":"..\/..\/images\/the-loud-house-movie.jpg",
+			"slug":"the-loud-house-movie"
+		},
+		{
 			"title":"The Hunchback of Notre Dame II",
 			"gatsby_image_path":"..\/..\/images\/the-hunchback-of-notre-dame-ii.jpg",
 			"slug":"the-hunchback-of-notre-dame-ii"
+		},
+		{
+			"title":"Teen Titans Go! vs. Teen Titans",
+			"gatsby_image_path":"..\/..\/images\/teen-titans-go-vs.-teen-titans.jpg",
+			"slug":"teen-titans-go-vs.-teen-titans"
+		},
+		{
+			"title":"Star Trek Into Darkness",
+			"gatsby_image_path":"..\/..\/images\/star-trek-into-darkness.jpg",
+			"slug":"star-trek-into-darkness"
+		},
+		{
+			"title":"Skin Trade",
+			"gatsby_image_path":"..\/..\/images\/skin-trade.jpg",
+			"slug":"skin-trade"
+		},
+		{
+			"title":"Scooby-Doo! Pirates Ahoy!",
+			"gatsby_image_path":"..\/..\/images\/scooby-doo-pirates-ahoy.jpg",
+			"slug":"scooby-doo-pirates-ahoy"
+		},
+		{
+			"title":"Scooby-Doo! Curse of the Lake Monster",
+			"gatsby_image_path":"..\/..\/images\/scooby-doo-curse-of-the-lake-monster.jpg",
+			"slug":"scooby-doo-curse-of-the-lake-monster"
+		},
+		{
+			"title":"Scooby-Doo! and the Reluctant Werewolf",
+			"gatsby_image_path":"..\/..\/images\/scooby-doo-and-the-reluctant-werewolf.jpg",
+			"slug":"scooby-doo-and-the-reluctant-werewolf"
 		}
 	],
 	"related_most_similar":[
@@ -259,14 +309,14 @@
 	],
 	"related_by_overview":[
 		{
-			"title":"Batman: The Dark Knight Returns, Part 1",
-			"gatsby_image_path":"..\/..\/images\/batman-the-dark-knight-returns-part-1.jpg",
-			"slug":"batman-the-dark-knight-returns-part-1"
-		},
-		{
 			"title":"Spider-Man 3",
 			"gatsby_image_path":"..\/..\/images\/spider-man-3.jpg",
 			"slug":"spider-man-3"
+		},
+		{
+			"title":"Batman: The Dark Knight Returns, Part 1",
+			"gatsby_image_path":"..\/..\/images\/batman-the-dark-knight-returns-part-1.jpg",
+			"slug":"batman-the-dark-knight-returns-part-1"
 		},
 		{
 			"title":"Avengers: Age of Ultron",
@@ -284,6 +334,11 @@
 			"slug":"ant-man-and-the-wasp"
 		},
 		{
+			"title":"Transformers: Revenge of the Fallen",
+			"gatsby_image_path":"..\/..\/images\/transformers-revenge-of-the-fallen.jpg",
+			"slug":"transformers-revenge-of-the-fallen"
+		},
+		{
 			"title":"Teenage Mutant Ninja Turtles: Out of the Shadows",
 			"gatsby_image_path":"..\/..\/images\/teenage-mutant-ninja-turtles-out-of-the-shadows.jpg",
 			"slug":"teenage-mutant-ninja-turtles-out-of-the-shadows"
@@ -292,6 +347,16 @@
 			"title":"Jurassic World: Fallen Kingdom",
 			"gatsby_image_path":"..\/..\/images\/jurassic-world-fallen-kingdom.jpg",
 			"slug":"jurassic-world-fallen-kingdom"
+		},
+		{
+			"title":"Kick-Ass 2",
+			"gatsby_image_path":"..\/..\/images\/kick-ass-2.jpg",
+			"slug":"kick-ass-2"
+		},
+		{
+			"title":"Guardians of the Galaxy Vol. 3",
+			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy-vol-3.jpg",
+			"slug":"guardians-of-the-galaxy-vol-3"
 		},
 		{
 			"title":"Fantastic Four",
@@ -309,11 +374,6 @@
 			"slug":"aquaman"
 		},
 		{
-			"title":"Guardians of the Galaxy Vol. 3",
-			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy-vol-3.jpg",
-			"slug":"guardians-of-the-galaxy-vol-3"
-		},
-		{
 			"title":"Percy Jackson & the Olympians: The Lightning Thief",
 			"gatsby_image_path":"..\/..\/images\/percy-jackson-the-olympians-the-lightning-thief.jpg",
 			"slug":"percy-jackson-the-olympians-the-lightning-thief"
@@ -329,6 +389,11 @@
 			"slug":"men-in-black-international"
 		},
 		{
+			"title":"Halloween 5: The Revenge of Michael Myers",
+			"gatsby_image_path":"..\/..\/images\/halloween-5-the-revenge-of-michael-myers.jpg",
+			"slug":"halloween-5-the-revenge-of-michael-myers"
+		},
+		{
 			"title":"Justice League vs. Teen Titans",
 			"gatsby_image_path":"..\/..\/images\/justice-league-vs.-teen-titans.jpg",
 			"slug":"justice-league-vs.-teen-titans"
@@ -342,21 +407,6 @@
 			"title":"Dragon Ball Z: Cooler's Revenge",
 			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-cooler-s-revenge.jpg",
 			"slug":"dragon-ball-z-cooler-s-revenge"
-		},
-		{
-			"title":"Teenage Mutant Ninja Turtles",
-			"gatsby_image_path":"..\/..\/images\/teenage-mutant-ninja-turtles.jpg",
-			"slug":"teenage-mutant-ninja-turtles"
-		},
-		{
-			"title":"Thor: The Dark World",
-			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
-			"slug":"thor-the-dark-world"
-		},
-		{
-			"title":"Treasure Planet",
-			"gatsby_image_path":"..\/..\/images\/treasure-planet.jpg",
-			"slug":"treasure-planet"
 		}
 	],
 	"tmdb_id":142061,

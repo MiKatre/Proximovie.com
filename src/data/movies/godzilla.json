@@ -70,6 +70,11 @@
 			"slug":"ufo"
 		},
 		{
+			"title":"Total Recall",
+			"gatsby_image_path":"..\/..\/images\/total-recall.jpg",
+			"slug":"total-recall"
+		},
+		{
 			"title":"The Wall",
 			"gatsby_image_path":"..\/..\/images\/the-wall.jpg",
 			"slug":"the-wall"
@@ -100,9 +105,54 @@
 			"slug":"tenet"
 		},
 		{
+			"title":"Spencer",
+			"gatsby_image_path":"..\/..\/images\/spencer.jpg",
+			"slug":"spencer"
+		},
+		{
+			"title":"Red Tails",
+			"gatsby_image_path":"..\/..\/images\/red-tails.jpg",
+			"slug":"red-tails"
+		},
+		{
 			"title":"Power Rangers",
 			"gatsby_image_path":"..\/..\/images\/power-rangers.jpg",
 			"slug":"power-rangers"
+		},
+		{
+			"title":"Pokémon Detective Pikachu",
+			"gatsby_image_path":"..\/..\/images\/pokémon-detective-pikachu.jpg",
+			"slug":"pokémon-detective-pikachu"
+		},
+		{
+			"title":"Nomadland",
+			"gatsby_image_path":"..\/..\/images\/nomadland.jpg",
+			"slug":"nomadland"
+		},
+		{
+			"title":"Kung Fu Panda 3",
+			"gatsby_image_path":"..\/..\/images\/kung-fu-panda-3.jpg",
+			"slug":"kung-fu-panda-3"
+		},
+		{
+			"title":"Kick-Ass",
+			"gatsby_image_path":"..\/..\/images\/kick-ass.jpg",
+			"slug":"kick-ass"
+		},
+		{
+			"title":"Kick-Ass 2",
+			"gatsby_image_path":"..\/..\/images\/kick-ass-2.jpg",
+			"slug":"kick-ass-2"
+		},
+		{
+			"title":"John Carter",
+			"gatsby_image_path":"..\/..\/images\/john-carter.jpg",
+			"slug":"john-carter"
+		},
+		{
+			"title":"Inception",
+			"gatsby_image_path":"..\/..\/images\/inception.jpg",
+			"slug":"inception"
 		}
 	],
 	"related_most_similar":[
@@ -276,14 +326,14 @@
 			"slug":"snake-eyes-g.i.-joe-origins"
 		},
 		{
-			"title":"Battleship",
-			"gatsby_image_path":"..\/..\/images\/battleship.jpg",
-			"slug":"battleship"
-		},
-		{
 			"title":"Iron Man 2",
 			"gatsby_image_path":"..\/..\/images\/iron-man-2.jpg",
 			"slug":"iron-man-2"
+		},
+		{
+			"title":"Battleship",
+			"gatsby_image_path":"..\/..\/images\/battleship.jpg",
+			"slug":"battleship"
 		},
 		{
 			"title":"The Expendables",
@@ -296,14 +346,14 @@
 			"slug":"tron-legacy"
 		},
 		{
+			"title":"Avengers: Infinity War",
+			"gatsby_image_path":"..\/..\/images\/avengers-infinity-war.jpg",
+			"slug":"avengers-infinity-war"
+		},
+		{
 			"title":"Rampage",
 			"gatsby_image_path":"..\/..\/images\/rampage.jpg",
 			"slug":"rampage"
-		},
-		{
-			"title":"Captain America: The First Avenger",
-			"gatsby_image_path":"..\/..\/images\/captain-america-the-first-avenger.jpg",
-			"slug":"captain-america-the-first-avenger"
 		},
 		{
 			"title":"Transformers: Age of Extinction",
@@ -311,14 +361,14 @@
 			"slug":"transformers-age-of-extinction"
 		},
 		{
-			"title":"Avengers: Infinity War",
-			"gatsby_image_path":"..\/..\/images\/avengers-infinity-war.jpg",
-			"slug":"avengers-infinity-war"
-		},
-		{
 			"title":"Escape Plan 2: Hades",
 			"gatsby_image_path":"..\/..\/images\/escape-plan-2-hades.jpg",
 			"slug":"escape-plan-2-hades"
+		},
+		{
+			"title":"Captain America: The First Avenger",
+			"gatsby_image_path":"..\/..\/images\/captain-america-the-first-avenger.jpg",
+			"slug":"captain-america-the-first-avenger"
 		},
 		{
 			"title":"Ant-Man",
@@ -341,24 +391,24 @@
 			"slug":"war-for-the-planet-of-the-apes"
 		},
 		{
-			"title":"Ip Man 4: The Finale",
-			"gatsby_image_path":"..\/..\/images\/ip-man-4-the-finale.jpg",
-			"slug":"ip-man-4-the-finale"
+			"title":"The Return of the Living Dead",
+			"gatsby_image_path":"..\/..\/images\/the-return-of-the-living-dead.jpg",
+			"slug":"the-return-of-the-living-dead"
 		},
 		{
-			"title":"Godzilla: King of the Monsters",
-			"gatsby_image_path":"..\/..\/images\/godzilla-king-of-the-monsters.jpg",
-			"slug":"godzilla-king-of-the-monsters"
-		},
-		{
-			"title":"Ghost Rider",
-			"gatsby_image_path":"..\/..\/images\/ghost-rider.jpg",
-			"slug":"ghost-rider"
+			"title":"Resident Evil: Welcome to Raccoon City",
+			"gatsby_image_path":"..\/..\/images\/resident-evil-welcome-to-raccoon-city.jpg",
+			"slug":"resident-evil-welcome-to-raccoon-city"
 		},
 		{
 			"title":"Terminator: Dark Fate",
 			"gatsby_image_path":"..\/..\/images\/terminator-dark-fate.jpg",
 			"slug":"terminator-dark-fate"
+		},
+		{
+			"title":"Godzilla: King of the Monsters",
+			"gatsby_image_path":"..\/..\/images\/godzilla-king-of-the-monsters.jpg",
+			"slug":"godzilla-king-of-the-monsters"
 		}
 	],
 	"tmdb_id":124905,

@@ -67,6 +67,11 @@
 			"slug":"looney-tunes-back-in-action"
 		},
 		{
+			"title":"Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog",
+			"gatsby_image_path":"..\/..\/images\/straight-outta-nowhere-scooby-doo-meets-courage-the-cowardly-dog.jpg",
+			"slug":"straight-outta-nowhere-scooby-doo-meets-courage-the-cowardly-dog"
+		},
+		{
 			"title":"Scooby-Doo! The Sword and the Scoob",
 			"gatsby_image_path":"..\/..\/images\/scooby-doo-the-sword-and-the-scoob.jpg",
 			"slug":"scooby-doo-the-sword-and-the-scoob"
@@ -92,14 +97,59 @@
 			"slug":"batman-the-dark-knight-returns-part-2"
 		},
 		{
+			"title":"Transformers: Rise of the Beasts",
+			"gatsby_image_path":"..\/..\/images\/transformers-rise-of-the-beasts.jpg",
+			"slug":"transformers-rise-of-the-beasts"
+		},
+		{
 			"title":"Transformers: Beginnings",
 			"gatsby_image_path":"..\/..\/images\/transformers-beginnings.jpg",
 			"slug":"transformers-beginnings"
 		},
 		{
+			"title":"The Scorpion King 3: Battle for Redemption",
+			"gatsby_image_path":"..\/..\/images\/the-scorpion-king-3-battle-for-redemption.jpg",
+			"slug":"the-scorpion-king-3-battle-for-redemption"
+		},
+		{
 			"title":"The Road to El Dorado",
 			"gatsby_image_path":"..\/..\/images\/the-road-to-el-dorado.jpg",
 			"slug":"the-road-to-el-dorado"
+		},
+		{
+			"title":"The Return of Jafar",
+			"gatsby_image_path":"..\/..\/images\/the-return-of-jafar.jpg",
+			"slug":"the-return-of-jafar"
+		},
+		{
+			"title":"The Mummy Returns",
+			"gatsby_image_path":"..\/..\/images\/the-mummy-returns.jpg",
+			"slug":"the-mummy-returns"
+		},
+		{
+			"title":"The Mummy",
+			"gatsby_image_path":"..\/..\/images\/the-mummy.jpg",
+			"slug":"the-mummy"
+		},
+		{
+			"title":"The Loud House Movie",
+			"gatsby_image_path":"..\/..\/images\/the-loud-house-movie.jpg",
+			"slug":"the-loud-house-movie"
+		},
+		{
+			"title":"The Book of Life",
+			"gatsby_image_path":"..\/..\/images\/the-book-of-life.jpg",
+			"slug":"the-book-of-life"
+		},
+		{
+			"title":"Teen Titans Go! vs. Teen Titans",
+			"gatsby_image_path":"..\/..\/images\/teen-titans-go-vs.-teen-titans.jpg",
+			"slug":"teen-titans-go-vs.-teen-titans"
+		},
+		{
+			"title":"Tangled",
+			"gatsby_image_path":"..\/..\/images\/tangled.jpg",
+			"slug":"tangled"
 		}
 	],
 	"related_most_similar":[
@@ -268,14 +318,19 @@
 			"slug":"scooby-doo-the-sword-and-the-scoob"
 		},
 		{
-			"title":"Alien Xmas",
-			"gatsby_image_path":"..\/..\/images\/alien-xmas.jpg",
-			"slug":"alien-xmas"
-		},
-		{
 			"title":"The Flintstones",
 			"gatsby_image_path":"..\/..\/images\/the-flintstones.jpg",
 			"slug":"the-flintstones"
+		},
+		{
+			"title":"Sleepy Hollow",
+			"gatsby_image_path":"..\/..\/images\/sleepy-hollow.jpg",
+			"slug":"sleepy-hollow"
+		},
+		{
+			"title":"Alien Xmas",
+			"gatsby_image_path":"..\/..\/images\/alien-xmas.jpg",
+			"slug":"alien-xmas"
 		},
 		{
 			"title":"Scary Movie 3",
@@ -293,19 +348,9 @@
 			"slug":"bride-of-chucky"
 		},
 		{
-			"title":"Return of the Living Dead III",
-			"gatsby_image_path":"..\/..\/images\/return-of-the-living-dead-iii.jpg",
-			"slug":"return-of-the-living-dead-iii"
-		},
-		{
 			"title":"Scooby-Doo! and the Cyber Chase",
 			"gatsby_image_path":"..\/..\/images\/scooby-doo-and-the-cyber-chase.jpg",
 			"slug":"scooby-doo-and-the-cyber-chase"
-		},
-		{
-			"title":"Men in Black",
-			"gatsby_image_path":"..\/..\/images\/men-in-black.jpg",
-			"slug":"men-in-black"
 		},
 		{
 			"title":"Pets United",
@@ -313,14 +358,29 @@
 			"slug":"pets-united"
 		},
 		{
+			"title":"Return of the Living Dead III",
+			"gatsby_image_path":"..\/..\/images\/return-of-the-living-dead-iii.jpg",
+			"slug":"return-of-the-living-dead-iii"
+		},
+		{
 			"title":"Night of the Living Dead",
 			"gatsby_image_path":"..\/..\/images\/night-of-the-living-dead.jpg",
 			"slug":"night-of-the-living-dead"
 		},
 		{
+			"title":"Men in Black",
+			"gatsby_image_path":"..\/..\/images\/men-in-black.jpg",
+			"slug":"men-in-black"
+		},
+		{
 			"title":"The Last: Naruto the Movie",
 			"gatsby_image_path":"..\/..\/images\/the-last-naruto-the-movie.jpg",
 			"slug":"the-last-naruto-the-movie"
+		},
+		{
+			"title":"Shoot 'Em Up",
+			"gatsby_image_path":"..\/..\/images\/shoot--em-up.jpg",
+			"slug":"shoot--em-up"
 		},
 		{
 			"title":"Fairy Tail: Dragon Cry",
@@ -333,9 +393,9 @@
 			"slug":"frankenweenie"
 		},
 		{
-			"title":"Descendants",
-			"gatsby_image_path":"..\/..\/images\/descendants.jpg",
-			"slug":"descendants"
+			"title":"Ghostbusters",
+			"gatsby_image_path":"..\/..\/images\/ghostbusters.jpg",
+			"slug":"ghostbusters"
 		},
 		{
 			"title":"The Nightmare Before Christmas",
@@ -343,19 +403,9 @@
 			"slug":"the-nightmare-before-christmas"
 		},
 		{
-			"title":"The Wild",
-			"gatsby_image_path":"..\/..\/images\/the-wild.jpg",
-			"slug":"the-wild"
-		},
-		{
-			"title":"Blade Runner 2049",
-			"gatsby_image_path":"..\/..\/images\/blade-runner-2049.jpg",
-			"slug":"blade-runner-2049"
-		},
-		{
-			"title":"Kingsman: The Golden Circle",
-			"gatsby_image_path":"..\/..\/images\/kingsman-the-golden-circle.jpg",
-			"slug":"kingsman-the-golden-circle"
+			"title":"Descendants",
+			"gatsby_image_path":"..\/..\/images\/descendants.jpg",
+			"slug":"descendants"
 		}
 	],
 	"tmdb_id":20558,

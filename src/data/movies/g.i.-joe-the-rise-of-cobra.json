@@ -102,9 +102,59 @@
 			"slug":"the-lego-batman-movie"
 		},
 		{
+			"title":"The Heat",
+			"gatsby_image_path":"..\/..\/images\/the-heat.jpg",
+			"slug":"the-heat"
+		},
+		{
 			"title":"The Dark Knight Rises",
 			"gatsby_image_path":"..\/..\/images\/the-dark-knight-rises.jpg",
 			"slug":"the-dark-knight-rises"
+		},
+		{
+			"title":"The Book of Life",
+			"gatsby_image_path":"..\/..\/images\/the-book-of-life.jpg",
+			"slug":"the-book-of-life"
+		},
+		{
+			"title":"The Amityville Horror",
+			"gatsby_image_path":"..\/..\/images\/the-amityville-horror.jpg",
+			"slug":"the-amityville-horror"
+		},
+		{
+			"title":"Terminator Genisys",
+			"gatsby_image_path":"..\/..\/images\/terminator-genisys.jpg",
+			"slug":"terminator-genisys"
+		},
+		{
+			"title":"Suicide Squad",
+			"gatsby_image_path":"..\/..\/images\/suicide-squad.jpg",
+			"slug":"suicide-squad"
+		},
+		{
+			"title":"Soul Surfer",
+			"gatsby_image_path":"..\/..\/images\/soul-surfer.jpg",
+			"slug":"soul-surfer"
+		},
+		{
+			"title":"Sin City: A Dame to Kill For",
+			"gatsby_image_path":"..\/..\/images\/sin-city-a-dame-to-kill-for.jpg",
+			"slug":"sin-city-a-dame-to-kill-for"
+		},
+		{
+			"title":"She's the Man",
+			"gatsby_image_path":"..\/..\/images\/she-s-the-man.jpg",
+			"slug":"she-s-the-man"
+		},
+		{
+			"title":"Sextuplets",
+			"gatsby_image_path":"..\/..\/images\/sextuplets.jpg",
+			"slug":"sextuplets"
+		},
+		{
+			"title":"Scary Movie",
+			"gatsby_image_path":"..\/..\/images\/scary-movie.jpg",
+			"slug":"scary-movie"
 		}
 	],
 	"related_most_similar":[
@@ -268,14 +318,19 @@
 			"slug":"minions-the-rise-of-gru"
 		},
 		{
+			"title":"Battle: Los Angeles",
+			"gatsby_image_path":"..\/..\/images\/battle-los-angeles.jpg",
+			"slug":"battle-los-angeles"
+		},
+		{
+			"title":"Universal Soldier: Regeneration",
+			"gatsby_image_path":"..\/..\/images\/universal-soldier-regeneration.jpg",
+			"slug":"universal-soldier-regeneration"
+		},
+		{
 			"title":"Iron Man 3",
 			"gatsby_image_path":"..\/..\/images\/iron-man-3.jpg",
 			"slug":"iron-man-3"
-		},
-		{
-			"title":"Justice League Dark: Apokolips War",
-			"gatsby_image_path":"..\/..\/images\/justice-league-dark-apokolips-war.jpg",
-			"slug":"justice-league-dark-apokolips-war"
 		},
 		{
 			"title":"The Predator",
@@ -283,9 +338,14 @@
 			"slug":"the-predator"
 		},
 		{
-			"title":"All the Devil's Men",
-			"gatsby_image_path":"..\/..\/images\/all-the-devil-s-men.jpg",
-			"slug":"all-the-devil-s-men"
+			"title":"Justice League Dark: Apokolips War",
+			"gatsby_image_path":"..\/..\/images\/justice-league-dark-apokolips-war.jpg",
+			"slug":"justice-league-dark-apokolips-war"
+		},
+		{
+			"title":"The Mummy",
+			"gatsby_image_path":"..\/..\/images\/the-mummy.jpg",
+			"slug":"the-mummy"
 		},
 		{
 			"title":"Batman: The Long Halloween, Part Two",
@@ -293,9 +353,9 @@
 			"slug":"batman-the-long-halloween-part-two"
 		},
 		{
-			"title":"Thor: Ragnarok",
-			"gatsby_image_path":"..\/..\/images\/thor-ragnarok.jpg",
-			"slug":"thor-ragnarok"
+			"title":"All the Devil's Men",
+			"gatsby_image_path":"..\/..\/images\/all-the-devil-s-men.jpg",
+			"slug":"all-the-devil-s-men"
 		},
 		{
 			"title":"Raiders of the Lost Ark",
@@ -303,14 +363,39 @@
 			"slug":"raiders-of-the-lost-ark"
 		},
 		{
-			"title":"Ghost Rider: Spirit of Vengeance",
-			"gatsby_image_path":"..\/..\/images\/ghost-rider-spirit-of-vengeance.jpg",
-			"slug":"ghost-rider-spirit-of-vengeance"
+			"title":"Thor: Ragnarok",
+			"gatsby_image_path":"..\/..\/images\/thor-ragnarok.jpg",
+			"slug":"thor-ragnarok"
+		},
+		{
+			"title":"LEGO Marvel Spider-Man: Vexed by Venom",
+			"gatsby_image_path":"..\/..\/images\/lego-marvel-spider-man-vexed-by-venom.jpg",
+			"slug":"lego-marvel-spider-man-vexed-by-venom"
+		},
+		{
+			"title":"Hancock",
+			"gatsby_image_path":"..\/..\/images\/hancock.jpg",
+			"slug":"hancock"
+		},
+		{
+			"title":"Percy Jackson: Sea of Monsters",
+			"gatsby_image_path":"..\/..\/images\/percy-jackson-sea-of-monsters.jpg",
+			"slug":"percy-jackson-sea-of-monsters"
 		},
 		{
 			"title":"Star Wars: The Force Awakens",
 			"gatsby_image_path":"..\/..\/images\/star-wars-the-force-awakens.jpg",
 			"slug":"star-wars-the-force-awakens"
+		},
+		{
+			"title":"Ghost Rider: Spirit of Vengeance",
+			"gatsby_image_path":"..\/..\/images\/ghost-rider-spirit-of-vengeance.jpg",
+			"slug":"ghost-rider-spirit-of-vengeance"
+		},
+		{
+			"title":"Pearl Harbor",
+			"gatsby_image_path":"..\/..\/images\/pearl-harbor.jpg",
+			"slug":"pearl-harbor"
 		},
 		{
 			"title":"Extinction",
@@ -323,44 +408,9 @@
 			"slug":"steven-universe-the-movie"
 		},
 		{
-			"title":"Justice League: The New Frontier",
-			"gatsby_image_path":"..\/..\/images\/justice-league-the-new-frontier.jpg",
-			"slug":"justice-league-the-new-frontier"
-		},
-		{
-			"title":"Resident Evil: Vendetta",
-			"gatsby_image_path":"..\/..\/images\/resident-evil-vendetta.jpg",
-			"slug":"resident-evil-vendetta"
-		},
-		{
-			"title":"The King's Man",
-			"gatsby_image_path":"..\/..\/images\/the-king-s-man.jpg",
-			"slug":"the-king-s-man"
-		},
-		{
-			"title":"Hitman: Agent 47",
-			"gatsby_image_path":"..\/..\/images\/hitman-agent-47.jpg",
-			"slug":"hitman-agent-47"
-		},
-		{
-			"title":"Rocky IV",
-			"gatsby_image_path":"..\/..\/images\/rocky-iv.jpg",
-			"slug":"rocky-iv"
-		},
-		{
-			"title":"Jeepers Creepers 3",
-			"gatsby_image_path":"..\/..\/images\/jeepers-creepers-3.jpg",
-			"slug":"jeepers-creepers-3"
-		},
-		{
-			"title":"Megalodon",
-			"gatsby_image_path":"..\/..\/images\/megalodon.jpg",
-			"slug":"megalodon"
-		},
-		{
-			"title":"Spider-Man",
-			"gatsby_image_path":"..\/..\/images\/spider-man.jpg",
-			"slug":"spider-man"
+			"title":"In the Name of the King 2: Two Worlds",
+			"gatsby_image_path":"..\/..\/images\/in-the-name-of-the-king-2-two-worlds.jpg",
+			"slug":"in-the-name-of-the-king-2-two-worlds"
 		}
 	],
 	"tmdb_id":14869,

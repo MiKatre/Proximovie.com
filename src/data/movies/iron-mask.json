@@ -60,6 +60,11 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Chinese Zodiac",
+			"gatsby_image_path":"..\/..\/images\/chinese-zodiac.jpg",
+			"slug":"chinese-zodiac"
+		},
+		{
 			"title":"Victor Frankenstein",
 			"gatsby_image_path":"..\/..\/images\/victor-frankenstein.jpg",
 			"slug":"victor-frankenstein"
@@ -75,9 +80,24 @@
 			"slug":"valerian-and-the-city-of-a-thousand-planets"
 		},
 		{
+			"title":"Underworld: Awakening",
+			"gatsby_image_path":"..\/..\/images\/underworld-awakening.jpg",
+			"slug":"underworld-awakening"
+		},
+		{
+			"title":"The Transporter Refueled",
+			"gatsby_image_path":"..\/..\/images\/the-transporter-refueled.jpg",
+			"slug":"the-transporter-refueled"
+		},
+		{
 			"title":"The Terminator",
 			"gatsby_image_path":"..\/..\/images\/the-terminator.jpg",
 			"slug":"the-terminator"
+		},
+		{
+			"title":"The Spy Next Door",
+			"gatsby_image_path":"..\/..\/images\/the-spy-next-door.jpg",
+			"slug":"the-spy-next-door"
 		},
 		{
 			"title":"The Knight of Shadows: Between Yin and Yang",
@@ -108,6 +128,36 @@
 			"title":"The Foreigner",
 			"gatsby_image_path":"..\/..\/images\/the-foreigner.jpg",
 			"slug":"the-foreigner"
+		},
+		{
+			"title":"The Expendables 3",
+			"gatsby_image_path":"..\/..\/images\/the-expendables-3.jpg",
+			"slug":"the-expendables-3"
+		},
+		{
+			"title":"The Expendables 2",
+			"gatsby_image_path":"..\/..\/images\/the-expendables-2.jpg",
+			"slug":"the-expendables-2"
+		},
+		{
+			"title":"Terminator Genisys",
+			"gatsby_image_path":"..\/..\/images\/terminator-genisys.jpg",
+			"slug":"terminator-genisys"
+		},
+		{
+			"title":"Terminator: Dark Fate",
+			"gatsby_image_path":"..\/..\/images\/terminator-dark-fate.jpg",
+			"slug":"terminator-dark-fate"
+		},
+		{
+			"title":"Terminator 3: Rise of the Machines",
+			"gatsby_image_path":"..\/..\/images\/terminator-3-rise-of-the-machines.jpg",
+			"slug":"terminator-3-rise-of-the-machines"
+		},
+		{
+			"title":"Terminator 2: Judgment Day",
+			"gatsby_image_path":"..\/..\/images\/terminator-2-judgment-day.jpg",
+			"slug":"terminator-2-judgment-day"
 		}
 	],
 	"related_most_similar":[
@@ -311,14 +361,9 @@
 			"slug":"hitman-s-wife-s-bodyguard"
 		},
 		{
-			"title":"Saw III",
-			"gatsby_image_path":"..\/..\/images\/saw-iii.jpg",
-			"slug":"saw-iii"
-		},
-		{
-			"title":"Pirates of the Caribbean: On Stranger Tides",
-			"gatsby_image_path":"..\/..\/images\/pirates-of-the-caribbean-on-stranger-tides.jpg",
-			"slug":"pirates-of-the-caribbean-on-stranger-tides"
+			"title":"Cowboys & Aliens",
+			"gatsby_image_path":"..\/..\/images\/cowboys-aliens.jpg",
+			"slug":"cowboys-aliens"
 		},
 		{
 			"title":"Legion",
@@ -326,14 +371,19 @@
 			"slug":"legion"
 		},
 		{
+			"title":"Pirates of the Caribbean: On Stranger Tides",
+			"gatsby_image_path":"..\/..\/images\/pirates-of-the-caribbean-on-stranger-tides.jpg",
+			"slug":"pirates-of-the-caribbean-on-stranger-tides"
+		},
+		{
+			"title":"Saw III",
+			"gatsby_image_path":"..\/..\/images\/saw-iii.jpg",
+			"slug":"saw-iii"
+		},
+		{
 			"title":"No Country for Old Men",
 			"gatsby_image_path":"..\/..\/images\/no-country-for-old-men.jpg",
 			"slug":"no-country-for-old-men"
-		},
-		{
-			"title":"Wrong Turn 6: Last Resort",
-			"gatsby_image_path":"..\/..\/images\/wrong-turn-6-last-resort.jpg",
-			"slug":"wrong-turn-6-last-resort"
 		},
 		{
 			"title":"Freddy vs. Jason",
@@ -341,14 +391,14 @@
 			"slug":"freddy-vs.-jason"
 		},
 		{
+			"title":"Wrong Turn 6: Last Resort",
+			"gatsby_image_path":"..\/..\/images\/wrong-turn-6-last-resort.jpg",
+			"slug":"wrong-turn-6-last-resort"
+		},
+		{
 			"title":"The Wild",
 			"gatsby_image_path":"..\/..\/images\/the-wild.jpg",
 			"slug":"the-wild"
-		},
-		{
-			"title":"The Pilgrim's Progress",
-			"gatsby_image_path":"..\/..\/images\/the-pilgrim-s-progress.jpg",
-			"slug":"the-pilgrim-s-progress"
 		},
 		{
 			"title":"Thor: The Dark World",
@@ -356,14 +406,14 @@
 			"slug":"thor-the-dark-world"
 		},
 		{
-			"title":"The Hobbit: The Desolation of Smaug",
-			"gatsby_image_path":"..\/..\/images\/the-hobbit-the-desolation-of-smaug.jpg",
-			"slug":"the-hobbit-the-desolation-of-smaug"
+			"title":"Fantastic Planet",
+			"gatsby_image_path":"..\/..\/images\/fantastic-planet.jpg",
+			"slug":"fantastic-planet"
 		},
 		{
-			"title":"The Red Sea Diving Resort",
-			"gatsby_image_path":"..\/..\/images\/the-red-sea-diving-resort.jpg",
-			"slug":"the-red-sea-diving-resort"
+			"title":"The Angry Birds Movie",
+			"gatsby_image_path":"..\/..\/images\/the-angry-birds-movie.jpg",
+			"slug":"the-angry-birds-movie"
 		}
 	],
 	"tmdb_id":428045,

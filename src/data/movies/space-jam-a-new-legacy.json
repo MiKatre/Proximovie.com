@@ -75,6 +75,11 @@
 			"slug":"teen-titans-go-to-the-movies"
 		},
 		{
+			"title":"Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog",
+			"gatsby_image_path":"..\/..\/images\/straight-outta-nowhere-scooby-doo-meets-courage-the-cowardly-dog.jpg",
+			"slug":"straight-outta-nowhere-scooby-doo-meets-courage-the-cowardly-dog"
+		},
+		{
 			"title":"Spider-Man: No Way Home",
 			"gatsby_image_path":"..\/..\/images\/spider-man-no-way-home.jpg",
 			"slug":"spider-man-no-way-home"
@@ -100,9 +105,54 @@
 			"slug":"malcolm-marie"
 		},
 		{
+			"title":"LEGO Star Wars Terrifying Tales",
+			"gatsby_image_path":"..\/..\/images\/lego-star-wars-terrifying-tales.jpg",
+			"slug":"lego-star-wars-terrifying-tales"
+		},
+		{
 			"title":"Justice League: Gods and Monsters",
 			"gatsby_image_path":"..\/..\/images\/justice-league-gods-and-monsters.jpg",
 			"slug":"justice-league-gods-and-monsters"
+		},
+		{
+			"title":"Iron Man 3",
+			"gatsby_image_path":"..\/..\/images\/iron-man-3.jpg",
+			"slug":"iron-man-3"
+		},
+		{
+			"title":"Iron Man 2",
+			"gatsby_image_path":"..\/..\/images\/iron-man-2.jpg",
+			"slug":"iron-man-2"
+		},
+		{
+			"title":"Captain America: Civil War",
+			"gatsby_image_path":"..\/..\/images\/captain-america-civil-war.jpg",
+			"slug":"captain-america-civil-war"
+		},
+		{
+			"title":"Brian Banks",
+			"gatsby_image_path":"..\/..\/images\/brian-banks.jpg",
+			"slug":"brian-banks"
+		},
+		{
+			"title":"Batman: Soul of the Dragon",
+			"gatsby_image_path":"..\/..\/images\/batman-soul-of-the-dragon.jpg",
+			"slug":"batman-soul-of-the-dragon"
+		},
+		{
+			"title":"Avengers: Infinity War",
+			"gatsby_image_path":"..\/..\/images\/avengers-infinity-war.jpg",
+			"slug":"avengers-infinity-war"
+		},
+		{
+			"title":"Avengers: Endgame",
+			"gatsby_image_path":"..\/..\/images\/avengers-endgame.jpg",
+			"slug":"avengers-endgame"
+		},
+		{
+			"title":"Avengers: Age of Ultron",
+			"gatsby_image_path":"..\/..\/images\/avengers-age-of-ultron.jpg",
+			"slug":"avengers-age-of-ultron"
 		}
 	],
 	"related_most_similar":[
@@ -271,14 +321,14 @@
 			"slug":"the-larva-island-movie"
 		},
 		{
-			"title":"Wizards of Waverly Place: The Movie",
-			"gatsby_image_path":"..\/..\/images\/wizards-of-waverly-place-the-movie.jpg",
-			"slug":"wizards-of-waverly-place-the-movie"
-		},
-		{
 			"title":"Ice Age: Dawn of the Dinosaurs",
 			"gatsby_image_path":"..\/..\/images\/ice-age-dawn-of-the-dinosaurs.jpg",
 			"slug":"ice-age-dawn-of-the-dinosaurs"
+		},
+		{
+			"title":"Wizards of Waverly Place: The Movie",
+			"gatsby_image_path":"..\/..\/images\/wizards-of-waverly-place-the-movie.jpg",
+			"slug":"wizards-of-waverly-place-the-movie"
 		},
 		{
 			"title":"Timmy Failure: Mistakes Were Made",
@@ -291,19 +341,9 @@
 			"slug":"impractical-jokers-the-movie"
 		},
 		{
-			"title":"Bad Boys II",
-			"gatsby_image_path":"..\/..\/images\/bad-boys-ii.jpg",
-			"slug":"bad-boys-ii"
-		},
-		{
-			"title":"Scooby-Doo 2: Monsters Unleashed",
-			"gatsby_image_path":"..\/..\/images\/scooby-doo-2-monsters-unleashed.jpg",
-			"slug":"scooby-doo-2-monsters-unleashed"
-		},
-		{
-			"title":"Gnomeo & Juliet",
-			"gatsby_image_path":"..\/..\/images\/gnomeo-juliet.jpg",
-			"slug":"gnomeo-juliet"
+			"title":"The Hills Have Eyes 2",
+			"gatsby_image_path":"..\/..\/images\/the-hills-have-eyes-2.jpg",
+			"slug":"the-hills-have-eyes-2"
 		},
 		{
 			"title":"Top Gun",
@@ -311,9 +351,24 @@
 			"slug":"top-gun"
 		},
 		{
+			"title":"Gnomeo & Juliet",
+			"gatsby_image_path":"..\/..\/images\/gnomeo-juliet.jpg",
+			"slug":"gnomeo-juliet"
+		},
+		{
 			"title":"Kidnapped",
 			"gatsby_image_path":"..\/..\/images\/kidnapped.jpg",
 			"slug":"kidnapped"
+		},
+		{
+			"title":"Bad Boys II",
+			"gatsby_image_path":"..\/..\/images\/bad-boys-ii.jpg",
+			"slug":"bad-boys-ii"
+		},
+		{
+			"title":"Ted",
+			"gatsby_image_path":"..\/..\/images\/ted.jpg",
+			"slug":"ted"
 		},
 		{
 			"title":"Finding Dory",
@@ -321,9 +376,9 @@
 			"slug":"finding-dory"
 		},
 		{
-			"title":"Ted",
-			"gatsby_image_path":"..\/..\/images\/ted.jpg",
-			"slug":"ted"
+			"title":"Scooby-Doo 2: Monsters Unleashed",
+			"gatsby_image_path":"..\/..\/images\/scooby-doo-2-monsters-unleashed.jpg",
+			"slug":"scooby-doo-2-monsters-unleashed"
 		},
 		{
 			"title":"Barbie: Princess Adventure",
@@ -341,24 +396,19 @@
 			"slug":"penguins-of-madagascar"
 		},
 		{
-			"title":"Chicken Run",
-			"gatsby_image_path":"..\/..\/images\/chicken-run.jpg",
-			"slug":"chicken-run"
-		},
-		{
 			"title":"Good Boys",
 			"gatsby_image_path":"..\/..\/images\/good-boys.jpg",
 			"slug":"good-boys"
 		},
 		{
-			"title":"Overcomer",
-			"gatsby_image_path":"..\/..\/images\/overcomer.jpg",
-			"slug":"overcomer"
+			"title":"Dinosaur",
+			"gatsby_image_path":"..\/..\/images\/dinosaur.jpg",
+			"slug":"dinosaur"
 		},
 		{
-			"title":"Cranston Academy: Monster Zone",
-			"gatsby_image_path":"..\/..\/images\/cranston-academy-monster-zone.jpg",
-			"slug":"cranston-academy-monster-zone"
+			"title":"The Meg",
+			"gatsby_image_path":"..\/..\/images\/the-meg.jpg",
+			"slug":"the-meg"
 		}
 	],
 	"tmdb_id":379686,

@@ -49,6 +49,11 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Life As We Know It",
+			"gatsby_image_path":"..\/..\/images\/life-as-we-know-it.jpg",
+			"slug":"life-as-we-know-it"
+		},
+		{
 			"title":"Zombieland: Double Tap",
 			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
 			"slug":"zombieland-double-tap"
@@ -59,6 +64,11 @@
 			"slug":"werewolves-within"
 		},
 		{
+			"title":"Vacation Friends",
+			"gatsby_image_path":"..\/..\/images\/vacation-friends.jpg",
+			"slug":"vacation-friends"
+		},
+		{
 			"title":"Tinker Bell and the Legend of the NeverBeast",
 			"gatsby_image_path":"..\/..\/images\/tinker-bell-and-the-legend-of-the-neverbeast.jpg",
 			"slug":"tinker-bell-and-the-legend-of-the-neverbeast"
@@ -67,6 +77,11 @@
 			"title":"The Water Man",
 			"gatsby_image_path":"..\/..\/images\/the-water-man.jpg",
 			"slug":"the-water-man"
+		},
+		{
+			"title":"The Ugly Truth",
+			"gatsby_image_path":"..\/..\/images\/the-ugly-truth.jpg",
+			"slug":"the-ugly-truth"
 		},
 		{
 			"title":"The Lego Batman Movie",
@@ -97,6 +112,41 @@
 			"title":"Only the Brave",
 			"gatsby_image_path":"..\/..\/images\/only-the-brave.jpg",
 			"slug":"only-the-brave"
+		},
+		{
+			"title":"Justice League vs. Teen Titans",
+			"gatsby_image_path":"..\/..\/images\/justice-league-vs.-teen-titans.jpg",
+			"slug":"justice-league-vs.-teen-titans"
+		},
+		{
+			"title":"Justice League: Throne of Atlantis",
+			"gatsby_image_path":"..\/..\/images\/justice-league-throne-of-atlantis.jpg",
+			"slug":"justice-league-throne-of-atlantis"
+		},
+		{
+			"title":"Justice League Dark: Apokolips War",
+			"gatsby_image_path":"..\/..\/images\/justice-league-dark-apokolips-war.jpg",
+			"slug":"justice-league-dark-apokolips-war"
+		},
+		{
+			"title":"Fear of Rain",
+			"gatsby_image_path":"..\/..\/images\/fear-of-rain.jpg",
+			"slug":"fear-of-rain"
+		},
+		{
+			"title":"Bride of Chucky",
+			"gatsby_image_path":"..\/..\/images\/bride-of-chucky.jpg",
+			"slug":"bride-of-chucky"
+		},
+		{
+			"title":"Beast of Burden",
+			"gatsby_image_path":"..\/..\/images\/beast-of-burden.jpg",
+			"slug":"beast-of-burden"
+		},
+		{
+			"title":"12 Strong",
+			"gatsby_image_path":"..\/..\/images\/12-strong.jpg",
+			"slug":"12-strong"
 		}
 	],
 	"related_most_similar":[
@@ -260,19 +310,24 @@
 			"slug":"gone-girl"
 		},
 		{
-			"title":"Just Say Yes",
-			"gatsby_image_path":"..\/..\/images\/just-say-yes.jpg",
-			"slug":"just-say-yes"
-		},
-		{
 			"title":"Ready or Not",
 			"gatsby_image_path":"..\/..\/images\/ready-or-not.jpg",
 			"slug":"ready-or-not"
 		},
 		{
+			"title":"Just Say Yes",
+			"gatsby_image_path":"..\/..\/images\/just-say-yes.jpg",
+			"slug":"just-say-yes"
+		},
+		{
 			"title":"The 27-Hour Day",
 			"gatsby_image_path":"..\/..\/images\/the-27-hour-day.jpg",
 			"slug":"the-27-hour-day"
+		},
+		{
+			"title":"Suspiria",
+			"gatsby_image_path":"..\/..\/images\/suspiria.jpg",
+			"slug":"suspiria"
 		},
 		{
 			"title":"Haseen Dillruba",
@@ -285,14 +340,14 @@
 			"slug":"sweet-sour"
 		},
 		{
-			"title":"Bliss",
-			"gatsby_image_path":"..\/..\/images\/bliss.jpg",
-			"slug":"bliss"
-		},
-		{
 			"title":"Black Box",
 			"gatsby_image_path":"..\/..\/images\/black-box.jpg",
 			"slug":"black-box"
+		},
+		{
+			"title":"Bliss",
+			"gatsby_image_path":"..\/..\/images\/bliss.jpg",
+			"slug":"bliss"
 		},
 		{
 			"title":"Hollow Point",
@@ -310,6 +365,16 @@
 			"slug":"moxie"
 		},
 		{
+			"title":"The Power of the Dog",
+			"gatsby_image_path":"..\/..\/images\/the-power-of-the-dog.jpg",
+			"slug":"the-power-of-the-dog"
+		},
+		{
+			"title":"Silver Linings Playbook",
+			"gatsby_image_path":"..\/..\/images\/silver-linings-playbook.jpg",
+			"slug":"silver-linings-playbook"
+		},
+		{
 			"title":"The Father",
 			"gatsby_image_path":"..\/..\/images\/the-father.jpg",
 			"slug":"the-father"
@@ -320,9 +385,9 @@
 			"slug":"the-girl-on-the-train"
 		},
 		{
-			"title":"Cowboys",
-			"gatsby_image_path":"..\/..\/images\/cowboys.jpg",
-			"slug":"cowboys"
+			"title":"Malignant",
+			"gatsby_image_path":"..\/..\/images\/malignant.jpg",
+			"slug":"malignant"
 		},
 		{
 			"title":"Tentacles",
@@ -330,29 +395,14 @@
 			"slug":"tentacles"
 		},
 		{
-			"title":"A Werewolf Boy",
-			"gatsby_image_path":"..\/..\/images\/a-werewolf-boy.jpg",
-			"slug":"a-werewolf-boy"
+			"title":"The Rover",
+			"gatsby_image_path":"..\/..\/images\/the-rover.jpg",
+			"slug":"the-rover"
 		},
 		{
-			"title":"Deep",
-			"gatsby_image_path":"..\/..\/images\/deep.jpg",
-			"slug":"deep"
-		},
-		{
-			"title":"Mandy",
-			"gatsby_image_path":"..\/..\/images\/mandy.jpg",
-			"slug":"mandy"
-		},
-		{
-			"title":"Bad Sister",
-			"gatsby_image_path":"..\/..\/images\/bad-sister.jpg",
-			"slug":"bad-sister"
-		},
-		{
-			"title":"Xtreme",
-			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
-			"slug":"xtreme"
+			"title":"Cowboys",
+			"gatsby_image_path":"..\/..\/images\/cowboys.jpg",
+			"slug":"cowboys"
 		}
 	],
 	"tmdb_id":418437,

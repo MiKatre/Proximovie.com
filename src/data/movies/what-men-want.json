@@ -69,6 +69,11 @@
 			"slug":"straight-outta-compton"
 		},
 		{
+			"title":"Status Update",
+			"gatsby_image_path":"..\/..\/images\/status-update.jpg",
+			"slug":"status-update"
+		},
+		{
 			"title":"Shaft",
 			"gatsby_image_path":"..\/..\/images\/shaft.jpg",
 			"slug":"shaft"
@@ -84,6 +89,11 @@
 			"slug":"ralph-breaks-the-internet"
 		},
 		{
+			"title":"No Good Deed",
+			"gatsby_image_path":"..\/..\/images\/no-good-deed.jpg",
+			"slug":"no-good-deed"
+		},
+		{
 			"title":"Minions: The Rise of Gru",
 			"gatsby_image_path":"..\/..\/images\/minions-the-rise-of-gru.jpg",
 			"slug":"minions-the-rise-of-gru"
@@ -94,9 +104,49 @@
 			"slug":"max-steel"
 		},
 		{
+			"title":"Little Man",
+			"gatsby_image_path":"..\/..\/images\/little-man.jpg",
+			"slug":"little-man"
+		},
+		{
 			"title":"Jack Reacher: Never Go Back",
 			"gatsby_image_path":"..\/..\/images\/jack-reacher-never-go-back.jpg",
 			"slug":"jack-reacher-never-go-back"
+		},
+		{
+			"title":"Ice Age: The Great Egg-Scapade",
+			"gatsby_image_path":"..\/..\/images\/ice-age-the-great-egg-scapade.jpg",
+			"slug":"ice-age-the-great-egg-scapade"
+		},
+		{
+			"title":"Hidden Figures",
+			"gatsby_image_path":"..\/..\/images\/hidden-figures.jpg",
+			"slug":"hidden-figures"
+		},
+		{
+			"title":"Haunting of the Mary Celeste",
+			"gatsby_image_path":"..\/..\/images\/haunting-of-the-mary-celeste.jpg",
+			"slug":"haunting-of-the-mary-celeste"
+		},
+		{
+			"title":"Goosebumps 2: Haunted Halloween",
+			"gatsby_image_path":"..\/..\/images\/goosebumps-2-haunted-halloween.jpg",
+			"slug":"goosebumps-2-haunted-halloween"
+		},
+		{
+			"title":"Coming 2 America",
+			"gatsby_image_path":"..\/..\/images\/coming-2-america.jpg",
+			"slug":"coming-2-america"
+		},
+		{
+			"title":"Cats & Dogs 3: Paws Unite",
+			"gatsby_image_path":"..\/..\/images\/cats-dogs-3-paws-unite.jpg",
+			"slug":"cats-dogs-3-paws-unite"
+		},
+		{
+			"title":"Brian Banks",
+			"gatsby_image_path":"..\/..\/images\/brian-banks.jpg",
+			"slug":"brian-banks"
 		}
 	],
 	"related_most_similar":[
@@ -260,9 +310,19 @@
 			"slug":"i-am-all-girls"
 		},
 		{
+			"title":"I Love You, Beth Cooper",
+			"gatsby_image_path":"..\/..\/images\/i-love-you-beth-cooper.jpg",
+			"slug":"i-love-you-beth-cooper"
+		},
+		{
 			"title":"Jennifer's Body",
 			"gatsby_image_path":"..\/..\/images\/jennifer-s-body.jpg",
 			"slug":"jennifer-s-body"
+		},
+		{
+			"title":"Forever My Girl",
+			"gatsby_image_path":"..\/..\/images\/forever-my-girl.jpg",
+			"slug":"forever-my-girl"
 		},
 		{
 			"title":"Ready or Not",
@@ -275,24 +335,9 @@
 			"slug":"the-27-hour-day"
 		},
 		{
-			"title":"12 Hour Shift",
-			"gatsby_image_path":"..\/..\/images\/12-hour-shift.jpg",
-			"slug":"12-hour-shift"
-		},
-		{
-			"title":"No Sudden Move",
-			"gatsby_image_path":"..\/..\/images\/no-sudden-move.jpg",
-			"slug":"no-sudden-move"
-		},
-		{
 			"title":"Money Heist: The Phenomenon",
 			"gatsby_image_path":"..\/..\/images\/money-heist-the-phenomenon.jpg",
 			"slug":"money-heist-the-phenomenon"
-		},
-		{
-			"title":"Just Say Yes",
-			"gatsby_image_path":"..\/..\/images\/just-say-yes.jpg",
-			"slug":"just-say-yes"
 		},
 		{
 			"title":"Sin City: A Dame to Kill For",
@@ -300,9 +345,29 @@
 			"slug":"sin-city-a-dame-to-kill-for"
 		},
 		{
-			"title":"Swan Song",
-			"gatsby_image_path":"..\/..\/images\/swan-song.jpg",
-			"slug":"swan-song"
+			"title":"No Sudden Move",
+			"gatsby_image_path":"..\/..\/images\/no-sudden-move.jpg",
+			"slug":"no-sudden-move"
+		},
+		{
+			"title":"12 Hour Shift",
+			"gatsby_image_path":"..\/..\/images\/12-hour-shift.jpg",
+			"slug":"12-hour-shift"
+		},
+		{
+			"title":"Jigsaw",
+			"gatsby_image_path":"..\/..\/images\/jigsaw.jpg",
+			"slug":"jigsaw"
+		},
+		{
+			"title":"Just Say Yes",
+			"gatsby_image_path":"..\/..\/images\/just-say-yes.jpg",
+			"slug":"just-say-yes"
+		},
+		{
+			"title":"My Brother, My Sister",
+			"gatsby_image_path":"..\/..\/images\/my-brother-my-sister.jpg",
+			"slug":"my-brother-my-sister"
 		},
 		{
 			"title":"Now You See Me",
@@ -310,9 +375,19 @@
 			"slug":"now-you-see-me"
 		},
 		{
-			"title":"War Dogs",
-			"gatsby_image_path":"..\/..\/images\/war-dogs.jpg",
-			"slug":"war-dogs"
+			"title":"Swan Song",
+			"gatsby_image_path":"..\/..\/images\/swan-song.jpg",
+			"slug":"swan-song"
+		},
+		{
+			"title":"The Right Mom",
+			"gatsby_image_path":"..\/..\/images\/the-right-mom.jpg",
+			"slug":"the-right-mom"
+		},
+		{
+			"title":"Triple Frontier",
+			"gatsby_image_path":"..\/..\/images\/triple-frontier.jpg",
+			"slug":"triple-frontier"
 		},
 		{
 			"title":"Annihilation",
@@ -325,34 +400,9 @@
 			"slug":"moxie"
 		},
 		{
-			"title":"Tomorrowland",
-			"gatsby_image_path":"..\/..\/images\/tomorrowland.jpg",
-			"slug":"tomorrowland"
-		},
-		{
-			"title":"Triple Frontier",
-			"gatsby_image_path":"..\/..\/images\/triple-frontier.jpg",
-			"slug":"triple-frontier"
-		},
-		{
-			"title":"The Commuter",
-			"gatsby_image_path":"..\/..\/images\/the-commuter.jpg",
-			"slug":"the-commuter"
-		},
-		{
-			"title":"Hustlers",
-			"gatsby_image_path":"..\/..\/images\/hustlers.jpg",
-			"slug":"hustlers"
-		},
-		{
-			"title":"The Darkest Minds",
-			"gatsby_image_path":"..\/..\/images\/the-darkest-minds.jpg",
-			"slug":"the-darkest-minds"
-		},
-		{
-			"title":"Top Gun",
-			"gatsby_image_path":"..\/..\/images\/top-gun.jpg",
-			"slug":"top-gun"
+			"title":"War Dogs",
+			"gatsby_image_path":"..\/..\/images\/war-dogs.jpg",
+			"slug":"war-dogs"
 		}
 	],
 	"tmdb_id":487297,

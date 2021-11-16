@@ -52,6 +52,11 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
 			"title":"The Magnificent Seven",
 			"gatsby_image_path":"..\/..\/images\/the-magnificent-seven.jpg",
 			"slug":"the-magnificent-seven"
@@ -92,14 +97,59 @@
 			"slug":"initiation"
 		},
 		{
+			"title":"Hancock",
+			"gatsby_image_path":"..\/..\/images\/hancock.jpg",
+			"slug":"hancock"
+		},
+		{
 			"title":"Full Metal Jacket",
 			"gatsby_image_path":"..\/..\/images\/full-metal-jacket.jpg",
 			"slug":"full-metal-jacket"
 		},
 		{
+			"title":"Forever My Girl",
+			"gatsby_image_path":"..\/..\/images\/forever-my-girl.jpg",
+			"slug":"forever-my-girl"
+		},
+		{
 			"title":"Escape Plan",
 			"gatsby_image_path":"..\/..\/images\/escape-plan.jpg",
 			"slug":"escape-plan"
+		},
+		{
+			"title":"Death Wish",
+			"gatsby_image_path":"..\/..\/images\/death-wish.jpg",
+			"slug":"death-wish"
+		},
+		{
+			"title":"Birds of Paradise",
+			"gatsby_image_path":"..\/..\/images\/birds-of-paradise.jpg",
+			"slug":"birds-of-paradise"
+		},
+		{
+			"title":"A Classic Horror Story",
+			"gatsby_image_path":"..\/..\/images\/a-classic-horror-story.jpg",
+			"slug":"a-classic-horror-story"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
+			"title":"Zombieland: Double Tap",
+			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
+			"slug":"zombieland-double-tap"
+		},
+		{
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
 		}
 	],
 	"related_most_similar":[
@@ -273,16 +323,6 @@
 			"slug":"bad-sister"
 		},
 		{
-			"title":"Friday the 13th",
-			"gatsby_image_path":"..\/..\/images\/friday-the-13th.jpg",
-			"slug":"friday-the-13th"
-		},
-		{
-			"title":"Carrie",
-			"gatsby_image_path":"..\/..\/images\/carrie.jpg",
-			"slug":"carrie"
-		},
-		{
 			"title":"Paranormal Activity",
 			"gatsby_image_path":"..\/..\/images\/paranormal-activity.jpg",
 			"slug":"paranormal-activity"
@@ -293,14 +333,24 @@
 			"slug":"black-box"
 		},
 		{
+			"title":"Wizards of Waverly Place: The Movie",
+			"gatsby_image_path":"..\/..\/images\/wizards-of-waverly-place-the-movie.jpg",
+			"slug":"wizards-of-waverly-place-the-movie"
+		},
+		{
+			"title":"Limitless",
+			"gatsby_image_path":"..\/..\/images\/limitless.jpg",
+			"slug":"limitless"
+		},
+		{
 			"title":"Ted",
 			"gatsby_image_path":"..\/..\/images\/ted.jpg",
 			"slug":"ted"
 		},
 		{
-			"title":"Wizards of Waverly Place: The Movie",
-			"gatsby_image_path":"..\/..\/images\/wizards-of-waverly-place-the-movie.jpg",
-			"slug":"wizards-of-waverly-place-the-movie"
+			"title":"Funny People",
+			"gatsby_image_path":"..\/..\/images\/funny-people.jpg",
+			"slug":"funny-people"
 		},
 		{
 			"title":"Out of Death",
@@ -308,9 +358,34 @@
 			"slug":"out-of-death"
 		},
 		{
+			"title":"Next-Door Nightmare",
+			"gatsby_image_path":"..\/..\/images\/next-door-nightmare.jpg",
+			"slug":"next-door-nightmare"
+		},
+		{
+			"title":"Deep",
+			"gatsby_image_path":"..\/..\/images\/deep.jpg",
+			"slug":"deep"
+		},
+		{
 			"title":"Personal Shopper",
 			"gatsby_image_path":"..\/..\/images\/personal-shopper.jpg",
 			"slug":"personal-shopper"
+		},
+		{
+			"title":"When Marnie Was There",
+			"gatsby_image_path":"..\/..\/images\/when-marnie-was-there.jpg",
+			"slug":"when-marnie-was-there"
+		},
+		{
+			"title":"Tentacles",
+			"gatsby_image_path":"..\/..\/images\/tentacles.jpg",
+			"slug":"tentacles"
+		},
+		{
+			"title":"The Tourist",
+			"gatsby_image_path":"..\/..\/images\/the-tourist.jpg",
+			"slug":"the-tourist"
 		},
 		{
 			"title":"El Camino: A Breaking Bad Movie",
@@ -323,11 +398,6 @@
 			"slug":"the-mortuary-collection"
 		},
 		{
-			"title":"When Marnie Was There",
-			"gatsby_image_path":"..\/..\/images\/when-marnie-was-there.jpg",
-			"slug":"when-marnie-was-there"
-		},
-		{
 			"title":"The Father",
 			"gatsby_image_path":"..\/..\/images\/the-father.jpg",
 			"slug":"the-father"
@@ -336,26 +406,6 @@
 			"title":"The Grudge",
 			"gatsby_image_path":"..\/..\/images\/the-grudge.jpg",
 			"slug":"the-grudge"
-		},
-		{
-			"title":"Finding 'Ohana",
-			"gatsby_image_path":"..\/..\/images\/finding-ohana.jpg",
-			"slug":"finding-ohana"
-		},
-		{
-			"title":"The Help",
-			"gatsby_image_path":"..\/..\/images\/the-help.jpg",
-			"slug":"the-help"
-		},
-		{
-			"title":"Tentacles",
-			"gatsby_image_path":"..\/..\/images\/tentacles.jpg",
-			"slug":"tentacles"
-		},
-		{
-			"title":"Deep",
-			"gatsby_image_path":"..\/..\/images\/deep.jpg",
-			"slug":"deep"
 		}
 	],
 	"tmdb_id":14564,

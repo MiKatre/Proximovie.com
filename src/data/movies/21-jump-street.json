@@ -64,6 +64,11 @@
 			"slug":"let-s-be-cops"
 		},
 		{
+			"title":"Home Sweet Home Alone",
+			"gatsby_image_path":"..\/..\/images\/home-sweet-home-alone.jpg",
+			"slug":"home-sweet-home-alone"
+		},
+		{
 			"title":"White House Down",
 			"gatsby_image_path":"..\/..\/images\/white-house-down.jpg",
 			"slug":"white-house-down"
@@ -74,9 +79,19 @@
 			"slug":"war-dogs"
 		},
 		{
+			"title":"Trainwreck",
+			"gatsby_image_path":"..\/..\/images\/trainwreck.jpg",
+			"slug":"trainwreck"
+		},
+		{
 			"title":"The Wolf of Wall Street",
 			"gatsby_image_path":"..\/..\/images\/the-wolf-of-wall-street.jpg",
 			"slug":"the-wolf-of-wall-street"
+		},
+		{
+			"title":"The Watch",
+			"gatsby_image_path":"..\/..\/images\/the-watch.jpg",
+			"slug":"the-watch"
 		},
 		{
 			"title":"The Secret Life of Pets 2",
@@ -89,11 +104,6 @@
 			"slug":"the-ridiculous-6"
 		},
 		{
-			"title":"The Mummy",
-			"gatsby_image_path":"..\/..\/images\/the-mummy.jpg",
-			"slug":"the-mummy"
-		},
-		{
 			"title":"The Lorax",
 			"gatsby_image_path":"..\/..\/images\/the-lorax.jpg",
 			"slug":"the-lorax"
@@ -102,6 +112,46 @@
 			"title":"The Lego Batman Movie",
 			"gatsby_image_path":"..\/..\/images\/the-lego-batman-movie.jpg",
 			"slug":"the-lego-batman-movie"
+		},
+		{
+			"title":"The Book of Life",
+			"gatsby_image_path":"..\/..\/images\/the-book-of-life.jpg",
+			"slug":"the-book-of-life"
+		},
+		{
+			"title":"Superbad",
+			"gatsby_image_path":"..\/..\/images\/superbad.jpg",
+			"slug":"superbad"
+		},
+		{
+			"title":"Status Update",
+			"gatsby_image_path":"..\/..\/images\/status-update.jpg",
+			"slug":"status-update"
+		},
+		{
+			"title":"Spider-Man: Into the Spider-Verse",
+			"gatsby_image_path":"..\/..\/images\/spider-man-into-the-spider-verse.jpg",
+			"slug":"spider-man-into-the-spider-verse"
+		},
+		{
+			"title":"She's the Man",
+			"gatsby_image_path":"..\/..\/images\/she-s-the-man.jpg",
+			"slug":"she-s-the-man"
+		},
+		{
+			"title":"Sex Tape",
+			"gatsby_image_path":"..\/..\/images\/sex-tape.jpg",
+			"slug":"sex-tape"
+		},
+		{
+			"title":"Sausage Party",
+			"gatsby_image_path":"..\/..\/images\/sausage-party.jpg",
+			"slug":"sausage-party"
+		},
+		{
+			"title":"Now You See Me",
+			"gatsby_image_path":"..\/..\/images\/now-you-see-me.jpg",
+			"slug":"now-you-see-me"
 		}
 	],
 	"related_most_similar":[
@@ -265,14 +315,14 @@
 			"slug":"léon-the-professional"
 		},
 		{
+			"title":"Paul Blart: Mall Cop",
+			"gatsby_image_path":"..\/..\/images\/paul-blart-mall-cop.jpg",
+			"slug":"paul-blart-mall-cop"
+		},
+		{
 			"title":"Once Upon a Time in Venice",
 			"gatsby_image_path":"..\/..\/images\/once-upon-a-time-in-venice.jpg",
 			"slug":"once-upon-a-time-in-venice"
-		},
-		{
-			"title":"White Chicks",
-			"gatsby_image_path":"..\/..\/images\/white-chicks.jpg",
-			"slug":"white-chicks"
 		},
 		{
 			"title":"Good Will Hunting",
@@ -290,6 +340,11 @@
 			"slug":"girl-in-the-basement"
 		},
 		{
+			"title":"White Chicks",
+			"gatsby_image_path":"..\/..\/images\/white-chicks.jpg",
+			"slug":"white-chicks"
+		},
+		{
 			"title":"Body Brokers",
 			"gatsby_image_path":"..\/..\/images\/body-brokers.jpg",
 			"slug":"body-brokers"
@@ -300,9 +355,9 @@
 			"slug":"fast-furious-presents-hobbs-shaw"
 		},
 		{
-			"title":"Host",
-			"gatsby_image_path":"..\/..\/images\/host.jpg",
-			"slug":"host"
+			"title":"The Substitute",
+			"gatsby_image_path":"..\/..\/images\/the-substitute.jpg",
+			"slug":"the-substitute"
 		},
 		{
 			"title":"Get the Grift",
@@ -310,19 +365,29 @@
 			"slug":"get-the-grift"
 		},
 		{
+			"title":"Host",
+			"gatsby_image_path":"..\/..\/images\/host.jpg",
+			"slug":"host"
+		},
+		{
+			"title":"Ghostbusters II",
+			"gatsby_image_path":"..\/..\/images\/ghostbusters-ii.jpg",
+			"slug":"ghostbusters-ii"
+		},
+		{
+			"title":"From Paris with Love",
+			"gatsby_image_path":"..\/..\/images\/from-paris-with-love.jpg",
+			"slug":"from-paris-with-love"
+		},
+		{
+			"title":"Little Man",
+			"gatsby_image_path":"..\/..\/images\/little-man.jpg",
+			"slug":"little-man"
+		},
+		{
 			"title":"Seed of Chucky",
 			"gatsby_image_path":"..\/..\/images\/seed-of-chucky.jpg",
 			"slug":"seed-of-chucky"
-		},
-		{
-			"title":"Gemini Man",
-			"gatsby_image_path":"..\/..\/images\/gemini-man.jpg",
-			"slug":"gemini-man"
-		},
-		{
-			"title":"Line of Duty",
-			"gatsby_image_path":"..\/..\/images\/line-of-duty.jpg",
-			"slug":"line-of-duty"
 		},
 		{
 			"title":"The Karate Kid",
@@ -335,29 +400,14 @@
 			"slug":"the-devil-s-advocate"
 		},
 		{
-			"title":"Pain & Gain",
-			"gatsby_image_path":"..\/..\/images\/pain-gain.jpg",
-			"slug":"pain-gain"
+			"title":"Gemini Man",
+			"gatsby_image_path":"..\/..\/images\/gemini-man.jpg",
+			"slug":"gemini-man"
 		},
 		{
-			"title":"It Follows",
-			"gatsby_image_path":"..\/..\/images\/it-follows.jpg",
-			"slug":"it-follows"
-		},
-		{
-			"title":"Zack and Miri Make a Porno",
-			"gatsby_image_path":"..\/..\/images\/zack-and-miri-make-a-porno.jpg",
-			"slug":"zack-and-miri-make-a-porno"
-		},
-		{
-			"title":"Charm City Kings",
-			"gatsby_image_path":"..\/..\/images\/charm-city-kings.jpg",
-			"slug":"charm-city-kings"
-		},
-		{
-			"title":"Turner & Hooch",
-			"gatsby_image_path":"..\/..\/images\/turner-hooch.jpg",
-			"slug":"turner-hooch"
+			"title":"Dead Like Me: Life After Death",
+			"gatsby_image_path":"..\/..\/images\/dead-like-me-life-after-death.jpg",
+			"slug":"dead-like-me-life-after-death"
 		}
 	],
 	"tmdb_id":64688,

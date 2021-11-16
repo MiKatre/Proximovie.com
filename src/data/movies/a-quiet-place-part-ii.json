@@ -77,6 +77,11 @@
 			"slug":"the-titan"
 		},
 		{
+			"title":"The Rover",
+			"gatsby_image_path":"..\/..\/images\/the-rover.jpg",
+			"slug":"the-rover"
+		},
+		{
 			"title":"The Legend of Tarzan",
 			"gatsby_image_path":"..\/..\/images\/the-legend-of-tarzan.jpg",
 			"slug":"the-legend-of-tarzan"
@@ -100,6 +105,51 @@
 			"title":"The Devil Wears Prada",
 			"gatsby_image_path":"..\/..\/images\/the-devil-wears-prada.jpg",
 			"slug":"the-devil-wears-prada"
+		},
+		{
+			"title":"Special Forces",
+			"gatsby_image_path":"..\/..\/images\/special-forces.jpg",
+			"slug":"special-forces"
+		},
+		{
+			"title":"Sicario",
+			"gatsby_image_path":"..\/..\/images\/sicario.jpg",
+			"slug":"sicario"
+		},
+		{
+			"title":"Seventh Son",
+			"gatsby_image_path":"..\/..\/images\/seventh-son.jpg",
+			"slug":"seventh-son"
+		},
+		{
+			"title":"Prisoners",
+			"gatsby_image_path":"..\/..\/images\/prisoners.jpg",
+			"slug":"prisoners"
+		},
+		{
+			"title":"Never Back Down",
+			"gatsby_image_path":"..\/..\/images\/never-back-down.jpg",
+			"slug":"never-back-down"
+		},
+		{
+			"title":"Mary Poppins Returns",
+			"gatsby_image_path":"..\/..\/images\/mary-poppins-returns.jpg",
+			"slug":"mary-poppins-returns"
+		},
+		{
+			"title":"Looper",
+			"gatsby_image_path":"..\/..\/images\/looper.jpg",
+			"slug":"looper"
+		},
+		{
+			"title":"King Arthur: Legend of the Sword",
+			"gatsby_image_path":"..\/..\/images\/king-arthur-legend-of-the-sword.jpg",
+			"slug":"king-arthur-legend-of-the-sword"
+		},
+		{
+			"title":"Jungle Cruise",
+			"gatsby_image_path":"..\/..\/images\/jungle-cruise.jpg",
+			"slug":"jungle-cruise"
 		}
 	],
 	"related_most_similar":[
@@ -268,19 +318,19 @@
 			"slug":"silent-hill"
 		},
 		{
+			"title":"Skyline",
+			"gatsby_image_path":"..\/..\/images\/skyline.jpg",
+			"slug":"skyline"
+		},
+		{
 			"title":"Scary Movie 5",
 			"gatsby_image_path":"..\/..\/images\/scary-movie-5.jpg",
 			"slug":"scary-movie-5"
 		},
 		{
-			"title":"John and the Hole",
-			"gatsby_image_path":"..\/..\/images\/john-and-the-hole.jpg",
-			"slug":"john-and-the-hole"
-		},
-		{
-			"title":"Werewolves Within",
-			"gatsby_image_path":"..\/..\/images\/werewolves-within.jpg",
-			"slug":"werewolves-within"
+			"title":"There's Someone Inside Your House",
+			"gatsby_image_path":"..\/..\/images\/there-s-someone-inside-your-house.jpg",
+			"slug":"there-s-someone-inside-your-house"
 		},
 		{
 			"title":"Traffik",
@@ -288,9 +338,14 @@
 			"slug":"traffik"
 		},
 		{
-			"title":"Goosebumps",
-			"gatsby_image_path":"..\/..\/images\/goosebumps.jpg",
-			"slug":"goosebumps"
+			"title":"Werewolves Within",
+			"gatsby_image_path":"..\/..\/images\/werewolves-within.jpg",
+			"slug":"werewolves-within"
+		},
+		{
+			"title":"John and the Hole",
+			"gatsby_image_path":"..\/..\/images\/john-and-the-hole.jpg",
+			"slug":"john-and-the-hole"
 		},
 		{
 			"title":"Cursed",
@@ -298,29 +353,14 @@
 			"slug":"cursed"
 		},
 		{
+			"title":"Wrong Turn",
+			"gatsby_image_path":"..\/..\/images\/wrong-turn.jpg",
+			"slug":"wrong-turn"
+		},
+		{
 			"title":"Annabelle Comes Home",
 			"gatsby_image_path":"..\/..\/images\/annabelle-comes-home.jpg",
 			"slug":"annabelle-comes-home"
-		},
-		{
-			"title":"Blood Moon",
-			"gatsby_image_path":"..\/..\/images\/blood-moon.jpg",
-			"slug":"blood-moon"
-		},
-		{
-			"title":"Dead Silence",
-			"gatsby_image_path":"..\/..\/images\/dead-silence.jpg",
-			"slug":"dead-silence"
-		},
-		{
-			"title":"World War Z",
-			"gatsby_image_path":"..\/..\/images\/world-war-z.jpg",
-			"slug":"world-war-z"
-		},
-		{
-			"title":"Get Out",
-			"gatsby_image_path":"..\/..\/images\/get-out.jpg",
-			"slug":"get-out"
 		},
 		{
 			"title":"Annabelle",
@@ -328,34 +368,44 @@
 			"slug":"annabelle"
 		},
 		{
+			"title":"Goosebumps",
+			"gatsby_image_path":"..\/..\/images\/goosebumps.jpg",
+			"slug":"goosebumps"
+		},
+		{
 			"title":"A Classic Horror Story",
 			"gatsby_image_path":"..\/..\/images\/a-classic-horror-story.jpg",
 			"slug":"a-classic-horror-story"
 		},
 		{
+			"title":"Dead Silence",
+			"gatsby_image_path":"..\/..\/images\/dead-silence.jpg",
+			"slug":"dead-silence"
+		},
+		{
+			"title":"Blood Moon",
+			"gatsby_image_path":"..\/..\/images\/blood-moon.jpg",
+			"slug":"blood-moon"
+		},
+		{
+			"title":"Get Out",
+			"gatsby_image_path":"..\/..\/images\/get-out.jpg",
+			"slug":"get-out"
+		},
+		{
+			"title":"World War Z",
+			"gatsby_image_path":"..\/..\/images\/world-war-z.jpg",
+			"slug":"world-war-z"
+		},
+		{
+			"title":"Apex",
+			"gatsby_image_path":"..\/..\/images\/apex.jpg",
+			"slug":"apex"
+		},
+		{
 			"title":"Come True",
 			"gatsby_image_path":"..\/..\/images\/come-true.jpg",
 			"slug":"come-true"
-		},
-		{
-			"title":"Her",
-			"gatsby_image_path":"..\/..\/images\/her.jpg",
-			"slug":"her"
-		},
-		{
-			"title":"The Grey",
-			"gatsby_image_path":"..\/..\/images\/the-grey.jpg",
-			"slug":"the-grey"
-		},
-		{
-			"title":"A Clockwork Orange",
-			"gatsby_image_path":"..\/..\/images\/a-clockwork-orange.jpg",
-			"slug":"a-clockwork-orange"
-		},
-		{
-			"title":"The Twilight Saga: New Moon",
-			"gatsby_image_path":"..\/..\/images\/the-twilight-saga-new-moon.jpg",
-			"slug":"the-twilight-saga-new-moon"
 		}
 	],
 	"tmdb_id":520763,

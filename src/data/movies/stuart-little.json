@@ -86,6 +86,11 @@
 			"slug":"the-little-vampire"
 		},
 		{
+			"title":"The Lion King",
+			"gatsby_image_path":"..\/..\/images\/the-lion-king.jpg",
+			"slug":"the-lion-king"
+		},
+		{
 			"title":"The Lion King II: Simba's Pride",
 			"gatsby_image_path":"..\/..\/images\/the-lion-king-ii-simba-s-pride.jpg",
 			"slug":"the-lion-king-ii-simba-s-pride"
@@ -96,6 +101,11 @@
 			"slug":"the-lion-king-1-½"
 		},
 		{
+			"title":"The Legacy of Chucky",
+			"gatsby_image_path":"..\/..\/images\/the-legacy-of-chucky.jpg",
+			"slug":"the-legacy-of-chucky"
+		},
+		{
 			"title":"The Good Dinosaur",
 			"gatsby_image_path":"..\/..\/images\/the-good-dinosaur.jpg",
 			"slug":"the-good-dinosaur"
@@ -104,6 +114,46 @@
 			"title":"Tall Girl",
 			"gatsby_image_path":"..\/..\/images\/tall-girl.jpg",
 			"slug":"tall-girl"
+		},
+		{
+			"title":"Seed of Chucky",
+			"gatsby_image_path":"..\/..\/images\/seed-of-chucky.jpg",
+			"slug":"seed-of-chucky"
+		},
+		{
+			"title":"Monsters vs Aliens",
+			"gatsby_image_path":"..\/..\/images\/monsters-vs-aliens.jpg",
+			"slug":"monsters-vs-aliens"
+		},
+		{
+			"title":"Monsters, Inc.",
+			"gatsby_image_path":"..\/..\/images\/monsters-inc.jpg",
+			"slug":"monsters-inc"
+		},
+		{
+			"title":"Little Man",
+			"gatsby_image_path":"..\/..\/images\/little-man.jpg",
+			"slug":"little-man"
+		},
+		{
+			"title":"Legend",
+			"gatsby_image_path":"..\/..\/images\/legend.jpg",
+			"slug":"legend"
+		},
+		{
+			"title":"Home on the Range",
+			"gatsby_image_path":"..\/..\/images\/home-on-the-range.jpg",
+			"slug":"home-on-the-range"
+		},
+		{
+			"title":"Curse of Chucky",
+			"gatsby_image_path":"..\/..\/images\/curse-of-chucky.jpg",
+			"slug":"curse-of-chucky"
+		},
+		{
+			"title":"Cult of Chucky",
+			"gatsby_image_path":"..\/..\/images\/cult-of-chucky.jpg",
+			"slug":"cult-of-chucky"
 		}
 	],
 	"related_most_similar":[
@@ -272,24 +322,9 @@
 			"slug":"life-of-pi"
 		},
 		{
-			"title":"Igor",
-			"gatsby_image_path":"..\/..\/images\/igor.jpg",
-			"slug":"igor"
-		},
-		{
-			"title":"Donnie Darko",
-			"gatsby_image_path":"..\/..\/images\/donnie-darko.jpg",
-			"slug":"donnie-darko"
-		},
-		{
 			"title":"Pan's Labyrinth",
 			"gatsby_image_path":"..\/..\/images\/pan-s-labyrinth.jpg",
 			"slug":"pan-s-labyrinth"
-		},
-		{
-			"title":"Back to the Future",
-			"gatsby_image_path":"..\/..\/images\/back-to-the-future.jpg",
-			"slug":"back-to-the-future"
 		},
 		{
 			"title":"Enola Holmes",
@@ -297,9 +332,24 @@
 			"slug":"enola-holmes"
 		},
 		{
+			"title":"Donnie Darko",
+			"gatsby_image_path":"..\/..\/images\/donnie-darko.jpg",
+			"slug":"donnie-darko"
+		},
+		{
+			"title":"Igor",
+			"gatsby_image_path":"..\/..\/images\/igor.jpg",
+			"slug":"igor"
+		},
+		{
 			"title":"Flora & Ulysses",
 			"gatsby_image_path":"..\/..\/images\/flora-ulysses.jpg",
 			"slug":"flora-ulysses"
+		},
+		{
+			"title":"Back to the Future",
+			"gatsby_image_path":"..\/..\/images\/back-to-the-future.jpg",
+			"slug":"back-to-the-future"
 		},
 		{
 			"title":"Animal Crackers",
@@ -307,9 +357,19 @@
 			"slug":"animal-crackers"
 		},
 		{
+			"title":"Aladdin",
+			"gatsby_image_path":"..\/..\/images\/aladdin.jpg",
+			"slug":"aladdin"
+		},
+		{
 			"title":"El Camino: A Breaking Bad Movie",
 			"gatsby_image_path":"..\/..\/images\/el-camino-a-breaking-bad-movie.jpg",
 			"slug":"el-camino-a-breaking-bad-movie"
+		},
+		{
+			"title":"Percy Jackson: Sea of Monsters",
+			"gatsby_image_path":"..\/..\/images\/percy-jackson-sea-of-monsters.jpg",
+			"slug":"percy-jackson-sea-of-monsters"
 		},
 		{
 			"title":"Clown",
@@ -317,24 +377,9 @@
 			"slug":"clown"
 		},
 		{
-			"title":"Alvin and the Chipmunks",
-			"gatsby_image_path":"..\/..\/images\/alvin-and-the-chipmunks.jpg",
-			"slug":"alvin-and-the-chipmunks"
-		},
-		{
-			"title":"Think Like a Dog",
-			"gatsby_image_path":"..\/..\/images\/think-like-a-dog.jpg",
-			"slug":"think-like-a-dog"
-		},
-		{
 			"title":"The Chronicles of Narnia: Prince Caspian",
 			"gatsby_image_path":"..\/..\/images\/the-chronicles-of-narnia-prince-caspian.jpg",
 			"slug":"the-chronicles-of-narnia-prince-caspian"
-		},
-		{
-			"title":"Tomb Raider",
-			"gatsby_image_path":"..\/..\/images\/tomb-raider.jpg",
-			"slug":"tomb-raider"
 		},
 		{
 			"title":"Incredibles 2",
@@ -342,9 +387,19 @@
 			"slug":"incredibles-2"
 		},
 		{
-			"title":"The Hobbit: An Unexpected Journey",
-			"gatsby_image_path":"..\/..\/images\/the-hobbit-an-unexpected-journey.jpg",
-			"slug":"the-hobbit-an-unexpected-journey"
+			"title":"Alvin and the Chipmunks",
+			"gatsby_image_path":"..\/..\/images\/alvin-and-the-chipmunks.jpg",
+			"slug":"alvin-and-the-chipmunks"
+		},
+		{
+			"title":"Tomb Raider",
+			"gatsby_image_path":"..\/..\/images\/tomb-raider.jpg",
+			"slug":"tomb-raider"
+		},
+		{
+			"title":"Think Like a Dog",
+			"gatsby_image_path":"..\/..\/images\/think-like-a-dog.jpg",
+			"slug":"think-like-a-dog"
 		},
 		{
 			"title":"Sinbad: Legend of the Seven Seas",
@@ -352,14 +407,9 @@
 			"slug":"sinbad-legend-of-the-seven-seas"
 		},
 		{
-			"title":"Carrie",
-			"gatsby_image_path":"..\/..\/images\/carrie.jpg",
-			"slug":"carrie"
-		},
-		{
-			"title":"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
-			"gatsby_image_path":"..\/..\/images\/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.jpg",
-			"slug":"the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe"
+			"title":"The Hobbit: An Unexpected Journey",
+			"gatsby_image_path":"..\/..\/images\/the-hobbit-an-unexpected-journey.jpg",
+			"slug":"the-hobbit-an-unexpected-journey"
 		}
 	],
 	"tmdb_id":10137,

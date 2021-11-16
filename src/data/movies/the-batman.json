@@ -54,6 +54,16 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"The Guilty",
+			"gatsby_image_path":"..\/..\/images\/the-guilty.jpg",
+			"slug":"the-guilty"
+		},
+		{
+			"title":"Knight and Day",
+			"gatsby_image_path":"..\/..\/images\/knight-and-day.jpg",
+			"slug":"knight-and-day"
+		},
+		{
 			"title":"Fantastic Beasts and Where to Find Them",
 			"gatsby_image_path":"..\/..\/images\/fantastic-beasts-and-where-to-find-them.jpg",
 			"slug":"fantastic-beasts-and-where-to-find-them"
@@ -69,9 +79,24 @@
 			"slug":"voyagers"
 		},
 		{
+			"title":"Twilight",
+			"gatsby_image_path":"..\/..\/images\/twilight.jpg",
+			"slug":"twilight"
+		},
+		{
 			"title":"Transformers: The Last Knight",
 			"gatsby_image_path":"..\/..\/images\/transformers-the-last-knight.jpg",
 			"slug":"transformers-the-last-knight"
+		},
+		{
+			"title":"Transformers: Revenge of the Fallen",
+			"gatsby_image_path":"..\/..\/images\/transformers-revenge-of-the-fallen.jpg",
+			"slug":"transformers-revenge-of-the-fallen"
+		},
+		{
+			"title":"Total Recall",
+			"gatsby_image_path":"..\/..\/images\/total-recall.jpg",
+			"slug":"total-recall"
 		},
 		{
 			"title":"The Twilight Saga: New Moon",
@@ -94,6 +119,11 @@
 			"slug":"the-twilight-saga-breaking-dawn-part-1"
 		},
 		{
+			"title":"The Rover",
+			"gatsby_image_path":"..\/..\/images\/the-rover.jpg",
+			"slug":"the-rover"
+		},
+		{
 			"title":"The Ridiculous 6",
 			"gatsby_image_path":"..\/..\/images\/the-ridiculous-6.jpg",
 			"slug":"the-ridiculous-6"
@@ -102,6 +132,26 @@
 			"title":"The Magnificent Seven",
 			"gatsby_image_path":"..\/..\/images\/the-magnificent-seven.jpg",
 			"slug":"the-magnificent-seven"
+		},
+		{
+			"title":"The Lost City of Z",
+			"gatsby_image_path":"..\/..\/images\/the-lost-city-of-z.jpg",
+			"slug":"the-lost-city-of-z"
+		},
+		{
+			"title":"The Lord of the Rings: The Two Towers",
+			"gatsby_image_path":"..\/..\/images\/the-lord-of-the-rings-the-two-towers.jpg",
+			"slug":"the-lord-of-the-rings-the-two-towers"
+		},
+		{
+			"title":"The Lord of the Rings: The Return of the King",
+			"gatsby_image_path":"..\/..\/images\/the-lord-of-the-rings-the-return-of-the-king.jpg",
+			"slug":"the-lord-of-the-rings-the-return-of-the-king"
+		},
+		{
+			"title":"The King",
+			"gatsby_image_path":"..\/..\/images\/the-king.jpg",
+			"slug":"the-king"
 		}
 	],
 	"related_most_similar":[
@@ -270,19 +320,34 @@
 			"slug":"deadpool-3"
 		},
 		{
+			"title":"Cato",
+			"gatsby_image_path":"..\/..\/images\/cato.jpg",
+			"slug":"cato"
+		},
+		{
 			"title":"Jurassic World: Dominion",
 			"gatsby_image_path":"..\/..\/images\/jurassic-world-dominion.jpg",
 			"slug":"jurassic-world-dominion"
 		},
 		{
-			"title":"Despicable Me 2",
-			"gatsby_image_path":"..\/..\/images\/despicable-me-2.jpg",
-			"slug":"despicable-me-2"
+			"title":"Fantastic Beasts: The Secrets of Dumbledore",
+			"gatsby_image_path":"..\/..\/images\/fantastic-beasts-the-secrets-of-dumbledore.jpg",
+			"slug":"fantastic-beasts-the-secrets-of-dumbledore"
+		},
+		{
+			"title":"Chilangolandia",
+			"gatsby_image_path":"..\/..\/images\/chilangolandia.jpg",
+			"slug":"chilangolandia"
 		},
 		{
 			"title":"Fast & Furious 10",
 			"gatsby_image_path":"..\/..\/images\/fast-furious-10.jpg",
 			"slug":"fast-furious-10"
+		},
+		{
+			"title":"Despicable Me 2",
+			"gatsby_image_path":"..\/..\/images\/despicable-me-2.jpg",
+			"slug":"despicable-me-2"
 		},
 		{
 			"title":"John Wick: Chapter 4",
@@ -295,6 +360,31 @@
 			"slug":"next-avengers-heroes-of-tomorrow"
 		},
 		{
+			"title":"The Courier",
+			"gatsby_image_path":"..\/..\/images\/the-courier.jpg",
+			"slug":"the-courier"
+		},
+		{
+			"title":"French Lolita",
+			"gatsby_image_path":"..\/..\/images\/french-lolita.jpg",
+			"slug":"french-lolita"
+		},
+		{
+			"title":"Spider-Man: No Way Home",
+			"gatsby_image_path":"..\/..\/images\/spider-man-no-way-home.jpg",
+			"slug":"spider-man-no-way-home"
+		},
+		{
+			"title":"Guardians of the Galaxy",
+			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy.jpg",
+			"slug":"guardians-of-the-galaxy"
+		},
+		{
+			"title":"García y García",
+			"gatsby_image_path":"..\/..\/images\/garcía-y-garcía.jpg",
+			"slug":"garcía-y-garcía"
+		},
+		{
 			"title":"Pirates of the Caribbean: Dead Man's Chest",
 			"gatsby_image_path":"..\/..\/images\/pirates-of-the-caribbean-dead-man-s-chest.jpg",
 			"slug":"pirates-of-the-caribbean-dead-man-s-chest"
@@ -305,14 +395,9 @@
 			"slug":"wonder-woman-1984"
 		},
 		{
-			"title":"Guardians of the Galaxy",
-			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy.jpg",
-			"slug":"guardians-of-the-galaxy"
-		},
-		{
-			"title":"Spider-Man: No Way Home",
-			"gatsby_image_path":"..\/..\/images\/spider-man-no-way-home.jpg",
-			"slug":"spider-man-no-way-home"
+			"title":"Suicide Squad",
+			"gatsby_image_path":"..\/..\/images\/suicide-squad.jpg",
+			"slug":"suicide-squad"
 		},
 		{
 			"title":"Dawn of the Dead",
@@ -323,41 +408,6 @@
 			"title":"RED 2",
 			"gatsby_image_path":"..\/..\/images\/red-2.jpg",
 			"slug":"red-2"
-		},
-		{
-			"title":"Batman: Soul of the Dragon",
-			"gatsby_image_path":"..\/..\/images\/batman-soul-of-the-dragon.jpg",
-			"slug":"batman-soul-of-the-dragon"
-		},
-		{
-			"title":"Monsters University",
-			"gatsby_image_path":"..\/..\/images\/monsters-university.jpg",
-			"slug":"monsters-university"
-		},
-		{
-			"title":"The Matrix Revolutions",
-			"gatsby_image_path":"..\/..\/images\/the-matrix-revolutions.jpg",
-			"slug":"the-matrix-revolutions"
-		},
-		{
-			"title":"Untitled 'The Walking Dead' Film",
-			"gatsby_image_path":"..\/..\/images\/untitled-the-walking-dead-film.jpg",
-			"slug":"untitled-the-walking-dead-film"
-		},
-		{
-			"title":"Venom: Let There Be Carnage",
-			"gatsby_image_path":"..\/..\/images\/venom-let-there-be-carnage.jpg",
-			"slug":"venom-let-there-be-carnage"
-		},
-		{
-			"title":"Alien Warfare",
-			"gatsby_image_path":"..\/..\/images\/alien-warfare.jpg",
-			"slug":"alien-warfare"
-		},
-		{
-			"title":"Spider-Man: Into the Spider-Verse 2",
-			"gatsby_image_path":"..\/..\/images\/spider-man-into-the-spider-verse-2.jpg",
-			"slug":"spider-man-into-the-spider-verse-2"
 		}
 	],
 	"tmdb_id":414906,

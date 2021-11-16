@@ -58,6 +58,11 @@
 			"slug":"the-wolf-of-snow-hollow"
 		},
 		{
+			"title":"The Power of the Dog",
+			"gatsby_image_path":"..\/..\/images\/the-power-of-the-dog.jpg",
+			"slug":"the-power-of-the-dog"
+		},
+		{
 			"title":"The Hills Have Eyes",
 			"gatsby_image_path":"..\/..\/images\/the-hills-have-eyes.jpg",
 			"slug":"the-hills-have-eyes"
@@ -88,6 +93,11 @@
 			"slug":"home"
 		},
 		{
+			"title":"Ghosts of Girlfriends Past",
+			"gatsby_image_path":"..\/..\/images\/ghosts-of-girlfriends-past.jpg",
+			"slug":"ghosts-of-girlfriends-past"
+		},
+		{
 			"title":"Exodus: Gods and Kings",
 			"gatsby_image_path":"..\/..\/images\/exodus-gods-and-kings.jpg",
 			"slug":"exodus-gods-and-kings"
@@ -101,6 +111,46 @@
 			"title":"Battleship",
 			"gatsby_image_path":"..\/..\/images\/battleship.jpg",
 			"slug":"battleship"
+		},
+		{
+			"title":"Bad Lieutenant: Port of Call - New Orleans",
+			"gatsby_image_path":"..\/..\/images\/bad-lieutenant-port-of-call-new-orleans.jpg",
+			"slug":"bad-lieutenant-port-of-call-new-orleans"
+		},
+		{
+			"title":"Antlers",
+			"gatsby_image_path":"..\/..\/images\/antlers.jpg",
+			"slug":"antlers"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
+			"title":"Zombieland: Double Tap",
+			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
+			"slug":"zombieland-double-tap"
+		},
+		{
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
+		},
+		{
+			"title":"Zack Snyder's Justice League",
+			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
+			"slug":"zack-snyder-s-justice-league"
 		}
 	],
 	"related_most_similar":[
@@ -264,14 +314,24 @@
 			"slug":"black-box"
 		},
 		{
-			"title":"Carrie",
-			"gatsby_image_path":"..\/..\/images\/carrie.jpg",
-			"slug":"carrie"
+			"title":"Silver Linings Playbook",
+			"gatsby_image_path":"..\/..\/images\/silver-linings-playbook.jpg",
+			"slug":"silver-linings-playbook"
 		},
 		{
 			"title":"Donnie Darko",
 			"gatsby_image_path":"..\/..\/images\/donnie-darko.jpg",
 			"slug":"donnie-darko"
+		},
+		{
+			"title":"Blackhat",
+			"gatsby_image_path":"..\/..\/images\/blackhat.jpg",
+			"slug":"blackhat"
+		},
+		{
+			"title":"Limitless",
+			"gatsby_image_path":"..\/..\/images\/limitless.jpg",
+			"slug":"limitless"
 		},
 		{
 			"title":"Journey 2: The Mysterious Island",
@@ -284,14 +344,14 @@
 			"slug":"hollow-point"
 		},
 		{
+			"title":"Titane",
+			"gatsby_image_path":"..\/..\/images\/titane.jpg",
+			"slug":"titane"
+		},
+		{
 			"title":"Finding 'Ohana",
 			"gatsby_image_path":"..\/..\/images\/finding-ohana.jpg",
 			"slug":"finding-ohana"
-		},
-		{
-			"title":"Den of Thieves",
-			"gatsby_image_path":"..\/..\/images\/den-of-thieves.jpg",
-			"slug":"den-of-thieves"
 		},
 		{
 			"title":"The Book of Life",
@@ -304,19 +364,24 @@
 			"slug":"happy-death-day"
 		},
 		{
+			"title":"Den of Thieves",
+			"gatsby_image_path":"..\/..\/images\/den-of-thieves.jpg",
+			"slug":"den-of-thieves"
+		},
+		{
+			"title":"Trick 'r Treat",
+			"gatsby_image_path":"..\/..\/images\/trick-r-treat.jpg",
+			"slug":"trick-r-treat"
+		},
+		{
 			"title":"The Fate of the Furious",
 			"gatsby_image_path":"..\/..\/images\/the-fate-of-the-furious.jpg",
 			"slug":"the-fate-of-the-furious"
 		},
 		{
-			"title":"Jeepers Creepers 3",
-			"gatsby_image_path":"..\/..\/images\/jeepers-creepers-3.jpg",
-			"slug":"jeepers-creepers-3"
-		},
-		{
-			"title":"The Polar Express",
-			"gatsby_image_path":"..\/..\/images\/the-polar-express.jpg",
-			"slug":"the-polar-express"
+			"title":"7 Prisoners",
+			"gatsby_image_path":"..\/..\/images\/7-prisoners.jpg",
+			"slug":"7-prisoners"
 		},
 		{
 			"title":"Night at the Museum: Secret of the Tomb",
@@ -329,34 +394,19 @@
 			"slug":"life-of-pi"
 		},
 		{
-			"title":"Honest Thief",
-			"gatsby_image_path":"..\/..\/images\/honest-thief.jpg",
-			"slug":"honest-thief"
-		},
-		{
-			"title":"Wicked Minds",
-			"gatsby_image_path":"..\/..\/images\/wicked-minds.jpg",
-			"slug":"wicked-minds"
-		},
-		{
 			"title":"Stuart Little",
 			"gatsby_image_path":"..\/..\/images\/stuart-little.jpg",
 			"slug":"stuart-little"
 		},
 		{
-			"title":"Tomb Raider",
-			"gatsby_image_path":"..\/..\/images\/tomb-raider.jpg",
-			"slug":"tomb-raider"
+			"title":"Jeepers Creepers 3",
+			"gatsby_image_path":"..\/..\/images\/jeepers-creepers-3.jpg",
+			"slug":"jeepers-creepers-3"
 		},
 		{
-			"title":"Bad Sister",
-			"gatsby_image_path":"..\/..\/images\/bad-sister.jpg",
-			"slug":"bad-sister"
-		},
-		{
-			"title":"Apocalypto",
-			"gatsby_image_path":"..\/..\/images\/apocalypto.jpg",
-			"slug":"apocalypto"
+			"title":"The Polar Express",
+			"gatsby_image_path":"..\/..\/images\/the-polar-express.jpg",
+			"slug":"the-polar-express"
 		}
 	],
 	"tmdb_id":559969,

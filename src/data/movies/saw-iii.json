@@ -67,6 +67,11 @@
 			"slug":"saw-ii"
 		},
 		{
+			"title":"Saw VI",
+			"gatsby_image_path":"..\/..\/images\/saw-vi.jpg",
+			"slug":"saw-vi"
+		},
+		{
 			"title":"The Sixth Sense",
 			"gatsby_image_path":"..\/..\/images\/the-sixth-sense.jpg",
 			"slug":"the-sixth-sense"
@@ -100,6 +105,51 @@
 			"title":"Line of Duty",
 			"gatsby_image_path":"..\/..\/images\/line-of-duty.jpg",
 			"slug":"line-of-duty"
+		},
+		{
+			"title":"Jigsaw",
+			"gatsby_image_path":"..\/..\/images\/jigsaw.jpg",
+			"slug":"jigsaw"
+		},
+		{
+			"title":"Insidious: The Last Key",
+			"gatsby_image_path":"..\/..\/images\/insidious-the-last-key.jpg",
+			"slug":"insidious-the-last-key"
+		},
+		{
+			"title":"Insidious",
+			"gatsby_image_path":"..\/..\/images\/insidious.jpg",
+			"slug":"insidious"
+		},
+		{
+			"title":"Insidious: Chapter 3",
+			"gatsby_image_path":"..\/..\/images\/insidious-chapter-3.jpg",
+			"slug":"insidious-chapter-3"
+		},
+		{
+			"title":"Insidious: Chapter 2",
+			"gatsby_image_path":"..\/..\/images\/insidious-chapter-2.jpg",
+			"slug":"insidious-chapter-2"
+		},
+		{
+			"title":"Dead Silence",
+			"gatsby_image_path":"..\/..\/images\/dead-silence.jpg",
+			"slug":"dead-silence"
+		},
+		{
+			"title":"Braveheart",
+			"gatsby_image_path":"..\/..\/images\/braveheart.jpg",
+			"slug":"braveheart"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
 		}
 	],
 	"related_most_similar":[
@@ -268,14 +318,14 @@
 			"slug":"men-in-black"
 		},
 		{
-			"title":"Hitman's Wife's Bodyguard",
-			"gatsby_image_path":"..\/..\/images\/hitman-s-wife-s-bodyguard.jpg",
-			"slug":"hitman-s-wife-s-bodyguard"
-		},
-		{
 			"title":"Frankenweenie",
 			"gatsby_image_path":"..\/..\/images\/frankenweenie.jpg",
 			"slug":"frankenweenie"
+		},
+		{
+			"title":"Hitman's Wife's Bodyguard",
+			"gatsby_image_path":"..\/..\/images\/hitman-s-wife-s-bodyguard.jpg",
+			"slug":"hitman-s-wife-s-bodyguard"
 		},
 		{
 			"title":"Blade Runner 2049",
@@ -283,19 +333,14 @@
 			"slug":"blade-runner-2049"
 		},
 		{
-			"title":"Pirates of the Caribbean: Dead Men Tell No Tales",
-			"gatsby_image_path":"..\/..\/images\/pirates-of-the-caribbean-dead-men-tell-no-tales.jpg",
-			"slug":"pirates-of-the-caribbean-dead-men-tell-no-tales"
-		},
-		{
 			"title":"Maleficent: Mistress of Evil",
 			"gatsby_image_path":"..\/..\/images\/maleficent-mistress-of-evil.jpg",
 			"slug":"maleficent-mistress-of-evil"
 		},
 		{
-			"title":"Child's Play 3",
-			"gatsby_image_path":"..\/..\/images\/child-s-play-3.jpg",
-			"slug":"child-s-play-3"
+			"title":"Pirates of the Caribbean: Dead Men Tell No Tales",
+			"gatsby_image_path":"..\/..\/images\/pirates-of-the-caribbean-dead-men-tell-no-tales.jpg",
+			"slug":"pirates-of-the-caribbean-dead-men-tell-no-tales"
 		},
 		{
 			"title":"Stuber",
@@ -303,9 +348,24 @@
 			"slug":"stuber"
 		},
 		{
+			"title":"Scary Stories to Tell in the Dark",
+			"gatsby_image_path":"..\/..\/images\/scary-stories-to-tell-in-the-dark.jpg",
+			"slug":"scary-stories-to-tell-in-the-dark"
+		},
+		{
+			"title":"Child's Play 3",
+			"gatsby_image_path":"..\/..\/images\/child-s-play-3.jpg",
+			"slug":"child-s-play-3"
+		},
+		{
 			"title":"Killer Bean Forever",
 			"gatsby_image_path":"..\/..\/images\/killer-bean-forever.jpg",
 			"slug":"killer-bean-forever"
+		},
+		{
+			"title":"The Black Phone",
+			"gatsby_image_path":"..\/..\/images\/the-black-phone.jpg",
+			"slug":"the-black-phone"
 		},
 		{
 			"title":"Skylines",
@@ -318,14 +378,14 @@
 			"slug":"the-aeronauts"
 		},
 		{
-			"title":"Shooter",
-			"gatsby_image_path":"..\/..\/images\/shooter.jpg",
-			"slug":"shooter"
+			"title":"Cowboys & Aliens",
+			"gatsby_image_path":"..\/..\/images\/cowboys-aliens.jpg",
+			"slug":"cowboys-aliens"
 		},
 		{
-			"title":"Legion",
-			"gatsby_image_path":"..\/..\/images\/legion.jpg",
-			"slug":"legion"
+			"title":"A Good Day to Die Hard",
+			"gatsby_image_path":"..\/..\/images\/a-good-day-to-die-hard.jpg",
+			"slug":"a-good-day-to-die-hard"
 		},
 		{
 			"title":"Deep Blue Sea 3",
@@ -338,24 +398,14 @@
 			"slug":"how-to-train-your-dragon-2"
 		},
 		{
-			"title":"Jeepers Creepers 2",
-			"gatsby_image_path":"..\/..\/images\/jeepers-creepers-2.jpg",
-			"slug":"jeepers-creepers-2"
+			"title":"Shooter",
+			"gatsby_image_path":"..\/..\/images\/shooter.jpg",
+			"slug":"shooter"
 		},
 		{
 			"title":"Terminator Salvation",
 			"gatsby_image_path":"..\/..\/images\/terminator-salvation.jpg",
 			"slug":"terminator-salvation"
-		},
-		{
-			"title":"Ice Age: Collision Course",
-			"gatsby_image_path":"..\/..\/images\/ice-age-collision-course.jpg",
-			"slug":"ice-age-collision-course"
-		},
-		{
-			"title":"The Purge: Election Year",
-			"gatsby_image_path":"..\/..\/images\/the-purge-election-year.jpg",
-			"slug":"the-purge-election-year"
 		}
 	],
 	"tmdb_id":214,

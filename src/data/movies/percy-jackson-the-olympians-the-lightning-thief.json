@@ -54,6 +54,16 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Percy Jackson: Sea of Monsters",
+			"gatsby_image_path":"..\/..\/images\/percy-jackson-sea-of-monsters.jpg",
+			"slug":"percy-jackson-sea-of-monsters"
+		},
+		{
+			"title":"Tropic Thunder",
+			"gatsby_image_path":"..\/..\/images\/tropic-thunder.jpg",
+			"slug":"tropic-thunder"
+		},
+		{
 			"title":"Zombieland: Double Tap",
 			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
 			"slug":"zombieland-double-tap"
@@ -84,6 +94,11 @@
 			"slug":"the-water-man"
 		},
 		{
+			"title":"The Other Guys",
+			"gatsby_image_path":"..\/..\/images\/the-other-guys.jpg",
+			"slug":"the-other-guys"
+		},
+		{
 			"title":"The Misfits",
 			"gatsby_image_path":"..\/..\/images\/the-misfits.jpg",
 			"slug":"the-misfits"
@@ -102,6 +117,41 @@
 			"title":"The Lego Batman Movie",
 			"gatsby_image_path":"..\/..\/images\/the-lego-batman-movie.jpg",
 			"slug":"the-lego-batman-movie"
+		},
+		{
+			"title":"The Indian in the Cupboard",
+			"gatsby_image_path":"..\/..\/images\/the-indian-in-the-cupboard.jpg",
+			"slug":"the-indian-in-the-cupboard"
+		},
+		{
+			"title":"The Foreigner",
+			"gatsby_image_path":"..\/..\/images\/the-foreigner.jpg",
+			"slug":"the-foreigner"
+		},
+		{
+			"title":"The Croods",
+			"gatsby_image_path":"..\/..\/images\/the-croods.jpg",
+			"slug":"the-croods"
+		},
+		{
+			"title":"The Croods: A New Age",
+			"gatsby_image_path":"..\/..\/images\/the-croods-a-new-age.jpg",
+			"slug":"the-croods-a-new-age"
+		},
+		{
+			"title":"Texas Chainsaw 3D",
+			"gatsby_image_path":"..\/..\/images\/texas-chainsaw-3d.jpg",
+			"slug":"texas-chainsaw-3d"
+		},
+		{
+			"title":"Superman: Man of Tomorrow",
+			"gatsby_image_path":"..\/..\/images\/superman-man-of-tomorrow.jpg",
+			"slug":"superman-man-of-tomorrow"
+		},
+		{
+			"title":"Songbird",
+			"gatsby_image_path":"..\/..\/images\/songbird.jpg",
+			"slug":"songbird"
 		}
 	],
 	"related_most_similar":[
@@ -290,6 +340,21 @@
 			"slug":"one-piece-film-z"
 		},
 		{
+			"title":"Kick-Ass 2",
+			"gatsby_image_path":"..\/..\/images\/kick-ass-2.jpg",
+			"slug":"kick-ass-2"
+		},
+		{
+			"title":"Willy's Wonderland",
+			"gatsby_image_path":"..\/..\/images\/willy-s-wonderland.jpg",
+			"slug":"willy-s-wonderland"
+		},
+		{
+			"title":"Avatar",
+			"gatsby_image_path":"..\/..\/images\/avatar.jpg",
+			"slug":"avatar"
+		},
+		{
 			"title":"Dragon Ball Z: Cooler's Revenge",
 			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-cooler-s-revenge.jpg",
 			"slug":"dragon-ball-z-cooler-s-revenge"
@@ -298,16 +363,6 @@
 			"title":"Jurassic World: Fallen Kingdom",
 			"gatsby_image_path":"..\/..\/images\/jurassic-world-fallen-kingdom.jpg",
 			"slug":"jurassic-world-fallen-kingdom"
-		},
-		{
-			"title":"Avatar",
-			"gatsby_image_path":"..\/..\/images\/avatar.jpg",
-			"slug":"avatar"
-		},
-		{
-			"title":"Willy's Wonderland",
-			"gatsby_image_path":"..\/..\/images\/willy-s-wonderland.jpg",
-			"slug":"willy-s-wonderland"
 		},
 		{
 			"title":"xXx: Return of Xander Cage",
@@ -325,9 +380,14 @@
 			"slug":"avengers-age-of-ultron"
 		},
 		{
-			"title":"John Wick: Chapter 2",
-			"gatsby_image_path":"..\/..\/images\/john-wick-chapter-2.jpg",
-			"slug":"john-wick-chapter-2"
+			"title":"Treasure Planet",
+			"gatsby_image_path":"..\/..\/images\/treasure-planet.jpg",
+			"slug":"treasure-planet"
+		},
+		{
+			"title":"Jonah Hex",
+			"gatsby_image_path":"..\/..\/images\/jonah-hex.jpg",
+			"slug":"jonah-hex"
 		},
 		{
 			"title":"Spider-Man 3",
@@ -335,9 +395,9 @@
 			"slug":"spider-man-3"
 		},
 		{
-			"title":"Treasure Planet",
-			"gatsby_image_path":"..\/..\/images\/treasure-planet.jpg",
-			"slug":"treasure-planet"
+			"title":"John Wick: Chapter 2",
+			"gatsby_image_path":"..\/..\/images\/john-wick-chapter-2.jpg",
+			"slug":"john-wick-chapter-2"
 		},
 		{
 			"title":"The Incredibles",
@@ -345,19 +405,9 @@
 			"slug":"the-incredibles"
 		},
 		{
-			"title":"Ant-Man and the Wasp",
-			"gatsby_image_path":"..\/..\/images\/ant-man-and-the-wasp.jpg",
-			"slug":"ant-man-and-the-wasp"
-		},
-		{
 			"title":"TRON: Legacy",
 			"gatsby_image_path":"..\/..\/images\/tron-legacy.jpg",
 			"slug":"tron-legacy"
-		},
-		{
-			"title":"Ant-Man",
-			"gatsby_image_path":"..\/..\/images\/ant-man.jpg",
-			"slug":"ant-man"
 		}
 	],
 	"tmdb_id":32657,

@@ -59,6 +59,11 @@
 			"slug":"the-boss-baby-get-that-baby"
 		},
 		{
+			"title":"Yes Man",
+			"gatsby_image_path":"..\/..\/images\/yes-man.jpg",
+			"slug":"yes-man"
+		},
+		{
 			"title":"The Wild",
 			"gatsby_image_path":"..\/..\/images\/the-wild.jpg",
 			"slug":"the-wild"
@@ -67,6 +72,11 @@
 			"title":"The Rugrats Movie",
 			"gatsby_image_path":"..\/..\/images\/the-rugrats-movie.jpg",
 			"slug":"the-rugrats-movie"
+		},
+		{
+			"title":"The Loud House Movie",
+			"gatsby_image_path":"..\/..\/images\/the-loud-house-movie.jpg",
+			"slug":"the-loud-house-movie"
 		},
 		{
 			"title":"The Lion Guard: Return of the Roar",
@@ -84,6 +94,16 @@
 			"slug":"suicide-squad-hell-to-pay"
 		},
 		{
+			"title":"Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog",
+			"gatsby_image_path":"..\/..\/images\/straight-outta-nowhere-scooby-doo-meets-courage-the-cowardly-dog.jpg",
+			"slug":"straight-outta-nowhere-scooby-doo-meets-courage-the-cowardly-dog"
+		},
+		{
+			"title":"Sharkdog’s Fintastic Halloween",
+			"gatsby_image_path":"..\/..\/images\/sharkdog’s-fintastic-halloween.jpg",
+			"slug":"sharkdog’s-fintastic-halloween"
+		},
+		{
 			"title":"Scooby-Doo! The Sword and the Scoob",
 			"gatsby_image_path":"..\/..\/images\/scooby-doo-the-sword-and-the-scoob.jpg",
 			"slug":"scooby-doo-the-sword-and-the-scoob"
@@ -92,6 +112,36 @@
 			"title":"Scooby-Doo! Pirates Ahoy!",
 			"gatsby_image_path":"..\/..\/images\/scooby-doo-pirates-ahoy.jpg",
 			"slug":"scooby-doo-pirates-ahoy"
+		},
+		{
+			"title":"Scooby-Doo! in Where's My Mummy?",
+			"gatsby_image_path":"..\/..\/images\/scooby-doo-in-where-s-my-mummy.jpg",
+			"slug":"scooby-doo-in-where-s-my-mummy"
+		},
+		{
+			"title":"Scooby-Doo! and the Cyber Chase",
+			"gatsby_image_path":"..\/..\/images\/scooby-doo-and-the-cyber-chase.jpg",
+			"slug":"scooby-doo-and-the-cyber-chase"
+		},
+		{
+			"title":"Onward",
+			"gatsby_image_path":"..\/..\/images\/onward.jpg",
+			"slug":"onward"
+		},
+		{
+			"title":"Mortal Kombat Legends: Scorpion's Revenge",
+			"gatsby_image_path":"..\/..\/images\/mortal-kombat-legends-scorpion-s-revenge.jpg",
+			"slug":"mortal-kombat-legends-scorpion-s-revenge"
+		},
+		{
+			"title":"Lilo & Stitch",
+			"gatsby_image_path":"..\/..\/images\/lilo-stitch.jpg",
+			"slug":"lilo-stitch"
+		},
+		{
+			"title":"LEGO Marvel Spider-Man: Vexed by Venom",
+			"gatsby_image_path":"..\/..\/images\/lego-marvel-spider-man-vexed-by-venom.jpg",
+			"slug":"lego-marvel-spider-man-vexed-by-venom"
 		}
 	],
 	"related_most_similar":[
@@ -285,14 +335,14 @@
 			"slug":"minions"
 		},
 		{
+			"title":"Injustice",
+			"gatsby_image_path":"..\/..\/images\/injustice.jpg",
+			"slug":"injustice"
+		},
+		{
 			"title":"Spider-Man: Homecoming",
 			"gatsby_image_path":"..\/..\/images\/spider-man-homecoming.jpg",
 			"slug":"spider-man-homecoming"
-		},
-		{
-			"title":"Spider-Man: Far From Home",
-			"gatsby_image_path":"..\/..\/images\/spider-man-far-from-home.jpg",
-			"slug":"spider-man-far-from-home"
 		},
 		{
 			"title":"Justice League: Throne of Atlantis",
@@ -300,9 +350,19 @@
 			"slug":"justice-league-throne-of-atlantis"
 		},
 		{
+			"title":"Spider-Man: Far From Home",
+			"gatsby_image_path":"..\/..\/images\/spider-man-far-from-home.jpg",
+			"slug":"spider-man-far-from-home"
+		},
+		{
 			"title":"The Amazing Spider-Man",
 			"gatsby_image_path":"..\/..\/images\/the-amazing-spider-man.jpg",
 			"slug":"the-amazing-spider-man"
+		},
+		{
+			"title":"Avengers Grimm",
+			"gatsby_image_path":"..\/..\/images\/avengers-grimm.jpg",
+			"slug":"avengers-grimm"
 		},
 		{
 			"title":"Terminator: Dark Fate",
@@ -310,9 +370,9 @@
 			"slug":"terminator-dark-fate"
 		},
 		{
-			"title":"Hoodwinked Too! Hood VS. Evil",
-			"gatsby_image_path":"..\/..\/images\/hoodwinked-too-hood-vs.-evil.jpg",
-			"slug":"hoodwinked-too-hood-vs.-evil"
+			"title":"Spider-Man 2",
+			"gatsby_image_path":"..\/..\/images\/spider-man-2.jpg",
+			"slug":"spider-man-2"
 		},
 		{
 			"title":"Dragon Ball Z: Dead Zone",
@@ -320,14 +380,14 @@
 			"slug":"dragon-ball-z-dead-zone"
 		},
 		{
+			"title":"Hoodwinked Too! Hood VS. Evil",
+			"gatsby_image_path":"..\/..\/images\/hoodwinked-too-hood-vs.-evil.jpg",
+			"slug":"hoodwinked-too-hood-vs.-evil"
+		},
+		{
 			"title":"Ant-Man",
 			"gatsby_image_path":"..\/..\/images\/ant-man.jpg",
 			"slug":"ant-man"
-		},
-		{
-			"title":"Snake Eyes: G.I. Joe Origins",
-			"gatsby_image_path":"..\/..\/images\/snake-eyes-g.i.-joe-origins.jpg",
-			"slug":"snake-eyes-g.i.-joe-origins"
 		},
 		{
 			"title":"Dark Phoenix",
@@ -335,19 +395,9 @@
 			"slug":"dark-phoenix"
 		},
 		{
-			"title":"PAW Patrol: Mighty Pups",
-			"gatsby_image_path":"..\/..\/images\/paw-patrol-mighty-pups.jpg",
-			"slug":"paw-patrol-mighty-pups"
-		},
-		{
-			"title":"The Dark Knight Rises",
-			"gatsby_image_path":"..\/..\/images\/the-dark-knight-rises.jpg",
-			"slug":"the-dark-knight-rises"
-		},
-		{
-			"title":"The Amazing Spider-Man 2",
-			"gatsby_image_path":"..\/..\/images\/the-amazing-spider-man-2.jpg",
-			"slug":"the-amazing-spider-man-2"
+			"title":"Snake Eyes: G.I. Joe Origins",
+			"gatsby_image_path":"..\/..\/images\/snake-eyes-g.i.-joe-origins.jpg",
+			"slug":"snake-eyes-g.i.-joe-origins"
 		}
 	],
 	"tmdb_id":556901,

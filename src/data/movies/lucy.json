@@ -52,6 +52,11 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Ghost in the Shell",
+			"gatsby_image_path":"..\/..\/images\/ghost-in-the-shell.jpg",
+			"slug":"ghost-in-the-shell"
+		},
+		{
 			"title":"Wonder Woman 1984",
 			"gatsby_image_path":"..\/..\/images\/wonder-woman-1984.jpg",
 			"slug":"wonder-woman-1984"
@@ -70,11 +75,6 @@
 			"title":"The Shawshank Redemption",
 			"gatsby_image_path":"..\/..\/images\/the-shawshank-redemption.jpg",
 			"slug":"the-shawshank-redemption"
-		},
-		{
-			"title":"The Jungle Book",
-			"gatsby_image_path":"..\/..\/images\/the-jungle-book.jpg",
-			"slug":"the-jungle-book"
 		},
 		{
 			"title":"The Dark Knight Rises",
@@ -100,6 +100,56 @@
 			"title":"Ted 2",
 			"gatsby_image_path":"..\/..\/images\/ted-2.jpg",
 			"slug":"ted-2"
+		},
+		{
+			"title":"Sing",
+			"gatsby_image_path":"..\/..\/images\/sing.jpg",
+			"slug":"sing"
+		},
+		{
+			"title":"Sing 2",
+			"gatsby_image_path":"..\/..\/images\/sing-2.jpg",
+			"slug":"sing-2"
+		},
+		{
+			"title":"Se7en",
+			"gatsby_image_path":"..\/..\/images\/se7en.jpg",
+			"slug":"se7en"
+		},
+		{
+			"title":"Overlord",
+			"gatsby_image_path":"..\/..\/images\/overlord.jpg",
+			"slug":"overlord"
+		},
+		{
+			"title":"Outside the Wire",
+			"gatsby_image_path":"..\/..\/images\/outside-the-wire.jpg",
+			"slug":"outside-the-wire"
+		},
+		{
+			"title":"Olympus Has Fallen",
+			"gatsby_image_path":"..\/..\/images\/olympus-has-fallen.jpg",
+			"slug":"olympus-has-fallen"
+		},
+		{
+			"title":"Now You See Me",
+			"gatsby_image_path":"..\/..\/images\/now-you-see-me.jpg",
+			"slug":"now-you-see-me"
+		},
+		{
+			"title":"Now You See Me 2",
+			"gatsby_image_path":"..\/..\/images\/now-you-see-me-2.jpg",
+			"slug":"now-you-see-me-2"
+		},
+		{
+			"title":"Momentum",
+			"gatsby_image_path":"..\/..\/images\/momentum.jpg",
+			"slug":"momentum"
+		},
+		{
+			"title":"Marriage Story",
+			"gatsby_image_path":"..\/..\/images\/marriage-story.jpg",
+			"slug":"marriage-story"
 		}
 	],
 	"related_most_similar":[
@@ -273,9 +323,24 @@
 			"slug":"the-king-s-man"
 		},
 		{
+			"title":"Army of Thieves",
+			"gatsby_image_path":"..\/..\/images\/army-of-thieves.jpg",
+			"slug":"army-of-thieves"
+		},
+		{
+			"title":"Kate",
+			"gatsby_image_path":"..\/..\/images\/kate.jpg",
+			"slug":"kate"
+		},
+		{
 			"title":"Resident Evil: Vendetta",
 			"gatsby_image_path":"..\/..\/images\/resident-evil-vendetta.jpg",
 			"slug":"resident-evil-vendetta"
+		},
+		{
+			"title":"Hummingbird",
+			"gatsby_image_path":"..\/..\/images\/hummingbird.jpg",
+			"slug":"hummingbird"
 		},
 		{
 			"title":"The Equalizer 2",
@@ -283,14 +348,34 @@
 			"slug":"the-equalizer-2"
 		},
 		{
+			"title":"Avengement",
+			"gatsby_image_path":"..\/..\/images\/avengement.jpg",
+			"slug":"avengement"
+		},
+		{
 			"title":"Sentinelle",
 			"gatsby_image_path":"..\/..\/images\/sentinelle.jpg",
 			"slug":"sentinelle"
 		},
 		{
-			"title":"Avengement",
-			"gatsby_image_path":"..\/..\/images\/avengement.jpg",
-			"slug":"avengement"
+			"title":"Solitary",
+			"gatsby_image_path":"..\/..\/images\/solitary.jpg",
+			"slug":"solitary"
+		},
+		{
+			"title":"Prince of Persia: The Sands of Time",
+			"gatsby_image_path":"..\/..\/images\/prince-of-persia-the-sands-of-time.jpg",
+			"slug":"prince-of-persia-the-sands-of-time"
+		},
+		{
+			"title":"The Meg",
+			"gatsby_image_path":"..\/..\/images\/the-meg.jpg",
+			"slug":"the-meg"
+		},
+		{
+			"title":"Mortal Kombat",
+			"gatsby_image_path":"..\/..\/images\/mortal-kombat.jpg",
+			"slug":"mortal-kombat"
 		},
 		{
 			"title":"The Foreigner",
@@ -303,21 +388,6 @@
 			"slug":"spirit-untamed"
 		},
 		{
-			"title":"Mortal Kombat",
-			"gatsby_image_path":"..\/..\/images\/mortal-kombat.jpg",
-			"slug":"mortal-kombat"
-		},
-		{
-			"title":"The Meg",
-			"gatsby_image_path":"..\/..\/images\/the-meg.jpg",
-			"slug":"the-meg"
-		},
-		{
-			"title":"Mission: Impossible - Rogue Nation",
-			"gatsby_image_path":"..\/..\/images\/mission-impossible-rogue-nation.jpg",
-			"slug":"mission-impossible-rogue-nation"
-		},
-		{
 			"title":"A Nun's Curse",
 			"gatsby_image_path":"..\/..\/images\/a-nun-s-curse.jpg",
 			"slug":"a-nun-s-curse"
@@ -328,34 +398,14 @@
 			"slug":"nomadland"
 		},
 		{
-			"title":"The Osiris Child",
-			"gatsby_image_path":"..\/..\/images\/the-osiris-child.jpg",
-			"slug":"the-osiris-child"
+			"title":"The Marine 3: Homefront",
+			"gatsby_image_path":"..\/..\/images\/the-marine-3-homefront.jpg",
+			"slug":"the-marine-3-homefront"
 		},
 		{
-			"title":"Blade",
-			"gatsby_image_path":"..\/..\/images\/blade.jpg",
-			"slug":"blade"
-		},
-		{
-			"title":"The Fate of the Furious",
-			"gatsby_image_path":"..\/..\/images\/the-fate-of-the-furious.jpg",
-			"slug":"the-fate-of-the-furious"
-		},
-		{
-			"title":"Ellipse",
-			"gatsby_image_path":"..\/..\/images\/ellipse.jpg",
-			"slug":"ellipse"
-		},
-		{
-			"title":"Tenet",
-			"gatsby_image_path":"..\/..\/images\/tenet.jpg",
-			"slug":"tenet"
-		},
-		{
-			"title":"Predator 2",
-			"gatsby_image_path":"..\/..\/images\/predator-2.jpg",
-			"slug":"predator-2"
+			"title":"Mission: Impossible - Rogue Nation",
+			"gatsby_image_path":"..\/..\/images\/mission-impossible-rogue-nation.jpg",
+			"slug":"mission-impossible-rogue-nation"
 		}
 	],
 	"tmdb_id":240832,

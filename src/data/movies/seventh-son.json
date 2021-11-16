@@ -106,6 +106,56 @@
 			"title":"The Green Knight",
 			"gatsby_image_path":"..\/..\/images\/the-green-knight.jpg",
 			"slug":"the-green-knight"
+		},
+		{
+			"title":"The Father",
+			"gatsby_image_path":"..\/..\/images\/the-father.jpg",
+			"slug":"the-father"
+		},
+		{
+			"title":"The Chronicles of Narnia: The Voyage of the Dawn Treader",
+			"gatsby_image_path":"..\/..\/images\/the-chronicles-of-narnia-the-voyage-of-the-dawn-treader.jpg",
+			"slug":"the-chronicles-of-narnia-the-voyage-of-the-dawn-treader"
+		},
+		{
+			"title":"The Chronicles of Narnia: Prince Caspian",
+			"gatsby_image_path":"..\/..\/images\/the-chronicles-of-narnia-prince-caspian.jpg",
+			"slug":"the-chronicles-of-narnia-prince-caspian"
+		},
+		{
+			"title":"Spirit Untamed",
+			"gatsby_image_path":"..\/..\/images\/spirit-untamed.jpg",
+			"slug":"spirit-untamed"
+		},
+		{
+			"title":"Special Forces",
+			"gatsby_image_path":"..\/..\/images\/special-forces.jpg",
+			"slug":"special-forces"
+		},
+		{
+			"title":"Son of a Gun",
+			"gatsby_image_path":"..\/..\/images\/son-of-a-gun.jpg",
+			"slug":"son-of-a-gun"
+		},
+		{
+			"title":"R.I.P.D.",
+			"gatsby_image_path":"..\/..\/images\/r.i.p.d..jpg",
+			"slug":"r.i.p.d."
+		},
+		{
+			"title":"Only the Brave",
+			"gatsby_image_path":"..\/..\/images\/only-the-brave.jpg",
+			"slug":"only-the-brave"
+		},
+		{
+			"title":"Never Back Down",
+			"gatsby_image_path":"..\/..\/images\/never-back-down.jpg",
+			"slug":"never-back-down"
+		},
+		{
+			"title":"Mulan",
+			"gatsby_image_path":"..\/..\/images\/mulan.jpg",
+			"slug":"mulan"
 		}
 	],
 	"related_most_similar":[
@@ -274,14 +324,14 @@
 			"slug":"fantastic-beasts-the-crimes-of-grindelwald"
 		},
 		{
-			"title":"Turner & Hooch",
-			"gatsby_image_path":"..\/..\/images\/turner-hooch.jpg",
-			"slug":"turner-hooch"
-		},
-		{
 			"title":"Dead Silence",
 			"gatsby_image_path":"..\/..\/images\/dead-silence.jpg",
 			"slug":"dead-silence"
+		},
+		{
+			"title":"Turner & Hooch",
+			"gatsby_image_path":"..\/..\/images\/turner-hooch.jpg",
+			"slug":"turner-hooch"
 		},
 		{
 			"title":"The Sword in the Stone",
@@ -294,14 +344,19 @@
 			"slug":"harry-potter-and-the-order-of-the-phoenix"
 		},
 		{
+			"title":"The Last Warrior: Root of Evil",
+			"gatsby_image_path":"..\/..\/images\/the-last-warrior-root-of-evil.jpg",
+			"slug":"the-last-warrior-root-of-evil"
+		},
+		{
 			"title":"The Water Man",
 			"gatsby_image_path":"..\/..\/images\/the-water-man.jpg",
 			"slug":"the-water-man"
 		},
 		{
-			"title":"Big Fish",
-			"gatsby_image_path":"..\/..\/images\/big-fish.jpg",
-			"slug":"big-fish"
+			"title":"From Paris with Love",
+			"gatsby_image_path":"..\/..\/images\/from-paris-with-love.jpg",
+			"slug":"from-paris-with-love"
 		},
 		{
 			"title":"The Mechanic",
@@ -309,9 +364,19 @@
 			"slug":"the-mechanic"
 		},
 		{
+			"title":"Big Fish",
+			"gatsby_image_path":"..\/..\/images\/big-fish.jpg",
+			"slug":"big-fish"
+		},
+		{
 			"title":"Harry Potter and the Half-Blood Prince",
 			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-half-blood-prince.jpg",
 			"slug":"harry-potter-and-the-half-blood-prince"
+		},
+		{
+			"title":"The Ogglies: Welcome to Smelliville",
+			"gatsby_image_path":"..\/..\/images\/the-ogglies-welcome-to-smelliville.jpg",
+			"slug":"the-ogglies-welcome-to-smelliville"
 		},
 		{
 			"title":"Goosebumps",
@@ -319,19 +384,14 @@
 			"slug":"goosebumps"
 		},
 		{
+			"title":"Viking Quest",
+			"gatsby_image_path":"..\/..\/images\/viking-quest.jpg",
+			"slug":"viking-quest"
+		},
+		{
 			"title":"Rambo III",
 			"gatsby_image_path":"..\/..\/images\/rambo-iii.jpg",
 			"slug":"rambo-iii"
-		},
-		{
-			"title":"How the Grinch Stole Christmas",
-			"gatsby_image_path":"..\/..\/images\/how-the-grinch-stole-christmas.jpg",
-			"slug":"how-the-grinch-stole-christmas"
-		},
-		{
-			"title":"Up",
-			"gatsby_image_path":"..\/..\/images\/up.jpg",
-			"slug":"up"
 		},
 		{
 			"title":"Escape Plan",
@@ -339,29 +399,19 @@
 			"slug":"escape-plan"
 		},
 		{
+			"title":"Paul Blart: Mall Cop",
+			"gatsby_image_path":"..\/..\/images\/paul-blart-mall-cop.jpg",
+			"slug":"paul-blart-mall-cop"
+		},
+		{
 			"title":"Paul",
 			"gatsby_image_path":"..\/..\/images\/paul.jpg",
 			"slug":"paul"
 		},
 		{
-			"title":"Little Nicky",
-			"gatsby_image_path":"..\/..\/images\/little-nicky.jpg",
-			"slug":"little-nicky"
-		},
-		{
-			"title":"Terminator 3: Rise of the Machines",
-			"gatsby_image_path":"..\/..\/images\/terminator-3-rise-of-the-machines.jpg",
-			"slug":"terminator-3-rise-of-the-machines"
-		},
-		{
-			"title":"The Lord of the Rings: The Fellowship of the Ring",
-			"gatsby_image_path":"..\/..\/images\/the-lord-of-the-rings-the-fellowship-of-the-ring.jpg",
-			"slug":"the-lord-of-the-rings-the-fellowship-of-the-ring"
-		},
-		{
-			"title":"100% Wolf",
-			"gatsby_image_path":"..\/..\/images\/100-%-wolf.jpg",
-			"slug":"100-%-wolf"
+			"title":"How the Grinch Stole Christmas",
+			"gatsby_image_path":"..\/..\/images\/how-the-grinch-stole-christmas.jpg",
+			"slug":"how-the-grinch-stole-christmas"
 		}
 	],
 	"tmdb_id":68737,

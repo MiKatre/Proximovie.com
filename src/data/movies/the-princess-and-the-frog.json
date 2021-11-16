@@ -81,6 +81,11 @@
 			"slug":"the-return-of-jafar"
 		},
 		{
+			"title":"The Lion King",
+			"gatsby_image_path":"..\/..\/images\/the-lion-king.jpg",
+			"slug":"the-lion-king"
+		},
+		{
 			"title":"The Lion King 1½",
 			"gatsby_image_path":"..\/..\/images\/the-lion-king-1-½.jpg",
 			"slug":"the-lion-king-1-½"
@@ -99,6 +104,51 @@
 			"title":"Shrek",
 			"gatsby_image_path":"..\/..\/images\/shrek.jpg",
 			"slug":"shrek"
+		},
+		{
+			"title":"Scooby-Doo! and the Reluctant Werewolf",
+			"gatsby_image_path":"..\/..\/images\/scooby-doo-and-the-reluctant-werewolf.jpg",
+			"slug":"scooby-doo-and-the-reluctant-werewolf"
+		},
+		{
+			"title":"Red Tails",
+			"gatsby_image_path":"..\/..\/images\/red-tails.jpg",
+			"slug":"red-tails"
+		},
+		{
+			"title":"Prisoners",
+			"gatsby_image_path":"..\/..\/images\/prisoners.jpg",
+			"slug":"prisoners"
+		},
+		{
+			"title":"Pocahontas II: Journey to a New World",
+			"gatsby_image_path":"..\/..\/images\/pocahontas-ii-journey-to-a-new-world.jpg",
+			"slug":"pocahontas-ii-journey-to-a-new-world"
+		},
+		{
+			"title":"Night School",
+			"gatsby_image_path":"..\/..\/images\/night-school.jpg",
+			"slug":"night-school"
+		},
+		{
+			"title":"Justice League: The New Frontier",
+			"gatsby_image_path":"..\/..\/images\/justice-league-the-new-frontier.jpg",
+			"slug":"justice-league-the-new-frontier"
+		},
+		{
+			"title":"Jingle Jangle: A Christmas Journey",
+			"gatsby_image_path":"..\/..\/images\/jingle-jangle-a-christmas-journey.jpg",
+			"slug":"jingle-jangle-a-christmas-journey"
+		},
+		{
+			"title":"Iron Man",
+			"gatsby_image_path":"..\/..\/images\/iron-man.jpg",
+			"slug":"iron-man"
+		},
+		{
+			"title":"Injustice",
+			"gatsby_image_path":"..\/..\/images\/injustice.jpg",
+			"slug":"injustice"
 		}
 	],
 	"related_most_similar":[
@@ -262,6 +312,11 @@
 			"slug":"the-human-centipede-first-sequence"
 		},
 		{
+			"title":"Son of the Mask",
+			"gatsby_image_path":"..\/..\/images\/son-of-the-mask.jpg",
+			"slug":"son-of-the-mask"
+		},
+		{
 			"title":"Don't Breathe 2",
 			"gatsby_image_path":"..\/..\/images\/don-t-breathe-2.jpg",
 			"slug":"don-t-breathe-2"
@@ -287,14 +342,29 @@
 			"slug":"child-s-play-2"
 		},
 		{
+			"title":"Time Freak",
+			"gatsby_image_path":"..\/..\/images\/time-freak.jpg",
+			"slug":"time-freak"
+		},
+		{
+			"title":"Outcast",
+			"gatsby_image_path":"..\/..\/images\/outcast.jpg",
+			"slug":"outcast"
+		},
+		{
+			"title":"Mamma Mia!",
+			"gatsby_image_path":"..\/..\/images\/mamma-mia.jpg",
+			"slug":"mamma-mia"
+		},
+		{
 			"title":"Time Share",
 			"gatsby_image_path":"..\/..\/images\/time-share.jpg",
 			"slug":"time-share"
 		},
 		{
-			"title":"Time Freak",
-			"gatsby_image_path":"..\/..\/images\/time-freak.jpg",
-			"slug":"time-freak"
+			"title":"Bee Movie",
+			"gatsby_image_path":"..\/..\/images\/bee-movie.jpg",
+			"slug":"bee-movie"
 		},
 		{
 			"title":"Texas Chainsaw 3D",
@@ -307,19 +377,19 @@
 			"slug":"zathura-a-space-adventure"
 		},
 		{
-			"title":"Bee Movie",
-			"gatsby_image_path":"..\/..\/images\/bee-movie.jpg",
-			"slug":"bee-movie"
-		},
-		{
-			"title":"Slender Man",
-			"gatsby_image_path":"..\/..\/images\/slender-man.jpg",
-			"slug":"slender-man"
+			"title":"Exploits of a Young Don Juan",
+			"gatsby_image_path":"..\/..\/images\/exploits-of-a-young-don-juan.jpg",
+			"slug":"exploits-of-a-young-don-juan"
 		},
 		{
 			"title":"Don't Let Go",
 			"gatsby_image_path":"..\/..\/images\/don-t-let-go.jpg",
 			"slug":"don-t-let-go"
+		},
+		{
+			"title":"Slender Man",
+			"gatsby_image_path":"..\/..\/images\/slender-man.jpg",
+			"slug":"slender-man"
 		},
 		{
 			"title":"American Pie Presents: The Book of Love",
@@ -332,29 +402,9 @@
 			"slug":"the-orphanage"
 		},
 		{
-			"title":"The Doorman",
-			"gatsby_image_path":"..\/..\/images\/the-doorman.jpg",
-			"slug":"the-doorman"
-		},
-		{
-			"title":"Pirates of the Caribbean: The Curse of the Black Pearl",
-			"gatsby_image_path":"..\/..\/images\/pirates-of-the-caribbean-the-curse-of-the-black-pearl.jpg",
-			"slug":"pirates-of-the-caribbean-the-curse-of-the-black-pearl"
-		},
-		{
-			"title":"Pinocchio",
-			"gatsby_image_path":"..\/..\/images\/pinocchio.jpg",
-			"slug":"pinocchio"
-		},
-		{
-			"title":"Roald Dahl's The Witches",
-			"gatsby_image_path":"..\/..\/images\/roald-dahl-s-the-witches.jpg",
-			"slug":"roald-dahl-s-the-witches"
-		},
-		{
-			"title":"Dumbo",
-			"gatsby_image_path":"..\/..\/images\/dumbo.jpg",
-			"slug":"dumbo"
+			"title":"The Lion King",
+			"gatsby_image_path":"..\/..\/images\/the-lion-king.jpg",
+			"slug":"the-lion-king"
 		}
 	],
 	"tmdb_id":10198,

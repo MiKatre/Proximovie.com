@@ -90,6 +90,11 @@
 			"slug":"barbie-in-a-mermaid-tale"
 		},
 		{
+			"title":"Barbie in 'A Christmas Carol'",
+			"gatsby_image_path":"..\/..\/images\/barbie-in-a-christmas-carol.jpg",
+			"slug":"barbie-in-a-christmas-carol"
+		},
+		{
 			"title":"Barbie Fairytopia: Mermaidia",
 			"gatsby_image_path":"..\/..\/images\/barbie-fairytopia-mermaidia.jpg",
 			"slug":"barbie-fairytopia-mermaidia"
@@ -98,6 +103,51 @@
 			"title":"Barbie and the Three Musketeers",
 			"gatsby_image_path":"..\/..\/images\/barbie-and-the-three-musketeers.jpg",
 			"slug":"barbie-and-the-three-musketeers"
+		},
+		{
+			"title":"Barbie and the Diamond Castle",
+			"gatsby_image_path":"..\/..\/images\/barbie-and-the-diamond-castle.jpg",
+			"slug":"barbie-and-the-diamond-castle"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
+			"title":"Zombieland: Double Tap",
+			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
+			"slug":"zombieland-double-tap"
+		},
+		{
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
+		},
+		{
+			"title":"Zack Snyder's Justice League",
+			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
+			"slug":"zack-snyder-s-justice-league"
+		},
+		{
+			"title":"Zack and Miri Make a Porno",
+			"gatsby_image_path":"..\/..\/images\/zack-and-miri-make-a-porno.jpg",
+			"slug":"zack-and-miri-make-a-porno"
+		},
+		{
+			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
+			"gatsby_image_path":"..\/..\/images\/yu-gi-oh-the-dark-side-of-dimensions.jpg",
+			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		}
 	],
 	"related_most_similar":[
@@ -256,11 +306,6 @@
 	],
 	"related_by_overview":[
 		{
-			"title":"Barbie & Chelsea the Lost Birthday",
-			"gatsby_image_path":"..\/..\/images\/barbie-chelsea-the-lost-birthday.jpg",
-			"slug":"barbie-chelsea-the-lost-birthday"
-		},
-		{
 			"title":"Barbie in the Pink Shoes",
 			"gatsby_image_path":"..\/..\/images\/barbie-in-the-pink-shoes.jpg",
 			"slug":"barbie-in-the-pink-shoes"
@@ -271,14 +316,19 @@
 			"slug":"harry-potter-and-the-philosopher-s-stone"
 		},
 		{
-			"title":"Alvin and the Chipmunks: The Squeakquel",
-			"gatsby_image_path":"..\/..\/images\/alvin-and-the-chipmunks-the-squeakquel.jpg",
-			"slug":"alvin-and-the-chipmunks-the-squeakquel"
+			"title":"Barbie & Chelsea the Lost Birthday",
+			"gatsby_image_path":"..\/..\/images\/barbie-chelsea-the-lost-birthday.jpg",
+			"slug":"barbie-chelsea-the-lost-birthday"
 		},
 		{
 			"title":"Monsters, Inc.",
 			"gatsby_image_path":"..\/..\/images\/monsters-inc.jpg",
 			"slug":"monsters-inc"
+		},
+		{
+			"title":"Alvin and the Chipmunks: The Squeakquel",
+			"gatsby_image_path":"..\/..\/images\/alvin-and-the-chipmunks-the-squeakquel.jpg",
+			"slug":"alvin-and-the-chipmunks-the-squeakquel"
 		},
 		{
 			"title":"Goosebumps",
@@ -311,29 +361,14 @@
 			"slug":"the-christmas-chronicles-part-two"
 		},
 		{
-			"title":"Countdown",
-			"gatsby_image_path":"..\/..\/images\/countdown.jpg",
-			"slug":"countdown"
+			"title":"Clifford the Big Red Dog",
+			"gatsby_image_path":"..\/..\/images\/clifford-the-big-red-dog.jpg",
+			"slug":"clifford-the-big-red-dog"
 		},
 		{
-			"title":"Love & Other Drugs",
-			"gatsby_image_path":"..\/..\/images\/love-other-drugs.jpg",
-			"slug":"love-other-drugs"
-		},
-		{
-			"title":"The Little Vampire",
-			"gatsby_image_path":"..\/..\/images\/the-little-vampire.jpg",
-			"slug":"the-little-vampire"
-		},
-		{
-			"title":"Percy Jackson & the Olympians: The Lightning Thief",
-			"gatsby_image_path":"..\/..\/images\/percy-jackson-the-olympians-the-lightning-thief.jpg",
-			"slug":"percy-jackson-the-olympians-the-lightning-thief"
-		},
-		{
-			"title":"Barbie and the Magic of Pegasus 3-D",
-			"gatsby_image_path":"..\/..\/images\/barbie-and-the-magic-of-pegasus-3-d.jpg",
-			"slug":"barbie-and-the-magic-of-pegasus-3-d"
+			"title":"Bridge to Terabithia",
+			"gatsby_image_path":"..\/..\/images\/bridge-to-terabithia.jpg",
+			"slug":"bridge-to-terabithia"
 		},
 		{
 			"title":"Toy Story 4",
@@ -341,19 +376,34 @@
 			"slug":"toy-story-4"
 		},
 		{
-			"title":"Escape Plan 2: Hades",
-			"gatsby_image_path":"..\/..\/images\/escape-plan-2-hades.jpg",
-			"slug":"escape-plan-2-hades"
+			"title":"Love & Other Drugs",
+			"gatsby_image_path":"..\/..\/images\/love-other-drugs.jpg",
+			"slug":"love-other-drugs"
 		},
 		{
-			"title":"Scary Movie 4",
-			"gatsby_image_path":"..\/..\/images\/scary-movie-4.jpg",
-			"slug":"scary-movie-4"
+			"title":"Countdown",
+			"gatsby_image_path":"..\/..\/images\/countdown.jpg",
+			"slug":"countdown"
 		},
 		{
-			"title":"Alvin and the Chipmunks: The Road Chip",
-			"gatsby_image_path":"..\/..\/images\/alvin-and-the-chipmunks-the-road-chip.jpg",
-			"slug":"alvin-and-the-chipmunks-the-road-chip"
+			"title":"Halloween: Resurrection",
+			"gatsby_image_path":"..\/..\/images\/halloween-resurrection.jpg",
+			"slug":"halloween-resurrection"
+		},
+		{
+			"title":"Percy Jackson & the Olympians: The Lightning Thief",
+			"gatsby_image_path":"..\/..\/images\/percy-jackson-the-olympians-the-lightning-thief.jpg",
+			"slug":"percy-jackson-the-olympians-the-lightning-thief"
+		},
+		{
+			"title":"The Little Vampire",
+			"gatsby_image_path":"..\/..\/images\/the-little-vampire.jpg",
+			"slug":"the-little-vampire"
+		},
+		{
+			"title":"Barbie and the Magic of Pegasus 3-D",
+			"gatsby_image_path":"..\/..\/images\/barbie-and-the-magic-of-pegasus-3-d.jpg",
+			"slug":"barbie-and-the-magic-of-pegasus-3-d"
 		}
 	],
 	"tmdb_id":73456,

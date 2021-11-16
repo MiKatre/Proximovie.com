@@ -75,6 +75,11 @@
 			"slug":"war-for-the-planet-of-the-apes"
 		},
 		{
+			"title":"Tower Heist",
+			"gatsby_image_path":"..\/..\/images\/tower-heist.jpg",
+			"slug":"tower-heist"
+		},
+		{
 			"title":"Thunder Force",
 			"gatsby_image_path":"..\/..\/images\/thunder-force.jpg",
 			"slug":"thunder-force"
@@ -98,6 +103,51 @@
 			"title":"The Martian",
 			"gatsby_image_path":"..\/..\/images\/the-martian.jpg",
 			"slug":"the-martian"
+		},
+		{
+			"title":"The Many Saints of Newark",
+			"gatsby_image_path":"..\/..\/images\/the-many-saints-of-newark.jpg",
+			"slug":"the-many-saints-of-newark"
+		},
+		{
+			"title":"The Hobbit: The Desolation of Smaug",
+			"gatsby_image_path":"..\/..\/images\/the-hobbit-the-desolation-of-smaug.jpg",
+			"slug":"the-hobbit-the-desolation-of-smaug"
+		},
+		{
+			"title":"The Hobbit: The Battle of the Five Armies",
+			"gatsby_image_path":"..\/..\/images\/the-hobbit-the-battle-of-the-five-armies.jpg",
+			"slug":"the-hobbit-the-battle-of-the-five-armies"
+		},
+		{
+			"title":"The Hate U Give",
+			"gatsby_image_path":"..\/..\/images\/the-hate-u-give.jpg",
+			"slug":"the-hate-u-give"
+		},
+		{
+			"title":"The Good Doctor",
+			"gatsby_image_path":"..\/..\/images\/the-good-doctor.jpg",
+			"slug":"the-good-doctor"
+		},
+		{
+			"title":"Spy",
+			"gatsby_image_path":"..\/..\/images\/spy.jpg",
+			"slug":"spy"
+		},
+		{
+			"title":"Sing 2",
+			"gatsby_image_path":"..\/..\/images\/sing-2.jpg",
+			"slug":"sing-2"
+		},
+		{
+			"title":"Shooter",
+			"gatsby_image_path":"..\/..\/images\/shooter.jpg",
+			"slug":"shooter"
+		},
+		{
+			"title":"Sausage Party",
+			"gatsby_image_path":"..\/..\/images\/sausage-party.jpg",
+			"slug":"sausage-party"
 		}
 	],
 	"related_most_similar":[
@@ -281,14 +331,14 @@
 			"slug":"iron-man-2"
 		},
 		{
-			"title":"Escape Plan 2: Hades",
-			"gatsby_image_path":"..\/..\/images\/escape-plan-2-hades.jpg",
-			"slug":"escape-plan-2-hades"
-		},
-		{
 			"title":"Transformers: Age of Extinction",
 			"gatsby_image_path":"..\/..\/images\/transformers-age-of-extinction.jpg",
 			"slug":"transformers-age-of-extinction"
+		},
+		{
+			"title":"Escape Plan 2: Hades",
+			"gatsby_image_path":"..\/..\/images\/escape-plan-2-hades.jpg",
+			"slug":"escape-plan-2-hades"
 		},
 		{
 			"title":"Percy Jackson & the Olympians: The Lightning Thief",
@@ -301,9 +351,9 @@
 			"slug":"men-in-black-3"
 		},
 		{
-			"title":"The Expendables",
-			"gatsby_image_path":"..\/..\/images\/the-expendables.jpg",
-			"slug":"the-expendables"
+			"title":"Eternals",
+			"gatsby_image_path":"..\/..\/images\/eternals.jpg",
+			"slug":"eternals"
 		},
 		{
 			"title":"Justice League: Throne of Atlantis",
@@ -311,19 +361,9 @@
 			"slug":"justice-league-throne-of-atlantis"
 		},
 		{
-			"title":"Eternals",
-			"gatsby_image_path":"..\/..\/images\/eternals.jpg",
-			"slug":"eternals"
-		},
-		{
-			"title":"Deathstroke: Knights & Dragons - The Movie",
-			"gatsby_image_path":"..\/..\/images\/deathstroke-knights-dragons-the-movie.jpg",
-			"slug":"deathstroke-knights-dragons-the-movie"
-		},
-		{
-			"title":"Fantastic Four",
-			"gatsby_image_path":"..\/..\/images\/fantastic-four.jpg",
-			"slug":"fantastic-four"
+			"title":"The Expendables",
+			"gatsby_image_path":"..\/..\/images\/the-expendables.jpg",
+			"slug":"the-expendables"
 		},
 		{
 			"title":"Watchmen",
@@ -331,14 +371,19 @@
 			"slug":"watchmen"
 		},
 		{
+			"title":"Fantastic Four",
+			"gatsby_image_path":"..\/..\/images\/fantastic-four.jpg",
+			"slug":"fantastic-four"
+		},
+		{
+			"title":"Deathstroke: Knights & Dragons - The Movie",
+			"gatsby_image_path":"..\/..\/images\/deathstroke-knights-dragons-the-movie.jpg",
+			"slug":"deathstroke-knights-dragons-the-movie"
+		},
+		{
 			"title":"Terminator: Dark Fate",
 			"gatsby_image_path":"..\/..\/images\/terminator-dark-fate.jpg",
 			"slug":"terminator-dark-fate"
-		},
-		{
-			"title":"Justice League: War",
-			"gatsby_image_path":"..\/..\/images\/justice-league-war.jpg",
-			"slug":"justice-league-war"
 		},
 		{
 			"title":"The Amazing Spider-Man",
@@ -351,9 +396,14 @@
 			"slug":"godzilla"
 		},
 		{
-			"title":"Avengers: Endgame",
-			"gatsby_image_path":"..\/..\/images\/avengers-endgame.jpg",
-			"slug":"avengers-endgame"
+			"title":"Justice League: War",
+			"gatsby_image_path":"..\/..\/images\/justice-league-war.jpg",
+			"slug":"justice-league-war"
+		},
+		{
+			"title":"The Dark Knight Rises",
+			"gatsby_image_path":"..\/..\/images\/the-dark-knight-rises.jpg",
+			"slug":"the-dark-knight-rises"
 		}
 	],
 	"tmdb_id":102899,

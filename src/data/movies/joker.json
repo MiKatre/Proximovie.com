@@ -58,6 +58,21 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Silver Linings Playbook",
+			"gatsby_image_path":"..\/..\/images\/silver-linings-playbook.jpg",
+			"slug":"silver-linings-playbook"
+		},
+		{
+			"title":"The Power of the Dog",
+			"gatsby_image_path":"..\/..\/images\/the-power-of-the-dog.jpg",
+			"slug":"the-power-of-the-dog"
+		},
+		{
+			"title":"The Harder They Fall",
+			"gatsby_image_path":"..\/..\/images\/the-harder-they-fall.jpg",
+			"slug":"the-harder-they-fall"
+		},
+		{
 			"title":"The Godfather: Part II",
 			"gatsby_image_path":"..\/..\/images\/the-godfather-part-ii.jpg",
 			"slug":"the-godfather-part-ii"
@@ -78,9 +93,19 @@
 			"slug":"shark-tale"
 		},
 		{
+			"title":"Reminiscence",
+			"gatsby_image_path":"..\/..\/images\/reminiscence.jpg",
+			"slug":"reminiscence"
+		},
+		{
 			"title":"Red Sparrow",
 			"gatsby_image_path":"..\/..\/images\/red-sparrow.jpg",
 			"slug":"red-sparrow"
+		},
+		{
+			"title":"Passing",
+			"gatsby_image_path":"..\/..\/images\/passing.jpg",
+			"slug":"passing"
 		},
 		{
 			"title":"Once Upon a Deadpool",
@@ -93,19 +118,44 @@
 			"slug":"news-of-the-world"
 		},
 		{
+			"title":"Monte Carlo",
+			"gatsby_image_path":"..\/..\/images\/monte-carlo.jpg",
+			"slug":"monte-carlo"
+		},
+		{
+			"title":"Mary Magdalene",
+			"gatsby_image_path":"..\/..\/images\/mary-magdalene.jpg",
+			"slug":"mary-magdalene"
+		},
+		{
+			"title":"Machete",
+			"gatsby_image_path":"..\/..\/images\/machete.jpg",
+			"slug":"machete"
+		},
+		{
+			"title":"Limitless",
+			"gatsby_image_path":"..\/..\/images\/limitless.jpg",
+			"slug":"limitless"
+		},
+		{
 			"title":"Kong: Skull Island",
 			"gatsby_image_path":"..\/..\/images\/kong-skull-island.jpg",
 			"slug":"kong-skull-island"
 		},
 		{
+			"title":"Killing Season",
+			"gatsby_image_path":"..\/..\/images\/killing-season.jpg",
+			"slug":"killing-season"
+		},
+		{
+			"title":"Killer Elite",
+			"gatsby_image_path":"..\/..\/images\/killer-elite.jpg",
+			"slug":"killer-elite"
+		},
+		{
 			"title":"Her",
 			"gatsby_image_path":"..\/..\/images\/her.jpg",
 			"slug":"her"
-		},
-		{
-			"title":"Gladiator",
-			"gatsby_image_path":"..\/..\/images\/gladiator.jpg",
-			"slug":"gladiator"
 		}
 	],
 	"related_most_similar":[
@@ -289,24 +339,29 @@
 			"slug":"hulk"
 		},
 		{
-			"title":"Batman: The Long Halloween, Part One",
-			"gatsby_image_path":"..\/..\/images\/batman-the-long-halloween-part-one.jpg",
-			"slug":"batman-the-long-halloween-part-one"
-		},
-		{
 			"title":"Iron Man 3",
 			"gatsby_image_path":"..\/..\/images\/iron-man-3.jpg",
 			"slug":"iron-man-3"
 		},
 		{
-			"title":"Justice League: The New Frontier",
-			"gatsby_image_path":"..\/..\/images\/justice-league-the-new-frontier.jpg",
-			"slug":"justice-league-the-new-frontier"
+			"title":"Batman: The Long Halloween, Part One",
+			"gatsby_image_path":"..\/..\/images\/batman-the-long-halloween-part-one.jpg",
+			"slug":"batman-the-long-halloween-part-one"
+		},
+		{
+			"title":"Suicide Squad",
+			"gatsby_image_path":"..\/..\/images\/suicide-squad.jpg",
+			"slug":"suicide-squad"
 		},
 		{
 			"title":"Spider-Man",
 			"gatsby_image_path":"..\/..\/images\/spider-man.jpg",
 			"slug":"spider-man"
+		},
+		{
+			"title":"Justice League: The New Frontier",
+			"gatsby_image_path":"..\/..\/images\/justice-league-the-new-frontier.jpg",
+			"slug":"justice-league-the-new-frontier"
 		},
 		{
 			"title":"Justice League: Gods and Monsters",
@@ -324,14 +379,14 @@
 			"slug":"minions-the-rise-of-gru"
 		},
 		{
-			"title":"Zack Snyder's Justice League",
-			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
-			"slug":"zack-snyder-s-justice-league"
-		},
-		{
 			"title":"Justice League: Doom",
 			"gatsby_image_path":"..\/..\/images\/justice-league-doom.jpg",
 			"slug":"justice-league-doom"
+		},
+		{
+			"title":"Zack Snyder's Justice League",
+			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
+			"slug":"zack-snyder-s-justice-league"
 		},
 		{
 			"title":"G.I. Joe: The Rise of Cobra",
@@ -344,24 +399,19 @@
 			"slug":"crank-high-voltage"
 		},
 		{
-			"title":"Batman: Under the Red Hood",
-			"gatsby_image_path":"..\/..\/images\/batman-under-the-red-hood.jpg",
-			"slug":"batman-under-the-red-hood"
-		},
-		{
 			"title":"Justice League Dark: Apokolips War",
 			"gatsby_image_path":"..\/..\/images\/justice-league-dark-apokolips-war.jpg",
 			"slug":"justice-league-dark-apokolips-war"
 		},
 		{
+			"title":"Batman: Under the Red Hood",
+			"gatsby_image_path":"..\/..\/images\/batman-under-the-red-hood.jpg",
+			"slug":"batman-under-the-red-hood"
+		},
+		{
 			"title":"Ghost Rider: Spirit of Vengeance",
 			"gatsby_image_path":"..\/..\/images\/ghost-rider-spirit-of-vengeance.jpg",
 			"slug":"ghost-rider-spirit-of-vengeance"
-		},
-		{
-			"title":"Iron Man",
-			"gatsby_image_path":"..\/..\/images\/iron-man.jpg",
-			"slug":"iron-man"
 		}
 	],
 	"tmdb_id":475557,

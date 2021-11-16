@@ -72,6 +72,21 @@
 			"slug":"the-lovebirds"
 		},
 		{
+			"title":"The Hate U Give",
+			"gatsby_image_path":"..\/..\/images\/the-hate-u-give.jpg",
+			"slug":"the-hate-u-give"
+		},
+		{
+			"title":"The Addams Family",
+			"gatsby_image_path":"..\/..\/images\/the-addams-family.jpg",
+			"slug":"the-addams-family"
+		},
+		{
+			"title":"The Addams Family 2",
+			"gatsby_image_path":"..\/..\/images\/the-addams-family-2.jpg",
+			"slug":"the-addams-family-2"
+		},
+		{
 			"title":"Sucker Punch",
 			"gatsby_image_path":"..\/..\/images\/sucker-punch.jpg",
 			"slug":"sucker-punch"
@@ -92,14 +107,49 @@
 			"slug":"star-wars-the-force-awakens"
 		},
 		{
+			"title":"Robin Hood",
+			"gatsby_image_path":"..\/..\/images\/robin-hood.jpg",
+			"slug":"robin-hood"
+		},
+		{
 			"title":"Pitch Perfect 2",
 			"gatsby_image_path":"..\/..\/images\/pitch-perfect-2.jpg",
 			"slug":"pitch-perfect-2"
 		},
 		{
-			"title":"Dune",
-			"gatsby_image_path":"..\/..\/images\/dune.jpg",
-			"slug":"dune"
+			"title":"Drive",
+			"gatsby_image_path":"..\/..\/images\/drive.jpg",
+			"slug":"drive"
+		},
+		{
+			"title":"Bumblebee",
+			"gatsby_image_path":"..\/..\/images\/bumblebee.jpg",
+			"slug":"bumblebee"
+		},
+		{
+			"title":"Annihilation",
+			"gatsby_image_path":"..\/..\/images\/annihilation.jpg",
+			"slug":"annihilation"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
+			"title":"Zombieland: Double Tap",
+			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
+			"slug":"zombieland-double-tap"
 		}
 	],
 	"related_most_similar":[
@@ -263,19 +313,14 @@
 			"slug":"next-avengers-heroes-of-tomorrow"
 		},
 		{
-			"title":"The Suicide Squad",
-			"gatsby_image_path":"..\/..\/images\/the-suicide-squad.jpg",
-			"slug":"the-suicide-squad"
-		},
-		{
 			"title":"Batman: Death in the Family",
 			"gatsby_image_path":"..\/..\/images\/batman-death-in-the-family.jpg",
 			"slug":"batman-death-in-the-family"
 		},
 		{
-			"title":"Justice League: The Flashpoint Paradox",
-			"gatsby_image_path":"..\/..\/images\/justice-league-the-flashpoint-paradox.jpg",
-			"slug":"justice-league-the-flashpoint-paradox"
+			"title":"The Suicide Squad",
+			"gatsby_image_path":"..\/..\/images\/the-suicide-squad.jpg",
+			"slug":"the-suicide-squad"
 		},
 		{
 			"title":"Wonder Woman",
@@ -283,19 +328,14 @@
 			"slug":"wonder-woman"
 		},
 		{
+			"title":"Justice League: The Flashpoint Paradox",
+			"gatsby_image_path":"..\/..\/images\/justice-league-the-flashpoint-paradox.jpg",
+			"slug":"justice-league-the-flashpoint-paradox"
+		},
+		{
 			"title":"Despicable Me 2",
 			"gatsby_image_path":"..\/..\/images\/despicable-me-2.jpg",
 			"slug":"despicable-me-2"
-		},
-		{
-			"title":"The 5th Wave",
-			"gatsby_image_path":"..\/..\/images\/the-5th-wave.jpg",
-			"slug":"the-5th-wave"
-		},
-		{
-			"title":"Untitled 'The Walking Dead' Film",
-			"gatsby_image_path":"..\/..\/images\/untitled-the-walking-dead-film.jpg",
-			"slug":"untitled-the-walking-dead-film"
 		},
 		{
 			"title":"Guardians of the Galaxy",
@@ -303,9 +343,19 @@
 			"slug":"guardians-of-the-galaxy"
 		},
 		{
-			"title":"X-Men: Days of Future Past",
-			"gatsby_image_path":"..\/..\/images\/x-men-days-of-future-past.jpg",
-			"slug":"x-men-days-of-future-past"
+			"title":"The 5th Wave",
+			"gatsby_image_path":"..\/..\/images\/the-5th-wave.jpg",
+			"slug":"the-5th-wave"
+		},
+		{
+			"title":"Fantastic Beasts: The Secrets of Dumbledore",
+			"gatsby_image_path":"..\/..\/images\/fantastic-beasts-the-secrets-of-dumbledore.jpg",
+			"slug":"fantastic-beasts-the-secrets-of-dumbledore"
+		},
+		{
+			"title":"Untitled 'The Walking Dead' Film",
+			"gatsby_image_path":"..\/..\/images\/untitled-the-walking-dead-film.jpg",
+			"slug":"untitled-the-walking-dead-film"
 		},
 		{
 			"title":"Justice League",
@@ -313,9 +363,24 @@
 			"slug":"justice-league"
 		},
 		{
+			"title":"Kick-Ass",
+			"gatsby_image_path":"..\/..\/images\/kick-ass.jpg",
+			"slug":"kick-ass"
+		},
+		{
 			"title":"Spider-Man: No Way Home",
 			"gatsby_image_path":"..\/..\/images\/spider-man-no-way-home.jpg",
 			"slug":"spider-man-no-way-home"
+		},
+		{
+			"title":"X-Men: Days of Future Past",
+			"gatsby_image_path":"..\/..\/images\/x-men-days-of-future-past.jpg",
+			"slug":"x-men-days-of-future-past"
+		},
+		{
+			"title":"The Matrix Revolutions",
+			"gatsby_image_path":"..\/..\/images\/the-matrix-revolutions.jpg",
+			"slug":"the-matrix-revolutions"
 		},
 		{
 			"title":"Wonder Woman 1984",
@@ -328,34 +393,19 @@
 			"slug":"kingsman-the-secret-service"
 		},
 		{
+			"title":"The Courier",
+			"gatsby_image_path":"..\/..\/images\/the-courier.jpg",
+			"slug":"the-courier"
+		},
+		{
 			"title":"Batman: Soul of the Dragon",
 			"gatsby_image_path":"..\/..\/images\/batman-soul-of-the-dragon.jpg",
 			"slug":"batman-soul-of-the-dragon"
 		},
 		{
-			"title":"Kong: Skull Island",
-			"gatsby_image_path":"..\/..\/images\/kong-skull-island.jpg",
-			"slug":"kong-skull-island"
-		},
-		{
 			"title":"Resident Evil: Vendetta",
 			"gatsby_image_path":"..\/..\/images\/resident-evil-vendetta.jpg",
 			"slug":"resident-evil-vendetta"
-		},
-		{
-			"title":"Justice League: Doom",
-			"gatsby_image_path":"..\/..\/images\/justice-league-doom.jpg",
-			"slug":"justice-league-doom"
-		},
-		{
-			"title":"The Matrix Revolutions",
-			"gatsby_image_path":"..\/..\/images\/the-matrix-revolutions.jpg",
-			"slug":"the-matrix-revolutions"
-		},
-		{
-			"title":"Wrath of the Titans",
-			"gatsby_image_path":"..\/..\/images\/wrath-of-the-titans.jpg",
-			"slug":"wrath-of-the-titans"
 		}
 	],
 	"tmdb_id":569094,

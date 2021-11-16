@@ -55,9 +55,19 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"The Monuments Men",
+			"gatsby_image_path":"..\/..\/images\/the-monuments-men.jpg",
+			"slug":"the-monuments-men"
+		},
+		{
 			"title":"The Martian",
 			"gatsby_image_path":"..\/..\/images\/the-martian.jpg",
 			"slug":"the-martian"
+		},
+		{
+			"title":"The Last Duel",
+			"gatsby_image_path":"..\/..\/images\/the-last-duel.jpg",
+			"slug":"the-last-duel"
 		},
 		{
 			"title":"The Green Mile",
@@ -103,6 +113,46 @@
 			"title":"Joseph: King of Dreams",
 			"gatsby_image_path":"..\/..\/images\/joseph-king-of-dreams.jpg",
 			"slug":"joseph-king-of-dreams"
+		},
+		{
+			"title":"Good Will Hunting",
+			"gatsby_image_path":"..\/..\/images\/good-will-hunting.jpg",
+			"slug":"good-will-hunting"
+		},
+		{
+			"title":"Ford v Ferrari",
+			"gatsby_image_path":"..\/..\/images\/ford-v-ferrari.jpg",
+			"slug":"ford-v-ferrari"
+		},
+		{
+			"title":"Elysium",
+			"gatsby_image_path":"..\/..\/images\/elysium.jpg",
+			"slug":"elysium"
+		},
+		{
+			"title":"Downsizing",
+			"gatsby_image_path":"..\/..\/images\/downsizing.jpg",
+			"slug":"downsizing"
+		},
+		{
+			"title":"Big Hero 6",
+			"gatsby_image_path":"..\/..\/images\/big-hero-6.jpg",
+			"slug":"big-hero-6"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
 		}
 	],
 	"related_most_similar":[
@@ -271,14 +321,19 @@
 			"slug":"alpha"
 		},
 		{
+			"title":"King Arthur: Legend of the Sword",
+			"gatsby_image_path":"..\/..\/images\/king-arthur-legend-of-the-sword.jpg",
+			"slug":"king-arthur-legend-of-the-sword"
+		},
+		{
 			"title":"Wish Upon a Unicorn",
 			"gatsby_image_path":"..\/..\/images\/wish-upon-a-unicorn.jpg",
 			"slug":"wish-upon-a-unicorn"
 		},
 		{
-			"title":"King Arthur: Legend of the Sword",
-			"gatsby_image_path":"..\/..\/images\/king-arthur-legend-of-the-sword.jpg",
-			"slug":"king-arthur-legend-of-the-sword"
+			"title":"Friday the 13th Part VII: The New Blood",
+			"gatsby_image_path":"..\/..\/images\/friday-the-13th-part-vii-the-new-blood.jpg",
+			"slug":"friday-the-13th-part-vii-the-new-blood"
 		},
 		{
 			"title":"Spenser Confidential",
@@ -289,6 +344,11 @@
 			"title":"Thor: The Dark World",
 			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
 			"slug":"thor-the-dark-world"
+		},
+		{
+			"title":"The Seven Deadly Sins: Cursed by Light",
+			"gatsby_image_path":"..\/..\/images\/the-seven-deadly-sins-cursed-by-light.jpg",
+			"slug":"the-seven-deadly-sins-cursed-by-light"
 		},
 		{
 			"title":"Abraham Lincoln: Vampire Hunter",
@@ -306,6 +366,21 @@
 			"slug":"john-wick-chapter-2"
 		},
 		{
+			"title":"The Scorpion King 3: Battle for Redemption",
+			"gatsby_image_path":"..\/..\/images\/the-scorpion-king-3-battle-for-redemption.jpg",
+			"slug":"the-scorpion-king-3-battle-for-redemption"
+		},
+		{
+			"title":"How to Train Your Dragon",
+			"gatsby_image_path":"..\/..\/images\/how-to-train-your-dragon.jpg",
+			"slug":"how-to-train-your-dragon"
+		},
+		{
+			"title":"Black Panther",
+			"gatsby_image_path":"..\/..\/images\/black-panther.jpg",
+			"slug":"black-panther"
+		},
+		{
 			"title":"Goblin Slayer: Goblin's Crown",
 			"gatsby_image_path":"..\/..\/images\/goblin-slayer-goblin-s-crown.jpg",
 			"slug":"goblin-slayer-goblin-s-crown"
@@ -316,24 +391,9 @@
 			"slug":"ice-age-collision-course"
 		},
 		{
-			"title":"Black Panther",
-			"gatsby_image_path":"..\/..\/images\/black-panther.jpg",
-			"slug":"black-panther"
-		},
-		{
-			"title":"How to Train Your Dragon",
-			"gatsby_image_path":"..\/..\/images\/how-to-train-your-dragon.jpg",
-			"slug":"how-to-train-your-dragon"
-		},
-		{
 			"title":"Samson",
 			"gatsby_image_path":"..\/..\/images\/samson.jpg",
 			"slug":"samson"
-		},
-		{
-			"title":"Pacific Rim",
-			"gatsby_image_path":"..\/..\/images\/pacific-rim.jpg",
-			"slug":"pacific-rim"
 		},
 		{
 			"title":"Viking Blood",
@@ -346,19 +406,9 @@
 			"slug":"homunculus"
 		},
 		{
-			"title":"Soul",
-			"gatsby_image_path":"..\/..\/images\/soul.jpg",
-			"slug":"soul"
-		},
-		{
-			"title":"Space Sweepers",
-			"gatsby_image_path":"..\/..\/images\/space-sweepers.jpg",
-			"slug":"space-sweepers"
-		},
-		{
-			"title":"Ice Age",
-			"gatsby_image_path":"..\/..\/images\/ice-age.jpg",
-			"slug":"ice-age"
+			"title":"Pacific Rim",
+			"gatsby_image_path":"..\/..\/images\/pacific-rim.jpg",
+			"slug":"pacific-rim"
 		}
 	],
 	"tmdb_id":9023,

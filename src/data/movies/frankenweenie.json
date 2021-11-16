@@ -50,6 +50,11 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"The Addams Family",
+			"gatsby_image_path":"..\/..\/images\/the-addams-family.jpg",
+			"slug":"the-addams-family"
+		},
+		{
 			"title":"Edward Scissorhands",
 			"gatsby_image_path":"..\/..\/images\/edward-scissorhands.jpg",
 			"slug":"edward-scissorhands"
@@ -75,6 +80,11 @@
 			"slug":"tom-and-jerry-the-fast-and-the-furry"
 		},
 		{
+			"title":"The Unborn",
+			"gatsby_image_path":"..\/..\/images\/the-unborn.jpg",
+			"slug":"the-unborn"
+		},
+		{
 			"title":"The SpongeBob SquarePants Movie",
 			"gatsby_image_path":"..\/..\/images\/the-spongebob-squarepants-movie.jpg",
 			"slug":"the-spongebob-squarepants-movie"
@@ -98,6 +108,46 @@
 			"title":"Superman: Doomsday",
 			"gatsby_image_path":"..\/..\/images\/superman-doomsday.jpg",
 			"slug":"superman-doomsday"
+		},
+		{
+			"title":"Star Trek",
+			"gatsby_image_path":"..\/..\/images\/star-trek.jpg",
+			"slug":"star-trek"
+		},
+		{
+			"title":"Monster House",
+			"gatsby_image_path":"..\/..\/images\/monster-house.jpg",
+			"slug":"monster-house"
+		},
+		{
+			"title":"Meet the Robinsons",
+			"gatsby_image_path":"..\/..\/images\/meet-the-robinsons.jpg",
+			"slug":"meet-the-robinsons"
+		},
+		{
+			"title":"Krampus",
+			"gatsby_image_path":"..\/..\/images\/krampus.jpg",
+			"slug":"krampus"
+		},
+		{
+			"title":"I Am Legend",
+			"gatsby_image_path":"..\/..\/images\/i-am-legend.jpg",
+			"slug":"i-am-legend"
+		},
+		{
+			"title":"Hoodwinked Too! Hood VS. Evil",
+			"gatsby_image_path":"..\/..\/images\/hoodwinked-too-hood-vs.-evil.jpg",
+			"slug":"hoodwinked-too-hood-vs.-evil"
+		},
+		{
+			"title":"Homefront",
+			"gatsby_image_path":"..\/..\/images\/homefront.jpg",
+			"slug":"homefront"
+		},
+		{
+			"title":"Home Alone 2: Lost in New York",
+			"gatsby_image_path":"..\/..\/images\/home-alone-2-lost-in-new-york.jpg",
+			"slug":"home-alone-2-lost-in-new-york"
 		}
 	],
 	"related_most_similar":[
@@ -276,9 +326,24 @@
 			"slug":"saw-iii"
 		},
 		{
+			"title":"Sleepy Hollow",
+			"gatsby_image_path":"..\/..\/images\/sleepy-hollow.jpg",
+			"slug":"sleepy-hollow"
+		},
+		{
+			"title":"Scary Stories to Tell in the Dark",
+			"gatsby_image_path":"..\/..\/images\/scary-stories-to-tell-in-the-dark.jpg",
+			"slug":"scary-stories-to-tell-in-the-dark"
+		},
+		{
 			"title":"Goosebumps 2: Haunted Halloween",
 			"gatsby_image_path":"..\/..\/images\/goosebumps-2-haunted-halloween.jpg",
 			"slug":"goosebumps-2-haunted-halloween"
+		},
+		{
+			"title":"Tinker Bell and the Legend of the NeverBeast",
+			"gatsby_image_path":"..\/..\/images\/tinker-bell-and-the-legend-of-the-neverbeast.jpg",
+			"slug":"tinker-bell-and-the-legend-of-the-neverbeast"
 		},
 		{
 			"title":"Pets United",
@@ -291,24 +356,14 @@
 			"slug":"harry-potter-and-the-deathly-hallows-part-1"
 		},
 		{
-			"title":"Tinker Bell and the Legend of the NeverBeast",
-			"gatsby_image_path":"..\/..\/images\/tinker-bell-and-the-legend-of-the-neverbeast.jpg",
-			"slug":"tinker-bell-and-the-legend-of-the-neverbeast"
-		},
-		{
-			"title":"Men in Black",
-			"gatsby_image_path":"..\/..\/images\/men-in-black.jpg",
-			"slug":"men-in-black"
-		},
-		{
 			"title":"Bride of Chucky",
 			"gatsby_image_path":"..\/..\/images\/bride-of-chucky.jpg",
 			"slug":"bride-of-chucky"
 		},
 		{
-			"title":"Legion",
-			"gatsby_image_path":"..\/..\/images\/legion.jpg",
-			"slug":"legion"
+			"title":"A Cinderella Story: Christmas Wish",
+			"gatsby_image_path":"..\/..\/images\/a-cinderella-story-christmas-wish.jpg",
+			"slug":"a-cinderella-story-christmas-wish"
 		},
 		{
 			"title":"Pirates of the Caribbean: On Stranger Tides",
@@ -316,9 +371,14 @@
 			"slug":"pirates-of-the-caribbean-on-stranger-tides"
 		},
 		{
-			"title":"A Cinderella Story: Christmas Wish",
-			"gatsby_image_path":"..\/..\/images\/a-cinderella-story-christmas-wish.jpg",
-			"slug":"a-cinderella-story-christmas-wish"
+			"title":"Men in Black",
+			"gatsby_image_path":"..\/..\/images\/men-in-black.jpg",
+			"slug":"men-in-black"
+		},
+		{
+			"title":"Shoot 'Em Up",
+			"gatsby_image_path":"..\/..\/images\/shoot--em-up.jpg",
+			"slug":"shoot--em-up"
 		},
 		{
 			"title":"Barbie: Spy Squad",
@@ -331,29 +391,19 @@
 			"slug":"descendants"
 		},
 		{
+			"title":"Legion",
+			"gatsby_image_path":"..\/..\/images\/legion.jpg",
+			"slug":"legion"
+		},
+		{
 			"title":"Stuber",
 			"gatsby_image_path":"..\/..\/images\/stuber.jpg",
 			"slug":"stuber"
 		},
 		{
-			"title":"Phineas and Ferb: The Movie: Candace Against the Universe",
-			"gatsby_image_path":"..\/..\/images\/phineas-and-ferb-the-movie-candace-against-the-universe.jpg",
-			"slug":"phineas-and-ferb-the-movie-candace-against-the-universe"
-		},
-		{
-			"title":"The Wild",
-			"gatsby_image_path":"..\/..\/images\/the-wild.jpg",
-			"slug":"the-wild"
-		},
-		{
-			"title":"Shooter",
-			"gatsby_image_path":"..\/..\/images\/shooter.jpg",
-			"slug":"shooter"
-		},
-		{
-			"title":"Return of the Living Dead III",
-			"gatsby_image_path":"..\/..\/images\/return-of-the-living-dead-iii.jpg",
-			"slug":"return-of-the-living-dead-iii"
+			"title":"Miss March",
+			"gatsby_image_path":"..\/..\/images\/miss-march.jpg",
+			"slug":"miss-march"
 		}
 	],
 	"tmdb_id":62214,

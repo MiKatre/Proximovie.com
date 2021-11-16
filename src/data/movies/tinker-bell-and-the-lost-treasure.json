@@ -93,14 +93,64 @@
 			"slug":"the-spongebob-movie-sponge-out-of-water"
 		},
 		{
-			"title":"The Addams Family",
-			"gatsby_image_path":"..\/..\/images\/the-addams-family.jpg",
-			"slug":"the-addams-family"
-		},
-		{
 			"title":"Roald Dahl's The Witches",
 			"gatsby_image_path":"..\/..\/images\/roald-dahl-s-the-witches.jpg",
 			"slug":"roald-dahl-s-the-witches"
+		},
+		{
+			"title":"Mulan II",
+			"gatsby_image_path":"..\/..\/images\/mulan-ii.jpg",
+			"slug":"mulan-ii"
+		},
+		{
+			"title":"Kung Fu Panda",
+			"gatsby_image_path":"..\/..\/images\/kung-fu-panda.jpg",
+			"slug":"kung-fu-panda"
+		},
+		{
+			"title":"Kung Fu Panda 3",
+			"gatsby_image_path":"..\/..\/images\/kung-fu-panda-3.jpg",
+			"slug":"kung-fu-panda-3"
+		},
+		{
+			"title":"Kung Fu Panda 2",
+			"gatsby_image_path":"..\/..\/images\/kung-fu-panda-2.jpg",
+			"slug":"kung-fu-panda-2"
+		},
+		{
+			"title":"Kill Bill: Vol. 1",
+			"gatsby_image_path":"..\/..\/images\/kill-bill-vol-1.jpg",
+			"slug":"kill-bill-vol-1"
+		},
+		{
+			"title":"John Wick: Chapter 3 - Parabellum",
+			"gatsby_image_path":"..\/..\/images\/john-wick-chapter-3-parabellum.jpg",
+			"slug":"john-wick-chapter-3-parabellum"
+		},
+		{
+			"title":"Holidate",
+			"gatsby_image_path":"..\/..\/images\/holidate.jpg",
+			"slug":"holidate"
+		},
+		{
+			"title":"Cinderella III: A Twist in Time",
+			"gatsby_image_path":"..\/..\/images\/cinderella-iii-a-twist-in-time.jpg",
+			"slug":"cinderella-iii-a-twist-in-time"
+		},
+		{
+			"title":"Cinderella II: Dreams Come True",
+			"gatsby_image_path":"..\/..\/images\/cinderella-ii-dreams-come-true.jpg",
+			"slug":"cinderella-ii-dreams-come-true"
+		},
+		{
+			"title":"Chicken Run",
+			"gatsby_image_path":"..\/..\/images\/chicken-run.jpg",
+			"slug":"chicken-run"
+		},
+		{
+			"title":"Chernobyl Diaries",
+			"gatsby_image_path":"..\/..\/images\/chernobyl-diaries.jpg",
+			"slug":"chernobyl-diaries"
 		}
 	],
 	"related_most_similar":[
@@ -279,6 +329,11 @@
 			"slug":"barbie-princess-charm-school"
 		},
 		{
+			"title":"The Babysitter: Killer Queen",
+			"gatsby_image_path":"..\/..\/images\/the-babysitter-killer-queen.jpg",
+			"slug":"the-babysitter-killer-queen"
+		},
+		{
 			"title":"The Return of Jafar",
 			"gatsby_image_path":"..\/..\/images\/the-return-of-jafar.jpg",
 			"slug":"the-return-of-jafar"
@@ -289,9 +344,9 @@
 			"slug":"toy-story"
 		},
 		{
-			"title":"The Babysitter: Killer Queen",
-			"gatsby_image_path":"..\/..\/images\/the-babysitter-killer-queen.jpg",
-			"slug":"the-babysitter-killer-queen"
+			"title":"Trollhunters: Rise of the Titans",
+			"gatsby_image_path":"..\/..\/images\/trollhunters-rise-of-the-titans.jpg",
+			"slug":"trollhunters-rise-of-the-titans"
 		},
 		{
 			"title":"ParaNorman",
@@ -299,14 +354,14 @@
 			"slug":"paranorman"
 		},
 		{
-			"title":"Trollhunters: Rise of the Titans",
-			"gatsby_image_path":"..\/..\/images\/trollhunters-rise-of-the-titans.jpg",
-			"slug":"trollhunters-rise-of-the-titans"
-		},
-		{
 			"title":"Tinker Bell and the Great Fairy Rescue",
 			"gatsby_image_path":"..\/..\/images\/tinker-bell-and-the-great-fairy-rescue.jpg",
 			"slug":"tinker-bell-and-the-great-fairy-rescue"
+		},
+		{
+			"title":"Bridge to Terabithia",
+			"gatsby_image_path":"..\/..\/images\/bridge-to-terabithia.jpg",
+			"slug":"bridge-to-terabithia"
 		},
 		{
 			"title":"Ella Enchanted",
@@ -314,14 +369,9 @@
 			"slug":"ella-enchanted"
 		},
 		{
-			"title":"Barbie Fairytopia: Magic of the Rainbow",
-			"gatsby_image_path":"..\/..\/images\/barbie-fairytopia-magic-of-the-rainbow.jpg",
-			"slug":"barbie-fairytopia-magic-of-the-rainbow"
-		},
-		{
-			"title":"Barbie and the Magic of Pegasus 3-D",
-			"gatsby_image_path":"..\/..\/images\/barbie-and-the-magic-of-pegasus-3-d.jpg",
-			"slug":"barbie-and-the-magic-of-pegasus-3-d"
+			"title":"Trolls",
+			"gatsby_image_path":"..\/..\/images\/trolls.jpg",
+			"slug":"trolls"
 		},
 		{
 			"title":"Harry Potter and the Half-Blood Prince",
@@ -329,19 +379,24 @@
 			"slug":"harry-potter-and-the-half-blood-prince"
 		},
 		{
+			"title":"Barbie and the Magic of Pegasus 3-D",
+			"gatsby_image_path":"..\/..\/images\/barbie-and-the-magic-of-pegasus-3-d.jpg",
+			"slug":"barbie-and-the-magic-of-pegasus-3-d"
+		},
+		{
+			"title":"Barbie Fairytopia: Magic of the Rainbow",
+			"gatsby_image_path":"..\/..\/images\/barbie-fairytopia-magic-of-the-rainbow.jpg",
+			"slug":"barbie-fairytopia-magic-of-the-rainbow"
+		},
+		{
 			"title":"The Wishmas Tree",
 			"gatsby_image_path":"..\/..\/images\/the-wishmas-tree.jpg",
 			"slug":"the-wishmas-tree"
 		},
 		{
-			"title":"Peter Pan",
-			"gatsby_image_path":"..\/..\/images\/peter-pan.jpg",
-			"slug":"peter-pan"
-		},
-		{
-			"title":"Trolls",
-			"gatsby_image_path":"..\/..\/images\/trolls.jpg",
-			"slug":"trolls"
+			"title":"Mickey's Tale of Two Witches",
+			"gatsby_image_path":"..\/..\/images\/mickey-s-tale-of-two-witches.jpg",
+			"slug":"mickey-s-tale-of-two-witches"
 		},
 		{
 			"title":"The Little Vampire",
@@ -349,14 +404,9 @@
 			"slug":"the-little-vampire"
 		},
 		{
-			"title":"Goosebumps",
-			"gatsby_image_path":"..\/..\/images\/goosebumps.jpg",
-			"slug":"goosebumps"
-		},
-		{
-			"title":"American Pie Presents: Beta House",
-			"gatsby_image_path":"..\/..\/images\/american-pie-presents-beta-house.jpg",
-			"slug":"american-pie-presents-beta-house"
+			"title":"Viking Quest",
+			"gatsby_image_path":"..\/..\/images\/viking-quest.jpg",
+			"slug":"viking-quest"
 		}
 	],
 	"tmdb_id":25475,

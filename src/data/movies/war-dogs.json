@@ -53,6 +53,11 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Yes Man",
+			"gatsby_image_path":"..\/..\/images\/yes-man.jpg",
+			"slug":"yes-man"
+		},
+		{
 			"title":"Whiplash",
 			"gatsby_image_path":"..\/..\/images\/whiplash.jpg",
 			"slug":"whiplash"
@@ -66,6 +71,11 @@
 			"title":"The Wolf of Wall Street",
 			"gatsby_image_path":"..\/..\/images\/the-wolf-of-wall-street.jpg",
 			"slug":"the-wolf-of-wall-street"
+		},
+		{
+			"title":"The Watch",
+			"gatsby_image_path":"..\/..\/images\/the-watch.jpg",
+			"slug":"the-watch"
 		},
 		{
 			"title":"The Mule",
@@ -93,14 +103,54 @@
 			"slug":"the-hangover"
 		},
 		{
+			"title":"The A-Team",
+			"gatsby_image_path":"..\/..\/images\/the-a-team.jpg",
+			"slug":"the-a-team"
+		},
+		{
 			"title":"Superbad",
 			"gatsby_image_path":"..\/..\/images\/superbad.jpg",
 			"slug":"superbad"
 		},
 		{
+			"title":"Silver Linings Playbook",
+			"gatsby_image_path":"..\/..\/images\/silver-linings-playbook.jpg",
+			"slug":"silver-linings-playbook"
+		},
+		{
 			"title":"She's All That",
 			"gatsby_image_path":"..\/..\/images\/she-s-all-that.jpg",
 			"slug":"she-s-all-that"
+		},
+		{
+			"title":"Sex, Party and Lies",
+			"gatsby_image_path":"..\/..\/images\/sex-party-and-lies.jpg",
+			"slug":"sex-party-and-lies"
+		},
+		{
+			"title":"Sausage Party",
+			"gatsby_image_path":"..\/..\/images\/sausage-party.jpg",
+			"slug":"sausage-party"
+		},
+		{
+			"title":"Project X",
+			"gatsby_image_path":"..\/..\/images\/project-x.jpg",
+			"slug":"project-x"
+		},
+		{
+			"title":"Only the Brave",
+			"gatsby_image_path":"..\/..\/images\/only-the-brave.jpg",
+			"slug":"only-the-brave"
+		},
+		{
+			"title":"No Time to Die",
+			"gatsby_image_path":"..\/..\/images\/no-time-to-die.jpg",
+			"slug":"no-time-to-die"
+		},
+		{
+			"title":"Megamind",
+			"gatsby_image_path":"..\/..\/images\/megamind.jpg",
+			"slug":"megamind"
 		}
 	],
 	"related_most_similar":[
@@ -264,14 +314,14 @@
 			"slug":"silk-road"
 		},
 		{
+			"title":"The Monuments Men",
+			"gatsby_image_path":"..\/..\/images\/the-monuments-men.jpg",
+			"slug":"the-monuments-men"
+		},
+		{
 			"title":"Den of Thieves",
 			"gatsby_image_path":"..\/..\/images\/den-of-thieves.jpg",
 			"slug":"den-of-thieves"
-		},
-		{
-			"title":"Carrie",
-			"gatsby_image_path":"..\/..\/images\/carrie.jpg",
-			"slug":"carrie"
 		},
 		{
 			"title":"The Imitation Game",
@@ -284,14 +334,19 @@
 			"slug":"black-box"
 		},
 		{
+			"title":"Blackhat",
+			"gatsby_image_path":"..\/..\/images\/blackhat.jpg",
+			"slug":"blackhat"
+		},
+		{
 			"title":"Money Heist: The Phenomenon",
 			"gatsby_image_path":"..\/..\/images\/money-heist-the-phenomenon.jpg",
 			"slug":"money-heist-the-phenomenon"
 		},
 		{
-			"title":"The Darkest Minds",
-			"gatsby_image_path":"..\/..\/images\/the-darkest-minds.jpg",
-			"slug":"the-darkest-minds"
+			"title":"7 Prisoners",
+			"gatsby_image_path":"..\/..\/images\/7-prisoners.jpg",
+			"slug":"7-prisoners"
 		},
 		{
 			"title":"The Hustle",
@@ -299,14 +354,19 @@
 			"slug":"the-hustle"
 		},
 		{
+			"title":"The Darkest Minds",
+			"gatsby_image_path":"..\/..\/images\/the-darkest-minds.jpg",
+			"slug":"the-darkest-minds"
+		},
+		{
 			"title":"Honest Thief",
 			"gatsby_image_path":"..\/..\/images\/honest-thief.jpg",
 			"slug":"honest-thief"
 		},
 		{
-			"title":"Xtreme",
-			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
-			"slug":"xtreme"
+			"title":"Suspiria",
+			"gatsby_image_path":"..\/..\/images\/suspiria.jpg",
+			"slug":"suspiria"
 		},
 		{
 			"title":"The Godfather",
@@ -314,14 +374,19 @@
 			"slug":"the-godfather"
 		},
 		{
+			"title":"Xtreme",
+			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
+			"slug":"xtreme"
+		},
+		{
 			"title":"Hollow Point",
 			"gatsby_image_path":"..\/..\/images\/hollow-point.jpg",
 			"slug":"hollow-point"
 		},
 		{
-			"title":"Paranormal Activity",
-			"gatsby_image_path":"..\/..\/images\/paranormal-activity.jpg",
-			"slug":"paranormal-activity"
+			"title":"Assassins",
+			"gatsby_image_path":"..\/..\/images\/assassins.jpg",
+			"slug":"assassins"
 		},
 		{
 			"title":"I Am All Girls",
@@ -329,34 +394,19 @@
 			"slug":"i-am-all-girls"
 		},
 		{
-			"title":"The Iron Giant",
-			"gatsby_image_path":"..\/..\/images\/the-iron-giant.jpg",
-			"slug":"the-iron-giant"
+			"title":"Final Score",
+			"gatsby_image_path":"..\/..\/images\/final-score.jpg",
+			"slug":"final-score"
+		},
+		{
+			"title":"Paranormal Activity",
+			"gatsby_image_path":"..\/..\/images\/paranormal-activity.jpg",
+			"slug":"paranormal-activity"
 		},
 		{
 			"title":"Out of Death",
 			"gatsby_image_path":"..\/..\/images\/out-of-death.jpg",
 			"slug":"out-of-death"
-		},
-		{
-			"title":"The Polar Express",
-			"gatsby_image_path":"..\/..\/images\/the-polar-express.jpg",
-			"slug":"the-polar-express"
-		},
-		{
-			"title":"The King's Man",
-			"gatsby_image_path":"..\/..\/images\/the-king-s-man.jpg",
-			"slug":"the-king-s-man"
-		},
-		{
-			"title":"The Equalizer 2",
-			"gatsby_image_path":"..\/..\/images\/the-equalizer-2.jpg",
-			"slug":"the-equalizer-2"
-		},
-		{
-			"title":"The Blind Side",
-			"gatsby_image_path":"..\/..\/images\/the-blind-side.jpg",
-			"slug":"the-blind-side"
 		}
 	],
 	"tmdb_id":308266,

@@ -86,6 +86,11 @@
 			"slug":"barbie-and-the-three-musketeers"
 		},
 		{
+			"title":"Rock Dog 2: Rock Around the Park",
+			"gatsby_image_path":"..\/..\/images\/rock-dog-2-rock-around-the-park.jpg",
+			"slug":"rock-dog-2-rock-around-the-park"
+		},
+		{
 			"title":"Barbie: The Princess & The Popstar",
 			"gatsby_image_path":"..\/..\/images\/barbie-the-princess-the-popstar.jpg",
 			"slug":"barbie-the-princess-the-popstar"
@@ -99,6 +104,51 @@
 			"title":"Barbie Presents: Thumbelina",
 			"gatsby_image_path":"..\/..\/images\/barbie-presents-thumbelina.jpg",
 			"slug":"barbie-presents-thumbelina"
+		},
+		{
+			"title":"Barbie in the Nutcracker",
+			"gatsby_image_path":"..\/..\/images\/barbie-in-the-nutcracker.jpg",
+			"slug":"barbie-in-the-nutcracker"
+		},
+		{
+			"title":"Barbie in 'A Christmas Carol'",
+			"gatsby_image_path":"..\/..\/images\/barbie-in-a-christmas-carol.jpg",
+			"slug":"barbie-in-a-christmas-carol"
+		},
+		{
+			"title":"Barbie Fairytopia: Magic of the Rainbow",
+			"gatsby_image_path":"..\/..\/images\/barbie-fairytopia-magic-of-the-rainbow.jpg",
+			"slug":"barbie-fairytopia-magic-of-the-rainbow"
+		},
+		{
+			"title":"Trick 'r Treat",
+			"gatsby_image_path":"..\/..\/images\/trick-r-treat.jpg",
+			"slug":"trick-r-treat"
+		},
+		{
+			"title":"Next Avengers: Heroes of Tomorrow",
+			"gatsby_image_path":"..\/..\/images\/next-avengers-heroes-of-tomorrow.jpg",
+			"slug":"next-avengers-heroes-of-tomorrow"
+		},
+		{
+			"title":"Dead Like Me: Life After Death",
+			"gatsby_image_path":"..\/..\/images\/dead-like-me-life-after-death.jpg",
+			"slug":"dead-like-me-life-after-death"
+		},
+		{
+			"title":"Barbie: Princess Charm School",
+			"gatsby_image_path":"..\/..\/images\/barbie-princess-charm-school.jpg",
+			"slug":"barbie-princess-charm-school"
+		},
+		{
+			"title":"Barbie in the Pink Shoes",
+			"gatsby_image_path":"..\/..\/images\/barbie-in-the-pink-shoes.jpg",
+			"slug":"barbie-in-the-pink-shoes"
+		},
+		{
+			"title":"Barbie as The Princess & the Pauper",
+			"gatsby_image_path":"..\/..\/images\/barbie-as-the-princess-the-pauper.jpg",
+			"slug":"barbie-as-the-princess-the-pauper"
 		}
 	],
 	"related_most_similar":[
@@ -257,14 +307,14 @@
 	],
 	"related_by_overview":[
 		{
-			"title":"Barbie: The Pearl Princess",
-			"gatsby_image_path":"..\/..\/images\/barbie-the-pearl-princess.jpg",
-			"slug":"barbie-the-pearl-princess"
-		},
-		{
 			"title":"Shrek 2",
 			"gatsby_image_path":"..\/..\/images\/shrek-2.jpg",
 			"slug":"shrek-2"
+		},
+		{
+			"title":"Barbie: The Pearl Princess",
+			"gatsby_image_path":"..\/..\/images\/barbie-the-pearl-princess.jpg",
+			"slug":"barbie-the-pearl-princess"
 		},
 		{
 			"title":"Barbie Fairytopia: Magic of the Rainbow",
@@ -272,14 +322,19 @@
 			"slug":"barbie-fairytopia-magic-of-the-rainbow"
 		},
 		{
-			"title":"One Hundred and One Dalmatians",
-			"gatsby_image_path":"..\/..\/images\/one-hundred-and-one-dalmatians.jpg",
-			"slug":"one-hundred-and-one-dalmatians"
+			"title":"Bridge to Terabithia",
+			"gatsby_image_path":"..\/..\/images\/bridge-to-terabithia.jpg",
+			"slug":"bridge-to-terabithia"
 		},
 		{
 			"title":"Tinker Bell and the Pirate Fairy",
 			"gatsby_image_path":"..\/..\/images\/tinker-bell-and-the-pirate-fairy.jpg",
 			"slug":"tinker-bell-and-the-pirate-fairy"
+		},
+		{
+			"title":"One Hundred and One Dalmatians",
+			"gatsby_image_path":"..\/..\/images\/one-hundred-and-one-dalmatians.jpg",
+			"slug":"one-hundred-and-one-dalmatians"
 		},
 		{
 			"title":"Tinker Bell and the Great Fairy Rescue",
@@ -292,19 +347,14 @@
 			"slug":"nanny-mcphee"
 		},
 		{
-			"title":"The Little Vampire",
-			"gatsby_image_path":"..\/..\/images\/the-little-vampire.jpg",
-			"slug":"the-little-vampire"
-		},
-		{
 			"title":"Harry Potter and the Goblet of Fire",
 			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
 			"slug":"harry-potter-and-the-goblet-of-fire"
 		},
 		{
-			"title":"The Fox and the Hound 2",
-			"gatsby_image_path":"..\/..\/images\/the-fox-and-the-hound-2.jpg",
-			"slug":"the-fox-and-the-hound-2"
+			"title":"The Little Vampire",
+			"gatsby_image_path":"..\/..\/images\/the-little-vampire.jpg",
+			"slug":"the-little-vampire"
 		},
 		{
 			"title":"V.C. Andrews' Pearl in the Mist",
@@ -312,9 +362,24 @@
 			"slug":"v.c.-andrews-pearl-in-the-mist"
 		},
 		{
+			"title":"The Fox and the Hound 2",
+			"gatsby_image_path":"..\/..\/images\/the-fox-and-the-hound-2.jpg",
+			"slug":"the-fox-and-the-hound-2"
+		},
+		{
 			"title":"Sleeping Beauty",
 			"gatsby_image_path":"..\/..\/images\/sleeping-beauty.jpg",
 			"slug":"sleeping-beauty"
+		},
+		{
+			"title":"Puss in Boots: The Three Diablos",
+			"gatsby_image_path":"..\/..\/images\/puss-in-boots-the-three-diablos.jpg",
+			"slug":"puss-in-boots-the-three-diablos"
+		},
+		{
+			"title":"Happy Feet Two",
+			"gatsby_image_path":"..\/..\/images\/happy-feet-two.jpg",
+			"slug":"happy-feet-two"
 		},
 		{
 			"title":"Barbie and the Magic of Pegasus 3-D",
@@ -322,39 +387,24 @@
 			"slug":"barbie-and-the-magic-of-pegasus-3-d"
 		},
 		{
+			"title":"Lady and the Tramp",
+			"gatsby_image_path":"..\/..\/images\/lady-and-the-tramp.jpg",
+			"slug":"lady-and-the-tramp"
+		},
+		{
 			"title":"Peter Rabbit 2: The Runaway",
 			"gatsby_image_path":"..\/..\/images\/peter-rabbit-2-the-runaway.jpg",
 			"slug":"peter-rabbit-2-the-runaway"
 		},
 		{
-			"title":"Quest for Camelot",
-			"gatsby_image_path":"..\/..\/images\/quest-for-camelot.jpg",
-			"slug":"quest-for-camelot"
+			"title":"Cinderella",
+			"gatsby_image_path":"..\/..\/images\/cinderella.jpg",
+			"slug":"cinderella"
 		},
 		{
 			"title":"Cloudy with a Chance of Meatballs",
 			"gatsby_image_path":"..\/..\/images\/cloudy-with-a-chance-of-meatballs.jpg",
 			"slug":"cloudy-with-a-chance-of-meatballs"
-		},
-		{
-			"title":"The Addams Family",
-			"gatsby_image_path":"..\/..\/images\/the-addams-family.jpg",
-			"slug":"the-addams-family"
-		},
-		{
-			"title":"An American Tail: Fievel Goes West",
-			"gatsby_image_path":"..\/..\/images\/an-american-tail-fievel-goes-west.jpg",
-			"slug":"an-american-tail-fievel-goes-west"
-		},
-		{
-			"title":"Alvin and the Chipmunks: The Squeakquel",
-			"gatsby_image_path":"..\/..\/images\/alvin-and-the-chipmunks-the-squeakquel.jpg",
-			"slug":"alvin-and-the-chipmunks-the-squeakquel"
-		},
-		{
-			"title":"Secret Magic Control Agency",
-			"gatsby_image_path":"..\/..\/images\/secret-magic-control-agency.jpg",
-			"slug":"secret-magic-control-agency"
 		}
 	],
 	"tmdb_id":13002,

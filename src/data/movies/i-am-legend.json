@@ -75,6 +75,11 @@
 			"slug":"the-lorax"
 		},
 		{
+			"title":"Suicide Squad",
+			"gatsby_image_path":"..\/..\/images\/suicide-squad.jpg",
+			"slug":"suicide-squad"
+		},
+		{
 			"title":"Spies in Disguise",
 			"gatsby_image_path":"..\/..\/images\/spies-in-disguise.jpg",
 			"slug":"spies-in-disguise"
@@ -83,6 +88,11 @@
 			"title":"Soul",
 			"gatsby_image_path":"..\/..\/images\/soul.jpg",
 			"slug":"soul"
+		},
+		{
+			"title":"Silver Linings Playbook",
+			"gatsby_image_path":"..\/..\/images\/silver-linings-playbook.jpg",
+			"slug":"silver-linings-playbook"
 		},
 		{
 			"title":"Shark Tale",
@@ -103,6 +113,46 @@
 			"title":"Missing Link",
 			"gatsby_image_path":"..\/..\/images\/missing-link.jpg",
 			"slug":"missing-link"
+		},
+		{
+			"title":"Men in Black",
+			"gatsby_image_path":"..\/..\/images\/men-in-black.jpg",
+			"slug":"men-in-black"
+		},
+		{
+			"title":"Men in Black: International",
+			"gatsby_image_path":"..\/..\/images\/men-in-black-international.jpg",
+			"slug":"men-in-black-international"
+		},
+		{
+			"title":"King Richard",
+			"gatsby_image_path":"..\/..\/images\/king-richard.jpg",
+			"slug":"king-richard"
+		},
+		{
+			"title":"Independence Day",
+			"gatsby_image_path":"..\/..\/images\/independence-day.jpg",
+			"slug":"independence-day"
+		},
+		{
+			"title":"Harry Potter and the Prisoner of Azkaban",
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-prisoner-of-azkaban.jpg",
+			"slug":"harry-potter-and-the-prisoner-of-azkaban"
+		},
+		{
+			"title":"Hancock",
+			"gatsby_image_path":"..\/..\/images\/hancock.jpg",
+			"slug":"hancock"
+		},
+		{
+			"title":"Gemini Man",
+			"gatsby_image_path":"..\/..\/images\/gemini-man.jpg",
+			"slug":"gemini-man"
+		},
+		{
+			"title":"Frankenweenie",
+			"gatsby_image_path":"..\/..\/images\/frankenweenie.jpg",
+			"slug":"frankenweenie"
 		}
 	],
 	"related_most_similar":[
@@ -266,14 +316,14 @@
 			"slug":"the-last-witch-hunter"
 		},
 		{
+			"title":"Jason X",
+			"gatsby_image_path":"..\/..\/images\/jason-x.jpg",
+			"slug":"jason-x"
+		},
+		{
 			"title":"My Extraordinary Summer With Tess",
 			"gatsby_image_path":"..\/..\/images\/my-extraordinary-summer-with-tess.jpg",
 			"slug":"my-extraordinary-summer-with-tess"
-		},
-		{
-			"title":"I Am Mother",
-			"gatsby_image_path":"..\/..\/images\/i-am-mother.jpg",
-			"slug":"i-am-mother"
 		},
 		{
 			"title":"Catch Me If You Can",
@@ -281,14 +331,29 @@
 			"slug":"catch-me-if-you-can"
 		},
 		{
+			"title":"I Spit on Your Grave III: Vengeance is Mine",
+			"gatsby_image_path":"..\/..\/images\/i-spit-on-your-grave-iii-vengeance-is-mine.jpg",
+			"slug":"i-spit-on-your-grave-iii-vengeance-is-mine"
+		},
+		{
+			"title":"I Am Mother",
+			"gatsby_image_path":"..\/..\/images\/i-am-mother.jpg",
+			"slug":"i-am-mother"
+		},
+		{
+			"title":"I Am Number Four",
+			"gatsby_image_path":"..\/..\/images\/i-am-number-four.jpg",
+			"slug":"i-am-number-four"
+		},
+		{
+			"title":"Jason Goes to Hell: The Final Friday",
+			"gatsby_image_path":"..\/..\/images\/jason-goes-to-hell-the-final-friday.jpg",
+			"slug":"jason-goes-to-hell-the-final-friday"
+		},
+		{
 			"title":"Death Saved My Life",
 			"gatsby_image_path":"..\/..\/images\/death-saved-my-life.jpg",
 			"slug":"death-saved-my-life"
-		},
-		{
-			"title":"Escape Plan",
-			"gatsby_image_path":"..\/..\/images\/escape-plan.jpg",
-			"slug":"escape-plan"
 		},
 		{
 			"title":"Friday the 13th Part 2",
@@ -296,9 +361,19 @@
 			"slug":"friday-the-13th-part-2"
 		},
 		{
+			"title":"Escape Plan",
+			"gatsby_image_path":"..\/..\/images\/escape-plan.jpg",
+			"slug":"escape-plan"
+		},
+		{
 			"title":"Before I Fall",
 			"gatsby_image_path":"..\/..\/images\/before-i-fall.jpg",
 			"slug":"before-i-fall"
+		},
+		{
+			"title":"A Thousand Words",
+			"gatsby_image_path":"..\/..\/images\/a-thousand-words.jpg",
+			"slug":"a-thousand-words"
 		},
 		{
 			"title":"Independence Day: Resurgence",
@@ -311,19 +386,9 @@
 			"slug":"can-you-keep-a-secret"
 		},
 		{
-			"title":"Five Feet Apart",
-			"gatsby_image_path":"..\/..\/images\/five-feet-apart.jpg",
-			"slug":"five-feet-apart"
-		},
-		{
 			"title":"Star Trek",
 			"gatsby_image_path":"..\/..\/images\/star-trek.jpg",
 			"slug":"star-trek"
-		},
-		{
-			"title":"Zombieland",
-			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
-			"slug":"zombieland"
 		},
 		{
 			"title":"The Fault in Our Stars",
@@ -331,34 +396,19 @@
 			"slug":"the-fault-in-our-stars"
 		},
 		{
+			"title":"Five Feet Apart",
+			"gatsby_image_path":"..\/..\/images\/five-feet-apart.jpg",
+			"slug":"five-feet-apart"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
 			"title":"Mad World",
 			"gatsby_image_path":"..\/..\/images\/mad-world.jpg",
 			"slug":"mad-world"
-		},
-		{
-			"title":"Piranha 3D",
-			"gatsby_image_path":"..\/..\/images\/piranha-3d.jpg",
-			"slug":"piranha-3d"
-		},
-		{
-			"title":"28 Days Later",
-			"gatsby_image_path":"..\/..\/images\/28-days-later.jpg",
-			"slug":"28-days-later"
-		},
-		{
-			"title":"The Fourth Kind",
-			"gatsby_image_path":"..\/..\/images\/the-fourth-kind.jpg",
-			"slug":"the-fourth-kind"
-		},
-		{
-			"title":"That's My Boy",
-			"gatsby_image_path":"..\/..\/images\/that-s-my-boy.jpg",
-			"slug":"that-s-my-boy"
-		},
-		{
-			"title":"The Adventures of Sharkboy and Lavagirl",
-			"gatsby_image_path":"..\/..\/images\/the-adventures-of-sharkboy-and-lavagirl.jpg",
-			"slug":"the-adventures-of-sharkboy-and-lavagirl"
 		}
 	],
 	"tmdb_id":6479,

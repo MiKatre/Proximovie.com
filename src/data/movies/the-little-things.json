@@ -70,6 +70,11 @@
 			"slug":"the-equalizer-2"
 		},
 		{
+			"title":"Suicide Squad",
+			"gatsby_image_path":"..\/..\/images\/suicide-squad.jpg",
+			"slug":"suicide-squad"
+		},
+		{
 			"title":"Stuber",
 			"gatsby_image_path":"..\/..\/images\/stuber.jpg",
 			"slug":"stuber"
@@ -98,6 +103,51 @@
 			"title":"Morbius",
 			"gatsby_image_path":"..\/..\/images\/morbius.jpg",
 			"slug":"morbius"
+		},
+		{
+			"title":"Man on Fire",
+			"gatsby_image_path":"..\/..\/images\/man-on-fire.jpg",
+			"slug":"man-on-fire"
+		},
+		{
+			"title":"House of Gucci",
+			"gatsby_image_path":"..\/..\/images\/house-of-gucci.jpg",
+			"slug":"house-of-gucci"
+		},
+		{
+			"title":"Happily",
+			"gatsby_image_path":"..\/..\/images\/happily.jpg",
+			"slug":"happily"
+		},
+		{
+			"title":"Four Good Days",
+			"gatsby_image_path":"..\/..\/images\/four-good-days.jpg",
+			"slug":"four-good-days"
+		},
+		{
+			"title":"Fight Club",
+			"gatsby_image_path":"..\/..\/images\/fight-club.jpg",
+			"slug":"fight-club"
+		},
+		{
+			"title":"Dolittle",
+			"gatsby_image_path":"..\/..\/images\/dolittle.jpg",
+			"slug":"dolittle"
+		},
+		{
+			"title":"Bohemian Rhapsody",
+			"gatsby_image_path":"..\/..\/images\/bohemian-rhapsody.jpg",
+			"slug":"bohemian-rhapsody"
+		},
+		{
+			"title":"Blade Runner 2049",
+			"gatsby_image_path":"..\/..\/images\/blade-runner-2049.jpg",
+			"slug":"blade-runner-2049"
+		},
+		{
+			"title":"After Earth",
+			"gatsby_image_path":"..\/..\/images\/after-earth.jpg",
+			"slug":"after-earth"
 		}
 	],
 	"related_most_similar":[
@@ -271,9 +321,9 @@
 			"slug":"die-hard"
 		},
 		{
-			"title":"Security",
-			"gatsby_image_path":"..\/..\/images\/security.jpg",
-			"slug":"security"
+			"title":"Contraband",
+			"gatsby_image_path":"..\/..\/images\/contraband.jpg",
+			"slug":"contraband"
 		},
 		{
 			"title":"Snake Eyes",
@@ -286,14 +336,14 @@
 			"slug":"line-of-duty"
 		},
 		{
+			"title":"The Double",
+			"gatsby_image_path":"..\/..\/images\/the-double.jpg",
+			"slug":"the-double"
+		},
+		{
 			"title":"Pain & Gain",
 			"gatsby_image_path":"..\/..\/images\/pain-gain.jpg",
 			"slug":"pain-gain"
-		},
-		{
-			"title":"Midnight in the Switchgrass",
-			"gatsby_image_path":"..\/..\/images\/midnight-in-the-switchgrass.jpg",
-			"slug":"midnight-in-the-switchgrass"
 		},
 		{
 			"title":"Nightcrawler",
@@ -301,14 +351,24 @@
 			"slug":"nightcrawler"
 		},
 		{
-			"title":"Once Upon a Time in Venice",
-			"gatsby_image_path":"..\/..\/images\/once-upon-a-time-in-venice.jpg",
-			"slug":"once-upon-a-time-in-venice"
+			"title":"Public Enemies",
+			"gatsby_image_path":"..\/..\/images\/public-enemies.jpg",
+			"slug":"public-enemies"
+		},
+		{
+			"title":"Midnight in the Switchgrass",
+			"gatsby_image_path":"..\/..\/images\/midnight-in-the-switchgrass.jpg",
+			"slug":"midnight-in-the-switchgrass"
 		},
 		{
 			"title":"Trauma Center",
 			"gatsby_image_path":"..\/..\/images\/trauma-center.jpg",
 			"slug":"trauma-center"
+		},
+		{
+			"title":"Once Upon a Time in Venice",
+			"gatsby_image_path":"..\/..\/images\/once-upon-a-time-in-venice.jpg",
+			"slug":"once-upon-a-time-in-venice"
 		},
 		{
 			"title":"Reprisal",
@@ -321,14 +381,14 @@
 			"slug":"brothers-by-blood"
 		},
 		{
-			"title":"Cold Pursuit",
-			"gatsby_image_path":"..\/..\/images\/cold-pursuit.jpg",
-			"slug":"cold-pursuit"
-		},
-		{
 			"title":"Goosebumps",
 			"gatsby_image_path":"..\/..\/images\/goosebumps.jpg",
 			"slug":"goosebumps"
+		},
+		{
+			"title":"Cold Pursuit",
+			"gatsby_image_path":"..\/..\/images\/cold-pursuit.jpg",
+			"slug":"cold-pursuit"
 		},
 		{
 			"title":"The Magnificent Seven",
@@ -341,19 +401,9 @@
 			"slug":"in-the-shadow-of-the-moon"
 		},
 		{
-			"title":"Saw II",
-			"gatsby_image_path":"..\/..\/images\/saw-ii.jpg",
-			"slug":"saw-ii"
-		},
-		{
 			"title":"The Mule",
 			"gatsby_image_path":"..\/..\/images\/the-mule.jpg",
 			"slug":"the-mule"
-		},
-		{
-			"title":"Body Brokers",
-			"gatsby_image_path":"..\/..\/images\/body-brokers.jpg",
-			"slug":"body-brokers"
 		}
 	],
 	"tmdb_id":602269,

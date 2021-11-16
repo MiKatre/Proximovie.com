@@ -54,11 +54,6 @@
 	],
 	"related_by_cast":[
 		{
-			"title":"Halloween",
-			"gatsby_image_path":"..\/..\/images\/halloween.jpg",
-			"slug":"halloween"
-		},
-		{
 			"title":"Where'd You Go, Bernadette",
 			"gatsby_image_path":"..\/..\/images\/where-d-you-go-bernadette.jpg",
 			"slug":"where-d-you-go-bernadette"
@@ -94,14 +89,69 @@
 			"slug":"love-other-drugs"
 		},
 		{
-			"title":"Lady and the Tramp",
-			"gatsby_image_path":"..\/..\/images\/lady-and-the-tramp.jpg",
-			"slug":"lady-and-the-tramp"
+			"title":"Lady of the Manor",
+			"gatsby_image_path":"..\/..\/images\/lady-of-the-manor.jpg",
+			"slug":"lady-of-the-manor"
 		},
 		{
 			"title":"Knives Out",
 			"gatsby_image_path":"..\/..\/images\/knives-out.jpg",
 			"slug":"knives-out"
+		},
+		{
+			"title":"Jurassic World",
+			"gatsby_image_path":"..\/..\/images\/jurassic-world.jpg",
+			"slug":"jurassic-world"
+		},
+		{
+			"title":"Hansel & Gretel: Witch Hunters",
+			"gatsby_image_path":"..\/..\/images\/hansel-gretel-witch-hunters.jpg",
+			"slug":"hansel-gretel-witch-hunters"
+		},
+		{
+			"title":"Halloween: Resurrection",
+			"gatsby_image_path":"..\/..\/images\/halloween-resurrection.jpg",
+			"slug":"halloween-resurrection"
+		},
+		{
+			"title":"Edward Scissorhands",
+			"gatsby_image_path":"..\/..\/images\/edward-scissorhands.jpg",
+			"slug":"edward-scissorhands"
+		},
+		{
+			"title":"Cursed",
+			"gatsby_image_path":"..\/..\/images\/cursed.jpg",
+			"slug":"cursed"
+		},
+		{
+			"title":"Christmas with the Kranks",
+			"gatsby_image_path":"..\/..\/images\/christmas-with-the-kranks.jpg",
+			"slug":"christmas-with-the-kranks"
+		},
+		{
+			"title":"Buffaloed",
+			"gatsby_image_path":"..\/..\/images\/buffaloed.jpg",
+			"slug":"buffaloed"
+		},
+		{
+			"title":"Beverly Hills Chihuahua",
+			"gatsby_image_path":"..\/..\/images\/beverly-hills-chihuahua.jpg",
+			"slug":"beverly-hills-chihuahua"
+		},
+		{
+			"title":"Armageddon",
+			"gatsby_image_path":"..\/..\/images\/armageddon.jpg",
+			"slug":"armageddon"
+		},
+		{
+			"title":"Ant-Man",
+			"gatsby_image_path":"..\/..\/images\/ant-man.jpg",
+			"slug":"ant-man"
+		},
+		{
+			"title":"Ant-Man and the Wasp",
+			"gatsby_image_path":"..\/..\/images\/ant-man-and-the-wasp.jpg",
+			"slug":"ant-man-and-the-wasp"
 		}
 	],
 	"related_most_similar":[
@@ -270,6 +320,11 @@
 			"slug":"halloween-4-the-return-of-michael-myers"
 		},
 		{
+			"title":"Halloween III: Season of the Witch",
+			"gatsby_image_path":"..\/..\/images\/halloween-iii-season-of-the-witch.jpg",
+			"slug":"halloween-iii-season-of-the-witch"
+		},
+		{
 			"title":"The Mummy Returns",
 			"gatsby_image_path":"..\/..\/images\/the-mummy-returns.jpg",
 			"slug":"the-mummy-returns"
@@ -280,9 +335,14 @@
 			"slug":"the-texas-chainsaw-massacre-the-beginning"
 		},
 		{
-			"title":"Thir13en Ghosts",
-			"gatsby_image_path":"..\/..\/images\/thir13en-ghosts.jpg",
-			"slug":"thir13en-ghosts"
+			"title":"Red Riding Hood",
+			"gatsby_image_path":"..\/..\/images\/red-riding-hood.jpg",
+			"slug":"red-riding-hood"
+		},
+		{
+			"title":"The Return of the Living Dead",
+			"gatsby_image_path":"..\/..\/images\/the-return-of-the-living-dead.jpg",
+			"slug":"the-return-of-the-living-dead"
 		},
 		{
 			"title":"It Follows",
@@ -290,14 +350,19 @@
 			"slug":"it-follows"
 		},
 		{
+			"title":"Thir13en Ghosts",
+			"gatsby_image_path":"..\/..\/images\/thir13en-ghosts.jpg",
+			"slug":"thir13en-ghosts"
+		},
+		{
 			"title":"Dead Silence",
 			"gatsby_image_path":"..\/..\/images\/dead-silence.jpg",
 			"slug":"dead-silence"
 		},
 		{
-			"title":"Brothers by Blood",
-			"gatsby_image_path":"..\/..\/images\/brothers-by-blood.jpg",
-			"slug":"brothers-by-blood"
+			"title":"Ghostbusters II",
+			"gatsby_image_path":"..\/..\/images\/ghostbusters-ii.jpg",
+			"slug":"ghostbusters-ii"
 		},
 		{
 			"title":"The Water Man",
@@ -305,9 +370,34 @@
 			"slug":"the-water-man"
 		},
 		{
+			"title":"Brothers by Blood",
+			"gatsby_image_path":"..\/..\/images\/brothers-by-blood.jpg",
+			"slug":"brothers-by-blood"
+		},
+		{
+			"title":"Little Man",
+			"gatsby_image_path":"..\/..\/images\/little-man.jpg",
+			"slug":"little-man"
+		},
+		{
+			"title":"Twilight",
+			"gatsby_image_path":"..\/..\/images\/twilight.jpg",
+			"slug":"twilight"
+		},
+		{
 			"title":"The Hunger Games: Mockingjay - Part 2",
 			"gatsby_image_path":"..\/..\/images\/the-hunger-games-mockingjay-part-2.jpg",
 			"slug":"the-hunger-games-mockingjay-part-2"
+		},
+		{
+			"title":"No Good Deed",
+			"gatsby_image_path":"..\/..\/images\/no-good-deed.jpg",
+			"slug":"no-good-deed"
+		},
+		{
+			"title":"Scream 4",
+			"gatsby_image_path":"..\/..\/images\/scream-4.jpg",
+			"slug":"scream-4"
 		},
 		{
 			"title":"Cult of Chucky",
@@ -315,49 +405,9 @@
 			"slug":"cult-of-chucky"
 		},
 		{
-			"title":"Castle Freak",
-			"gatsby_image_path":"..\/..\/images\/castle-freak.jpg",
-			"slug":"castle-freak"
-		},
-		{
 			"title":"Goosebumps",
 			"gatsby_image_path":"..\/..\/images\/goosebumps.jpg",
 			"slug":"goosebumps"
-		},
-		{
-			"title":"The Matrix Reloaded",
-			"gatsby_image_path":"..\/..\/images\/the-matrix-reloaded.jpg",
-			"slug":"the-matrix-reloaded"
-		},
-		{
-			"title":"Harry Potter and the Half-Blood Prince",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-half-blood-prince.jpg",
-			"slug":"harry-potter-and-the-half-blood-prince"
-		},
-		{
-			"title":"Haunting of the Mary Celeste",
-			"gatsby_image_path":"..\/..\/images\/haunting-of-the-mary-celeste.jpg",
-			"slug":"haunting-of-the-mary-celeste"
-		},
-		{
-			"title":"A Simple Favor",
-			"gatsby_image_path":"..\/..\/images\/a-simple-favor.jpg",
-			"slug":"a-simple-favor"
-		},
-		{
-			"title":"Burn",
-			"gatsby_image_path":"..\/..\/images\/burn.jpg",
-			"slug":"burn"
-		},
-		{
-			"title":"Trauma Center",
-			"gatsby_image_path":"..\/..\/images\/trauma-center.jpg",
-			"slug":"trauma-center"
-		},
-		{
-			"title":"The Kill Team",
-			"gatsby_image_path":"..\/..\/images\/the-kill-team.jpg",
-			"slug":"the-kill-team"
 		}
 	],
 	"tmdb_id":610253,

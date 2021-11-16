@@ -72,6 +72,16 @@
 			"slug":"snake-eyes"
 		},
 		{
+			"title":"Seeking Justice",
+			"gatsby_image_path":"..\/..\/images\/seeking-justice.jpg",
+			"slug":"seeking-justice"
+		},
+		{
+			"title":"Season of the Witch",
+			"gatsby_image_path":"..\/..\/images\/season-of-the-witch.jpg",
+			"slug":"season-of-the-witch"
+		},
+		{
 			"title":"Primal",
 			"gatsby_image_path":"..\/..\/images\/primal.jpg",
 			"slug":"primal"
@@ -82,14 +92,34 @@
 			"slug":"pig"
 		},
 		{
+			"title":"Outcast",
+			"gatsby_image_path":"..\/..\/images\/outcast.jpg",
+			"slug":"outcast"
+		},
+		{
 			"title":"Mandy",
 			"gatsby_image_path":"..\/..\/images\/mandy.jpg",
 			"slug":"mandy"
 		},
 		{
+			"title":"Left Behind",
+			"gatsby_image_path":"..\/..\/images\/left-behind.jpg",
+			"slug":"left-behind"
+		},
+		{
+			"title":"Knowing",
+			"gatsby_image_path":"..\/..\/images\/knowing.jpg",
+			"slug":"knowing"
+		},
+		{
 			"title":"Kill Chain",
 			"gatsby_image_path":"..\/..\/images\/kill-chain.jpg",
 			"slug":"kill-chain"
+		},
+		{
+			"title":"Kick-Ass",
+			"gatsby_image_path":"..\/..\/images\/kick-ass.jpg",
+			"slug":"kick-ass"
 		},
 		{
 			"title":"Jiu Jitsu",
@@ -100,6 +130,26 @@
 			"title":"Grand Isle",
 			"gatsby_image_path":"..\/..\/images\/grand-isle.jpg",
 			"slug":"grand-isle"
+		},
+		{
+			"title":"Ghost Rider: Spirit of Vengeance",
+			"gatsby_image_path":"..\/..\/images\/ghost-rider-spirit-of-vengeance.jpg",
+			"slug":"ghost-rider-spirit-of-vengeance"
+		},
+		{
+			"title":"Ghost Rider",
+			"gatsby_image_path":"..\/..\/images\/ghost-rider.jpg",
+			"slug":"ghost-rider"
+		},
+		{
+			"title":"Bad Lieutenant: Port of Call - New Orleans",
+			"gatsby_image_path":"..\/..\/images\/bad-lieutenant-port-of-call-new-orleans.jpg",
+			"slug":"bad-lieutenant-port-of-call-new-orleans"
+		},
+		{
+			"title":"Astro Boy",
+			"gatsby_image_path":"..\/..\/images\/astro-boy.jpg",
+			"slug":"astro-boy"
 		}
 	],
 	"related_most_similar":[
@@ -273,19 +323,19 @@
 			"slug":"spirit-untamed"
 		},
 		{
+			"title":"Sweet Girl",
+			"gatsby_image_path":"..\/..\/images\/sweet-girl.jpg",
+			"slug":"sweet-girl"
+		},
+		{
 			"title":"A Tale of Two Sisters",
 			"gatsby_image_path":"..\/..\/images\/a-tale-of-two-sisters.jpg",
 			"slug":"a-tale-of-two-sisters"
 		},
 		{
-			"title":"Friday the 13th",
-			"gatsby_image_path":"..\/..\/images\/friday-the-13th.jpg",
-			"slug":"friday-the-13th"
-		},
-		{
-			"title":"Spiral: From the Book of Saw",
-			"gatsby_image_path":"..\/..\/images\/spiral-from-the-book-of-saw.jpg",
-			"slug":"spiral-from-the-book-of-saw"
+			"title":"Next-Door Nightmare",
+			"gatsby_image_path":"..\/..\/images\/next-door-nightmare.jpg",
+			"slug":"next-door-nightmare"
 		},
 		{
 			"title":"Avengement",
@@ -293,14 +343,19 @@
 			"slug":"avengement"
 		},
 		{
+			"title":"Spiral: From the Book of Saw",
+			"gatsby_image_path":"..\/..\/images\/spiral-from-the-book-of-saw.jpg",
+			"slug":"spiral-from-the-book-of-saw"
+		},
+		{
+			"title":"After.Life",
+			"gatsby_image_path":"..\/..\/images\/after.life.jpg",
+			"slug":"after.life"
+		},
+		{
 			"title":"Haseen Dillruba",
 			"gatsby_image_path":"..\/..\/images\/haseen-dillruba.jpg",
 			"slug":"haseen-dillruba"
-		},
-		{
-			"title":"The Help",
-			"gatsby_image_path":"..\/..\/images\/the-help.jpg",
-			"slug":"the-help"
 		},
 		{
 			"title":"A Nun's Curse",
@@ -308,9 +363,24 @@
 			"slug":"a-nun-s-curse"
 		},
 		{
+			"title":"The Help",
+			"gatsby_image_path":"..\/..\/images\/the-help.jpg",
+			"slug":"the-help"
+		},
+		{
 			"title":"The Equalizer 2",
 			"gatsby_image_path":"..\/..\/images\/the-equalizer-2.jpg",
 			"slug":"the-equalizer-2"
+		},
+		{
+			"title":"Knowing",
+			"gatsby_image_path":"..\/..\/images\/knowing.jpg",
+			"slug":"knowing"
+		},
+		{
+			"title":"The Paperboy",
+			"gatsby_image_path":"..\/..\/images\/the-paperboy.jpg",
+			"slug":"the-paperboy"
 		},
 		{
 			"title":"Ted",
@@ -323,39 +393,19 @@
 			"slug":"peppermint"
 		},
 		{
-			"title":"Unbroken: Path to Redemption",
-			"gatsby_image_path":"..\/..\/images\/unbroken-path-to-redemption.jpg",
-			"slug":"unbroken-path-to-redemption"
-		},
-		{
 			"title":"Revenger",
 			"gatsby_image_path":"..\/..\/images\/revenger.jpg",
 			"slug":"revenger"
 		},
 		{
-			"title":"When Marnie Was There",
-			"gatsby_image_path":"..\/..\/images\/when-marnie-was-there.jpg",
-			"slug":"when-marnie-was-there"
+			"title":"Unbroken: Path to Redemption",
+			"gatsby_image_path":"..\/..\/images\/unbroken-path-to-redemption.jpg",
+			"slug":"unbroken-path-to-redemption"
 		},
 		{
-			"title":"Kiki's Delivery Service",
-			"gatsby_image_path":"..\/..\/images\/kiki-s-delivery-service.jpg",
-			"slug":"kiki-s-delivery-service"
-		},
-		{
-			"title":"The Penitent Thief",
-			"gatsby_image_path":"..\/..\/images\/the-penitent-thief.jpg",
-			"slug":"the-penitent-thief"
-		},
-		{
-			"title":"Xtreme",
-			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
-			"slug":"xtreme"
-		},
-		{
-			"title":"The Commuter",
-			"gatsby_image_path":"..\/..\/images\/the-commuter.jpg",
-			"slug":"the-commuter"
+			"title":"Odd Thomas",
+			"gatsby_image_path":"..\/..\/images\/odd-thomas.jpg",
+			"slug":"odd-thomas"
 		}
 	],
 	"tmdb_id":500921,

@@ -59,6 +59,11 @@
 			"slug":"batman-the-dark-knight-returns-part-2"
 		},
 		{
+			"title":"Truth or Dare",
+			"gatsby_image_path":"..\/..\/images\/truth-or-dare.jpg",
+			"slug":"truth-or-dare"
+		},
+		{
 			"title":"Tom and Jerry: The Fast and the Furry",
 			"gatsby_image_path":"..\/..\/images\/tom-and-jerry-the-fast-and-the-furry.jpg",
 			"slug":"tom-and-jerry-the-fast-and-the-furry"
@@ -102,6 +107,51 @@
 			"title":"Star Trek Into Darkness",
 			"gatsby_image_path":"..\/..\/images\/star-trek-into-darkness.jpg",
 			"slug":"star-trek-into-darkness"
+		},
+		{
+			"title":"Skin Trade",
+			"gatsby_image_path":"..\/..\/images\/skin-trade.jpg",
+			"slug":"skin-trade"
+		},
+		{
+			"title":"Scooby-Doo! and the Cyber Chase",
+			"gatsby_image_path":"..\/..\/images\/scooby-doo-and-the-cyber-chase.jpg",
+			"slug":"scooby-doo-and-the-cyber-chase"
+		},
+		{
+			"title":"Playing God",
+			"gatsby_image_path":"..\/..\/images\/playing-god.jpg",
+			"slug":"playing-god"
+		},
+		{
+			"title":"My Little Pony: A New Generation",
+			"gatsby_image_path":"..\/..\/images\/my-little-pony-a-new-generation.jpg",
+			"slug":"my-little-pony-a-new-generation"
+		},
+		{
+			"title":"Mr. Peabody & Sherman",
+			"gatsby_image_path":"..\/..\/images\/mr.-peabody-sherman.jpg",
+			"slug":"mr.-peabody-sherman"
+		},
+		{
+			"title":"Justice League: Gods and Monsters",
+			"gatsby_image_path":"..\/..\/images\/justice-league-gods-and-monsters.jpg",
+			"slug":"justice-league-gods-and-monsters"
+		},
+		{
+			"title":"Cinderella III: A Twist in Time",
+			"gatsby_image_path":"..\/..\/images\/cinderella-iii-a-twist-in-time.jpg",
+			"slug":"cinderella-iii-a-twist-in-time"
+		},
+		{
+			"title":"Cinderella II: Dreams Come True",
+			"gatsby_image_path":"..\/..\/images\/cinderella-ii-dreams-come-true.jpg",
+			"slug":"cinderella-ii-dreams-come-true"
+		},
+		{
+			"title":"Batman: Under the Red Hood",
+			"gatsby_image_path":"..\/..\/images\/batman-under-the-red-hood.jpg",
+			"slug":"batman-under-the-red-hood"
 		}
 	],
 	"related_most_similar":[
@@ -280,14 +330,14 @@
 			"slug":"spider-man-into-the-spider-verse"
 		},
 		{
-			"title":"Batman: The Long Halloween, Part One",
-			"gatsby_image_path":"..\/..\/images\/batman-the-long-halloween-part-one.jpg",
-			"slug":"batman-the-long-halloween-part-one"
-		},
-		{
 			"title":"The Incredible Hulk",
 			"gatsby_image_path":"..\/..\/images\/the-incredible-hulk.jpg",
 			"slug":"the-incredible-hulk"
+		},
+		{
+			"title":"Batman: The Long Halloween, Part One",
+			"gatsby_image_path":"..\/..\/images\/batman-the-long-halloween-part-one.jpg",
+			"slug":"batman-the-long-halloween-part-one"
 		},
 		{
 			"title":"Batman: Under the Red Hood",
@@ -298,6 +348,16 @@
 			"title":"Blade Runner 2049",
 			"gatsby_image_path":"..\/..\/images\/blade-runner-2049.jpg",
 			"slug":"blade-runner-2049"
+		},
+		{
+			"title":"Avengers Confidential: Black Widow & Punisher",
+			"gatsby_image_path":"..\/..\/images\/avengers-confidential-black-widow-punisher.jpg",
+			"slug":"avengers-confidential-black-widow-punisher"
+		},
+		{
+			"title":"Transformers: Revenge of the Fallen",
+			"gatsby_image_path":"..\/..\/images\/transformers-revenge-of-the-fallen.jpg",
+			"slug":"transformers-revenge-of-the-fallen"
 		},
 		{
 			"title":"Batman: The Dark Knight Returns, Part 2",
@@ -315,6 +375,11 @@
 			"slug":"doom-annihilation"
 		},
 		{
+			"title":"Sleepy Hollow",
+			"gatsby_image_path":"..\/..\/images\/sleepy-hollow.jpg",
+			"slug":"sleepy-hollow"
+		},
+		{
 			"title":"Freddy vs. Jason",
 			"gatsby_image_path":"..\/..\/images\/freddy-vs.-jason.jpg",
 			"slug":"freddy-vs.-jason"
@@ -325,14 +390,14 @@
 			"slug":"teenage-mutant-ninja-turtles-out-of-the-shadows"
 		},
 		{
-			"title":"X-Men: Apocalypse",
-			"gatsby_image_path":"..\/..\/images\/x-men-apocalypse.jpg",
-			"slug":"x-men-apocalypse"
-		},
-		{
 			"title":"Men in Black",
 			"gatsby_image_path":"..\/..\/images\/men-in-black.jpg",
 			"slug":"men-in-black"
+		},
+		{
+			"title":"X-Men: Apocalypse",
+			"gatsby_image_path":"..\/..\/images\/x-men-apocalypse.jpg",
+			"slug":"x-men-apocalypse"
 		},
 		{
 			"title":"Transformers: Beginnings",
@@ -340,24 +405,9 @@
 			"slug":"transformers-beginnings"
 		},
 		{
-			"title":"Kingsman: The Golden Circle",
-			"gatsby_image_path":"..\/..\/images\/kingsman-the-golden-circle.jpg",
-			"slug":"kingsman-the-golden-circle"
-		},
-		{
-			"title":"Singularity",
-			"gatsby_image_path":"..\/..\/images\/singularity.jpg",
-			"slug":"singularity"
-		},
-		{
-			"title":"Space Pirate Captain Harlock",
-			"gatsby_image_path":"..\/..\/images\/space-pirate-captain-harlock.jpg",
-			"slug":"space-pirate-captain-harlock"
-		},
-		{
-			"title":"Child's Play 3",
-			"gatsby_image_path":"..\/..\/images\/child-s-play-3.jpg",
-			"slug":"child-s-play-3"
+			"title":"Stargate",
+			"gatsby_image_path":"..\/..\/images\/stargate.jpg",
+			"slug":"stargate"
 		}
 	],
 	"tmdb_id":123025,

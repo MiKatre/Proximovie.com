@@ -81,6 +81,11 @@
 			"slug":"pokémon-the-movie-the-power-of-us"
 		},
 		{
+			"title":"Pokémon the Movie: Secrets of the Jungle",
+			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-secrets-of-the-jungle.jpg",
+			"slug":"pokémon-the-movie-secrets-of-the-jungle"
+		},
+		{
 			"title":"Pokémon the Movie: I Choose You!",
 			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-i-choose-you.jpg",
 			"slug":"pokémon-the-movie-i-choose-you"
@@ -91,9 +96,54 @@
 			"slug":"pokémon-the-movie-hoopa-and-the-clash-of-ages"
 		},
 		{
+			"title":"Pokémon: Mewtwo Strikes Back - Evolution",
+			"gatsby_image_path":"..\/..\/images\/pokémon-mewtwo-strikes-back-evolution.jpg",
+			"slug":"pokémon-mewtwo-strikes-back-evolution"
+		},
+		{
 			"title":"Neon Genesis Evangelion: The End of Evangelion",
 			"gatsby_image_path":"..\/..\/images\/neon-genesis-evangelion-the-end-of-evangelion.jpg",
 			"slug":"neon-genesis-evangelion-the-end-of-evangelion"
+		},
+		{
+			"title":"My Hero Academia: World Heroes' Mission",
+			"gatsby_image_path":"..\/..\/images\/my-hero-academia-world-heroes-mission.jpg",
+			"slug":"my-hero-academia-world-heroes-mission"
+		},
+		{
+			"title":"Maquia: When the Promised Flower Blooms",
+			"gatsby_image_path":"..\/..\/images\/maquia-when-the-promised-flower-blooms.jpg",
+			"slug":"maquia-when-the-promised-flower-blooms"
+		},
+		{
+			"title":"Kizumonogatari Part 2: Nekketsu",
+			"gatsby_image_path":"..\/..\/images\/kizumonogatari-part-2-nekketsu.jpg",
+			"slug":"kizumonogatari-part-2-nekketsu"
+		},
+		{
+			"title":"Kiki's Delivery Service",
+			"gatsby_image_path":"..\/..\/images\/kiki-s-delivery-service.jpg",
+			"slug":"kiki-s-delivery-service"
+		},
+		{
+			"title":"Evangelion: 3.0 You Can (Not) Redo",
+			"gatsby_image_path":"..\/..\/images\/evangelion-3.0-you-can-not-redo.jpg",
+			"slug":"evangelion-3.0-you-can-not-redo"
+		},
+		{
+			"title":"Evangelion: 3.0+1.0 Thrice Upon a Time",
+			"gatsby_image_path":"..\/..\/images\/evangelion-3.0-+1.0-thrice-upon-a-time.jpg",
+			"slug":"evangelion-3.0-+1.0-thrice-upon-a-time"
+		},
+		{
+			"title":"Evangelion: 1.0 You Are (Not) Alone",
+			"gatsby_image_path":"..\/..\/images\/evangelion-1.0-you-are-not-alone.jpg",
+			"slug":"evangelion-1.0-you-are-not-alone"
+		},
+		{
+			"title":"Dragon Ball Z: Wrath of the Dragon",
+			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-wrath-of-the-dragon.jpg",
+			"slug":"dragon-ball-z-wrath-of-the-dragon"
 		}
 	],
 	"related_most_similar":[
@@ -262,19 +312,24 @@
 			"slug":"dragon-ball-z-the-history-of-trunks"
 		},
 		{
+			"title":"Kick-Ass 2",
+			"gatsby_image_path":"..\/..\/images\/kick-ass-2.jpg",
+			"slug":"kick-ass-2"
+		},
+		{
 			"title":"Dragon Ball Z: Wrath of the Dragon",
 			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-wrath-of-the-dragon.jpg",
 			"slug":"dragon-ball-z-wrath-of-the-dragon"
 		},
 		{
-			"title":"Percy Jackson & the Olympians: The Lightning Thief",
-			"gatsby_image_path":"..\/..\/images\/percy-jackson-the-olympians-the-lightning-thief.jpg",
-			"slug":"percy-jackson-the-olympians-the-lightning-thief"
-		},
-		{
 			"title":"Willy's Wonderland",
 			"gatsby_image_path":"..\/..\/images\/willy-s-wonderland.jpg",
 			"slug":"willy-s-wonderland"
+		},
+		{
+			"title":"Percy Jackson & the Olympians: The Lightning Thief",
+			"gatsby_image_path":"..\/..\/images\/percy-jackson-the-olympians-the-lightning-thief.jpg",
+			"slug":"percy-jackson-the-olympians-the-lightning-thief"
 		},
 		{
 			"title":"Psycho Goreman",
@@ -287,14 +342,19 @@
 			"slug":"ant-man-and-the-wasp"
 		},
 		{
-			"title":"Aquaman",
-			"gatsby_image_path":"..\/..\/images\/aquaman.jpg",
-			"slug":"aquaman"
+			"title":"Codename: Kids Next Door - Operation Z.E.R.O.",
+			"gatsby_image_path":"..\/..\/images\/codename-kids-next-door-operation-z.e.r.o..jpg",
+			"slug":"codename-kids-next-door-operation-z.e.r.o."
 		},
 		{
 			"title":"xXx: Return of Xander Cage",
 			"gatsby_image_path":"..\/..\/images\/xxx-return-of-xander-cage.jpg",
 			"slug":"xxx-return-of-xander-cage"
+		},
+		{
+			"title":"Aquaman",
+			"gatsby_image_path":"..\/..\/images\/aquaman.jpg",
+			"slug":"aquaman"
 		},
 		{
 			"title":"Teenage Mutant Ninja Turtles: Out of the Shadows",
@@ -322,14 +382,14 @@
 			"slug":"jumanji-welcome-to-the-jungle"
 		},
 		{
-			"title":"Ice Age: Continental Drift",
-			"gatsby_image_path":"..\/..\/images\/ice-age-continental-drift.jpg",
-			"slug":"ice-age-continental-drift"
-		},
-		{
 			"title":"Treasure Planet",
 			"gatsby_image_path":"..\/..\/images\/treasure-planet.jpg",
 			"slug":"treasure-planet"
+		},
+		{
+			"title":"Ice Age: Continental Drift",
+			"gatsby_image_path":"..\/..\/images\/ice-age-continental-drift.jpg",
+			"slug":"ice-age-continental-drift"
 		},
 		{
 			"title":"Black Panther",
@@ -337,19 +397,9 @@
 			"slug":"black-panther"
 		},
 		{
-			"title":"Abraham Lincoln: Vampire Hunter",
-			"gatsby_image_path":"..\/..\/images\/abraham-lincoln-vampire-hunter.jpg",
-			"slug":"abraham-lincoln-vampire-hunter"
-		},
-		{
 			"title":"Toy Story 2",
 			"gatsby_image_path":"..\/..\/images\/toy-story-2.jpg",
 			"slug":"toy-story-2"
-		},
-		{
-			"title":"Doraemon: Nobita and the Kingdom of Clouds",
-			"gatsby_image_path":"..\/..\/images\/doraemon-nobita-and-the-kingdom-of-clouds.jpg",
-			"slug":"doraemon-nobita-and-the-kingdom-of-clouds"
 		}
 	],
 	"tmdb_id":176983,

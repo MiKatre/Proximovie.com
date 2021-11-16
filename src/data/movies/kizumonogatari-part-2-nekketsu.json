@@ -62,6 +62,11 @@
 			"slug":"the-seven-deadly-sins-the-movie-cursed-by-light"
 		},
 		{
+			"title":"The Seven Deadly Sins: Cursed by Light",
+			"gatsby_image_path":"..\/..\/images\/the-seven-deadly-sins-cursed-by-light.jpg",
+			"slug":"the-seven-deadly-sins-cursed-by-light"
+		},
+		{
 			"title":"The Garden of Words",
 			"gatsby_image_path":"..\/..\/images\/the-garden-of-words.jpg",
 			"slug":"the-garden-of-words"
@@ -95,6 +100,51 @@
 			"title":"One Piece Film: Z",
 			"gatsby_image_path":"..\/..\/images\/one-piece-film-z.jpg",
 			"slug":"one-piece-film-z"
+		},
+		{
+			"title":"One Piece Film: GOLD",
+			"gatsby_image_path":"..\/..\/images\/one-piece-film-gold.jpg",
+			"slug":"one-piece-film-gold"
+		},
+		{
+			"title":"No Game No Life: Zero",
+			"gatsby_image_path":"..\/..\/images\/no-game-no-life-zero.jpg",
+			"slug":"no-game-no-life-zero"
+		},
+		{
+			"title":"Ninja Escapades: Creation of Akatsuki, The Two Uchiha, The Far Reaches of Hope",
+			"gatsby_image_path":"..\/..\/images\/ninja-escapades-creation-of-akatsuki-the-two-uchiha-the-far-reaches-of-hope.jpg",
+			"slug":"ninja-escapades-creation-of-akatsuki-the-two-uchiha-the-far-reaches-of-hope"
+		},
+		{
+			"title":"Maquia: When the Promised Flower Blooms",
+			"gatsby_image_path":"..\/..\/images\/maquia-when-the-promised-flower-blooms.jpg",
+			"slug":"maquia-when-the-promised-flower-blooms"
+		},
+		{
+			"title":"Kuroko no Basket Movie 3: Winter Cup Soushuuhen - Tobira no Mukou",
+			"gatsby_image_path":"..\/..\/images\/kuroko-no-basket-movie-3-winter-cup-soushuuhen-tobira-no-mukou.jpg",
+			"slug":"kuroko-no-basket-movie-3-winter-cup-soushuuhen-tobira-no-mukou"
+		},
+		{
+			"title":"Kuroko no Basket Movie 1: Winter Cup Soushuuhen - Kage to Hikari",
+			"gatsby_image_path":"..\/..\/images\/kuroko-no-basket-movie-1-winter-cup-soushuuhen-kage-to-hikari.jpg",
+			"slug":"kuroko-no-basket-movie-1-winter-cup-soushuuhen-kage-to-hikari"
+		},
+		{
+			"title":"KonoSuba: God's Blessing on this Wonderful World! Legend of Crimson",
+			"gatsby_image_path":"..\/..\/images\/konosuba-god-s-blessing-on-this-wonderful-world-legend-of-crimson.jpg",
+			"slug":"konosuba-god-s-blessing-on-this-wonderful-world-legend-of-crimson"
+		},
+		{
+			"title":"Jujutsu Kaisen 0: The Movie",
+			"gatsby_image_path":"..\/..\/images\/jujutsu-kaisen-0-the-movie.jpg",
+			"slug":"jujutsu-kaisen-0-the-movie"
+		},
+		{
+			"title":"Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion",
+			"gatsby_image_path":"..\/..\/images\/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-arrow-of-the-orion.jpg",
+			"slug":"is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-arrow-of-the-orion"
 		}
 	],
 	"related_most_similar":[
@@ -288,14 +338,14 @@
 			"slug":"dragon-ball-z-the-tree-of-might"
 		},
 		{
-			"title":"Naruto: The Lost Story - Mission: Protect the Waterfall Village!",
-			"gatsby_image_path":"..\/..\/images\/naruto-the-lost-story-mission-protect-the-waterfall-village.jpg",
-			"slug":"naruto-the-lost-story-mission-protect-the-waterfall-village"
+			"title":"Rendel",
+			"gatsby_image_path":"..\/..\/images\/rendel.jpg",
+			"slug":"rendel"
 		},
 		{
-			"title":"Ghost Rider: Spirit of Vengeance",
-			"gatsby_image_path":"..\/..\/images\/ghost-rider-spirit-of-vengeance.jpg",
-			"slug":"ghost-rider-spirit-of-vengeance"
+			"title":"LEGO Star Wars Terrifying Tales",
+			"gatsby_image_path":"..\/..\/images\/lego-star-wars-terrifying-tales.jpg",
+			"slug":"lego-star-wars-terrifying-tales"
 		},
 		{
 			"title":"Mortal Kombat",
@@ -303,14 +353,19 @@
 			"slug":"mortal-kombat"
 		},
 		{
-			"title":"Rendel",
-			"gatsby_image_path":"..\/..\/images\/rendel.jpg",
-			"slug":"rendel"
+			"title":"Ghost Rider: Spirit of Vengeance",
+			"gatsby_image_path":"..\/..\/images\/ghost-rider-spirit-of-vengeance.jpg",
+			"slug":"ghost-rider-spirit-of-vengeance"
 		},
 		{
-			"title":"Leprechaun: Back 2 tha Hood",
-			"gatsby_image_path":"..\/..\/images\/leprechaun-back-2-tha-hood.jpg",
-			"slug":"leprechaun-back-2-tha-hood"
+			"title":"Naruto: The Lost Story - Mission: Protect the Waterfall Village!",
+			"gatsby_image_path":"..\/..\/images\/naruto-the-lost-story-mission-protect-the-waterfall-village.jpg",
+			"slug":"naruto-the-lost-story-mission-protect-the-waterfall-village"
+		},
+		{
+			"title":"Altered Carbon: Resleeved",
+			"gatsby_image_path":"..\/..\/images\/altered-carbon-resleeved.jpg",
+			"slug":"altered-carbon-resleeved"
 		},
 		{
 			"title":"Shang-Chi and the Legend of the Ten Rings",
@@ -318,19 +373,24 @@
 			"slug":"shang-chi-and-the-legend-of-the-ten-rings"
 		},
 		{
+			"title":"Leprechaun: Back 2 tha Hood",
+			"gatsby_image_path":"..\/..\/images\/leprechaun-back-2-tha-hood.jpg",
+			"slug":"leprechaun-back-2-tha-hood"
+		},
+		{
+			"title":"Prince of Persia: The Sands of Time",
+			"gatsby_image_path":"..\/..\/images\/prince-of-persia-the-sands-of-time.jpg",
+			"slug":"prince-of-persia-the-sands-of-time"
+		},
+		{
+			"title":"Mortal Kombat Legends: Battle of the Realms",
+			"gatsby_image_path":"..\/..\/images\/mortal-kombat-legends-battle-of-the-realms.jpg",
+			"slug":"mortal-kombat-legends-battle-of-the-realms"
+		},
+		{
 			"title":"Wish Dragon",
 			"gatsby_image_path":"..\/..\/images\/wish-dragon.jpg",
 			"slug":"wish-dragon"
-		},
-		{
-			"title":"Dragon Ball Z Special 9 - Future Trunks Special",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-special-9-future-trunks-special.jpg",
-			"slug":"dragon-ball-z-special-9-future-trunks-special"
-		},
-		{
-			"title":"Akira",
-			"gatsby_image_path":"..\/..\/images\/akira.jpg",
-			"slug":"akira"
 		},
 		{
 			"title":"The Meg",
@@ -338,19 +398,9 @@
 			"slug":"the-meg"
 		},
 		{
-			"title":"The Dark Tower",
-			"gatsby_image_path":"..\/..\/images\/the-dark-tower.jpg",
-			"slug":"the-dark-tower"
-		},
-		{
-			"title":"5 Centimeters per Second",
-			"gatsby_image_path":"..\/..\/images\/5-centimeters-per-second.jpg",
-			"slug":"5-centimeters-per-second"
-		},
-		{
-			"title":"Spirit Untamed",
-			"gatsby_image_path":"..\/..\/images\/spirit-untamed.jpg",
-			"slug":"spirit-untamed"
+			"title":"Akira",
+			"gatsby_image_path":"..\/..\/images\/akira.jpg",
+			"slug":"akira"
 		}
 	],
 	"tmdb_id":362584,

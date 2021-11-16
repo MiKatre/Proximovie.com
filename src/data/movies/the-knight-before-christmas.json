@@ -50,14 +50,14 @@
 	],
 	"related_by_cast":[
 		{
-			"title":"Wrong Turn",
-			"gatsby_image_path":"..\/..\/images\/wrong-turn.jpg",
-			"slug":"wrong-turn"
-		},
-		{
 			"title":"Valley Girl",
 			"gatsby_image_path":"..\/..\/images\/valley-girl.jpg",
 			"slug":"valley-girl"
+		},
+		{
+			"title":"The Princess Switch: Switched Again",
+			"gatsby_image_path":"..\/..\/images\/the-princess-switch-switched-again.jpg",
+			"slug":"the-princess-switch-switched-again"
 		},
 		{
 			"title":"Sucker Punch",
@@ -73,6 +73,11 @@
 			"title":"P2",
 			"gatsby_image_path":"..\/..\/images\/p2.jpg",
 			"slug":"p2"
+		},
+		{
+			"title":"My Little Pony: A New Generation",
+			"gatsby_image_path":"..\/..\/images\/my-little-pony-a-new-generation.jpg",
+			"slug":"my-little-pony-a-new-generation"
 		},
 		{
 			"title":"Journey 2: The Mysterious Island",
@@ -95,9 +100,54 @@
 			"slug":"zootopia"
 		},
 		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
 			"title":"Zombieland",
 			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
 			"slug":"zombieland"
+		},
+		{
+			"title":"Zombieland: Double Tap",
+			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
+			"slug":"zombieland-double-tap"
+		},
+		{
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
+		},
+		{
+			"title":"Zack Snyder's Justice League",
+			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
+			"slug":"zack-snyder-s-justice-league"
+		},
+		{
+			"title":"Zack and Miri Make a Porno",
+			"gatsby_image_path":"..\/..\/images\/zack-and-miri-make-a-porno.jpg",
+			"slug":"zack-and-miri-make-a-porno"
+		},
+		{
+			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
+			"gatsby_image_path":"..\/..\/images\/yu-gi-oh-the-dark-side-of-dimensions.jpg",
+			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
+		},
+		{
+			"title":"Your Name.",
+			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
+			"slug":"your-name"
+		},
+		{
+			"title":"Young Sister-in-law 3 - 2019",
+			"gatsby_image_path":"..\/..\/images\/young-sister-in-law-3-2019.jpg",
+			"slug":"young-sister-in-law-3-2019"
+		},
+		{
+			"title":"Young and Wild",
+			"gatsby_image_path":"..\/..\/images\/young-and-wild.jpg",
+			"slug":"young-and-wild"
 		}
 	],
 	"related_most_similar":[
@@ -276,24 +326,14 @@
 			"slug":"cranston-academy-monster-zone"
 		},
 		{
+			"title":"The Eternal",
+			"gatsby_image_path":"..\/..\/images\/the-eternal.jpg",
+			"slug":"the-eternal"
+		},
+		{
 			"title":"Sausage Party",
 			"gatsby_image_path":"..\/..\/images\/sausage-party.jpg",
 			"slug":"sausage-party"
-		},
-		{
-			"title":"Gods of Egypt",
-			"gatsby_image_path":"..\/..\/images\/gods-of-egypt.jpg",
-			"slug":"gods-of-egypt"
-		},
-		{
-			"title":"The Wizard of Oz",
-			"gatsby_image_path":"..\/..\/images\/the-wizard-of-oz.jpg",
-			"slug":"the-wizard-of-oz"
-		},
-		{
-			"title":"Ghosts of War",
-			"gatsby_image_path":"..\/..\/images\/ghosts-of-war.jpg",
-			"slug":"ghosts-of-war"
 		},
 		{
 			"title":"One Piece Film: GOLD",
@@ -301,14 +341,24 @@
 			"slug":"one-piece-film-gold"
 		},
 		{
+			"title":"Matilda",
+			"gatsby_image_path":"..\/..\/images\/matilda.jpg",
+			"slug":"matilda"
+		},
+		{
+			"title":"The Wizard of Oz",
+			"gatsby_image_path":"..\/..\/images\/the-wizard-of-oz.jpg",
+			"slug":"the-wizard-of-oz"
+		},
+		{
 			"title":"Point Break",
 			"gatsby_image_path":"..\/..\/images\/point-break.jpg",
 			"slug":"point-break"
 		},
 		{
-			"title":"Wish Dragon",
-			"gatsby_image_path":"..\/..\/images\/wish-dragon.jpg",
-			"slug":"wish-dragon"
+			"title":"Gods of Egypt",
+			"gatsby_image_path":"..\/..\/images\/gods-of-egypt.jpg",
+			"slug":"gods-of-egypt"
 		},
 		{
 			"title":"Penguins of Madagascar",
@@ -316,14 +366,24 @@
 			"slug":"penguins-of-madagascar"
 		},
 		{
-			"title":"Air Strike",
-			"gatsby_image_path":"..\/..\/images\/air-strike.jpg",
-			"slug":"air-strike"
+			"title":"Ghosts of War",
+			"gatsby_image_path":"..\/..\/images\/ghosts-of-war.jpg",
+			"slug":"ghosts-of-war"
 		},
 		{
-			"title":"Checkered Ninja",
-			"gatsby_image_path":"..\/..\/images\/checkered-ninja.jpg",
-			"slug":"checkered-ninja"
+			"title":"Wish Dragon",
+			"gatsby_image_path":"..\/..\/images\/wish-dragon.jpg",
+			"slug":"wish-dragon"
+		},
+		{
+			"title":"Earwig and the Witch",
+			"gatsby_image_path":"..\/..\/images\/earwig-and-the-witch.jpg",
+			"slug":"earwig-and-the-witch"
+		},
+		{
+			"title":"The Warrior's Way",
+			"gatsby_image_path":"..\/..\/images\/the-warrior-s-way.jpg",
+			"slug":"the-warrior-s-way"
 		},
 		{
 			"title":"Pig",
@@ -331,29 +391,19 @@
 			"slug":"pig"
 		},
 		{
-			"title":"Beauty and the Beast",
-			"gatsby_image_path":"..\/..\/images\/beauty-and-the-beast.jpg",
-			"slug":"beauty-and-the-beast"
-		},
-		{
 			"title":"The Indian in the Cupboard",
 			"gatsby_image_path":"..\/..\/images\/the-indian-in-the-cupboard.jpg",
 			"slug":"the-indian-in-the-cupboard"
 		},
 		{
-			"title":"The Boy from Medellín",
-			"gatsby_image_path":"..\/..\/images\/the-boy-from-medellín.jpg",
-			"slug":"the-boy-from-medellín"
+			"title":"Air Strike",
+			"gatsby_image_path":"..\/..\/images\/air-strike.jpg",
+			"slug":"air-strike"
 		},
 		{
-			"title":"Akira",
-			"gatsby_image_path":"..\/..\/images\/akira.jpg",
-			"slug":"akira"
-		},
-		{
-			"title":"UFO",
-			"gatsby_image_path":"..\/..\/images\/ufo.jpg",
-			"slug":"ufo"
+			"title":"Army of Thieves",
+			"gatsby_image_path":"..\/..\/images\/army-of-thieves.jpg",
+			"slug":"army-of-thieves"
 		}
 	],
 	"tmdb_id":611207,

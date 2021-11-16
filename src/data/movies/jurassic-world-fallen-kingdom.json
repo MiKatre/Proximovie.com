@@ -73,9 +73,19 @@
 			"slug":"thor-ragnarok"
 		},
 		{
+			"title":"The Voyeurs",
+			"gatsby_image_path":"..\/..\/images\/the-voyeurs.jpg",
+			"slug":"the-voyeurs"
+		},
+		{
 			"title":"The Tomorrow War",
 			"gatsby_image_path":"..\/..\/images\/the-tomorrow-war.jpg",
 			"slug":"the-tomorrow-war"
+		},
+		{
+			"title":"The Ritual",
+			"gatsby_image_path":"..\/..\/images\/the-ritual.jpg",
+			"slug":"the-ritual"
 		},
 		{
 			"title":"The Magnificent Seven",
@@ -93,6 +103,11 @@
 			"slug":"the-last-thing-he-wanted"
 		},
 		{
+			"title":"The Hunger Games",
+			"gatsby_image_path":"..\/..\/images\/the-hunger-games.jpg",
+			"slug":"the-hunger-games"
+		},
+		{
 			"title":"The Hills Have Eyes",
 			"gatsby_image_path":"..\/..\/images\/the-hills-have-eyes.jpg",
 			"slug":"the-hills-have-eyes"
@@ -101,6 +116,41 @@
 			"title":"The Help",
 			"gatsby_image_path":"..\/..\/images\/the-help.jpg",
 			"slug":"the-help"
+		},
+		{
+			"title":"The Green Mile",
+			"gatsby_image_path":"..\/..\/images\/the-green-mile.jpg",
+			"slug":"the-green-mile"
+		},
+		{
+			"title":"The Boss Baby: Family Business",
+			"gatsby_image_path":"..\/..\/images\/the-boss-baby-family-business.jpg",
+			"slug":"the-boss-baby-family-business"
+		},
+		{
+			"title":"Terminator Salvation",
+			"gatsby_image_path":"..\/..\/images\/terminator-salvation.jpg",
+			"slug":"terminator-salvation"
+		},
+		{
+			"title":"Spirit: Stallion of the Cimarron",
+			"gatsby_image_path":"..\/..\/images\/spirit-stallion-of-the-cimarron.jpg",
+			"slug":"spirit-stallion-of-the-cimarron"
+		},
+		{
+			"title":"Snow White and the Huntsman",
+			"gatsby_image_path":"..\/..\/images\/snow-white-and-the-huntsman.jpg",
+			"slug":"snow-white-and-the-huntsman"
+		},
+		{
+			"title":"Shutter Island",
+			"gatsby_image_path":"..\/..\/images\/shutter-island.jpg",
+			"slug":"shutter-island"
+		},
+		{
+			"title":"Ron's Gone Wrong",
+			"gatsby_image_path":"..\/..\/images\/ron-s-gone-wrong.jpg",
+			"slug":"ron-s-gone-wrong"
 		}
 	],
 	"related_most_similar":[
@@ -324,19 +374,9 @@
 			"slug":"fantastic-four"
 		},
 		{
-			"title":"Haunting of the Mary Celeste",
-			"gatsby_image_path":"..\/..\/images\/haunting-of-the-mary-celeste.jpg",
-			"slug":"haunting-of-the-mary-celeste"
-		},
-		{
 			"title":"Treasure Planet",
 			"gatsby_image_path":"..\/..\/images\/treasure-planet.jpg",
 			"slug":"treasure-planet"
-		},
-		{
-			"title":"Jurassic Galaxy",
-			"gatsby_image_path":"..\/..\/images\/jurassic-galaxy.jpg",
-			"slug":"jurassic-galaxy"
 		},
 		{
 			"title":"Space Sweepers",
@@ -344,19 +384,29 @@
 			"slug":"space-sweepers"
 		},
 		{
+			"title":"Jurassic Galaxy",
+			"gatsby_image_path":"..\/..\/images\/jurassic-galaxy.jpg",
+			"slug":"jurassic-galaxy"
+		},
+		{
+			"title":"Haunting of the Mary Celeste",
+			"gatsby_image_path":"..\/..\/images\/haunting-of-the-mary-celeste.jpg",
+			"slug":"haunting-of-the-mary-celeste"
+		},
+		{
 			"title":"Teenage Mutant Ninja Turtles: Out of the Shadows",
 			"gatsby_image_path":"..\/..\/images\/teenage-mutant-ninja-turtles-out-of-the-shadows.jpg",
 			"slug":"teenage-mutant-ninja-turtles-out-of-the-shadows"
 		},
 		{
+			"title":"Friday the 13th Part VII: The New Blood",
+			"gatsby_image_path":"..\/..\/images\/friday-the-13th-part-vii-the-new-blood.jpg",
+			"slug":"friday-the-13th-part-vii-the-new-blood"
+		},
+		{
 			"title":"Men in Black: International",
 			"gatsby_image_path":"..\/..\/images\/men-in-black-international.jpg",
 			"slug":"men-in-black-international"
-		},
-		{
-			"title":"Avatar",
-			"gatsby_image_path":"..\/..\/images\/avatar.jpg",
-			"slug":"avatar"
 		}
 	],
 	"tmdb_id":351286,

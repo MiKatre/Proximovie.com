@@ -71,6 +71,11 @@
 			"slug":"thor-ragnarok"
 		},
 		{
+			"title":"The Losers",
+			"gatsby_image_path":"..\/..\/images\/the-losers.jpg",
+			"slug":"the-losers"
+		},
+		{
 			"title":"Hotel Artemis",
 			"gatsby_image_path":"..\/..\/images\/hotel-artemis.jpg",
 			"slug":"hotel-artemis"
@@ -101,9 +106,54 @@
 			"slug":"vivo"
 		},
 		{
+			"title":"Total Recall",
+			"gatsby_image_path":"..\/..\/images\/total-recall.jpg",
+			"slug":"total-recall"
+		},
+		{
 			"title":"Thor: The Dark World",
 			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
 			"slug":"thor-the-dark-world"
+		},
+		{
+			"title":"Thor",
+			"gatsby_image_path":"..\/..\/images\/thor.jpg",
+			"slug":"thor"
+		},
+		{
+			"title":"The Unborn",
+			"gatsby_image_path":"..\/..\/images\/the-unborn.jpg",
+			"slug":"the-unborn"
+		},
+		{
+			"title":"The Suicide Squad",
+			"gatsby_image_path":"..\/..\/images\/the-suicide-squad.jpg",
+			"slug":"the-suicide-squad"
+		},
+		{
+			"title":"The Smurfs",
+			"gatsby_image_path":"..\/..\/images\/the-smurfs.jpg",
+			"slug":"the-smurfs"
+		},
+		{
+			"title":"The Night Comes for Us",
+			"gatsby_image_path":"..\/..\/images\/the-night-comes-for-us.jpg",
+			"slug":"the-night-comes-for-us"
+		},
+		{
+			"title":"The Mountain Between Us",
+			"gatsby_image_path":"..\/..\/images\/the-mountain-between-us.jpg",
+			"slug":"the-mountain-between-us"
+		},
+		{
+			"title":"The Loft",
+			"gatsby_image_path":"..\/..\/images\/the-loft.jpg",
+			"slug":"the-loft"
+		},
+		{
+			"title":"The Harder They Fall",
+			"gatsby_image_path":"..\/..\/images\/the-harder-they-fall.jpg",
+			"slug":"the-harder-they-fall"
 		}
 	],
 	"related_most_similar":[
@@ -267,19 +317,29 @@
 			"slug":"singularity"
 		},
 		{
-			"title":"Dune",
-			"gatsby_image_path":"..\/..\/images\/dune.jpg",
-			"slug":"dune"
+			"title":"Emperor",
+			"gatsby_image_path":"..\/..\/images\/emperor.jpg",
+			"slug":"emperor"
 		},
 		{
-			"title":"Harry Potter and the Deathly Hallows: Part 1",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-deathly-hallows-part-1.jpg",
-			"slug":"harry-potter-and-the-deathly-hallows-part-1"
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
 		},
 		{
 			"title":"Dawn of the Planet of the Apes",
 			"gatsby_image_path":"..\/..\/images\/dawn-of-the-planet-of-the-apes.jpg",
 			"slug":"dawn-of-the-planet-of-the-apes"
+		},
+		{
+			"title":"Stargate",
+			"gatsby_image_path":"..\/..\/images\/stargate.jpg",
+			"slug":"stargate"
+		},
+		{
+			"title":"Harry Potter and the Deathly Hallows: Part 1",
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-deathly-hallows-part-1.jpg",
+			"slug":"harry-potter-and-the-deathly-hallows-part-1"
 		},
 		{
 			"title":"Transformers: Beginnings",
@@ -307,6 +367,16 @@
 			"slug":"the-matrix"
 		},
 		{
+			"title":"Battle: Los Angeles",
+			"gatsby_image_path":"..\/..\/images\/battle-los-angeles.jpg",
+			"slug":"battle-los-angeles"
+		},
+		{
+			"title":"Universal Soldier: Regeneration",
+			"gatsby_image_path":"..\/..\/images\/universal-soldier-regeneration.jpg",
+			"slug":"universal-soldier-regeneration"
+		},
+		{
 			"title":"Maze Runner: The Scorch Trials",
 			"gatsby_image_path":"..\/..\/images\/maze-runner-the-scorch-trials.jpg",
 			"slug":"maze-runner-the-scorch-trials"
@@ -317,19 +387,14 @@
 			"slug":"raiders-of-the-lost-ark"
 		},
 		{
-			"title":"Men in Black",
-			"gatsby_image_path":"..\/..\/images\/men-in-black.jpg",
-			"slug":"men-in-black"
-		},
-		{
-			"title":"The New Mutants",
-			"gatsby_image_path":"..\/..\/images\/the-new-mutants.jpg",
-			"slug":"the-new-mutants"
-		},
-		{
 			"title":"Batman v Superman: Dawn of Justice",
 			"gatsby_image_path":"..\/..\/images\/batman-v-superman-dawn-of-justice.jpg",
 			"slug":"batman-v-superman-dawn-of-justice"
+		},
+		{
+			"title":"Men in Black",
+			"gatsby_image_path":"..\/..\/images\/men-in-black.jpg",
+			"slug":"men-in-black"
 		},
 		{
 			"title":"Pirates of the Caribbean: On Stranger Tides",
@@ -337,29 +402,14 @@
 			"slug":"pirates-of-the-caribbean-on-stranger-tides"
 		},
 		{
+			"title":"The New Mutants",
+			"gatsby_image_path":"..\/..\/images\/the-new-mutants.jpg",
+			"slug":"the-new-mutants"
+		},
+		{
 			"title":"Mortal Engines",
 			"gatsby_image_path":"..\/..\/images\/mortal-engines.jpg",
 			"slug":"mortal-engines"
-		},
-		{
-			"title":"Captain Marvel",
-			"gatsby_image_path":"..\/..\/images\/captain-marvel.jpg",
-			"slug":"captain-marvel"
-		},
-		{
-			"title":"Tomb Invader",
-			"gatsby_image_path":"..\/..\/images\/tomb-invader.jpg",
-			"slug":"tomb-invader"
-		},
-		{
-			"title":"Harry Potter and the Chamber of Secrets",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-chamber-of-secrets.jpg",
-			"slug":"harry-potter-and-the-chamber-of-secrets"
-		},
-		{
-			"title":"Friday the 13th: The Final Chapter",
-			"gatsby_image_path":"..\/..\/images\/friday-the-13th-the-final-chapter.jpg",
-			"slug":"friday-the-13th-the-final-chapter"
 		}
 	],
 	"tmdb_id":188927,

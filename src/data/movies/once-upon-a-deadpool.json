@@ -85,6 +85,11 @@
 			"slug":"the-hitman-s-bodyguard"
 		},
 		{
+			"title":"The Harder They Fall",
+			"gatsby_image_path":"..\/..\/images\/the-harder-they-fall.jpg",
+			"slug":"the-harder-they-fall"
+		},
+		{
 			"title":"The Goonies",
 			"gatsby_image_path":"..\/..\/images\/the-goonies.jpg",
 			"slug":"the-goonies"
@@ -98,6 +103,51 @@
 			"title":"The Croods",
 			"gatsby_image_path":"..\/..\/images\/the-croods.jpg",
 			"slug":"the-croods"
+		},
+		{
+			"title":"The Croods: A New Age",
+			"gatsby_image_path":"..\/..\/images\/the-croods-a-new-age.jpg",
+			"slug":"the-croods-a-new-age"
+		},
+		{
+			"title":"The Christmas Chronicles: Part Two",
+			"gatsby_image_path":"..\/..\/images\/the-christmas-chronicles-part-two.jpg",
+			"slug":"the-christmas-chronicles-part-two"
+		},
+		{
+			"title":"The Change-Up",
+			"gatsby_image_path":"..\/..\/images\/the-change-up.jpg",
+			"slug":"the-change-up"
+		},
+		{
+			"title":"The Amityville Horror",
+			"gatsby_image_path":"..\/..\/images\/the-amityville-horror.jpg",
+			"slug":"the-amityville-horror"
+		},
+		{
+			"title":"Spy",
+			"gatsby_image_path":"..\/..\/images\/spy.jpg",
+			"slug":"spy"
+		},
+		{
+			"title":"Sin City: A Dame to Kill For",
+			"gatsby_image_path":"..\/..\/images\/sin-city-a-dame-to-kill-for.jpg",
+			"slug":"sin-city-a-dame-to-kill-for"
+		},
+		{
+			"title":"Sicario",
+			"gatsby_image_path":"..\/..\/images\/sicario.jpg",
+			"slug":"sicario"
+		},
+		{
+			"title":"Sicario: Day of the Soldado",
+			"gatsby_image_path":"..\/..\/images\/sicario-day-of-the-soldado.jpg",
+			"slug":"sicario-day-of-the-soldado"
+		},
+		{
+			"title":"R.I.P.D.",
+			"gatsby_image_path":"..\/..\/images\/r.i.p.d..jpg",
+			"slug":"r.i.p.d."
 		}
 	],
 	"related_most_similar":[
@@ -266,14 +316,14 @@
 			"slug":"descendants-3"
 		},
 		{
+			"title":"Lokillo",
+			"gatsby_image_path":"..\/..\/images\/lokillo.jpg",
+			"slug":"lokillo"
+		},
+		{
 			"title":"Shazam!",
 			"gatsby_image_path":"..\/..\/images\/shazam.jpg",
 			"slug":"shazam"
-		},
-		{
-			"title":"Akira",
-			"gatsby_image_path":"..\/..\/images\/akira.jpg",
-			"slug":"akira"
 		},
 		{
 			"title":"Combat Wombat",
@@ -281,9 +331,9 @@
 			"slug":"combat-wombat"
 		},
 		{
-			"title":"Kung Fu Panda 3",
-			"gatsby_image_path":"..\/..\/images\/kung-fu-panda-3.jpg",
-			"slug":"kung-fu-panda-3"
+			"title":"Akira",
+			"gatsby_image_path":"..\/..\/images\/akira.jpg",
+			"slug":"akira"
 		},
 		{
 			"title":"The Larva Island Movie",
@@ -291,14 +341,9 @@
 			"slug":"the-larva-island-movie"
 		},
 		{
-			"title":"The Good Dinosaur",
-			"gatsby_image_path":"..\/..\/images\/the-good-dinosaur.jpg",
-			"slug":"the-good-dinosaur"
-		},
-		{
-			"title":"Point Break",
-			"gatsby_image_path":"..\/..\/images\/point-break.jpg",
-			"slug":"point-break"
+			"title":"Kung Fu Panda 3",
+			"gatsby_image_path":"..\/..\/images\/kung-fu-panda-3.jpg",
+			"slug":"kung-fu-panda-3"
 		},
 		{
 			"title":"Untitled 'The Walking Dead' Film",
@@ -306,24 +351,9 @@
 			"slug":"untitled-the-walking-dead-film"
 		},
 		{
-			"title":"Justice League: Gods and Monsters",
-			"gatsby_image_path":"..\/..\/images\/justice-league-gods-and-monsters.jpg",
-			"slug":"justice-league-gods-and-monsters"
-		},
-		{
-			"title":"Alien Warfare",
-			"gatsby_image_path":"..\/..\/images\/alien-warfare.jpg",
-			"slug":"alien-warfare"
-		},
-		{
-			"title":"Penguins of Madagascar",
-			"gatsby_image_path":"..\/..\/images\/penguins-of-madagascar.jpg",
-			"slug":"penguins-of-madagascar"
-		},
-		{
-			"title":"Death Race: Beyond Anarchy",
-			"gatsby_image_path":"..\/..\/images\/death-race-beyond-anarchy.jpg",
-			"slug":"death-race-beyond-anarchy"
+			"title":"The Good Dinosaur",
+			"gatsby_image_path":"..\/..\/images\/the-good-dinosaur.jpg",
+			"slug":"the-good-dinosaur"
 		},
 		{
 			"title":"The Suicide Squad",
@@ -331,9 +361,29 @@
 			"slug":"the-suicide-squad"
 		},
 		{
+			"title":"Death Race: Beyond Anarchy",
+			"gatsby_image_path":"..\/..\/images\/death-race-beyond-anarchy.jpg",
+			"slug":"death-race-beyond-anarchy"
+		},
+		{
+			"title":"Penguins of Madagascar",
+			"gatsby_image_path":"..\/..\/images\/penguins-of-madagascar.jpg",
+			"slug":"penguins-of-madagascar"
+		},
+		{
+			"title":"Point Break",
+			"gatsby_image_path":"..\/..\/images\/point-break.jpg",
+			"slug":"point-break"
+		},
+		{
 			"title":"Deadpool 2",
 			"gatsby_image_path":"..\/..\/images\/deadpool-2.jpg",
 			"slug":"deadpool-2"
+		},
+		{
+			"title":"Justice League: Gods and Monsters",
+			"gatsby_image_path":"..\/..\/images\/justice-league-gods-and-monsters.jpg",
+			"slug":"justice-league-gods-and-monsters"
 		},
 		{
 			"title":"Cranston Academy: Monster Zone",
@@ -341,19 +391,19 @@
 			"slug":"cranston-academy-monster-zone"
 		},
 		{
-			"title":"Monsters University",
-			"gatsby_image_path":"..\/..\/images\/monsters-university.jpg",
-			"slug":"monsters-university"
+			"title":"The Hills Have Eyes 2",
+			"gatsby_image_path":"..\/..\/images\/the-hills-have-eyes-2.jpg",
+			"slug":"the-hills-have-eyes-2"
 		},
 		{
-			"title":"Mortal Kombat",
-			"gatsby_image_path":"..\/..\/images\/mortal-kombat.jpg",
-			"slug":"mortal-kombat"
+			"title":"LEGO Star Wars Terrifying Tales",
+			"gatsby_image_path":"..\/..\/images\/lego-star-wars-terrifying-tales.jpg",
+			"slug":"lego-star-wars-terrifying-tales"
 		},
 		{
-			"title":"Dragon Ball Z: The Tree of Might",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-the-tree-of-might.jpg",
-			"slug":"dragon-ball-z-the-tree-of-might"
+			"title":"Alien Warfare",
+			"gatsby_image_path":"..\/..\/images\/alien-warfare.jpg",
+			"slug":"alien-warfare"
 		}
 	]
 }

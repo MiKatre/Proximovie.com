@@ -52,6 +52,16 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"The Tourist",
+			"gatsby_image_path":"..\/..\/images\/the-tourist.jpg",
+			"slug":"the-tourist"
+		},
+		{
+			"title":"The Power of the Dog",
+			"gatsby_image_path":"..\/..\/images\/the-power-of-the-dog.jpg",
+			"slug":"the-power-of-the-dog"
+		},
+		{
 			"title":"The King",
 			"gatsby_image_path":"..\/..\/images\/the-king.jpg",
 			"slug":"the-king"
@@ -72,6 +82,11 @@
 			"slug":"saw"
 		},
 		{
+			"title":"Rush Hour",
+			"gatsby_image_path":"..\/..\/images\/rush-hour.jpg",
+			"slug":"rush-hour"
+		},
+		{
 			"title":"Pig",
 			"gatsby_image_path":"..\/..\/images\/pig.jpg",
 			"slug":"pig"
@@ -87,6 +102,11 @@
 			"slug":"little-women"
 		},
 		{
+			"title":"Last Night in Soho",
+			"gatsby_image_path":"..\/..\/images\/last-night-in-soho.jpg",
+			"slug":"last-night-in-soho"
+		},
+		{
 			"title":"Jupiter Ascending",
 			"gatsby_image_path":"..\/..\/images\/jupiter-ascending.jpg",
 			"slug":"jupiter-ascending"
@@ -100,6 +120,36 @@
 			"title":"Jumanji: The Next Level",
 			"gatsby_image_path":"..\/..\/images\/jumanji-the-next-level.jpg",
 			"slug":"jumanji-the-next-level"
+		},
+		{
+			"title":"Jojo Rabbit",
+			"gatsby_image_path":"..\/..\/images\/jojo-rabbit.jpg",
+			"slug":"jojo-rabbit"
+		},
+		{
+			"title":"Hereditary",
+			"gatsby_image_path":"..\/..\/images\/hereditary.jpg",
+			"slug":"hereditary"
+		},
+		{
+			"title":"Gods of Egypt",
+			"gatsby_image_path":"..\/..\/images\/gods-of-egypt.jpg",
+			"slug":"gods-of-egypt"
+		},
+		{
+			"title":"Coco",
+			"gatsby_image_path":"..\/..\/images\/coco.jpg",
+			"slug":"coco"
+		},
+		{
+			"title":"Beckett",
+			"gatsby_image_path":"..\/..\/images\/beckett.jpg",
+			"slug":"beckett"
+		},
+		{
+			"title":"A Private War",
+			"gatsby_image_path":"..\/..\/images\/a-private-war.jpg",
+			"slug":"a-private-war"
 		}
 	],
 	"related_most_similar":[
@@ -263,6 +313,11 @@
 			"slug":"good-boys"
 		},
 		{
+			"title":"Home Sweet Home Alone",
+			"gatsby_image_path":"..\/..\/images\/home-sweet-home-alone.jpg",
+			"slug":"home-sweet-home-alone"
+		},
+		{
 			"title":"Black Box",
 			"gatsby_image_path":"..\/..\/images\/black-box.jpg",
 			"slug":"black-box"
@@ -293,29 +348,19 @@
 			"slug":"grown-ups"
 		},
 		{
-			"title":"Parasite",
-			"gatsby_image_path":"..\/..\/images\/parasite.jpg",
-			"slug":"parasite"
-		},
-		{
-			"title":"The Comeback Trail",
-			"gatsby_image_path":"..\/..\/images\/the-comeback-trail.jpg",
-			"slug":"the-comeback-trail"
-		},
-		{
-			"title":"Angela's Christmas Wish",
-			"gatsby_image_path":"..\/..\/images\/angela-s-christmas-wish.jpg",
-			"slug":"angela-s-christmas-wish"
-		},
-		{
-			"title":"Friday the 13th",
-			"gatsby_image_path":"..\/..\/images\/friday-the-13th.jpg",
-			"slug":"friday-the-13th"
-		},
-		{
 			"title":"Wizards of Waverly Place: The Movie",
 			"gatsby_image_path":"..\/..\/images\/wizards-of-waverly-place-the-movie.jpg",
 			"slug":"wizards-of-waverly-place-the-movie"
+		},
+		{
+			"title":"Solitary",
+			"gatsby_image_path":"..\/..\/images\/solitary.jpg",
+			"slug":"solitary"
+		},
+		{
+			"title":"Parasite",
+			"gatsby_image_path":"..\/..\/images\/parasite.jpg",
+			"slug":"parasite"
 		},
 		{
 			"title":"The Quake",
@@ -323,24 +368,14 @@
 			"slug":"the-quake"
 		},
 		{
-			"title":"Hostel: Part II",
-			"gatsby_image_path":"..\/..\/images\/hostel-part-ii.jpg",
-			"slug":"hostel-part-ii"
+			"title":"Angela's Christmas Wish",
+			"gatsby_image_path":"..\/..\/images\/angela-s-christmas-wish.jpg",
+			"slug":"angela-s-christmas-wish"
 		},
 		{
-			"title":"Bartkowiak",
-			"gatsby_image_path":"..\/..\/images\/bartkowiak.jpg",
-			"slug":"bartkowiak"
-		},
-		{
-			"title":"Containment",
-			"gatsby_image_path":"..\/..\/images\/containment.jpg",
-			"slug":"containment"
-		},
-		{
-			"title":"The Darkest Minds",
-			"gatsby_image_path":"..\/..\/images\/the-darkest-minds.jpg",
-			"slug":"the-darkest-minds"
+			"title":"The Comeback Trail",
+			"gatsby_image_path":"..\/..\/images\/the-comeback-trail.jpg",
+			"slug":"the-comeback-trail"
 		},
 		{
 			"title":"Mermaid Down",
@@ -348,14 +383,29 @@
 			"slug":"mermaid-down"
 		},
 		{
-			"title":"Ellipse",
-			"gatsby_image_path":"..\/..\/images\/ellipse.jpg",
-			"slug":"ellipse"
+			"title":"Hostel: Part II",
+			"gatsby_image_path":"..\/..\/images\/hostel-part-ii.jpg",
+			"slug":"hostel-part-ii"
 		},
 		{
-			"title":"Point Blank",
-			"gatsby_image_path":"..\/..\/images\/point-blank.jpg",
-			"slug":"point-blank"
+			"title":"Final Score",
+			"gatsby_image_path":"..\/..\/images\/final-score.jpg",
+			"slug":"final-score"
+		},
+		{
+			"title":"Finding Dory",
+			"gatsby_image_path":"..\/..\/images\/finding-dory.jpg",
+			"slug":"finding-dory"
+		},
+		{
+			"title":"Bartkowiak",
+			"gatsby_image_path":"..\/..\/images\/bartkowiak.jpg",
+			"slug":"bartkowiak"
+		},
+		{
+			"title":"Red Dot",
+			"gatsby_image_path":"..\/..\/images\/red-dot.jpg",
+			"slug":"red-dot"
 		}
 	],
 	"tmdb_id":631843,

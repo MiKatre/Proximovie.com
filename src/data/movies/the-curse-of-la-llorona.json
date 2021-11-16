@@ -51,9 +51,19 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"The Substitute",
+			"gatsby_image_path":"..\/..\/images\/the-substitute.jpg",
+			"slug":"the-substitute"
+		},
+		{
 			"title":"The Mummy Returns",
 			"gatsby_image_path":"..\/..\/images\/the-mummy-returns.jpg",
 			"slug":"the-mummy-returns"
+		},
+		{
+			"title":"The Mummy",
+			"gatsby_image_path":"..\/..\/images\/the-mummy.jpg",
+			"slug":"the-mummy"
 		},
 		{
 			"title":"Scooby-Doo",
@@ -71,14 +81,29 @@
 			"slug":"hunter-killer"
 		},
 		{
+			"title":"Halloween: Resurrection",
+			"gatsby_image_path":"..\/..\/images\/halloween-resurrection.jpg",
+			"slug":"halloween-resurrection"
+		},
+		{
 			"title":"Green Lantern: Emerald Knights",
 			"gatsby_image_path":"..\/..\/images\/green-lantern-emerald-knights.jpg",
 			"slug":"green-lantern-emerald-knights"
 		},
 		{
+			"title":"Daddy's Home",
+			"gatsby_image_path":"..\/..\/images\/daddy-s-home.jpg",
+			"slug":"daddy-s-home"
+		},
+		{
 			"title":"Daddy's Home 2",
 			"gatsby_image_path":"..\/..\/images\/daddy-s-home-2.jpg",
 			"slug":"daddy-s-home-2"
+		},
+		{
+			"title":"Caged",
+			"gatsby_image_path":"..\/..\/images\/caged.jpg",
+			"slug":"caged"
 		},
 		{
 			"title":"Bound by Honor",
@@ -99,6 +124,31 @@
 			"title":"Annabelle",
 			"gatsby_image_path":"..\/..\/images\/annabelle.jpg",
 			"slug":"annabelle"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
+			"title":"Zombieland: Double Tap",
+			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
+			"slug":"zombieland-double-tap"
+		},
+		{
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
 		}
 	],
 	"related_most_similar":[
@@ -267,9 +317,29 @@
 			"slug":"the-last-paradiso"
 		},
 		{
+			"title":"House of Gucci",
+			"gatsby_image_path":"..\/..\/images\/house-of-gucci.jpg",
+			"slug":"house-of-gucci"
+		},
+		{
+			"title":"Separation",
+			"gatsby_image_path":"..\/..\/images\/separation.jpg",
+			"slug":"separation"
+		},
+		{
 			"title":"Braven",
 			"gatsby_image_path":"..\/..\/images\/braven.jpg",
 			"slug":"braven"
+		},
+		{
+			"title":"The Eternal",
+			"gatsby_image_path":"..\/..\/images\/the-eternal.jpg",
+			"slug":"the-eternal"
+		},
+		{
+			"title":"The Starling",
+			"gatsby_image_path":"..\/..\/images\/the-starling.jpg",
+			"slug":"the-starling"
 		},
 		{
 			"title":"The Light Between Oceans",
@@ -292,9 +362,9 @@
 			"slug":"a-walk-among-the-tombstones"
 		},
 		{
-			"title":"Kiki's Delivery Service",
-			"gatsby_image_path":"..\/..\/images\/kiki-s-delivery-service.jpg",
-			"slug":"kiki-s-delivery-service"
+			"title":"Daddy's Perfect Little Girl",
+			"gatsby_image_path":"..\/..\/images\/daddy-s-perfect-little-girl.jpg",
+			"slug":"daddy-s-perfect-little-girl"
 		},
 		{
 			"title":"Eminence Hill",
@@ -302,9 +372,14 @@
 			"slug":"eminence-hill"
 		},
 		{
-			"title":"In the Heights",
-			"gatsby_image_path":"..\/..\/images\/in-the-heights.jpg",
-			"slug":"in-the-heights"
+			"title":"El cuartito",
+			"gatsby_image_path":"..\/..\/images\/el-cuartito.jpg",
+			"slug":"el-cuartito"
+		},
+		{
+			"title":"Kiki's Delivery Service",
+			"gatsby_image_path":"..\/..\/images\/kiki-s-delivery-service.jpg",
+			"slug":"kiki-s-delivery-service"
 		},
 		{
 			"title":"A Dog's Way Home",
@@ -317,9 +392,9 @@
 			"slug":"between-worlds"
 		},
 		{
-			"title":"The Bouncer",
-			"gatsby_image_path":"..\/..\/images\/the-bouncer.jpg",
-			"slug":"the-bouncer"
+			"title":"In the Heights",
+			"gatsby_image_path":"..\/..\/images\/in-the-heights.jpg",
+			"slug":"in-the-heights"
 		},
 		{
 			"title":"El mesero",
@@ -330,31 +405,6 @@
 			"title":"The Last Letter From Your Lover",
 			"gatsby_image_path":"..\/..\/images\/the-last-letter-from-your-lover.jpg",
 			"slug":"the-last-letter-from-your-lover"
-		},
-		{
-			"title":"The Wolf of Wall Street",
-			"gatsby_image_path":"..\/..\/images\/the-wolf-of-wall-street.jpg",
-			"slug":"the-wolf-of-wall-street"
-		},
-		{
-			"title":"Kidnapped",
-			"gatsby_image_path":"..\/..\/images\/kidnapped.jpg",
-			"slug":"kidnapped"
-		},
-		{
-			"title":"The Ring Two",
-			"gatsby_image_path":"..\/..\/images\/the-ring-two.jpg",
-			"slug":"the-ring-two"
-		},
-		{
-			"title":"Earth and Blood",
-			"gatsby_image_path":"..\/..\/images\/earth-and-blood.jpg",
-			"slug":"earth-and-blood"
-		},
-		{
-			"title":"Paperhouse",
-			"gatsby_image_path":"..\/..\/images\/paperhouse.jpg",
-			"slug":"paperhouse"
 		}
 	],
 	"tmdb_id":480414,

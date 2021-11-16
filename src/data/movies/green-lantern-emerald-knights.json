@@ -80,6 +80,16 @@
 			"slug":"the-mummy-returns"
 		},
 		{
+			"title":"The Mummy",
+			"gatsby_image_path":"..\/..\/images\/the-mummy.jpg",
+			"slug":"the-mummy"
+		},
+		{
+			"title":"The Loud House Movie",
+			"gatsby_image_path":"..\/..\/images\/the-loud-house-movie.jpg",
+			"slug":"the-loud-house-movie"
+		},
+		{
 			"title":"The Kitchen",
 			"gatsby_image_path":"..\/..\/images\/the-kitchen.jpg",
 			"slug":"the-kitchen"
@@ -100,9 +110,49 @@
 			"slug":"teen-titans-go-vs.-teen-titans"
 		},
 		{
+			"title":"Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog",
+			"gatsby_image_path":"..\/..\/images\/straight-outta-nowhere-scooby-doo-meets-courage-the-cowardly-dog.jpg",
+			"slug":"straight-outta-nowhere-scooby-doo-meets-courage-the-cowardly-dog"
+		},
+		{
+			"title":"Sharkdog’s Fintastic Halloween",
+			"gatsby_image_path":"..\/..\/images\/sharkdog’s-fintastic-halloween.jpg",
+			"slug":"sharkdog’s-fintastic-halloween"
+		},
+		{
 			"title":"Scooby-Doo! Pirates Ahoy!",
 			"gatsby_image_path":"..\/..\/images\/scooby-doo-pirates-ahoy.jpg",
 			"slug":"scooby-doo-pirates-ahoy"
+		},
+		{
+			"title":"Scooby-Doo! in Where's My Mummy?",
+			"gatsby_image_path":"..\/..\/images\/scooby-doo-in-where-s-my-mummy.jpg",
+			"slug":"scooby-doo-in-where-s-my-mummy"
+		},
+		{
+			"title":"Scooby-Doo! and the Cyber Chase",
+			"gatsby_image_path":"..\/..\/images\/scooby-doo-and-the-cyber-chase.jpg",
+			"slug":"scooby-doo-and-the-cyber-chase"
+		},
+		{
+			"title":"Scoob!",
+			"gatsby_image_path":"..\/..\/images\/scoob.jpg",
+			"slug":"scoob"
+		},
+		{
+			"title":"Onward",
+			"gatsby_image_path":"..\/..\/images\/onward.jpg",
+			"slug":"onward"
+		},
+		{
+			"title":"Mortal Kombat Legends: Scorpion's Revenge",
+			"gatsby_image_path":"..\/..\/images\/mortal-kombat-legends-scorpion-s-revenge.jpg",
+			"slug":"mortal-kombat-legends-scorpion-s-revenge"
+		},
+		{
+			"title":"Justice League: Throne of Atlantis",
+			"gatsby_image_path":"..\/..\/images\/justice-league-throne-of-atlantis.jpg",
+			"slug":"justice-league-throne-of-atlantis"
 		}
 	],
 	"related_most_similar":[
@@ -291,6 +341,11 @@
 			"slug":"justice-league-gods-and-monsters"
 		},
 		{
+			"title":"Hulk",
+			"gatsby_image_path":"..\/..\/images\/hulk.jpg",
+			"slug":"hulk"
+		},
+		{
 			"title":"Star Wars: The Force Awakens",
 			"gatsby_image_path":"..\/..\/images\/star-wars-the-force-awakens.jpg",
 			"slug":"star-wars-the-force-awakens"
@@ -301,24 +356,9 @@
 			"slug":"next-avengers-heroes-of-tomorrow"
 		},
 		{
-			"title":"Hulk",
-			"gatsby_image_path":"..\/..\/images\/hulk.jpg",
-			"slug":"hulk"
-		},
-		{
 			"title":"Batman: The Long Halloween, Part Two",
 			"gatsby_image_path":"..\/..\/images\/batman-the-long-halloween-part-two.jpg",
 			"slug":"batman-the-long-halloween-part-two"
-		},
-		{
-			"title":"Guardians of the Galaxy Vol. 2",
-			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy-vol-2.jpg",
-			"slug":"guardians-of-the-galaxy-vol-2"
-		},
-		{
-			"title":"Max Steel",
-			"gatsby_image_path":"..\/..\/images\/max-steel.jpg",
-			"slug":"max-steel"
 		},
 		{
 			"title":"Iron Man 3",
@@ -326,14 +366,9 @@
 			"slug":"iron-man-3"
 		},
 		{
-			"title":"Combat Wombat",
-			"gatsby_image_path":"..\/..\/images\/combat-wombat.jpg",
-			"slug":"combat-wombat"
-		},
-		{
-			"title":"Zack Snyder's Justice League",
-			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
-			"slug":"zack-snyder-s-justice-league"
+			"title":"Guardians of the Galaxy Vol. 2",
+			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy-vol-2.jpg",
+			"slug":"guardians-of-the-galaxy-vol-2"
 		},
 		{
 			"title":"Batman",
@@ -341,14 +376,24 @@
 			"slug":"batman"
 		},
 		{
+			"title":"Max Steel",
+			"gatsby_image_path":"..\/..\/images\/max-steel.jpg",
+			"slug":"max-steel"
+		},
+		{
+			"title":"Suicide Squad",
+			"gatsby_image_path":"..\/..\/images\/suicide-squad.jpg",
+			"slug":"suicide-squad"
+		},
+		{
 			"title":"Mortal Kombat",
 			"gatsby_image_path":"..\/..\/images\/mortal-kombat.jpg",
 			"slug":"mortal-kombat"
 		},
 		{
-			"title":"Justice League: The Flashpoint Paradox",
-			"gatsby_image_path":"..\/..\/images\/justice-league-the-flashpoint-paradox.jpg",
-			"slug":"justice-league-the-flashpoint-paradox"
+			"title":"Zack Snyder's Justice League",
+			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
+			"slug":"zack-snyder-s-justice-league"
 		},
 		{
 			"title":"Rogue One: A Star Wars Story",
@@ -356,9 +401,14 @@
 			"slug":"rogue-one-a-star-wars-story"
 		},
 		{
-			"title":"The Dark Tower",
-			"gatsby_image_path":"..\/..\/images\/the-dark-tower.jpg",
-			"slug":"the-dark-tower"
+			"title":"Combat Wombat",
+			"gatsby_image_path":"..\/..\/images\/combat-wombat.jpg",
+			"slug":"combat-wombat"
+		},
+		{
+			"title":"Justice League: The Flashpoint Paradox",
+			"gatsby_image_path":"..\/..\/images\/justice-league-the-flashpoint-paradox.jpg",
+			"slug":"justice-league-the-flashpoint-paradox"
 		}
 	],
 	"tmdb_id":65291,

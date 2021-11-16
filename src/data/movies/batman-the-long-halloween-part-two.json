@@ -58,9 +58,19 @@
 			"slug":"batman-the-long-halloween-part-one"
 		},
 		{
+			"title":"Twilight",
+			"gatsby_image_path":"..\/..\/images\/twilight.jpg",
+			"slug":"twilight"
+		},
+		{
 			"title":"Transformers: The Last Knight",
 			"gatsby_image_path":"..\/..\/images\/transformers-the-last-knight.jpg",
 			"slug":"transformers-the-last-knight"
+		},
+		{
+			"title":"Transformers: Revenge of the Fallen",
+			"gatsby_image_path":"..\/..\/images\/transformers-revenge-of-the-fallen.jpg",
+			"slug":"transformers-revenge-of-the-fallen"
 		},
 		{
 			"title":"Transformers: Age of Extinction",
@@ -101,6 +111,46 @@
 			"title":"Suicide Squad: Hell to Pay",
 			"gatsby_image_path":"..\/..\/images\/suicide-squad-hell-to-pay.jpg",
 			"slug":"suicide-squad-hell-to-pay"
+		},
+		{
+			"title":"Shaft",
+			"gatsby_image_path":"..\/..\/images\/shaft.jpg",
+			"slug":"shaft"
+		},
+		{
+			"title":"Riddick",
+			"gatsby_image_path":"..\/..\/images\/riddick.jpg",
+			"slug":"riddick"
+		},
+		{
+			"title":"Red Riding Hood",
+			"gatsby_image_path":"..\/..\/images\/red-riding-hood.jpg",
+			"slug":"red-riding-hood"
+		},
+		{
+			"title":"Mortal Kombat Legends: Scorpion's Revenge",
+			"gatsby_image_path":"..\/..\/images\/mortal-kombat-legends-scorpion-s-revenge.jpg",
+			"slug":"mortal-kombat-legends-scorpion-s-revenge"
+		},
+		{
+			"title":"Marvel One-Shot: Item 47",
+			"gatsby_image_path":"..\/..\/images\/marvel-one-shot-item-47.jpg",
+			"slug":"marvel-one-shot-item-47"
+		},
+		{
+			"title":"Love, Simon",
+			"gatsby_image_path":"..\/..\/images\/love-simon.jpg",
+			"slug":"love-simon"
+		},
+		{
+			"title":"Lights Out",
+			"gatsby_image_path":"..\/..\/images\/lights-out.jpg",
+			"slug":"lights-out"
+		},
+		{
+			"title":"Life As We Know It",
+			"gatsby_image_path":"..\/..\/images\/life-as-we-know-it.jpg",
+			"slug":"life-as-we-know-it"
 		}
 	],
 	"related_most_similar":[
@@ -289,6 +339,31 @@
 			"slug":"ghost-rider-spirit-of-vengeance"
 		},
 		{
+			"title":"Hummingbird",
+			"gatsby_image_path":"..\/..\/images\/hummingbird.jpg",
+			"slug":"hummingbird"
+		},
+		{
+			"title":"Suicide Squad",
+			"gatsby_image_path":"..\/..\/images\/suicide-squad.jpg",
+			"slug":"suicide-squad"
+		},
+		{
+			"title":"G.I. Joe: The Rise of Cobra",
+			"gatsby_image_path":"..\/..\/images\/g.i.-joe-the-rise-of-cobra.jpg",
+			"slug":"g.i.-joe-the-rise-of-cobra"
+		},
+		{
+			"title":"Hulk",
+			"gatsby_image_path":"..\/..\/images\/hulk.jpg",
+			"slug":"hulk"
+		},
+		{
+			"title":"Iron Man 3",
+			"gatsby_image_path":"..\/..\/images\/iron-man-3.jpg",
+			"slug":"iron-man-3"
+		},
+		{
 			"title":"Zack Snyder's Justice League",
 			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
 			"slug":"zack-snyder-s-justice-league"
@@ -297,21 +372,6 @@
 			"title":"Minions: The Rise of Gru",
 			"gatsby_image_path":"..\/..\/images\/minions-the-rise-of-gru.jpg",
 			"slug":"minions-the-rise-of-gru"
-		},
-		{
-			"title":"G.I. Joe: The Rise of Cobra",
-			"gatsby_image_path":"..\/..\/images\/g.i.-joe-the-rise-of-cobra.jpg",
-			"slug":"g.i.-joe-the-rise-of-cobra"
-		},
-		{
-			"title":"Iron Man 3",
-			"gatsby_image_path":"..\/..\/images\/iron-man-3.jpg",
-			"slug":"iron-man-3"
-		},
-		{
-			"title":"Hulk",
-			"gatsby_image_path":"..\/..\/images\/hulk.jpg",
-			"slug":"hulk"
 		},
 		{
 			"title":"Solo: A Star Wars Story",
@@ -324,19 +384,14 @@
 			"slug":"resident-evil-vendetta"
 		},
 		{
-			"title":"Star Wars: The Force Awakens",
-			"gatsby_image_path":"..\/..\/images\/star-wars-the-force-awakens.jpg",
-			"slug":"star-wars-the-force-awakens"
-		},
-		{
 			"title":"Green Lantern: Emerald Knights",
 			"gatsby_image_path":"..\/..\/images\/green-lantern-emerald-knights.jpg",
 			"slug":"green-lantern-emerald-knights"
 		},
 		{
-			"title":"Justice League",
-			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
-			"slug":"justice-league"
+			"title":"Star Wars: The Force Awakens",
+			"gatsby_image_path":"..\/..\/images\/star-wars-the-force-awakens.jpg",
+			"slug":"star-wars-the-force-awakens"
 		},
 		{
 			"title":"Wonder Woman 1984",
@@ -344,19 +399,14 @@
 			"slug":"wonder-woman-1984"
 		},
 		{
+			"title":"Percy Jackson: Sea of Monsters",
+			"gatsby_image_path":"..\/..\/images\/percy-jackson-sea-of-monsters.jpg",
+			"slug":"percy-jackson-sea-of-monsters"
+		},
+		{
 			"title":"Mortal Kombat",
 			"gatsby_image_path":"..\/..\/images\/mortal-kombat.jpg",
 			"slug":"mortal-kombat"
-		},
-		{
-			"title":"Enola Holmes",
-			"gatsby_image_path":"..\/..\/images\/enola-holmes.jpg",
-			"slug":"enola-holmes"
-		},
-		{
-			"title":"Batman: The Long Halloween, Part One",
-			"gatsby_image_path":"..\/..\/images\/batman-the-long-halloween-part-one.jpg",
-			"slug":"batman-the-long-halloween-part-one"
 		}
 	],
 	"tmdb_id":736074,

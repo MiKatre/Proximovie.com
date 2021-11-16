@@ -83,6 +83,11 @@
 			"slug":"tom-and-jerry-the-fast-and-the-furry"
 		},
 		{
+			"title":"Codename: Kids Next Door - Operation Z.E.R.O.",
+			"gatsby_image_path":"..\/..\/images\/codename-kids-next-door-operation-z.e.r.o..jpg",
+			"slug":"codename-kids-next-door-operation-z.e.r.o."
+		},
+		{
 			"title":"Valley Girl",
 			"gatsby_image_path":"..\/..\/images\/valley-girl.jpg",
 			"slug":"valley-girl"
@@ -98,9 +103,54 @@
 			"slug":"the-lion-guard-return-of-the-roar"
 		},
 		{
+			"title":"Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog",
+			"gatsby_image_path":"..\/..\/images\/straight-outta-nowhere-scooby-doo-meets-courage-the-cowardly-dog.jpg",
+			"slug":"straight-outta-nowhere-scooby-doo-meets-courage-the-cowardly-dog"
+		},
+		{
 			"title":"Roald Dahl's The Witches",
 			"gatsby_image_path":"..\/..\/images\/roald-dahl-s-the-witches.jpg",
 			"slug":"roald-dahl-s-the-witches"
+		},
+		{
+			"title":"Pocahontas II: Journey to a New World",
+			"gatsby_image_path":"..\/..\/images\/pocahontas-ii-journey-to-a-new-world.jpg",
+			"slug":"pocahontas-ii-journey-to-a-new-world"
+		},
+		{
+			"title":"Mulan II",
+			"gatsby_image_path":"..\/..\/images\/mulan-ii.jpg",
+			"slug":"mulan-ii"
+		},
+		{
+			"title":"Kung Fu Panda",
+			"gatsby_image_path":"..\/..\/images\/kung-fu-panda.jpg",
+			"slug":"kung-fu-panda"
+		},
+		{
+			"title":"Kung Fu Panda 3",
+			"gatsby_image_path":"..\/..\/images\/kung-fu-panda-3.jpg",
+			"slug":"kung-fu-panda-3"
+		},
+		{
+			"title":"Kung Fu Panda 2",
+			"gatsby_image_path":"..\/..\/images\/kung-fu-panda-2.jpg",
+			"slug":"kung-fu-panda-2"
+		},
+		{
+			"title":"Kill Bill: Vol. 1",
+			"gatsby_image_path":"..\/..\/images\/kill-bill-vol-1.jpg",
+			"slug":"kill-bill-vol-1"
+		},
+		{
+			"title":"How to Train Your Dragon: The Hidden World",
+			"gatsby_image_path":"..\/..\/images\/how-to-train-your-dragon-the-hidden-world.jpg",
+			"slug":"how-to-train-your-dragon-the-hidden-world"
+		},
+		{
+			"title":"How to Train Your Dragon",
+			"gatsby_image_path":"..\/..\/images\/how-to-train-your-dragon.jpg",
+			"slug":"how-to-train-your-dragon"
 		}
 	],
 	"related_most_similar":[
@@ -274,9 +324,9 @@
 			"slug":"fantasia"
 		},
 		{
-			"title":"Happy Halloween, Scooby-Doo!",
-			"gatsby_image_path":"..\/..\/images\/happy-halloween-scooby-doo.jpg",
-			"slug":"happy-halloween-scooby-doo"
+			"title":"Captain Underpants: The First Epic Movie",
+			"gatsby_image_path":"..\/..\/images\/captain-underpants-the-first-epic-movie.jpg",
+			"slug":"captain-underpants-the-first-epic-movie"
 		},
 		{
 			"title":"Adventures of Aladdin",
@@ -284,14 +334,14 @@
 			"slug":"adventures-of-aladdin"
 		},
 		{
+			"title":"Muppets Haunted Mansion",
+			"gatsby_image_path":"..\/..\/images\/muppets-haunted-mansion.jpg",
+			"slug":"muppets-haunted-mansion"
+		},
+		{
 			"title":"The Simpsons 20th Anniversary Special - In 3D! On Ice!",
 			"gatsby_image_path":"..\/..\/images\/the-simpsons-20th-anniversary-special-in-3d-on-ice.jpg",
 			"slug":"the-simpsons-20th-anniversary-special-in-3d-on-ice"
-		},
-		{
-			"title":"Beauty and the Beast",
-			"gatsby_image_path":"..\/..\/images\/beauty-and-the-beast.jpg",
-			"slug":"beauty-and-the-beast"
 		},
 		{
 			"title":"The Misadventures of Rick and Morty",
@@ -299,14 +349,14 @@
 			"slug":"the-misadventures-of-rick-and-morty"
 		},
 		{
+			"title":"Happy Halloween, Scooby-Doo!",
+			"gatsby_image_path":"..\/..\/images\/happy-halloween-scooby-doo.jpg",
+			"slug":"happy-halloween-scooby-doo"
+		},
+		{
 			"title":"The Wizard of Oz",
 			"gatsby_image_path":"..\/..\/images\/the-wizard-of-oz.jpg",
 			"slug":"the-wizard-of-oz"
-		},
-		{
-			"title":"Cranston Academy: Monster Zone",
-			"gatsby_image_path":"..\/..\/images\/cranston-academy-monster-zone.jpg",
-			"slug":"cranston-academy-monster-zone"
 		},
 		{
 			"title":"The House of Flowers: The Movie",
@@ -314,14 +364,19 @@
 			"slug":"the-house-of-flowers-the-movie"
 		},
 		{
+			"title":"LEGO Star Wars Terrifying Tales",
+			"gatsby_image_path":"..\/..\/images\/lego-star-wars-terrifying-tales.jpg",
+			"slug":"lego-star-wars-terrifying-tales"
+		},
+		{
+			"title":"Cranston Academy: Monster Zone",
+			"gatsby_image_path":"..\/..\/images\/cranston-academy-monster-zone.jpg",
+			"slug":"cranston-academy-monster-zone"
+		},
+		{
 			"title":"Scooby-Doo 2: Monsters Unleashed",
 			"gatsby_image_path":"..\/..\/images\/scooby-doo-2-monsters-unleashed.jpg",
 			"slug":"scooby-doo-2-monsters-unleashed"
-		},
-		{
-			"title":"Super Monsters: Once Upon a Rhyme",
-			"gatsby_image_path":"..\/..\/images\/super-monsters-once-upon-a-rhyme.jpg",
-			"slug":"super-monsters-once-upon-a-rhyme"
 		},
 		{
 			"title":"Kidnapped",
@@ -329,24 +384,19 @@
 			"slug":"kidnapped"
 		},
 		{
-			"title":"Space Jam: A New Legacy",
-			"gatsby_image_path":"..\/..\/images\/space-jam-a-new-legacy.jpg",
-			"slug":"space-jam-a-new-legacy"
-		},
-		{
-			"title":"Barbie: Princess Adventure",
-			"gatsby_image_path":"..\/..\/images\/barbie-princess-adventure.jpg",
-			"slug":"barbie-princess-adventure"
-		},
-		{
 			"title":"Naruto: The Lost Story - Mission: Protect the Waterfall Village!",
 			"gatsby_image_path":"..\/..\/images\/naruto-the-lost-story-mission-protect-the-waterfall-village.jpg",
 			"slug":"naruto-the-lost-story-mission-protect-the-waterfall-village"
 		},
 		{
-			"title":"Miss Peregrine's Home for Peculiar Children",
-			"gatsby_image_path":"..\/..\/images\/miss-peregrine-s-home-for-peculiar-children.jpg",
-			"slug":"miss-peregrine-s-home-for-peculiar-children"
+			"title":"The Loud House Movie",
+			"gatsby_image_path":"..\/..\/images\/the-loud-house-movie.jpg",
+			"slug":"the-loud-house-movie"
+		},
+		{
+			"title":"Space Jam: A New Legacy",
+			"gatsby_image_path":"..\/..\/images\/space-jam-a-new-legacy.jpg",
+			"slug":"space-jam-a-new-legacy"
 		},
 		{
 			"title":"Ted",
@@ -354,9 +404,9 @@
 			"slug":"ted"
 		},
 		{
-			"title":"Howl's Moving Castle",
-			"gatsby_image_path":"..\/..\/images\/howl-s-moving-castle.jpg",
-			"slug":"howl-s-moving-castle"
+			"title":"Super Monsters: Once Upon a Rhyme",
+			"gatsby_image_path":"..\/..\/images\/super-monsters-once-upon-a-rhyme.jpg",
+			"slug":"super-monsters-once-upon-a-rhyme"
 		}
 	],
 	"tmdb_id":13179,

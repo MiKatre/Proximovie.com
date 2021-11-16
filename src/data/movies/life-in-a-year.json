@@ -57,6 +57,11 @@
 			"slug":"valerian-and-the-city-of-a-thousand-planets"
 		},
 		{
+			"title":"Ticking Clock",
+			"gatsby_image_path":"..\/..\/images\/ticking-clock.jpg",
+			"slug":"ticking-clock"
+		},
+		{
 			"title":"The Next Three Days",
 			"gatsby_image_path":"..\/..\/images\/the-next-three-days.jpg",
 			"slug":"the-next-three-days"
@@ -65,6 +70,21 @@
 			"title":"The Karate Kid",
 			"gatsby_image_path":"..\/..\/images\/the-karate-kid.jpg",
 			"slug":"the-karate-kid"
+		},
+		{
+			"title":"Suicide Squad",
+			"gatsby_image_path":"..\/..\/images\/suicide-squad.jpg",
+			"slug":"suicide-squad"
+		},
+		{
+			"title":"Red Tails",
+			"gatsby_image_path":"..\/..\/images\/red-tails.jpg",
+			"slug":"red-tails"
+		},
+		{
+			"title":"Pearl Harbor",
+			"gatsby_image_path":"..\/..\/images\/pearl-harbor.jpg",
+			"slug":"pearl-harbor"
 		},
 		{
 			"title":"Norbit",
@@ -87,14 +107,44 @@
 			"slug":"home-on-the-range"
 		},
 		{
+			"title":"Funny People",
+			"gatsby_image_path":"..\/..\/images\/funny-people.jpg",
+			"slug":"funny-people"
+		},
+		{
+			"title":"Friday",
+			"gatsby_image_path":"..\/..\/images\/friday.jpg",
+			"slug":"friday"
+		},
+		{
+			"title":"Due Date",
+			"gatsby_image_path":"..\/..\/images\/due-date.jpg",
+			"slug":"due-date"
+		},
+		{
+			"title":"After Earth",
+			"gatsby_image_path":"..\/..\/images\/after-earth.jpg",
+			"slug":"after-earth"
+		},
+		{
 			"title":"Zootopia",
 			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
 			"slug":"zootopia"
 		},
 		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
 			"title":"Zombieland",
 			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
 			"slug":"zombieland"
+		},
+		{
+			"title":"Zombieland: Double Tap",
+			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
+			"slug":"zombieland-double-tap"
 		}
 	],
 	"related_most_similar":[
@@ -263,19 +313,29 @@
 			"slug":"the-wrong-missy"
 		},
 		{
+			"title":"Vacation Friends",
+			"gatsby_image_path":"..\/..\/images\/vacation-friends.jpg",
+			"slug":"vacation-friends"
+		},
+		{
+			"title":"A Dog Named Palma",
+			"gatsby_image_path":"..\/..\/images\/a-dog-named-palma.jpg",
+			"slug":"a-dog-named-palma"
+		},
+		{
 			"title":"Countdown",
 			"gatsby_image_path":"..\/..\/images\/countdown.jpg",
 			"slug":"countdown"
 		},
 		{
-			"title":"Kaguya-sama: Love Is War",
-			"gatsby_image_path":"..\/..\/images\/kaguya-sama-love-is-war.jpg",
-			"slug":"kaguya-sama-love-is-war"
-		},
-		{
 			"title":"Life Is Beautiful",
 			"gatsby_image_path":"..\/..\/images\/life-is-beautiful.jpg",
 			"slug":"life-is-beautiful"
+		},
+		{
+			"title":"Kaguya-sama: Love Is War",
+			"gatsby_image_path":"..\/..\/images\/kaguya-sama-love-is-war.jpg",
+			"slug":"kaguya-sama-love-is-war"
 		},
 		{
 			"title":"Believe Me: The Abduction of Lisa McVey",
@@ -288,6 +348,36 @@
 			"slug":"the-100-candles-game"
 		},
 		{
+			"title":"Long Story Short",
+			"gatsby_image_path":"..\/..\/images\/long-story-short.jpg",
+			"slug":"long-story-short"
+		},
+		{
+			"title":"Grudge",
+			"gatsby_image_path":"..\/..\/images\/grudge.jpg",
+			"slug":"grudge"
+		},
+		{
+			"title":"No One Gets Out Alive",
+			"gatsby_image_path":"..\/..\/images\/no-one-gets-out-alive.jpg",
+			"slug":"no-one-gets-out-alive"
+		},
+		{
+			"title":"The Man from Nowhere",
+			"gatsby_image_path":"..\/..\/images\/the-man-from-nowhere.jpg",
+			"slug":"the-man-from-nowhere"
+		},
+		{
+			"title":"Bad Christmas",
+			"gatsby_image_path":"..\/..\/images\/bad-christmas.jpg",
+			"slug":"bad-christmas"
+		},
+		{
+			"title":"Xico's Journey",
+			"gatsby_image_path":"..\/..\/images\/xico-s-journey.jpg",
+			"slug":"xico-s-journey"
+		},
+		{
 			"title":"The Little Prince(ss)",
 			"gatsby_image_path":"..\/..\/images\/the-little-prince-ss.jpg",
 			"slug":"the-little-prince-ss"
@@ -296,16 +386,6 @@
 			"title":"The Exorcism of Carmen Farias",
 			"gatsby_image_path":"..\/..\/images\/the-exorcism-of-carmen-farias.jpg",
 			"slug":"the-exorcism-of-carmen-farias"
-		},
-		{
-			"title":"Xico's Journey",
-			"gatsby_image_path":"..\/..\/images\/xico-s-journey.jpg",
-			"slug":"xico-s-journey"
-		},
-		{
-			"title":"Jojo Rabbit",
-			"gatsby_image_path":"..\/..\/images\/jojo-rabbit.jpg",
-			"slug":"jojo-rabbit"
 		},
 		{
 			"title":"Revolt",
@@ -318,39 +398,9 @@
 			"slug":"sleeping-beauty"
 		},
 		{
-			"title":"Bāhubali 2: The Conclusion",
-			"gatsby_image_path":"..\/..\/images\/bāhubali-2-the-conclusion.jpg",
-			"slug":"bāhubali-2-the-conclusion"
-		},
-		{
-			"title":"The Mountain Between Us",
-			"gatsby_image_path":"..\/..\/images\/the-mountain-between-us.jpg",
-			"slug":"the-mountain-between-us"
-		},
-		{
-			"title":"Scandalous Sex",
-			"gatsby_image_path":"..\/..\/images\/scandalous-sex.jpg",
-			"slug":"scandalous-sex"
-		},
-		{
-			"title":"Paranormal Activity: The Marked Ones",
-			"gatsby_image_path":"..\/..\/images\/paranormal-activity-the-marked-ones.jpg",
-			"slug":"paranormal-activity-the-marked-ones"
-		},
-		{
-			"title":"Chemical Hearts",
-			"gatsby_image_path":"..\/..\/images\/chemical-hearts.jpg",
-			"slug":"chemical-hearts"
-		},
-		{
-			"title":"Midnight Sun",
-			"gatsby_image_path":"..\/..\/images\/midnight-sun.jpg",
-			"slug":"midnight-sun"
-		},
-		{
-			"title":"Lady and the Tramp",
-			"gatsby_image_path":"..\/..\/images\/lady-and-the-tramp.jpg",
-			"slug":"lady-and-the-tramp"
+			"title":"Jojo Rabbit",
+			"gatsby_image_path":"..\/..\/images\/jojo-rabbit.jpg",
+			"slug":"jojo-rabbit"
 		}
 	],
 	"tmdb_id":447362,

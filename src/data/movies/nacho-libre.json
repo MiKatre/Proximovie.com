@@ -52,6 +52,16 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Year One",
+			"gatsby_image_path":"..\/..\/images\/year-one.jpg",
+			"slug":"year-one"
+		},
+		{
+			"title":"Tropic Thunder",
+			"gatsby_image_path":"..\/..\/images\/tropic-thunder.jpg",
+			"slug":"tropic-thunder"
+		},
+		{
 			"title":"The Forever Purge",
 			"gatsby_image_path":"..\/..\/images\/the-forever-purge.jpg",
 			"slug":"the-forever-purge"
@@ -100,6 +110,46 @@
 			"title":"Jumanji: The Next Level",
 			"gatsby_image_path":"..\/..\/images\/jumanji-the-next-level.jpg",
 			"slug":"jumanji-the-next-level"
+		},
+		{
+			"title":"Ice Age",
+			"gatsby_image_path":"..\/..\/images\/ice-age.jpg",
+			"slug":"ice-age"
+		},
+		{
+			"title":"Hannah Montana: The Movie",
+			"gatsby_image_path":"..\/..\/images\/hannah-montana-the-movie.jpg",
+			"slug":"hannah-montana-the-movie"
+		},
+		{
+			"title":"Goosebumps",
+			"gatsby_image_path":"..\/..\/images\/goosebumps.jpg",
+			"slug":"goosebumps"
+		},
+		{
+			"title":"Five Feet Apart",
+			"gatsby_image_path":"..\/..\/images\/five-feet-apart.jpg",
+			"slug":"five-feet-apart"
+		},
+		{
+			"title":"Despicable Me 2",
+			"gatsby_image_path":"..\/..\/images\/despicable-me-2.jpg",
+			"slug":"despicable-me-2"
+		},
+		{
+			"title":"Beethoven's Big Break",
+			"gatsby_image_path":"..\/..\/images\/beethoven-s-big-break.jpg",
+			"slug":"beethoven-s-big-break"
+		},
+		{
+			"title":"Army of the Dead",
+			"gatsby_image_path":"..\/..\/images\/army-of-the-dead.jpg",
+			"slug":"army-of-the-dead"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
 		}
 	],
 	"related_most_similar":[
@@ -268,14 +318,19 @@
 			"slug":"selena"
 		},
 		{
+			"title":"Undisputed",
+			"gatsby_image_path":"..\/..\/images\/undisputed.jpg",
+			"slug":"undisputed"
+		},
+		{
 			"title":"Scarface",
 			"gatsby_image_path":"..\/..\/images\/scarface.jpg",
 			"slug":"scarface"
 		},
 		{
-			"title":"Undisputed",
-			"gatsby_image_path":"..\/..\/images\/undisputed.jpg",
-			"slug":"undisputed"
+			"title":"Escape The Undertaker",
+			"gatsby_image_path":"..\/..\/images\/escape-the-undertaker.jpg",
+			"slug":"escape-the-undertaker"
 		},
 		{
 			"title":"Undisputed II: Last Man Standing",
@@ -293,6 +348,11 @@
 			"slug":"pain-gain"
 		},
 		{
+			"title":"Crazy Fist",
+			"gatsby_image_path":"..\/..\/images\/crazy-fist.jpg",
+			"slug":"crazy-fist"
+		},
+		{
 			"title":"Snake Eyes: G.I. Joe Origins",
 			"gatsby_image_path":"..\/..\/images\/snake-eyes-g.i.-joe-origins.jpg",
 			"slug":"snake-eyes-g.i.-joe-origins"
@@ -303,9 +363,9 @@
 			"slug":"the-tax-collector"
 		},
 		{
-			"title":"Rosario Tijeras",
-			"gatsby_image_path":"..\/..\/images\/rosario-tijeras.jpg",
-			"slug":"rosario-tijeras"
+			"title":"Monstruosamente Solo",
+			"gatsby_image_path":"..\/..\/images\/monstruosamente-solo.jpg",
+			"slug":"monstruosamente-solo"
 		},
 		{
 			"title":"Cindy La Regia",
@@ -318,9 +378,9 @@
 			"slug":"ip-man-4-the-finale"
 		},
 		{
-			"title":"Fast & Furious Presents: Hobbs & Shaw",
-			"gatsby_image_path":"..\/..\/images\/fast-furious-presents-hobbs-shaw.jpg",
-			"slug":"fast-furious-presents-hobbs-shaw"
+			"title":"Rosario Tijeras",
+			"gatsby_image_path":"..\/..\/images\/rosario-tijeras.jpg",
+			"slug":"rosario-tijeras"
 		},
 		{
 			"title":"Ant-Man",
@@ -328,14 +388,9 @@
 			"slug":"ant-man"
 		},
 		{
-			"title":"Rambo: Last Blood",
-			"gatsby_image_path":"..\/..\/images\/rambo-last-blood.jpg",
-			"slug":"rambo-last-blood"
-		},
-		{
-			"title":"No Manches Frida",
-			"gatsby_image_path":"..\/..\/images\/no-manches-frida.jpg",
-			"slug":"no-manches-frida"
+			"title":"Fast & Furious Presents: Hobbs & Shaw",
+			"gatsby_image_path":"..\/..\/images\/fast-furious-presents-hobbs-shaw.jpg",
+			"slug":"fast-furious-presents-hobbs-shaw"
 		},
 		{
 			"title":"Mortal Kombat Legends: Scorpion's Revenge",
@@ -343,19 +398,14 @@
 			"slug":"mortal-kombat-legends-scorpion-s-revenge"
 		},
 		{
+			"title":"Rambo: Last Blood",
+			"gatsby_image_path":"..\/..\/images\/rambo-last-blood.jpg",
+			"slug":"rambo-last-blood"
+		},
+		{
 			"title":"Sin Nombre",
 			"gatsby_image_path":"..\/..\/images\/sin-nombre.jpg",
 			"slug":"sin-nombre"
-		},
-		{
-			"title":"Bound by Honor",
-			"gatsby_image_path":"..\/..\/images\/bound-by-honor.jpg",
-			"slug":"bound-by-honor"
-		},
-		{
-			"title":"Armored",
-			"gatsby_image_path":"..\/..\/images\/armored.jpg",
-			"slug":"armored"
 		}
 	],
 	"tmdb_id":9353,

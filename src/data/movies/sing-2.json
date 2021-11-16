@@ -58,6 +58,16 @@
 			"slug":"sing"
 		},
 		{
+			"title":"We're the Millers",
+			"gatsby_image_path":"..\/..\/images\/we-re-the-millers.jpg",
+			"slug":"we-re-the-millers"
+		},
+		{
+			"title":"Tropic Thunder",
+			"gatsby_image_path":"..\/..\/images\/tropic-thunder.jpg",
+			"slug":"tropic-thunder"
+		},
+		{
 			"title":"Tom & Jerry",
 			"gatsby_image_path":"..\/..\/images\/tom-jerry.jpg",
 			"slug":"tom-jerry"
@@ -83,14 +93,14 @@
 			"slug":"the-secret-life-of-pets-2"
 		},
 		{
+			"title":"The Paperboy",
+			"gatsby_image_path":"..\/..\/images\/the-paperboy.jpg",
+			"slug":"the-paperboy"
+		},
+		{
 			"title":"The Lego Movie 2: The Second Part",
 			"gatsby_image_path":"..\/..\/images\/the-lego-movie-2-the-second-part.jpg",
 			"slug":"the-lego-movie-2-the-second-part"
-		},
-		{
-			"title":"The Jungle Book",
-			"gatsby_image_path":"..\/..\/images\/the-jungle-book.jpg",
-			"slug":"the-jungle-book"
 		},
 		{
 			"title":"The Grinch",
@@ -101,6 +111,46 @@
 			"title":"The Gentlemen",
 			"gatsby_image_path":"..\/..\/images\/the-gentlemen.jpg",
 			"slug":"the-gentlemen"
+		},
+		{
+			"title":"The Dark Tower",
+			"gatsby_image_path":"..\/..\/images\/the-dark-tower.jpg",
+			"slug":"the-dark-tower"
+		},
+		{
+			"title":"The Avengers",
+			"gatsby_image_path":"..\/..\/images\/the-avengers.jpg",
+			"slug":"the-avengers"
+		},
+		{
+			"title":"The Addams Family",
+			"gatsby_image_path":"..\/..\/images\/the-addams-family.jpg",
+			"slug":"the-addams-family"
+		},
+		{
+			"title":"The Addams Family 2",
+			"gatsby_image_path":"..\/..\/images\/the-addams-family-2.jpg",
+			"slug":"the-addams-family-2"
+		},
+		{
+			"title":"Spy",
+			"gatsby_image_path":"..\/..\/images\/spy.jpg",
+			"slug":"spy"
+		},
+		{
+			"title":"Sausage Party",
+			"gatsby_image_path":"..\/..\/images\/sausage-party.jpg",
+			"slug":"sausage-party"
+		},
+		{
+			"title":"Paul Blart: Mall Cop",
+			"gatsby_image_path":"..\/..\/images\/paul-blart-mall-cop.jpg",
+			"slug":"paul-blart-mall-cop"
+		},
+		{
+			"title":"Motherless Brooklyn",
+			"gatsby_image_path":"..\/..\/images\/motherless-brooklyn.jpg",
+			"slug":"motherless-brooklyn"
 		}
 	],
 	"related_most_similar":[
@@ -259,9 +309,24 @@
 	],
 	"related_by_overview":[
 		{
+			"title":"Beethoven's Big Break",
+			"gatsby_image_path":"..\/..\/images\/beethoven-s-big-break.jpg",
+			"slug":"beethoven-s-big-break"
+		},
+		{
 			"title":"Monster Trucks",
 			"gatsby_image_path":"..\/..\/images\/monster-trucks.jpg",
 			"slug":"monster-trucks"
+		},
+		{
+			"title":"Ice Age: The Great Egg-Scapade",
+			"gatsby_image_path":"..\/..\/images\/ice-age-the-great-egg-scapade.jpg",
+			"slug":"ice-age-the-great-egg-scapade"
+		},
+		{
+			"title":"Jingle All the Way",
+			"gatsby_image_path":"..\/..\/images\/jingle-all-the-way.jpg",
+			"slug":"jingle-all-the-way"
 		},
 		{
 			"title":"Rango",
@@ -274,6 +339,11 @@
 			"slug":"ghost-rider"
 		},
 		{
+			"title":"Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog",
+			"gatsby_image_path":"..\/..\/images\/straight-outta-nowhere-scooby-doo-meets-courage-the-cowardly-dog.jpg",
+			"slug":"straight-outta-nowhere-scooby-doo-meets-courage-the-cowardly-dog"
+		},
+		{
 			"title":"Aquaslash",
 			"gatsby_image_path":"..\/..\/images\/aquaslash.jpg",
 			"slug":"aquaslash"
@@ -284,14 +354,14 @@
 			"slug":"alvin-and-the-chipmunks-the-squeakquel"
 		},
 		{
-			"title":"Scooby-Doo! Curse of the Lake Monster",
-			"gatsby_image_path":"..\/..\/images\/scooby-doo-curse-of-the-lake-monster.jpg",
-			"slug":"scooby-doo-curse-of-the-lake-monster"
-		},
-		{
 			"title":"The Little Vampire",
 			"gatsby_image_path":"..\/..\/images\/the-little-vampire.jpg",
 			"slug":"the-little-vampire"
+		},
+		{
+			"title":"Scooby-Doo! Curse of the Lake Monster",
+			"gatsby_image_path":"..\/..\/images\/scooby-doo-curse-of-the-lake-monster.jpg",
+			"slug":"scooby-doo-curse-of-the-lake-monster"
 		},
 		{
 			"title":"Charm City Kings",
@@ -304,39 +374,24 @@
 			"slug":"how-the-grinch-stole-christmas"
 		},
 		{
-			"title":"American Pie Presents: The Book of Love",
-			"gatsby_image_path":"..\/..\/images\/american-pie-presents-the-book-of-love.jpg",
-			"slug":"american-pie-presents-the-book-of-love"
-		},
-		{
 			"title":"The Goonies",
 			"gatsby_image_path":"..\/..\/images\/the-goonies.jpg",
 			"slug":"the-goonies"
 		},
 		{
-			"title":"Looney Tunes: Back in Action",
-			"gatsby_image_path":"..\/..\/images\/looney-tunes-back-in-action.jpg",
-			"slug":"looney-tunes-back-in-action"
+			"title":"American Pie Presents: The Book of Love",
+			"gatsby_image_path":"..\/..\/images\/american-pie-presents-the-book-of-love.jpg",
+			"slug":"american-pie-presents-the-book-of-love"
 		},
 		{
-			"title":"Sextuplets",
-			"gatsby_image_path":"..\/..\/images\/sextuplets.jpg",
-			"slug":"sextuplets"
+			"title":"Krampus",
+			"gatsby_image_path":"..\/..\/images\/krampus.jpg",
+			"slug":"krampus"
 		},
 		{
-			"title":"American Pie Presents: The Naked Mile",
-			"gatsby_image_path":"..\/..\/images\/american-pie-presents-the-naked-mile.jpg",
-			"slug":"american-pie-presents-the-naked-mile"
-		},
-		{
-			"title":"Wrath of Man",
-			"gatsby_image_path":"..\/..\/images\/wrath-of-man.jpg",
-			"slug":"wrath-of-man"
-		},
-		{
-			"title":"The Return of Jafar",
-			"gatsby_image_path":"..\/..\/images\/the-return-of-jafar.jpg",
-			"slug":"the-return-of-jafar"
+			"title":"The Game Plan",
+			"gatsby_image_path":"..\/..\/images\/the-game-plan.jpg",
+			"slug":"the-game-plan"
 		},
 		{
 			"title":"Bee Movie",
@@ -344,19 +399,14 @@
 			"slug":"bee-movie"
 		},
 		{
-			"title":"The Magnificent Seven",
-			"gatsby_image_path":"..\/..\/images\/the-magnificent-seven.jpg",
-			"slug":"the-magnificent-seven"
+			"title":"Looney Tunes: Back in Action",
+			"gatsby_image_path":"..\/..\/images\/looney-tunes-back-in-action.jpg",
+			"slug":"looney-tunes-back-in-action"
 		},
 		{
-			"title":"Grand Isle",
-			"gatsby_image_path":"..\/..\/images\/grand-isle.jpg",
-			"slug":"grand-isle"
-		},
-		{
-			"title":"Goosebumps",
-			"gatsby_image_path":"..\/..\/images\/goosebumps.jpg",
-			"slug":"goosebumps"
+			"title":"Wrath of Man",
+			"gatsby_image_path":"..\/..\/images\/wrath-of-man.jpg",
+			"slug":"wrath-of-man"
 		}
 	],
 	"tmdb_id":438695,

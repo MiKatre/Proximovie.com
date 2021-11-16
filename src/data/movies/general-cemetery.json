@@ -43,6 +43,11 @@
 			"slug":"zootopia"
 		},
 		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
 			"title":"Zombieland",
 			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
 			"slug":"zombieland"
@@ -73,7 +78,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name",
+			"title":"Your Name.",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -83,9 +88,54 @@
 			"slug":"young-sister-in-law-3-2019"
 		},
 		{
+			"title":"Young and Wild",
+			"gatsby_image_path":"..\/..\/images\/young-and-wild.jpg",
+			"slug":"young-and-wild"
+		},
+		{
+			"title":"Yes, No, or Maybe Half?",
+			"gatsby_image_path":"..\/..\/images\/yes-no-or-maybe-half.jpg",
+			"slug":"yes-no-or-maybe-half"
+		},
+		{
+			"title":"Yes Man",
+			"gatsby_image_path":"..\/..\/images\/yes-man.jpg",
+			"slug":"yes-man"
+		},
+		{
 			"title":"Yes Day",
 			"gatsby_image_path":"..\/..\/images\/yes-day.jpg",
 			"slug":"yes-day"
+		},
+		{
+			"title":"Year One",
+			"gatsby_image_path":"..\/..\/images\/year-one.jpg",
+			"slug":"year-one"
+		},
+		{
+			"title":"Yara",
+			"gatsby_image_path":"..\/..\/images\/yara.jpg",
+			"slug":"yara"
+		},
+		{
+			"title":"xXx: Return of Xander Cage",
+			"gatsby_image_path":"..\/..\/images\/xxx-return-of-xander-cage.jpg",
+			"slug":"xxx-return-of-xander-cage"
+		},
+		{
+			"title":"Xtreme",
+			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
+			"slug":"xtreme"
+		},
+		{
+			"title":"X-Men: Days of Future Past",
+			"gatsby_image_path":"..\/..\/images\/x-men-days-of-future-past.jpg",
+			"slug":"x-men-days-of-future-past"
+		},
+		{
+			"title":"X-Men: Apocalypse",
+			"gatsby_image_path":"..\/..\/images\/x-men-apocalypse.jpg",
+			"slug":"x-men-apocalypse"
 		}
 	],
 	"related_most_similar":[
@@ -249,6 +299,11 @@
 			"slug":"the-hypocrites"
 		},
 		{
+			"title":"A un paso de mí",
+			"gatsby_image_path":"..\/..\/images\/a-un-paso-de-mí.jpg",
+			"slug":"a-un-paso-de-mí"
+		},
+		{
 			"title":"Armored",
 			"gatsby_image_path":"..\/..\/images\/armored.jpg",
 			"slug":"armored"
@@ -259,9 +314,19 @@
 			"slug":"prime-time"
 		},
 		{
-			"title":"Desire",
-			"gatsby_image_path":"..\/..\/images\/desire.jpg",
-			"slug":"desire"
+			"title":"Tarumama",
+			"gatsby_image_path":"..\/..\/images\/tarumama.jpg",
+			"slug":"tarumama"
+		},
+		{
+			"title":"The Intruder",
+			"gatsby_image_path":"..\/..\/images\/the-intruder.jpg",
+			"slug":"the-intruder"
+		},
+		{
+			"title":"Monstruosamente Solo",
+			"gatsby_image_path":"..\/..\/images\/monstruosamente-solo.jpg",
+			"slug":"monstruosamente-solo"
 		},
 		{
 			"title":"War of Likes",
@@ -289,6 +354,11 @@
 			"slug":"no-manches-frida"
 		},
 		{
+			"title":"Underdogs",
+			"gatsby_image_path":"..\/..\/images\/underdogs.jpg",
+			"slug":"underdogs"
+		},
+		{
 			"title":"El Infierno",
 			"gatsby_image_path":"..\/..\/images\/el-infierno.jpg",
 			"slug":"el-infierno"
@@ -304,44 +374,24 @@
 			"slug":"encanto"
 		},
 		{
-			"title":"Get the Goat",
-			"gatsby_image_path":"..\/..\/images\/get-the-goat.jpg",
-			"slug":"get-the-goat"
-		},
-		{
 			"title":"Devoto, la invasión silenciosa",
 			"gatsby_image_path":"..\/..\/images\/devoto-la-invasión-silenciosa.jpg",
 			"slug":"devoto-la-invasión-silenciosa"
 		},
 		{
+			"title":"Get the Goat",
+			"gatsby_image_path":"..\/..\/images\/get-the-goat.jpg",
+			"slug":"get-the-goat"
+		},
+		{
+			"title":"There's Something About Mario",
+			"gatsby_image_path":"..\/..\/images\/there-s-something-about-mario.jpg",
+			"slug":"there-s-something-about-mario"
+		},
+		{
 			"title":"Bound by Honor",
 			"gatsby_image_path":"..\/..\/images\/bound-by-honor.jpg",
 			"slug":"bound-by-honor"
-		},
-		{
-			"title":"The Kids Are Alright: Destination Asturias",
-			"gatsby_image_path":"..\/..\/images\/the-kids-are-alright-destination-asturias.jpg",
-			"slug":"the-kids-are-alright-destination-asturias"
-		},
-		{
-			"title":"Selena",
-			"gatsby_image_path":"..\/..\/images\/selena.jpg",
-			"slug":"selena"
-		},
-		{
-			"title":"Como Hackear Seu Chefe",
-			"gatsby_image_path":"..\/..\/images\/como-hackear-seu-chefe.jpg",
-			"slug":"como-hackear-seu-chefe"
-		},
-		{
-			"title":"BIA: An Upside Down World",
-			"gatsby_image_path":"..\/..\/images\/bia-an-upside-down-world.jpg",
-			"slug":"bia-an-upside-down-world"
-		},
-		{
-			"title":"A Gruta",
-			"gatsby_image_path":"..\/..\/images\/a-gruta.jpg",
-			"slug":"a-gruta"
 		}
 	],
 	"tmdb_id":218454,

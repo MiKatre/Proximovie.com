@@ -52,6 +52,11 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"The Lion King",
+			"gatsby_image_path":"..\/..\/images\/the-lion-king.jpg",
+			"slug":"the-lion-king"
+		},
+		{
 			"title":"The Lion King 1½",
 			"gatsby_image_path":"..\/..\/images\/the-lion-king-1-½.jpg",
 			"slug":"the-lion-king-1-½"
@@ -70,6 +75,11 @@
 			"title":"Valerian and the City of a Thousand Planets",
 			"gatsby_image_path":"..\/..\/images\/valerian-and-the-city-of-a-thousand-planets.jpg",
 			"slug":"valerian-and-the-city-of-a-thousand-planets"
+		},
+		{
+			"title":"Tower Heist",
+			"gatsby_image_path":"..\/..\/images\/tower-heist.jpg",
+			"slug":"tower-heist"
 		},
 		{
 			"title":"Titanic",
@@ -100,6 +110,46 @@
 			"title":"The Princess and the Frog",
 			"gatsby_image_path":"..\/..\/images\/the-princess-and-the-frog.jpg",
 			"slug":"the-princess-and-the-frog"
+		},
+		{
+			"title":"The Monuments Men",
+			"gatsby_image_path":"..\/..\/images\/the-monuments-men.jpg",
+			"slug":"the-monuments-men"
+		},
+		{
+			"title":"The Longest Yard",
+			"gatsby_image_path":"..\/..\/images\/the-longest-yard.jpg",
+			"slug":"the-longest-yard"
+		},
+		{
+			"title":"The Lion King II: Simba's Pride",
+			"gatsby_image_path":"..\/..\/images\/the-lion-king-ii-simba-s-pride.jpg",
+			"slug":"the-lion-king-ii-simba-s-pride"
+		},
+		{
+			"title":"The Highwaymen",
+			"gatsby_image_path":"..\/..\/images\/the-highwaymen.jpg",
+			"slug":"the-highwaymen"
+		},
+		{
+			"title":"The Hangover Part III",
+			"gatsby_image_path":"..\/..\/images\/the-hangover-part-iii.jpg",
+			"slug":"the-hangover-part-iii"
+		},
+		{
+			"title":"The Fox and the Hound 2",
+			"gatsby_image_path":"..\/..\/images\/the-fox-and-the-hound-2.jpg",
+			"slug":"the-fox-and-the-hound-2"
+		},
+		{
+			"title":"The Flintstones",
+			"gatsby_image_path":"..\/..\/images\/the-flintstones.jpg",
+			"slug":"the-flintstones"
+		},
+		{
+			"title":"The Blind Side",
+			"gatsby_image_path":"..\/..\/images\/the-blind-side.jpg",
+			"slug":"the-blind-side"
 		}
 	],
 	"related_most_similar":[
@@ -263,14 +313,14 @@
 			"slug":"the-little-vampire"
 		},
 		{
+			"title":"Jingle All the Way",
+			"gatsby_image_path":"..\/..\/images\/jingle-all-the-way.jpg",
+			"slug":"jingle-all-the-way"
+		},
+		{
 			"title":"Peter Rabbit 2: The Runaway",
 			"gatsby_image_path":"..\/..\/images\/peter-rabbit-2-the-runaway.jpg",
 			"slug":"peter-rabbit-2-the-runaway"
-		},
-		{
-			"title":"Cats & Dogs",
-			"gatsby_image_path":"..\/..\/images\/cats-dogs.jpg",
-			"slug":"cats-dogs"
 		},
 		{
 			"title":"American Pie Presents: The Book of Love",
@@ -278,9 +328,14 @@
 			"slug":"american-pie-presents-the-book-of-love"
 		},
 		{
-			"title":"Pinocchio",
-			"gatsby_image_path":"..\/..\/images\/pinocchio.jpg",
-			"slug":"pinocchio"
+			"title":"Cats & Dogs",
+			"gatsby_image_path":"..\/..\/images\/cats-dogs.jpg",
+			"slug":"cats-dogs"
+		},
+		{
+			"title":"Mickey's Tale of Two Witches",
+			"gatsby_image_path":"..\/..\/images\/mickey-s-tale-of-two-witches.jpg",
+			"slug":"mickey-s-tale-of-two-witches"
 		},
 		{
 			"title":"Looney Tunes: Back in Action",
@@ -293,9 +348,9 @@
 			"slug":"bumblebee"
 		},
 		{
-			"title":"The Fox and the Hound 2",
-			"gatsby_image_path":"..\/..\/images\/the-fox-and-the-hound-2.jpg",
-			"slug":"the-fox-and-the-hound-2"
+			"title":"Chucky's Vacation Slides",
+			"gatsby_image_path":"..\/..\/images\/chucky-s-vacation-slides.jpg",
+			"slug":"chucky-s-vacation-slides"
 		},
 		{
 			"title":"Alvin and the Chipmunks: The Squeakquel",
@@ -313,19 +368,19 @@
 			"slug":"the-secret-life-of-pets-2"
 		},
 		{
-			"title":"Stuart Little 2",
-			"gatsby_image_path":"..\/..\/images\/stuart-little-2.jpg",
-			"slug":"stuart-little-2"
+			"title":"Beethoven's Big Break",
+			"gatsby_image_path":"..\/..\/images\/beethoven-s-big-break.jpg",
+			"slug":"beethoven-s-big-break"
 		},
 		{
-			"title":"Barbie and the Magic of Pegasus 3-D",
-			"gatsby_image_path":"..\/..\/images\/barbie-and-the-magic-of-pegasus-3-d.jpg",
-			"slug":"barbie-and-the-magic-of-pegasus-3-d"
+			"title":"Son of the Mask",
+			"gatsby_image_path":"..\/..\/images\/son-of-the-mask.jpg",
+			"slug":"son-of-the-mask"
 		},
 		{
-			"title":"Goosebumps",
-			"gatsby_image_path":"..\/..\/images\/goosebumps.jpg",
-			"slug":"goosebumps"
+			"title":"The Fox and the Hound 2",
+			"gatsby_image_path":"..\/..\/images\/the-fox-and-the-hound-2.jpg",
+			"slug":"the-fox-and-the-hound-2"
 		},
 		{
 			"title":"Child's Play 2",
@@ -333,14 +388,14 @@
 			"slug":"child-s-play-2"
 		},
 		{
-			"title":"Toy Story",
-			"gatsby_image_path":"..\/..\/images\/toy-story.jpg",
-			"slug":"toy-story"
+			"title":"Barbie and the Magic of Pegasus 3-D",
+			"gatsby_image_path":"..\/..\/images\/barbie-and-the-magic-of-pegasus-3-d.jpg",
+			"slug":"barbie-and-the-magic-of-pegasus-3-d"
 		},
 		{
-			"title":"Harry Potter and the Philosopher's Stone",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher-s-stone.jpg",
-			"slug":"harry-potter-and-the-philosopher-s-stone"
+			"title":"Stuart Little 2",
+			"gatsby_image_path":"..\/..\/images\/stuart-little-2.jpg",
+			"slug":"stuart-little-2"
 		},
 		{
 			"title":"Madagascar 3: Europe's Most Wanted",
@@ -348,14 +403,9 @@
 			"slug":"madagascar-3-europe-s-most-wanted"
 		},
 		{
-			"title":"Harry Potter and the Goblet of Fire",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
-			"slug":"harry-potter-and-the-goblet-of-fire"
-		},
-		{
-			"title":"One Hundred and One Dalmatians",
-			"gatsby_image_path":"..\/..\/images\/one-hundred-and-one-dalmatians.jpg",
-			"slug":"one-hundred-and-one-dalmatians"
+			"title":"A Haunted House",
+			"gatsby_image_path":"..\/..\/images\/a-haunted-house.jpg",
+			"slug":"a-haunted-house"
 		}
 	],
 	"tmdb_id":5559,

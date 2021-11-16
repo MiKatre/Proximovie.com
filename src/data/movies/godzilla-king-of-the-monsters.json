@@ -76,6 +76,11 @@
 			"slug":"victor-frankenstein"
 		},
 		{
+			"title":"Underworld: Awakening",
+			"gatsby_image_path":"..\/..\/images\/underworld-awakening.jpg",
+			"slug":"underworld-awakening"
+		},
+		{
 			"title":"The Wolf of Wall Street",
 			"gatsby_image_path":"..\/..\/images\/the-wolf-of-wall-street.jpg",
 			"slug":"the-wolf-of-wall-street"
@@ -91,6 +96,11 @@
 			"slug":"the-nun"
 		},
 		{
+			"title":"The Many Saints of Newark",
+			"gatsby_image_path":"..\/..\/images\/the-many-saints-of-newark.jpg",
+			"slug":"the-many-saints-of-newark"
+		},
+		{
 			"title":"The Last Samurai",
 			"gatsby_image_path":"..\/..\/images\/the-last-samurai.jpg",
 			"slug":"the-last-samurai"
@@ -104,6 +114,46 @@
 			"title":"The Imitation Game",
 			"gatsby_image_path":"..\/..\/images\/the-imitation-game.jpg",
 			"slug":"the-imitation-game"
+		},
+		{
+			"title":"The Conjuring: The Devil Made Me Do It",
+			"gatsby_image_path":"..\/..\/images\/the-conjuring-the-devil-made-me-do-it.jpg",
+			"slug":"the-conjuring-the-devil-made-me-do-it"
+		},
+		{
+			"title":"The Conjuring",
+			"gatsby_image_path":"..\/..\/images\/the-conjuring.jpg",
+			"slug":"the-conjuring"
+		},
+		{
+			"title":"The Conjuring 2",
+			"gatsby_image_path":"..\/..\/images\/the-conjuring-2.jpg",
+			"slug":"the-conjuring-2"
+		},
+		{
+			"title":"The Commuter",
+			"gatsby_image_path":"..\/..\/images\/the-commuter.jpg",
+			"slug":"the-commuter"
+		},
+		{
+			"title":"The Cabin in the Woods",
+			"gatsby_image_path":"..\/..\/images\/the-cabin-in-the-woods.jpg",
+			"slug":"the-cabin-in-the-woods"
+		},
+		{
+			"title":"The Boy in the Striped Pyjamas",
+			"gatsby_image_path":"..\/..\/images\/the-boy-in-the-striped-pyjamas.jpg",
+			"slug":"the-boy-in-the-striped-pyjamas"
+		},
+		{
+			"title":"Super 8",
+			"gatsby_image_path":"..\/..\/images\/super-8.jpg",
+			"slug":"super-8"
+		},
+		{
+			"title":"Spencer",
+			"gatsby_image_path":"..\/..\/images\/spencer.jpg",
+			"slug":"spencer"
 		}
 	],
 	"related_most_similar":[
@@ -302,14 +352,14 @@
 			"slug":"naruto-shippuden-the-movie-the-will-of-fire"
 		},
 		{
-			"title":"Astro Boy",
-			"gatsby_image_path":"..\/..\/images\/astro-boy.jpg",
-			"slug":"astro-boy"
-		},
-		{
 			"title":"Dragon Ball Z: Fusion Reborn",
 			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-fusion-reborn.jpg",
 			"slug":"dragon-ball-z-fusion-reborn"
+		},
+		{
+			"title":"Dragon Ball Z: Bardock - The Father of Goku",
+			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-bardock-the-father-of-goku.jpg",
+			"slug":"dragon-ball-z-bardock-the-father-of-goku"
 		},
 		{
 			"title":"Sword Art Online: The Movie - Ordinal Scale",
@@ -317,9 +367,14 @@
 			"slug":"sword-art-online-the-movie-ordinal-scale"
 		},
 		{
-			"title":"Dragon Ball Z: Bardock - The Father of Goku",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-bardock-the-father-of-goku.jpg",
-			"slug":"dragon-ball-z-bardock-the-father-of-goku"
+			"title":"Astro Boy",
+			"gatsby_image_path":"..\/..\/images\/astro-boy.jpg",
+			"slug":"astro-boy"
+		},
+		{
+			"title":"Resident Evil: Welcome to Raccoon City",
+			"gatsby_image_path":"..\/..\/images\/resident-evil-welcome-to-raccoon-city.jpg",
+			"slug":"resident-evil-welcome-to-raccoon-city"
 		},
 		{
 			"title":"Naruto the Movie: Guardians of the Crescent Moon Kingdom",
@@ -332,14 +387,14 @@
 			"slug":"naruto-shippuden-the-movie-the-lost-tower"
 		},
 		{
-			"title":"Final Destination 5",
-			"gatsby_image_path":"..\/..\/images\/final-destination-5.jpg",
-			"slug":"final-destination-5"
-		},
-		{
 			"title":"Mobile Suit Gundam Hathaway",
 			"gatsby_image_path":"..\/..\/images\/mobile-suit-gundam-hathaway.jpg",
 			"slug":"mobile-suit-gundam-hathaway"
+		},
+		{
+			"title":"Final Destination 5",
+			"gatsby_image_path":"..\/..\/images\/final-destination-5.jpg",
+			"slug":"final-destination-5"
 		},
 		{
 			"title":"Dragon Ball Z: Battle of Gods",
@@ -347,19 +402,14 @@
 			"slug":"dragon-ball-z-battle-of-gods"
 		},
 		{
+			"title":"TEKKEN",
+			"gatsby_image_path":"..\/..\/images\/tekken.jpg",
+			"slug":"tekken"
+		},
+		{
 			"title":"Evangelion: 3.0 You Can (Not) Redo",
 			"gatsby_image_path":"..\/..\/images\/evangelion-3.0-you-can-not-redo.jpg",
 			"slug":"evangelion-3.0-you-can-not-redo"
-		},
-		{
-			"title":"Asura",
-			"gatsby_image_path":"..\/..\/images\/asura.jpg",
-			"slug":"asura"
-		},
-		{
-			"title":"No Game No Life: Zero",
-			"gatsby_image_path":"..\/..\/images\/no-game-no-life-zero.jpg",
-			"slug":"no-game-no-life-zero"
 		}
 	],
 	"tmdb_id":373571,

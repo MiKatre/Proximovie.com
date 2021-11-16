@@ -61,6 +61,11 @@
 			"slug":"once-upon-a-snowman"
 		},
 		{
+			"title":"Olaf's Frozen Adventure",
+			"gatsby_image_path":"..\/..\/images\/olaf-s-frozen-adventure.jpg",
+			"slug":"olaf-s-frozen-adventure"
+		},
+		{
 			"title":"Frozen II",
 			"gatsby_image_path":"..\/..\/images\/frozen-ii.jpg",
 			"slug":"frozen-ii"
@@ -99,6 +104,51 @@
 			"title":"The Angry Birds Movie 2",
 			"gatsby_image_path":"..\/..\/images\/the-angry-birds-movie-2.jpg",
 			"slug":"the-angry-birds-movie-2"
+		},
+		{
+			"title":"Teen Titans Go! To the Movies",
+			"gatsby_image_path":"..\/..\/images\/teen-titans-go-to-the-movies.jpg",
+			"slug":"teen-titans-go-to-the-movies"
+		},
+		{
+			"title":"Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog",
+			"gatsby_image_path":"..\/..\/images\/straight-outta-nowhere-scooby-doo-meets-courage-the-cowardly-dog.jpg",
+			"slug":"straight-outta-nowhere-scooby-doo-meets-courage-the-cowardly-dog"
+		},
+		{
+			"title":"Scooby-Doo! The Sword and the Scoob",
+			"gatsby_image_path":"..\/..\/images\/scooby-doo-the-sword-and-the-scoob.jpg",
+			"slug":"scooby-doo-the-sword-and-the-scoob"
+		},
+		{
+			"title":"Scooby-Doo! in Where's My Mummy?",
+			"gatsby_image_path":"..\/..\/images\/scooby-doo-in-where-s-my-mummy.jpg",
+			"slug":"scooby-doo-in-where-s-my-mummy"
+		},
+		{
+			"title":"Scooby-Doo! Curse of the Lake Monster",
+			"gatsby_image_path":"..\/..\/images\/scooby-doo-curse-of-the-lake-monster.jpg",
+			"slug":"scooby-doo-curse-of-the-lake-monster"
+		},
+		{
+			"title":"Scooby-Doo! and the Reluctant Werewolf",
+			"gatsby_image_path":"..\/..\/images\/scooby-doo-and-the-reluctant-werewolf.jpg",
+			"slug":"scooby-doo-and-the-reluctant-werewolf"
+		},
+		{
+			"title":"Scooby-Doo! and the Cyber Chase",
+			"gatsby_image_path":"..\/..\/images\/scooby-doo-and-the-cyber-chase.jpg",
+			"slug":"scooby-doo-and-the-cyber-chase"
+		},
+		{
+			"title":"Scoob!",
+			"gatsby_image_path":"..\/..\/images\/scoob.jpg",
+			"slug":"scoob"
+		},
+		{
+			"title":"Rogue One: A Star Wars Story",
+			"gatsby_image_path":"..\/..\/images\/rogue-one-a-star-wars-story.jpg",
+			"slug":"rogue-one-a-star-wars-story"
 		}
 	],
 	"related_most_similar":[
@@ -262,6 +312,11 @@
 			"slug":"anastasia"
 		},
 		{
+			"title":"Snow White and the Huntsman",
+			"gatsby_image_path":"..\/..\/images\/snow-white-and-the-huntsman.jpg",
+			"slug":"snow-white-and-the-huntsman"
+		},
+		{
 			"title":"Shrek 2",
 			"gatsby_image_path":"..\/..\/images\/shrek-2.jpg",
 			"slug":"shrek-2"
@@ -277,14 +332,14 @@
 			"slug":"saint-seiya-heaven-chapter-overture"
 		},
 		{
+			"title":"Cinderella",
+			"gatsby_image_path":"..\/..\/images\/cinderella.jpg",
+			"slug":"cinderella"
+		},
+		{
 			"title":"Fantastic Beasts: The Crimes of Grindelwald",
 			"gatsby_image_path":"..\/..\/images\/fantastic-beasts-the-crimes-of-grindelwald.jpg",
 			"slug":"fantastic-beasts-the-crimes-of-grindelwald"
-		},
-		{
-			"title":"Barbie in The 12 Dancing Princesses",
-			"gatsby_image_path":"..\/..\/images\/barbie-in-the-12-dancing-princesses.jpg",
-			"slug":"barbie-in-the-12-dancing-princesses"
 		},
 		{
 			"title":"Barbie Fairytopia: Magic of the Rainbow",
@@ -292,19 +347,19 @@
 			"slug":"barbie-fairytopia-magic-of-the-rainbow"
 		},
 		{
-			"title":"Sleeping Beauty",
-			"gatsby_image_path":"..\/..\/images\/sleeping-beauty.jpg",
-			"slug":"sleeping-beauty"
-		},
-		{
-			"title":"Ella Enchanted",
-			"gatsby_image_path":"..\/..\/images\/ella-enchanted.jpg",
-			"slug":"ella-enchanted"
-		},
-		{
 			"title":"Harry Potter and the Order of the Phoenix",
 			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-order-of-the-phoenix.jpg",
 			"slug":"harry-potter-and-the-order-of-the-phoenix"
+		},
+		{
+			"title":"Barbie in The 12 Dancing Princesses",
+			"gatsby_image_path":"..\/..\/images\/barbie-in-the-12-dancing-princesses.jpg",
+			"slug":"barbie-in-the-12-dancing-princesses"
+		},
+		{
+			"title":"Viking Quest",
+			"gatsby_image_path":"..\/..\/images\/viking-quest.jpg",
+			"slug":"viking-quest"
 		},
 		{
 			"title":"Harry Potter and the Philosopher's Stone",
@@ -312,14 +367,24 @@
 			"slug":"harry-potter-and-the-philosopher-s-stone"
 		},
 		{
+			"title":"The Last Warrior: Root of Evil",
+			"gatsby_image_path":"..\/..\/images\/the-last-warrior-root-of-evil.jpg",
+			"slug":"the-last-warrior-root-of-evil"
+		},
+		{
 			"title":"Harry Potter and the Half-Blood Prince",
 			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-half-blood-prince.jpg",
 			"slug":"harry-potter-and-the-half-blood-prince"
 		},
 		{
-			"title":"Frozen Fever",
-			"gatsby_image_path":"..\/..\/images\/frozen-fever.jpg",
-			"slug":"frozen-fever"
+			"title":"Ella Enchanted",
+			"gatsby_image_path":"..\/..\/images\/ella-enchanted.jpg",
+			"slug":"ella-enchanted"
+		},
+		{
+			"title":"Sleeping Beauty",
+			"gatsby_image_path":"..\/..\/images\/sleeping-beauty.jpg",
+			"slug":"sleeping-beauty"
 		},
 		{
 			"title":"Roald Dahl's The Witches",
@@ -337,24 +402,9 @@
 			"slug":"tinker-bell-and-the-lost-treasure"
 		},
 		{
-			"title":"Harry Potter and the Goblet of Fire",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
-			"slug":"harry-potter-and-the-goblet-of-fire"
-		},
-		{
-			"title":"Cinderella",
-			"gatsby_image_path":"..\/..\/images\/cinderella.jpg",
-			"slug":"cinderella"
-		},
-		{
-			"title":"The Hobbit: The Battle of the Five Armies",
-			"gatsby_image_path":"..\/..\/images\/the-hobbit-the-battle-of-the-five-armies.jpg",
-			"slug":"the-hobbit-the-battle-of-the-five-armies"
-		},
-		{
-			"title":"Maleficent",
-			"gatsby_image_path":"..\/..\/images\/maleficent.jpg",
-			"slug":"maleficent"
+			"title":"Bridge to Terabithia",
+			"gatsby_image_path":"..\/..\/images\/bridge-to-terabithia.jpg",
+			"slug":"bridge-to-terabithia"
 		}
 	],
 	"tmdb_id":109445,

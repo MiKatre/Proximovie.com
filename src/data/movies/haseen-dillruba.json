@@ -58,6 +58,11 @@
 			"slug":"zootopia"
 		},
 		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
 			"title":"Zombieland",
 			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
 			"slug":"zombieland"
@@ -88,7 +93,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name",
+			"title":"Your Name.",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -98,9 +103,54 @@
 			"slug":"young-sister-in-law-3-2019"
 		},
 		{
+			"title":"Young and Wild",
+			"gatsby_image_path":"..\/..\/images\/young-and-wild.jpg",
+			"slug":"young-and-wild"
+		},
+		{
+			"title":"Yes, No, or Maybe Half?",
+			"gatsby_image_path":"..\/..\/images\/yes-no-or-maybe-half.jpg",
+			"slug":"yes-no-or-maybe-half"
+		},
+		{
+			"title":"Yes Man",
+			"gatsby_image_path":"..\/..\/images\/yes-man.jpg",
+			"slug":"yes-man"
+		},
+		{
 			"title":"Yes Day",
 			"gatsby_image_path":"..\/..\/images\/yes-day.jpg",
 			"slug":"yes-day"
+		},
+		{
+			"title":"Year One",
+			"gatsby_image_path":"..\/..\/images\/year-one.jpg",
+			"slug":"year-one"
+		},
+		{
+			"title":"Yara",
+			"gatsby_image_path":"..\/..\/images\/yara.jpg",
+			"slug":"yara"
+		},
+		{
+			"title":"xXx: Return of Xander Cage",
+			"gatsby_image_path":"..\/..\/images\/xxx-return-of-xander-cage.jpg",
+			"slug":"xxx-return-of-xander-cage"
+		},
+		{
+			"title":"Xtreme",
+			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
+			"slug":"xtreme"
+		},
+		{
+			"title":"X-Men: Days of Future Past",
+			"gatsby_image_path":"..\/..\/images\/x-men-days-of-future-past.jpg",
+			"slug":"x-men-days-of-future-past"
+		},
+		{
+			"title":"X-Men: Apocalypse",
+			"gatsby_image_path":"..\/..\/images\/x-men-apocalypse.jpg",
+			"slug":"x-men-apocalypse"
 		}
 	],
 	"related_most_similar":[
@@ -269,14 +319,14 @@
 			"slug":"a-tale-of-two-sisters"
 		},
 		{
+			"title":"The Paperboy",
+			"gatsby_image_path":"..\/..\/images\/the-paperboy.jpg",
+			"slug":"the-paperboy"
+		},
+		{
 			"title":"The Fate of the Furious",
 			"gatsby_image_path":"..\/..\/images\/the-fate-of-the-furious.jpg",
 			"slug":"the-fate-of-the-furious"
-		},
-		{
-			"title":"Malcolm & Marie",
-			"gatsby_image_path":"..\/..\/images\/malcolm-marie.jpg",
-			"slug":"malcolm-marie"
 		},
 		{
 			"title":"Avengement",
@@ -284,14 +334,9 @@
 			"slug":"avengement"
 		},
 		{
-			"title":"The Equalizer 2",
-			"gatsby_image_path":"..\/..\/images\/the-equalizer-2.jpg",
-			"slug":"the-equalizer-2"
-		},
-		{
-			"title":"Bulbbul",
-			"gatsby_image_path":"..\/..\/images\/bulbbul.jpg",
-			"slug":"bulbbul"
+			"title":"Malcolm & Marie",
+			"gatsby_image_path":"..\/..\/images\/malcolm-marie.jpg",
+			"slug":"malcolm-marie"
 		},
 		{
 			"title":"The Foreigner",
@@ -299,14 +344,19 @@
 			"slug":"the-foreigner"
 		},
 		{
-			"title":"Gone Girl",
-			"gatsby_image_path":"..\/..\/images\/gone-girl.jpg",
-			"slug":"gone-girl"
+			"title":"The Equalizer 2",
+			"gatsby_image_path":"..\/..\/images\/the-equalizer-2.jpg",
+			"slug":"the-equalizer-2"
 		},
 		{
-			"title":"Black Box",
-			"gatsby_image_path":"..\/..\/images\/black-box.jpg",
-			"slug":"black-box"
+			"title":"Next-Door Nightmare",
+			"gatsby_image_path":"..\/..\/images\/next-door-nightmare.jpg",
+			"slug":"next-door-nightmare"
+		},
+		{
+			"title":"Bulbbul",
+			"gatsby_image_path":"..\/..\/images\/bulbbul.jpg",
+			"slug":"bulbbul"
 		},
 		{
 			"title":"Xtreme",
@@ -314,9 +364,29 @@
 			"slug":"xtreme"
 		},
 		{
-			"title":"Initiation",
-			"gatsby_image_path":"..\/..\/images\/initiation.jpg",
-			"slug":"initiation"
+			"title":"Gone Girl",
+			"gatsby_image_path":"..\/..\/images\/gone-girl.jpg",
+			"slug":"gone-girl"
+		},
+		{
+			"title":"After.Life",
+			"gatsby_image_path":"..\/..\/images\/after.life.jpg",
+			"slug":"after.life"
+		},
+		{
+			"title":"The Rover",
+			"gatsby_image_path":"..\/..\/images\/the-rover.jpg",
+			"slug":"the-rover"
+		},
+		{
+			"title":"Sweet Girl",
+			"gatsby_image_path":"..\/..\/images\/sweet-girl.jpg",
+			"slug":"sweet-girl"
+		},
+		{
+			"title":"Black Box",
+			"gatsby_image_path":"..\/..\/images\/black-box.jpg",
+			"slug":"black-box"
 		},
 		{
 			"title":"Hollow Point",
@@ -324,19 +394,9 @@
 			"slug":"hollow-point"
 		},
 		{
-			"title":"Bird Box",
-			"gatsby_image_path":"..\/..\/images\/bird-box.jpg",
-			"slug":"bird-box"
-		},
-		{
 			"title":"Between Worlds",
 			"gatsby_image_path":"..\/..\/images\/between-worlds.jpg",
 			"slug":"between-worlds"
-		},
-		{
-			"title":"Child's Play",
-			"gatsby_image_path":"..\/..\/images\/child-s-play.jpg",
-			"slug":"child-s-play"
 		},
 		{
 			"title":"Finding 'Ohana",
@@ -344,19 +404,9 @@
 			"slug":"finding-ohana"
 		},
 		{
-			"title":"Tentacles",
-			"gatsby_image_path":"..\/..\/images\/tentacles.jpg",
-			"slug":"tentacles"
-		},
-		{
-			"title":"No Mercy",
-			"gatsby_image_path":"..\/..\/images\/no-mercy.jpg",
-			"slug":"no-mercy"
-		},
-		{
-			"title":"Friday the 13th",
-			"gatsby_image_path":"..\/..\/images\/friday-the-13th.jpg",
-			"slug":"friday-the-13th"
+			"title":"Bird Box",
+			"gatsby_image_path":"..\/..\/images\/bird-box.jpg",
+			"slug":"bird-box"
 		}
 	],
 	"tmdb_id":695969,

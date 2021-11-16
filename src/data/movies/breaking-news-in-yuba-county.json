@@ -52,6 +52,11 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Wrong Turn",
+			"gatsby_image_path":"..\/..\/images\/wrong-turn.jpg",
+			"slug":"wrong-turn"
+		},
+		{
 			"title":"White House Down",
 			"gatsby_image_path":"..\/..\/images\/white-house-down.jpg",
 			"slug":"white-house-down"
@@ -60,6 +65,11 @@
 			"title":"The Help",
 			"gatsby_image_path":"..\/..\/images\/the-help.jpg",
 			"slug":"the-help"
+		},
+		{
+			"title":"The Hate U Give",
+			"gatsby_image_path":"..\/..\/images\/the-hate-u-give.jpg",
+			"slug":"the-hate-u-give"
 		},
 		{
 			"title":"The Dark Knight Rises",
@@ -72,9 +82,19 @@
 			"slug":"the-angry-birds-movie-2"
 		},
 		{
+			"title":"The Addams Family",
+			"gatsby_image_path":"..\/..\/images\/the-addams-family.jpg",
+			"slug":"the-addams-family"
+		},
+		{
 			"title":"Ted",
 			"gatsby_image_path":"..\/..\/images\/ted.jpg",
 			"slug":"ted"
+		},
+		{
+			"title":"Spy",
+			"gatsby_image_path":"..\/..\/images\/spy.jpg",
+			"slug":"spy"
 		},
 		{
 			"title":"Silk Road",
@@ -100,6 +120,36 @@
 			"title":"Scary Movie",
 			"gatsby_image_path":"..\/..\/images\/scary-movie.jpg",
 			"slug":"scary-movie"
+		},
+		{
+			"title":"Scary Movie 4",
+			"gatsby_image_path":"..\/..\/images\/scary-movie-4.jpg",
+			"slug":"scary-movie-4"
+		},
+		{
+			"title":"Scary Movie 3",
+			"gatsby_image_path":"..\/..\/images\/scary-movie-3.jpg",
+			"slug":"scary-movie-3"
+		},
+		{
+			"title":"Scary Movie 2",
+			"gatsby_image_path":"..\/..\/images\/scary-movie-2.jpg",
+			"slug":"scary-movie-2"
+		},
+		{
+			"title":"Rio",
+			"gatsby_image_path":"..\/..\/images\/rio.jpg",
+			"slug":"rio"
+		},
+		{
+			"title":"Raya and the Last Dragon",
+			"gatsby_image_path":"..\/..\/images\/raya-and-the-last-dragon.jpg",
+			"slug":"raya-and-the-last-dragon"
+		},
+		{
+			"title":"Ocean's Eight",
+			"gatsby_image_path":"..\/..\/images\/ocean-s-eight.jpg",
+			"slug":"ocean-s-eight"
 		}
 	],
 	"related_most_similar":[
@@ -263,14 +313,14 @@
 			"slug":"wrong-turn-6-last-resort"
 		},
 		{
+			"title":"The Heat",
+			"gatsby_image_path":"..\/..\/images\/the-heat.jpg",
+			"slug":"the-heat"
+		},
+		{
 			"title":"Death of Me",
 			"gatsby_image_path":"..\/..\/images\/death-of-me.jpg",
 			"slug":"death-of-me"
-		},
-		{
-			"title":"No Country for Old Men",
-			"gatsby_image_path":"..\/..\/images\/no-country-for-old-men.jpg",
-			"slug":"no-country-for-old-men"
 		},
 		{
 			"title":"God's Not Dead: A Light in Darkness",
@@ -283,6 +333,11 @@
 			"slug":"the-ring"
 		},
 		{
+			"title":"No Country for Old Men",
+			"gatsby_image_path":"..\/..\/images\/no-country-for-old-men.jpg",
+			"slug":"no-country-for-old-men"
+		},
+		{
 			"title":"Wild Things",
 			"gatsby_image_path":"..\/..\/images\/wild-things.jpg",
 			"slug":"wild-things"
@@ -291,6 +346,11 @@
 			"title":"Rust Creek",
 			"gatsby_image_path":"..\/..\/images\/rust-creek.jpg",
 			"slug":"rust-creek"
+		},
+		{
+			"title":"The Black Phone",
+			"gatsby_image_path":"..\/..\/images\/the-black-phone.jpg",
+			"slug":"the-black-phone"
 		},
 		{
 			"title":"The Red Sea Diving Resort",
@@ -308,19 +368,14 @@
 			"slug":"friday-the-13th-part-vi-jason-lives"
 		},
 		{
-			"title":"Believe Me: The Abduction of Lisa McVey",
-			"gatsby_image_path":"..\/..\/images\/believe-me-the-abduction-of-lisa-mcvey.jpg",
-			"slug":"believe-me-the-abduction-of-lisa-mcvey"
-		},
-		{
 			"title":"The Banana Splits Movie",
 			"gatsby_image_path":"..\/..\/images\/the-banana-splits-movie.jpg",
 			"slug":"the-banana-splits-movie"
 		},
 		{
-			"title":"The Happening",
-			"gatsby_image_path":"..\/..\/images\/the-happening.jpg",
-			"slug":"the-happening"
+			"title":"Believe Me: The Abduction of Lisa McVey",
+			"gatsby_image_path":"..\/..\/images\/believe-me-the-abduction-of-lisa-mcvey.jpg",
+			"slug":"believe-me-the-abduction-of-lisa-mcvey"
 		},
 		{
 			"title":"The Accountant",
@@ -328,14 +383,14 @@
 			"slug":"the-accountant"
 		},
 		{
-			"title":"Beast of Burden",
-			"gatsby_image_path":"..\/..\/images\/beast-of-burden.jpg",
-			"slug":"beast-of-burden"
+			"title":"The Happening",
+			"gatsby_image_path":"..\/..\/images\/the-happening.jpg",
+			"slug":"the-happening"
 		},
 		{
-			"title":"American Wedding",
-			"gatsby_image_path":"..\/..\/images\/american-wedding.jpg",
-			"slug":"american-wedding"
+			"title":"The Ugly Truth",
+			"gatsby_image_path":"..\/..\/images\/the-ugly-truth.jpg",
+			"slug":"the-ugly-truth"
 		},
 		{
 			"title":"Dogwashers",
@@ -343,19 +398,14 @@
 			"slug":"dogwashers"
 		},
 		{
+			"title":"Beast of Burden",
+			"gatsby_image_path":"..\/..\/images\/beast-of-burden.jpg",
+			"slug":"beast-of-burden"
+		},
+		{
 			"title":"Cars",
 			"gatsby_image_path":"..\/..\/images\/cars.jpg",
 			"slug":"cars"
-		},
-		{
-			"title":"Safe",
-			"gatsby_image_path":"..\/..\/images\/safe.jpg",
-			"slug":"safe"
-		},
-		{
-			"title":"Jeepers Creepers 2",
-			"gatsby_image_path":"..\/..\/images\/jeepers-creepers-2.jpg",
-			"slug":"jeepers-creepers-2"
 		}
 	],
 	"tmdb_id":556867,

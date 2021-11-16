@@ -59,6 +59,11 @@
 			"slug":"welcome-to-the-jungle"
 		},
 		{
+			"title":"The Exorcism of Emily Rose",
+			"gatsby_image_path":"..\/..\/images\/the-exorcism-of-emily-rose.jpg",
+			"slug":"the-exorcism-of-emily-rose"
+		},
+		{
 			"title":"The Darkest Minds",
 			"gatsby_image_path":"..\/..\/images\/the-darkest-minds.jpg",
 			"slug":"the-darkest-minds"
@@ -89,6 +94,11 @@
 			"slug":"shazam"
 		},
 		{
+			"title":"Scream 4",
+			"gatsby_image_path":"..\/..\/images\/scream-4.jpg",
+			"slug":"scream-4"
+		},
+		{
 			"title":"Promising Young Woman",
 			"gatsby_image_path":"..\/..\/images\/promising-young-woman.jpg",
 			"slug":"promising-young-woman"
@@ -99,9 +109,49 @@
 			"slug":"only-the-brave"
 		},
 		{
+			"title":"Monte Carlo",
+			"gatsby_image_path":"..\/..\/images\/monte-carlo.jpg",
+			"slug":"monte-carlo"
+		},
+		{
+			"title":"Lovelace",
+			"gatsby_image_path":"..\/..\/images\/lovelace.jpg",
+			"slug":"lovelace"
+		},
+		{
 			"title":"Jennifer's Body",
 			"gatsby_image_path":"..\/..\/images\/jennifer-s-body.jpg",
 			"slug":"jennifer-s-body"
+		},
+		{
+			"title":"How It Ends",
+			"gatsby_image_path":"..\/..\/images\/how-it-ends.jpg",
+			"slug":"how-it-ends"
+		},
+		{
+			"title":"Guns Akimbo",
+			"gatsby_image_path":"..\/..\/images\/guns-akimbo.jpg",
+			"slug":"guns-akimbo"
+		},
+		{
+			"title":"Arrival",
+			"gatsby_image_path":"..\/..\/images\/arrival.jpg",
+			"slug":"arrival"
+		},
+		{
+			"title":"Anon",
+			"gatsby_image_path":"..\/..\/images\/anon.jpg",
+			"slug":"anon"
+		},
+		{
+			"title":"100% Wolf",
+			"gatsby_image_path":"..\/..\/images\/100-%-wolf.jpg",
+			"slug":"100-%-wolf"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
 		}
 	],
 	"related_most_similar":[
@@ -265,9 +315,24 @@
 			"slug":"just-say-yes"
 		},
 		{
+			"title":"Suspiria",
+			"gatsby_image_path":"..\/..\/images\/suspiria.jpg",
+			"slug":"suspiria"
+		},
+		{
 			"title":"No Sudden Move",
 			"gatsby_image_path":"..\/..\/images\/no-sudden-move.jpg",
 			"slug":"no-sudden-move"
+		},
+		{
+			"title":"Solitary",
+			"gatsby_image_path":"..\/..\/images\/solitary.jpg",
+			"slug":"solitary"
+		},
+		{
+			"title":"After.Life",
+			"gatsby_image_path":"..\/..\/images\/after.life.jpg",
+			"slug":"after.life"
 		},
 		{
 			"title":"Red Dot",
@@ -275,14 +340,9 @@
 			"slug":"red-dot"
 		},
 		{
-			"title":"Avengement",
-			"gatsby_image_path":"..\/..\/images\/avengement.jpg",
-			"slug":"avengement"
-		},
-		{
-			"title":"Friday the 13th",
-			"gatsby_image_path":"..\/..\/images\/friday-the-13th.jpg",
-			"slug":"friday-the-13th"
+			"title":"Sweet Girl",
+			"gatsby_image_path":"..\/..\/images\/sweet-girl.jpg",
+			"slug":"sweet-girl"
 		},
 		{
 			"title":"The Commuter",
@@ -290,19 +350,9 @@
 			"slug":"the-commuter"
 		},
 		{
-			"title":"Xtreme",
-			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
-			"slug":"xtreme"
-		},
-		{
-			"title":"Bird Box",
-			"gatsby_image_path":"..\/..\/images\/bird-box.jpg",
-			"slug":"bird-box"
-		},
-		{
-			"title":"Jennifer's Body",
-			"gatsby_image_path":"..\/..\/images\/jennifer-s-body.jpg",
-			"slug":"jennifer-s-body"
+			"title":"Avengement",
+			"gatsby_image_path":"..\/..\/images\/avengement.jpg",
+			"slug":"avengement"
 		},
 		{
 			"title":"Unforgettable",
@@ -310,9 +360,29 @@
 			"slug":"unforgettable"
 		},
 		{
-			"title":"Welcome to the Jungle",
-			"gatsby_image_path":"..\/..\/images\/welcome-to-the-jungle.jpg",
-			"slug":"welcome-to-the-jungle"
+			"title":"Jennifer's Body",
+			"gatsby_image_path":"..\/..\/images\/jennifer-s-body.jpg",
+			"slug":"jennifer-s-body"
+		},
+		{
+			"title":"Friday the 13th Part VIII: Jason Takes Manhattan",
+			"gatsby_image_path":"..\/..\/images\/friday-the-13th-part-viii-jason-takes-manhattan.jpg",
+			"slug":"friday-the-13th-part-viii-jason-takes-manhattan"
+		},
+		{
+			"title":"Bird Box",
+			"gatsby_image_path":"..\/..\/images\/bird-box.jpg",
+			"slug":"bird-box"
+		},
+		{
+			"title":"Xtreme",
+			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
+			"slug":"xtreme"
+		},
+		{
+			"title":"Jigsaw",
+			"gatsby_image_path":"..\/..\/images\/jigsaw.jpg",
+			"slug":"jigsaw"
 		},
 		{
 			"title":"Gone Girl",
@@ -325,29 +395,9 @@
 			"slug":"swan-song"
 		},
 		{
-			"title":"Now You See Me",
-			"gatsby_image_path":"..\/..\/images\/now-you-see-me.jpg",
-			"slug":"now-you-see-me"
-		},
-		{
-			"title":"Black Box",
-			"gatsby_image_path":"..\/..\/images\/black-box.jpg",
-			"slug":"black-box"
-		},
-		{
-			"title":"12 Hour Shift",
-			"gatsby_image_path":"..\/..\/images\/12-hour-shift.jpg",
-			"slug":"12-hour-shift"
-		},
-		{
-			"title":"The Little Rascals",
-			"gatsby_image_path":"..\/..\/images\/the-little-rascals.jpg",
-			"slug":"the-little-rascals"
-		},
-		{
-			"title":"A Nun's Curse",
-			"gatsby_image_path":"..\/..\/images\/a-nun-s-curse.jpg",
-			"slug":"a-nun-s-curse"
+			"title":"Security",
+			"gatsby_image_path":"..\/..\/images\/security.jpg",
+			"slug":"security"
 		},
 		{
 			"title":"Semen Demon",
@@ -355,9 +405,9 @@
 			"slug":"semen-demon"
 		},
 		{
-			"title":"The 27-Hour Day",
-			"gatsby_image_path":"..\/..\/images\/the-27-hour-day.jpg",
-			"slug":"the-27-hour-day"
+			"title":"Welcome to the Jungle",
+			"gatsby_image_path":"..\/..\/images\/welcome-to-the-jungle.jpg",
+			"slug":"welcome-to-the-jungle"
 		}
 	],
 	"tmdb_id":567609,

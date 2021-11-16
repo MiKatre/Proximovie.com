@@ -55,11 +55,6 @@
 			"slug":"the-return-of-jafar"
 		},
 		{
-			"title":"Aladdin",
-			"gatsby_image_path":"..\/..\/images\/aladdin.jpg",
-			"slug":"aladdin"
-		},
-		{
 			"title":"The Road to El Dorado",
 			"gatsby_image_path":"..\/..\/images\/the-road-to-el-dorado.jpg",
 			"slug":"the-road-to-el-dorado"
@@ -98,6 +93,61 @@
 			"title":"The Lord of the Rings: The Two Towers",
 			"gatsby_image_path":"..\/..\/images\/the-lord-of-the-rings-the-two-towers.jpg",
 			"slug":"the-lord-of-the-rings-the-two-towers"
+		},
+		{
+			"title":"The Lord of the Rings: The Return of the King",
+			"gatsby_image_path":"..\/..\/images\/the-lord-of-the-rings-the-return-of-the-king.jpg",
+			"slug":"the-lord-of-the-rings-the-return-of-the-king"
+		},
+		{
+			"title":"The Lord of the Rings: The Fellowship of the Ring",
+			"gatsby_image_path":"..\/..\/images\/the-lord-of-the-rings-the-fellowship-of-the-ring.jpg",
+			"slug":"the-lord-of-the-rings-the-fellowship-of-the-ring"
+		},
+		{
+			"title":"The Lion King",
+			"gatsby_image_path":"..\/..\/images\/the-lion-king.jpg",
+			"slug":"the-lion-king"
+		},
+		{
+			"title":"The Lion King 1½",
+			"gatsby_image_path":"..\/..\/images\/the-lion-king-1-½.jpg",
+			"slug":"the-lion-king-1-½"
+		},
+		{
+			"title":"The Fox and the Hound 2",
+			"gatsby_image_path":"..\/..\/images\/the-fox-and-the-hound-2.jpg",
+			"slug":"the-fox-and-the-hound-2"
+		},
+		{
+			"title":"Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog",
+			"gatsby_image_path":"..\/..\/images\/straight-outta-nowhere-scooby-doo-meets-courage-the-cowardly-dog.jpg",
+			"slug":"straight-outta-nowhere-scooby-doo-meets-courage-the-cowardly-dog"
+		},
+		{
+			"title":"Sinbad: Legend of the Seven Seas",
+			"gatsby_image_path":"..\/..\/images\/sinbad-legend-of-the-seven-seas.jpg",
+			"slug":"sinbad-legend-of-the-seven-seas"
+		},
+		{
+			"title":"Shrek",
+			"gatsby_image_path":"..\/..\/images\/shrek.jpg",
+			"slug":"shrek"
+		},
+		{
+			"title":"Scooby-Doo! The Sword and the Scoob",
+			"gatsby_image_path":"..\/..\/images\/scooby-doo-the-sword-and-the-scoob.jpg",
+			"slug":"scooby-doo-the-sword-and-the-scoob"
+		},
+		{
+			"title":"Scooby-Doo! in Where's My Mummy?",
+			"gatsby_image_path":"..\/..\/images\/scooby-doo-in-where-s-my-mummy.jpg",
+			"slug":"scooby-doo-in-where-s-my-mummy"
+		},
+		{
+			"title":"Scooby-Doo! Curse of the Lake Monster",
+			"gatsby_image_path":"..\/..\/images\/scooby-doo-curse-of-the-lake-monster.jpg",
+			"slug":"scooby-doo-curse-of-the-lake-monster"
 		}
 	],
 	"related_most_similar":[
@@ -256,24 +306,19 @@
 	],
 	"related_by_overview":[
 		{
-			"title":"Bayala: A Magical Adventure",
-			"gatsby_image_path":"..\/..\/images\/bayala-a-magical-adventure.jpg",
-			"slug":"bayala-a-magical-adventure"
-		},
-		{
 			"title":"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
 			"gatsby_image_path":"..\/..\/images\/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.jpg",
 			"slug":"the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe"
 		},
 		{
-			"title":"Animal Crackers",
-			"gatsby_image_path":"..\/..\/images\/animal-crackers.jpg",
-			"slug":"animal-crackers"
-		},
-		{
 			"title":"Madagascar",
 			"gatsby_image_path":"..\/..\/images\/madagascar.jpg",
 			"slug":"madagascar"
+		},
+		{
+			"title":"Bayala: A Magical Adventure",
+			"gatsby_image_path":"..\/..\/images\/bayala-a-magical-adventure.jpg",
+			"slug":"bayala-a-magical-adventure"
 		},
 		{
 			"title":"Penguin Bloom",
@@ -286,9 +331,9 @@
 			"slug":"jeepers-creepers-3"
 		},
 		{
-			"title":"Night at the Museum: Secret of the Tomb",
-			"gatsby_image_path":"..\/..\/images\/night-at-the-museum-secret-of-the-tomb.jpg",
-			"slug":"night-at-the-museum-secret-of-the-tomb"
+			"title":"Aladdin",
+			"gatsby_image_path":"..\/..\/images\/aladdin.jpg",
+			"slug":"aladdin"
 		},
 		{
 			"title":"The Angry Birds Movie 2",
@@ -296,9 +341,14 @@
 			"slug":"the-angry-birds-movie-2"
 		},
 		{
-			"title":"Flora & Ulysses",
-			"gatsby_image_path":"..\/..\/images\/flora-ulysses.jpg",
-			"slug":"flora-ulysses"
+			"title":"Animal Crackers",
+			"gatsby_image_path":"..\/..\/images\/animal-crackers.jpg",
+			"slug":"animal-crackers"
+		},
+		{
+			"title":"Night at the Museum: Secret of the Tomb",
+			"gatsby_image_path":"..\/..\/images\/night-at-the-museum-secret-of-the-tomb.jpg",
+			"slug":"night-at-the-museum-secret-of-the-tomb"
 		},
 		{
 			"title":"The Chronicles of Narnia: Prince Caspian",
@@ -306,9 +356,14 @@
 			"slug":"the-chronicles-of-narnia-prince-caspian"
 		},
 		{
-			"title":"Sinbad: Legend of the Seven Seas",
-			"gatsby_image_path":"..\/..\/images\/sinbad-legend-of-the-seven-seas.jpg",
-			"slug":"sinbad-legend-of-the-seven-seas"
+			"title":"Flora & Ulysses",
+			"gatsby_image_path":"..\/..\/images\/flora-ulysses.jpg",
+			"slug":"flora-ulysses"
+		},
+		{
+			"title":"Descendants: The Royal Wedding",
+			"gatsby_image_path":"..\/..\/images\/descendants-the-royal-wedding.jpg",
+			"slug":"descendants-the-royal-wedding"
 		},
 		{
 			"title":"Bad Sister",
@@ -326,34 +381,29 @@
 			"slug":"pan-s-labyrinth"
 		},
 		{
-			"title":"A Trash Truck Christmas",
-			"gatsby_image_path":"..\/..\/images\/a-trash-truck-christmas.jpg",
-			"slug":"a-trash-truck-christmas"
+			"title":"Cirque du Freak: The Vampire's Assistant",
+			"gatsby_image_path":"..\/..\/images\/cirque-du-freak-the-vampire-s-assistant.jpg",
+			"slug":"cirque-du-freak-the-vampire-s-assistant"
+		},
+		{
+			"title":"Sinbad: Legend of the Seven Seas",
+			"gatsby_image_path":"..\/..\/images\/sinbad-legend-of-the-seven-seas.jpg",
+			"slug":"sinbad-legend-of-the-seven-seas"
+		},
+		{
+			"title":"The Peanuts Movie",
+			"gatsby_image_path":"..\/..\/images\/the-peanuts-movie.jpg",
+			"slug":"the-peanuts-movie"
+		},
+		{
+			"title":"Night at the Museum: Battle of the Smithsonian",
+			"gatsby_image_path":"..\/..\/images\/night-at-the-museum-battle-of-the-smithsonian.jpg",
+			"slug":"night-at-the-museum-battle-of-the-smithsonian"
 		},
 		{
 			"title":"Journey 2: The Mysterious Island",
 			"gatsby_image_path":"..\/..\/images\/journey-2-the-mysterious-island.jpg",
 			"slug":"journey-2-the-mysterious-island"
-		},
-		{
-			"title":"Donnie Darko",
-			"gatsby_image_path":"..\/..\/images\/donnie-darko.jpg",
-			"slug":"donnie-darko"
-		},
-		{
-			"title":"Happy Death Day",
-			"gatsby_image_path":"..\/..\/images\/happy-death-day.jpg",
-			"slug":"happy-death-day"
-		},
-		{
-			"title":"Secret of the Wings",
-			"gatsby_image_path":"..\/..\/images\/secret-of-the-wings.jpg",
-			"slug":"secret-of-the-wings"
-		},
-		{
-			"title":"Coming 2 America",
-			"gatsby_image_path":"..\/..\/images\/coming-2-america.jpg",
-			"slug":"coming-2-america"
 		}
 	],
 	"tmdb_id":11238,

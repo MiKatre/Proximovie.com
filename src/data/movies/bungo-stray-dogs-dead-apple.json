@@ -65,14 +65,14 @@
 			"slug":"kuroko-no-basket-movie-1-winter-cup-soushuuhen-kage-to-hikari"
 		},
 		{
-			"title":"Twilight",
-			"gatsby_image_path":"..\/..\/images\/twilight.jpg",
-			"slug":"twilight"
-		},
-		{
 			"title":"The Seven Deadly Sins the Movie: Cursed by Light",
 			"gatsby_image_path":"..\/..\/images\/the-seven-deadly-sins-the-movie-cursed-by-light.jpg",
 			"slug":"the-seven-deadly-sins-the-movie-cursed-by-light"
+		},
+		{
+			"title":"The Seven Deadly Sins: Cursed by Light",
+			"gatsby_image_path":"..\/..\/images\/the-seven-deadly-sins-cursed-by-light.jpg",
+			"slug":"the-seven-deadly-sins-cursed-by-light"
 		},
 		{
 			"title":"The Last: Naruto the Movie",
@@ -98,6 +98,56 @@
 			"title":"Promare",
 			"gatsby_image_path":"..\/..\/images\/promare.jpg",
 			"slug":"promare"
+		},
+		{
+			"title":"Naruto the Movie: Legend of the Stone of Gelel",
+			"gatsby_image_path":"..\/..\/images\/naruto-the-movie-legend-of-the-stone-of-gelel.jpg",
+			"slug":"naruto-the-movie-legend-of-the-stone-of-gelel"
+		},
+		{
+			"title":"Naruto Shippuden the Movie: The Lost Tower",
+			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-the-lost-tower.jpg",
+			"slug":"naruto-shippuden-the-movie-the-lost-tower"
+		},
+		{
+			"title":"Naruto Shippuden the Movie: Bonds",
+			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-bonds.jpg",
+			"slug":"naruto-shippuden-the-movie-bonds"
+		},
+		{
+			"title":"Naruto Shippuden the Movie: Blood Prison",
+			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-blood-prison.jpg",
+			"slug":"naruto-shippuden-the-movie-blood-prison"
+		},
+		{
+			"title":"Mobile Suit Gundam Hathaway",
+			"gatsby_image_path":"..\/..\/images\/mobile-suit-gundam-hathaway.jpg",
+			"slug":"mobile-suit-gundam-hathaway"
+		},
+		{
+			"title":"Maquia: When the Promised Flower Blooms",
+			"gatsby_image_path":"..\/..\/images\/maquia-when-the-promised-flower-blooms.jpg",
+			"slug":"maquia-when-the-promised-flower-blooms"
+		},
+		{
+			"title":"Kuroko no Basket Movie 3: Winter Cup Soushuuhen - Tobira no Mukou",
+			"gatsby_image_path":"..\/..\/images\/kuroko-no-basket-movie-3-winter-cup-soushuuhen-tobira-no-mukou.jpg",
+			"slug":"kuroko-no-basket-movie-3-winter-cup-soushuuhen-tobira-no-mukou"
+		},
+		{
+			"title":"KonoSuba: God's Blessing on this Wonderful World! Legend of Crimson",
+			"gatsby_image_path":"..\/..\/images\/konosuba-god-s-blessing-on-this-wonderful-world-legend-of-crimson.jpg",
+			"slug":"konosuba-god-s-blessing-on-this-wonderful-world-legend-of-crimson"
+		},
+		{
+			"title":"Kabaneri of the Iron Fortress: The Battle of Unato",
+			"gatsby_image_path":"..\/..\/images\/kabaneri-of-the-iron-fortress-the-battle-of-unato.jpg",
+			"slug":"kabaneri-of-the-iron-fortress-the-battle-of-unato"
+		},
+		{
+			"title":"Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion",
+			"gatsby_image_path":"..\/..\/images\/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-arrow-of-the-orion.jpg",
+			"slug":"is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-arrow-of-the-orion"
 		}
 	],
 	"related_most_similar":[
@@ -266,6 +316,11 @@
 			"slug":"evangelion-1.0-you-are-not-alone"
 		},
 		{
+			"title":"TEKKEN",
+			"gatsby_image_path":"..\/..\/images\/tekken.jpg",
+			"slug":"tekken"
+		},
+		{
 			"title":"Naruto the Movie: Guardians of the Crescent Moon Kingdom",
 			"gatsby_image_path":"..\/..\/images\/naruto-the-movie-guardians-of-the-crescent-moon-kingdom.jpg",
 			"slug":"naruto-the-movie-guardians-of-the-crescent-moon-kingdom"
@@ -291,24 +346,29 @@
 			"slug":"sword-art-online-the-movie-ordinal-scale"
 		},
 		{
-			"title":"Naruto Shippuden the Movie: The Will of Fire",
-			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-the-will-of-fire.jpg",
-			"slug":"naruto-shippuden-the-movie-the-will-of-fire"
-		},
-		{
 			"title":"Naruto Shippuden the Movie: The Lost Tower",
 			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-the-lost-tower.jpg",
 			"slug":"naruto-shippuden-the-movie-the-lost-tower"
 		},
 		{
-			"title":"Rurouni Kenshin Part II: Kyoto Inferno",
-			"gatsby_image_path":"..\/..\/images\/rurouni-kenshin-part-ii-kyoto-inferno.jpg",
-			"slug":"rurouni-kenshin-part-ii-kyoto-inferno"
+			"title":"Naruto Shippuden the Movie: The Will of Fire",
+			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-the-will-of-fire.jpg",
+			"slug":"naruto-shippuden-the-movie-the-will-of-fire"
 		},
 		{
 			"title":"Dragon Ball Z: The World's Strongest",
 			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-the-world-s-strongest.jpg",
 			"slug":"dragon-ball-z-the-world-s-strongest"
+		},
+		{
+			"title":"My Hero Academia: Two Heroes",
+			"gatsby_image_path":"..\/..\/images\/my-hero-academia-two-heroes.jpg",
+			"slug":"my-hero-academia-two-heroes"
+		},
+		{
+			"title":"Rurouni Kenshin Part II: Kyoto Inferno",
+			"gatsby_image_path":"..\/..\/images\/rurouni-kenshin-part-ii-kyoto-inferno.jpg",
+			"slug":"rurouni-kenshin-part-ii-kyoto-inferno"
 		},
 		{
 			"title":"KonoSuba: God's Blessing on this Wonderful World! Legend of Crimson",
@@ -326,14 +386,9 @@
 			"slug":"princess-mononoke"
 		},
 		{
-			"title":"My Hero Academia: Two Heroes",
-			"gatsby_image_path":"..\/..\/images\/my-hero-academia-two-heroes.jpg",
-			"slug":"my-hero-academia-two-heroes"
-		},
-		{
-			"title":"Mortal Kombat Legends: Scorpion's Revenge",
-			"gatsby_image_path":"..\/..\/images\/mortal-kombat-legends-scorpion-s-revenge.jpg",
-			"slug":"mortal-kombat-legends-scorpion-s-revenge"
+			"title":"Naruto Shippuden the Movie: Bonds",
+			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-bonds.jpg",
+			"slug":"naruto-shippuden-the-movie-bonds"
 		},
 		{
 			"title":"Cencoroll Connect",
@@ -341,19 +396,14 @@
 			"slug":"cencoroll-connect"
 		},
 		{
-			"title":"Naruto Shippuden the Movie: Bonds",
-			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-bonds.jpg",
-			"slug":"naruto-shippuden-the-movie-bonds"
+			"title":"Mortal Kombat Legends: Scorpion's Revenge",
+			"gatsby_image_path":"..\/..\/images\/mortal-kombat-legends-scorpion-s-revenge.jpg",
+			"slug":"mortal-kombat-legends-scorpion-s-revenge"
 		},
 		{
-			"title":"Dragon Ball Z: Bio-Broly",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-bio-broly.jpg",
-			"slug":"dragon-ball-z-bio-broly"
-		},
-		{
-			"title":"Dragon Ball Super: Broly",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-super-broly.jpg",
-			"slug":"dragon-ball-super-broly"
+			"title":"Kuroko's Basketball the Movie: Last Game",
+			"gatsby_image_path":"..\/..\/images\/kuroko-s-basketball-the-movie-last-game.jpg",
+			"slug":"kuroko-s-basketball-the-movie-last-game"
 		}
 	],
 	"tmdb_id":483455,

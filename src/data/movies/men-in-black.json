@@ -68,6 +68,11 @@
 			"slug":"the-magnificent-seven"
 		},
 		{
+			"title":"The Last Survivors",
+			"gatsby_image_path":"..\/..\/images\/the-last-survivors.jpg",
+			"slug":"the-last-survivors"
+		},
+		{
 			"title":"The Comeback Trail",
 			"gatsby_image_path":"..\/..\/images\/the-comeback-trail.jpg",
 			"slug":"the-comeback-trail"
@@ -88,6 +93,11 @@
 			"slug":"taken-2"
 		},
 		{
+			"title":"Suicide Squad",
+			"gatsby_image_path":"..\/..\/images\/suicide-squad.jpg",
+			"slug":"suicide-squad"
+		},
+		{
 			"title":"Spy Kids",
 			"gatsby_image_path":"..\/..\/images\/spy-kids.jpg",
 			"slug":"spy-kids"
@@ -101,6 +111,46 @@
 			"title":"Sinister",
 			"gatsby_image_path":"..\/..\/images\/sinister.jpg",
 			"slug":"sinister"
+		},
+		{
+			"title":"Shark Tale",
+			"gatsby_image_path":"..\/..\/images\/shark-tale.jpg",
+			"slug":"shark-tale"
+		},
+		{
+			"title":"Rings",
+			"gatsby_image_path":"..\/..\/images\/rings.jpg",
+			"slug":"rings"
+		},
+		{
+			"title":"Pain & Gain",
+			"gatsby_image_path":"..\/..\/images\/pain-gain.jpg",
+			"slug":"pain-gain"
+		},
+		{
+			"title":"No Country for Old Men",
+			"gatsby_image_path":"..\/..\/images\/no-country-for-old-men.jpg",
+			"slug":"no-country-for-old-men"
+		},
+		{
+			"title":"Mechanic: Resurrection",
+			"gatsby_image_path":"..\/..\/images\/mechanic-resurrection.jpg",
+			"slug":"mechanic-resurrection"
+		},
+		{
+			"title":"King Richard",
+			"gatsby_image_path":"..\/..\/images\/king-richard.jpg",
+			"slug":"king-richard"
+		},
+		{
+			"title":"Jurassic World",
+			"gatsby_image_path":"..\/..\/images\/jurassic-world.jpg",
+			"slug":"jurassic-world"
+		},
+		{
+			"title":"Independence Day",
+			"gatsby_image_path":"..\/..\/images\/independence-day.jpg",
+			"slug":"independence-day"
 		}
 	],
 	"related_most_similar":[
@@ -274,9 +324,29 @@
 			"slug":"blade-runner-2049"
 		},
 		{
+			"title":"A Good Day to Die Hard",
+			"gatsby_image_path":"..\/..\/images\/a-good-day-to-die-hard.jpg",
+			"slug":"a-good-day-to-die-hard"
+		},
+		{
+			"title":"Independence Daysaster",
+			"gatsby_image_path":"..\/..\/images\/independence-daysaster.jpg",
+			"slug":"independence-daysaster"
+		},
+		{
+			"title":"Miss March",
+			"gatsby_image_path":"..\/..\/images\/miss-march.jpg",
+			"slug":"miss-march"
+		},
+		{
 			"title":"Pirates of the Caribbean: On Stranger Tides",
 			"gatsby_image_path":"..\/..\/images\/pirates-of-the-caribbean-on-stranger-tides.jpg",
 			"slug":"pirates-of-the-caribbean-on-stranger-tides"
+		},
+		{
+			"title":"Sleepy Hollow",
+			"gatsby_image_path":"..\/..\/images\/sleepy-hollow.jpg",
+			"slug":"sleepy-hollow"
 		},
 		{
 			"title":"Kingsman: The Golden Circle",
@@ -284,9 +354,9 @@
 			"slug":"kingsman-the-golden-circle"
 		},
 		{
-			"title":"The Autopsy of Jane Doe",
-			"gatsby_image_path":"..\/..\/images\/the-autopsy-of-jane-doe.jpg",
-			"slug":"the-autopsy-of-jane-doe"
+			"title":"Ghostbusters",
+			"gatsby_image_path":"..\/..\/images\/ghostbusters.jpg",
+			"slug":"ghostbusters"
 		},
 		{
 			"title":"Harry Potter and the Deathly Hallows: Part 1",
@@ -294,9 +364,14 @@
 			"slug":"harry-potter-and-the-deathly-hallows-part-1"
 		},
 		{
-			"title":"Doom: Annihilation",
-			"gatsby_image_path":"..\/..\/images\/doom-annihilation.jpg",
-			"slug":"doom-annihilation"
+			"title":"Underworld: Awakening",
+			"gatsby_image_path":"..\/..\/images\/underworld-awakening.jpg",
+			"slug":"underworld-awakening"
+		},
+		{
+			"title":"The Autopsy of Jane Doe",
+			"gatsby_image_path":"..\/..\/images\/the-autopsy-of-jane-doe.jpg",
+			"slug":"the-autopsy-of-jane-doe"
 		},
 		{
 			"title":"Freddy vs. Jason",
@@ -304,24 +379,19 @@
 			"slug":"freddy-vs.-jason"
 		},
 		{
+			"title":"Doom: Annihilation",
+			"gatsby_image_path":"..\/..\/images\/doom-annihilation.jpg",
+			"slug":"doom-annihilation"
+		},
+		{
+			"title":"Emperor",
+			"gatsby_image_path":"..\/..\/images\/emperor.jpg",
+			"slug":"emperor"
+		},
+		{
 			"title":"Maze Runner: The Scorch Trials",
 			"gatsby_image_path":"..\/..\/images\/maze-runner-the-scorch-trials.jpg",
 			"slug":"maze-runner-the-scorch-trials"
-		},
-		{
-			"title":"Return of the Living Dead III",
-			"gatsby_image_path":"..\/..\/images\/return-of-the-living-dead-iii.jpg",
-			"slug":"return-of-the-living-dead-iii"
-		},
-		{
-			"title":"Constantine",
-			"gatsby_image_path":"..\/..\/images\/constantine.jpg",
-			"slug":"constantine"
-		},
-		{
-			"title":"Ghostbusters",
-			"gatsby_image_path":"..\/..\/images\/ghostbusters.jpg",
-			"slug":"ghostbusters"
 		},
 		{
 			"title":"Singularity",
@@ -329,34 +399,14 @@
 			"slug":"singularity"
 		},
 		{
+			"title":"Constantine",
+			"gatsby_image_path":"..\/..\/images\/constantine.jpg",
+			"slug":"constantine"
+		},
+		{
 			"title":"Star Wars: The Rise of Skywalker",
 			"gatsby_image_path":"..\/..\/images\/star-wars-the-rise-of-skywalker.jpg",
 			"slug":"star-wars-the-rise-of-skywalker"
-		},
-		{
-			"title":"Pets United",
-			"gatsby_image_path":"..\/..\/images\/pets-united.jpg",
-			"slug":"pets-united"
-		},
-		{
-			"title":"The Incredible Hulk",
-			"gatsby_image_path":"..\/..\/images\/the-incredible-hulk.jpg",
-			"slug":"the-incredible-hulk"
-		},
-		{
-			"title":"Snowpiercer",
-			"gatsby_image_path":"..\/..\/images\/snowpiercer.jpg",
-			"slug":"snowpiercer"
-		},
-		{
-			"title":"Secret Society of Second Born Royals",
-			"gatsby_image_path":"..\/..\/images\/secret-society-of-second-born-royals.jpg",
-			"slug":"secret-society-of-second-born-royals"
-		},
-		{
-			"title":"Batman v Superman: Dawn of Justice",
-			"gatsby_image_path":"..\/..\/images\/batman-v-superman-dawn-of-justice.jpg",
-			"slug":"batman-v-superman-dawn-of-justice"
 		}
 	],
 	"tmdb_id":607,

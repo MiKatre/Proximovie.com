@@ -51,6 +51,16 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Scream 4",
+			"gatsby_image_path":"..\/..\/images\/scream-4.jpg",
+			"slug":"scream-4"
+		},
+		{
+			"title":"The Craft",
+			"gatsby_image_path":"..\/..\/images\/the-craft.jpg",
+			"slug":"the-craft"
+		},
+		{
 			"title":"Wild Things",
 			"gatsby_image_path":"..\/..\/images\/wild-things.jpg",
 			"slug":"wild-things"
@@ -86,6 +96,16 @@
 			"slug":"the-adventures-of-sharkboy-and-lavagirl"
 		},
 		{
+			"title":"Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog",
+			"gatsby_image_path":"..\/..\/images\/straight-outta-nowhere-scooby-doo-meets-courage-the-cowardly-dog.jpg",
+			"slug":"straight-outta-nowhere-scooby-doo-meets-courage-the-cowardly-dog"
+		},
+		{
+			"title":"Son of the Mask",
+			"gatsby_image_path":"..\/..\/images\/son-of-the-mask.jpg",
+			"slug":"son-of-the-mask"
+		},
+		{
 			"title":"Skyscraper",
 			"gatsby_image_path":"..\/..\/images\/skyscraper.jpg",
 			"slug":"skyscraper"
@@ -99,6 +119,36 @@
 			"title":"Scooby-Doo! The Sword and the Scoob",
 			"gatsby_image_path":"..\/..\/images\/scooby-doo-the-sword-and-the-scoob.jpg",
 			"slug":"scooby-doo-the-sword-and-the-scoob"
+		},
+		{
+			"title":"Scooby-Doo",
+			"gatsby_image_path":"..\/..\/images\/scooby-doo.jpg",
+			"slug":"scooby-doo"
+		},
+		{
+			"title":"Scooby-Doo 2: Monsters Unleashed",
+			"gatsby_image_path":"..\/..\/images\/scooby-doo-2-monsters-unleashed.jpg",
+			"slug":"scooby-doo-2-monsters-unleashed"
+		},
+		{
+			"title":"No Man of God",
+			"gatsby_image_path":"..\/..\/images\/no-man-of-god.jpg",
+			"slug":"no-man-of-god"
+		},
+		{
+			"title":"He's Just Not That Into You",
+			"gatsby_image_path":"..\/..\/images\/he-s-just-not-that-into-you.jpg",
+			"slug":"he-s-just-not-that-into-you"
+		},
+		{
+			"title":"He's All That",
+			"gatsby_image_path":"..\/..\/images\/he-s-all-that.jpg",
+			"slug":"he-s-all-that"
+		},
+		{
+			"title":"Happy Halloween, Scooby-Doo!",
+			"gatsby_image_path":"..\/..\/images\/happy-halloween-scooby-doo.jpg",
+			"slug":"happy-halloween-scooby-doo"
 		}
 	],
 	"related_most_similar":[
@@ -272,19 +322,19 @@
 			"slug":"ghostbusters-afterlife"
 		},
 		{
-			"title":"Donnie Darko",
-			"gatsby_image_path":"..\/..\/images\/donnie-darko.jpg",
-			"slug":"donnie-darko"
-		},
-		{
 			"title":"Wicked Minds",
 			"gatsby_image_path":"..\/..\/images\/wicked-minds.jpg",
 			"slug":"wicked-minds"
 		},
 		{
-			"title":"Return of the Living Dead III",
-			"gatsby_image_path":"..\/..\/images\/return-of-the-living-dead-iii.jpg",
-			"slug":"return-of-the-living-dead-iii"
+			"title":"Child's Play",
+			"gatsby_image_path":"..\/..\/images\/child-s-play.jpg",
+			"slug":"child-s-play"
+		},
+		{
+			"title":"Donnie Darko",
+			"gatsby_image_path":"..\/..\/images\/donnie-darko.jpg",
+			"slug":"donnie-darko"
 		},
 		{
 			"title":"The Texas Chainsaw Massacre",
@@ -292,14 +342,24 @@
 			"slug":"the-texas-chainsaw-massacre"
 		},
 		{
-			"title":"Friday the 13th: The Final Chapter",
-			"gatsby_image_path":"..\/..\/images\/friday-the-13th-the-final-chapter.jpg",
-			"slug":"friday-the-13th-the-final-chapter"
-		},
-		{
 			"title":"Sucker Punch",
 			"gatsby_image_path":"..\/..\/images\/sucker-punch.jpg",
 			"slug":"sucker-punch"
+		},
+		{
+			"title":"Return of the Living Dead III",
+			"gatsby_image_path":"..\/..\/images\/return-of-the-living-dead-iii.jpg",
+			"slug":"return-of-the-living-dead-iii"
+		},
+		{
+			"title":"Malignant",
+			"gatsby_image_path":"..\/..\/images\/malignant.jpg",
+			"slug":"malignant"
+		},
+		{
+			"title":"Friday the 13th: The Final Chapter",
+			"gatsby_image_path":"..\/..\/images\/friday-the-13th-the-final-chapter.jpg",
+			"slug":"friday-the-13th-the-final-chapter"
 		},
 		{
 			"title":"The Final Destination",
@@ -322,9 +382,9 @@
 			"slug":"tomb-invader"
 		},
 		{
-			"title":"Ghostbusters",
-			"gatsby_image_path":"..\/..\/images\/ghostbusters.jpg",
-			"slug":"ghostbusters"
+			"title":"Carrie",
+			"gatsby_image_path":"..\/..\/images\/carrie.jpg",
+			"slug":"carrie"
 		},
 		{
 			"title":"Sacrifice",
@@ -332,19 +392,9 @@
 			"slug":"sacrifice"
 		},
 		{
-			"title":"The Autopsy of Jane Doe",
-			"gatsby_image_path":"..\/..\/images\/the-autopsy-of-jane-doe.jpg",
-			"slug":"the-autopsy-of-jane-doe"
-		},
-		{
-			"title":"Inglourious Basterds",
-			"gatsby_image_path":"..\/..\/images\/inglourious-basterds.jpg",
-			"slug":"inglourious-basterds"
-		},
-		{
-			"title":"Happy Death Day",
-			"gatsby_image_path":"..\/..\/images\/happy-death-day.jpg",
-			"slug":"happy-death-day"
+			"title":"Ghostbusters",
+			"gatsby_image_path":"..\/..\/images\/ghostbusters.jpg",
+			"slug":"ghostbusters"
 		},
 		{
 			"title":"The Conjuring",
@@ -352,9 +402,9 @@
 			"slug":"the-conjuring"
 		},
 		{
-			"title":"Raiders of the Lost Ark",
-			"gatsby_image_path":"..\/..\/images\/raiders-of-the-lost-ark.jpg",
-			"slug":"raiders-of-the-lost-ark"
+			"title":"Inglourious Basterds",
+			"gatsby_image_path":"..\/..\/images\/inglourious-basterds.jpg",
+			"slug":"inglourious-basterds"
 		}
 	],
 	"tmdb_id":4232,

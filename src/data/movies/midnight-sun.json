@@ -51,6 +51,11 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Warning",
+			"gatsby_image_path":"..\/..\/images\/warning.jpg",
+			"slug":"warning"
+		},
+		{
 			"title":"The Lorax",
 			"gatsby_image_path":"..\/..\/images\/the-lorax.jpg",
 			"slug":"the-lorax"
@@ -64,6 +69,11 @@
 			"title":"The Babysitter",
 			"gatsby_image_path":"..\/..\/images\/the-babysitter.jpg",
 			"slug":"the-babysitter"
+		},
+		{
+			"title":"Status Update",
+			"gatsby_image_path":"..\/..\/images\/status-update.jpg",
+			"slug":"status-update"
 		},
 		{
 			"title":"Night School",
@@ -99,6 +109,46 @@
 			"title":"Blended",
 			"gatsby_image_path":"..\/..\/images\/blended.jpg",
 			"slug":"blended"
+		},
+		{
+			"title":"Alvin and the Chipmunks: The Road Chip",
+			"gatsby_image_path":"..\/..\/images\/alvin-and-the-chipmunks-the-road-chip.jpg",
+			"slug":"alvin-and-the-chipmunks-the-road-chip"
+		},
+		{
+			"title":"2 Hearts",
+			"gatsby_image_path":"..\/..\/images\/2-hearts.jpg",
+			"slug":"2-hearts"
+		},
+		{
+			"title":"21 Jump Street",
+			"gatsby_image_path":"..\/..\/images\/21-jump-street.jpg",
+			"slug":"21-jump-street"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
+			"title":"Zombieland: Double Tap",
+			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
+			"slug":"zombieland-double-tap"
+		},
+		{
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
 		}
 	],
 	"related_most_similar":[
@@ -257,6 +307,16 @@
 	],
 	"related_by_overview":[
 		{
+			"title":"Curse of Chucky",
+			"gatsby_image_path":"..\/..\/images\/curse-of-chucky.jpg",
+			"slug":"curse-of-chucky"
+		},
+		{
+			"title":"Friday the 13th Part VII: The New Blood",
+			"gatsby_image_path":"..\/..\/images\/friday-the-13th-part-vii-the-new-blood.jpg",
+			"slug":"friday-the-13th-part-vii-the-new-blood"
+		},
+		{
 			"title":"Secret Society of Second Born Royals",
 			"gatsby_image_path":"..\/..\/images\/secret-society-of-second-born-royals.jpg",
 			"slug":"secret-society-of-second-born-royals"
@@ -270,6 +330,11 @@
 			"title":"Stray",
 			"gatsby_image_path":"..\/..\/images\/stray.jpg",
 			"slug":"stray"
+		},
+		{
+			"title":"The Black Phone",
+			"gatsby_image_path":"..\/..\/images\/the-black-phone.jpg",
+			"slug":"the-black-phone"
 		},
 		{
 			"title":"House of the Witch",
@@ -287,14 +352,19 @@
 			"slug":"homunculus"
 		},
 		{
-			"title":"Maleficent: Mistress of Evil",
-			"gatsby_image_path":"..\/..\/images\/maleficent-mistress-of-evil.jpg",
-			"slug":"maleficent-mistress-of-evil"
-		},
-		{
 			"title":"The Evil Dead",
 			"gatsby_image_path":"..\/..\/images\/the-evil-dead.jpg",
 			"slug":"the-evil-dead"
+		},
+		{
+			"title":"Scary Stories to Tell in the Dark",
+			"gatsby_image_path":"..\/..\/images\/scary-stories-to-tell-in-the-dark.jpg",
+			"slug":"scary-stories-to-tell-in-the-dark"
+		},
+		{
+			"title":"Maleficent: Mistress of Evil",
+			"gatsby_image_path":"..\/..\/images\/maleficent-mistress-of-evil.jpg",
+			"slug":"maleficent-mistress-of-evil"
 		},
 		{
 			"title":"Soul",
@@ -302,14 +372,19 @@
 			"slug":"soul"
 		},
 		{
-			"title":"Phineas and Ferb: The Movie: Candace Against the Universe",
-			"gatsby_image_path":"..\/..\/images\/phineas-and-ferb-the-movie-candace-against-the-universe.jpg",
-			"slug":"phineas-and-ferb-the-movie-candace-against-the-universe"
+			"title":"Nightbooks",
+			"gatsby_image_path":"..\/..\/images\/nightbooks.jpg",
+			"slug":"nightbooks"
 		},
 		{
 			"title":"Orphan",
 			"gatsby_image_path":"..\/..\/images\/orphan.jpg",
 			"slug":"orphan"
+		},
+		{
+			"title":"Phineas and Ferb: The Movie: Candace Against the Universe",
+			"gatsby_image_path":"..\/..\/images\/phineas-and-ferb-the-movie-candace-against-the-universe.jpg",
+			"slug":"phineas-and-ferb-the-movie-candace-against-the-universe"
 		},
 		{
 			"title":"Saw III",
@@ -322,39 +397,14 @@
 			"slug":"ferry"
 		},
 		{
-			"title":"The Little Prince(ss)",
-			"gatsby_image_path":"..\/..\/images\/the-little-prince-ss.jpg",
-			"slug":"the-little-prince-ss"
-		},
-		{
-			"title":"Thor: The Dark World",
-			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
-			"slug":"thor-the-dark-world"
-		},
-		{
 			"title":"Barbie: Spy Squad",
 			"gatsby_image_path":"..\/..\/images\/barbie-spy-squad.jpg",
 			"slug":"barbie-spy-squad"
 		},
 		{
-			"title":"Skylines",
-			"gatsby_image_path":"..\/..\/images\/skylines.jpg",
-			"slug":"skylines"
-		},
-		{
 			"title":"The Last Sharknado: It's About Time",
 			"gatsby_image_path":"..\/..\/images\/the-last-sharknado-it-s-about-time.jpg",
 			"slug":"the-last-sharknado-it-s-about-time"
-		},
-		{
-			"title":"Songbird",
-			"gatsby_image_path":"..\/..\/images\/songbird.jpg",
-			"slug":"songbird"
-		},
-		{
-			"title":"Spenser Confidential",
-			"gatsby_image_path":"..\/..\/images\/spenser-confidential.jpg",
-			"slug":"spenser-confidential"
 		}
 	],
 	"tmdb_id":419478,

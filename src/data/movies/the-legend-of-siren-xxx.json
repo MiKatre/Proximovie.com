@@ -40,6 +40,11 @@
 			"slug":"zootopia"
 		},
 		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
 			"title":"Zombieland",
 			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
 			"slug":"zombieland"
@@ -70,7 +75,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name",
+			"title":"Your Name.",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -80,9 +85,54 @@
 			"slug":"young-sister-in-law-3-2019"
 		},
 		{
+			"title":"Young and Wild",
+			"gatsby_image_path":"..\/..\/images\/young-and-wild.jpg",
+			"slug":"young-and-wild"
+		},
+		{
+			"title":"Yes, No, or Maybe Half?",
+			"gatsby_image_path":"..\/..\/images\/yes-no-or-maybe-half.jpg",
+			"slug":"yes-no-or-maybe-half"
+		},
+		{
+			"title":"Yes Man",
+			"gatsby_image_path":"..\/..\/images\/yes-man.jpg",
+			"slug":"yes-man"
+		},
+		{
 			"title":"Yes Day",
 			"gatsby_image_path":"..\/..\/images\/yes-day.jpg",
 			"slug":"yes-day"
+		},
+		{
+			"title":"Year One",
+			"gatsby_image_path":"..\/..\/images\/year-one.jpg",
+			"slug":"year-one"
+		},
+		{
+			"title":"Yara",
+			"gatsby_image_path":"..\/..\/images\/yara.jpg",
+			"slug":"yara"
+		},
+		{
+			"title":"xXx: Return of Xander Cage",
+			"gatsby_image_path":"..\/..\/images\/xxx-return-of-xander-cage.jpg",
+			"slug":"xxx-return-of-xander-cage"
+		},
+		{
+			"title":"Xtreme",
+			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
+			"slug":"xtreme"
+		},
+		{
+			"title":"X-Men: Days of Future Past",
+			"gatsby_image_path":"..\/..\/images\/x-men-days-of-future-past.jpg",
+			"slug":"x-men-days-of-future-past"
+		},
+		{
+			"title":"X-Men: Apocalypse",
+			"gatsby_image_path":"..\/..\/images\/x-men-apocalypse.jpg",
+			"slug":"x-men-apocalypse"
 		}
 	],
 	"related_most_similar":[
@@ -266,24 +316,24 @@
 			"slug":"parasyte-part-2"
 		},
 		{
-			"title":"The Boy and the Beast",
-			"gatsby_image_path":"..\/..\/images\/the-boy-and-the-beast.jpg",
-			"slug":"the-boy-and-the-beast"
-		},
-		{
 			"title":"My Neighbor Totoro",
 			"gatsby_image_path":"..\/..\/images\/my-neighbor-totoro.jpg",
 			"slug":"my-neighbor-totoro"
 		},
 		{
-			"title":"Rurouni Kenshin Part III: The Legend Ends",
-			"gatsby_image_path":"..\/..\/images\/rurouni-kenshin-part-iii-the-legend-ends.jpg",
-			"slug":"rurouni-kenshin-part-iii-the-legend-ends"
+			"title":"The Boy and the Beast",
+			"gatsby_image_path":"..\/..\/images\/the-boy-and-the-beast.jpg",
+			"slug":"the-boy-and-the-beast"
 		},
 		{
 			"title":"The Garden of Words",
 			"gatsby_image_path":"..\/..\/images\/the-garden-of-words.jpg",
 			"slug":"the-garden-of-words"
+		},
+		{
+			"title":"Rurouni Kenshin Part III: The Legend Ends",
+			"gatsby_image_path":"..\/..\/images\/rurouni-kenshin-part-iii-the-legend-ends.jpg",
+			"slug":"rurouni-kenshin-part-iii-the-legend-ends"
 		},
 		{
 			"title":"The Irregular at Magic High School: The Girl Who Summons the Stars",
@@ -311,19 +361,24 @@
 			"slug":"princess-mononoke"
 		},
 		{
-			"title":"Stand by Me Doraemon",
-			"gatsby_image_path":"..\/..\/images\/stand-by-me-doraemon.jpg",
-			"slug":"stand-by-me-doraemon"
-		},
-		{
 			"title":"Evangelion: 3.0 You Can (Not) Redo",
 			"gatsby_image_path":"..\/..\/images\/evangelion-3.0-you-can-not-redo.jpg",
 			"slug":"evangelion-3.0-you-can-not-redo"
 		},
 		{
+			"title":"Stand by Me Doraemon",
+			"gatsby_image_path":"..\/..\/images\/stand-by-me-doraemon.jpg",
+			"slug":"stand-by-me-doraemon"
+		},
+		{
 			"title":"461 Days of Bento: A Promise Between Father and Son",
 			"gatsby_image_path":"..\/..\/images\/461-days-of-bento-a-promise-between-father-and-son.jpg",
 			"slug":"461-days-of-bento-a-promise-between-father-and-son"
+		},
+		{
+			"title":"Yes, No, or Maybe Half?",
+			"gatsby_image_path":"..\/..\/images\/yes-no-or-maybe-half.jpg",
+			"slug":"yes-no-or-maybe-half"
 		},
 		{
 			"title":"Urusei Yatsura: Only You",
@@ -334,11 +389,6 @@
 			"title":"A Whisker Away",
 			"gatsby_image_path":"..\/..\/images\/a-whisker-away.jpg",
 			"slug":"a-whisker-away"
-		},
-		{
-			"title":"Rurouni Kenshin: The Beginning",
-			"gatsby_image_path":"..\/..\/images\/rurouni-kenshin-the-beginning.jpg",
-			"slug":"rurouni-kenshin-the-beginning"
 		}
 	],
 	"tmdb_id":399897,

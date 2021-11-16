@@ -54,9 +54,19 @@
 			"slug":"monsters-inc"
 		},
 		{
+			"title":"Ticking Clock",
+			"gatsby_image_path":"..\/..\/images\/ticking-clock.jpg",
+			"slug":"ticking-clock"
+		},
+		{
 			"title":"The Ridiculous 6",
 			"gatsby_image_path":"..\/..\/images\/the-ridiculous-6.jpg",
 			"slug":"the-ridiculous-6"
+		},
+		{
+			"title":"The Legacy of Chucky",
+			"gatsby_image_path":"..\/..\/images\/the-legacy-of-chucky.jpg",
+			"slug":"the-legacy-of-chucky"
 		},
 		{
 			"title":"The Boss Baby",
@@ -84,6 +94,21 @@
 			"slug":"seed-of-chucky"
 		},
 		{
+			"title":"Red Tails",
+			"gatsby_image_path":"..\/..\/images\/red-tails.jpg",
+			"slug":"red-tails"
+		},
+		{
+			"title":"Quantum of Solace",
+			"gatsby_image_path":"..\/..\/images\/quantum-of-solace.jpg",
+			"slug":"quantum-of-solace"
+		},
+		{
+			"title":"Pearl Harbor",
+			"gatsby_image_path":"..\/..\/images\/pearl-harbor.jpg",
+			"slug":"pearl-harbor"
+		},
+		{
 			"title":"Norbit",
 			"gatsby_image_path":"..\/..\/images\/norbit.jpg",
 			"slug":"norbit"
@@ -97,6 +122,31 @@
 			"title":"Monster House",
 			"gatsby_image_path":"..\/..\/images\/monster-house.jpg",
 			"slug":"monster-house"
+		},
+		{
+			"title":"Miss Peregrine's Home for Peculiar Children",
+			"gatsby_image_path":"..\/..\/images\/miss-peregrine-s-home-for-peculiar-children.jpg",
+			"slug":"miss-peregrine-s-home-for-peculiar-children"
+		},
+		{
+			"title":"Life in a Year",
+			"gatsby_image_path":"..\/..\/images\/life-in-a-year.jpg",
+			"slug":"life-in-a-year"
+		},
+		{
+			"title":"Independence Day",
+			"gatsby_image_path":"..\/..\/images\/independence-day.jpg",
+			"slug":"independence-day"
+		},
+		{
+			"title":"Igor",
+			"gatsby_image_path":"..\/..\/images\/igor.jpg",
+			"slug":"igor"
+		},
+		{
+			"title":"Hotel Transylvania: Transformania",
+			"gatsby_image_path":"..\/..\/images\/hotel-transylvania-transformania.jpg",
+			"slug":"hotel-transylvania-transformania"
 		}
 	],
 	"related_most_similar":[
@@ -255,6 +305,11 @@
 	],
 	"related_by_overview":[
 		{
+			"title":"Ouija: Origin of Evil",
+			"gatsby_image_path":"..\/..\/images\/ouija-origin-of-evil.jpg",
+			"slug":"ouija-origin-of-evil"
+		},
+		{
 			"title":"The Hills Have Eyes",
 			"gatsby_image_path":"..\/..\/images\/the-hills-have-eyes.jpg",
 			"slug":"the-hills-have-eyes"
@@ -265,14 +320,14 @@
 			"slug":"corporate-animals"
 		},
 		{
-			"title":"A Cinderella Story: Christmas Wish",
-			"gatsby_image_path":"..\/..\/images\/a-cinderella-story-christmas-wish.jpg",
-			"slug":"a-cinderella-story-christmas-wish"
-		},
-		{
 			"title":"Spy Kids 2: The Island of Lost Dreams",
 			"gatsby_image_path":"..\/..\/images\/spy-kids-2-the-island-of-lost-dreams.jpg",
 			"slug":"spy-kids-2-the-island-of-lost-dreams"
+		},
+		{
+			"title":"A Cinderella Story: Christmas Wish",
+			"gatsby_image_path":"..\/..\/images\/a-cinderella-story-christmas-wish.jpg",
+			"slug":"a-cinderella-story-christmas-wish"
 		},
 		{
 			"title":"First Blood",
@@ -285,6 +340,11 @@
 			"slug":"jeepers-creepers-2"
 		},
 		{
+			"title":"Cowboys & Aliens",
+			"gatsby_image_path":"..\/..\/images\/cowboys-aliens.jpg",
+			"slug":"cowboys-aliens"
+		},
+		{
 			"title":"Brother Bear",
 			"gatsby_image_path":"..\/..\/images\/brother-bear.jpg",
 			"slug":"brother-bear"
@@ -295,19 +355,14 @@
 			"slug":"jaws"
 		},
 		{
-			"title":"Reaptown",
-			"gatsby_image_path":"..\/..\/images\/reaptown.jpg",
-			"slug":"reaptown"
-		},
-		{
 			"title":"Jungle",
 			"gatsby_image_path":"..\/..\/images\/jungle.jpg",
 			"slug":"jungle"
 		},
 		{
-			"title":"Palmer",
-			"gatsby_image_path":"..\/..\/images\/palmer.jpg",
-			"slug":"palmer"
+			"title":"Reaptown",
+			"gatsby_image_path":"..\/..\/images\/reaptown.jpg",
+			"slug":"reaptown"
 		},
 		{
 			"title":"Land",
@@ -315,14 +370,9 @@
 			"slug":"land"
 		},
 		{
-			"title":"Despicable Me",
-			"gatsby_image_path":"..\/..\/images\/despicable-me.jpg",
-			"slug":"despicable-me"
-		},
-		{
-			"title":"The Remaining",
-			"gatsby_image_path":"..\/..\/images\/the-remaining.jpg",
-			"slug":"the-remaining"
+			"title":"Palmer",
+			"gatsby_image_path":"..\/..\/images\/palmer.jpg",
+			"slug":"palmer"
 		},
 		{
 			"title":"Zombieland: Double Tap",
@@ -330,14 +380,19 @@
 			"slug":"zombieland-double-tap"
 		},
 		{
-			"title":"Pets United",
-			"gatsby_image_path":"..\/..\/images\/pets-united.jpg",
-			"slug":"pets-united"
-		},
-		{
 			"title":"The Conjuring",
 			"gatsby_image_path":"..\/..\/images\/the-conjuring.jpg",
 			"slug":"the-conjuring"
+		},
+		{
+			"title":"Despicable Me",
+			"gatsby_image_path":"..\/..\/images\/despicable-me.jpg",
+			"slug":"despicable-me"
+		},
+		{
+			"title":"Pets United",
+			"gatsby_image_path":"..\/..\/images\/pets-united.jpg",
+			"slug":"pets-united"
 		},
 		{
 			"title":"Enchanted",
@@ -345,14 +400,9 @@
 			"slug":"enchanted"
 		},
 		{
-			"title":"Zootopia",
-			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
-			"slug":"zootopia"
-		},
-		{
-			"title":"Cook Up a Storm",
-			"gatsby_image_path":"..\/..\/images\/cook-up-a-storm.jpg",
-			"slug":"cook-up-a-storm"
+			"title":"The Remaining",
+			"gatsby_image_path":"..\/..\/images\/the-remaining.jpg",
+			"slug":"the-remaining"
 		}
 	],
 	"tmdb_id":13700,

@@ -56,6 +56,11 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"The Spy Next Door",
+			"gatsby_image_path":"..\/..\/images\/the-spy-next-door.jpg",
+			"slug":"the-spy-next-door"
+		},
+		{
 			"title":"The Knight of Shadows: Between Yin and Yang",
 			"gatsby_image_path":"..\/..\/images\/the-knight-of-shadows-between-yin-and-yang.jpg",
 			"slug":"the-knight-of-shadows-between-yin-and-yang"
@@ -69,6 +74,21 @@
 			"title":"The Foreigner",
 			"gatsby_image_path":"..\/..\/images\/the-foreigner.jpg",
 			"slug":"the-foreigner"
+		},
+		{
+			"title":"Rush Hour",
+			"gatsby_image_path":"..\/..\/images\/rush-hour.jpg",
+			"slug":"rush-hour"
+		},
+		{
+			"title":"Rush Hour 3",
+			"gatsby_image_path":"..\/..\/images\/rush-hour-3.jpg",
+			"slug":"rush-hour-3"
+		},
+		{
+			"title":"Rush Hour 2",
+			"gatsby_image_path":"..\/..\/images\/rush-hour-2.jpg",
+			"slug":"rush-hour-2"
 		},
 		{
 			"title":"Monkey King: Hero Is Back",
@@ -91,6 +111,11 @@
 			"slug":"kung-fu-panda-2"
 		},
 		{
+			"title":"Jackie Chan Kung Fu Master",
+			"gatsby_image_path":"..\/..\/images\/jackie-chan-kung-fu-master.jpg",
+			"slug":"jackie-chan-kung-fu-master"
+		},
+		{
 			"title":"Iron Mask",
 			"gatsby_image_path":"..\/..\/images\/iron-mask.jpg",
 			"slug":"iron-mask"
@@ -101,9 +126,34 @@
 			"slug":"golden-job"
 		},
 		{
+			"title":"Dragon Blade",
+			"gatsby_image_path":"..\/..\/images\/dragon-blade.jpg",
+			"slug":"dragon-blade"
+		},
+		{
+			"title":"Chinese Zodiac",
+			"gatsby_image_path":"..\/..\/images\/chinese-zodiac.jpg",
+			"slug":"chinese-zodiac"
+		},
+		{
 			"title":"Bleeding Steel",
 			"gatsby_image_path":"..\/..\/images\/bleeding-steel.jpg",
 			"slug":"bleeding-steel"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
 		}
 	],
 	"related_most_similar":[
@@ -272,14 +322,24 @@
 			"slug":"resident-evil-vendetta"
 		},
 		{
+			"title":"The 5th Wave",
+			"gatsby_image_path":"..\/..\/images\/the-5th-wave.jpg",
+			"slug":"the-5th-wave"
+		},
+		{
+			"title":"Spy",
+			"gatsby_image_path":"..\/..\/images\/spy.jpg",
+			"slug":"spy"
+		},
+		{
 			"title":"Backtrace",
 			"gatsby_image_path":"..\/..\/images\/backtrace.jpg",
 			"slug":"backtrace"
 		},
 		{
-			"title":"The 5th Wave",
-			"gatsby_image_path":"..\/..\/images\/the-5th-wave.jpg",
-			"slug":"the-5th-wave"
+			"title":"Ava",
+			"gatsby_image_path":"..\/..\/images\/ava.jpg",
+			"slug":"ava"
 		},
 		{
 			"title":"Death Wish",
@@ -292,21 +352,6 @@
 			"slug":"braven"
 		},
 		{
-			"title":"Mission: Impossible - Rogue Nation",
-			"gatsby_image_path":"..\/..\/images\/mission-impossible-rogue-nation.jpg",
-			"slug":"mission-impossible-rogue-nation"
-		},
-		{
-			"title":"Locked Down",
-			"gatsby_image_path":"..\/..\/images\/locked-down.jpg",
-			"slug":"locked-down"
-		},
-		{
-			"title":"General Commander",
-			"gatsby_image_path":"..\/..\/images\/general-commander.jpg",
-			"slug":"general-commander"
-		},
-		{
 			"title":"Insurgent",
 			"gatsby_image_path":"..\/..\/images\/insurgent.jpg",
 			"slug":"insurgent"
@@ -317,9 +362,14 @@
 			"slug":"a-x-l"
 		},
 		{
-			"title":"Skyscraper",
-			"gatsby_image_path":"..\/..\/images\/skyscraper.jpg",
-			"slug":"skyscraper"
+			"title":"General Commander",
+			"gatsby_image_path":"..\/..\/images\/general-commander.jpg",
+			"slug":"general-commander"
+		},
+		{
+			"title":"Locked Down",
+			"gatsby_image_path":"..\/..\/images\/locked-down.jpg",
+			"slug":"locked-down"
 		},
 		{
 			"title":"Wrath of the Titans",
@@ -327,24 +377,19 @@
 			"slug":"wrath-of-the-titans"
 		},
 		{
-			"title":"Lucy",
-			"gatsby_image_path":"..\/..\/images\/lucy.jpg",
-			"slug":"lucy"
+			"title":"Mission: Impossible - Rogue Nation",
+			"gatsby_image_path":"..\/..\/images\/mission-impossible-rogue-nation.jpg",
+			"slug":"mission-impossible-rogue-nation"
 		},
 		{
-			"title":"Kidnapping Stella",
-			"gatsby_image_path":"..\/..\/images\/kidnapping-stella.jpg",
-			"slug":"kidnapping-stella"
+			"title":"Rogue Hostage",
+			"gatsby_image_path":"..\/..\/images\/rogue-hostage.jpg",
+			"slug":"rogue-hostage"
 		},
 		{
-			"title":"Boss Level",
-			"gatsby_image_path":"..\/..\/images\/boss-level.jpg",
-			"slug":"boss-level"
-		},
-		{
-			"title":"The Wolf of Wall Street",
-			"gatsby_image_path":"..\/..\/images\/the-wolf-of-wall-street.jpg",
-			"slug":"the-wolf-of-wall-street"
+			"title":"Skyscraper",
+			"gatsby_image_path":"..\/..\/images\/skyscraper.jpg",
+			"slug":"skyscraper"
 		},
 		{
 			"title":"Suicide Squad: Hell to Pay",
@@ -352,14 +397,19 @@
 			"slug":"suicide-squad-hell-to-pay"
 		},
 		{
-			"title":"Kingsman: The Secret Service",
-			"gatsby_image_path":"..\/..\/images\/kingsman-the-secret-service.jpg",
-			"slug":"kingsman-the-secret-service"
+			"title":"Kidnapping Stella",
+			"gatsby_image_path":"..\/..\/images\/kidnapping-stella.jpg",
+			"slug":"kidnapping-stella"
 		},
 		{
-			"title":"Penguins of Madagascar",
-			"gatsby_image_path":"..\/..\/images\/penguins-of-madagascar.jpg",
-			"slug":"penguins-of-madagascar"
+			"title":"The Courier",
+			"gatsby_image_path":"..\/..\/images\/the-courier.jpg",
+			"slug":"the-courier"
+		},
+		{
+			"title":"Skin Trade",
+			"gatsby_image_path":"..\/..\/images\/skin-trade.jpg",
+			"slug":"skin-trade"
 		}
 	],
 	"tmdb_id":604822,

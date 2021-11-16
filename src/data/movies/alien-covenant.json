@@ -77,6 +77,11 @@
 			"slug":"watchmen"
 		},
 		{
+			"title":"Tropic Thunder",
+			"gatsby_image_path":"..\/..\/images\/tropic-thunder.jpg",
+			"slug":"tropic-thunder"
+		},
+		{
 			"title":"The World to Come",
 			"gatsby_image_path":"..\/..\/images\/the-world-to-come.jpg",
 			"slug":"the-world-to-come"
@@ -102,9 +107,54 @@
 			"slug":"the-light-between-oceans"
 		},
 		{
+			"title":"The Heat",
+			"gatsby_image_path":"..\/..\/images\/the-heat.jpg",
+			"slug":"the-heat"
+		},
+		{
 			"title":"The Angry Birds Movie",
 			"gatsby_image_path":"..\/..\/images\/the-angry-birds-movie.jpg",
 			"slug":"the-angry-birds-movie"
+		},
+		{
+			"title":"The Angry Birds Movie 2",
+			"gatsby_image_path":"..\/..\/images\/the-angry-birds-movie-2.jpg",
+			"slug":"the-angry-birds-movie-2"
+		},
+		{
+			"title":"Sausage Party",
+			"gatsby_image_path":"..\/..\/images\/sausage-party.jpg",
+			"slug":"sausage-party"
+		},
+		{
+			"title":"Rattlesnake",
+			"gatsby_image_path":"..\/..\/images\/rattlesnake.jpg",
+			"slug":"rattlesnake"
+		},
+		{
+			"title":"Public Enemies",
+			"gatsby_image_path":"..\/..\/images\/public-enemies.jpg",
+			"slug":"public-enemies"
+		},
+		{
+			"title":"Prometheus",
+			"gatsby_image_path":"..\/..\/images\/prometheus.jpg",
+			"slug":"prometheus"
+		},
+		{
+			"title":"Pet Sematary",
+			"gatsby_image_path":"..\/..\/images\/pet-sematary.jpg",
+			"slug":"pet-sematary"
+		},
+		{
+			"title":"No Sudden Move",
+			"gatsby_image_path":"..\/..\/images\/no-sudden-move.jpg",
+			"slug":"no-sudden-move"
+		},
+		{
+			"title":"Land",
+			"gatsby_image_path":"..\/..\/images\/land.jpg",
+			"slug":"land"
 		}
 	],
 	"related_most_similar":[
@@ -263,6 +313,11 @@
 	],
 	"related_by_overview":[
 		{
+			"title":"The Mummy",
+			"gatsby_image_path":"..\/..\/images\/the-mummy.jpg",
+			"slug":"the-mummy"
+		},
+		{
 			"title":"Mortal Engines",
 			"gatsby_image_path":"..\/..\/images\/mortal-engines.jpg",
 			"slug":"mortal-engines"
@@ -271,6 +326,16 @@
 			"title":"Thor: Ragnarok",
 			"gatsby_image_path":"..\/..\/images\/thor-ragnarok.jpg",
 			"slug":"thor-ragnarok"
+		},
+		{
+			"title":"Universal Soldier: Regeneration",
+			"gatsby_image_path":"..\/..\/images\/universal-soldier-regeneration.jpg",
+			"slug":"universal-soldier-regeneration"
+		},
+		{
+			"title":"In the Name of the King 2: Two Worlds",
+			"gatsby_image_path":"..\/..\/images\/in-the-name-of-the-king-2-two-worlds.jpg",
+			"slug":"in-the-name-of-the-king-2-two-worlds"
 		},
 		{
 			"title":"Ad Astra",
@@ -303,9 +368,9 @@
 			"slug":"megalodon"
 		},
 		{
-			"title":"The Lego Star Wars Holiday Special",
-			"gatsby_image_path":"..\/..\/images\/the-lego-star-wars-holiday-special.jpg",
-			"slug":"the-lego-star-wars-holiday-special"
+			"title":"Battle: Los Angeles",
+			"gatsby_image_path":"..\/..\/images\/battle-los-angeles.jpg",
+			"slug":"battle-los-angeles"
 		},
 		{
 			"title":"All the Devil's Men",
@@ -313,9 +378,9 @@
 			"slug":"all-the-devil-s-men"
 		},
 		{
-			"title":"Dune",
-			"gatsby_image_path":"..\/..\/images\/dune.jpg",
-			"slug":"dune"
+			"title":"The Lego Star Wars Holiday Special",
+			"gatsby_image_path":"..\/..\/images\/the-lego-star-wars-holiday-special.jpg",
+			"slug":"the-lego-star-wars-holiday-special"
 		},
 		{
 			"title":"Sinbad: Legend of the Seven Seas",
@@ -338,29 +403,14 @@
 			"slug":"extinction"
 		},
 		{
-			"title":"The Matrix",
-			"gatsby_image_path":"..\/..\/images\/the-matrix.jpg",
-			"slug":"the-matrix"
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
 		},
 		{
 			"title":"Star Wars: The Force Awakens",
 			"gatsby_image_path":"..\/..\/images\/star-wars-the-force-awakens.jpg",
 			"slug":"star-wars-the-force-awakens"
-		},
-		{
-			"title":"New Gods: Nezha Reborn",
-			"gatsby_image_path":"..\/..\/images\/new-gods-nezha-reborn.jpg",
-			"slug":"new-gods-nezha-reborn"
-		},
-		{
-			"title":"Infinite",
-			"gatsby_image_path":"..\/..\/images\/infinite.jpg",
-			"slug":"infinite"
-		},
-		{
-			"title":"G.I. Joe: The Rise of Cobra",
-			"gatsby_image_path":"..\/..\/images\/g.i.-joe-the-rise-of-cobra.jpg",
-			"slug":"g.i.-joe-the-rise-of-cobra"
 		}
 	],
 	"tmdb_id":126889,

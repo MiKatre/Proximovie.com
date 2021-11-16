@@ -51,6 +51,11 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"A Nightmare on Elm Street",
+			"gatsby_image_path":"..\/..\/images\/a-nightmare-on-elm-street.jpg",
+			"slug":"a-nightmare-on-elm-street"
+		},
+		{
 			"title":"Welcome to the Jungle",
 			"gatsby_image_path":"..\/..\/images\/welcome-to-the-jungle.jpg",
 			"slug":"welcome-to-the-jungle"
@@ -99,6 +104,51 @@
 			"title":"The Great Gatsby",
 			"gatsby_image_path":"..\/..\/images\/the-great-gatsby.jpg",
 			"slug":"the-great-gatsby"
+		},
+		{
+			"title":"The Emoji Movie",
+			"gatsby_image_path":"..\/..\/images\/the-emoji-movie.jpg",
+			"slug":"the-emoji-movie"
+		},
+		{
+			"title":"The Dig",
+			"gatsby_image_path":"..\/..\/images\/the-dig.jpg",
+			"slug":"the-dig"
+		},
+		{
+			"title":"Swan Song",
+			"gatsby_image_path":"..\/..\/images\/swan-song.jpg",
+			"slug":"swan-song"
+		},
+		{
+			"title":"Shazam!",
+			"gatsby_image_path":"..\/..\/images\/shazam.jpg",
+			"slug":"shazam"
+		},
+		{
+			"title":"Sextuplets",
+			"gatsby_image_path":"..\/..\/images\/sextuplets.jpg",
+			"slug":"sextuplets"
+		},
+		{
+			"title":"Scream 4",
+			"gatsby_image_path":"..\/..\/images\/scream-4.jpg",
+			"slug":"scream-4"
+		},
+		{
+			"title":"Scary Movie 5",
+			"gatsby_image_path":"..\/..\/images\/scary-movie-5.jpg",
+			"slug":"scary-movie-5"
+		},
+		{
+			"title":"Scary Movie 4",
+			"gatsby_image_path":"..\/..\/images\/scary-movie-4.jpg",
+			"slug":"scary-movie-4"
+		},
+		{
+			"title":"Ready or Not",
+			"gatsby_image_path":"..\/..\/images\/ready-or-not.jpg",
+			"slug":"ready-or-not"
 		}
 	],
 	"related_most_similar":[
@@ -257,14 +307,29 @@
 	],
 	"related_by_overview":[
 		{
-			"title":"No Mercy",
-			"gatsby_image_path":"..\/..\/images\/no-mercy.jpg",
-			"slug":"no-mercy"
+			"title":"Flashback",
+			"gatsby_image_path":"..\/..\/images\/flashback.jpg",
+			"slug":"flashback"
+		},
+		{
+			"title":"Sweet Girl",
+			"gatsby_image_path":"..\/..\/images\/sweet-girl.jpg",
+			"slug":"sweet-girl"
 		},
 		{
 			"title":"Hollow Point",
 			"gatsby_image_path":"..\/..\/images\/hollow-point.jpg",
 			"slug":"hollow-point"
+		},
+		{
+			"title":"No Mercy",
+			"gatsby_image_path":"..\/..\/images\/no-mercy.jpg",
+			"slug":"no-mercy"
+		},
+		{
+			"title":"Odd Thomas",
+			"gatsby_image_path":"..\/..\/images\/odd-thomas.jpg",
+			"slug":"odd-thomas"
 		},
 		{
 			"title":"Avengement",
@@ -277,9 +342,9 @@
 			"slug":"the-lorax"
 		},
 		{
-			"title":"Better Days",
-			"gatsby_image_path":"..\/..\/images\/better-days.jpg",
-			"slug":"better-days"
+			"title":"Caged",
+			"gatsby_image_path":"..\/..\/images\/caged.jpg",
+			"slug":"caged"
 		},
 		{
 			"title":"A Tale of Two Sisters",
@@ -287,14 +352,14 @@
 			"slug":"a-tale-of-two-sisters"
 		},
 		{
-			"title":"The Grudge",
-			"gatsby_image_path":"..\/..\/images\/the-grudge.jpg",
-			"slug":"the-grudge"
-		},
-		{
 			"title":"Black Box",
 			"gatsby_image_path":"..\/..\/images\/black-box.jpg",
 			"slug":"black-box"
+		},
+		{
+			"title":"Better Days",
+			"gatsby_image_path":"..\/..\/images\/better-days.jpg",
+			"slug":"better-days"
 		},
 		{
 			"title":"The Equalizer 2",
@@ -307,34 +372,19 @@
 			"slug":"the-father"
 		},
 		{
-			"title":"When Marnie Was There",
-			"gatsby_image_path":"..\/..\/images\/when-marnie-was-there.jpg",
-			"slug":"when-marnie-was-there"
+			"title":"The Grudge",
+			"gatsby_image_path":"..\/..\/images\/the-grudge.jpg",
+			"slug":"the-grudge"
 		},
 		{
-			"title":"Personal Shopper",
-			"gatsby_image_path":"..\/..\/images\/personal-shopper.jpg",
-			"slug":"personal-shopper"
+			"title":"After.Life",
+			"gatsby_image_path":"..\/..\/images\/after.life.jpg",
+			"slug":"after.life"
 		},
 		{
-			"title":"News of the World",
-			"gatsby_image_path":"..\/..\/images\/news-of-the-world.jpg",
-			"slug":"news-of-the-world"
-		},
-		{
-			"title":"The Girl on the Train",
-			"gatsby_image_path":"..\/..\/images\/the-girl-on-the-train.jpg",
-			"slug":"the-girl-on-the-train"
-		},
-		{
-			"title":"Carrie",
-			"gatsby_image_path":"..\/..\/images\/carrie.jpg",
-			"slug":"carrie"
-		},
-		{
-			"title":"Apocalypto",
-			"gatsby_image_path":"..\/..\/images\/apocalypto.jpg",
-			"slug":"apocalypto"
+			"title":"Never Back Down: Revolt",
+			"gatsby_image_path":"..\/..\/images\/never-back-down-revolt.jpg",
+			"slug":"never-back-down-revolt"
 		},
 		{
 			"title":"The Help",
@@ -342,19 +392,19 @@
 			"slug":"the-help"
 		},
 		{
-			"title":"Happy Death Day",
-			"gatsby_image_path":"..\/..\/images\/happy-death-day.jpg",
-			"slug":"happy-death-day"
+			"title":"Hypnotic",
+			"gatsby_image_path":"..\/..\/images\/hypnotic.jpg",
+			"slug":"hypnotic"
 		},
 		{
-			"title":"The Mortuary Collection",
-			"gatsby_image_path":"..\/..\/images\/the-mortuary-collection.jpg",
-			"slug":"the-mortuary-collection"
+			"title":"Apocalypto",
+			"gatsby_image_path":"..\/..\/images\/apocalypto.jpg",
+			"slug":"apocalypto"
 		},
 		{
-			"title":"Between Worlds",
-			"gatsby_image_path":"..\/..\/images\/between-worlds.jpg",
-			"slug":"between-worlds"
+			"title":"Innocent Voices",
+			"gatsby_image_path":"..\/..\/images\/innocent-voices.jpg",
+			"slug":"innocent-voices"
 		}
 	],
 	"tmdb_id":582014,

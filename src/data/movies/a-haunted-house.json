@@ -61,6 +61,11 @@
 			"slug":"scary-movie"
 		},
 		{
+			"title":"Little Man",
+			"gatsby_image_path":"..\/..\/images\/little-man.jpg",
+			"slug":"little-man"
+		},
+		{
 			"title":"Fifty Shades of Black",
 			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-black.jpg",
 			"slug":"fifty-shades-of-black"
@@ -81,6 +86,11 @@
 			"slug":"the-wrong-missy"
 		},
 		{
+			"title":"The Heat",
+			"gatsby_image_path":"..\/..\/images\/the-heat.jpg",
+			"slug":"the-heat"
+		},
+		{
 			"title":"Sky Sharks",
 			"gatsby_image_path":"..\/..\/images\/sky-sharks.jpg",
 			"slug":"sky-sharks"
@@ -99,6 +109,46 @@
 			"title":"Sex Drive",
 			"gatsby_image_path":"..\/..\/images\/sex-drive.jpg",
 			"slug":"sex-drive"
+		},
+		{
+			"title":"Scouts Guide to the Zombie Apocalypse",
+			"gatsby_image_path":"..\/..\/images\/scouts-guide-to-the-zombie-apocalypse.jpg",
+			"slug":"scouts-guide-to-the-zombie-apocalypse"
+		},
+		{
+			"title":"Scary Movie 2",
+			"gatsby_image_path":"..\/..\/images\/scary-movie-2.jpg",
+			"slug":"scary-movie-2"
+		},
+		{
+			"title":"Norbit",
+			"gatsby_image_path":"..\/..\/images\/norbit.jpg",
+			"slug":"norbit"
+		},
+		{
+			"title":"Night Teeth",
+			"gatsby_image_path":"..\/..\/images\/night-teeth.jpg",
+			"slug":"night-teeth"
+		},
+		{
+			"title":"Madagascar",
+			"gatsby_image_path":"..\/..\/images\/madagascar.jpg",
+			"slug":"madagascar"
+		},
+		{
+			"title":"Madagascar: Escape 2 Africa",
+			"gatsby_image_path":"..\/..\/images\/madagascar-escape-2-africa.jpg",
+			"slug":"madagascar-escape-2-africa"
+		},
+		{
+			"title":"Madagascar 3: Europe's Most Wanted",
+			"gatsby_image_path":"..\/..\/images\/madagascar-3-europe-s-most-wanted.jpg",
+			"slug":"madagascar-3-europe-s-most-wanted"
+		},
+		{
+			"title":"Krampus",
+			"gatsby_image_path":"..\/..\/images\/krampus.jpg",
+			"slug":"krampus"
 		}
 	],
 	"related_most_similar":[
@@ -267,6 +317,11 @@
 			"slug":"goosebumps"
 		},
 		{
+			"title":"Chucky's Vacation Slides",
+			"gatsby_image_path":"..\/..\/images\/chucky-s-vacation-slides.jpg",
+			"slug":"chucky-s-vacation-slides"
+		},
+		{
 			"title":"Love and Monsters",
 			"gatsby_image_path":"..\/..\/images\/love-and-monsters.jpg",
 			"slug":"love-and-monsters"
@@ -277,14 +332,24 @@
 			"slug":"tremors-a-cold-day-in-hell"
 		},
 		{
-			"title":"Sextuplets",
-			"gatsby_image_path":"..\/..\/images\/sextuplets.jpg",
-			"slug":"sextuplets"
-		},
-		{
 			"title":"The Hangover",
 			"gatsby_image_path":"..\/..\/images\/the-hangover.jpg",
 			"slug":"the-hangover"
+		},
+		{
+			"title":"Home Alone: The Holiday Heist",
+			"gatsby_image_path":"..\/..\/images\/home-alone-the-holiday-heist.jpg",
+			"slug":"home-alone-the-holiday-heist"
+		},
+		{
+			"title":"Halloween III: Season of the Witch",
+			"gatsby_image_path":"..\/..\/images\/halloween-iii-season-of-the-witch.jpg",
+			"slug":"halloween-iii-season-of-the-witch"
+		},
+		{
+			"title":"Sextuplets",
+			"gatsby_image_path":"..\/..\/images\/sextuplets.jpg",
+			"slug":"sextuplets"
 		},
 		{
 			"title":"American Pie Presents: The Book of Love",
@@ -292,19 +357,9 @@
 			"slug":"american-pie-presents-the-book-of-love"
 		},
 		{
-			"title":"Thir13en Ghosts",
-			"gatsby_image_path":"..\/..\/images\/thir13en-ghosts.jpg",
-			"slug":"thir13en-ghosts"
-		},
-		{
-			"title":"Zack and Miri Make a Porno",
-			"gatsby_image_path":"..\/..\/images\/zack-and-miri-make-a-porno.jpg",
-			"slug":"zack-and-miri-make-a-porno"
-		},
-		{
-			"title":"Insidious: The Last Key",
-			"gatsby_image_path":"..\/..\/images\/insidious-the-last-key.jpg",
-			"slug":"insidious-the-last-key"
+			"title":"Home Alone 4",
+			"gatsby_image_path":"..\/..\/images\/home-alone-4.jpg",
+			"slug":"home-alone-4"
 		},
 		{
 			"title":"The Amityville Harvest",
@@ -312,14 +367,29 @@
 			"slug":"the-amityville-harvest"
 		},
 		{
-			"title":"Halloween 4: The Return of Michael Myers",
-			"gatsby_image_path":"..\/..\/images\/halloween-4-the-return-of-michael-myers.jpg",
-			"slug":"halloween-4-the-return-of-michael-myers"
+			"title":"Ghosts of Girlfriends Past",
+			"gatsby_image_path":"..\/..\/images\/ghosts-of-girlfriends-past.jpg",
+			"slug":"ghosts-of-girlfriends-past"
 		},
 		{
-			"title":"Home Alone 2: Lost in New York",
-			"gatsby_image_path":"..\/..\/images\/home-alone-2-lost-in-new-york.jpg",
-			"slug":"home-alone-2-lost-in-new-york"
+			"title":"Insidious: The Last Key",
+			"gatsby_image_path":"..\/..\/images\/insidious-the-last-key.jpg",
+			"slug":"insidious-the-last-key"
+		},
+		{
+			"title":"Zack and Miri Make a Porno",
+			"gatsby_image_path":"..\/..\/images\/zack-and-miri-make-a-porno.jpg",
+			"slug":"zack-and-miri-make-a-porno"
+		},
+		{
+			"title":"Thir13en Ghosts",
+			"gatsby_image_path":"..\/..\/images\/thir13en-ghosts.jpg",
+			"slug":"thir13en-ghosts"
+		},
+		{
+			"title":"Super 8",
+			"gatsby_image_path":"..\/..\/images\/super-8.jpg",
+			"slug":"super-8"
 		},
 		{
 			"title":"Beetlejuice",
@@ -332,29 +402,9 @@
 			"slug":"child-s-play-2"
 		},
 		{
-			"title":"A Nightmare on Elm Street",
-			"gatsby_image_path":"..\/..\/images\/a-nightmare-on-elm-street.jpg",
-			"slug":"a-nightmare-on-elm-street"
-		},
-		{
-			"title":"It Follows",
-			"gatsby_image_path":"..\/..\/images\/it-follows.jpg",
-			"slug":"it-follows"
-		},
-		{
-			"title":"The Babysitter",
-			"gatsby_image_path":"..\/..\/images\/the-babysitter.jpg",
-			"slug":"the-babysitter"
-		},
-		{
-			"title":"Scary Movie 5",
-			"gatsby_image_path":"..\/..\/images\/scary-movie-5.jpg",
-			"slug":"scary-movie-5"
-		},
-		{
-			"title":"The Upside",
-			"gatsby_image_path":"..\/..\/images\/the-upside.jpg",
-			"slug":"the-upside"
+			"title":"Home Alone 2: Lost in New York",
+			"gatsby_image_path":"..\/..\/images\/home-alone-2-lost-in-new-york.jpg",
+			"slug":"home-alone-2-lost-in-new-york"
 		}
 	],
 	"tmdb_id":139038,

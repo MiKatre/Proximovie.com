@@ -85,6 +85,11 @@
 			"slug":"rampage"
 		},
 		{
+			"title":"Olympus Has Fallen",
+			"gatsby_image_path":"..\/..\/images\/olympus-has-fallen.jpg",
+			"slug":"olympus-has-fallen"
+		},
+		{
 			"title":"No Time to Die",
 			"gatsby_image_path":"..\/..\/images\/no-time-to-die.jpg",
 			"slug":"no-time-to-die"
@@ -108,6 +113,51 @@
 			"title":"F9",
 			"gatsby_image_path":"..\/..\/images\/f9.jpg",
 			"slug":"f9"
+		},
+		{
+			"title":"Dragonball Evolution",
+			"gatsby_image_path":"..\/..\/images\/dragonball-evolution.jpg",
+			"slug":"dragonball-evolution"
+		},
+		{
+			"title":"Collateral Beauty",
+			"gatsby_image_path":"..\/..\/images\/collateral-beauty.jpg",
+			"slug":"collateral-beauty"
+		},
+		{
+			"title":"Code 8",
+			"gatsby_image_path":"..\/..\/images\/code-8.jpg",
+			"slug":"code-8"
+		},
+		{
+			"title":"Black and Blue",
+			"gatsby_image_path":"..\/..\/images\/black-and-blue.jpg",
+			"slug":"black-and-blue"
+		},
+		{
+			"title":"28 Days Later",
+			"gatsby_image_path":"..\/..\/images\/28-days-later.jpg",
+			"slug":"28-days-later"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
+			"title":"Zombieland: Double Tap",
+			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
+			"slug":"zombieland-double-tap"
 		}
 	],
 	"related_most_similar":[
@@ -286,6 +336,11 @@
 			"slug":"dragon-ball-z-bojack-unbound"
 		},
 		{
+			"title":"TEKKEN",
+			"gatsby_image_path":"..\/..\/images\/tekken.jpg",
+			"slug":"tekken"
+		},
+		{
 			"title":"Godzilla: King of the Monsters",
 			"gatsby_image_path":"..\/..\/images\/godzilla-king-of-the-monsters.jpg",
 			"slug":"godzilla-king-of-the-monsters"
@@ -316,14 +371,14 @@
 			"slug":"dragon-ball-z-bio-broly"
 		},
 		{
-			"title":"Doraemon: Nobita and the Windmasters",
-			"gatsby_image_path":"..\/..\/images\/doraemon-nobita-and-the-windmasters.jpg",
-			"slug":"doraemon-nobita-and-the-windmasters"
-		},
-		{
 			"title":"Tokyo Ghoul 'S'",
 			"gatsby_image_path":"..\/..\/images\/tokyo-ghoul--s.jpg",
 			"slug":"tokyo-ghoul--s"
+		},
+		{
+			"title":"Doraemon: Nobita and the Windmasters",
+			"gatsby_image_path":"..\/..\/images\/doraemon-nobita-and-the-windmasters.jpg",
+			"slug":"doraemon-nobita-and-the-windmasters"
 		},
 		{
 			"title":"Naruto Shippuden the Movie: The Will of Fire",
@@ -336,24 +391,14 @@
 			"slug":"dragon-ball-z-dead-zone"
 		},
 		{
-			"title":"Rurouni Kenshin Part III: The Legend Ends",
-			"gatsby_image_path":"..\/..\/images\/rurouni-kenshin-part-iii-the-legend-ends.jpg",
-			"slug":"rurouni-kenshin-part-iii-the-legend-ends"
-		},
-		{
-			"title":"Evangelion: 1.0 You Are (Not) Alone",
-			"gatsby_image_path":"..\/..\/images\/evangelion-1.0-you-are-not-alone.jpg",
-			"slug":"evangelion-1.0-you-are-not-alone"
-		},
-		{
-			"title":"Naruto the Movie: Guardians of the Crescent Moon Kingdom",
-			"gatsby_image_path":"..\/..\/images\/naruto-the-movie-guardians-of-the-crescent-moon-kingdom.jpg",
-			"slug":"naruto-the-movie-guardians-of-the-crescent-moon-kingdom"
-		},
-		{
 			"title":"Dragon Ball GT: A Hero's Legacy",
 			"gatsby_image_path":"..\/..\/images\/dragon-ball-gt-a-hero-s-legacy.jpg",
 			"slug":"dragon-ball-gt-a-hero-s-legacy"
+		},
+		{
+			"title":"Rurouni Kenshin Part III: The Legend Ends",
+			"gatsby_image_path":"..\/..\/images\/rurouni-kenshin-part-iii-the-legend-ends.jpg",
+			"slug":"rurouni-kenshin-part-iii-the-legend-ends"
 		},
 		{
 			"title":"Snake Eyes: G.I. Joe Origins",
@@ -361,9 +406,14 @@
 			"slug":"snake-eyes-g.i.-joe-origins"
 		},
 		{
-			"title":"Mobile Suit Gundam Hathaway",
-			"gatsby_image_path":"..\/..\/images\/mobile-suit-gundam-hathaway.jpg",
-			"slug":"mobile-suit-gundam-hathaway"
+			"title":"A Whisker Away",
+			"gatsby_image_path":"..\/..\/images\/a-whisker-away.jpg",
+			"slug":"a-whisker-away"
+		},
+		{
+			"title":"Evangelion: 1.0 You Are (Not) Alone",
+			"gatsby_image_path":"..\/..\/images\/evangelion-1.0-you-are-not-alone.jpg",
+			"slug":"evangelion-1.0-you-are-not-alone"
 		}
 	],
 	"tmdb_id":22832,

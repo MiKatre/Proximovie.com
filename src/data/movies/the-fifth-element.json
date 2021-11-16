@@ -53,6 +53,11 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Friday",
+			"gatsby_image_path":"..\/..\/images\/friday.jpg",
+			"slug":"friday"
+		},
+		{
 			"title":"Unbreakable",
 			"gatsby_image_path":"..\/..\/images\/unbreakable.jpg",
 			"slug":"unbreakable"
@@ -66,6 +71,11 @@
 			"title":"The Woman in the Window",
 			"gatsby_image_path":"..\/..\/images\/the-woman-in-the-window.jpg",
 			"slug":"the-woman-in-the-window"
+		},
+		{
+			"title":"The Unborn",
+			"gatsby_image_path":"..\/..\/images\/the-unborn.jpg",
+			"slug":"the-unborn"
 		},
 		{
 			"title":"The Sixth Sense",
@@ -101,6 +111,46 @@
 			"title":"The Dark Knight",
 			"gatsby_image_path":"..\/..\/images\/the-dark-knight.jpg",
 			"slug":"the-dark-knight"
+		},
+		{
+			"title":"Tears of the Sun",
+			"gatsby_image_path":"..\/..\/images\/tears-of-the-sun.jpg",
+			"slug":"tears-of-the-sun"
+		},
+		{
+			"title":"Sin City: A Dame to Kill For",
+			"gatsby_image_path":"..\/..\/images\/sin-city-a-dame-to-kill-for.jpg",
+			"slug":"sin-city-a-dame-to-kill-for"
+		},
+		{
+			"title":"Silver Linings Playbook",
+			"gatsby_image_path":"..\/..\/images\/silver-linings-playbook.jpg",
+			"slug":"silver-linings-playbook"
+		},
+		{
+			"title":"Rush Hour",
+			"gatsby_image_path":"..\/..\/images\/rush-hour.jpg",
+			"slug":"rush-hour"
+		},
+		{
+			"title":"Rush Hour 3",
+			"gatsby_image_path":"..\/..\/images\/rush-hour-3.jpg",
+			"slug":"rush-hour-3"
+		},
+		{
+			"title":"Rush Hour 2",
+			"gatsby_image_path":"..\/..\/images\/rush-hour-2.jpg",
+			"slug":"rush-hour-2"
+		},
+		{
+			"title":"Reprisal",
+			"gatsby_image_path":"..\/..\/images\/reprisal.jpg",
+			"slug":"reprisal"
+		},
+		{
+			"title":"Red Riding Hood",
+			"gatsby_image_path":"..\/..\/images\/red-riding-hood.jpg",
+			"slug":"red-riding-hood"
 		}
 	],
 	"related_most_similar":[
@@ -269,19 +319,34 @@
 			"slug":"doctor-strange"
 		},
 		{
-			"title":"The New Mutants",
-			"gatsby_image_path":"..\/..\/images\/the-new-mutants.jpg",
-			"slug":"the-new-mutants"
-		},
-		{
 			"title":"Clown",
 			"gatsby_image_path":"..\/..\/images\/clown.jpg",
 			"slug":"clown"
 		},
 		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"The New Mutants",
+			"gatsby_image_path":"..\/..\/images\/the-new-mutants.jpg",
+			"slug":"the-new-mutants"
+		},
+		{
+			"title":"Escape Room",
+			"gatsby_image_path":"..\/..\/images\/escape-room.jpg",
+			"slug":"escape-room"
+		},
+		{
 			"title":"Infinite",
 			"gatsby_image_path":"..\/..\/images\/infinite.jpg",
 			"slug":"infinite"
+		},
+		{
+			"title":"Extinction",
+			"gatsby_image_path":"..\/..\/images\/extinction.jpg",
+			"slug":"extinction"
 		},
 		{
 			"title":"The Divine Fury",
@@ -294,19 +359,19 @@
 			"slug":"the-maze-runner"
 		},
 		{
-			"title":"IO",
-			"gatsby_image_path":"..\/..\/images\/io.jpg",
-			"slug":"io"
-		},
-		{
-			"title":"Extinction",
-			"gatsby_image_path":"..\/..\/images\/extinction.jpg",
-			"slug":"extinction"
+			"title":"Child's Play",
+			"gatsby_image_path":"..\/..\/images\/child-s-play.jpg",
+			"slug":"child-s-play"
 		},
 		{
 			"title":"Tomb Invader",
 			"gatsby_image_path":"..\/..\/images\/tomb-invader.jpg",
 			"slug":"tomb-invader"
+		},
+		{
+			"title":"IO",
+			"gatsby_image_path":"..\/..\/images\/io.jpg",
+			"slug":"io"
 		},
 		{
 			"title":"The Final Destination",
@@ -319,14 +384,14 @@
 			"slug":"seobok"
 		},
 		{
-			"title":"Steven Universe: The Movie",
-			"gatsby_image_path":"..\/..\/images\/steven-universe-the-movie.jpg",
-			"slug":"steven-universe-the-movie"
+			"title":"Polaroid",
+			"gatsby_image_path":"..\/..\/images\/polaroid.jpg",
+			"slug":"polaroid"
 		},
 		{
-			"title":"Back to the Future",
-			"gatsby_image_path":"..\/..\/images\/back-to-the-future.jpg",
-			"slug":"back-to-the-future"
+			"title":"In the Name of the King 2: Two Worlds",
+			"gatsby_image_path":"..\/..\/images\/in-the-name-of-the-king-2-two-worlds.jpg",
+			"slug":"in-the-name-of-the-king-2-two-worlds"
 		},
 		{
 			"title":"Dragonheart: Vengeance",
@@ -334,29 +399,14 @@
 			"slug":"dragonheart-vengeance"
 		},
 		{
-			"title":"Django Unchained",
-			"gatsby_image_path":"..\/..\/images\/django-unchained.jpg",
-			"slug":"django-unchained"
+			"title":"Lockout",
+			"gatsby_image_path":"..\/..\/images\/lockout.jpg",
+			"slug":"lockout"
 		},
 		{
-			"title":"El Camino: A Breaking Bad Movie",
-			"gatsby_image_path":"..\/..\/images\/el-camino-a-breaking-bad-movie.jpg",
-			"slug":"el-camino-a-breaking-bad-movie"
-		},
-		{
-			"title":"Raiders of the Lost Ark",
-			"gatsby_image_path":"..\/..\/images\/raiders-of-the-lost-ark.jpg",
-			"slug":"raiders-of-the-lost-ark"
-		},
-		{
-			"title":"Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
-			"gatsby_image_path":"..\/..\/images\/birds-of-prey-and-the-fantabulous-emancipation-of-one-harley-quinn.jpg",
-			"slug":"birds-of-prey-and-the-fantabulous-emancipation-of-one-harley-quinn"
-		},
-		{
-			"title":"My Hero Academia: World Heroes' Mission",
-			"gatsby_image_path":"..\/..\/images\/my-hero-academia-world-heroes-mission.jpg",
-			"slug":"my-hero-academia-world-heroes-mission"
+			"title":"Steven Universe: The Movie",
+			"gatsby_image_path":"..\/..\/images\/steven-universe-the-movie.jpg",
+			"slug":"steven-universe-the-movie"
 		}
 	],
 	"tmdb_id":18,

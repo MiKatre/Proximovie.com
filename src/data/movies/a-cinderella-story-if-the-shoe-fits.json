@@ -51,6 +51,11 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"The Legacy of Chucky",
+			"gatsby_image_path":"..\/..\/images\/the-legacy-of-chucky.jpg",
+			"slug":"the-legacy-of-chucky"
+		},
+		{
 			"title":"Stuart Little",
 			"gatsby_image_path":"..\/..\/images\/stuart-little.jpg",
 			"slug":"stuart-little"
@@ -66,6 +71,11 @@
 			"slug":"seed-of-chucky"
 		},
 		{
+			"title":"My Little Pony: A New Generation",
+			"gatsby_image_path":"..\/..\/images\/my-little-pony-a-new-generation.jpg",
+			"slug":"my-little-pony-a-new-generation"
+		},
+		{
 			"title":"Monsters, Inc.",
 			"gatsby_image_path":"..\/..\/images\/monsters-inc.jpg",
 			"slug":"monsters-inc"
@@ -74,6 +84,11 @@
 			"title":"Home on the Range",
 			"gatsby_image_path":"..\/..\/images\/home-on-the-range.jpg",
 			"slug":"home-on-the-range"
+		},
+		{
+			"title":"Descendants: The Royal Wedding",
+			"gatsby_image_path":"..\/..\/images\/descendants-the-royal-wedding.jpg",
+			"slug":"descendants-the-royal-wedding"
 		},
 		{
 			"title":"Descendants",
@@ -91,14 +106,49 @@
 			"slug":"descendants-2"
 		},
 		{
+			"title":"Curse of Chucky",
+			"gatsby_image_path":"..\/..\/images\/curse-of-chucky.jpg",
+			"slug":"curse-of-chucky"
+		},
+		{
 			"title":"Cult of Chucky",
 			"gatsby_image_path":"..\/..\/images\/cult-of-chucky.jpg",
 			"slug":"cult-of-chucky"
 		},
 		{
+			"title":"Chucky's Vacation Slides",
+			"gatsby_image_path":"..\/..\/images\/chucky-s-vacation-slides.jpg",
+			"slug":"chucky-s-vacation-slides"
+		},
+		{
 			"title":"Bride of Chucky",
 			"gatsby_image_path":"..\/..\/images\/bride-of-chucky.jpg",
 			"slug":"bride-of-chucky"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
+			"title":"Zombieland: Double Tap",
+			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
+			"slug":"zombieland-double-tap"
+		},
+		{
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
 		}
 	],
 	"related_most_similar":[
@@ -257,14 +307,14 @@
 	],
 	"related_by_overview":[
 		{
-			"title":"Beauty and the Beast",
-			"gatsby_image_path":"..\/..\/images\/beauty-and-the-beast.jpg",
-			"slug":"beauty-and-the-beast"
-		},
-		{
 			"title":"Mary Poppins",
 			"gatsby_image_path":"..\/..\/images\/mary-poppins.jpg",
 			"slug":"mary-poppins"
+		},
+		{
+			"title":"Daddy's Perfect Little Girl",
+			"gatsby_image_path":"..\/..\/images\/daddy-s-perfect-little-girl.jpg",
+			"slug":"daddy-s-perfect-little-girl"
 		},
 		{
 			"title":"The Little Mermaid",
@@ -277,9 +327,9 @@
 			"slug":"barbie-of-swan-lake"
 		},
 		{
-			"title":"Fantasia",
-			"gatsby_image_path":"..\/..\/images\/fantasia.jpg",
-			"slug":"fantasia"
+			"title":"The Indian in the Cupboard",
+			"gatsby_image_path":"..\/..\/images\/the-indian-in-the-cupboard.jpg",
+			"slug":"the-indian-in-the-cupboard"
 		},
 		{
 			"title":"Barbie: Princess Adventure",
@@ -287,9 +337,9 @@
 			"slug":"barbie-princess-adventure"
 		},
 		{
-			"title":"The Indian in the Cupboard",
-			"gatsby_image_path":"..\/..\/images\/the-indian-in-the-cupboard.jpg",
-			"slug":"the-indian-in-the-cupboard"
+			"title":"Fantasia",
+			"gatsby_image_path":"..\/..\/images\/fantasia.jpg",
+			"slug":"fantasia"
 		},
 		{
 			"title":"Tinker Bell",
@@ -297,29 +347,24 @@
 			"slug":"tinker-bell"
 		},
 		{
-			"title":"Sausage Party",
-			"gatsby_image_path":"..\/..\/images\/sausage-party.jpg",
-			"slug":"sausage-party"
-		},
-		{
 			"title":"A Dog's Way Home",
 			"gatsby_image_path":"..\/..\/images\/a-dog-s-way-home.jpg",
 			"slug":"a-dog-s-way-home"
 		},
 		{
-			"title":"The Knight Before Christmas",
-			"gatsby_image_path":"..\/..\/images\/the-knight-before-christmas.jpg",
-			"slug":"the-knight-before-christmas"
+			"title":"Sausage Party",
+			"gatsby_image_path":"..\/..\/images\/sausage-party.jpg",
+			"slug":"sausage-party"
 		},
 		{
-			"title":"Kidnapped",
-			"gatsby_image_path":"..\/..\/images\/kidnapped.jpg",
-			"slug":"kidnapped"
+			"title":"The Loud House Movie",
+			"gatsby_image_path":"..\/..\/images\/the-loud-house-movie.jpg",
+			"slug":"the-loud-house-movie"
 		},
 		{
-			"title":"Joseph: King of Dreams",
-			"gatsby_image_path":"..\/..\/images\/joseph-king-of-dreams.jpg",
-			"slug":"joseph-king-of-dreams"
+			"title":"Matilda",
+			"gatsby_image_path":"..\/..\/images\/matilda.jpg",
+			"slug":"matilda"
 		},
 		{
 			"title":"Adventures of Aladdin",
@@ -327,24 +372,29 @@
 			"slug":"adventures-of-aladdin"
 		},
 		{
+			"title":"Kidnapped",
+			"gatsby_image_path":"..\/..\/images\/kidnapped.jpg",
+			"slug":"kidnapped"
+		},
+		{
+			"title":"The Knight Before Christmas",
+			"gatsby_image_path":"..\/..\/images\/the-knight-before-christmas.jpg",
+			"slug":"the-knight-before-christmas"
+		},
+		{
 			"title":"ariana grande: excuse me, i love you",
 			"gatsby_image_path":"..\/..\/images\/ariana-grande-excuse-me-i-love-you.jpg",
 			"slug":"ariana-grande-excuse-me-i-love-you"
 		},
 		{
-			"title":"Kiki's Delivery Service",
-			"gatsby_image_path":"..\/..\/images\/kiki-s-delivery-service.jpg",
-			"slug":"kiki-s-delivery-service"
+			"title":"Uptown Girls",
+			"gatsby_image_path":"..\/..\/images\/uptown-girls.jpg",
+			"slug":"uptown-girls"
 		},
 		{
-			"title":"Paperhouse",
-			"gatsby_image_path":"..\/..\/images\/paperhouse.jpg",
-			"slug":"paperhouse"
-		},
-		{
-			"title":"Emma.",
-			"gatsby_image_path":"..\/..\/images\/emma.jpg",
-			"slug":"emma"
+			"title":"Joseph: King of Dreams",
+			"gatsby_image_path":"..\/..\/images\/joseph-king-of-dreams.jpg",
+			"slug":"joseph-king-of-dreams"
 		},
 		{
 			"title":"BLACKPINK: Light Up the Sky",
@@ -352,9 +402,9 @@
 			"slug":"blackpink-light-up-the-sky"
 		},
 		{
-			"title":"The Lorax",
-			"gatsby_image_path":"..\/..\/images\/the-lorax.jpg",
-			"slug":"the-lorax"
+			"title":"The Eternal",
+			"gatsby_image_path":"..\/..\/images\/the-eternal.jpg",
+			"slug":"the-eternal"
 		}
 	],
 	"tmdb_id":407655,

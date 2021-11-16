@@ -52,9 +52,19 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Viking Quest",
+			"gatsby_image_path":"..\/..\/images\/viking-quest.jpg",
+			"slug":"viking-quest"
+		},
+		{
 			"title":"The Witch",
 			"gatsby_image_path":"..\/..\/images\/the-witch.jpg",
 			"slug":"the-witch"
+		},
+		{
+			"title":"The Power of the Dog",
+			"gatsby_image_path":"..\/..\/images\/the-power-of-the-dog.jpg",
+			"slug":"the-power-of-the-dog"
 		},
 		{
 			"title":"The Owners",
@@ -77,6 +87,11 @@
 			"slug":"predators"
 		},
 		{
+			"title":"Last Night in Soho",
+			"gatsby_image_path":"..\/..\/images\/last-night-in-soho.jpg",
+			"slug":"last-night-in-soho"
+		},
+		{
 			"title":"I Am Legend",
 			"gatsby_image_path":"..\/..\/images\/i-am-legend.jpg",
 			"slug":"i-am-legend"
@@ -92,6 +107,11 @@
 			"slug":"emma"
 		},
 		{
+			"title":"Elysium",
+			"gatsby_image_path":"..\/..\/images\/elysium.jpg",
+			"slug":"elysium"
+		},
+		{
 			"title":"City of God",
 			"gatsby_image_path":"..\/..\/images\/city-of-god.jpg",
 			"slug":"city-of-god"
@@ -100,6 +120,36 @@
 			"title":"Bright",
 			"gatsby_image_path":"..\/..\/images\/bright.jpg",
 			"slug":"bright"
+		},
+		{
+			"title":"22 vs. Earth",
+			"gatsby_image_path":"..\/..\/images\/22-vs.-earth.jpg",
+			"slug":"22-vs.-earth"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
+			"title":"Zombieland: Double Tap",
+			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
+			"slug":"zombieland-double-tap"
+		},
+		{
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
 		}
 	],
 	"related_most_similar":[
@@ -273,9 +323,9 @@
 			"slug":"the-matrix"
 		},
 		{
-			"title":"Dune",
-			"gatsby_image_path":"..\/..\/images\/dune.jpg",
-			"slug":"dune"
+			"title":"Left Behind",
+			"gatsby_image_path":"..\/..\/images\/left-behind.jpg",
+			"slug":"left-behind"
 		},
 		{
 			"title":"Steven Universe: The Movie",
@@ -288,6 +338,11 @@
 			"slug":"the-final-destination"
 		},
 		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
 			"title":"Dawn of the Planet of the Apes",
 			"gatsby_image_path":"..\/..\/images\/dawn-of-the-planet-of-the-apes.jpg",
 			"slug":"dawn-of-the-planet-of-the-apes"
@@ -298,24 +353,14 @@
 			"slug":"doctor-strange"
 		},
 		{
+			"title":"Universal Soldier: Regeneration",
+			"gatsby_image_path":"..\/..\/images\/universal-soldier-regeneration.jpg",
+			"slug":"universal-soldier-regeneration"
+		},
+		{
 			"title":"The Divine Fury",
 			"gatsby_image_path":"..\/..\/images\/the-divine-fury.jpg",
 			"slug":"the-divine-fury"
-		},
-		{
-			"title":"Tomb Invader",
-			"gatsby_image_path":"..\/..\/images\/tomb-invader.jpg",
-			"slug":"tomb-invader"
-		},
-		{
-			"title":"Captain Marvel",
-			"gatsby_image_path":"..\/..\/images\/captain-marvel.jpg",
-			"slug":"captain-marvel"
-		},
-		{
-			"title":"Rise of the Guardians",
-			"gatsby_image_path":"..\/..\/images\/rise-of-the-guardians.jpg",
-			"slug":"rise-of-the-guardians"
 		},
 		{
 			"title":"The Predator",
@@ -323,9 +368,9 @@
 			"slug":"the-predator"
 		},
 		{
-			"title":"Infinite",
-			"gatsby_image_path":"..\/..\/images\/infinite.jpg",
-			"slug":"infinite"
+			"title":"Tomb Invader",
+			"gatsby_image_path":"..\/..\/images\/tomb-invader.jpg",
+			"slug":"tomb-invader"
 		},
 		{
 			"title":"Singularity",
@@ -333,9 +378,24 @@
 			"slug":"singularity"
 		},
 		{
+			"title":"Rise of the Guardians",
+			"gatsby_image_path":"..\/..\/images\/rise-of-the-guardians.jpg",
+			"slug":"rise-of-the-guardians"
+		},
+		{
+			"title":"Infinite",
+			"gatsby_image_path":"..\/..\/images\/infinite.jpg",
+			"slug":"infinite"
+		},
+		{
 			"title":"Maze Runner: The Scorch Trials",
 			"gatsby_image_path":"..\/..\/images\/maze-runner-the-scorch-trials.jpg",
 			"slug":"maze-runner-the-scorch-trials"
+		},
+		{
+			"title":"Captain Marvel",
+			"gatsby_image_path":"..\/..\/images\/captain-marvel.jpg",
+			"slug":"captain-marvel"
 		},
 		{
 			"title":"The Misfits",
@@ -343,19 +403,9 @@
 			"slug":"the-misfits"
 		},
 		{
-			"title":"Return of the Living Dead III",
-			"gatsby_image_path":"..\/..\/images\/return-of-the-living-dead-iii.jpg",
-			"slug":"return-of-the-living-dead-iii"
-		},
-		{
-			"title":"Extinction",
-			"gatsby_image_path":"..\/..\/images\/extinction.jpg",
-			"slug":"extinction"
-		},
-		{
-			"title":"Friday the 13th: The Final Chapter",
-			"gatsby_image_path":"..\/..\/images\/friday-the-13th-the-final-chapter.jpg",
-			"slug":"friday-the-13th-the-final-chapter"
+			"title":"Carrie",
+			"gatsby_image_path":"..\/..\/images\/carrie.jpg",
+			"slug":"carrie"
 		}
 	],
 	"tmdb_id":340102,

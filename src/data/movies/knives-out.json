@@ -88,6 +88,16 @@
 			"slug":"the-purge-anarchy"
 		},
 		{
+			"title":"The Losers",
+			"gatsby_image_path":"..\/..\/images\/the-losers.jpg",
+			"slug":"the-losers"
+		},
+		{
+			"title":"The Harder They Fall",
+			"gatsby_image_path":"..\/..\/images\/the-harder-they-fall.jpg",
+			"slug":"the-harder-they-fall"
+		},
+		{
 			"title":"The Avengers",
 			"gatsby_image_path":"..\/..\/images\/the-avengers.jpg",
 			"slug":"the-avengers"
@@ -101,6 +111,46 @@
 			"title":"Spectre",
 			"gatsby_image_path":"..\/..\/images\/spectre.jpg",
 			"slug":"spectre"
+		},
+		{
+			"title":"Snowpiercer",
+			"gatsby_image_path":"..\/..\/images\/snowpiercer.jpg",
+			"slug":"snowpiercer"
+		},
+		{
+			"title":"Skyfall",
+			"gatsby_image_path":"..\/..\/images\/skyfall.jpg",
+			"slug":"skyfall"
+		},
+		{
+			"title":"Sex, Party and Lies",
+			"gatsby_image_path":"..\/..\/images\/sex-party-and-lies.jpg",
+			"slug":"sex-party-and-lies"
+		},
+		{
+			"title":"Revolutionary Road",
+			"gatsby_image_path":"..\/..\/images\/revolutionary-road.jpg",
+			"slug":"revolutionary-road"
+		},
+		{
+			"title":"Quantum of Solace",
+			"gatsby_image_path":"..\/..\/images\/quantum-of-solace.jpg",
+			"slug":"quantum-of-solace"
+		},
+		{
+			"title":"Not Another Teen Movie",
+			"gatsby_image_path":"..\/..\/images\/not-another-teen-movie.jpg",
+			"slug":"not-another-teen-movie"
+		},
+		{
+			"title":"Man of Steel",
+			"gatsby_image_path":"..\/..\/images\/man-of-steel.jpg",
+			"slug":"man-of-steel"
+		},
+		{
+			"title":"Machine Gun Preacher",
+			"gatsby_image_path":"..\/..\/images\/machine-gun-preacher.jpg",
+			"slug":"machine-gun-preacher"
 		}
 	],
 	"related_most_similar":[
@@ -274,19 +324,19 @@
 			"slug":"the-hills-have-eyes"
 		},
 		{
-			"title":"Saw 3D",
-			"gatsby_image_path":"..\/..\/images\/saw-3d.jpg",
-			"slug":"saw-3d"
-		},
-		{
-			"title":"The Autopsy of Jane Doe",
-			"gatsby_image_path":"..\/..\/images\/the-autopsy-of-jane-doe.jpg",
-			"slug":"the-autopsy-of-jane-doe"
-		},
-		{
 			"title":"Palmer",
 			"gatsby_image_path":"..\/..\/images\/palmer.jpg",
 			"slug":"palmer"
+		},
+		{
+			"title":"The Lovely Bones",
+			"gatsby_image_path":"..\/..\/images\/the-lovely-bones.jpg",
+			"slug":"the-lovely-bones"
+		},
+		{
+			"title":"Saw 3D",
+			"gatsby_image_path":"..\/..\/images\/saw-3d.jpg",
+			"slug":"saw-3d"
 		},
 		{
 			"title":"Friday the 13th: The Final Chapter",
@@ -294,9 +344,14 @@
 			"slug":"friday-the-13th-the-final-chapter"
 		},
 		{
-			"title":"The Lovely Bones",
-			"gatsby_image_path":"..\/..\/images\/the-lovely-bones.jpg",
-			"slug":"the-lovely-bones"
+			"title":"Tears of the Sun",
+			"gatsby_image_path":"..\/..\/images\/tears-of-the-sun.jpg",
+			"slug":"tears-of-the-sun"
+		},
+		{
+			"title":"The Autopsy of Jane Doe",
+			"gatsby_image_path":"..\/..\/images\/the-autopsy-of-jane-doe.jpg",
+			"slug":"the-autopsy-of-jane-doe"
 		},
 		{
 			"title":"Captive State",
@@ -309,9 +364,9 @@
 			"slug":"naked-singularity"
 		},
 		{
-			"title":"The Misfits",
-			"gatsby_image_path":"..\/..\/images\/the-misfits.jpg",
-			"slug":"the-misfits"
+			"title":"Candyman",
+			"gatsby_image_path":"..\/..\/images\/candyman.jpg",
+			"slug":"candyman"
 		},
 		{
 			"title":"The Godfather",
@@ -319,9 +374,19 @@
 			"slug":"the-godfather"
 		},
 		{
-			"title":"Motherless Brooklyn",
-			"gatsby_image_path":"..\/..\/images\/motherless-brooklyn.jpg",
-			"slug":"motherless-brooklyn"
+			"title":"Miss March",
+			"gatsby_image_path":"..\/..\/images\/miss-march.jpg",
+			"slug":"miss-march"
+		},
+		{
+			"title":"Dark Shadows",
+			"gatsby_image_path":"..\/..\/images\/dark-shadows.jpg",
+			"slug":"dark-shadows"
+		},
+		{
+			"title":"The Misfits",
+			"gatsby_image_path":"..\/..\/images\/the-misfits.jpg",
+			"slug":"the-misfits"
 		},
 		{
 			"title":"The Immortal",
@@ -329,24 +394,9 @@
 			"slug":"the-immortal"
 		},
 		{
-			"title":"Jungle",
-			"gatsby_image_path":"..\/..\/images\/jungle.jpg",
-			"slug":"jungle"
-		},
-		{
-			"title":"Crisis",
-			"gatsby_image_path":"..\/..\/images\/crisis.jpg",
-			"slug":"crisis"
-		},
-		{
-			"title":"Law Abiding Citizen",
-			"gatsby_image_path":"..\/..\/images\/law-abiding-citizen.jpg",
-			"slug":"law-abiding-citizen"
-		},
-		{
-			"title":"Inglourious Basterds",
-			"gatsby_image_path":"..\/..\/images\/inglourious-basterds.jpg",
-			"slug":"inglourious-basterds"
+			"title":"Motherless Brooklyn",
+			"gatsby_image_path":"..\/..\/images\/motherless-brooklyn.jpg",
+			"slug":"motherless-brooklyn"
 		},
 		{
 			"title":"Bordello of Blood",
@@ -354,9 +404,9 @@
 			"slug":"bordello-of-blood"
 		},
 		{
-			"title":"A Score to Settle",
-			"gatsby_image_path":"..\/..\/images\/a-score-to-settle.jpg",
-			"slug":"a-score-to-settle"
+			"title":"Crisis",
+			"gatsby_image_path":"..\/..\/images\/crisis.jpg",
+			"slug":"crisis"
 		}
 	],
 	"tmdb_id":546554,

@@ -50,6 +50,11 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Yes Man",
+			"gatsby_image_path":"..\/..\/images\/yes-man.jpg",
+			"slug":"yes-man"
+		},
+		{
 			"title":"Wrath of the Titans",
 			"gatsby_image_path":"..\/..\/images\/wrath-of-the-titans.jpg",
 			"slug":"wrath-of-the-titans"
@@ -95,9 +100,54 @@
 			"slug":"love-simon"
 		},
 		{
-			"title":"Lady and the Tramp",
-			"gatsby_image_path":"..\/..\/images\/lady-and-the-tramp.jpg",
-			"slug":"lady-and-the-tramp"
+			"title":"Jungle Cruise",
+			"gatsby_image_path":"..\/..\/images\/jungle-cruise.jpg",
+			"slug":"jungle-cruise"
+		},
+		{
+			"title":"Ghosts of Girlfriends Past",
+			"gatsby_image_path":"..\/..\/images\/ghosts-of-girlfriends-past.jpg",
+			"slug":"ghosts-of-girlfriends-past"
+		},
+		{
+			"title":"Deported",
+			"gatsby_image_path":"..\/..\/images\/deported.jpg",
+			"slug":"deported"
+		},
+		{
+			"title":"Charlie's Angels",
+			"gatsby_image_path":"..\/..\/images\/charlie-s-angels.jpg",
+			"slug":"charlie-s-angels"
+		},
+		{
+			"title":"Catch Me If You Can",
+			"gatsby_image_path":"..\/..\/images\/catch-me-if-you-can.jpg",
+			"slug":"catch-me-if-you-can"
+		},
+		{
+			"title":"Captain Underpants: Mega Blissmas",
+			"gatsby_image_path":"..\/..\/images\/captain-underpants-mega-blissmas.jpg",
+			"slug":"captain-underpants-mega-blissmas"
+		},
+		{
+			"title":"Bright",
+			"gatsby_image_path":"..\/..\/images\/bright.jpg",
+			"slug":"bright"
+		},
+		{
+			"title":"Barb & Star Go to Vista Del Mar",
+			"gatsby_image_path":"..\/..\/images\/barb-star-go-to-vista-del-mar.jpg",
+			"slug":"barb-star-go-to-vista-del-mar"
+		},
+		{
+			"title":"13 Going on 30",
+			"gatsby_image_path":"..\/..\/images\/13-going-on-30.jpg",
+			"slug":"13-going-on-30"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
 		}
 	],
 	"related_most_similar":[
@@ -261,14 +311,39 @@
 			"slug":"my-boyfriend-s-meds"
 		},
 		{
-			"title":"Kidnapped",
-			"gatsby_image_path":"..\/..\/images\/kidnapped.jpg",
-			"slug":"kidnapped"
+			"title":"Daddy's Perfect Little Girl",
+			"gatsby_image_path":"..\/..\/images\/daddy-s-perfect-little-girl.jpg",
+			"slug":"daddy-s-perfect-little-girl"
+		},
+		{
+			"title":"My Brother, My Sister",
+			"gatsby_image_path":"..\/..\/images\/my-brother-my-sister.jpg",
+			"slug":"my-brother-my-sister"
+		},
+		{
+			"title":"Caught by a Wave",
+			"gatsby_image_path":"..\/..\/images\/caught-by-a-wave.jpg",
+			"slug":"caught-by-a-wave"
 		},
 		{
 			"title":"Daddy's Home 2",
 			"gatsby_image_path":"..\/..\/images\/daddy-s-home-2.jpg",
 			"slug":"daddy-s-home-2"
+		},
+		{
+			"title":"Tod@s Caen",
+			"gatsby_image_path":"..\/..\/images\/tod@s-caen.jpg",
+			"slug":"tod@s-caen"
+		},
+		{
+			"title":"Kidnapped",
+			"gatsby_image_path":"..\/..\/images\/kidnapped.jpg",
+			"slug":"kidnapped"
+		},
+		{
+			"title":"Good Boys",
+			"gatsby_image_path":"..\/..\/images\/good-boys.jpg",
+			"slug":"good-boys"
 		},
 		{
 			"title":"The Mitchells vs. the Machines",
@@ -281,16 +356,6 @@
 			"slug":"sex-drive"
 		},
 		{
-			"title":"Caught by a Wave",
-			"gatsby_image_path":"..\/..\/images\/caught-by-a-wave.jpg",
-			"slug":"caught-by-a-wave"
-		},
-		{
-			"title":"Good Boys",
-			"gatsby_image_path":"..\/..\/images\/good-boys.jpg",
-			"slug":"good-boys"
-		},
-		{
 			"title":"Superbad",
 			"gatsby_image_path":"..\/..\/images\/superbad.jpg",
 			"slug":"superbad"
@@ -301,14 +366,9 @@
 			"slug":"kiki-s-delivery-service"
 		},
 		{
-			"title":"Tod@s Caen",
-			"gatsby_image_path":"..\/..\/images\/tod@s-caen.jpg",
-			"slug":"tod@s-caen"
-		},
-		{
-			"title":"Paperhouse",
-			"gatsby_image_path":"..\/..\/images\/paperhouse.jpg",
-			"slug":"paperhouse"
+			"title":"The Right Mom",
+			"gatsby_image_path":"..\/..\/images\/the-right-mom.jpg",
+			"slug":"the-right-mom"
 		},
 		{
 			"title":"How to Be a Latin Lover",
@@ -316,14 +376,24 @@
 			"slug":"how-to-be-a-latin-lover"
 		},
 		{
+			"title":"Paperhouse",
+			"gatsby_image_path":"..\/..\/images\/paperhouse.jpg",
+			"slug":"paperhouse"
+		},
+		{
 			"title":"To All the Boys: Always and Forever",
 			"gatsby_image_path":"..\/..\/images\/to-all-the-boys-always-and-forever.jpg",
 			"slug":"to-all-the-boys-always-and-forever"
 		},
 		{
-			"title":"7 Guardians of the Tomb",
-			"gatsby_image_path":"..\/..\/images\/7-guardians-of-the-tomb.jpg",
-			"slug":"7-guardians-of-the-tomb"
+			"title":"The Starling",
+			"gatsby_image_path":"..\/..\/images\/the-starling.jpg",
+			"slug":"the-starling"
+		},
+		{
+			"title":"Friday the 13th",
+			"gatsby_image_path":"..\/..\/images\/friday-the-13th.jpg",
+			"slug":"friday-the-13th"
 		},
 		{
 			"title":"One Piece Film: GOLD",
@@ -334,26 +404,6 @@
 			"title":"Evil Eye",
 			"gatsby_image_path":"..\/..\/images\/evil-eye.jpg",
 			"slug":"evil-eye"
-		},
-		{
-			"title":"An Interview with God",
-			"gatsby_image_path":"..\/..\/images\/an-interview-with-god.jpg",
-			"slug":"an-interview-with-god"
-		},
-		{
-			"title":"Camp Cool Kids",
-			"gatsby_image_path":"..\/..\/images\/camp-cool-kids.jpg",
-			"slug":"camp-cool-kids"
-		},
-		{
-			"title":"Bad Trip",
-			"gatsby_image_path":"..\/..\/images\/bad-trip.jpg",
-			"slug":"bad-trip"
-		},
-		{
-			"title":"Sausage Party",
-			"gatsby_image_path":"..\/..\/images\/sausage-party.jpg",
-			"slug":"sausage-party"
 		}
 	],
 	"tmdb_id":638597,

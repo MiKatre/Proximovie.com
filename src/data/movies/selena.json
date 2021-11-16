@@ -61,6 +61,26 @@
 			"slug":"the-road-to-el-dorado"
 		},
 		{
+			"title":"The Hills Have Eyes 2",
+			"gatsby_image_path":"..\/..\/images\/the-hills-have-eyes-2.jpg",
+			"slug":"the-hills-have-eyes-2"
+		},
+		{
+			"title":"Puss in Boots",
+			"gatsby_image_path":"..\/..\/images\/puss-in-boots.jpg",
+			"slug":"puss-in-boots"
+		},
+		{
+			"title":"Parker",
+			"gatsby_image_path":"..\/..\/images\/parker.jpg",
+			"slug":"parker"
+		},
+		{
+			"title":"Ice Age: The Great Egg-Scapade",
+			"gatsby_image_path":"..\/..\/images\/ice-age-the-great-egg-scapade.jpg",
+			"slug":"ice-age-the-great-egg-scapade"
+		},
+		{
 			"title":"Ice Age: Continental Drift",
 			"gatsby_image_path":"..\/..\/images\/ice-age-continental-drift.jpg",
 			"slug":"ice-age-continental-drift"
@@ -81,6 +101,11 @@
 			"slug":"home"
 		},
 		{
+			"title":"Heaven Is for Real",
+			"gatsby_image_path":"..\/..\/images\/heaven-is-for-real.jpg",
+			"slug":"heaven-is-for-real"
+		},
+		{
 			"title":"Beverly Hills Chihuahua",
 			"gatsby_image_path":"..\/..\/images\/beverly-hills-chihuahua.jpg",
 			"slug":"beverly-hills-chihuahua"
@@ -91,14 +116,39 @@
 			"slug":"bad-boys-ii"
 		},
 		{
+			"title":"Anaconda",
+			"gatsby_image_path":"..\/..\/images\/anaconda.jpg",
+			"slug":"anaconda"
+		},
+		{
 			"title":"A Dog's Way Home",
 			"gatsby_image_path":"..\/..\/images\/a-dog-s-way-home.jpg",
 			"slug":"a-dog-s-way-home"
 		},
 		{
+			"title":"2 Guns",
+			"gatsby_image_path":"..\/..\/images\/2-guns.jpg",
+			"slug":"2-guns"
+		},
+		{
 			"title":"Zootopia",
 			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
 			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
+			"title":"Zombieland: Double Tap",
+			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
+			"slug":"zombieland-double-tap"
 		}
 	],
 	"related_most_similar":[
@@ -262,19 +312,24 @@
 			"slug":"coco"
 		},
 		{
-			"title":"Sin Nombre",
-			"gatsby_image_path":"..\/..\/images\/sin-nombre.jpg",
-			"slug":"sin-nombre"
-		},
-		{
 			"title":"No Manches Frida",
 			"gatsby_image_path":"..\/..\/images\/no-manches-frida.jpg",
 			"slug":"no-manches-frida"
 		},
 		{
+			"title":"Sin Nombre",
+			"gatsby_image_path":"..\/..\/images\/sin-nombre.jpg",
+			"slug":"sin-nombre"
+		},
+		{
 			"title":"Bound by Honor",
 			"gatsby_image_path":"..\/..\/images\/bound-by-honor.jpg",
 			"slug":"bound-by-honor"
+		},
+		{
+			"title":"The Intruder",
+			"gatsby_image_path":"..\/..\/images\/the-intruder.jpg",
+			"slug":"the-intruder"
 		},
 		{
 			"title":"Rosario Tijeras",
@@ -287,14 +342,14 @@
 			"slug":"cindy-la-regia"
 		},
 		{
-			"title":"Tiempo al tiempo",
-			"gatsby_image_path":"..\/..\/images\/tiempo-al-tiempo.jpg",
-			"slug":"tiempo-al-tiempo"
-		},
-		{
 			"title":"War of Likes",
 			"gatsby_image_path":"..\/..\/images\/war-of-likes.jpg",
 			"slug":"war-of-likes"
+		},
+		{
+			"title":"Tiempo al tiempo",
+			"gatsby_image_path":"..\/..\/images\/tiempo-al-tiempo.jpg",
+			"slug":"tiempo-al-tiempo"
 		},
 		{
 			"title":"Scarface",
@@ -327,24 +382,9 @@
 			"slug":"encanto"
 		},
 		{
-			"title":"Nacho Libre",
-			"gatsby_image_path":"..\/..\/images\/nacho-libre.jpg",
-			"slug":"nacho-libre"
-		},
-		{
-			"title":"This Little Love of Mine",
-			"gatsby_image_path":"..\/..\/images\/this-little-love-of-mine.jpg",
-			"slug":"this-little-love-of-mine"
-		},
-		{
-			"title":"Rambo: Last Blood",
-			"gatsby_image_path":"..\/..\/images\/rambo-last-blood.jpg",
-			"slug":"rambo-last-blood"
-		},
-		{
-			"title":"Fifty Shades of Grey",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
-			"slug":"fifty-shades-of-grey"
+			"title":"A un paso de mí",
+			"gatsby_image_path":"..\/..\/images\/a-un-paso-de-mí.jpg",
+			"slug":"a-un-paso-de-mí"
 		},
 		{
 			"title":"Fifty Shades Darker",
@@ -352,9 +392,19 @@
 			"slug":"fifty-shades-darker"
 		},
 		{
-			"title":"The Girl Next Door",
-			"gatsby_image_path":"..\/..\/images\/the-girl-next-door.jpg",
-			"slug":"the-girl-next-door"
+			"title":"Rambo: Last Blood",
+			"gatsby_image_path":"..\/..\/images\/rambo-last-blood.jpg",
+			"slug":"rambo-last-blood"
+		},
+		{
+			"title":"This Little Love of Mine",
+			"gatsby_image_path":"..\/..\/images\/this-little-love-of-mine.jpg",
+			"slug":"this-little-love-of-mine"
+		},
+		{
+			"title":"Nacho Libre",
+			"gatsby_image_path":"..\/..\/images\/nacho-libre.jpg",
+			"slug":"nacho-libre"
 		}
 	],
 	"tmdb_id":16052,

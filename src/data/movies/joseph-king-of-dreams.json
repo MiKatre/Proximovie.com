@@ -81,6 +81,11 @@
 			"slug":"the-last-thing-he-wanted"
 		},
 		{
+			"title":"The Last Duel",
+			"gatsby_image_path":"..\/..\/images\/the-last-duel.jpg",
+			"slug":"the-last-duel"
+		},
+		{
 			"title":"The Flash",
 			"gatsby_image_path":"..\/..\/images\/the-flash.jpg",
 			"slug":"the-flash"
@@ -91,6 +96,11 @@
 			"slug":"the-accountant"
 		},
 		{
+			"title":"State of Play",
+			"gatsby_image_path":"..\/..\/images\/state-of-play.jpg",
+			"slug":"state-of-play"
+		},
+		{
 			"title":"Star Wars: The Rise of Skywalker",
 			"gatsby_image_path":"..\/..\/images\/star-wars-the-rise-of-skywalker.jpg",
 			"slug":"star-wars-the-rise-of-skywalker"
@@ -99,6 +109,46 @@
 			"title":"Star Wars: The Last Jedi",
 			"gatsby_image_path":"..\/..\/images\/star-wars-the-last-jedi.jpg",
 			"slug":"star-wars-the-last-jedi"
+		},
+		{
+			"title":"Star Wars: The Force Awakens",
+			"gatsby_image_path":"..\/..\/images\/star-wars-the-force-awakens.jpg",
+			"slug":"star-wars-the-force-awakens"
+		},
+		{
+			"title":"Star Wars",
+			"gatsby_image_path":"..\/..\/images\/star-wars.jpg",
+			"slug":"star-wars"
+		},
+		{
+			"title":"Spirit: Stallion of the Cimarron",
+			"gatsby_image_path":"..\/..\/images\/spirit-stallion-of-the-cimarron.jpg",
+			"slug":"spirit-stallion-of-the-cimarron"
+		},
+		{
+			"title":"Pearl Harbor",
+			"gatsby_image_path":"..\/..\/images\/pearl-harbor.jpg",
+			"slug":"pearl-harbor"
+		},
+		{
+			"title":"Kingsman: The Secret Service",
+			"gatsby_image_path":"..\/..\/images\/kingsman-the-secret-service.jpg",
+			"slug":"kingsman-the-secret-service"
+		},
+		{
+			"title":"Justice League",
+			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
+			"slug":"justice-league"
+		},
+		{
+			"title":"He's Just Not That Into You",
+			"gatsby_image_path":"..\/..\/images\/he-s-just-not-that-into-you.jpg",
+			"slug":"he-s-just-not-that-into-you"
+		},
+		{
+			"title":"Good Will Hunting",
+			"gatsby_image_path":"..\/..\/images\/good-will-hunting.jpg",
+			"slug":"good-will-hunting"
 		}
 	],
 	"related_most_similar":[
@@ -257,11 +307,6 @@
 	],
 	"related_by_overview":[
 		{
-			"title":"Child's Play",
-			"gatsby_image_path":"..\/..\/images\/child-s-play.jpg",
-			"slug":"child-s-play"
-		},
-		{
 			"title":"CJ7",
 			"gatsby_image_path":"..\/..\/images\/cj7.jpg",
 			"slug":"cj7"
@@ -272,14 +317,14 @@
 			"slug":"barbie-of-swan-lake"
 		},
 		{
-			"title":"Hachi: A Dog's Tale",
-			"gatsby_image_path":"..\/..\/images\/hachi-a-dog-s-tale.jpg",
-			"slug":"hachi-a-dog-s-tale"
-		},
-		{
 			"title":"Howl's Moving Castle",
 			"gatsby_image_path":"..\/..\/images\/howl-s-moving-castle.jpg",
 			"slug":"howl-s-moving-castle"
+		},
+		{
+			"title":"Hachi: A Dog's Tale",
+			"gatsby_image_path":"..\/..\/images\/hachi-a-dog-s-tale.jpg",
+			"slug":"hachi-a-dog-s-tale"
 		},
 		{
 			"title":"The Iron Giant",
@@ -292,14 +337,14 @@
 			"slug":"arlo-the-alligator-boy"
 		},
 		{
-			"title":"Children of the Corn",
-			"gatsby_image_path":"..\/..\/images\/children-of-the-corn.jpg",
-			"slug":"children-of-the-corn"
-		},
-		{
 			"title":"The Indian in the Cupboard",
 			"gatsby_image_path":"..\/..\/images\/the-indian-in-the-cupboard.jpg",
 			"slug":"the-indian-in-the-cupboard"
+		},
+		{
+			"title":"Children of the Corn",
+			"gatsby_image_path":"..\/..\/images\/children-of-the-corn.jpg",
+			"slug":"children-of-the-corn"
 		},
 		{
 			"title":"Leprechaun: Back 2 tha Hood",
@@ -307,14 +352,14 @@
 			"slug":"leprechaun-back-2-tha-hood"
 		},
 		{
-			"title":"The Mortuary Collection",
-			"gatsby_image_path":"..\/..\/images\/the-mortuary-collection.jpg",
-			"slug":"the-mortuary-collection"
+			"title":"Mary Magdalene",
+			"gatsby_image_path":"..\/..\/images\/mary-magdalene.jpg",
+			"slug":"mary-magdalene"
 		},
 		{
-			"title":"Paperhouse",
-			"gatsby_image_path":"..\/..\/images\/paperhouse.jpg",
-			"slug":"paperhouse"
+			"title":"The Boy Who Killed My Parents",
+			"gatsby_image_path":"..\/..\/images\/the-boy-who-killed-my-parents.jpg",
+			"slug":"the-boy-who-killed-my-parents"
 		},
 		{
 			"title":"Saludos Amigos",
@@ -322,9 +367,29 @@
 			"slug":"saludos-amigos"
 		},
 		{
+			"title":"The Haunting of Margam Castle",
+			"gatsby_image_path":"..\/..\/images\/the-haunting-of-margam-castle.jpg",
+			"slug":"the-haunting-of-margam-castle"
+		},
+		{
 			"title":"Freddy's Dead: The Final Nightmare",
 			"gatsby_image_path":"..\/..\/images\/freddy-s-dead-the-final-nightmare.jpg",
 			"slug":"freddy-s-dead-the-final-nightmare"
+		},
+		{
+			"title":"Paperhouse",
+			"gatsby_image_path":"..\/..\/images\/paperhouse.jpg",
+			"slug":"paperhouse"
+		},
+		{
+			"title":"Next-Door Nightmare",
+			"gatsby_image_path":"..\/..\/images\/next-door-nightmare.jpg",
+			"slug":"next-door-nightmare"
+		},
+		{
+			"title":"Dragon Fury",
+			"gatsby_image_path":"..\/..\/images\/dragon-fury.jpg",
+			"slug":"dragon-fury"
 		},
 		{
 			"title":"The Misadventures of Rick and Morty",
@@ -332,24 +397,9 @@
 			"slug":"the-misadventures-of-rick-and-morty"
 		},
 		{
-			"title":"Hacksaw Ridge",
-			"gatsby_image_path":"..\/..\/images\/hacksaw-ridge.jpg",
-			"slug":"hacksaw-ridge"
-		},
-		{
-			"title":"Timmy Failure: Mistakes Were Made",
-			"gatsby_image_path":"..\/..\/images\/timmy-failure-mistakes-were-made.jpg",
-			"slug":"timmy-failure-mistakes-were-made"
-		},
-		{
-			"title":"Friday the 13th",
-			"gatsby_image_path":"..\/..\/images\/friday-the-13th.jpg",
-			"slug":"friday-the-13th"
-		},
-		{
-			"title":"Pocahontas",
-			"gatsby_image_path":"..\/..\/images\/pocahontas.jpg",
-			"slug":"pocahontas"
+			"title":"The Mortuary Collection",
+			"gatsby_image_path":"..\/..\/images\/the-mortuary-collection.jpg",
+			"slug":"the-mortuary-collection"
 		},
 		{
 			"title":"Sicario: Day of the Soldado",

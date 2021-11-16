@@ -53,11 +53,6 @@
 	],
 	"related_by_cast":[
 		{
-			"title":"Twilight",
-			"gatsby_image_path":"..\/..\/images\/twilight.jpg",
-			"slug":"twilight"
-		},
-		{
 			"title":"Trinity Seven 2: Heaven's Library & Crimson Lord",
 			"gatsby_image_path":"..\/..\/images\/trinity-seven-2-heaven-s-library-crimson-lord.jpg",
 			"slug":"trinity-seven-2-heaven-s-library-crimson-lord"
@@ -101,6 +96,61 @@
 			"title":"My Hero Academia: Two Heroes",
 			"gatsby_image_path":"..\/..\/images\/my-hero-academia-two-heroes.jpg",
 			"slug":"my-hero-academia-two-heroes"
+		},
+		{
+			"title":"My Hero Academia: Heroes Rising",
+			"gatsby_image_path":"..\/..\/images\/my-hero-academia-heroes-rising.jpg",
+			"slug":"my-hero-academia-heroes-rising"
+		},
+		{
+			"title":"In This Corner of the World",
+			"gatsby_image_path":"..\/..\/images\/in-this-corner-of-the-world.jpg",
+			"slug":"in-this-corner-of-the-world"
+		},
+		{
+			"title":"Grisaia: Phantom Trigger The Animation",
+			"gatsby_image_path":"..\/..\/images\/grisaia-phantom-trigger-the-animation.jpg",
+			"slug":"grisaia-phantom-trigger-the-animation"
+		},
+		{
+			"title":"Death Note",
+			"gatsby_image_path":"..\/..\/images\/death-note.jpg",
+			"slug":"death-note"
+		},
+		{
+			"title":"Bungo Stray Dogs: Dead Apple",
+			"gatsby_image_path":"..\/..\/images\/bungo-stray-dogs-dead-apple.jpg",
+			"slug":"bungo-stray-dogs-dead-apple"
+		},
+		{
+			"title":"Bleach",
+			"gatsby_image_path":"..\/..\/images\/bleach.jpg",
+			"slug":"bleach"
+		},
+		{
+			"title":"Ao Oni The Animation",
+			"gatsby_image_path":"..\/..\/images\/ao-oni-the-animation.jpg",
+			"slug":"ao-oni-the-animation"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
+			"title":"Zombieland: Double Tap",
+			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
+			"slug":"zombieland-double-tap"
 		}
 	],
 	"related_most_similar":[
@@ -294,29 +344,14 @@
 			"slug":"101-dalmatians-ii-patch-s-london-adventure"
 		},
 		{
-			"title":"Bloodshot",
-			"gatsby_image_path":"..\/..\/images\/bloodshot.jpg",
-			"slug":"bloodshot"
-		},
-		{
 			"title":"Attack on Titan II: End of the World",
 			"gatsby_image_path":"..\/..\/images\/attack-on-titan-ii-end-of-the-world.jpg",
 			"slug":"attack-on-titan-ii-end-of-the-world"
 		},
 		{
-			"title":"Host",
-			"gatsby_image_path":"..\/..\/images\/host.jpg",
-			"slug":"host"
-		},
-		{
-			"title":"Avengers: Endgame",
-			"gatsby_image_path":"..\/..\/images\/avengers-endgame.jpg",
-			"slug":"avengers-endgame"
-		},
-		{
-			"title":"Venom",
-			"gatsby_image_path":"..\/..\/images\/venom.jpg",
-			"slug":"venom"
+			"title":"Bloodshot",
+			"gatsby_image_path":"..\/..\/images\/bloodshot.jpg",
+			"slug":"bloodshot"
 		},
 		{
 			"title":"Astro Boy",
@@ -324,9 +359,19 @@
 			"slug":"astro-boy"
 		},
 		{
-			"title":"Hoodwinked Too! Hood VS. Evil",
-			"gatsby_image_path":"..\/..\/images\/hoodwinked-too-hood-vs.-evil.jpg",
-			"slug":"hoodwinked-too-hood-vs.-evil"
+			"title":"Avengers: Endgame",
+			"gatsby_image_path":"..\/..\/images\/avengers-endgame.jpg",
+			"slug":"avengers-endgame"
+		},
+		{
+			"title":"Riddick",
+			"gatsby_image_path":"..\/..\/images\/riddick.jpg",
+			"slug":"riddick"
+		},
+		{
+			"title":"Host",
+			"gatsby_image_path":"..\/..\/images\/host.jpg",
+			"slug":"host"
 		},
 		{
 			"title":"Justice League: Throne of Atlantis",
@@ -334,19 +379,14 @@
 			"slug":"justice-league-throne-of-atlantis"
 		},
 		{
+			"title":"Hoodwinked Too! Hood VS. Evil",
+			"gatsby_image_path":"..\/..\/images\/hoodwinked-too-hood-vs.-evil.jpg",
+			"slug":"hoodwinked-too-hood-vs.-evil"
+		},
+		{
 			"title":"Artemis Fowl",
 			"gatsby_image_path":"..\/..\/images\/artemis-fowl.jpg",
 			"slug":"artemis-fowl"
-		},
-		{
-			"title":"Monster Hunter",
-			"gatsby_image_path":"..\/..\/images\/monster-hunter.jpg",
-			"slug":"monster-hunter"
-		},
-		{
-			"title":"Dark Phoenix",
-			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
-			"slug":"dark-phoenix"
 		},
 		{
 			"title":"Logan",
@@ -354,9 +394,19 @@
 			"slug":"logan"
 		},
 		{
-			"title":"Ghost in the Shell",
-			"gatsby_image_path":"..\/..\/images\/ghost-in-the-shell.jpg",
-			"slug":"ghost-in-the-shell"
+			"title":"Dark Phoenix",
+			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
+			"slug":"dark-phoenix"
+		},
+		{
+			"title":"Monster Hunter",
+			"gatsby_image_path":"..\/..\/images\/monster-hunter.jpg",
+			"slug":"monster-hunter"
+		},
+		{
+			"title":"Hellboy",
+			"gatsby_image_path":"..\/..\/images\/hellboy.jpg",
+			"slug":"hellboy"
 		}
 	],
 	"tmdb_id":553600,

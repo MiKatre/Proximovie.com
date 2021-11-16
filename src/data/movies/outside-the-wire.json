@@ -68,6 +68,11 @@
 			"slug":"the-man-with-the-iron-heart"
 		},
 		{
+			"title":"The Hate U Give",
+			"gatsby_image_path":"..\/..\/images\/the-hate-u-give.jpg",
+			"slug":"the-hate-u-give"
+		},
+		{
 			"title":"The Fourth Kind",
 			"gatsby_image_path":"..\/..\/images\/the-fourth-kind.jpg",
 			"slug":"the-fourth-kind"
@@ -101,6 +106,51 @@
 			"title":"Miss Bala",
 			"gatsby_image_path":"..\/..\/images\/miss-bala.jpg",
 			"slug":"miss-bala"
+		},
+		{
+			"title":"Man on a Ledge",
+			"gatsby_image_path":"..\/..\/images\/man-on-a-ledge.jpg",
+			"slug":"man-on-a-ledge"
+		},
+		{
+			"title":"Lucy",
+			"gatsby_image_path":"..\/..\/images\/lucy.jpg",
+			"slug":"lucy"
+		},
+		{
+			"title":"IO",
+			"gatsby_image_path":"..\/..\/images\/io.jpg",
+			"slug":"io"
+		},
+		{
+			"title":"Ghost in the Shell",
+			"gatsby_image_path":"..\/..\/images\/ghost-in-the-shell.jpg",
+			"slug":"ghost-in-the-shell"
+		},
+		{
+			"title":"Everest",
+			"gatsby_image_path":"..\/..\/images\/everest.jpg",
+			"slug":"everest"
+		},
+		{
+			"title":"Dawn of the Dead",
+			"gatsby_image_path":"..\/..\/images\/dawn-of-the-dead.jpg",
+			"slug":"dawn-of-the-dead"
+		},
+		{
+			"title":"Cruella",
+			"gatsby_image_path":"..\/..\/images\/cruella.jpg",
+			"slug":"cruella"
+		},
+		{
+			"title":"Chronicle",
+			"gatsby_image_path":"..\/..\/images\/chronicle.jpg",
+			"slug":"chronicle"
+		},
+		{
+			"title":"Captain America: The Winter Soldier",
+			"gatsby_image_path":"..\/..\/images\/captain-america-the-winter-soldier.jpg",
+			"slug":"captain-america-the-winter-soldier"
 		}
 	],
 	"related_most_similar":[
@@ -264,14 +314,14 @@
 			"slug":"the-terminator"
 		},
 		{
-			"title":"Avatar",
-			"gatsby_image_path":"..\/..\/images\/avatar.jpg",
-			"slug":"avatar"
-		},
-		{
 			"title":"Jurassic Galaxy",
 			"gatsby_image_path":"..\/..\/images\/jurassic-galaxy.jpg",
 			"slug":"jurassic-galaxy"
+		},
+		{
+			"title":"Avatar",
+			"gatsby_image_path":"..\/..\/images\/avatar.jpg",
+			"slug":"avatar"
 		},
 		{
 			"title":"Jurassic World: Fallen Kingdom",
@@ -314,24 +364,29 @@
 			"slug":"pacific-rim"
 		},
 		{
-			"title":"Homunculus",
-			"gatsby_image_path":"..\/..\/images\/homunculus.jpg",
-			"slug":"homunculus"
-		},
-		{
 			"title":"Avengers: Age of Ultron",
 			"gatsby_image_path":"..\/..\/images\/avengers-age-of-ultron.jpg",
 			"slug":"avengers-age-of-ultron"
 		},
 		{
-			"title":"Ant-Man and the Wasp",
-			"gatsby_image_path":"..\/..\/images\/ant-man-and-the-wasp.jpg",
-			"slug":"ant-man-and-the-wasp"
+			"title":"Homunculus",
+			"gatsby_image_path":"..\/..\/images\/homunculus.jpg",
+			"slug":"homunculus"
+		},
+		{
+			"title":"Friday the 13th Part VII: The New Blood",
+			"gatsby_image_path":"..\/..\/images\/friday-the-13th-part-vii-the-new-blood.jpg",
+			"slug":"friday-the-13th-part-vii-the-new-blood"
 		},
 		{
 			"title":"Teenage Mutant Ninja Turtles",
 			"gatsby_image_path":"..\/..\/images\/teenage-mutant-ninja-turtles.jpg",
 			"slug":"teenage-mutant-ninja-turtles"
+		},
+		{
+			"title":"Ant-Man and the Wasp",
+			"gatsby_image_path":"..\/..\/images\/ant-man-and-the-wasp.jpg",
+			"slug":"ant-man-and-the-wasp"
 		},
 		{
 			"title":"Snowpiercer",
@@ -349,14 +404,9 @@
 			"slug":"spenser-confidential"
 		},
 		{
-			"title":"Thor: The Dark World",
-			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
-			"slug":"thor-the-dark-world"
-		},
-		{
-			"title":"Men in Black: International",
-			"gatsby_image_path":"..\/..\/images\/men-in-black-international.jpg",
-			"slug":"men-in-black-international"
+			"title":"Mercenaries",
+			"gatsby_image_path":"..\/..\/images\/mercenaries.jpg",
+			"slug":"mercenaries"
 		}
 	],
 	"tmdb_id":775996,

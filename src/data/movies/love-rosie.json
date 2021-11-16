@@ -51,6 +51,11 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"The Nightingale",
+			"gatsby_image_path":"..\/..\/images\/the-nightingale.jpg",
+			"slug":"the-nightingale"
+		},
+		{
 			"title":"The Mortal Instruments: City of Bones",
 			"gatsby_image_path":"..\/..\/images\/the-mortal-instruments-city-of-bones.jpg",
 			"slug":"the-mortal-instruments-city-of-bones"
@@ -64,6 +69,11 @@
 			"title":"The Blind Side",
 			"gatsby_image_path":"..\/..\/images\/the-blind-side.jpg",
 			"slug":"the-blind-side"
+		},
+		{
+			"title":"Snow White and the Huntsman",
+			"gatsby_image_path":"..\/..\/images\/snow-white-and-the-huntsman.jpg",
+			"slug":"snow-white-and-the-huntsman"
 		},
 		{
 			"title":"San Andreas",
@@ -99,6 +109,46 @@
 			"title":"Love Wedding Repeat",
 			"gatsby_image_path":"..\/..\/images\/love-wedding-repeat.jpg",
 			"slug":"love-wedding-repeat"
+		},
+		{
+			"title":"Kubo and the Two Strings",
+			"gatsby_image_path":"..\/..\/images\/kubo-and-the-two-strings.jpg",
+			"slug":"kubo-and-the-two-strings"
+		},
+		{
+			"title":"Enola Holmes",
+			"gatsby_image_path":"..\/..\/images\/enola-holmes.jpg",
+			"slug":"enola-holmes"
+		},
+		{
+			"title":"Charlie's Angels",
+			"gatsby_image_path":"..\/..\/images\/charlie-s-angels.jpg",
+			"slug":"charlie-s-angels"
+		},
+		{
+			"title":"Burn",
+			"gatsby_image_path":"..\/..\/images\/burn.jpg",
+			"slug":"burn"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
+			"title":"Zombieland: Double Tap",
+			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
+			"slug":"zombieland-double-tap"
 		}
 	],
 	"related_most_similar":[
@@ -272,9 +322,19 @@
 			"slug":"before-i-fall"
 		},
 		{
+			"title":"My Extraordinary Summer With Tess",
+			"gatsby_image_path":"..\/..\/images\/my-extraordinary-summer-with-tess.jpg",
+			"slug":"my-extraordinary-summer-with-tess"
+		},
+		{
 			"title":"Inside Out",
 			"gatsby_image_path":"..\/..\/images\/inside-out.jpg",
 			"slug":"inside-out"
+		},
+		{
+			"title":"Life As We Know It",
+			"gatsby_image_path":"..\/..\/images\/life-as-we-know-it.jpg",
+			"slug":"life-as-we-know-it"
 		},
 		{
 			"title":"After We Fell",
@@ -287,9 +347,14 @@
 			"slug":"the-kissing-booth-3"
 		},
 		{
-			"title":"My Extraordinary Summer With Tess",
-			"gatsby_image_path":"..\/..\/images\/my-extraordinary-summer-with-tess.jpg",
-			"slug":"my-extraordinary-summer-with-tess"
+			"title":"Get Out",
+			"gatsby_image_path":"..\/..\/images\/get-out.jpg",
+			"slug":"get-out"
+		},
+		{
+			"title":"The Rebound",
+			"gatsby_image_path":"..\/..\/images\/the-rebound.jpg",
+			"slug":"the-rebound"
 		},
 		{
 			"title":"Even in Dreams",
@@ -297,14 +362,9 @@
 			"slug":"even-in-dreams"
 		},
 		{
-			"title":"Get Out",
-			"gatsby_image_path":"..\/..\/images\/get-out.jpg",
-			"slug":"get-out"
-		},
-		{
-			"title":"Crawl",
-			"gatsby_image_path":"..\/..\/images\/crawl.jpg",
-			"slug":"crawl"
+			"title":"Friends with Benefits",
+			"gatsby_image_path":"..\/..\/images\/friends-with-benefits.jpg",
+			"slug":"friends-with-benefits"
 		},
 		{
 			"title":"American Pie 2",
@@ -322,6 +382,21 @@
 			"slug":"from-straight-a-s-to-xxx"
 		},
 		{
+			"title":"About Time",
+			"gatsby_image_path":"..\/..\/images\/about-time.jpg",
+			"slug":"about-time"
+		},
+		{
+			"title":"Crawl",
+			"gatsby_image_path":"..\/..\/images\/crawl.jpg",
+			"slug":"crawl"
+		},
+		{
+			"title":"Love & Other Drugs",
+			"gatsby_image_path":"..\/..\/images\/love-other-drugs.jpg",
+			"slug":"love-other-drugs"
+		},
+		{
 			"title":"I Spit on Your Grave 2",
 			"gatsby_image_path":"..\/..\/images\/i-spit-on-your-grave-2.jpg",
 			"slug":"i-spit-on-your-grave-2"
@@ -330,31 +405,6 @@
 			"title":"Never Back Down",
 			"gatsby_image_path":"..\/..\/images\/never-back-down.jpg",
 			"slug":"never-back-down"
-		},
-		{
-			"title":"Love & Other Drugs",
-			"gatsby_image_path":"..\/..\/images\/love-other-drugs.jpg",
-			"slug":"love-other-drugs"
-		},
-		{
-			"title":"About Time",
-			"gatsby_image_path":"..\/..\/images\/about-time.jpg",
-			"slug":"about-time"
-		},
-		{
-			"title":"The Right One",
-			"gatsby_image_path":"..\/..\/images\/the-right-one.jpg",
-			"slug":"the-right-one"
-		},
-		{
-			"title":"The Fault in Our Stars",
-			"gatsby_image_path":"..\/..\/images\/the-fault-in-our-stars.jpg",
-			"slug":"the-fault-in-our-stars"
-		},
-		{
-			"title":"Fifty Shades of Grey",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
-			"slug":"fifty-shades-of-grey"
 		}
 	],
 	"tmdb_id":200727,

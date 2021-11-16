@@ -54,6 +54,11 @@
 			"slug":"zootopia"
 		},
 		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
 			"title":"Zombieland",
 			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
 			"slug":"zombieland"
@@ -84,7 +89,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name",
+			"title":"Your Name.",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -94,9 +99,54 @@
 			"slug":"young-sister-in-law-3-2019"
 		},
 		{
+			"title":"Young and Wild",
+			"gatsby_image_path":"..\/..\/images\/young-and-wild.jpg",
+			"slug":"young-and-wild"
+		},
+		{
+			"title":"Yes, No, or Maybe Half?",
+			"gatsby_image_path":"..\/..\/images\/yes-no-or-maybe-half.jpg",
+			"slug":"yes-no-or-maybe-half"
+		},
+		{
+			"title":"Yes Man",
+			"gatsby_image_path":"..\/..\/images\/yes-man.jpg",
+			"slug":"yes-man"
+		},
+		{
 			"title":"Yes Day",
 			"gatsby_image_path":"..\/..\/images\/yes-day.jpg",
 			"slug":"yes-day"
+		},
+		{
+			"title":"Year One",
+			"gatsby_image_path":"..\/..\/images\/year-one.jpg",
+			"slug":"year-one"
+		},
+		{
+			"title":"Yara",
+			"gatsby_image_path":"..\/..\/images\/yara.jpg",
+			"slug":"yara"
+		},
+		{
+			"title":"xXx: Return of Xander Cage",
+			"gatsby_image_path":"..\/..\/images\/xxx-return-of-xander-cage.jpg",
+			"slug":"xxx-return-of-xander-cage"
+		},
+		{
+			"title":"Xtreme",
+			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
+			"slug":"xtreme"
+		},
+		{
+			"title":"X-Men: Days of Future Past",
+			"gatsby_image_path":"..\/..\/images\/x-men-days-of-future-past.jpg",
+			"slug":"x-men-days-of-future-past"
+		},
+		{
+			"title":"X-Men: Apocalypse",
+			"gatsby_image_path":"..\/..\/images\/x-men-apocalypse.jpg",
+			"slug":"x-men-apocalypse"
 		}
 	],
 	"related_most_similar":[
@@ -260,14 +310,24 @@
 			"slug":"initiation"
 		},
 		{
+			"title":"Solitary",
+			"gatsby_image_path":"..\/..\/images\/solitary.jpg",
+			"slug":"solitary"
+		},
+		{
 			"title":"Good Boys",
 			"gatsby_image_path":"..\/..\/images\/good-boys.jpg",
 			"slug":"good-boys"
 		},
 		{
-			"title":"Nomadland",
-			"gatsby_image_path":"..\/..\/images\/nomadland.jpg",
-			"slug":"nomadland"
+			"title":"Suspiria",
+			"gatsby_image_path":"..\/..\/images\/suspiria.jpg",
+			"slug":"suspiria"
+		},
+		{
+			"title":"Malcolm & Marie",
+			"gatsby_image_path":"..\/..\/images\/malcolm-marie.jpg",
+			"slug":"malcolm-marie"
 		},
 		{
 			"title":"Bird Box",
@@ -275,9 +335,14 @@
 			"slug":"bird-box"
 		},
 		{
-			"title":"Malcolm & Marie",
-			"gatsby_image_path":"..\/..\/images\/malcolm-marie.jpg",
-			"slug":"malcolm-marie"
+			"title":"Nomadland",
+			"gatsby_image_path":"..\/..\/images\/nomadland.jpg",
+			"slug":"nomadland"
+		},
+		{
+			"title":"Friendzone",
+			"gatsby_image_path":"..\/..\/images\/friendzone.jpg",
+			"slug":"friendzone"
 		},
 		{
 			"title":"Central Intelligence",
@@ -290,14 +355,14 @@
 			"slug":"black-box"
 		},
 		{
-			"title":"The Fate of the Furious",
-			"gatsby_image_path":"..\/..\/images\/the-fate-of-the-furious.jpg",
-			"slug":"the-fate-of-the-furious"
-		},
-		{
 			"title":"Kill Chain",
 			"gatsby_image_path":"..\/..\/images\/kill-chain.jpg",
 			"slug":"kill-chain"
+		},
+		{
+			"title":"The Fate of the Furious",
+			"gatsby_image_path":"..\/..\/images\/the-fate-of-the-furious.jpg",
+			"slug":"the-fate-of-the-furious"
 		},
 		{
 			"title":"Tentacles",
@@ -310,29 +375,19 @@
 			"slug":"the-comeback-trail"
 		},
 		{
-			"title":"Old",
-			"gatsby_image_path":"..\/..\/images\/old.jpg",
-			"slug":"old"
-		},
-		{
-			"title":"Ellipse",
-			"gatsby_image_path":"..\/..\/images\/ellipse.jpg",
-			"slug":"ellipse"
-		},
-		{
-			"title":"Finding 'Ohana",
-			"gatsby_image_path":"..\/..\/images\/finding-ohana.jpg",
-			"slug":"finding-ohana"
-		},
-		{
 			"title":"Grown Ups",
 			"gatsby_image_path":"..\/..\/images\/grown-ups.jpg",
 			"slug":"grown-ups"
 		},
 		{
-			"title":"The 27-Hour Day",
-			"gatsby_image_path":"..\/..\/images\/the-27-hour-day.jpg",
-			"slug":"the-27-hour-day"
+			"title":"The American",
+			"gatsby_image_path":"..\/..\/images\/the-american.jpg",
+			"slug":"the-american"
+		},
+		{
+			"title":"Old",
+			"gatsby_image_path":"..\/..\/images\/old.jpg",
+			"slug":"old"
 		},
 		{
 			"title":"The Girl on the Train",
@@ -340,19 +395,14 @@
 			"slug":"the-girl-on-the-train"
 		},
 		{
+			"title":"Finding 'Ohana",
+			"gatsby_image_path":"..\/..\/images\/finding-ohana.jpg",
+			"slug":"finding-ohana"
+		},
+		{
 			"title":"Night at the Museum: Secret of the Tomb",
 			"gatsby_image_path":"..\/..\/images\/night-at-the-museum-secret-of-the-tomb.jpg",
 			"slug":"night-at-the-museum-secret-of-the-tomb"
-		},
-		{
-			"title":"Annihilation",
-			"gatsby_image_path":"..\/..\/images\/annihilation.jpg",
-			"slug":"annihilation"
-		},
-		{
-			"title":"The Commuter",
-			"gatsby_image_path":"..\/..\/images\/the-commuter.jpg",
-			"slug":"the-commuter"
 		}
 	],
 	"tmdb_id":842171,

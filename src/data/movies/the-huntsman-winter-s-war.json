@@ -52,6 +52,16 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Snow White and the Huntsman",
+			"gatsby_image_path":"..\/..\/images\/snow-white-and-the-huntsman.jpg",
+			"slug":"snow-white-and-the-huntsman"
+		},
+		{
+			"title":"Vacation",
+			"gatsby_image_path":"..\/..\/images\/vacation.jpg",
+			"slug":"vacation"
+		},
+		{
 			"title":"Trollhunters: Rise of the Titans",
 			"gatsby_image_path":"..\/..\/images\/trollhunters-rise-of-the-titans.jpg",
 			"slug":"trollhunters-rise-of-the-titans"
@@ -70,6 +80,11 @@
 			"title":"Thor",
 			"gatsby_image_path":"..\/..\/images\/thor.jpg",
 			"slug":"thor"
+		},
+		{
+			"title":"The Nightingale",
+			"gatsby_image_path":"..\/..\/images\/the-nightingale.jpg",
+			"slug":"the-nightingale"
 		},
 		{
 			"title":"The Martian",
@@ -100,6 +115,41 @@
 			"title":"The Cabin in the Woods",
 			"gatsby_image_path":"..\/..\/images\/the-cabin-in-the-woods.jpg",
 			"slug":"the-cabin-in-the-woods"
+		},
+		{
+			"title":"The Avengers",
+			"gatsby_image_path":"..\/..\/images\/the-avengers.jpg",
+			"slug":"the-avengers"
+		},
+		{
+			"title":"The Addams Family",
+			"gatsby_image_path":"..\/..\/images\/the-addams-family.jpg",
+			"slug":"the-addams-family"
+		},
+		{
+			"title":"The Addams Family 2",
+			"gatsby_image_path":"..\/..\/images\/the-addams-family-2.jpg",
+			"slug":"the-addams-family-2"
+		},
+		{
+			"title":"Sicario",
+			"gatsby_image_path":"..\/..\/images\/sicario.jpg",
+			"slug":"sicario"
+		},
+		{
+			"title":"Shark Beach with Chris Hemsworth",
+			"gatsby_image_path":"..\/..\/images\/shark-beach-with-chris-hemsworth.jpg",
+			"slug":"shark-beach-with-chris-hemsworth"
+		},
+		{
+			"title":"Scooby-Doo! The Sword and the Scoob",
+			"gatsby_image_path":"..\/..\/images\/scooby-doo-the-sword-and-the-scoob.jpg",
+			"slug":"scooby-doo-the-sword-and-the-scoob"
+		},
+		{
+			"title":"Red Shoes And The Seven Dwarfs",
+			"gatsby_image_path":"..\/..\/images\/red-shoes-and-the-seven-dwarfs.jpg",
+			"slug":"red-shoes-and-the-seven-dwarfs"
 		}
 	],
 	"related_most_similar":[
@@ -263,14 +313,19 @@
 			"slug":"wish-upon-a-unicorn"
 		},
 		{
+			"title":"King Arthur: Legend of the Sword",
+			"gatsby_image_path":"..\/..\/images\/king-arthur-legend-of-the-sword.jpg",
+			"slug":"king-arthur-legend-of-the-sword"
+		},
+		{
 			"title":"Spirit: Stallion of the Cimarron",
 			"gatsby_image_path":"..\/..\/images\/spirit-stallion-of-the-cimarron.jpg",
 			"slug":"spirit-stallion-of-the-cimarron"
 		},
 		{
-			"title":"King Arthur: Legend of the Sword",
-			"gatsby_image_path":"..\/..\/images\/king-arthur-legend-of-the-sword.jpg",
-			"slug":"king-arthur-legend-of-the-sword"
+			"title":"The Seven Deadly Sins: Cursed by Light",
+			"gatsby_image_path":"..\/..\/images\/the-seven-deadly-sins-cursed-by-light.jpg",
+			"slug":"the-seven-deadly-sins-cursed-by-light"
 		},
 		{
 			"title":"Goblin Slayer: Goblin's Crown",
@@ -283,14 +338,19 @@
 			"slug":"abraham-lincoln-vampire-hunter"
 		},
 		{
-			"title":"Thor: The Dark World",
-			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
-			"slug":"thor-the-dark-world"
+			"title":"Friday the 13th Part VII: The New Blood",
+			"gatsby_image_path":"..\/..\/images\/friday-the-13th-part-vii-the-new-blood.jpg",
+			"slug":"friday-the-13th-part-vii-the-new-blood"
 		},
 		{
 			"title":"Aquaman",
 			"gatsby_image_path":"..\/..\/images\/aquaman.jpg",
 			"slug":"aquaman"
+		},
+		{
+			"title":"Thor: The Dark World",
+			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
+			"slug":"thor-the-dark-world"
 		},
 		{
 			"title":"Harry Potter and the Deathly Hallows: Part 2",
@@ -303,19 +363,9 @@
 			"slug":"percy-jackson-the-olympians-the-lightning-thief"
 		},
 		{
-			"title":"Spenser Confidential",
-			"gatsby_image_path":"..\/..\/images\/spenser-confidential.jpg",
-			"slug":"spenser-confidential"
-		},
-		{
 			"title":"Maleficent: Mistress of Evil",
 			"gatsby_image_path":"..\/..\/images\/maleficent-mistress-of-evil.jpg",
 			"slug":"maleficent-mistress-of-evil"
-		},
-		{
-			"title":"Jurassic World: Fallen Kingdom",
-			"gatsby_image_path":"..\/..\/images\/jurassic-world-fallen-kingdom.jpg",
-			"slug":"jurassic-world-fallen-kingdom"
 		},
 		{
 			"title":"Sleeping Beauty",
@@ -323,14 +373,24 @@
 			"slug":"sleeping-beauty"
 		},
 		{
-			"title":"Ice Age: Continental Drift",
-			"gatsby_image_path":"..\/..\/images\/ice-age-continental-drift.jpg",
-			"slug":"ice-age-continental-drift"
+			"title":"Jurassic World: Fallen Kingdom",
+			"gatsby_image_path":"..\/..\/images\/jurassic-world-fallen-kingdom.jpg",
+			"slug":"jurassic-world-fallen-kingdom"
+		},
+		{
+			"title":"Spenser Confidential",
+			"gatsby_image_path":"..\/..\/images\/spenser-confidential.jpg",
+			"slug":"spenser-confidential"
 		},
 		{
 			"title":"Space Sweepers",
 			"gatsby_image_path":"..\/..\/images\/space-sweepers.jpg",
 			"slug":"space-sweepers"
+		},
+		{
+			"title":"Ice Age: Continental Drift",
+			"gatsby_image_path":"..\/..\/images\/ice-age-continental-drift.jpg",
+			"slug":"ice-age-continental-drift"
 		},
 		{
 			"title":"House of the Witch",
@@ -346,16 +406,6 @@
 			"title":"xXx: Return of Xander Cage",
 			"gatsby_image_path":"..\/..\/images\/xxx-return-of-xander-cage.jpg",
 			"slug":"xxx-return-of-xander-cage"
-		},
-		{
-			"title":"Ice Age",
-			"gatsby_image_path":"..\/..\/images\/ice-age.jpg",
-			"slug":"ice-age"
-		},
-		{
-			"title":"Tangled",
-			"gatsby_image_path":"..\/..\/images\/tangled.jpg",
-			"slug":"tangled"
 		}
 	],
 	"tmdb_id":290595,

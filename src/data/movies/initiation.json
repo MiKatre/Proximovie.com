@@ -55,6 +55,11 @@
 			"slug":"white-chicks"
 		},
 		{
+			"title":"The Right Mom",
+			"gatsby_image_path":"..\/..\/images\/the-right-mom.jpg",
+			"slug":"the-right-mom"
+		},
+		{
 			"title":"Scary Movie",
 			"gatsby_image_path":"..\/..\/images\/scary-movie.jpg",
 			"slug":"scary-movie"
@@ -63,6 +68,16 @@
 			"title":"Rings",
 			"gatsby_image_path":"..\/..\/images\/rings.jpg",
 			"slug":"rings"
+		},
+		{
+			"title":"Little Man",
+			"gatsby_image_path":"..\/..\/images\/little-man.jpg",
+			"slug":"little-man"
+		},
+		{
+			"title":"In the Name of the King 2: Two Worlds",
+			"gatsby_image_path":"..\/..\/images\/in-the-name-of-the-king-2-two-worlds.jpg",
+			"slug":"in-the-name-of-the-king-2-two-worlds"
 		},
 		{
 			"title":"High School Musical",
@@ -75,6 +90,26 @@
 			"slug":"freddy-vs.-jason"
 		},
 		{
+			"title":"Cosmic Sin",
+			"gatsby_image_path":"..\/..\/images\/cosmic-sin.jpg",
+			"slug":"cosmic-sin"
+		},
+		{
+			"title":"Catch the Bullet",
+			"gatsby_image_path":"..\/..\/images\/catch-the-bullet.jpg",
+			"slug":"catch-the-bullet"
+		},
+		{
+			"title":"Assault on Wall Street",
+			"gatsby_image_path":"..\/..\/images\/assault-on-wall-street.jpg",
+			"slug":"assault-on-wall-street"
+		},
+		{
+			"title":"Apex",
+			"gatsby_image_path":"..\/..\/images\/apex.jpg",
+			"slug":"apex"
+		},
+		{
 			"title":"A Cinderella Story: Christmas Wish",
 			"gatsby_image_path":"..\/..\/images\/a-cinderella-story-christmas-wish.jpg",
 			"slug":"a-cinderella-story-christmas-wish"
@@ -83,6 +118,11 @@
 			"title":"Zootopia",
 			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
 			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
 		},
 		{
 			"title":"Zombieland",
@@ -98,6 +138,16 @@
 			"title":"Zathura: A Space Adventure",
 			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
 			"slug":"zathura-a-space-adventure"
+		},
+		{
+			"title":"Zack Snyder's Justice League",
+			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
+			"slug":"zack-snyder-s-justice-league"
+		},
+		{
+			"title":"Zack and Miri Make a Porno",
+			"gatsby_image_path":"..\/..\/images\/zack-and-miri-make-a-porno.jpg",
+			"slug":"zack-and-miri-make-a-porno"
 		}
 	],
 	"related_most_similar":[
@@ -266,14 +316,14 @@
 			"slug":"ocean-s-eight"
 		},
 		{
+			"title":"Suspiria",
+			"gatsby_image_path":"..\/..\/images\/suspiria.jpg",
+			"slug":"suspiria"
+		},
+		{
 			"title":"The Fate of the Furious",
 			"gatsby_image_path":"..\/..\/images\/the-fate-of-the-furious.jpg",
 			"slug":"the-fate-of-the-furious"
-		},
-		{
-			"title":"The Equalizer 2",
-			"gatsby_image_path":"..\/..\/images\/the-equalizer-2.jpg",
-			"slug":"the-equalizer-2"
 		},
 		{
 			"title":"Swan Song",
@@ -281,19 +331,14 @@
 			"slug":"swan-song"
 		},
 		{
+			"title":"The Equalizer 2",
+			"gatsby_image_path":"..\/..\/images\/the-equalizer-2.jpg",
+			"slug":"the-equalizer-2"
+		},
+		{
 			"title":"Xtreme",
 			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
 			"slug":"xtreme"
-		},
-		{
-			"title":"Malcolm & Marie",
-			"gatsby_image_path":"..\/..\/images\/malcolm-marie.jpg",
-			"slug":"malcolm-marie"
-		},
-		{
-			"title":"Tentacles",
-			"gatsby_image_path":"..\/..\/images\/tentacles.jpg",
-			"slug":"tentacles"
 		},
 		{
 			"title":"Central Intelligence",
@@ -301,9 +346,14 @@
 			"slug":"central-intelligence"
 		},
 		{
-			"title":"Avengement",
-			"gatsby_image_path":"..\/..\/images\/avengement.jpg",
-			"slug":"avengement"
+			"title":"Tentacles",
+			"gatsby_image_path":"..\/..\/images\/tentacles.jpg",
+			"slug":"tentacles"
+		},
+		{
+			"title":"Malcolm & Marie",
+			"gatsby_image_path":"..\/..\/images\/malcolm-marie.jpg",
+			"slug":"malcolm-marie"
 		},
 		{
 			"title":"Bird Box",
@@ -311,9 +361,19 @@
 			"slug":"bird-box"
 		},
 		{
+			"title":"Night at the Museum: Secret of the Tomb",
+			"gatsby_image_path":"..\/..\/images\/night-at-the-museum-secret-of-the-tomb.jpg",
+			"slug":"night-at-the-museum-secret-of-the-tomb"
+		},
+		{
 			"title":"Kill Chain",
 			"gatsby_image_path":"..\/..\/images\/kill-chain.jpg",
 			"slug":"kill-chain"
+		},
+		{
+			"title":"Avengement",
+			"gatsby_image_path":"..\/..\/images\/avengement.jpg",
+			"slug":"avengement"
 		},
 		{
 			"title":"Haseen Dillruba",
@@ -321,14 +381,19 @@
 			"slug":"haseen-dillruba"
 		},
 		{
-			"title":"Night at the Museum: Secret of the Tomb",
-			"gatsby_image_path":"..\/..\/images\/night-at-the-museum-secret-of-the-tomb.jpg",
-			"slug":"night-at-the-museum-secret-of-the-tomb"
+			"title":"The Paperboy",
+			"gatsby_image_path":"..\/..\/images\/the-paperboy.jpg",
+			"slug":"the-paperboy"
 		},
 		{
-			"title":"The Kissing Booth 2",
-			"gatsby_image_path":"..\/..\/images\/the-kissing-booth-2.jpg",
-			"slug":"the-kissing-booth-2"
+			"title":"Solitary",
+			"gatsby_image_path":"..\/..\/images\/solitary.jpg",
+			"slug":"solitary"
+		},
+		{
+			"title":"Black Box",
+			"gatsby_image_path":"..\/..\/images\/black-box.jpg",
+			"slug":"black-box"
 		},
 		{
 			"title":"Finding 'Ohana",
@@ -336,24 +401,9 @@
 			"slug":"finding-ohana"
 		},
 		{
-			"title":"Friday the 13th",
-			"gatsby_image_path":"..\/..\/images\/friday-the-13th.jpg",
-			"slug":"friday-the-13th"
-		},
-		{
 			"title":"The Girl on the Train",
 			"gatsby_image_path":"..\/..\/images\/the-girl-on-the-train.jpg",
 			"slug":"the-girl-on-the-train"
-		},
-		{
-			"title":"Spiral: From the Book of Saw",
-			"gatsby_image_path":"..\/..\/images\/spiral-from-the-book-of-saw.jpg",
-			"slug":"spiral-from-the-book-of-saw"
-		},
-		{
-			"title":"Black Box",
-			"gatsby_image_path":"..\/..\/images\/black-box.jpg",
-			"slug":"black-box"
 		}
 	],
 	"tmdb_id":611489,

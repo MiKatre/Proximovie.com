@@ -66,6 +66,11 @@
 			"slug":"maze-runner-the-death-cure"
 		},
 		{
+			"title":"We're the Millers",
+			"gatsby_image_path":"..\/..\/images\/we-re-the-millers.jpg",
+			"slug":"we-re-the-millers"
+		},
+		{
 			"title":"Till Death",
 			"gatsby_image_path":"..\/..\/images\/till-death.jpg",
 			"slug":"till-death"
@@ -79,6 +84,11 @@
 			"title":"The Chronicles of Narnia: The Voyage of the Dawn Treader",
 			"gatsby_image_path":"..\/..\/images\/the-chronicles-of-narnia-the-voyage-of-the-dawn-treader.jpg",
 			"slug":"the-chronicles-of-narnia-the-voyage-of-the-dawn-treader"
+		},
+		{
+			"title":"Resident Evil: Welcome to Raccoon City",
+			"gatsby_image_path":"..\/..\/images\/resident-evil-welcome-to-raccoon-city.jpg",
+			"slug":"resident-evil-welcome-to-raccoon-city"
 		},
 		{
 			"title":"Pirates of the Caribbean: Dead Men Tell No Tales",
@@ -104,6 +114,46 @@
 			"title":"Inside Man: Most Wanted",
 			"gatsby_image_path":"..\/..\/images\/inside-man-most-wanted.jpg",
 			"slug":"inside-man-most-wanted"
+		},
+		{
+			"title":"Infinite",
+			"gatsby_image_path":"..\/..\/images\/infinite.jpg",
+			"slug":"infinite"
+		},
+		{
+			"title":"Crawl",
+			"gatsby_image_path":"..\/..\/images\/crawl.jpg",
+			"slug":"crawl"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
+			"title":"Zombieland: Double Tap",
+			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
+			"slug":"zombieland-double-tap"
+		},
+		{
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
+		},
+		{
+			"title":"Zack Snyder's Justice League",
+			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
+			"slug":"zack-snyder-s-justice-league"
 		}
 	],
 	"related_most_similar":[
@@ -267,19 +317,29 @@
 			"slug":"fear-street-1994"
 		},
 		{
+			"title":"Percy Jackson: Sea of Monsters",
+			"gatsby_image_path":"..\/..\/images\/percy-jackson-sea-of-monsters.jpg",
+			"slug":"percy-jackson-sea-of-monsters"
+		},
+		{
 			"title":"Extinction",
 			"gatsby_image_path":"..\/..\/images\/extinction.jpg",
 			"slug":"extinction"
 		},
 		{
-			"title":"Paranormal Activity 3",
-			"gatsby_image_path":"..\/..\/images\/paranormal-activity-3.jpg",
-			"slug":"paranormal-activity-3"
+			"title":"Prince of Persia: The Sands of Time",
+			"gatsby_image_path":"..\/..\/images\/prince-of-persia-the-sands-of-time.jpg",
+			"slug":"prince-of-persia-the-sands-of-time"
 		},
 		{
 			"title":"Intersect",
 			"gatsby_image_path":"..\/..\/images\/intersect.jpg",
 			"slug":"intersect"
+		},
+		{
+			"title":"Paranormal Activity 3",
+			"gatsby_image_path":"..\/..\/images\/paranormal-activity-3.jpg",
+			"slug":"paranormal-activity-3"
 		},
 		{
 			"title":"Tomb Raider",
@@ -297,9 +357,19 @@
 			"slug":"hostel-part-ii"
 		},
 		{
-			"title":"Avengement",
-			"gatsby_image_path":"..\/..\/images\/avengement.jpg",
-			"slug":"avengement"
+			"title":"Hummingbird",
+			"gatsby_image_path":"..\/..\/images\/hummingbird.jpg",
+			"slug":"hummingbird"
+		},
+		{
+			"title":"Odd Thomas",
+			"gatsby_image_path":"..\/..\/images\/odd-thomas.jpg",
+			"slug":"odd-thomas"
+		},
+		{
+			"title":"Blackhat",
+			"gatsby_image_path":"..\/..\/images\/blackhat.jpg",
+			"slug":"blackhat"
 		},
 		{
 			"title":"Miss Peregrine's Home for Peculiar Children",
@@ -307,14 +377,14 @@
 			"slug":"miss-peregrine-s-home-for-peculiar-children"
 		},
 		{
-			"title":"Annabelle: Creation",
-			"gatsby_image_path":"..\/..\/images\/annabelle-creation.jpg",
-			"slug":"annabelle-creation"
-		},
-		{
 			"title":"The Iron Giant",
 			"gatsby_image_path":"..\/..\/images\/the-iron-giant.jpg",
 			"slug":"the-iron-giant"
+		},
+		{
+			"title":"Avengement",
+			"gatsby_image_path":"..\/..\/images\/avengement.jpg",
+			"slug":"avengement"
 		},
 		{
 			"title":"The Chronicles of Narnia: Prince Caspian",
@@ -322,14 +392,9 @@
 			"slug":"the-chronicles-of-narnia-prince-caspian"
 		},
 		{
-			"title":"The Jurassic Games",
-			"gatsby_image_path":"..\/..\/images\/the-jurassic-games.jpg",
-			"slug":"the-jurassic-games"
-		},
-		{
-			"title":"The Divine Fury",
-			"gatsby_image_path":"..\/..\/images\/the-divine-fury.jpg",
-			"slug":"the-divine-fury"
+			"title":"Annabelle: Creation",
+			"gatsby_image_path":"..\/..\/images\/annabelle-creation.jpg",
+			"slug":"annabelle-creation"
 		},
 		{
 			"title":"The King's Man",
@@ -337,24 +402,9 @@
 			"slug":"the-king-s-man"
 		},
 		{
-			"title":"Arrival",
-			"gatsby_image_path":"..\/..\/images\/arrival.jpg",
-			"slug":"arrival"
-		},
-		{
-			"title":"Alita: Battle Angel",
-			"gatsby_image_path":"..\/..\/images\/alita-battle-angel.jpg",
-			"slug":"alita-battle-angel"
-		},
-		{
-			"title":"Black Box",
-			"gatsby_image_path":"..\/..\/images\/black-box.jpg",
-			"slug":"black-box"
-		},
-		{
-			"title":"UFO",
-			"gatsby_image_path":"..\/..\/images\/ufo.jpg",
-			"slug":"ufo"
+			"title":"The Divine Fury",
+			"gatsby_image_path":"..\/..\/images\/the-divine-fury.jpg",
+			"slug":"the-divine-fury"
 		},
 		{
 			"title":"Stuart Little",

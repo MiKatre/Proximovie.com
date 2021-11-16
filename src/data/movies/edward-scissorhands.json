@@ -55,9 +55,24 @@
 			"slug":"frankenweenie"
 		},
 		{
+			"title":"The Tourist",
+			"gatsby_image_path":"..\/..\/images\/the-tourist.jpg",
+			"slug":"the-tourist"
+		},
+		{
 			"title":"The Mule",
 			"gatsby_image_path":"..\/..\/images\/the-mule.jpg",
 			"slug":"the-mule"
+		},
+		{
+			"title":"The Lone Ranger",
+			"gatsby_image_path":"..\/..\/images\/the-lone-ranger.jpg",
+			"slug":"the-lone-ranger"
+		},
+		{
+			"title":"The Change-Up",
+			"gatsby_image_path":"..\/..\/images\/the-change-up.jpg",
+			"slug":"the-change-up"
 		},
 		{
 			"title":"The Art of Racing in the Rain",
@@ -75,9 +90,19 @@
 			"slug":"spenser-confidential"
 		},
 		{
+			"title":"Sleepy Hollow",
+			"gatsby_image_path":"..\/..\/images\/sleepy-hollow.jpg",
+			"slug":"sleepy-hollow"
+		},
+		{
 			"title":"Rango",
 			"gatsby_image_path":"..\/..\/images\/rango.jpg",
 			"slug":"rango"
+		},
+		{
+			"title":"Public Enemies",
+			"gatsby_image_path":"..\/..\/images\/public-enemies.jpg",
+			"slug":"public-enemies"
 		},
 		{
 			"title":"Pirates of the Caribbean: The Curse of the Black Pearl",
@@ -98,6 +123,31 @@
 			"title":"Pirates of the Caribbean: Dead Man's Chest",
 			"gatsby_image_path":"..\/..\/images\/pirates-of-the-caribbean-dead-man-s-chest.jpg",
 			"slug":"pirates-of-the-caribbean-dead-man-s-chest"
+		},
+		{
+			"title":"Pirates of the Caribbean: At World's End",
+			"gatsby_image_path":"..\/..\/images\/pirates-of-the-caribbean-at-world-s-end.jpg",
+			"slug":"pirates-of-the-caribbean-at-world-s-end"
+		},
+		{
+			"title":"Minions: The Rise of Gru",
+			"gatsby_image_path":"..\/..\/images\/minions-the-rise-of-gru.jpg",
+			"slug":"minions-the-rise-of-gru"
+		},
+		{
+			"title":"Marley & Me",
+			"gatsby_image_path":"..\/..\/images\/marley-me.jpg",
+			"slug":"marley-me"
+		},
+		{
+			"title":"Machine Gun Preacher",
+			"gatsby_image_path":"..\/..\/images\/machine-gun-preacher.jpg",
+			"slug":"machine-gun-preacher"
+		},
+		{
+			"title":"Krampus",
+			"gatsby_image_path":"..\/..\/images\/krampus.jpg",
+			"slug":"krampus"
 		}
 	],
 	"related_most_similar":[
@@ -261,14 +311,24 @@
 			"slug":"ellipse"
 		},
 		{
-			"title":"The Grinch",
-			"gatsby_image_path":"..\/..\/images\/the-grinch.jpg",
-			"slug":"the-grinch"
-		},
-		{
 			"title":"Good Boys",
 			"gatsby_image_path":"..\/..\/images\/good-boys.jpg",
 			"slug":"good-boys"
+		},
+		{
+			"title":"The Hills Have Eyes 2",
+			"gatsby_image_path":"..\/..\/images\/the-hills-have-eyes-2.jpg",
+			"slug":"the-hills-have-eyes-2"
+		},
+		{
+			"title":"Dragon Fury",
+			"gatsby_image_path":"..\/..\/images\/dragon-fury.jpg",
+			"slug":"dragon-fury"
+		},
+		{
+			"title":"El cuartito",
+			"gatsby_image_path":"..\/..\/images\/el-cuartito.jpg",
+			"slug":"el-cuartito"
 		},
 		{
 			"title":"Miss Peregrine's Home for Peculiar Children",
@@ -286,9 +346,24 @@
 			"slug":"finding-dory"
 		},
 		{
+			"title":"The American",
+			"gatsby_image_path":"..\/..\/images\/the-american.jpg",
+			"slug":"the-american"
+		},
+		{
 			"title":"CJ7",
 			"gatsby_image_path":"..\/..\/images\/cj7.jpg",
 			"slug":"cj7"
+		},
+		{
+			"title":"The Grinch",
+			"gatsby_image_path":"..\/..\/images\/the-grinch.jpg",
+			"slug":"the-grinch"
+		},
+		{
+			"title":"Howl's Moving Castle",
+			"gatsby_image_path":"..\/..\/images\/howl-s-moving-castle.jpg",
+			"slug":"howl-s-moving-castle"
 		},
 		{
 			"title":"Arrival",
@@ -301,9 +376,14 @@
 			"slug":"cars-2"
 		},
 		{
-			"title":"Howl's Moving Castle",
-			"gatsby_image_path":"..\/..\/images\/howl-s-moving-castle.jpg",
-			"slug":"howl-s-moving-castle"
+			"title":"Sea Fever",
+			"gatsby_image_path":"..\/..\/images\/sea-fever.jpg",
+			"slug":"sea-fever"
+		},
+		{
+			"title":"Mariposa",
+			"gatsby_image_path":"..\/..\/images\/mariposa.jpg",
+			"slug":"mariposa"
 		},
 		{
 			"title":"Dinosaur",
@@ -311,19 +391,9 @@
 			"slug":"dinosaur"
 		},
 		{
-			"title":"The Indian in the Cupboard",
-			"gatsby_image_path":"..\/..\/images\/the-indian-in-the-cupboard.jpg",
-			"slug":"the-indian-in-the-cupboard"
-		},
-		{
-			"title":"Hostel: Part II",
-			"gatsby_image_path":"..\/..\/images\/hostel-part-ii.jpg",
-			"slug":"hostel-part-ii"
-		},
-		{
-			"title":"Camp Cool Kids",
-			"gatsby_image_path":"..\/..\/images\/camp-cool-kids.jpg",
-			"slug":"camp-cool-kids"
+			"title":"Black Island",
+			"gatsby_image_path":"..\/..\/images\/black-island.jpg",
+			"slug":"black-island"
 		},
 		{
 			"title":"Central Intelligence",
@@ -331,29 +401,9 @@
 			"slug":"central-intelligence"
 		},
 		{
-			"title":"Bad Trip",
-			"gatsby_image_path":"..\/..\/images\/bad-trip.jpg",
-			"slug":"bad-trip"
-		},
-		{
-			"title":"Overboard",
-			"gatsby_image_path":"..\/..\/images\/overboard.jpg",
-			"slug":"overboard"
-		},
-		{
-			"title":"Nomadland",
-			"gatsby_image_path":"..\/..\/images\/nomadland.jpg",
-			"slug":"nomadland"
-		},
-		{
-			"title":"Cranston Academy: Monster Zone",
-			"gatsby_image_path":"..\/..\/images\/cranston-academy-monster-zone.jpg",
-			"slug":"cranston-academy-monster-zone"
-		},
-		{
-			"title":"Paperhouse",
-			"gatsby_image_path":"..\/..\/images\/paperhouse.jpg",
-			"slug":"paperhouse"
+			"title":"The Indian in the Cupboard",
+			"gatsby_image_path":"..\/..\/images\/the-indian-in-the-cupboard.jpg",
+			"slug":"the-indian-in-the-cupboard"
 		}
 	],
 	"tmdb_id":162,

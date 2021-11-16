@@ -62,6 +62,11 @@
 			"slug":"zootopia"
 		},
 		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
 			"title":"Zombieland",
 			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
 			"slug":"zombieland"
@@ -92,7 +97,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name",
+			"title":"Your Name.",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -100,6 +105,51 @@
 			"title":"Young Sister-in-law 3 - 2019",
 			"gatsby_image_path":"..\/..\/images\/young-sister-in-law-3-2019.jpg",
 			"slug":"young-sister-in-law-3-2019"
+		},
+		{
+			"title":"Young and Wild",
+			"gatsby_image_path":"..\/..\/images\/young-and-wild.jpg",
+			"slug":"young-and-wild"
+		},
+		{
+			"title":"Yes, No, or Maybe Half?",
+			"gatsby_image_path":"..\/..\/images\/yes-no-or-maybe-half.jpg",
+			"slug":"yes-no-or-maybe-half"
+		},
+		{
+			"title":"Yes Man",
+			"gatsby_image_path":"..\/..\/images\/yes-man.jpg",
+			"slug":"yes-man"
+		},
+		{
+			"title":"Yes Day",
+			"gatsby_image_path":"..\/..\/images\/yes-day.jpg",
+			"slug":"yes-day"
+		},
+		{
+			"title":"Year One",
+			"gatsby_image_path":"..\/..\/images\/year-one.jpg",
+			"slug":"year-one"
+		},
+		{
+			"title":"Yara",
+			"gatsby_image_path":"..\/..\/images\/yara.jpg",
+			"slug":"yara"
+		},
+		{
+			"title":"xXx: Return of Xander Cage",
+			"gatsby_image_path":"..\/..\/images\/xxx-return-of-xander-cage.jpg",
+			"slug":"xxx-return-of-xander-cage"
+		},
+		{
+			"title":"Xtreme",
+			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
+			"slug":"xtreme"
+		},
+		{
+			"title":"X-Men: Days of Future Past",
+			"gatsby_image_path":"..\/..\/images\/x-men-days-of-future-past.jpg",
+			"slug":"x-men-days-of-future-past"
 		}
 	],
 	"related_most_similar":[
@@ -273,24 +323,39 @@
 			"slug":"friday-the-13th"
 		},
 		{
-			"title":"Old",
-			"gatsby_image_path":"..\/..\/images\/old.jpg",
-			"slug":"old"
-		},
-		{
 			"title":"Deep",
 			"gatsby_image_path":"..\/..\/images\/deep.jpg",
 			"slug":"deep"
 		},
 		{
-			"title":"A Nun's Curse",
-			"gatsby_image_path":"..\/..\/images\/a-nun-s-curse.jpg",
-			"slug":"a-nun-s-curse"
+			"title":"Killing Season",
+			"gatsby_image_path":"..\/..\/images\/killing-season.jpg",
+			"slug":"killing-season"
+		},
+		{
+			"title":"Solitary",
+			"gatsby_image_path":"..\/..\/images\/solitary.jpg",
+			"slug":"solitary"
+		},
+		{
+			"title":"Old",
+			"gatsby_image_path":"..\/..\/images\/old.jpg",
+			"slug":"old"
+		},
+		{
+			"title":"Prey",
+			"gatsby_image_path":"..\/..\/images\/prey.jpg",
+			"slug":"prey"
 		},
 		{
 			"title":"The Darkest Minds",
 			"gatsby_image_path":"..\/..\/images\/the-darkest-minds.jpg",
 			"slug":"the-darkest-minds"
+		},
+		{
+			"title":"A Nun's Curse",
+			"gatsby_image_path":"..\/..\/images\/a-nun-s-curse.jpg",
+			"slug":"a-nun-s-curse"
 		},
 		{
 			"title":"Hostel: Part II",
@@ -308,44 +373,9 @@
 			"slug":"annihilation"
 		},
 		{
-			"title":"Nomadland",
-			"gatsby_image_path":"..\/..\/images\/nomadland.jpg",
-			"slug":"nomadland"
-		},
-		{
-			"title":"The Quake",
-			"gatsby_image_path":"..\/..\/images\/the-quake.jpg",
-			"slug":"the-quake"
-		},
-		{
-			"title":"Child's Play",
-			"gatsby_image_path":"..\/..\/images\/child-s-play.jpg",
-			"slug":"child-s-play"
-		},
-		{
-			"title":"Anton",
-			"gatsby_image_path":"..\/..\/images\/anton.jpg",
-			"slug":"anton"
-		},
-		{
-			"title":"Ellipse",
-			"gatsby_image_path":"..\/..\/images\/ellipse.jpg",
-			"slug":"ellipse"
-		},
-		{
-			"title":"Arrival",
-			"gatsby_image_path":"..\/..\/images\/arrival.jpg",
-			"slug":"arrival"
-		},
-		{
-			"title":"The Comeback Trail",
-			"gatsby_image_path":"..\/..\/images\/the-comeback-trail.jpg",
-			"slug":"the-comeback-trail"
-		},
-		{
-			"title":"Predator",
-			"gatsby_image_path":"..\/..\/images\/predator.jpg",
-			"slug":"predator"
+			"title":"Swim",
+			"gatsby_image_path":"..\/..\/images\/swim.jpg",
+			"slug":"swim"
 		},
 		{
 			"title":"UFO",
@@ -353,9 +383,29 @@
 			"slug":"ufo"
 		},
 		{
-			"title":"Finding Dory",
-			"gatsby_image_path":"..\/..\/images\/finding-dory.jpg",
-			"slug":"finding-dory"
+			"title":"The Quake",
+			"gatsby_image_path":"..\/..\/images\/the-quake.jpg",
+			"slug":"the-quake"
+		},
+		{
+			"title":"Sea Fever",
+			"gatsby_image_path":"..\/..\/images\/sea-fever.jpg",
+			"slug":"sea-fever"
+		},
+		{
+			"title":"Final Score",
+			"gatsby_image_path":"..\/..\/images\/final-score.jpg",
+			"slug":"final-score"
+		},
+		{
+			"title":"Jigsaw",
+			"gatsby_image_path":"..\/..\/images\/jigsaw.jpg",
+			"slug":"jigsaw"
+		},
+		{
+			"title":"Good Boys",
+			"gatsby_image_path":"..\/..\/images\/good-boys.jpg",
+			"slug":"good-boys"
 		}
 	],
 	"tmdb_id":347548,

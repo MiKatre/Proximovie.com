@@ -70,6 +70,11 @@
 			"slug":"tomorrowland"
 		},
 		{
+			"title":"The Voyeurs",
+			"gatsby_image_path":"..\/..\/images\/the-voyeurs.jpg",
+			"slug":"the-voyeurs"
+		},
+		{
 			"title":"The Ridiculous 6",
 			"gatsby_image_path":"..\/..\/images\/the-ridiculous-6.jpg",
 			"slug":"the-ridiculous-6"
@@ -80,9 +85,9 @@
 			"slug":"the-predator"
 		},
 		{
-			"title":"The Lion King",
-			"gatsby_image_path":"..\/..\/images\/the-lion-king.jpg",
-			"slug":"the-lion-king"
+			"title":"The Hate U Give",
+			"gatsby_image_path":"..\/..\/images\/the-hate-u-give.jpg",
+			"slug":"the-hate-u-give"
 		},
 		{
 			"title":"The Beguiled",
@@ -95,9 +100,54 @@
 			"slug":"the-angry-birds-movie"
 		},
 		{
+			"title":"Super 8",
+			"gatsby_image_path":"..\/..\/images\/super-8.jpg",
+			"slug":"super-8"
+		},
+		{
 			"title":"Straight Outta Compton",
 			"gatsby_image_path":"..\/..\/images\/straight-outta-compton.jpg",
 			"slug":"straight-outta-compton"
+		},
+		{
+			"title":"Storks",
+			"gatsby_image_path":"..\/..\/images\/storks.jpg",
+			"slug":"storks"
+		},
+		{
+			"title":"Silk Road",
+			"gatsby_image_path":"..\/..\/images\/silk-road.jpg",
+			"slug":"silk-road"
+		},
+		{
+			"title":"Shaft",
+			"gatsby_image_path":"..\/..\/images\/shaft.jpg",
+			"slug":"shaft"
+		},
+		{
+			"title":"Ron's Gone Wrong",
+			"gatsby_image_path":"..\/..\/images\/ron-s-gone-wrong.jpg",
+			"slug":"ron-s-gone-wrong"
+		},
+		{
+			"title":"Project Almanac",
+			"gatsby_image_path":"..\/..\/images\/project-almanac.jpg",
+			"slug":"project-almanac"
+		},
+		{
+			"title":"Pokémon Detective Pikachu",
+			"gatsby_image_path":"..\/..\/images\/pokémon-detective-pikachu.jpg",
+			"slug":"pokémon-detective-pikachu"
+		},
+		{
+			"title":"Pokémon Detective Pikachu 2",
+			"gatsby_image_path":"..\/..\/images\/pokémon-detective-pikachu-2.jpg",
+			"slug":"pokémon-detective-pikachu-2"
+		},
+		{
+			"title":"Maleficent: Mistress of Evil",
+			"gatsby_image_path":"..\/..\/images\/maleficent-mistress-of-evil.jpg",
+			"slug":"maleficent-mistress-of-evil"
 		}
 	],
 	"related_most_similar":[
@@ -261,6 +311,11 @@
 			"slug":"valley-girl"
 		},
 		{
+			"title":"Black Island",
+			"gatsby_image_path":"..\/..\/images\/black-island.jpg",
+			"slug":"black-island"
+		},
+		{
 			"title":"Sisters on Track",
 			"gatsby_image_path":"..\/..\/images\/sisters-on-track.jpg",
 			"slug":"sisters-on-track"
@@ -281,19 +336,14 @@
 			"slug":"evil-eye"
 		},
 		{
-			"title":"The Oldies",
-			"gatsby_image_path":"..\/..\/images\/the-oldies.jpg",
-			"slug":"the-oldies"
-		},
-		{
 			"title":"Good Boys",
 			"gatsby_image_path":"..\/..\/images\/good-boys.jpg",
 			"slug":"good-boys"
 		},
 		{
-			"title":"Malcolm & Marie",
-			"gatsby_image_path":"..\/..\/images\/malcolm-marie.jpg",
-			"slug":"malcolm-marie"
+			"title":"The Oldies",
+			"gatsby_image_path":"..\/..\/images\/the-oldies.jpg",
+			"slug":"the-oldies"
 		},
 		{
 			"title":"To All the Boys: Always and Forever",
@@ -301,19 +351,14 @@
 			"slug":"to-all-the-boys-always-and-forever"
 		},
 		{
+			"title":"Malcolm & Marie",
+			"gatsby_image_path":"..\/..\/images\/malcolm-marie.jpg",
+			"slug":"malcolm-marie"
+		},
+		{
 			"title":"Antebellum",
 			"gatsby_image_path":"..\/..\/images\/antebellum.jpg",
 			"slug":"antebellum"
-		},
-		{
-			"title":"Nomadland",
-			"gatsby_image_path":"..\/..\/images\/nomadland.jpg",
-			"slug":"nomadland"
-		},
-		{
-			"title":"Insidious: Chapter 2",
-			"gatsby_image_path":"..\/..\/images\/insidious-chapter-2.jpg",
-			"slug":"insidious-chapter-2"
 		},
 		{
 			"title":"Deep",
@@ -321,9 +366,9 @@
 			"slug":"deep"
 		},
 		{
-			"title":"Daddy's Home 2",
-			"gatsby_image_path":"..\/..\/images\/daddy-s-home-2.jpg",
-			"slug":"daddy-s-home-2"
+			"title":"Insidious: Chapter 2",
+			"gatsby_image_path":"..\/..\/images\/insidious-chapter-2.jpg",
+			"slug":"insidious-chapter-2"
 		},
 		{
 			"title":"BLACKPINK: Light Up the Sky",
@@ -331,14 +376,24 @@
 			"slug":"blackpink-light-up-the-sky"
 		},
 		{
+			"title":"Daddy's Home 2",
+			"gatsby_image_path":"..\/..\/images\/daddy-s-home-2.jpg",
+			"slug":"daddy-s-home-2"
+		},
+		{
+			"title":"The Longest Ride",
+			"gatsby_image_path":"..\/..\/images\/the-longest-ride.jpg",
+			"slug":"the-longest-ride"
+		},
+		{
+			"title":"Nomadland",
+			"gatsby_image_path":"..\/..\/images\/nomadland.jpg",
+			"slug":"nomadland"
+		},
+		{
 			"title":"Kill Chain",
 			"gatsby_image_path":"..\/..\/images\/kill-chain.jpg",
 			"slug":"kill-chain"
-		},
-		{
-			"title":"Marriage Story",
-			"gatsby_image_path":"..\/..\/images\/marriage-story.jpg",
-			"slug":"marriage-story"
 		},
 		{
 			"title":"Grown Ups",
@@ -346,14 +401,9 @@
 			"slug":"grown-ups"
 		},
 		{
-			"title":"Pulp Fiction",
-			"gatsby_image_path":"..\/..\/images\/pulp-fiction.jpg",
-			"slug":"pulp-fiction"
-		},
-		{
-			"title":"2 Hearts",
-			"gatsby_image_path":"..\/..\/images\/2-hearts.jpg",
-			"slug":"2-hearts"
+			"title":"Mariposa",
+			"gatsby_image_path":"..\/..\/images\/mariposa.jpg",
+			"slug":"mariposa"
 		}
 	],
 	"tmdb_id":342470,

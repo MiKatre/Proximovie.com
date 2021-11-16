@@ -50,9 +50,9 @@
 	],
 	"related_by_cast":[
 		{
-			"title":"Dune",
-			"gatsby_image_path":"..\/..\/images\/dune.jpg",
-			"slug":"dune"
+			"title":"Reminiscence",
+			"gatsby_image_path":"..\/..\/images\/reminiscence.jpg",
+			"slug":"reminiscence"
 		},
 		{
 			"title":"Baywatch",
@@ -75,14 +75,19 @@
 			"slug":"venom-let-there-be-carnage"
 		},
 		{
-			"title":"Venom",
-			"gatsby_image_path":"..\/..\/images\/venom.jpg",
-			"slug":"venom"
-		},
-		{
 			"title":"Van Helsing",
 			"gatsby_image_path":"..\/..\/images\/van-helsing.jpg",
 			"slug":"van-helsing"
+		},
+		{
+			"title":"The Voyeurs",
+			"gatsby_image_path":"..\/..\/images\/the-voyeurs.jpg",
+			"slug":"the-voyeurs"
+		},
+		{
+			"title":"The Paperboy",
+			"gatsby_image_path":"..\/..\/images\/the-paperboy.jpg",
+			"slug":"the-paperboy"
 		},
 		{
 			"title":"The Lovebirds",
@@ -98,6 +103,51 @@
 			"title":"Spider-Man: No Way Home",
 			"gatsby_image_path":"..\/..\/images\/spider-man-no-way-home.jpg",
 			"slug":"spider-man-no-way-home"
+		},
+		{
+			"title":"Spider-Man: Homecoming",
+			"gatsby_image_path":"..\/..\/images\/spider-man-homecoming.jpg",
+			"slug":"spider-man-homecoming"
+		},
+		{
+			"title":"Spider-Man: Far From Home",
+			"gatsby_image_path":"..\/..\/images\/spider-man-far-from-home.jpg",
+			"slug":"spider-man-far-from-home"
+		},
+		{
+			"title":"Space Jam: A New Legacy",
+			"gatsby_image_path":"..\/..\/images\/space-jam-a-new-legacy.jpg",
+			"slug":"space-jam-a-new-legacy"
+		},
+		{
+			"title":"Shutter Island",
+			"gatsby_image_path":"..\/..\/images\/shutter-island.jpg",
+			"slug":"shutter-island"
+		},
+		{
+			"title":"Scoob!",
+			"gatsby_image_path":"..\/..\/images\/scoob.jpg",
+			"slug":"scoob"
+		},
+		{
+			"title":"Rise of the Guardians",
+			"gatsby_image_path":"..\/..\/images\/rise-of-the-guardians.jpg",
+			"slug":"rise-of-the-guardians"
+		},
+		{
+			"title":"Real Steel",
+			"gatsby_image_path":"..\/..\/images\/real-steel.jpg",
+			"slug":"real-steel"
+		},
+		{
+			"title":"Prisoners",
+			"gatsby_image_path":"..\/..\/images\/prisoners.jpg",
+			"slug":"prisoners"
+		},
+		{
+			"title":"Neighbors",
+			"gatsby_image_path":"..\/..\/images\/neighbors.jpg",
+			"slug":"neighbors"
 		}
 	],
 	"related_most_similar":[
@@ -256,6 +306,16 @@
 	],
 	"related_by_overview":[
 		{
+			"title":"Introducing Chucky: The Making of Child's Play",
+			"gatsby_image_path":"..\/..\/images\/introducing-chucky-the-making-of-child-s-play.jpg",
+			"slug":"introducing-chucky-the-making-of-child-s-play"
+		},
+		{
+			"title":"The Walking Dead: The Journey So Far",
+			"gatsby_image_path":"..\/..\/images\/the-walking-dead-the-journey-so-far.jpg",
+			"slug":"the-walking-dead-the-journey-so-far"
+		},
+		{
 			"title":"First Man",
 			"gatsby_image_path":"..\/..\/images\/first-man.jpg",
 			"slug":"first-man"
@@ -264,6 +324,11 @@
 			"title":"The Imitation Game",
 			"gatsby_image_path":"..\/..\/images\/the-imitation-game.jpg",
 			"slug":"the-imitation-game"
+		},
+		{
+			"title":"Night at the Museum: Battle of the Smithsonian",
+			"gatsby_image_path":"..\/..\/images\/night-at-the-museum-battle-of-the-smithsonian.jpg",
+			"slug":"night-at-the-museum-battle-of-the-smithsonian"
 		},
 		{
 			"title":"Madagascar",
@@ -276,9 +341,14 @@
 			"slug":"nothing-to-lose"
 		},
 		{
-			"title":"A Christmas Carol",
-			"gatsby_image_path":"..\/..\/images\/a-christmas-carol.jpg",
-			"slug":"a-christmas-carol"
+			"title":"A Prayer Before Dawn",
+			"gatsby_image_path":"..\/..\/images\/a-prayer-before-dawn.jpg",
+			"slug":"a-prayer-before-dawn"
+		},
+		{
+			"title":"Life of Pi",
+			"gatsby_image_path":"..\/..\/images\/life-of-pi.jpg",
+			"slug":"life-of-pi"
 		},
 		{
 			"title":"Honest Thief",
@@ -286,19 +356,19 @@
 			"slug":"honest-thief"
 		},
 		{
-			"title":"A Prayer Before Dawn",
-			"gatsby_image_path":"..\/..\/images\/a-prayer-before-dawn.jpg",
-			"slug":"a-prayer-before-dawn"
-		},
-		{
 			"title":"The Case Of The Vanishing Gods",
 			"gatsby_image_path":"..\/..\/images\/the-case-of-the-vanishing-gods.jpg",
 			"slug":"the-case-of-the-vanishing-gods"
 		},
 		{
-			"title":"Life of Pi",
-			"gatsby_image_path":"..\/..\/images\/life-of-pi.jpg",
-			"slug":"life-of-pi"
+			"title":"A Christmas Carol",
+			"gatsby_image_path":"..\/..\/images\/a-christmas-carol.jpg",
+			"slug":"a-christmas-carol"
+		},
+		{
+			"title":"Camp Confidential: America's Secret Nazis",
+			"gatsby_image_path":"..\/..\/images\/camp-confidential-america-s-secret-nazis.jpg",
+			"slug":"camp-confidential-america-s-secret-nazis"
 		},
 		{
 			"title":"Motherless Brooklyn",
@@ -311,11 +381,6 @@
 			"slug":"the-king-s-avatar-for-the-glory"
 		},
 		{
-			"title":"Bohemian Rhapsody",
-			"gatsby_image_path":"..\/..\/images\/bohemian-rhapsody.jpg",
-			"slug":"bohemian-rhapsody"
-		},
-		{
 			"title":"Beverly Hills Chihuahua",
 			"gatsby_image_path":"..\/..\/images\/beverly-hills-chihuahua.jpg",
 			"slug":"beverly-hills-chihuahua"
@@ -326,6 +391,11 @@
 			"slug":"crisis"
 		},
 		{
+			"title":"Hypnotic",
+			"gatsby_image_path":"..\/..\/images\/hypnotic.jpg",
+			"slug":"hypnotic"
+		},
+		{
 			"title":"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
 			"gatsby_image_path":"..\/..\/images\/the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe.jpg",
 			"slug":"the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe"
@@ -334,26 +404,6 @@
 			"title":"Silk Road",
 			"gatsby_image_path":"..\/..\/images\/silk-road.jpg",
 			"slug":"silk-road"
-		},
-		{
-			"title":"Coming 2 America",
-			"gatsby_image_path":"..\/..\/images\/coming-2-america.jpg",
-			"slug":"coming-2-america"
-		},
-		{
-			"title":"Den of Thieves",
-			"gatsby_image_path":"..\/..\/images\/den-of-thieves.jpg",
-			"slug":"den-of-thieves"
-		},
-		{
-			"title":"Enchanted",
-			"gatsby_image_path":"..\/..\/images\/enchanted.jpg",
-			"slug":"enchanted"
-		},
-		{
-			"title":"The Shawshank Redemption",
-			"gatsby_image_path":"..\/..\/images\/the-shawshank-redemption.jpg",
-			"slug":"the-shawshank-redemption"
 		}
 	],
 	"tmdb_id":316029,

@@ -52,6 +52,11 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Year One",
+			"gatsby_image_path":"..\/..\/images\/year-one.jpg",
+			"slug":"year-one"
+		},
+		{
 			"title":"WALL·E",
 			"gatsby_image_path":"..\/..\/images\/wall-e.jpg",
 			"slug":"wall-e"
@@ -60,6 +65,16 @@
 			"title":"Valerian and the City of a Thousand Planets",
 			"gatsby_image_path":"..\/..\/images\/valerian-and-the-city-of-a-thousand-planets.jpg",
 			"slug":"valerian-and-the-city-of-a-thousand-planets"
+		},
+		{
+			"title":"Vacation",
+			"gatsby_image_path":"..\/..\/images\/vacation.jpg",
+			"slug":"vacation"
+		},
+		{
+			"title":"Twilight",
+			"gatsby_image_path":"..\/..\/images\/twilight.jpg",
+			"slug":"twilight"
 		},
 		{
 			"title":"Trolls World Tour",
@@ -72,6 +87,11 @@
 			"slug":"trolls"
 		},
 		{
+			"title":"Tower Heist",
+			"gatsby_image_path":"..\/..\/images\/tower-heist.jpg",
+			"slug":"tower-heist"
+		},
+		{
 			"title":"The World to Come",
 			"gatsby_image_path":"..\/..\/images\/the-world-to-come.jpg",
 			"slug":"the-world-to-come"
@@ -80,6 +100,16 @@
 			"title":"The Twilight Saga: Breaking Dawn - Part 1",
 			"gatsby_image_path":"..\/..\/images\/the-twilight-saga-breaking-dawn-part-1.jpg",
 			"slug":"the-twilight-saga-breaking-dawn-part-1"
+		},
+		{
+			"title":"The Power of the Dog",
+			"gatsby_image_path":"..\/..\/images\/the-power-of-the-dog.jpg",
+			"slug":"the-power-of-the-dog"
+		},
+		{
+			"title":"The Monuments Men",
+			"gatsby_image_path":"..\/..\/images\/the-monuments-men.jpg",
+			"slug":"the-monuments-men"
 		},
 		{
 			"title":"The Hangover Part III",
@@ -100,6 +130,26 @@
 			"title":"The Emperor's New Groove",
 			"gatsby_image_path":"..\/..\/images\/the-emperor-s-new-groove.jpg",
 			"slug":"the-emperor-s-new-groove"
+		},
+		{
+			"title":"The Croods: A New Age",
+			"gatsby_image_path":"..\/..\/images\/the-croods-a-new-age.jpg",
+			"slug":"the-croods-a-new-age"
+		},
+		{
+			"title":"The Change-Up",
+			"gatsby_image_path":"..\/..\/images\/the-change-up.jpg",
+			"slug":"the-change-up"
+		},
+		{
+			"title":"The Accountant",
+			"gatsby_image_path":"..\/..\/images\/the-accountant.jpg",
+			"slug":"the-accountant"
+		},
+		{
+			"title":"Superbad",
+			"gatsby_image_path":"..\/..\/images\/superbad.jpg",
+			"slug":"superbad"
 		}
 	],
 	"related_most_similar":[
@@ -278,14 +328,24 @@
 			"slug":"cloudy-with-a-chance-of-meatballs-2"
 		},
 		{
-			"title":"The Mummy Returns",
-			"gatsby_image_path":"..\/..\/images\/the-mummy-returns.jpg",
-			"slug":"the-mummy-returns"
+			"title":"The Return of the Living Dead",
+			"gatsby_image_path":"..\/..\/images\/the-return-of-the-living-dead.jpg",
+			"slug":"the-return-of-the-living-dead"
 		},
 		{
-			"title":"Goosebumps",
-			"gatsby_image_path":"..\/..\/images\/goosebumps.jpg",
-			"slug":"goosebumps"
+			"title":"Ghostbusters II",
+			"gatsby_image_path":"..\/..\/images\/ghostbusters-ii.jpg",
+			"slug":"ghostbusters-ii"
+		},
+		{
+			"title":"Bridge to Terabithia",
+			"gatsby_image_path":"..\/..\/images\/bridge-to-terabithia.jpg",
+			"slug":"bridge-to-terabithia"
+		},
+		{
+			"title":"Halloween III: Season of the Witch",
+			"gatsby_image_path":"..\/..\/images\/halloween-iii-season-of-the-witch.jpg",
+			"slug":"halloween-iii-season-of-the-witch"
 		},
 		{
 			"title":"The Lord of the Rings: The Fellowship of the Ring",
@@ -293,24 +353,39 @@
 			"slug":"the-lord-of-the-rings-the-fellowship-of-the-ring"
 		},
 		{
+			"title":"Goosebumps",
+			"gatsby_image_path":"..\/..\/images\/goosebumps.jpg",
+			"slug":"goosebumps"
+		},
+		{
+			"title":"Viking Quest",
+			"gatsby_image_path":"..\/..\/images\/viking-quest.jpg",
+			"slug":"viking-quest"
+		},
+		{
+			"title":"The Mummy Returns",
+			"gatsby_image_path":"..\/..\/images\/the-mummy-returns.jpg",
+			"slug":"the-mummy-returns"
+		},
+		{
+			"title":"Avengers Grimm",
+			"gatsby_image_path":"..\/..\/images\/avengers-grimm.jpg",
+			"slug":"avengers-grimm"
+		},
+		{
 			"title":"Slender Man",
 			"gatsby_image_path":"..\/..\/images\/slender-man.jpg",
 			"slug":"slender-man"
 		},
 		{
-			"title":"The Croods",
-			"gatsby_image_path":"..\/..\/images\/the-croods.jpg",
-			"slug":"the-croods"
+			"title":"Scream 4",
+			"gatsby_image_path":"..\/..\/images\/scream-4.jpg",
+			"slug":"scream-4"
 		},
 		{
 			"title":"Fantastic Beasts: The Crimes of Grindelwald",
 			"gatsby_image_path":"..\/..\/images\/fantastic-beasts-the-crimes-of-grindelwald.jpg",
 			"slug":"fantastic-beasts-the-crimes-of-grindelwald"
-		},
-		{
-			"title":"Harry Potter and the Goblet of Fire",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
-			"slug":"harry-potter-and-the-goblet-of-fire"
 		},
 		{
 			"title":"The Sword in the Stone",
@@ -323,39 +398,14 @@
 			"slug":"fantastic-beasts-and-where-to-find-them"
 		},
 		{
-			"title":"Gemini Man",
-			"gatsby_image_path":"..\/..\/images\/gemini-man.jpg",
-			"slug":"gemini-man"
+			"title":"Harry Potter and the Goblet of Fire",
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
+			"slug":"harry-potter-and-the-goblet-of-fire"
 		},
 		{
-			"title":"Horton Hears a Who!",
-			"gatsby_image_path":"..\/..\/images\/horton-hears-a-who.jpg",
-			"slug":"horton-hears-a-who"
-		},
-		{
-			"title":"Werewolves Within",
-			"gatsby_image_path":"..\/..\/images\/werewolves-within.jpg",
-			"slug":"werewolves-within"
-		},
-		{
-			"title":"Cult of Chucky",
-			"gatsby_image_path":"..\/..\/images\/cult-of-chucky.jpg",
-			"slug":"cult-of-chucky"
-		},
-		{
-			"title":"Hook",
-			"gatsby_image_path":"..\/..\/images\/hook.jpg",
-			"slug":"hook"
-		},
-		{
-			"title":"Little Nicky",
-			"gatsby_image_path":"..\/..\/images\/little-nicky.jpg",
-			"slug":"little-nicky"
-		},
-		{
-			"title":"Dumbo",
-			"gatsby_image_path":"..\/..\/images\/dumbo.jpg",
-			"slug":"dumbo"
+			"title":"Red Riding Hood",
+			"gatsby_image_path":"..\/..\/images\/red-riding-hood.jpg",
+			"slug":"red-riding-hood"
 		}
 	],
 	"tmdb_id":77174,

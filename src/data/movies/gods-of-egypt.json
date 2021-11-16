@@ -61,6 +61,16 @@
 			"slug":"pirates-of-the-caribbean-dead-men-tell-no-tales"
 		},
 		{
+			"title":"The Warrior's Way",
+			"gatsby_image_path":"..\/..\/images\/the-warrior-s-way.jpg",
+			"slug":"the-warrior-s-way"
+		},
+		{
+			"title":"The Ugly Truth",
+			"gatsby_image_path":"..\/..\/images\/the-ugly-truth.jpg",
+			"slug":"the-ugly-truth"
+		},
+		{
 			"title":"The Light Between Oceans",
 			"gatsby_image_path":"..\/..\/images\/the-light-between-oceans.jpg",
 			"slug":"the-light-between-oceans"
@@ -74,6 +84,16 @@
 			"title":"The Dark Tower",
 			"gatsby_image_path":"..\/..\/images\/the-dark-tower.jpg",
 			"slug":"the-dark-tower"
+		},
+		{
+			"title":"Status Update",
+			"gatsby_image_path":"..\/..\/images\/status-update.jpg",
+			"slug":"status-update"
+		},
+		{
+			"title":"Son of a Gun",
+			"gatsby_image_path":"..\/..\/images\/son-of-a-gun.jpg",
+			"slug":"son-of-a-gun"
 		},
 		{
 			"title":"Secret Society of Second Born Royals",
@@ -96,14 +116,44 @@
 			"slug":"pirates-of-the-caribbean-at-world-s-end"
 		},
 		{
+			"title":"Parker",
+			"gatsby_image_path":"..\/..\/images\/parker.jpg",
+			"slug":"parker"
+		},
+		{
+			"title":"Olympus Has Fallen",
+			"gatsby_image_path":"..\/..\/images\/olympus-has-fallen.jpg",
+			"slug":"olympus-has-fallen"
+		},
+		{
 			"title":"Old",
 			"gatsby_image_path":"..\/..\/images\/old.jpg",
 			"slug":"old"
 		},
 		{
+			"title":"Movie 43",
+			"gatsby_image_path":"..\/..\/images\/movie-43.jpg",
+			"slug":"movie-43"
+		},
+		{
 			"title":"Minions",
 			"gatsby_image_path":"..\/..\/images\/minions.jpg",
 			"slug":"minions"
+		},
+		{
+			"title":"Mama",
+			"gatsby_image_path":"..\/..\/images\/mama.jpg",
+			"slug":"mama"
+		},
+		{
+			"title":"Maleficent",
+			"gatsby_image_path":"..\/..\/images\/maleficent.jpg",
+			"slug":"maleficent"
+		},
+		{
+			"title":"Mad Max: Fury Road",
+			"gatsby_image_path":"..\/..\/images\/mad-max-fury-road.jpg",
+			"slug":"mad-max-fury-road"
 		}
 	],
 	"related_most_similar":[
@@ -267,14 +317,14 @@
 			"slug":"american-renegades"
 		},
 		{
-			"title":"Tom Clancy's Without Remorse",
-			"gatsby_image_path":"..\/..\/images\/tom-clancy-s-without-remorse.jpg",
-			"slug":"tom-clancy-s-without-remorse"
-		},
-		{
 			"title":"Shadow in the Cloud",
 			"gatsby_image_path":"..\/..\/images\/shadow-in-the-cloud.jpg",
 			"slug":"shadow-in-the-cloud"
+		},
+		{
+			"title":"Tom Clancy's Without Remorse",
+			"gatsby_image_path":"..\/..\/images\/tom-clancy-s-without-remorse.jpg",
+			"slug":"tom-clancy-s-without-remorse"
 		},
 		{
 			"title":"Crypto",
@@ -287,19 +337,24 @@
 			"slug":"the-conjuring-2"
 		},
 		{
+			"title":"The Warrior's Way",
+			"gatsby_image_path":"..\/..\/images\/the-warrior-s-way.jpg",
+			"slug":"the-warrior-s-way"
+		},
+		{
 			"title":"How It Ends",
 			"gatsby_image_path":"..\/..\/images\/how-it-ends.jpg",
 			"slug":"how-it-ends"
 		},
 		{
-			"title":"The Farm",
-			"gatsby_image_path":"..\/..\/images\/the-farm.jpg",
-			"slug":"the-farm"
-		},
-		{
 			"title":"Point Break",
 			"gatsby_image_path":"..\/..\/images\/point-break.jpg",
 			"slug":"point-break"
+		},
+		{
+			"title":"The Farm",
+			"gatsby_image_path":"..\/..\/images\/the-farm.jpg",
+			"slug":"the-farm"
 		},
 		{
 			"title":"Pig",
@@ -312,9 +367,24 @@
 			"slug":"one-piece-film-gold"
 		},
 		{
-			"title":"Boss Level",
-			"gatsby_image_path":"..\/..\/images\/boss-level.jpg",
-			"slug":"boss-level"
+			"title":"Prey",
+			"gatsby_image_path":"..\/..\/images\/prey.jpg",
+			"slug":"prey"
+		},
+		{
+			"title":"Lokillo",
+			"gatsby_image_path":"..\/..\/images\/lokillo.jpg",
+			"slug":"lokillo"
+		},
+		{
+			"title":"Spectral",
+			"gatsby_image_path":"..\/..\/images\/spectral.jpg",
+			"slug":"spectral"
+		},
+		{
+			"title":"Earwig and the Witch",
+			"gatsby_image_path":"..\/..\/images\/earwig-and-the-witch.jpg",
+			"slug":"earwig-and-the-witch"
 		},
 		{
 			"title":"Time Trap",
@@ -322,44 +392,24 @@
 			"slug":"time-trap"
 		},
 		{
-			"title":"The Knight Before Christmas",
-			"gatsby_image_path":"..\/..\/images\/the-knight-before-christmas.jpg",
-			"slug":"the-knight-before-christmas"
-		},
-		{
 			"title":"Freaky",
 			"gatsby_image_path":"..\/..\/images\/freaky.jpg",
 			"slug":"freaky"
 		},
 		{
-			"title":"The Bear",
-			"gatsby_image_path":"..\/..\/images\/the-bear.jpg",
-			"slug":"the-bear"
+			"title":"Boss Level",
+			"gatsby_image_path":"..\/..\/images\/boss-level.jpg",
+			"slug":"boss-level"
 		},
 		{
-			"title":"The Boy from Medellín",
-			"gatsby_image_path":"..\/..\/images\/the-boy-from-medellín.jpg",
-			"slug":"the-boy-from-medellín"
+			"title":"The Knight Before Christmas",
+			"gatsby_image_path":"..\/..\/images\/the-knight-before-christmas.jpg",
+			"slug":"the-knight-before-christmas"
 		},
 		{
-			"title":"Scorched Earth",
-			"gatsby_image_path":"..\/..\/images\/scorched-earth.jpg",
-			"slug":"scorched-earth"
-		},
-		{
-			"title":"The Bouncer",
-			"gatsby_image_path":"..\/..\/images\/the-bouncer.jpg",
-			"slug":"the-bouncer"
-		},
-		{
-			"title":"Penguins of Madagascar",
-			"gatsby_image_path":"..\/..\/images\/penguins-of-madagascar.jpg",
-			"slug":"penguins-of-madagascar"
-		},
-		{
-			"title":"Pirates of the Caribbean: Dead Man's Chest",
-			"gatsby_image_path":"..\/..\/images\/pirates-of-the-caribbean-dead-man-s-chest.jpg",
-			"slug":"pirates-of-the-caribbean-dead-man-s-chest"
+			"title":"Army of Thieves",
+			"gatsby_image_path":"..\/..\/images\/army-of-thieves.jpg",
+			"slug":"army-of-thieves"
 		}
 	],
 	"tmdb_id":205584,

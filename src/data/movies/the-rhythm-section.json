@@ -87,6 +87,16 @@
 			"slug":"the-angry-birds-movie-2"
 		},
 		{
+			"title":"Sweet Girl",
+			"gatsby_image_path":"..\/..\/images\/sweet-girl.jpg",
+			"slug":"sweet-girl"
+		},
+		{
+			"title":"Spy",
+			"gatsby_image_path":"..\/..\/images\/spy.jpg",
+			"slug":"spy"
+		},
+		{
 			"title":"Sherlock Holmes: A Game of Shadows",
 			"gatsby_image_path":"..\/..\/images\/sherlock-holmes-a-game-of-shadows.jpg",
 			"slug":"sherlock-holmes-a-game-of-shadows"
@@ -97,6 +107,11 @@
 			"slug":"rise-of-the-guardians"
 		},
 		{
+			"title":"Mine",
+			"gatsby_image_path":"..\/..\/images\/mine.jpg",
+			"slug":"mine"
+		},
+		{
 			"title":"Mandy",
 			"gatsby_image_path":"..\/..\/images\/mandy.jpg",
 			"slug":"mandy"
@@ -105,6 +120,41 @@
 			"title":"King Arthur: Legend of the Sword",
 			"gatsby_image_path":"..\/..\/images\/king-arthur-legend-of-the-sword.jpg",
 			"slug":"king-arthur-legend-of-the-sword"
+		},
+		{
+			"title":"Hotel Artemis",
+			"gatsby_image_path":"..\/..\/images\/hotel-artemis.jpg",
+			"slug":"hotel-artemis"
+		},
+		{
+			"title":"Green Lantern",
+			"gatsby_image_path":"..\/..\/images\/green-lantern.jpg",
+			"slug":"green-lantern"
+		},
+		{
+			"title":"Frozen II",
+			"gatsby_image_path":"..\/..\/images\/frozen-ii.jpg",
+			"slug":"frozen-ii"
+		},
+		{
+			"title":"Fantastic Beasts: The Secrets of Dumbledore",
+			"gatsby_image_path":"..\/..\/images\/fantastic-beasts-the-secrets-of-dumbledore.jpg",
+			"slug":"fantastic-beasts-the-secrets-of-dumbledore"
+		},
+		{
+			"title":"Fantastic Beasts: The Crimes of Grindelwald",
+			"gatsby_image_path":"..\/..\/images\/fantastic-beasts-the-crimes-of-grindelwald.jpg",
+			"slug":"fantastic-beasts-the-crimes-of-grindelwald"
+		},
+		{
+			"title":"Dinosaur",
+			"gatsby_image_path":"..\/..\/images\/dinosaur.jpg",
+			"slug":"dinosaur"
+		},
+		{
+			"title":"Captain Marvel",
+			"gatsby_image_path":"..\/..\/images\/captain-marvel.jpg",
+			"slug":"captain-marvel"
 		}
 	],
 	"related_most_similar":[
@@ -283,9 +333,19 @@
 			"slug":"escape-plan-the-extractors"
 		},
 		{
+			"title":"The Invisible Guest",
+			"gatsby_image_path":"..\/..\/images\/the-invisible-guest.jpg",
+			"slug":"the-invisible-guest"
+		},
+		{
 			"title":"Se7en",
 			"gatsby_image_path":"..\/..\/images\/se7en.jpg",
 			"slug":"se7en"
+		},
+		{
+			"title":"Killer Elite",
+			"gatsby_image_path":"..\/..\/images\/killer-elite.jpg",
+			"slug":"killer-elite"
 		},
 		{
 			"title":"Revolt",
@@ -293,14 +353,14 @@
 			"slug":"revolt"
 		},
 		{
-			"title":"The Invisible Guest",
-			"gatsby_image_path":"..\/..\/images\/the-invisible-guest.jpg",
-			"slug":"the-invisible-guest"
-		},
-		{
 			"title":"Roald Dahl's The Witches",
 			"gatsby_image_path":"..\/..\/images\/roald-dahl-s-the-witches.jpg",
 			"slug":"roald-dahl-s-the-witches"
+		},
+		{
+			"title":"Reminiscence",
+			"gatsby_image_path":"..\/..\/images\/reminiscence.jpg",
+			"slug":"reminiscence"
 		},
 		{
 			"title":"The Doorman",
@@ -313,9 +373,24 @@
 			"slug":"nightcrawler"
 		},
 		{
+			"title":"Halloween: Resurrection",
+			"gatsby_image_path":"..\/..\/images\/halloween-resurrection.jpg",
+			"slug":"halloween-resurrection"
+		},
+		{
+			"title":"Scary Movie 2",
+			"gatsby_image_path":"..\/..\/images\/scary-movie-2.jpg",
+			"slug":"scary-movie-2"
+		},
+		{
 			"title":"Love & Other Drugs",
 			"gatsby_image_path":"..\/..\/images\/love-other-drugs.jpg",
 			"slug":"love-other-drugs"
+		},
+		{
+			"title":"Knight and Day",
+			"gatsby_image_path":"..\/..\/images\/knight-and-day.jpg",
+			"slug":"knight-and-day"
 		},
 		{
 			"title":"Cruella",
@@ -323,9 +398,9 @@
 			"slug":"cruella"
 		},
 		{
-			"title":"Scary Movie 2",
-			"gatsby_image_path":"..\/..\/images\/scary-movie-2.jpg",
-			"slug":"scary-movie-2"
+			"title":"The Marksman",
+			"gatsby_image_path":"..\/..\/images\/the-marksman.jpg",
+			"slug":"the-marksman"
 		},
 		{
 			"title":"Hotel Artemis",
@@ -336,31 +411,6 @@
 			"title":"Die Hard: With a Vengeance",
 			"gatsby_image_path":"..\/..\/images\/die-hard-with-a-vengeance.jpg",
 			"slug":"die-hard-with-a-vengeance"
-		},
-		{
-			"title":"The Marksman",
-			"gatsby_image_path":"..\/..\/images\/the-marksman.jpg",
-			"slug":"the-marksman"
-		},
-		{
-			"title":"The Unholy",
-			"gatsby_image_path":"..\/..\/images\/the-unholy.jpg",
-			"slug":"the-unholy"
-		},
-		{
-			"title":"Poltergeist",
-			"gatsby_image_path":"..\/..\/images\/poltergeist.jpg",
-			"slug":"poltergeist"
-		},
-		{
-			"title":"Vivarium",
-			"gatsby_image_path":"..\/..\/images\/vivarium.jpg",
-			"slug":"vivarium"
-		},
-		{
-			"title":"The Courier",
-			"gatsby_image_path":"..\/..\/images\/the-courier.jpg",
-			"slug":"the-courier"
 		}
 	],
 	"tmdb_id":466622,

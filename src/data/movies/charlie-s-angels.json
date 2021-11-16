@@ -53,6 +53,11 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Snow White and the Huntsman",
+			"gatsby_image_path":"..\/..\/images\/snow-white-and-the-huntsman.jpg",
+			"slug":"snow-white-and-the-huntsman"
+		},
+		{
 			"title":"Power Rangers",
 			"gatsby_image_path":"..\/..\/images\/power-rangers.jpg",
 			"slug":"power-rangers"
@@ -83,6 +88,11 @@
 			"slug":"underwater"
 		},
 		{
+			"title":"Twilight",
+			"gatsby_image_path":"..\/..\/images\/twilight.jpg",
+			"slug":"twilight"
+		},
+		{
 			"title":"To All the Boys: P.S. I Still Love You",
 			"gatsby_image_path":"..\/..\/images\/to-all-the-boys-p.s.-i-still-love-you.jpg",
 			"slug":"to-all-the-boys-p.s.-i-still-love-you"
@@ -101,6 +111,46 @@
 			"title":"The Twilight Saga: New Moon",
 			"gatsby_image_path":"..\/..\/images\/the-twilight-saga-new-moon.jpg",
 			"slug":"the-twilight-saga-new-moon"
+		},
+		{
+			"title":"The Twilight Saga: Eclipse",
+			"gatsby_image_path":"..\/..\/images\/the-twilight-saga-eclipse.jpg",
+			"slug":"the-twilight-saga-eclipse"
+		},
+		{
+			"title":"The Twilight Saga: Breaking Dawn - Part 2",
+			"gatsby_image_path":"..\/..\/images\/the-twilight-saga-breaking-dawn-part-2.jpg",
+			"slug":"the-twilight-saga-breaking-dawn-part-2"
+		},
+		{
+			"title":"The Twilight Saga: Breaking Dawn - Part 1",
+			"gatsby_image_path":"..\/..\/images\/the-twilight-saga-breaking-dawn-part-1.jpg",
+			"slug":"the-twilight-saga-breaking-dawn-part-1"
+		},
+		{
+			"title":"The Perfect Date",
+			"gatsby_image_path":"..\/..\/images\/the-perfect-date.jpg",
+			"slug":"the-perfect-date"
+		},
+		{
+			"title":"The Nightingale",
+			"gatsby_image_path":"..\/..\/images\/the-nightingale.jpg",
+			"slug":"the-nightingale"
+		},
+		{
+			"title":"The Next Three Days",
+			"gatsby_image_path":"..\/..\/images\/the-next-three-days.jpg",
+			"slug":"the-next-three-days"
+		},
+		{
+			"title":"The Lego Movie 2: The Second Part",
+			"gatsby_image_path":"..\/..\/images\/the-lego-movie-2-the-second-part.jpg",
+			"slug":"the-lego-movie-2-the-second-part"
+		},
+		{
+			"title":"The Legend of Tarzan",
+			"gatsby_image_path":"..\/..\/images\/the-legend-of-tarzan.jpg",
+			"slug":"the-legend-of-tarzan"
 		}
 	],
 	"related_most_similar":[
@@ -274,6 +324,11 @@
 			"slug":"we-can-be-heroes"
 		},
 		{
+			"title":"The Watch",
+			"gatsby_image_path":"..\/..\/images\/the-watch.jpg",
+			"slug":"the-watch"
+		},
+		{
 			"title":"The Abyss",
 			"gatsby_image_path":"..\/..\/images\/the-abyss.jpg",
 			"slug":"the-abyss"
@@ -282,6 +337,11 @@
 			"title":"Scouts Guide to the Zombie Apocalypse",
 			"gatsby_image_path":"..\/..\/images\/scouts-guide-to-the-zombie-apocalypse.jpg",
 			"slug":"scouts-guide-to-the-zombie-apocalypse"
+		},
+		{
+			"title":"Iron Sky",
+			"gatsby_image_path":"..\/..\/images\/iron-sky.jpg",
+			"slug":"iron-sky"
 		},
 		{
 			"title":"Prometheus",
@@ -299,14 +359,14 @@
 			"slug":"geostorm"
 		},
 		{
-			"title":"Fast & Furious Presents: Hobbs & Shaw",
-			"gatsby_image_path":"..\/..\/images\/fast-furious-presents-hobbs-shaw.jpg",
-			"slug":"fast-furious-presents-hobbs-shaw"
-		},
-		{
 			"title":"The Martian",
 			"gatsby_image_path":"..\/..\/images\/the-martian.jpg",
 			"slug":"the-martian"
+		},
+		{
+			"title":"Fast & Furious Presents: Hobbs & Shaw",
+			"gatsby_image_path":"..\/..\/images\/fast-furious-presents-hobbs-shaw.jpg",
+			"slug":"fast-furious-presents-hobbs-shaw"
 		},
 		{
 			"title":"Escape Plan",
@@ -319,24 +379,19 @@
 			"slug":"cats-dogs"
 		},
 		{
-			"title":"Take Point",
-			"gatsby_image_path":"..\/..\/images\/take-point.jpg",
-			"slug":"take-point"
-		},
-		{
 			"title":"Lone Survivor",
 			"gatsby_image_path":"..\/..\/images\/lone-survivor.jpg",
 			"slug":"lone-survivor"
 		},
 		{
-			"title":"TRON: Legacy",
-			"gatsby_image_path":"..\/..\/images\/tron-legacy.jpg",
-			"slug":"tron-legacy"
+			"title":"The Green Inferno",
+			"gatsby_image_path":"..\/..\/images\/the-green-inferno.jpg",
+			"slug":"the-green-inferno"
 		},
 		{
-			"title":"Eternals",
-			"gatsby_image_path":"..\/..\/images\/eternals.jpg",
-			"slug":"eternals"
+			"title":"Take Point",
+			"gatsby_image_path":"..\/..\/images\/take-point.jpg",
+			"slug":"take-point"
 		},
 		{
 			"title":"Escape Plan 2: Hades",
@@ -344,19 +399,14 @@
 			"slug":"escape-plan-2-hades"
 		},
 		{
-			"title":"Deathstroke: Knights & Dragons - The Movie",
-			"gatsby_image_path":"..\/..\/images\/deathstroke-knights-dragons-the-movie.jpg",
-			"slug":"deathstroke-knights-dragons-the-movie"
+			"title":"Eternals",
+			"gatsby_image_path":"..\/..\/images\/eternals.jpg",
+			"slug":"eternals"
 		},
 		{
-			"title":"Mission: Impossible - Fallout",
-			"gatsby_image_path":"..\/..\/images\/mission-impossible-fallout.jpg",
-			"slug":"mission-impossible-fallout"
-		},
-		{
-			"title":"Escape Plan: The Extractors",
-			"gatsby_image_path":"..\/..\/images\/escape-plan-the-extractors.jpg",
-			"slug":"escape-plan-the-extractors"
+			"title":"TRON: Legacy",
+			"gatsby_image_path":"..\/..\/images\/tron-legacy.jpg",
+			"slug":"tron-legacy"
 		}
 	],
 	"tmdb_id":458897,

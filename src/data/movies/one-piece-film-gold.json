@@ -86,6 +86,11 @@
 			"slug":"pokémon-the-movie-the-power-of-us"
 		},
 		{
+			"title":"Pokémon the Movie: Secrets of the Jungle",
+			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-secrets-of-the-jungle.jpg",
+			"slug":"pokémon-the-movie-secrets-of-the-jungle"
+		},
+		{
 			"title":"Pokémon the Movie: I Choose You!",
 			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-i-choose-you.jpg",
 			"slug":"pokémon-the-movie-i-choose-you"
@@ -96,9 +101,54 @@
 			"slug":"pokémon-the-movie-hoopa-and-the-clash-of-ages"
 		},
 		{
+			"title":"Pokémon: Mewtwo Strikes Back - Evolution",
+			"gatsby_image_path":"..\/..\/images\/pokémon-mewtwo-strikes-back-evolution.jpg",
+			"slug":"pokémon-mewtwo-strikes-back-evolution"
+		},
+		{
 			"title":"Ninja Escapades: Creation of Akatsuki, The Two Uchiha, The Far Reaches of Hope",
 			"gatsby_image_path":"..\/..\/images\/ninja-escapades-creation-of-akatsuki-the-two-uchiha-the-far-reaches-of-hope.jpg",
 			"slug":"ninja-escapades-creation-of-akatsuki-the-two-uchiha-the-far-reaches-of-hope"
+		},
+		{
+			"title":"Neon Genesis Evangelion: The End of Evangelion",
+			"gatsby_image_path":"..\/..\/images\/neon-genesis-evangelion-the-end-of-evangelion.jpg",
+			"slug":"neon-genesis-evangelion-the-end-of-evangelion"
+		},
+		{
+			"title":"My Hero Academia: World Heroes' Mission",
+			"gatsby_image_path":"..\/..\/images\/my-hero-academia-world-heroes-mission.jpg",
+			"slug":"my-hero-academia-world-heroes-mission"
+		},
+		{
+			"title":"Maquia: When the Promised Flower Blooms",
+			"gatsby_image_path":"..\/..\/images\/maquia-when-the-promised-flower-blooms.jpg",
+			"slug":"maquia-when-the-promised-flower-blooms"
+		},
+		{
+			"title":"Kizumonogatari Part 3: Reiketsu",
+			"gatsby_image_path":"..\/..\/images\/kizumonogatari-part-3-reiketsu.jpg",
+			"slug":"kizumonogatari-part-3-reiketsu"
+		},
+		{
+			"title":"Kizumonogatari Part 2: Nekketsu",
+			"gatsby_image_path":"..\/..\/images\/kizumonogatari-part-2-nekketsu.jpg",
+			"slug":"kizumonogatari-part-2-nekketsu"
+		},
+		{
+			"title":"Kiki's Delivery Service",
+			"gatsby_image_path":"..\/..\/images\/kiki-s-delivery-service.jpg",
+			"slug":"kiki-s-delivery-service"
+		},
+		{
+			"title":"Jujutsu Kaisen 0: The Movie",
+			"gatsby_image_path":"..\/..\/images\/jujutsu-kaisen-0-the-movie.jpg",
+			"slug":"jujutsu-kaisen-0-the-movie"
+		},
+		{
+			"title":"Fireworks",
+			"gatsby_image_path":"..\/..\/images\/fireworks.jpg",
+			"slug":"fireworks"
 		}
 	],
 	"related_most_similar":[
@@ -272,14 +322,19 @@
 			"slug":"america-the-motion-picture"
 		},
 		{
+			"title":"The Warrior's Way",
+			"gatsby_image_path":"..\/..\/images\/the-warrior-s-way.jpg",
+			"slug":"the-warrior-s-way"
+		},
+		{
 			"title":"Spirit Untamed",
 			"gatsby_image_path":"..\/..\/images\/spirit-untamed.jpg",
 			"slug":"spirit-untamed"
 		},
 		{
-			"title":"John Wick",
-			"gatsby_image_path":"..\/..\/images\/john-wick.jpg",
-			"slug":"john-wick"
+			"title":"El cuartito",
+			"gatsby_image_path":"..\/..\/images\/el-cuartito.jpg",
+			"slug":"el-cuartito"
 		},
 		{
 			"title":"Howl's Moving Castle",
@@ -287,39 +342,14 @@
 			"slug":"howl-s-moving-castle"
 		},
 		{
+			"title":"The Eternal",
+			"gatsby_image_path":"..\/..\/images\/the-eternal.jpg",
+			"slug":"the-eternal"
+		},
+		{
 			"title":"Avengement",
 			"gatsby_image_path":"..\/..\/images\/avengement.jpg",
 			"slug":"avengement"
-		},
-		{
-			"title":"Cobra",
-			"gatsby_image_path":"..\/..\/images\/cobra.jpg",
-			"slug":"cobra"
-		},
-		{
-			"title":"The House of Flowers: The Movie",
-			"gatsby_image_path":"..\/..\/images\/the-house-of-flowers-the-movie.jpg",
-			"slug":"the-house-of-flowers-the-movie"
-		},
-		{
-			"title":"Predator",
-			"gatsby_image_path":"..\/..\/images\/predator.jpg",
-			"slug":"predator"
-		},
-		{
-			"title":"Sin City: A Dame to Kill For",
-			"gatsby_image_path":"..\/..\/images\/sin-city-a-dame-to-kill-for.jpg",
-			"slug":"sin-city-a-dame-to-kill-for"
-		},
-		{
-			"title":"Sausage Party",
-			"gatsby_image_path":"..\/..\/images\/sausage-party.jpg",
-			"slug":"sausage-party"
-		},
-		{
-			"title":"The Farm",
-			"gatsby_image_path":"..\/..\/images\/the-farm.jpg",
-			"slug":"the-farm"
 		},
 		{
 			"title":"Dinosaur",
@@ -327,9 +357,34 @@
 			"slug":"dinosaur"
 		},
 		{
-			"title":"Braven",
-			"gatsby_image_path":"..\/..\/images\/braven.jpg",
-			"slug":"braven"
+			"title":"John Wick",
+			"gatsby_image_path":"..\/..\/images\/john-wick.jpg",
+			"slug":"john-wick"
+		},
+		{
+			"title":"Prey",
+			"gatsby_image_path":"..\/..\/images\/prey.jpg",
+			"slug":"prey"
+		},
+		{
+			"title":"Predator",
+			"gatsby_image_path":"..\/..\/images\/predator.jpg",
+			"slug":"predator"
+		},
+		{
+			"title":"Army of Thieves",
+			"gatsby_image_path":"..\/..\/images\/army-of-thieves.jpg",
+			"slug":"army-of-thieves"
+		},
+		{
+			"title":"Sin City: A Dame to Kill For",
+			"gatsby_image_path":"..\/..\/images\/sin-city-a-dame-to-kill-for.jpg",
+			"slug":"sin-city-a-dame-to-kill-for"
+		},
+		{
+			"title":"Cobra",
+			"gatsby_image_path":"..\/..\/images\/cobra.jpg",
+			"slug":"cobra"
 		},
 		{
 			"title":"American Renegades",
@@ -337,24 +392,19 @@
 			"slug":"american-renegades"
 		},
 		{
-			"title":"A Nun's Curse",
-			"gatsby_image_path":"..\/..\/images\/a-nun-s-curse.jpg",
-			"slug":"a-nun-s-curse"
+			"title":"6 Bullets",
+			"gatsby_image_path":"..\/..\/images\/6-bullets.jpg",
+			"slug":"6-bullets"
 		},
 		{
-			"title":"Point Break",
-			"gatsby_image_path":"..\/..\/images\/point-break.jpg",
-			"slug":"point-break"
+			"title":"Braven",
+			"gatsby_image_path":"..\/..\/images\/braven.jpg",
+			"slug":"braven"
 		},
 		{
-			"title":"Kidnapped",
-			"gatsby_image_path":"..\/..\/images\/kidnapped.jpg",
-			"slug":"kidnapped"
-		},
-		{
-			"title":"The Hunger Games: Mockingjay - Part 1",
-			"gatsby_image_path":"..\/..\/images\/the-hunger-games-mockingjay-part-1.jpg",
-			"slug":"the-hunger-games-mockingjay-part-1"
+			"title":"Miss Peregrine's Home for Peculiar Children",
+			"gatsby_image_path":"..\/..\/images\/miss-peregrine-s-home-for-peculiar-children.jpg",
+			"slug":"miss-peregrine-s-home-for-peculiar-children"
 		}
 	],
 	"tmdb_id":374205,

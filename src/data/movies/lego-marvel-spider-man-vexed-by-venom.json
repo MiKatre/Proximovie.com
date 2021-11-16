@@ -40,5 +40,209 @@
 		"Eugene Son",
 		"Andrew Duncan",
 		"Ken Cunningham"
+	],
+	"related_by_cast":[
+		{
+			"title":"The Rugrats Movie",
+			"gatsby_image_path":"..\/..\/images\/the-rugrats-movie.jpg",
+			"slug":"the-rugrats-movie"
+		},
+		{
+			"title":"Teen Titans Go! vs. Teen Titans",
+			"gatsby_image_path":"..\/..\/images\/teen-titans-go-vs.-teen-titans.jpg",
+			"slug":"teen-titans-go-vs.-teen-titans"
+		},
+		{
+			"title":"Teen Titans Go! To the Movies",
+			"gatsby_image_path":"..\/..\/images\/teen-titans-go-to-the-movies.jpg",
+			"slug":"teen-titans-go-to-the-movies"
+		},
+		{
+			"title":"Teen Titans Go! See Space Jam",
+			"gatsby_image_path":"..\/..\/images\/teen-titans-go-see-space-jam.jpg",
+			"slug":"teen-titans-go-see-space-jam"
+		},
+		{
+			"title":"Suicide Squad: Hell to Pay",
+			"gatsby_image_path":"..\/..\/images\/suicide-squad-hell-to-pay.jpg",
+			"slug":"suicide-squad-hell-to-pay"
+		},
+		{
+			"title":"Justice League: The Flashpoint Paradox",
+			"gatsby_image_path":"..\/..\/images\/justice-league-the-flashpoint-paradox.jpg",
+			"slug":"justice-league-the-flashpoint-paradox"
+		},
+		{
+			"title":"Injustice",
+			"gatsby_image_path":"..\/..\/images\/injustice.jpg",
+			"slug":"injustice"
+		},
+		{
+			"title":"Hercules",
+			"gatsby_image_path":"..\/..\/images\/hercules.jpg",
+			"slug":"hercules"
+		},
+		{
+			"title":"Constantine: City of Demons - The Movie",
+			"gatsby_image_path":"..\/..\/images\/constantine-city-of-demons-the-movie.jpg",
+			"slug":"constantine-city-of-demons-the-movie"
+		},
+		{
+			"title":"Codename: Kids Next Door - Operation Z.E.R.O.",
+			"gatsby_image_path":"..\/..\/images\/codename-kids-next-door-operation-z.e.r.o..jpg",
+			"slug":"codename-kids-next-door-operation-z.e.r.o."
+		},
+		{
+			"title":"Cinderella III: A Twist in Time",
+			"gatsby_image_path":"..\/..\/images\/cinderella-iii-a-twist-in-time.jpg",
+			"slug":"cinderella-iii-a-twist-in-time"
+		},
+		{
+			"title":"Cinderella II: Dreams Come True",
+			"gatsby_image_path":"..\/..\/images\/cinderella-ii-dreams-come-true.jpg",
+			"slug":"cinderella-ii-dreams-come-true"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
+			"title":"Zombieland: Double Tap",
+			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
+			"slug":"zombieland-double-tap"
+		},
+		{
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
+		},
+		{
+			"title":"Zack Snyder's Justice League",
+			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
+			"slug":"zack-snyder-s-justice-league"
+		},
+		{
+			"title":"Zack and Miri Make a Porno",
+			"gatsby_image_path":"..\/..\/images\/zack-and-miri-make-a-porno.jpg",
+			"slug":"zack-and-miri-make-a-porno"
+		},
+		{
+			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
+			"gatsby_image_path":"..\/..\/images\/yu-gi-oh-the-dark-side-of-dimensions.jpg",
+			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
+		}
+	],
+	"related_by_overview":[
+		{
+			"title":"G.I. Joe: The Rise of Cobra",
+			"gatsby_image_path":"..\/..\/images\/g.i.-joe-the-rise-of-cobra.jpg",
+			"slug":"g.i.-joe-the-rise-of-cobra"
+		},
+		{
+			"title":"My Hero Academia: World Heroes' Mission",
+			"gatsby_image_path":"..\/..\/images\/my-hero-academia-world-heroes-mission.jpg",
+			"slug":"my-hero-academia-world-heroes-mission"
+		},
+		{
+			"title":"Transformers: Beginnings",
+			"gatsby_image_path":"..\/..\/images\/transformers-beginnings.jpg",
+			"slug":"transformers-beginnings"
+		},
+		{
+			"title":"The Angry Birds Movie 2",
+			"gatsby_image_path":"..\/..\/images\/the-angry-birds-movie-2.jpg",
+			"slug":"the-angry-birds-movie-2"
+		},
+		{
+			"title":"Steven Universe: The Movie",
+			"gatsby_image_path":"..\/..\/images\/steven-universe-the-movie.jpg",
+			"slug":"steven-universe-the-movie"
+		},
+		{
+			"title":"Hancock",
+			"gatsby_image_path":"..\/..\/images\/hancock.jpg",
+			"slug":"hancock"
+		},
+		{
+			"title":"Battle: Los Angeles",
+			"gatsby_image_path":"..\/..\/images\/battle-los-angeles.jpg",
+			"slug":"battle-los-angeles"
+		},
+		{
+			"title":"The Lego Movie 2: The Second Part",
+			"gatsby_image_path":"..\/..\/images\/the-lego-movie-2-the-second-part.jpg",
+			"slug":"the-lego-movie-2-the-second-part"
+		},
+		{
+			"title":"The Simpsons Movie",
+			"gatsby_image_path":"..\/..\/images\/the-simpsons-movie.jpg",
+			"slug":"the-simpsons-movie"
+		},
+		{
+			"title":"The Predator",
+			"gatsby_image_path":"..\/..\/images\/the-predator.jpg",
+			"slug":"the-predator"
+		},
+		{
+			"title":"Friday the 13th: The Final Chapter",
+			"gatsby_image_path":"..\/..\/images\/friday-the-13th-the-final-chapter.jpg",
+			"slug":"friday-the-13th-the-final-chapter"
+		},
+		{
+			"title":"Ghost Rider: Spirit of Vengeance",
+			"gatsby_image_path":"..\/..\/images\/ghost-rider-spirit-of-vengeance.jpg",
+			"slug":"ghost-rider-spirit-of-vengeance"
+		},
+		{
+			"title":"The King of Fighters",
+			"gatsby_image_path":"..\/..\/images\/the-king-of-fighters.jpg",
+			"slug":"the-king-of-fighters"
+		},
+		{
+			"title":"The Peanuts Movie",
+			"gatsby_image_path":"..\/..\/images\/the-peanuts-movie.jpg",
+			"slug":"the-peanuts-movie"
+		},
+		{
+			"title":"Now You See Me 2",
+			"gatsby_image_path":"..\/..\/images\/now-you-see-me-2.jpg",
+			"slug":"now-you-see-me-2"
+		},
+		{
+			"title":"Jeepers Creepers 3",
+			"gatsby_image_path":"..\/..\/images\/jeepers-creepers-3.jpg",
+			"slug":"jeepers-creepers-3"
+		},
+		{
+			"title":"Pixels",
+			"gatsby_image_path":"..\/..\/images\/pixels.jpg",
+			"slug":"pixels"
+		},
+		{
+			"title":"Stan Helsing",
+			"gatsby_image_path":"..\/..\/images\/stan-helsing.jpg",
+			"slug":"stan-helsing"
+		},
+		{
+			"title":"Raiders of the Lost Ark",
+			"gatsby_image_path":"..\/..\/images\/raiders-of-the-lost-ark.jpg",
+			"slug":"raiders-of-the-lost-ark"
+		},
+		{
+			"title":"Universal Soldier: Regeneration",
+			"gatsby_image_path":"..\/..\/images\/universal-soldier-regeneration.jpg",
+			"slug":"universal-soldier-regeneration"
+		}
 	]
 }

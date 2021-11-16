@@ -81,6 +81,11 @@
 			"slug":"redemption-day"
 		},
 		{
+			"title":"Prisoners",
+			"gatsby_image_path":"..\/..\/images\/prisoners.jpg",
+			"slug":"prisoners"
+		},
+		{
 			"title":"Passengers",
 			"gatsby_image_path":"..\/..\/images\/passengers.jpg",
 			"slug":"passengers"
@@ -94,6 +99,51 @@
 			"title":"Lights Out",
 			"gatsby_image_path":"..\/..\/images\/lights-out.jpg",
 			"slug":"lights-out"
+		},
+		{
+			"title":"Let's Be Cops",
+			"gatsby_image_path":"..\/..\/images\/let-s-be-cops.jpg",
+			"slug":"let-s-be-cops"
+		},
+		{
+			"title":"Happy Death Day",
+			"gatsby_image_path":"..\/..\/images\/happy-death-day.jpg",
+			"slug":"happy-death-day"
+		},
+		{
+			"title":"Grown Ups",
+			"gatsby_image_path":"..\/..\/images\/grown-ups.jpg",
+			"slug":"grown-ups"
+		},
+		{
+			"title":"Grown Ups 2",
+			"gatsby_image_path":"..\/..\/images\/grown-ups-2.jpg",
+			"slug":"grown-ups-2"
+		},
+		{
+			"title":"Green Lantern",
+			"gatsby_image_path":"..\/..\/images\/green-lantern.jpg",
+			"slug":"green-lantern"
+		},
+		{
+			"title":"Ghostbusters",
+			"gatsby_image_path":"..\/..\/images\/ghostbusters.jpg",
+			"slug":"ghostbusters"
+		},
+		{
+			"title":"Geostorm",
+			"gatsby_image_path":"..\/..\/images\/geostorm.jpg",
+			"slug":"geostorm"
+		},
+		{
+			"title":"Every Day",
+			"gatsby_image_path":"..\/..\/images\/every-day.jpg",
+			"slug":"every-day"
+		},
+		{
+			"title":"Don't Kill It",
+			"gatsby_image_path":"..\/..\/images\/don-t-kill-it.jpg",
+			"slug":"don-t-kill-it"
 		}
 	],
 	"related_most_similar":[
@@ -257,6 +307,11 @@
 			"slug":"batman-soul-of-the-dragon"
 		},
 		{
+			"title":"Kick-Ass",
+			"gatsby_image_path":"..\/..\/images\/kick-ass.jpg",
+			"slug":"kick-ass"
+		},
+		{
 			"title":"Combat Wombat",
 			"gatsby_image_path":"..\/..\/images\/combat-wombat.jpg",
 			"slug":"combat-wombat"
@@ -272,6 +327,11 @@
 			"slug":"green-lantern-emerald-knights"
 		},
 		{
+			"title":"LEGO Star Wars Terrifying Tales",
+			"gatsby_image_path":"..\/..\/images\/lego-star-wars-terrifying-tales.jpg",
+			"slug":"lego-star-wars-terrifying-tales"
+		},
+		{
 			"title":"Solo: A Star Wars Story",
 			"gatsby_image_path":"..\/..\/images\/solo-a-star-wars-story.jpg",
 			"slug":"solo-a-star-wars-story"
@@ -282,24 +342,19 @@
 			"slug":"guardians-of-the-galaxy-vol-2"
 		},
 		{
-			"title":"Descendants 3",
-			"gatsby_image_path":"..\/..\/images\/descendants-3.jpg",
-			"slug":"descendants-3"
-		},
-		{
 			"title":"Wonder Woman 1984",
 			"gatsby_image_path":"..\/..\/images\/wonder-woman-1984.jpg",
 			"slug":"wonder-woman-1984"
 		},
 		{
-			"title":"Dragon Ball Z: The Tree of Might",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-the-tree-of-might.jpg",
-			"slug":"dragon-ball-z-the-tree-of-might"
+			"title":"Suicide Squad",
+			"gatsby_image_path":"..\/..\/images\/suicide-squad.jpg",
+			"slug":"suicide-squad"
 		},
 		{
-			"title":"Interstellar",
-			"gatsby_image_path":"..\/..\/images\/interstellar.jpg",
-			"slug":"interstellar"
+			"title":"Descendants 3",
+			"gatsby_image_path":"..\/..\/images\/descendants-3.jpg",
+			"slug":"descendants-3"
 		},
 		{
 			"title":"The Dark Tower",
@@ -307,14 +362,9 @@
 			"slug":"the-dark-tower"
 		},
 		{
-			"title":"Next Avengers: Heroes of Tomorrow",
-			"gatsby_image_path":"..\/..\/images\/next-avengers-heroes-of-tomorrow.jpg",
-			"slug":"next-avengers-heroes-of-tomorrow"
-		},
-		{
-			"title":"Ghost Rider: Spirit of Vengeance",
-			"gatsby_image_path":"..\/..\/images\/ghost-rider-spirit-of-vengeance.jpg",
-			"slug":"ghost-rider-spirit-of-vengeance"
+			"title":"Interstellar",
+			"gatsby_image_path":"..\/..\/images\/interstellar.jpg",
+			"slug":"interstellar"
 		},
 		{
 			"title":"Mortal Kombat",
@@ -327,6 +377,16 @@
 			"slug":"igor"
 		},
 		{
+			"title":"Ghost Rider: Spirit of Vengeance",
+			"gatsby_image_path":"..\/..\/images\/ghost-rider-spirit-of-vengeance.jpg",
+			"slug":"ghost-rider-spirit-of-vengeance"
+		},
+		{
+			"title":"Dragon Ball Z: The Tree of Might",
+			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-the-tree-of-might.jpg",
+			"slug":"dragon-ball-z-the-tree-of-might"
+		},
+		{
 			"title":"Batman: The Long Halloween, Part Two",
 			"gatsby_image_path":"..\/..\/images\/batman-the-long-halloween-part-two.jpg",
 			"slug":"batman-the-long-halloween-part-two"
@@ -337,19 +397,9 @@
 			"slug":"rogue-one-a-star-wars-story"
 		},
 		{
-			"title":"Justice League",
-			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
-			"slug":"justice-league"
-		},
-		{
-			"title":"Resident Evil: Vendetta",
-			"gatsby_image_path":"..\/..\/images\/resident-evil-vendetta.jpg",
-			"slug":"resident-evil-vendetta"
-		},
-		{
-			"title":"Spider-Man",
-			"gatsby_image_path":"..\/..\/images\/spider-man.jpg",
-			"slug":"spider-man"
+			"title":"Percy Jackson: Sea of Monsters",
+			"gatsby_image_path":"..\/..\/images\/percy-jackson-sea-of-monsters.jpg",
+			"slug":"percy-jackson-sea-of-monsters"
 		}
 	],
 	"tmdb_id":286567,

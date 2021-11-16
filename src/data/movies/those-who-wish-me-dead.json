@@ -71,6 +71,16 @@
 			"slug":"the-wolf-of-wall-street"
 		},
 		{
+			"title":"The Tourist",
+			"gatsby_image_path":"..\/..\/images\/the-tourist.jpg",
+			"slug":"the-tourist"
+		},
+		{
+			"title":"The Many Saints of Newark",
+			"gatsby_image_path":"..\/..\/images\/the-many-saints-of-newark.jpg",
+			"slug":"the-many-saints-of-newark"
+		},
+		{
 			"title":"The Accountant",
 			"gatsby_image_path":"..\/..\/images\/the-accountant.jpg",
 			"slug":"the-accountant"
@@ -96,6 +106,11 @@
 			"slug":"sand-castle"
 		},
 		{
+			"title":"Salt",
+			"gatsby_image_path":"..\/..\/images\/salt.jpg",
+			"slug":"salt"
+		},
+		{
 			"title":"PAW Patrol: The Movie",
 			"gatsby_image_path":"..\/..\/images\/paw-patrol-the-movie.jpg",
 			"slug":"paw-patrol-the-movie"
@@ -104,6 +119,41 @@
 			"title":"Maze Runner: The Death Cure",
 			"gatsby_image_path":"..\/..\/images\/maze-runner-the-death-cure.jpg",
 			"slug":"maze-runner-the-death-cure"
+		},
+		{
+			"title":"Maleficent: Mistress of Evil",
+			"gatsby_image_path":"..\/..\/images\/maleficent-mistress-of-evil.jpg",
+			"slug":"maleficent-mistress-of-evil"
+		},
+		{
+			"title":"Maleficent",
+			"gatsby_image_path":"..\/..\/images\/maleficent.jpg",
+			"slug":"maleficent"
+		},
+		{
+			"title":"Mad Max: Fury Road",
+			"gatsby_image_path":"..\/..\/images\/mad-max-fury-road.jpg",
+			"slug":"mad-max-fury-road"
+		},
+		{
+			"title":"Kung Fu Panda",
+			"gatsby_image_path":"..\/..\/images\/kung-fu-panda.jpg",
+			"slug":"kung-fu-panda"
+		},
+		{
+			"title":"Kung Fu Panda 3",
+			"gatsby_image_path":"..\/..\/images\/kung-fu-panda-3.jpg",
+			"slug":"kung-fu-panda-3"
+		},
+		{
+			"title":"Kung Fu Panda 2",
+			"gatsby_image_path":"..\/..\/images\/kung-fu-panda-2.jpg",
+			"slug":"kung-fu-panda-2"
+		},
+		{
+			"title":"King Richard",
+			"gatsby_image_path":"..\/..\/images\/king-richard.jpg",
+			"slug":"king-richard"
 		}
 	],
 	"related_most_similar":[
@@ -292,9 +342,9 @@
 			"slug":"the-mountain-between-us"
 		},
 		{
-			"title":"Spenser Confidential",
-			"gatsby_image_path":"..\/..\/images\/spenser-confidential.jpg",
-			"slug":"spenser-confidential"
+			"title":"Knight and Day",
+			"gatsby_image_path":"..\/..\/images\/knight-and-day.jpg",
+			"slug":"knight-and-day"
 		},
 		{
 			"title":"Fear Street: 1666",
@@ -302,19 +352,19 @@
 			"slug":"fear-street-1666"
 		},
 		{
-			"title":"War of the Worlds",
-			"gatsby_image_path":"..\/..\/images\/war-of-the-worlds.jpg",
-			"slug":"war-of-the-worlds"
-		},
-		{
 			"title":"Greenland",
 			"gatsby_image_path":"..\/..\/images\/greenland.jpg",
 			"slug":"greenland"
 		},
 		{
-			"title":"Death of Me",
-			"gatsby_image_path":"..\/..\/images\/death-of-me.jpg",
-			"slug":"death-of-me"
+			"title":"Spenser Confidential",
+			"gatsby_image_path":"..\/..\/images\/spenser-confidential.jpg",
+			"slug":"spenser-confidential"
+		},
+		{
+			"title":"War of the Worlds",
+			"gatsby_image_path":"..\/..\/images\/war-of-the-worlds.jpg",
+			"slug":"war-of-the-worlds"
 		},
 		{
 			"title":"Hotel Artemis",
@@ -322,9 +372,9 @@
 			"slug":"hotel-artemis"
 		},
 		{
-			"title":"Se7en",
-			"gatsby_image_path":"..\/..\/images\/se7en.jpg",
-			"slug":"se7en"
+			"title":"Godmothered",
+			"gatsby_image_path":"..\/..\/images\/godmothered.jpg",
+			"slug":"godmothered"
 		},
 		{
 			"title":"Stray",
@@ -332,9 +382,19 @@
 			"slug":"stray"
 		},
 		{
-			"title":"Godmothered",
-			"gatsby_image_path":"..\/..\/images\/godmothered.jpg",
-			"slug":"godmothered"
+			"title":"Se7en",
+			"gatsby_image_path":"..\/..\/images\/se7en.jpg",
+			"slug":"se7en"
+		},
+		{
+			"title":"Death of Me",
+			"gatsby_image_path":"..\/..\/images\/death-of-me.jpg",
+			"slug":"death-of-me"
+		},
+		{
+			"title":"Friday the 13th Part VII: The New Blood",
+			"gatsby_image_path":"..\/..\/images\/friday-the-13th-part-vii-the-new-blood.jpg",
+			"slug":"friday-the-13th-part-vii-the-new-blood"
 		},
 		{
 			"title":"The Revenant",
@@ -342,24 +402,14 @@
 			"slug":"the-revenant"
 		},
 		{
+			"title":"What Lies Below",
+			"gatsby_image_path":"..\/..\/images\/what-lies-below.jpg",
+			"slug":"what-lies-below"
+		},
+		{
 			"title":"Viking Blood",
 			"gatsby_image_path":"..\/..\/images\/viking-blood.jpg",
 			"slug":"viking-blood"
-		},
-		{
-			"title":"Outside the Wire",
-			"gatsby_image_path":"..\/..\/images\/outside-the-wire.jpg",
-			"slug":"outside-the-wire"
-		},
-		{
-			"title":"Believe Me: The Abduction of Lisa McVey",
-			"gatsby_image_path":"..\/..\/images\/believe-me-the-abduction-of-lisa-mcvey.jpg",
-			"slug":"believe-me-the-abduction-of-lisa-mcvey"
-		},
-		{
-			"title":"Pacific Rim",
-			"gatsby_image_path":"..\/..\/images\/pacific-rim.jpg",
-			"slug":"pacific-rim"
 		}
 	],
 	"tmdb_id":578701,

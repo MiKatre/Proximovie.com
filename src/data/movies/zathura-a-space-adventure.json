@@ -66,6 +66,11 @@
 			"slug":"underwater"
 		},
 		{
+			"title":"Twilight",
+			"gatsby_image_path":"..\/..\/images\/twilight.jpg",
+			"slug":"twilight"
+		},
+		{
 			"title":"Top Gun",
 			"gatsby_image_path":"..\/..\/images\/top-gun.jpg",
 			"slug":"top-gun"
@@ -104,6 +109,51 @@
 			"title":"The Hunger Games: Mockingjay - Part 2",
 			"gatsby_image_path":"..\/..\/images\/the-hunger-games-mockingjay-part-2.jpg",
 			"slug":"the-hunger-games-mockingjay-part-2"
+		},
+		{
+			"title":"The Hunger Games: Mockingjay - Part 1",
+			"gatsby_image_path":"..\/..\/images\/the-hunger-games-mockingjay-part-1.jpg",
+			"slug":"the-hunger-games-mockingjay-part-1"
+		},
+		{
+			"title":"The Hunger Games",
+			"gatsby_image_path":"..\/..\/images\/the-hunger-games.jpg",
+			"slug":"the-hunger-games"
+		},
+		{
+			"title":"The Hunger Games: Catching Fire",
+			"gatsby_image_path":"..\/..\/images\/the-hunger-games-catching-fire.jpg",
+			"slug":"the-hunger-games-catching-fire"
+		},
+		{
+			"title":"The Fox and the Hound 2",
+			"gatsby_image_path":"..\/..\/images\/the-fox-and-the-hound-2.jpg",
+			"slug":"the-fox-and-the-hound-2"
+		},
+		{
+			"title":"Star Wars: Episode III - Revenge of the Sith",
+			"gatsby_image_path":"..\/..\/images\/star-wars-episode-iii-revenge-of-the-sith.jpg",
+			"slug":"star-wars-episode-iii-revenge-of-the-sith"
+		},
+		{
+			"title":"Spencer",
+			"gatsby_image_path":"..\/..\/images\/spencer.jpg",
+			"slug":"spencer"
+		},
+		{
+			"title":"Snow White and the Huntsman",
+			"gatsby_image_path":"..\/..\/images\/snow-white-and-the-huntsman.jpg",
+			"slug":"snow-white-and-the-huntsman"
+		},
+		{
+			"title":"Red Dawn",
+			"gatsby_image_path":"..\/..\/images\/red-dawn.jpg",
+			"slug":"red-dawn"
+		},
+		{
+			"title":"Personal Shopper",
+			"gatsby_image_path":"..\/..\/images\/personal-shopper.jpg",
+			"slug":"personal-shopper"
 		}
 	],
 	"related_most_similar":[
@@ -267,9 +317,19 @@
 			"slug":"slender-man"
 		},
 		{
+			"title":"Super 8",
+			"gatsby_image_path":"..\/..\/images\/super-8.jpg",
+			"slug":"super-8"
+		},
+		{
 			"title":"Cloudy with a Chance of Meatballs 2",
 			"gatsby_image_path":"..\/..\/images\/cloudy-with-a-chance-of-meatballs-2.jpg",
 			"slug":"cloudy-with-a-chance-of-meatballs-2"
+		},
+		{
+			"title":"AVP: Alien vs. Predator",
+			"gatsby_image_path":"..\/..\/images\/avp-alien-vs.-predator.jpg",
+			"slug":"avp-alien-vs.-predator"
 		},
 		{
 			"title":"Rise of the Mummy",
@@ -287,9 +347,24 @@
 			"slug":"the-abyss"
 		},
 		{
+			"title":"Son of the Mask",
+			"gatsby_image_path":"..\/..\/images\/son-of-the-mask.jpg",
+			"slug":"son-of-the-mask"
+		},
+		{
+			"title":"Project Almanac",
+			"gatsby_image_path":"..\/..\/images\/project-almanac.jpg",
+			"slug":"project-almanac"
+		},
+		{
 			"title":"Child's Play 2",
 			"gatsby_image_path":"..\/..\/images\/child-s-play-2.jpg",
 			"slug":"child-s-play-2"
+		},
+		{
+			"title":"The Green Inferno",
+			"gatsby_image_path":"..\/..\/images\/the-green-inferno.jpg",
+			"slug":"the-green-inferno"
 		},
 		{
 			"title":"Don't Breathe 2",
@@ -297,9 +372,9 @@
 			"slug":"don-t-breathe-2"
 		},
 		{
-			"title":"Love and Monsters",
-			"gatsby_image_path":"..\/..\/images\/love-and-monsters.jpg",
-			"slug":"love-and-monsters"
+			"title":"Assassin 33 A.D.",
+			"gatsby_image_path":"..\/..\/images\/assassin-33-a.d..jpg",
+			"slug":"assassin-33-a.d."
 		},
 		{
 			"title":"Meet the Robinsons",
@@ -307,9 +382,14 @@
 			"slug":"meet-the-robinsons"
 		},
 		{
-			"title":"Assassin 33 A.D.",
-			"gatsby_image_path":"..\/..\/images\/assassin-33-a.d..jpg",
-			"slug":"assassin-33-a.d."
+			"title":"Love and Monsters",
+			"gatsby_image_path":"..\/..\/images\/love-and-monsters.jpg",
+			"slug":"love-and-monsters"
+		},
+		{
+			"title":"Harry Potter and the Goblet of Fire",
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
+			"slug":"harry-potter-and-the-goblet-of-fire"
 		},
 		{
 			"title":"Tremors: A Cold Day in Hell",
@@ -322,44 +402,14 @@
 			"slug":"the-human-centipede-first-sequence"
 		},
 		{
-			"title":"Harry Potter and the Goblet of Fire",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
-			"slug":"harry-potter-and-the-goblet-of-fire"
+			"title":"Finch",
+			"gatsby_image_path":"..\/..\/images\/finch.jpg",
+			"slug":"finch"
 		},
 		{
 			"title":"Barbie and the Magic of Pegasus 3-D",
 			"gatsby_image_path":"..\/..\/images\/barbie-and-the-magic-of-pegasus-3-d.jpg",
 			"slug":"barbie-and-the-magic-of-pegasus-3-d"
-		},
-		{
-			"title":"9",
-			"gatsby_image_path":"..\/..\/images\/9.jpg",
-			"slug":"9"
-		},
-		{
-			"title":"Madagascar: Escape 2 Africa",
-			"gatsby_image_path":"..\/..\/images\/madagascar-escape-2-africa.jpg",
-			"slug":"madagascar-escape-2-africa"
-		},
-		{
-			"title":"Shutter Island",
-			"gatsby_image_path":"..\/..\/images\/shutter-island.jpg",
-			"slug":"shutter-island"
-		},
-		{
-			"title":"Peter Pan",
-			"gatsby_image_path":"..\/..\/images\/peter-pan.jpg",
-			"slug":"peter-pan"
-		},
-		{
-			"title":"The Thing",
-			"gatsby_image_path":"..\/..\/images\/the-thing.jpg",
-			"slug":"the-thing"
-		},
-		{
-			"title":"Dumbo",
-			"gatsby_image_path":"..\/..\/images\/dumbo.jpg",
-			"slug":"dumbo"
 		}
 	],
 	"tmdb_id":6795,

@@ -60,6 +60,11 @@
 			"slug":"the-revenant"
 		},
 		{
+			"title":"The Many Saints of Newark",
+			"gatsby_image_path":"..\/..\/images\/the-many-saints-of-newark.jpg",
+			"slug":"the-many-saints-of-newark"
+		},
+		{
 			"title":"The Man with the Iron Heart",
 			"gatsby_image_path":"..\/..\/images\/the-man-with-the-iron-heart.jpg",
 			"slug":"the-man-with-the-iron-heart"
@@ -98,6 +103,51 @@
 			"title":"Rust Creek",
 			"gatsby_image_path":"..\/..\/images\/rust-creek.jpg",
 			"slug":"rust-creek"
+		},
+		{
+			"title":"Point Blank",
+			"gatsby_image_path":"..\/..\/images\/point-blank.jpg",
+			"slug":"point-blank"
+		},
+		{
+			"title":"Pain & Gain",
+			"gatsby_image_path":"..\/..\/images\/pain-gain.jpg",
+			"slug":"pain-gain"
+		},
+		{
+			"title":"Onward",
+			"gatsby_image_path":"..\/..\/images\/onward.jpg",
+			"slug":"onward"
+		},
+		{
+			"title":"Midsommar",
+			"gatsby_image_path":"..\/..\/images\/midsommar.jpg",
+			"slug":"midsommar"
+		},
+		{
+			"title":"Kin",
+			"gatsby_image_path":"..\/..\/images\/kin.jpg",
+			"slug":"kin"
+		},
+		{
+			"title":"Introducing Chucky: The Making of Child's Play",
+			"gatsby_image_path":"..\/..\/images\/introducing-chucky-the-making-of-child-s-play.jpg",
+			"slug":"introducing-chucky-the-making-of-child-s-play"
+		},
+		{
+			"title":"Ice Age: A Mammoth Christmas",
+			"gatsby_image_path":"..\/..\/images\/ice-age-a-mammoth-christmas.jpg",
+			"slug":"ice-age-a-mammoth-christmas"
+		},
+		{
+			"title":"Dora and the Lost City of Gold",
+			"gatsby_image_path":"..\/..\/images\/dora-and-the-lost-city-of-gold.jpg",
+			"slug":"dora-and-the-lost-city-of-gold"
+		},
+		{
+			"title":"Chaos Walking",
+			"gatsby_image_path":"..\/..\/images\/chaos-walking.jpg",
+			"slug":"chaos-walking"
 		}
 	],
 	"related_most_similar":[
@@ -266,14 +316,19 @@
 			"slug":"a-star-is-born"
 		},
 		{
+			"title":"Bloodthirsty",
+			"gatsby_image_path":"..\/..\/images\/bloodthirsty.jpg",
+			"slug":"bloodthirsty"
+		},
+		{
 			"title":"Big Time Adolescence",
 			"gatsby_image_path":"..\/..\/images\/big-time-adolescence.jpg",
 			"slug":"big-time-adolescence"
 		},
 		{
-			"title":"Even in Dreams",
-			"gatsby_image_path":"..\/..\/images\/even-in-dreams.jpg",
-			"slug":"even-in-dreams"
+			"title":"The Perfect Wedding",
+			"gatsby_image_path":"..\/..\/images\/the-perfect-wedding.jpg",
+			"slug":"the-perfect-wedding"
 		},
 		{
 			"title":"Crawl",
@@ -281,14 +336,19 @@
 			"slug":"crawl"
 		},
 		{
+			"title":"Even in Dreams",
+			"gatsby_image_path":"..\/..\/images\/even-in-dreams.jpg",
+			"slug":"even-in-dreams"
+		},
+		{
 			"title":"The Devil's Advocate",
 			"gatsby_image_path":"..\/..\/images\/the-devil-s-advocate.jpg",
 			"slug":"the-devil-s-advocate"
 		},
 		{
-			"title":"Love & Other Drugs",
-			"gatsby_image_path":"..\/..\/images\/love-other-drugs.jpg",
-			"slug":"love-other-drugs"
+			"title":"My Best Friend's Girl",
+			"gatsby_image_path":"..\/..\/images\/my-best-friend-s-girl.jpg",
+			"slug":"my-best-friend-s-girl"
 		},
 		{
 			"title":"The Upside",
@@ -301,9 +361,9 @@
 			"slug":"a-clockwork-orange"
 		},
 		{
-			"title":"Goosebumps",
-			"gatsby_image_path":"..\/..\/images\/goosebumps.jpg",
-			"slug":"goosebumps"
+			"title":"Love & Other Drugs",
+			"gatsby_image_path":"..\/..\/images\/love-other-drugs.jpg",
+			"slug":"love-other-drugs"
 		},
 		{
 			"title":"Get the Grift",
@@ -311,39 +371,9 @@
 			"slug":"get-the-grift"
 		},
 		{
-			"title":"Sugar Daddy",
-			"gatsby_image_path":"..\/..\/images\/sugar-daddy.jpg",
-			"slug":"sugar-daddy"
-		},
-		{
-			"title":"The Empty Man",
-			"gatsby_image_path":"..\/..\/images\/the-empty-man.jpg",
-			"slug":"the-empty-man"
-		},
-		{
-			"title":"Supernova",
-			"gatsby_image_path":"..\/..\/images\/supernova.jpg",
-			"slug":"supernova"
-		},
-		{
-			"title":"Dirty Grandpa",
-			"gatsby_image_path":"..\/..\/images\/dirty-grandpa.jpg",
-			"slug":"dirty-grandpa"
-		},
-		{
-			"title":"Line of Duty",
-			"gatsby_image_path":"..\/..\/images\/line-of-duty.jpg",
-			"slug":"line-of-duty"
-		},
-		{
-			"title":"Love and Monsters",
-			"gatsby_image_path":"..\/..\/images\/love-and-monsters.jpg",
-			"slug":"love-and-monsters"
-		},
-		{
-			"title":"That's My Boy",
-			"gatsby_image_path":"..\/..\/images\/that-s-my-boy.jpg",
-			"slug":"that-s-my-boy"
+			"title":"Goosebumps",
+			"gatsby_image_path":"..\/..\/images\/goosebumps.jpg",
+			"slug":"goosebumps"
 		},
 		{
 			"title":"The Babysitter: Killer Queen",
@@ -351,9 +381,29 @@
 			"slug":"the-babysitter-killer-queen"
 		},
 		{
-			"title":"American Pie 2",
-			"gatsby_image_path":"..\/..\/images\/american-pie-2.jpg",
-			"slug":"american-pie-2"
+			"title":"Dirty Grandpa",
+			"gatsby_image_path":"..\/..\/images\/dirty-grandpa.jpg",
+			"slug":"dirty-grandpa"
+		},
+		{
+			"title":"Supernova",
+			"gatsby_image_path":"..\/..\/images\/supernova.jpg",
+			"slug":"supernova"
+		},
+		{
+			"title":"The Empty Man",
+			"gatsby_image_path":"..\/..\/images\/the-empty-man.jpg",
+			"slug":"the-empty-man"
+		},
+		{
+			"title":"No Good Deed",
+			"gatsby_image_path":"..\/..\/images\/no-good-deed.jpg",
+			"slug":"no-good-deed"
+		},
+		{
+			"title":"Sugar Daddy",
+			"gatsby_image_path":"..\/..\/images\/sugar-daddy.jpg",
+			"slug":"sugar-daddy"
 		}
 	],
 	"tmdb_id":544401,

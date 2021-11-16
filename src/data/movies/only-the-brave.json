@@ -87,6 +87,11 @@
 			"slug":"tron-legacy"
 		},
 		{
+			"title":"The Lone Ranger",
+			"gatsby_image_path":"..\/..\/images\/the-lone-ranger.jpg",
+			"slug":"the-lone-ranger"
+		},
+		{
 			"title":"The Kitchen",
 			"gatsby_image_path":"..\/..\/images\/the-kitchen.jpg",
 			"slug":"the-kitchen"
@@ -100,6 +105,51 @@
 			"title":"The Goonies",
 			"gatsby_image_path":"..\/..\/images\/the-goonies.jpg",
 			"slug":"the-goonies"
+		},
+		{
+			"title":"The Empty Man",
+			"gatsby_image_path":"..\/..\/images\/the-empty-man.jpg",
+			"slug":"the-empty-man"
+		},
+		{
+			"title":"Spectral",
+			"gatsby_image_path":"..\/..\/images\/spectral.jpg",
+			"slug":"spectral"
+		},
+		{
+			"title":"Sin City: A Dame to Kill For",
+			"gatsby_image_path":"..\/..\/images\/sin-city-a-dame-to-kill-for.jpg",
+			"slug":"sin-city-a-dame-to-kill-for"
+		},
+		{
+			"title":"Sicario",
+			"gatsby_image_path":"..\/..\/images\/sicario.jpg",
+			"slug":"sicario"
+		},
+		{
+			"title":"Sicario: Day of the Soldado",
+			"gatsby_image_path":"..\/..\/images\/sicario-day-of-the-soldado.jpg",
+			"slug":"sicario-day-of-the-soldado"
+		},
+		{
+			"title":"Seventh Son",
+			"gatsby_image_path":"..\/..\/images\/seventh-son.jpg",
+			"slug":"seventh-son"
+		},
+		{
+			"title":"R.I.P.D.",
+			"gatsby_image_path":"..\/..\/images\/r.i.p.d..jpg",
+			"slug":"r.i.p.d."
+		},
+		{
+			"title":"Ready or Not",
+			"gatsby_image_path":"..\/..\/images\/ready-or-not.jpg",
+			"slug":"ready-or-not"
+		},
+		{
+			"title":"Project X",
+			"gatsby_image_path":"..\/..\/images\/project-x.jpg",
+			"slug":"project-x"
 		}
 	],
 	"related_most_similar":[
@@ -263,14 +313,19 @@
 			"slug":"the-great-wall"
 		},
 		{
-			"title":"Bring Your Own Brigade",
-			"gatsby_image_path":"..\/..\/images\/bring-your-own-brigade.jpg",
-			"slug":"bring-your-own-brigade"
-		},
-		{
 			"title":"Togo",
 			"gatsby_image_path":"..\/..\/images\/togo.jpg",
 			"slug":"togo"
+		},
+		{
+			"title":"Tracers",
+			"gatsby_image_path":"..\/..\/images\/tracers.jpg",
+			"slug":"tracers"
+		},
+		{
+			"title":"Bring Your Own Brigade",
+			"gatsby_image_path":"..\/..\/images\/bring-your-own-brigade.jpg",
+			"slug":"bring-your-own-brigade"
 		},
 		{
 			"title":"Stuntman",
@@ -278,9 +333,9 @@
 			"slug":"stuntman"
 		},
 		{
-			"title":"The Wolf of Snow Hollow",
-			"gatsby_image_path":"..\/..\/images\/the-wolf-of-snow-hollow.jpg",
-			"slug":"the-wolf-of-snow-hollow"
+			"title":"Skyscraper",
+			"gatsby_image_path":"..\/..\/images\/skyscraper.jpg",
+			"slug":"skyscraper"
 		},
 		{
 			"title":"Eminence Hill",
@@ -288,9 +343,9 @@
 			"slug":"eminence-hill"
 		},
 		{
-			"title":"Skyscraper",
-			"gatsby_image_path":"..\/..\/images\/skyscraper.jpg",
-			"slug":"skyscraper"
+			"title":"The Wolf of Snow Hollow",
+			"gatsby_image_path":"..\/..\/images\/the-wolf-of-snow-hollow.jpg",
+			"slug":"the-wolf-of-snow-hollow"
 		},
 		{
 			"title":"Hustlers",
@@ -298,9 +353,19 @@
 			"slug":"hustlers"
 		},
 		{
+			"title":"Ava",
+			"gatsby_image_path":"..\/..\/images\/ava.jpg",
+			"slug":"ava"
+		},
+		{
 			"title":"American Renegades",
 			"gatsby_image_path":"..\/..\/images\/american-renegades.jpg",
 			"slug":"american-renegades"
+		},
+		{
+			"title":"Prey",
+			"gatsby_image_path":"..\/..\/images\/prey.jpg",
+			"slug":"prey"
 		},
 		{
 			"title":"Wrong Turn 2: Dead End",
@@ -308,14 +373,9 @@
 			"slug":"wrong-turn-2-dead-end"
 		},
 		{
-			"title":"Brian Banks",
-			"gatsby_image_path":"..\/..\/images\/brian-banks.jpg",
-			"slug":"brian-banks"
-		},
-		{
-			"title":"Revenger",
-			"gatsby_image_path":"..\/..\/images\/revenger.jpg",
-			"slug":"revenger"
+			"title":"Kingsman: The Secret Service",
+			"gatsby_image_path":"..\/..\/images\/kingsman-the-secret-service.jpg",
+			"slug":"kingsman-the-secret-service"
 		},
 		{
 			"title":"Finding Grace",
@@ -323,14 +383,19 @@
 			"slug":"finding-grace"
 		},
 		{
+			"title":"Brian Banks",
+			"gatsby_image_path":"..\/..\/images\/brian-banks.jpg",
+			"slug":"brian-banks"
+		},
+		{
 			"title":"Predator 2",
 			"gatsby_image_path":"..\/..\/images\/predator-2.jpg",
 			"slug":"predator-2"
 		},
 		{
-			"title":"Kingsman: The Secret Service",
-			"gatsby_image_path":"..\/..\/images\/kingsman-the-secret-service.jpg",
-			"slug":"kingsman-the-secret-service"
+			"title":"Revenger",
+			"gatsby_image_path":"..\/..\/images\/revenger.jpg",
+			"slug":"revenger"
 		},
 		{
 			"title":"211",
@@ -338,24 +403,9 @@
 			"slug":"211"
 		},
 		{
-			"title":"The 8th Night",
-			"gatsby_image_path":"..\/..\/images\/the-8th-night.jpg",
-			"slug":"the-8th-night"
-		},
-		{
-			"title":"The Wolf of Wall Street",
-			"gatsby_image_path":"..\/..\/images\/the-wolf-of-wall-street.jpg",
-			"slug":"the-wolf-of-wall-street"
-		},
-		{
-			"title":"Wrath of the Titans",
-			"gatsby_image_path":"..\/..\/images\/wrath-of-the-titans.jpg",
-			"slug":"wrath-of-the-titans"
-		},
-		{
-			"title":"Hidden Figures",
-			"gatsby_image_path":"..\/..\/images\/hidden-figures.jpg",
-			"slug":"hidden-figures"
+			"title":"America: The Motion Picture",
+			"gatsby_image_path":"..\/..\/images\/america-the-motion-picture.jpg",
+			"slug":"america-the-motion-picture"
 		}
 	],
 	"tmdb_id":395991,

@@ -55,6 +55,11 @@
 			"slug":"x-men-apocalypse"
 		},
 		{
+			"title":"Total Recall",
+			"gatsby_image_path":"..\/..\/images\/total-recall.jpg",
+			"slug":"total-recall"
+		},
+		{
 			"title":"The King",
 			"gatsby_image_path":"..\/..\/images\/the-king.jpg",
 			"slug":"the-king"
@@ -98,6 +103,51 @@
 			"title":"Epic",
 			"gatsby_image_path":"..\/..\/images\/epic.jpg",
 			"slug":"epic"
+		},
+		{
+			"title":"Dunkirk",
+			"gatsby_image_path":"..\/..\/images\/dunkirk.jpg",
+			"slug":"dunkirk"
+		},
+		{
+			"title":"Dark Phoenix",
+			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
+			"slug":"dark-phoenix"
+		},
+		{
+			"title":"Crisis",
+			"gatsby_image_path":"..\/..\/images\/crisis.jpg",
+			"slug":"crisis"
+		},
+		{
+			"title":"Ava",
+			"gatsby_image_path":"..\/..\/images\/ava.jpg",
+			"slug":"ava"
+		},
+		{
+			"title":"Artemis Fowl",
+			"gatsby_image_path":"..\/..\/images\/artemis-fowl.jpg",
+			"slug":"artemis-fowl"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
+			"title":"Zombieland: Double Tap",
+			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
+			"slug":"zombieland-double-tap"
 		}
 	],
 	"related_most_similar":[
@@ -271,6 +321,11 @@
 			"slug":"valerian-and-the-city-of-a-thousand-planets"
 		},
 		{
+			"title":"Age of Tomorrow",
+			"gatsby_image_path":"..\/..\/images\/age-of-tomorrow.jpg",
+			"slug":"age-of-tomorrow"
+		},
+		{
 			"title":"The Tomorrow War",
 			"gatsby_image_path":"..\/..\/images\/the-tomorrow-war.jpg",
 			"slug":"the-tomorrow-war"
@@ -286,14 +341,14 @@
 			"slug":"war-for-the-planet-of-the-apes"
 		},
 		{
-			"title":"Ghost in the Shell",
-			"gatsby_image_path":"..\/..\/images\/ghost-in-the-shell.jpg",
-			"slug":"ghost-in-the-shell"
+			"title":"After Earth",
+			"gatsby_image_path":"..\/..\/images\/after-earth.jpg",
+			"slug":"after-earth"
 		},
 		{
-			"title":"Geostorm",
-			"gatsby_image_path":"..\/..\/images\/geostorm.jpg",
-			"slug":"geostorm"
+			"title":"Elysium",
+			"gatsby_image_path":"..\/..\/images\/elysium.jpg",
+			"slug":"elysium"
 		},
 		{
 			"title":"Awake",
@@ -306,6 +361,16 @@
 			"slug":"star-trek-into-darkness"
 		},
 		{
+			"title":"Cosmic Sin",
+			"gatsby_image_path":"..\/..\/images\/cosmic-sin.jpg",
+			"slug":"cosmic-sin"
+		},
+		{
+			"title":"Geostorm",
+			"gatsby_image_path":"..\/..\/images\/geostorm.jpg",
+			"slug":"geostorm"
+		},
+		{
 			"title":"Saga of Tanya the Evil: The Movie",
 			"gatsby_image_path":"..\/..\/images\/saga-of-tanya-the-evil-the-movie.jpg",
 			"slug":"saga-of-tanya-the-evil-the-movie"
@@ -316,19 +381,9 @@
 			"slug":"battleship"
 		},
 		{
-			"title":"World War Z",
-			"gatsby_image_path":"..\/..\/images\/world-war-z.jpg",
-			"slug":"world-war-z"
-		},
-		{
-			"title":"Mission: Impossible - Fallout",
-			"gatsby_image_path":"..\/..\/images\/mission-impossible-fallout.jpg",
-			"slug":"mission-impossible-fallout"
-		},
-		{
-			"title":"Rampage",
-			"gatsby_image_path":"..\/..\/images\/rampage.jpg",
-			"slug":"rampage"
+			"title":"Skyline",
+			"gatsby_image_path":"..\/..\/images\/skyline.jpg",
+			"slug":"skyline"
 		},
 		{
 			"title":"The Purge: Anarchy",
@@ -336,24 +391,19 @@
 			"slug":"the-purge-anarchy"
 		},
 		{
+			"title":"World War Z",
+			"gatsby_image_path":"..\/..\/images\/world-war-z.jpg",
+			"slug":"world-war-z"
+		},
+		{
 			"title":"District 9",
 			"gatsby_image_path":"..\/..\/images\/district-9.jpg",
 			"slug":"district-9"
 		},
 		{
-			"title":"No Game No Life: Zero",
-			"gatsby_image_path":"..\/..\/images\/no-game-no-life-zero.jpg",
-			"slug":"no-game-no-life-zero"
-		},
-		{
-			"title":"Passengers",
-			"gatsby_image_path":"..\/..\/images\/passengers.jpg",
-			"slug":"passengers"
-		},
-		{
-			"title":"The Martian",
-			"gatsby_image_path":"..\/..\/images\/the-martian.jpg",
-			"slug":"the-martian"
+			"title":"Mission: Impossible - Fallout",
+			"gatsby_image_path":"..\/..\/images\/mission-impossible-fallout.jpg",
+			"slug":"mission-impossible-fallout"
 		}
 	],
 	"tmdb_id":597890,

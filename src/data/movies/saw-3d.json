@@ -57,6 +57,11 @@
 			"slug":"saw-v"
 		},
 		{
+			"title":"Saw VI",
+			"gatsby_image_path":"..\/..\/images\/saw-vi.jpg",
+			"slug":"saw-vi"
+		},
+		{
 			"title":"Saw IV",
 			"gatsby_image_path":"..\/..\/images\/saw-iv.jpg",
 			"slug":"saw-iv"
@@ -97,9 +102,54 @@
 			"slug":"quest-for-camelot"
 		},
 		{
+			"title":"Phantom",
+			"gatsby_image_path":"..\/..\/images\/phantom.jpg",
+			"slug":"phantom"
+		},
+		{
+			"title":"No Strings Attached",
+			"gatsby_image_path":"..\/..\/images\/no-strings-attached.jpg",
+			"slug":"no-strings-attached"
+		},
+		{
 			"title":"Justice League: The Flashpoint Paradox",
 			"gatsby_image_path":"..\/..\/images\/justice-league-the-flashpoint-paradox.jpg",
 			"slug":"justice-league-the-flashpoint-paradox"
+		},
+		{
+			"title":"Jigsaw",
+			"gatsby_image_path":"..\/..\/images\/jigsaw.jpg",
+			"slug":"jigsaw"
+		},
+		{
+			"title":"Final Destination",
+			"gatsby_image_path":"..\/..\/images\/final-destination.jpg",
+			"slug":"final-destination"
+		},
+		{
+			"title":"Final Destination 3",
+			"gatsby_image_path":"..\/..\/images\/final-destination-3.jpg",
+			"slug":"final-destination-3"
+		},
+		{
+			"title":"Ella Enchanted",
+			"gatsby_image_path":"..\/..\/images\/ella-enchanted.jpg",
+			"slug":"ella-enchanted"
+		},
+		{
+			"title":"Cosmic Sin",
+			"gatsby_image_path":"..\/..\/images\/cosmic-sin.jpg",
+			"slug":"cosmic-sin"
+		},
+		{
+			"title":"Bram Stoker's Dracula",
+			"gatsby_image_path":"..\/..\/images\/bram-stoker-s-dracula.jpg",
+			"slug":"bram-stoker-s-dracula"
+		},
+		{
+			"title":"Best Sellers",
+			"gatsby_image_path":"..\/..\/images\/best-sellers.jpg",
+			"slug":"best-sellers"
 		}
 	],
 	"related_most_similar":[
@@ -278,19 +328,9 @@
 			"slug":"the-shawshank-redemption"
 		},
 		{
-			"title":"Captive State",
-			"gatsby_image_path":"..\/..\/images\/captive-state.jpg",
-			"slug":"captive-state"
-		},
-		{
-			"title":"The Nun",
-			"gatsby_image_path":"..\/..\/images\/the-nun.jpg",
-			"slug":"the-nun"
-		},
-		{
-			"title":"The Hills Have Eyes",
-			"gatsby_image_path":"..\/..\/images\/the-hills-have-eyes.jpg",
-			"slug":"the-hills-have-eyes"
+			"title":"Candyman",
+			"gatsby_image_path":"..\/..\/images\/candyman.jpg",
+			"slug":"candyman"
 		},
 		{
 			"title":"Bad Boys for Life",
@@ -298,14 +338,34 @@
 			"slug":"bad-boys-for-life"
 		},
 		{
+			"title":"Captive State",
+			"gatsby_image_path":"..\/..\/images\/captive-state.jpg",
+			"slug":"captive-state"
+		},
+		{
+			"title":"The Mummy",
+			"gatsby_image_path":"..\/..\/images\/the-mummy.jpg",
+			"slug":"the-mummy"
+		},
+		{
+			"title":"The Hills Have Eyes",
+			"gatsby_image_path":"..\/..\/images\/the-hills-have-eyes.jpg",
+			"slug":"the-hills-have-eyes"
+		},
+		{
+			"title":"The Nun",
+			"gatsby_image_path":"..\/..\/images\/the-nun.jpg",
+			"slug":"the-nun"
+		},
+		{
+			"title":"Hancock",
+			"gatsby_image_path":"..\/..\/images\/hancock.jpg",
+			"slug":"hancock"
+		},
+		{
 			"title":"Bordello of Blood",
 			"gatsby_image_path":"..\/..\/images\/bordello-of-blood.jpg",
 			"slug":"bordello-of-blood"
-		},
-		{
-			"title":"Donnie Darko",
-			"gatsby_image_path":"..\/..\/images\/donnie-darko.jpg",
-			"slug":"donnie-darko"
 		},
 		{
 			"title":"Ghostbusters: Afterlife",
@@ -313,14 +373,9 @@
 			"slug":"ghostbusters-afterlife"
 		},
 		{
-			"title":"First Blood",
-			"gatsby_image_path":"..\/..\/images\/first-blood.jpg",
-			"slug":"first-blood"
-		},
-		{
-			"title":"Hollow Point",
-			"gatsby_image_path":"..\/..\/images\/hollow-point.jpg",
-			"slug":"hollow-point"
+			"title":"Battle: Los Angeles",
+			"gatsby_image_path":"..\/..\/images\/battle-los-angeles.jpg",
+			"slug":"battle-los-angeles"
 		},
 		{
 			"title":"The Godfather",
@@ -328,9 +383,19 @@
 			"slug":"the-godfather"
 		},
 		{
-			"title":"Knives Out",
-			"gatsby_image_path":"..\/..\/images\/knives-out.jpg",
-			"slug":"knives-out"
+			"title":"The King of Fighters",
+			"gatsby_image_path":"..\/..\/images\/the-king-of-fighters.jpg",
+			"slug":"the-king-of-fighters"
+		},
+		{
+			"title":"Hollow Point",
+			"gatsby_image_path":"..\/..\/images\/hollow-point.jpg",
+			"slug":"hollow-point"
+		},
+		{
+			"title":"First Blood",
+			"gatsby_image_path":"..\/..\/images\/first-blood.jpg",
+			"slug":"first-blood"
 		},
 		{
 			"title":"Jaws",
@@ -338,24 +403,9 @@
 			"slug":"jaws"
 		},
 		{
-			"title":"Undisputed III: Redemption",
-			"gatsby_image_path":"..\/..\/images\/undisputed-iii-redemption.jpg",
-			"slug":"undisputed-iii-redemption"
-		},
-		{
-			"title":"Tomb Invader",
-			"gatsby_image_path":"..\/..\/images\/tomb-invader.jpg",
-			"slug":"tomb-invader"
-		},
-		{
-			"title":"Reaptown",
-			"gatsby_image_path":"..\/..\/images\/reaptown.jpg",
-			"slug":"reaptown"
-		},
-		{
-			"title":"Raiders of the Lost Ark",
-			"gatsby_image_path":"..\/..\/images\/raiders-of-the-lost-ark.jpg",
-			"slug":"raiders-of-the-lost-ark"
+			"title":"Donnie Darko",
+			"gatsby_image_path":"..\/..\/images\/donnie-darko.jpg",
+			"slug":"donnie-darko"
 		}
 	],
 	"tmdb_id":41439,

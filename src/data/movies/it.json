@@ -58,9 +58,19 @@
 			"slug":"it-chapter-two"
 		},
 		{
+			"title":"The Addams Family",
+			"gatsby_image_path":"..\/..\/images\/the-addams-family.jpg",
+			"slug":"the-addams-family"
+		},
+		{
 			"title":"Shazam!",
 			"gatsby_image_path":"..\/..\/images\/shazam.jpg",
 			"slug":"shazam"
+		},
+		{
+			"title":"Ron's Gone Wrong",
+			"gatsby_image_path":"..\/..\/images\/ron-s-gone-wrong.jpg",
+			"slug":"ron-s-gone-wrong"
 		},
 		{
 			"title":"Naked Singularity",
@@ -98,9 +108,49 @@
 			"slug":"danger-close-the-battle-of-long-tan"
 		},
 		{
+			"title":"Ciao Alberto",
+			"gatsby_image_path":"..\/..\/images\/ciao-alberto.jpg",
+			"slug":"ciao-alberto"
+		},
+		{
 			"title":"Zootopia",
 			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
 			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
+			"title":"Zombieland: Double Tap",
+			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
+			"slug":"zombieland-double-tap"
+		},
+		{
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
+		},
+		{
+			"title":"Zack Snyder's Justice League",
+			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
+			"slug":"zack-snyder-s-justice-league"
+		},
+		{
+			"title":"Zack and Miri Make a Porno",
+			"gatsby_image_path":"..\/..\/images\/zack-and-miri-make-a-porno.jpg",
+			"slug":"zack-and-miri-make-a-porno"
+		},
+		{
+			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
+			"gatsby_image_path":"..\/..\/images\/yu-gi-oh-the-dark-side-of-dimensions.jpg",
+			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		}
 	],
 	"related_most_similar":[
@@ -269,14 +319,14 @@
 			"slug":"heks"
 		},
 		{
-			"title":"A Babysitter's Guide to Monster Hunting",
-			"gatsby_image_path":"..\/..\/images\/a-babysitter-s-guide-to-monster-hunting.jpg",
-			"slug":"a-babysitter-s-guide-to-monster-hunting"
-		},
-		{
 			"title":"The Conjuring",
 			"gatsby_image_path":"..\/..\/images\/the-conjuring.jpg",
 			"slug":"the-conjuring"
+		},
+		{
+			"title":"A Babysitter's Guide to Monster Hunting",
+			"gatsby_image_path":"..\/..\/images\/a-babysitter-s-guide-to-monster-hunting.jpg",
+			"slug":"a-babysitter-s-guide-to-monster-hunting"
 		},
 		{
 			"title":"Epic",
@@ -289,19 +339,14 @@
 			"slug":"descendants"
 		},
 		{
+			"title":"Nightbooks",
+			"gatsby_image_path":"..\/..\/images\/nightbooks.jpg",
+			"slug":"nightbooks"
+		},
+		{
 			"title":"A Cinderella Story: Christmas Wish",
 			"gatsby_image_path":"..\/..\/images\/a-cinderella-story-christmas-wish.jpg",
 			"slug":"a-cinderella-story-christmas-wish"
-		},
-		{
-			"title":"Sex and the City",
-			"gatsby_image_path":"..\/..\/images\/sex-and-the-city.jpg",
-			"slug":"sex-and-the-city"
-		},
-		{
-			"title":"Spy Kids 2: The Island of Lost Dreams",
-			"gatsby_image_path":"..\/..\/images\/spy-kids-2-the-island-of-lost-dreams.jpg",
-			"slug":"spy-kids-2-the-island-of-lost-dreams"
 		},
 		{
 			"title":"Bright",
@@ -309,9 +354,24 @@
 			"slug":"bright"
 		},
 		{
-			"title":"Wrong Turn 4: Bloody Beginnings",
-			"gatsby_image_path":"..\/..\/images\/wrong-turn-4-bloody-beginnings.jpg",
-			"slug":"wrong-turn-4-bloody-beginnings"
+			"title":"Sex and the City",
+			"gatsby_image_path":"..\/..\/images\/sex-and-the-city.jpg",
+			"slug":"sex-and-the-city"
+		},
+		{
+			"title":"Antlers",
+			"gatsby_image_path":"..\/..\/images\/antlers.jpg",
+			"slug":"antlers"
+		},
+		{
+			"title":"Miss March",
+			"gatsby_image_path":"..\/..\/images\/miss-march.jpg",
+			"slug":"miss-march"
+		},
+		{
+			"title":"Spy Kids 2: The Island of Lost Dreams",
+			"gatsby_image_path":"..\/..\/images\/spy-kids-2-the-island-of-lost-dreams.jpg",
+			"slug":"spy-kids-2-the-island-of-lost-dreams"
 		},
 		{
 			"title":"Pets United",
@@ -319,44 +379,34 @@
 			"slug":"pets-united"
 		},
 		{
+			"title":"Wrong Turn 4: Bloody Beginnings",
+			"gatsby_image_path":"..\/..\/images\/wrong-turn-4-bloody-beginnings.jpg",
+			"slug":"wrong-turn-4-bloody-beginnings"
+		},
+		{
+			"title":"A Nightmare on Elm Street",
+			"gatsby_image_path":"..\/..\/images\/a-nightmare-on-elm-street.jpg",
+			"slug":"a-nightmare-on-elm-street"
+		},
+		{
 			"title":"Monster House",
 			"gatsby_image_path":"..\/..\/images\/monster-house.jpg",
 			"slug":"monster-house"
 		},
 		{
-			"title":"Away",
-			"gatsby_image_path":"..\/..\/images\/away.jpg",
-			"slug":"away"
+			"title":"Everly",
+			"gatsby_image_path":"..\/..\/images\/everly.jpg",
+			"slug":"everly"
+		},
+		{
+			"title":"Ouija: Origin of Evil",
+			"gatsby_image_path":"..\/..\/images\/ouija-origin-of-evil.jpg",
+			"slug":"ouija-origin-of-evil"
 		},
 		{
 			"title":"Goosebumps 2: Haunted Halloween",
 			"gatsby_image_path":"..\/..\/images\/goosebumps-2-haunted-halloween.jpg",
 			"slug":"goosebumps-2-haunted-halloween"
-		},
-		{
-			"title":"The Human Centipede 2 (Full Sequence)",
-			"gatsby_image_path":"..\/..\/images\/the-human-centipede-2-full-sequence.jpg",
-			"slug":"the-human-centipede-2-full-sequence"
-		},
-		{
-			"title":"Alien Xmas",
-			"gatsby_image_path":"..\/..\/images\/alien-xmas.jpg",
-			"slug":"alien-xmas"
-		},
-		{
-			"title":"Scream",
-			"gatsby_image_path":"..\/..\/images\/scream.jpg",
-			"slug":"scream"
-		},
-		{
-			"title":"Alone",
-			"gatsby_image_path":"..\/..\/images\/alone.jpg",
-			"slug":"alone"
-		},
-		{
-			"title":"A Score to Settle",
-			"gatsby_image_path":"..\/..\/images\/a-score-to-settle.jpg",
-			"slug":"a-score-to-settle"
 		}
 	],
 	"tmdb_id":346364,

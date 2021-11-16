@@ -66,14 +66,39 @@
 			"slug":"wild-card"
 		},
 		{
+			"title":"Vacation Friends",
+			"gatsby_image_path":"..\/..\/images\/vacation-friends.jpg",
+			"slug":"vacation-friends"
+		},
+		{
 			"title":"To All the Boys I've Loved Before",
 			"gatsby_image_path":"..\/..\/images\/to-all-the-boys-i-ve-loved-before.jpg",
 			"slug":"to-all-the-boys-i-ve-loved-before"
 		},
 		{
+			"title":"The Ugly Truth",
+			"gatsby_image_path":"..\/..\/images\/the-ugly-truth.jpg",
+			"slug":"the-ugly-truth"
+		},
+		{
+			"title":"The Paperboy",
+			"gatsby_image_path":"..\/..\/images\/the-paperboy.jpg",
+			"slug":"the-paperboy"
+		},
+		{
+			"title":"The Losers",
+			"gatsby_image_path":"..\/..\/images\/the-losers.jpg",
+			"slug":"the-losers"
+		},
+		{
 			"title":"The Ice Road",
 			"gatsby_image_path":"..\/..\/images\/the-ice-road.jpg",
 			"slug":"the-ice-road"
+		},
+		{
+			"title":"The Bourne Legacy",
+			"gatsby_image_path":"..\/..\/images\/the-bourne-legacy.jpg",
+			"slug":"the-bourne-legacy"
 		},
 		{
 			"title":"The Babysitter: Killer Queen",
@@ -96,6 +121,11 @@
 			"slug":"sucker-punch"
 		},
 		{
+			"title":"Spy",
+			"gatsby_image_path":"..\/..\/images\/spy.jpg",
+			"slug":"spy"
+		},
+		{
 			"title":"Rim of the World",
 			"gatsby_image_path":"..\/..\/images\/rim-of-the-world.jpg",
 			"slug":"rim-of-the-world"
@@ -104,6 +134,26 @@
 			"title":"Real Steel",
 			"gatsby_image_path":"..\/..\/images\/real-steel.jpg",
 			"slug":"real-steel"
+		},
+		{
+			"title":"Project Almanac",
+			"gatsby_image_path":"..\/..\/images\/project-almanac.jpg",
+			"slug":"project-almanac"
+		},
+		{
+			"title":"Power Rangers",
+			"gatsby_image_path":"..\/..\/images\/power-rangers.jpg",
+			"slug":"power-rangers"
+		},
+		{
+			"title":"Once Upon a Deadpool",
+			"gatsby_image_path":"..\/..\/images\/once-upon-a-deadpool.jpg",
+			"slug":"once-upon-a-deadpool"
+		},
+		{
+			"title":"Olympus Has Fallen",
+			"gatsby_image_path":"..\/..\/images\/olympus-has-fallen.jpg",
+			"slug":"olympus-has-fallen"
 		}
 	],
 	"related_most_similar":[
@@ -277,19 +327,34 @@
 			"slug":"alien"
 		},
 		{
-			"title":"Underwater",
-			"gatsby_image_path":"..\/..\/images\/underwater.jpg",
-			"slug":"underwater"
-		},
-		{
 			"title":"The Last Sharknado: It's About Time",
 			"gatsby_image_path":"..\/..\/images\/the-last-sharknado-it-s-about-time.jpg",
 			"slug":"the-last-sharknado-it-s-about-time"
 		},
 		{
+			"title":"Underwater",
+			"gatsby_image_path":"..\/..\/images\/underwater.jpg",
+			"slug":"underwater"
+		},
+		{
+			"title":"Knight and Day",
+			"gatsby_image_path":"..\/..\/images\/knight-and-day.jpg",
+			"slug":"knight-and-day"
+		},
+		{
+			"title":"The Hunger Games",
+			"gatsby_image_path":"..\/..\/images\/the-hunger-games.jpg",
+			"slug":"the-hunger-games"
+		},
+		{
 			"title":"Pirates of the Caribbean: Dead Men Tell No Tales",
 			"gatsby_image_path":"..\/..\/images\/pirates-of-the-caribbean-dead-men-tell-no-tales.jpg",
 			"slug":"pirates-of-the-caribbean-dead-men-tell-no-tales"
+		},
+		{
+			"title":"Friday the 13th Part VII: The New Blood",
+			"gatsby_image_path":"..\/..\/images\/friday-the-13th-part-vii-the-new-blood.jpg",
+			"slug":"friday-the-13th-part-vii-the-new-blood"
 		},
 		{
 			"title":"The Aeronauts",
@@ -307,19 +372,9 @@
 			"slug":"the-wandering-earth"
 		},
 		{
-			"title":"Wrong Turn 6: Last Resort",
-			"gatsby_image_path":"..\/..\/images\/wrong-turn-6-last-resort.jpg",
-			"slug":"wrong-turn-6-last-resort"
-		},
-		{
 			"title":"Aliens vs Predator: Requiem",
 			"gatsby_image_path":"..\/..\/images\/aliens-vs-predator-requiem.jpg",
 			"slug":"aliens-vs-predator-requiem"
-		},
-		{
-			"title":"Triple Threat",
-			"gatsby_image_path":"..\/..\/images\/triple-threat.jpg",
-			"slug":"triple-threat"
 		},
 		{
 			"title":"Hotel Artemis",
@@ -327,9 +382,19 @@
 			"slug":"hotel-artemis"
 		},
 		{
+			"title":"Wrong Turn 6: Last Resort",
+			"gatsby_image_path":"..\/..\/images\/wrong-turn-6-last-resort.jpg",
+			"slug":"wrong-turn-6-last-resort"
+		},
+		{
 			"title":"Haunting of the Mary Celeste",
 			"gatsby_image_path":"..\/..\/images\/haunting-of-the-mary-celeste.jpg",
 			"slug":"haunting-of-the-mary-celeste"
+		},
+		{
+			"title":"Triple Threat",
+			"gatsby_image_path":"..\/..\/images\/triple-threat.jpg",
+			"slug":"triple-threat"
 		},
 		{
 			"title":"War of the Worlds",
@@ -337,29 +402,14 @@
 			"slug":"war-of-the-worlds"
 		},
 		{
-			"title":"The Marksman",
-			"gatsby_image_path":"..\/..\/images\/the-marksman.jpg",
-			"slug":"the-marksman"
-		},
-		{
 			"title":"Paranormal Activity: The Marked Ones",
 			"gatsby_image_path":"..\/..\/images\/paranormal-activity-the-marked-ones.jpg",
 			"slug":"paranormal-activity-the-marked-ones"
 		},
 		{
-			"title":"xXx: Return of Xander Cage",
-			"gatsby_image_path":"..\/..\/images\/xxx-return-of-xander-cage.jpg",
-			"slug":"xxx-return-of-xander-cage"
-		},
-		{
-			"title":"Jeepers Creepers",
-			"gatsby_image_path":"..\/..\/images\/jeepers-creepers.jpg",
-			"slug":"jeepers-creepers"
-		},
-		{
-			"title":"The Titan",
-			"gatsby_image_path":"..\/..\/images\/the-titan.jpg",
-			"slug":"the-titan"
+			"title":"The Marksman",
+			"gatsby_image_path":"..\/..\/images\/the-marksman.jpg",
+			"slug":"the-marksman"
 		}
 	],
 	"tmdb_id":524047,

@@ -78,6 +78,11 @@
 			"slug":"victor-frankenstein"
 		},
 		{
+			"title":"Trainwreck",
+			"gatsby_image_path":"..\/..\/images\/trainwreck.jpg",
+			"slug":"trainwreck"
+		},
+		{
 			"title":"The Martian",
 			"gatsby_image_path":"..\/..\/images\/the-martian.jpg",
 			"slug":"the-martian"
@@ -98,9 +103,54 @@
 			"slug":"the-chronicles-of-narnia-the-lion-the-witch-and-the-wardrobe"
 		},
 		{
+			"title":"The Black Phone",
+			"gatsby_image_path":"..\/..\/images\/the-black-phone.jpg",
+			"slug":"the-black-phone"
+		},
+		{
 			"title":"The BFG",
 			"gatsby_image_path":"..\/..\/images\/the-bfg.jpg",
 			"slug":"the-bfg"
+		},
+		{
+			"title":"The Angry Birds Movie",
+			"gatsby_image_path":"..\/..\/images\/the-angry-birds-movie.jpg",
+			"slug":"the-angry-birds-movie"
+		},
+		{
+			"title":"The Angry Birds Movie 2",
+			"gatsby_image_path":"..\/..\/images\/the-angry-birds-movie-2.jpg",
+			"slug":"the-angry-birds-movie-2"
+		},
+		{
+			"title":"The Addams Family 2",
+			"gatsby_image_path":"..\/..\/images\/the-addams-family-2.jpg",
+			"slug":"the-addams-family-2"
+		},
+		{
+			"title":"Superbad",
+			"gatsby_image_path":"..\/..\/images\/superbad.jpg",
+			"slug":"superbad"
+		},
+		{
+			"title":"Split",
+			"gatsby_image_path":"..\/..\/images\/split.jpg",
+			"slug":"split"
+		},
+		{
+			"title":"Sinister",
+			"gatsby_image_path":"..\/..\/images\/sinister.jpg",
+			"slug":"sinister"
+		},
+		{
+			"title":"Shazam!",
+			"gatsby_image_path":"..\/..\/images\/shazam.jpg",
+			"slug":"shazam"
+		},
+		{
+			"title":"Sausage Party",
+			"gatsby_image_path":"..\/..\/images\/sausage-party.jpg",
+			"slug":"sausage-party"
 		}
 	],
 	"related_most_similar":[
@@ -259,24 +309,24 @@
 	],
 	"related_by_overview":[
 		{
+			"title":"The Watch",
+			"gatsby_image_path":"..\/..\/images\/the-watch.jpg",
+			"slug":"the-watch"
+		},
+		{
 			"title":"Dumb and Dumber To",
 			"gatsby_image_path":"..\/..\/images\/dumb-and-dumber-to.jpg",
 			"slug":"dumb-and-dumber-to"
 		},
 		{
-			"title":"World War Z",
-			"gatsby_image_path":"..\/..\/images\/world-war-z.jpg",
-			"slug":"world-war-z"
-		},
-		{
-			"title":"The Christmas Chronicles: Part Two",
-			"gatsby_image_path":"..\/..\/images\/the-christmas-chronicles-part-two.jpg",
-			"slug":"the-christmas-chronicles-part-two"
-		},
-		{
 			"title":"The Tomorrow War",
 			"gatsby_image_path":"..\/..\/images\/the-tomorrow-war.jpg",
 			"slug":"the-tomorrow-war"
+		},
+		{
+			"title":"World War Z",
+			"gatsby_image_path":"..\/..\/images\/world-war-z.jpg",
+			"slug":"world-war-z"
 		},
 		{
 			"title":"The Conjuring: The Devil Made Me Do It",
@@ -289,9 +339,9 @@
 			"slug":"pirates-of-the-caribbean-at-world-s-end"
 		},
 		{
-			"title":"Dead Silence",
-			"gatsby_image_path":"..\/..\/images\/dead-silence.jpg",
-			"slug":"dead-silence"
+			"title":"The Christmas Chronicles: Part Two",
+			"gatsby_image_path":"..\/..\/images\/the-christmas-chronicles-part-two.jpg",
+			"slug":"the-christmas-chronicles-part-two"
 		},
 		{
 			"title":"Goosebumps",
@@ -299,14 +349,14 @@
 			"slug":"goosebumps"
 		},
 		{
-			"title":"The Martian",
-			"gatsby_image_path":"..\/..\/images\/the-martian.jpg",
-			"slug":"the-martian"
+			"title":"Dead Silence",
+			"gatsby_image_path":"..\/..\/images\/dead-silence.jpg",
+			"slug":"dead-silence"
 		},
 		{
-			"title":"The Shining",
-			"gatsby_image_path":"..\/..\/images\/the-shining.jpg",
-			"slug":"the-shining"
+			"title":"Scott Pilgrim vs. the World",
+			"gatsby_image_path":"..\/..\/images\/scott-pilgrim-vs.-the-world.jpg",
+			"slug":"scott-pilgrim-vs.-the-world"
 		},
 		{
 			"title":"Star Trek",
@@ -314,14 +364,24 @@
 			"slug":"star-trek"
 		},
 		{
+			"title":"The Martian",
+			"gatsby_image_path":"..\/..\/images\/the-martian.jpg",
+			"slug":"the-martian"
+		},
+		{
+			"title":"Skyline",
+			"gatsby_image_path":"..\/..\/images\/skyline.jpg",
+			"slug":"skyline"
+		},
+		{
+			"title":"The Shining",
+			"gatsby_image_path":"..\/..\/images\/the-shining.jpg",
+			"slug":"the-shining"
+		},
+		{
 			"title":"A Clockwork Orange",
 			"gatsby_image_path":"..\/..\/images\/a-clockwork-orange.jpg",
 			"slug":"a-clockwork-orange"
-		},
-		{
-			"title":"Men in Black 3",
-			"gatsby_image_path":"..\/..\/images\/men-in-black-3.jpg",
-			"slug":"men-in-black-3"
 		},
 		{
 			"title":"Harry Potter and the Half-Blood Prince",
@@ -329,9 +389,14 @@
 			"slug":"harry-potter-and-the-half-blood-prince"
 		},
 		{
-			"title":"Beetlejuice",
-			"gatsby_image_path":"..\/..\/images\/beetlejuice.jpg",
-			"slug":"beetlejuice"
+			"title":"The Seventh Day",
+			"gatsby_image_path":"..\/..\/images\/the-seventh-day.jpg",
+			"slug":"the-seventh-day"
+		},
+		{
+			"title":"Men in Black 3",
+			"gatsby_image_path":"..\/..\/images\/men-in-black-3.jpg",
+			"slug":"men-in-black-3"
 		},
 		{
 			"title":"Paul",
@@ -339,24 +404,9 @@
 			"slug":"paul"
 		},
 		{
-			"title":"The Seventh Day",
-			"gatsby_image_path":"..\/..\/images\/the-seventh-day.jpg",
-			"slug":"the-seventh-day"
-		},
-		{
-			"title":"I Spit on Your Grave",
-			"gatsby_image_path":"..\/..\/images\/i-spit-on-your-grave.jpg",
-			"slug":"i-spit-on-your-grave"
-		},
-		{
-			"title":"Missing Link",
-			"gatsby_image_path":"..\/..\/images\/missing-link.jpg",
-			"slug":"missing-link"
-		},
-		{
-			"title":"The Thing About Harry",
-			"gatsby_image_path":"..\/..\/images\/the-thing-about-harry.jpg",
-			"slug":"the-thing-about-harry"
+			"title":"Beetlejuice",
+			"gatsby_image_path":"..\/..\/images\/beetlejuice.jpg",
+			"slug":"beetlejuice"
 		}
 	],
 	"tmdb_id":474350,

@@ -61,6 +61,16 @@
 			"slug":"the-shawshank-redemption"
 		},
 		{
+			"title":"The Salvation",
+			"gatsby_image_path":"..\/..\/images\/the-salvation.jpg",
+			"slug":"the-salvation"
+		},
+		{
+			"title":"The Losers",
+			"gatsby_image_path":"..\/..\/images\/the-losers.jpg",
+			"slug":"the-losers"
+		},
+		{
 			"title":"The Highwaymen",
 			"gatsby_image_path":"..\/..\/images\/the-highwaymen.jpg",
 			"slug":"the-highwaymen"
@@ -81,6 +91,16 @@
 			"slug":"saw-3d"
 		},
 		{
+			"title":"Resident Evil: Welcome to Raccoon City",
+			"gatsby_image_path":"..\/..\/images\/resident-evil-welcome-to-raccoon-city.jpg",
+			"slug":"resident-evil-welcome-to-raccoon-city"
+		},
+		{
+			"title":"Red Dawn",
+			"gatsby_image_path":"..\/..\/images\/red-dawn.jpg",
+			"slug":"red-dawn"
+		},
+		{
 			"title":"Rampage",
 			"gatsby_image_path":"..\/..\/images\/rampage.jpg",
 			"slug":"rampage"
@@ -91,14 +111,44 @@
 			"slug":"quest-for-camelot"
 		},
 		{
+			"title":"No Strings Attached",
+			"gatsby_image_path":"..\/..\/images\/no-strings-attached.jpg",
+			"slug":"no-strings-attached"
+		},
+		{
+			"title":"Man on a Ledge",
+			"gatsby_image_path":"..\/..\/images\/man-on-a-ledge.jpg",
+			"slug":"man-on-a-ledge"
+		},
+		{
 			"title":"Justice League: The Flashpoint Paradox",
 			"gatsby_image_path":"..\/..\/images\/justice-league-the-flashpoint-paradox.jpg",
 			"slug":"justice-league-the-flashpoint-paradox"
 		},
 		{
+			"title":"Jonah Hex",
+			"gatsby_image_path":"..\/..\/images\/jonah-hex.jpg",
+			"slug":"jonah-hex"
+		},
+		{
 			"title":"Iron Man 3",
 			"gatsby_image_path":"..\/..\/images\/iron-man-3.jpg",
 			"slug":"iron-man-3"
+		},
+		{
+			"title":"Ella Enchanted",
+			"gatsby_image_path":"..\/..\/images\/ella-enchanted.jpg",
+			"slug":"ella-enchanted"
+		},
+		{
+			"title":"Bram Stoker's Dracula",
+			"gatsby_image_path":"..\/..\/images\/bram-stoker-s-dracula.jpg",
+			"slug":"bram-stoker-s-dracula"
+		},
+		{
+			"title":"Born to Race: Fast Track",
+			"gatsby_image_path":"..\/..\/images\/born-to-race-fast-track.jpg",
+			"slug":"born-to-race-fast-track"
 		}
 	],
 	"related_most_similar":[
@@ -277,19 +327,19 @@
 			"slug":"roald-dahl-s-the-witches"
 		},
 		{
-			"title":"Greenland",
-			"gatsby_image_path":"..\/..\/images\/greenland.jpg",
-			"slug":"greenland"
-		},
-		{
 			"title":"Nightcrawler",
 			"gatsby_image_path":"..\/..\/images\/nightcrawler.jpg",
 			"slug":"nightcrawler"
 		},
 		{
-			"title":"Revolt",
-			"gatsby_image_path":"..\/..\/images\/revolt.jpg",
-			"slug":"revolt"
+			"title":"Friday the 13th Part VII: The New Blood",
+			"gatsby_image_path":"..\/..\/images\/friday-the-13th-part-vii-the-new-blood.jpg",
+			"slug":"friday-the-13th-part-vii-the-new-blood"
+		},
+		{
+			"title":"Greenland",
+			"gatsby_image_path":"..\/..\/images\/greenland.jpg",
+			"slug":"greenland"
 		},
 		{
 			"title":"Hotel Artemis",
@@ -302,6 +352,16 @@
 			"slug":"the-invisible-guest"
 		},
 		{
+			"title":"Revolt",
+			"gatsby_image_path":"..\/..\/images\/revolt.jpg",
+			"slug":"revolt"
+		},
+		{
+			"title":"Halloween: Resurrection",
+			"gatsby_image_path":"..\/..\/images\/halloween-resurrection.jpg",
+			"slug":"halloween-resurrection"
+		},
+		{
 			"title":"Paranormal Activity: The Marked Ones",
 			"gatsby_image_path":"..\/..\/images\/paranormal-activity-the-marked-ones.jpg",
 			"slug":"paranormal-activity-the-marked-ones"
@@ -312,14 +372,9 @@
 			"slug":"crimson-peak"
 		},
 		{
-			"title":"Jeepers Creepers",
-			"gatsby_image_path":"..\/..\/images\/jeepers-creepers.jpg",
-			"slug":"jeepers-creepers"
-		},
-		{
-			"title":"The Evil Dead",
-			"gatsby_image_path":"..\/..\/images\/the-evil-dead.jpg",
-			"slug":"the-evil-dead"
+			"title":"The Night House",
+			"gatsby_image_path":"..\/..\/images\/the-night-house.jpg",
+			"slug":"the-night-house"
 		},
 		{
 			"title":"Believe Me: The Abduction of Lisa McVey",
@@ -327,14 +382,19 @@
 			"slug":"believe-me-the-abduction-of-lisa-mcvey"
 		},
 		{
+			"title":"The Evil Dead",
+			"gatsby_image_path":"..\/..\/images\/the-evil-dead.jpg",
+			"slug":"the-evil-dead"
+		},
+		{
 			"title":"John Wick: Chapter 2",
 			"gatsby_image_path":"..\/..\/images\/john-wick-chapter-2.jpg",
 			"slug":"john-wick-chapter-2"
 		},
 		{
-			"title":"Se7en",
-			"gatsby_image_path":"..\/..\/images\/se7en.jpg",
-			"slug":"se7en"
+			"title":"Jeepers Creepers",
+			"gatsby_image_path":"..\/..\/images\/jeepers-creepers.jpg",
+			"slug":"jeepers-creepers"
 		},
 		{
 			"title":"Grand Isle",
@@ -345,16 +405,6 @@
 			"title":"Those Who Wish Me Dead",
 			"gatsby_image_path":"..\/..\/images\/those-who-wish-me-dead.jpg",
 			"slug":"those-who-wish-me-dead"
-		},
-		{
-			"title":"Sleeping Beauty",
-			"gatsby_image_path":"..\/..\/images\/sleeping-beauty.jpg",
-			"slug":"sleeping-beauty"
-		},
-		{
-			"title":"Poltergeist",
-			"gatsby_image_path":"..\/..\/images\/poltergeist.jpg",
-			"slug":"poltergeist"
 		}
 	],
 	"tmdb_id":632357,

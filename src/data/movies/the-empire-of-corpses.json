@@ -57,11 +57,6 @@
 			"slug":"fireworks"
 		},
 		{
-			"title":"Twilight",
-			"gatsby_image_path":"..\/..\/images\/twilight.jpg",
-			"slug":"twilight"
-		},
-		{
 			"title":"Trinity Seven 2: Heaven's Library & Crimson Lord",
 			"gatsby_image_path":"..\/..\/images\/trinity-seven-2-heaven-s-library-crimson-lord.jpg",
 			"slug":"trinity-seven-2-heaven-s-library-crimson-lord"
@@ -100,6 +95,61 @@
 			"title":"Pokémon the Movie: The Power of Us",
 			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-the-power-of-us.jpg",
 			"slug":"pokémon-the-movie-the-power-of-us"
+		},
+		{
+			"title":"Pokémon the Movie: Secrets of the Jungle",
+			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-secrets-of-the-jungle.jpg",
+			"slug":"pokémon-the-movie-secrets-of-the-jungle"
+		},
+		{
+			"title":"Pokémon the Movie: I Choose You!",
+			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-i-choose-you.jpg",
+			"slug":"pokémon-the-movie-i-choose-you"
+		},
+		{
+			"title":"Pokémon the Movie: Hoopa and the Clash of Ages",
+			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-hoopa-and-the-clash-of-ages.jpg",
+			"slug":"pokémon-the-movie-hoopa-and-the-clash-of-ages"
+		},
+		{
+			"title":"Pokémon: Mewtwo Strikes Back - Evolution",
+			"gatsby_image_path":"..\/..\/images\/pokémon-mewtwo-strikes-back-evolution.jpg",
+			"slug":"pokémon-mewtwo-strikes-back-evolution"
+		},
+		{
+			"title":"Naruto the Movie: Guardians of the Crescent Moon Kingdom",
+			"gatsby_image_path":"..\/..\/images\/naruto-the-movie-guardians-of-the-crescent-moon-kingdom.jpg",
+			"slug":"naruto-the-movie-guardians-of-the-crescent-moon-kingdom"
+		},
+		{
+			"title":"My Hero Academia: World Heroes' Mission",
+			"gatsby_image_path":"..\/..\/images\/my-hero-academia-world-heroes-mission.jpg",
+			"slug":"my-hero-academia-world-heroes-mission"
+		},
+		{
+			"title":"My Hero Academia: Two Heroes",
+			"gatsby_image_path":"..\/..\/images\/my-hero-academia-two-heroes.jpg",
+			"slug":"my-hero-academia-two-heroes"
+		},
+		{
+			"title":"My Hero Academia: Heroes Rising",
+			"gatsby_image_path":"..\/..\/images\/my-hero-academia-heroes-rising.jpg",
+			"slug":"my-hero-academia-heroes-rising"
+		},
+		{
+			"title":"Maquia: When the Promised Flower Blooms",
+			"gatsby_image_path":"..\/..\/images\/maquia-when-the-promised-flower-blooms.jpg",
+			"slug":"maquia-when-the-promised-flower-blooms"
+		},
+		{
+			"title":"Kuroko no Basket Movie 1: Winter Cup Soushuuhen - Kage to Hikari",
+			"gatsby_image_path":"..\/..\/images\/kuroko-no-basket-movie-1-winter-cup-soushuuhen-kage-to-hikari.jpg",
+			"slug":"kuroko-no-basket-movie-1-winter-cup-soushuuhen-kage-to-hikari"
+		},
+		{
+			"title":"Jujutsu Kaisen 0: The Movie",
+			"gatsby_image_path":"..\/..\/images\/jujutsu-kaisen-0-the-movie.jpg",
+			"slug":"jujutsu-kaisen-0-the-movie"
 		}
 	],
 	"related_most_similar":[
@@ -258,11 +308,6 @@
 	],
 	"related_by_overview":[
 		{
-			"title":"Ghost in the Shell",
-			"gatsby_image_path":"..\/..\/images\/ghost-in-the-shell.jpg",
-			"slug":"ghost-in-the-shell"
-		},
-		{
 			"title":"In Time",
 			"gatsby_image_path":"..\/..\/images\/in-time.jpg",
 			"slug":"in-time"
@@ -273,19 +318,14 @@
 			"slug":"captain-america-the-first-avenger"
 		},
 		{
-			"title":"Assassin 33 A.D.",
-			"gatsby_image_path":"..\/..\/images\/assassin-33-a.d..jpg",
-			"slug":"assassin-33-a.d."
-		},
-		{
 			"title":"Dr. No",
 			"gatsby_image_path":"..\/..\/images\/dr.-no.jpg",
 			"slug":"dr.-no"
 		},
 		{
-			"title":"The Last Samurai",
-			"gatsby_image_path":"..\/..\/images\/the-last-samurai.jpg",
-			"slug":"the-last-samurai"
+			"title":"Assassin 33 A.D.",
+			"gatsby_image_path":"..\/..\/images\/assassin-33-a.d..jpg",
+			"slug":"assassin-33-a.d."
 		},
 		{
 			"title":"The Last Man",
@@ -293,14 +333,19 @@
 			"slug":"the-last-man"
 		},
 		{
+			"title":"The Last Samurai",
+			"gatsby_image_path":"..\/..\/images\/the-last-samurai.jpg",
+			"slug":"the-last-samurai"
+		},
+		{
+			"title":"Finch",
+			"gatsby_image_path":"..\/..\/images\/finch.jpg",
+			"slug":"finch"
+		},
+		{
 			"title":"The Martian",
 			"gatsby_image_path":"..\/..\/images\/the-martian.jpg",
 			"slug":"the-martian"
-		},
-		{
-			"title":"Rise of the Planet of the Apes",
-			"gatsby_image_path":"..\/..\/images\/rise-of-the-planet-of-the-apes.jpg",
-			"slug":"rise-of-the-planet-of-the-apes"
 		},
 		{
 			"title":"TRON: Legacy",
@@ -308,14 +353,29 @@
 			"slug":"tron-legacy"
 		},
 		{
+			"title":"Man on Fire",
+			"gatsby_image_path":"..\/..\/images\/man-on-fire.jpg",
+			"slug":"man-on-fire"
+		},
+		{
+			"title":"Phantom",
+			"gatsby_image_path":"..\/..\/images\/phantom.jpg",
+			"slug":"phantom"
+		},
+		{
+			"title":"Rise of the Planet of the Apes",
+			"gatsby_image_path":"..\/..\/images\/rise-of-the-planet-of-the-apes.jpg",
+			"slug":"rise-of-the-planet-of-the-apes"
+		},
+		{
 			"title":"Aliens",
 			"gatsby_image_path":"..\/..\/images\/aliens.jpg",
 			"slug":"aliens"
 		},
 		{
-			"title":"Monsters vs Aliens",
-			"gatsby_image_path":"..\/..\/images\/monsters-vs-aliens.jpg",
-			"slug":"monsters-vs-aliens"
+			"title":"Iron Sky",
+			"gatsby_image_path":"..\/..\/images\/iron-sky.jpg",
+			"slug":"iron-sky"
 		},
 		{
 			"title":"Iron Man 2",
@@ -323,39 +383,29 @@
 			"slug":"iron-man-2"
 		},
 		{
+			"title":"Monsters vs Aliens",
+			"gatsby_image_path":"..\/..\/images\/monsters-vs-aliens.jpg",
+			"slug":"monsters-vs-aliens"
+		},
+		{
 			"title":"Deathstroke: Knights & Dragons - The Movie",
 			"gatsby_image_path":"..\/..\/images\/deathstroke-knights-dragons-the-movie.jpg",
 			"slug":"deathstroke-knights-dragons-the-movie"
 		},
 		{
-			"title":"War for the Planet of the Apes",
-			"gatsby_image_path":"..\/..\/images\/war-for-the-planet-of-the-apes.jpg",
-			"slug":"war-for-the-planet-of-the-apes"
+			"title":"The Last Survivors",
+			"gatsby_image_path":"..\/..\/images\/the-last-survivors.jpg",
+			"slug":"the-last-survivors"
 		},
 		{
-			"title":"World War Z",
-			"gatsby_image_path":"..\/..\/images\/world-war-z.jpg",
-			"slug":"world-war-z"
+			"title":"Cosmic Sin",
+			"gatsby_image_path":"..\/..\/images\/cosmic-sin.jpg",
+			"slug":"cosmic-sin"
 		},
 		{
-			"title":"The Scientist",
-			"gatsby_image_path":"..\/..\/images\/the-scientist.jpg",
-			"slug":"the-scientist"
-		},
-		{
-			"title":"The Expendables",
-			"gatsby_image_path":"..\/..\/images\/the-expendables.jpg",
-			"slug":"the-expendables"
-		},
-		{
-			"title":"Watchmen",
-			"gatsby_image_path":"..\/..\/images\/watchmen.jpg",
-			"slug":"watchmen"
-		},
-		{
-			"title":"Slender Man",
-			"gatsby_image_path":"..\/..\/images\/slender-man.jpg",
-			"slug":"slender-man"
+			"title":"The Return of the Living Dead",
+			"gatsby_image_path":"..\/..\/images\/the-return-of-the-living-dead.jpg",
+			"slug":"the-return-of-the-living-dead"
 		}
 	],
 	"tmdb_id":342588,

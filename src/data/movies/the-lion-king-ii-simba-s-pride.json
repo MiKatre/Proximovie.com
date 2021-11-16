@@ -53,6 +53,11 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"The Lion King",
+			"gatsby_image_path":"..\/..\/images\/the-lion-king.jpg",
+			"slug":"the-lion-king"
+		},
+		{
 			"title":"The Lion King 1½",
 			"gatsby_image_path":"..\/..\/images\/the-lion-king-1-½.jpg",
 			"slug":"the-lion-king-1-½"
@@ -63,14 +68,19 @@
 			"slug":"wild-things"
 		},
 		{
-			"title":"The Lion King",
-			"gatsby_image_path":"..\/..\/images\/the-lion-king.jpg",
-			"slug":"the-lion-king"
+			"title":"Tower Heist",
+			"gatsby_image_path":"..\/..\/images\/tower-heist.jpg",
+			"slug":"tower-heist"
 		},
 		{
 			"title":"The Lion Guard: Return of the Roar",
 			"gatsby_image_path":"..\/..\/images\/the-lion-guard-return-of-the-roar.jpg",
 			"slug":"the-lion-guard-return-of-the-roar"
+		},
+		{
+			"title":"The Craft",
+			"gatsby_image_path":"..\/..\/images\/the-craft.jpg",
+			"slug":"the-craft"
 		},
 		{
 			"title":"Stuart Little",
@@ -98,9 +108,49 @@
 			"slug":"scream"
 		},
 		{
+			"title":"Scream 4",
+			"gatsby_image_path":"..\/..\/images\/scream-4.jpg",
+			"slug":"scream-4"
+		},
+		{
 			"title":"Coming 2 America",
 			"gatsby_image_path":"..\/..\/images\/coming-2-america.jpg",
 			"slug":"coming-2-america"
+		},
+		{
+			"title":"Big Fish",
+			"gatsby_image_path":"..\/..\/images\/big-fish.jpg",
+			"slug":"big-fish"
+		},
+		{
+			"title":"Bee Movie",
+			"gatsby_image_path":"..\/..\/images\/bee-movie.jpg",
+			"slug":"bee-movie"
+		},
+		{
+			"title":"Astro Boy",
+			"gatsby_image_path":"..\/..\/images\/astro-boy.jpg",
+			"slug":"astro-boy"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
+			"title":"Zombieland: Double Tap",
+			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
+			"slug":"zombieland-double-tap"
 		}
 	],
 	"related_most_similar":[
@@ -264,19 +314,14 @@
 			"slug":"the-boss-baby-family-business"
 		},
 		{
-			"title":"Spy Kids 3-D: Game Over",
-			"gatsby_image_path":"..\/..\/images\/spy-kids-3-d-game-over.jpg",
-			"slug":"spy-kids-3-d-game-over"
-		},
-		{
 			"title":"Harry Potter and the Chamber of Secrets",
 			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-chamber-of-secrets.jpg",
 			"slug":"harry-potter-and-the-chamber-of-secrets"
 		},
 		{
-			"title":"Valentine",
-			"gatsby_image_path":"..\/..\/images\/valentine.jpg",
-			"slug":"valentine"
+			"title":"Spy Kids 3-D: Game Over",
+			"gatsby_image_path":"..\/..\/images\/spy-kids-3-d-game-over.jpg",
+			"slug":"spy-kids-3-d-game-over"
 		},
 		{
 			"title":"Coming 2 America",
@@ -284,19 +329,24 @@
 			"slug":"coming-2-america"
 		},
 		{
+			"title":"Descendants: The Royal Wedding",
+			"gatsby_image_path":"..\/..\/images\/descendants-the-royal-wedding.jpg",
+			"slug":"descendants-the-royal-wedding"
+		},
+		{
+			"title":"Valentine",
+			"gatsby_image_path":"..\/..\/images\/valentine.jpg",
+			"slug":"valentine"
+		},
+		{
+			"title":"Stan Helsing",
+			"gatsby_image_path":"..\/..\/images\/stan-helsing.jpg",
+			"slug":"stan-helsing"
+		},
+		{
 			"title":"Ong Bak 2",
 			"gatsby_image_path":"..\/..\/images\/ong-bak-2.jpg",
 			"slug":"ong-bak-2"
-		},
-		{
-			"title":"Mandy",
-			"gatsby_image_path":"..\/..\/images\/mandy.jpg",
-			"slug":"mandy"
-		},
-		{
-			"title":"Hacker",
-			"gatsby_image_path":"..\/..\/images\/hacker.jpg",
-			"slug":"hacker"
 		},
 		{
 			"title":"Cook Up a Storm",
@@ -304,9 +354,9 @@
 			"slug":"cook-up-a-storm"
 		},
 		{
-			"title":"Spy Kids 2: The Island of Lost Dreams",
-			"gatsby_image_path":"..\/..\/images\/spy-kids-2-the-island-of-lost-dreams.jpg",
-			"slug":"spy-kids-2-the-island-of-lost-dreams"
+			"title":"Hacker",
+			"gatsby_image_path":"..\/..\/images\/hacker.jpg",
+			"slug":"hacker"
 		},
 		{
 			"title":"Madagascar",
@@ -314,9 +364,14 @@
 			"slug":"madagascar"
 		},
 		{
-			"title":"The Longest Yard",
-			"gatsby_image_path":"..\/..\/images\/the-longest-yard.jpg",
-			"slug":"the-longest-yard"
+			"title":"Hole in One",
+			"gatsby_image_path":"..\/..\/images\/hole-in-one.jpg",
+			"slug":"hole-in-one"
+		},
+		{
+			"title":"Mandy",
+			"gatsby_image_path":"..\/..\/images\/mandy.jpg",
+			"slug":"mandy"
 		},
 		{
 			"title":"Palmer",
@@ -324,39 +379,34 @@
 			"slug":"palmer"
 		},
 		{
+			"title":"Beasts Clawing at Straws",
+			"gatsby_image_path":"..\/..\/images\/beasts-clawing-at-straws.jpg",
+			"slug":"beasts-clawing-at-straws"
+		},
+		{
+			"title":"Spy Kids 2: The Island of Lost Dreams",
+			"gatsby_image_path":"..\/..\/images\/spy-kids-2-the-island-of-lost-dreams.jpg",
+			"slug":"spy-kids-2-the-island-of-lost-dreams"
+		},
+		{
+			"title":"Night at the Museum: Battle of the Smithsonian",
+			"gatsby_image_path":"..\/..\/images\/night-at-the-museum-battle-of-the-smithsonian.jpg",
+			"slug":"night-at-the-museum-battle-of-the-smithsonian"
+		},
+		{
+			"title":"The Longest Yard",
+			"gatsby_image_path":"..\/..\/images\/the-longest-yard.jpg",
+			"slug":"the-longest-yard"
+		},
+		{
+			"title":"The Jungle Book",
+			"gatsby_image_path":"..\/..\/images\/the-jungle-book.jpg",
+			"slug":"the-jungle-book"
+		},
+		{
 			"title":"Penguin Bloom",
 			"gatsby_image_path":"..\/..\/images\/penguin-bloom.jpg",
 			"slug":"penguin-bloom"
-		},
-		{
-			"title":"Bad Genius",
-			"gatsby_image_path":"..\/..\/images\/bad-genius.jpg",
-			"slug":"bad-genius"
-		},
-		{
-			"title":"The Call of the Wild",
-			"gatsby_image_path":"..\/..\/images\/the-call-of-the-wild.jpg",
-			"slug":"the-call-of-the-wild"
-		},
-		{
-			"title":"A Cinderella Story: Christmas Wish",
-			"gatsby_image_path":"..\/..\/images\/a-cinderella-story-christmas-wish.jpg",
-			"slug":"a-cinderella-story-christmas-wish"
-		},
-		{
-			"title":"The Drug King",
-			"gatsby_image_path":"..\/..\/images\/the-drug-king.jpg",
-			"slug":"the-drug-king"
-		},
-		{
-			"title":"Captive State",
-			"gatsby_image_path":"..\/..\/images\/captive-state.jpg",
-			"slug":"captive-state"
-		},
-		{
-			"title":"The Angry Birds Movie 2",
-			"gatsby_image_path":"..\/..\/images\/the-angry-birds-movie-2.jpg",
-			"slug":"the-angry-birds-movie-2"
 		}
 	],
 	"tmdb_id":9732,

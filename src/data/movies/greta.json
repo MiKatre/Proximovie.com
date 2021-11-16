@@ -60,6 +60,11 @@
 			"slug":"the-5th-wave"
 		},
 		{
+			"title":"Underworld: Awakening",
+			"gatsby_image_path":"..\/..\/images\/underworld-awakening.jpg",
+			"slug":"underworld-awakening"
+		},
+		{
 			"title":"Trigger Point",
 			"gatsby_image_path":"..\/..\/images\/trigger-point.jpg",
 			"slug":"trigger-point"
@@ -73,6 +78,11 @@
 			"title":"Thor",
 			"gatsby_image_path":"..\/..\/images\/thor.jpg",
 			"slug":"thor"
+		},
+		{
+			"title":"The Exorcism of Emily Rose",
+			"gatsby_image_path":"..\/..\/images\/the-exorcism-of-emily-rose.jpg",
+			"slug":"the-exorcism-of-emily-rose"
 		},
 		{
 			"title":"The Equalizer",
@@ -95,6 +105,21 @@
 			"slug":"the-amazing-spider-man-2"
 		},
 		{
+			"title":"The Addams Family",
+			"gatsby_image_path":"..\/..\/images\/the-addams-family.jpg",
+			"slug":"the-addams-family"
+		},
+		{
+			"title":"The Addams Family 2",
+			"gatsby_image_path":"..\/..\/images\/the-addams-family-2.jpg",
+			"slug":"the-addams-family-2"
+		},
+		{
+			"title":"Suspiria",
+			"gatsby_image_path":"..\/..\/images\/suspiria.jpg",
+			"slug":"suspiria"
+		},
+		{
 			"title":"Sugar Daddy",
 			"gatsby_image_path":"..\/..\/images\/sugar-daddy.jpg",
 			"slug":"sugar-daddy"
@@ -103,6 +128,31 @@
 			"title":"Shadow in the Cloud",
 			"gatsby_image_path":"..\/..\/images\/shadow-in-the-cloud.jpg",
 			"slug":"shadow-in-the-cloud"
+		},
+		{
+			"title":"Red Shoes And The Seven Dwarfs",
+			"gatsby_image_path":"..\/..\/images\/red-shoes-and-the-seven-dwarfs.jpg",
+			"slug":"red-shoes-and-the-seven-dwarfs"
+		},
+		{
+			"title":"Neighbors 2: Sorority Rising",
+			"gatsby_image_path":"..\/..\/images\/neighbors-2-sorority-rising.jpg",
+			"slug":"neighbors-2-sorority-rising"
+		},
+		{
+			"title":"My Salinger Year",
+			"gatsby_image_path":"..\/..\/images\/my-salinger-year.jpg",
+			"slug":"my-salinger-year"
+		},
+		{
+			"title":"Kick-Ass",
+			"gatsby_image_path":"..\/..\/images\/kick-ass.jpg",
+			"slug":"kick-ass"
+		},
+		{
+			"title":"Kick-Ass 2",
+			"gatsby_image_path":"..\/..\/images\/kick-ass-2.jpg",
+			"slug":"kick-ass-2"
 		}
 	],
 	"related_most_similar":[
@@ -271,6 +321,11 @@
 			"slug":"sacrifice"
 		},
 		{
+			"title":"The Nightingale",
+			"gatsby_image_path":"..\/..\/images\/the-nightingale.jpg",
+			"slug":"the-nightingale"
+		},
+		{
 			"title":"Heks",
 			"gatsby_image_path":"..\/..\/images\/heks.jpg",
 			"slug":"heks"
@@ -286,6 +341,11 @@
 			"slug":"blood-red-sky"
 		},
 		{
+			"title":"Antlers",
+			"gatsby_image_path":"..\/..\/images\/antlers.jpg",
+			"slug":"antlers"
+		},
+		{
 			"title":"The Binding",
 			"gatsby_image_path":"..\/..\/images\/the-binding.jpg",
 			"slug":"the-binding"
@@ -296,9 +356,9 @@
 			"slug":"sex-and-the-city"
 		},
 		{
-			"title":"The Villainess",
-			"gatsby_image_path":"..\/..\/images\/the-villainess.jpg",
-			"slug":"the-villainess"
+			"title":"Child's Play",
+			"gatsby_image_path":"..\/..\/images\/child-s-play.jpg",
+			"slug":"child-s-play"
 		},
 		{
 			"title":"Rattlesnake",
@@ -306,9 +366,9 @@
 			"slug":"rattlesnake"
 		},
 		{
-			"title":"Bliss",
-			"gatsby_image_path":"..\/..\/images\/bliss.jpg",
-			"slug":"bliss"
+			"title":"The Villainess",
+			"gatsby_image_path":"..\/..\/images\/the-villainess.jpg",
+			"slug":"the-villainess"
 		},
 		{
 			"title":"Hollow Point",
@@ -316,34 +376,19 @@
 			"slug":"hollow-point"
 		},
 		{
-			"title":"Naked Singularity",
-			"gatsby_image_path":"..\/..\/images\/naked-singularity.jpg",
-			"slug":"naked-singularity"
-		},
-		{
-			"title":"Drive",
-			"gatsby_image_path":"..\/..\/images\/drive.jpg",
-			"slug":"drive"
-		},
-		{
 			"title":"The Aristocats",
 			"gatsby_image_path":"..\/..\/images\/the-aristocats.jpg",
 			"slug":"the-aristocats"
 		},
 		{
-			"title":"The Exorcist",
-			"gatsby_image_path":"..\/..\/images\/the-exorcist.jpg",
-			"slug":"the-exorcist"
+			"title":"Silver Linings Playbook",
+			"gatsby_image_path":"..\/..\/images\/silver-linings-playbook.jpg",
+			"slug":"silver-linings-playbook"
 		},
 		{
-			"title":"Crisis",
-			"gatsby_image_path":"..\/..\/images\/crisis.jpg",
-			"slug":"crisis"
-		},
-		{
-			"title":"Motherless Brooklyn",
-			"gatsby_image_path":"..\/..\/images\/motherless-brooklyn.jpg",
-			"slug":"motherless-brooklyn"
+			"title":"Everly",
+			"gatsby_image_path":"..\/..\/images\/everly.jpg",
+			"slug":"everly"
 		},
 		{
 			"title":"Sucker Punch",
@@ -351,14 +396,19 @@
 			"slug":"sucker-punch"
 		},
 		{
-			"title":"The Conjuring",
-			"gatsby_image_path":"..\/..\/images\/the-conjuring.jpg",
-			"slug":"the-conjuring"
+			"title":"Naked Singularity",
+			"gatsby_image_path":"..\/..\/images\/naked-singularity.jpg",
+			"slug":"naked-singularity"
 		},
 		{
-			"title":"A Babysitter's Guide to Monster Hunting",
-			"gatsby_image_path":"..\/..\/images\/a-babysitter-s-guide-to-monster-hunting.jpg",
-			"slug":"a-babysitter-s-guide-to-monster-hunting"
+			"title":"The Exorcist",
+			"gatsby_image_path":"..\/..\/images\/the-exorcist.jpg",
+			"slug":"the-exorcist"
+		},
+		{
+			"title":"Bliss",
+			"gatsby_image_path":"..\/..\/images\/bliss.jpg",
+			"slug":"bliss"
 		}
 	],
 	"tmdb_id":471506,

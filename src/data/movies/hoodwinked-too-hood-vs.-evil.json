@@ -68,6 +68,11 @@
 			"slug":"treasure-planet"
 		},
 		{
+			"title":"Trainwreck",
+			"gatsby_image_path":"..\/..\/images\/trainwreck.jpg",
+			"slug":"trainwreck"
+		},
+		{
 			"title":"Toy Story 3",
 			"gatsby_image_path":"..\/..\/images\/toy-story-3.jpg",
 			"slug":"toy-story-3"
@@ -98,9 +103,54 @@
 			"slug":"the-angry-birds-movie-2"
 		},
 		{
+			"title":"The Addams Family",
+			"gatsby_image_path":"..\/..\/images\/the-addams-family.jpg",
+			"slug":"the-addams-family"
+		},
+		{
+			"title":"The Addams Family 2",
+			"gatsby_image_path":"..\/..\/images\/the-addams-family-2.jpg",
+			"slug":"the-addams-family-2"
+		},
+		{
 			"title":"Ted",
 			"gatsby_image_path":"..\/..\/images\/ted.jpg",
 			"slug":"ted"
+		},
+		{
+			"title":"Ted 2",
+			"gatsby_image_path":"..\/..\/images\/ted-2.jpg",
+			"slug":"ted-2"
+		},
+		{
+			"title":"Tarzan",
+			"gatsby_image_path":"..\/..\/images\/tarzan.jpg",
+			"slug":"tarzan"
+		},
+		{
+			"title":"Tangled",
+			"gatsby_image_path":"..\/..\/images\/tangled.jpg",
+			"slug":"tangled"
+		},
+		{
+			"title":"Superbad",
+			"gatsby_image_path":"..\/..\/images\/superbad.jpg",
+			"slug":"superbad"
+		},
+		{
+			"title":"Scream 4",
+			"gatsby_image_path":"..\/..\/images\/scream-4.jpg",
+			"slug":"scream-4"
+		},
+		{
+			"title":"Sausage Party",
+			"gatsby_image_path":"..\/..\/images\/sausage-party.jpg",
+			"slug":"sausage-party"
+		},
+		{
+			"title":"Red Shoes And The Seven Dwarfs",
+			"gatsby_image_path":"..\/..\/images\/red-shoes-and-the-seven-dwarfs.jpg",
+			"slug":"red-shoes-and-the-seven-dwarfs"
 		}
 	],
 	"related_most_similar":[
@@ -259,14 +309,24 @@
 	],
 	"related_by_overview":[
 		{
-			"title":"Teen Titans Go! To the Movies",
-			"gatsby_image_path":"..\/..\/images\/teen-titans-go-to-the-movies.jpg",
-			"slug":"teen-titans-go-to-the-movies"
+			"title":"Avengers Grimm",
+			"gatsby_image_path":"..\/..\/images\/avengers-grimm.jpg",
+			"slug":"avengers-grimm"
 		},
 		{
 			"title":"Hotel Transylvania: Transformania",
 			"gatsby_image_path":"..\/..\/images\/hotel-transylvania-transformania.jpg",
 			"slug":"hotel-transylvania-transformania"
+		},
+		{
+			"title":"Teen Titans Go! To the Movies",
+			"gatsby_image_path":"..\/..\/images\/teen-titans-go-to-the-movies.jpg",
+			"slug":"teen-titans-go-to-the-movies"
+		},
+		{
+			"title":"Ghostbusters II",
+			"gatsby_image_path":"..\/..\/images\/ghostbusters-ii.jpg",
+			"slug":"ghostbusters-ii"
 		},
 		{
 			"title":"PAW Patrol: Mighty Pups",
@@ -279,14 +339,14 @@
 			"slug":"minions"
 		},
 		{
-			"title":"Teen Titans Go! See Space Jam",
-			"gatsby_image_path":"..\/..\/images\/teen-titans-go-see-space-jam.jpg",
-			"slug":"teen-titans-go-see-space-jam"
-		},
-		{
 			"title":"Seed of Chucky",
 			"gatsby_image_path":"..\/..\/images\/seed-of-chucky.jpg",
 			"slug":"seed-of-chucky"
+		},
+		{
+			"title":"Teen Titans Go! See Space Jam",
+			"gatsby_image_path":"..\/..\/images\/teen-titans-go-see-space-jam.jpg",
+			"slug":"teen-titans-go-see-space-jam"
 		},
 		{
 			"title":"Aloha Scooby-Doo!",
@@ -299,14 +359,9 @@
 			"slug":"tinker-bell-and-the-pirate-fairy"
 		},
 		{
-			"title":"Justice League: War",
-			"gatsby_image_path":"..\/..\/images\/justice-league-war.jpg",
-			"slug":"justice-league-war"
-		},
-		{
-			"title":"Promare",
-			"gatsby_image_path":"..\/..\/images\/promare.jpg",
-			"slug":"promare"
+			"title":"Puss in Boots: The Three Diablos",
+			"gatsby_image_path":"..\/..\/images\/puss-in-boots-the-three-diablos.jpg",
+			"slug":"puss-in-boots-the-three-diablos"
 		},
 		{
 			"title":"101 Dalmatians II: Patch's London Adventure",
@@ -314,19 +369,9 @@
 			"slug":"101-dalmatians-ii-patch-s-london-adventure"
 		},
 		{
-			"title":"Barbie and the Magic of Pegasus 3-D",
-			"gatsby_image_path":"..\/..\/images\/barbie-and-the-magic-of-pegasus-3-d.jpg",
-			"slug":"barbie-and-the-magic-of-pegasus-3-d"
-		},
-		{
-			"title":"Cloudy with a Chance of Meatballs 2",
-			"gatsby_image_path":"..\/..\/images\/cloudy-with-a-chance-of-meatballs-2.jpg",
-			"slug":"cloudy-with-a-chance-of-meatballs-2"
-		},
-		{
-			"title":"Megamind",
-			"gatsby_image_path":"..\/..\/images\/megamind.jpg",
-			"slug":"megamind"
+			"title":"Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog",
+			"gatsby_image_path":"..\/..\/images\/straight-outta-nowhere-scooby-doo-meets-courage-the-cowardly-dog.jpg",
+			"slug":"straight-outta-nowhere-scooby-doo-meets-courage-the-cowardly-dog"
 		},
 		{
 			"title":"Scooby-Doo",
@@ -334,19 +379,24 @@
 			"slug":"scooby-doo"
 		},
 		{
-			"title":"Teen Titans Go! vs. Teen Titans",
-			"gatsby_image_path":"..\/..\/images\/teen-titans-go-vs.-teen-titans.jpg",
-			"slug":"teen-titans-go-vs.-teen-titans"
+			"title":"Promare",
+			"gatsby_image_path":"..\/..\/images\/promare.jpg",
+			"slug":"promare"
 		},
 		{
-			"title":"Shrek the Third",
-			"gatsby_image_path":"..\/..\/images\/shrek-the-third.jpg",
-			"slug":"shrek-the-third"
+			"title":"Megamind",
+			"gatsby_image_path":"..\/..\/images\/megamind.jpg",
+			"slug":"megamind"
 		},
 		{
-			"title":"Spider-Man: Far From Home",
-			"gatsby_image_path":"..\/..\/images\/spider-man-far-from-home.jpg",
-			"slug":"spider-man-far-from-home"
+			"title":"Cloudy with a Chance of Meatballs 2",
+			"gatsby_image_path":"..\/..\/images\/cloudy-with-a-chance-of-meatballs-2.jpg",
+			"slug":"cloudy-with-a-chance-of-meatballs-2"
+		},
+		{
+			"title":"Justice League: War",
+			"gatsby_image_path":"..\/..\/images\/justice-league-war.jpg",
+			"slug":"justice-league-war"
 		},
 		{
 			"title":"Bumblebee",
@@ -354,9 +404,9 @@
 			"slug":"bumblebee"
 		},
 		{
-			"title":"Artemis Fowl",
-			"gatsby_image_path":"..\/..\/images\/artemis-fowl.jpg",
-			"slug":"artemis-fowl"
+			"title":"Barbie and the Magic of Pegasus 3-D",
+			"gatsby_image_path":"..\/..\/images\/barbie-and-the-magic-of-pegasus-3-d.jpg",
+			"slug":"barbie-and-the-magic-of-pegasus-3-d"
 		}
 	],
 	"tmdb_id":57089,

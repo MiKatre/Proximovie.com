@@ -82,6 +82,11 @@
 			"slug":"pokémon-the-movie-hoopa-and-the-clash-of-ages"
 		},
 		{
+			"title":"Jujutsu Kaisen 0: The Movie",
+			"gatsby_image_path":"..\/..\/images\/jujutsu-kaisen-0-the-movie.jpg",
+			"slug":"jujutsu-kaisen-0-the-movie"
+		},
+		{
 			"title":"Demon Slayer: Kimetsu no Yaiba Sibling's Bond",
 			"gatsby_image_path":"..\/..\/images\/demon-slayer-kimetsu-no-yaiba-sibling-s-bond.jpg",
 			"slug":"demon-slayer-kimetsu-no-yaiba-sibling-s-bond"
@@ -92,11 +97,6 @@
 			"slug":"weathering-with-you"
 		},
 		{
-			"title":"Twilight",
-			"gatsby_image_path":"..\/..\/images\/twilight.jpg",
-			"slug":"twilight"
-		},
-		{
 			"title":"Trinity Seven 2: Heaven's Library & Crimson Lord",
 			"gatsby_image_path":"..\/..\/images\/trinity-seven-2-heaven-s-library-crimson-lord.jpg",
 			"slug":"trinity-seven-2-heaven-s-library-crimson-lord"
@@ -105,6 +105,56 @@
 			"title":"The Seven Deadly Sins the Movie: Cursed by Light",
 			"gatsby_image_path":"..\/..\/images\/the-seven-deadly-sins-the-movie-cursed-by-light.jpg",
 			"slug":"the-seven-deadly-sins-the-movie-cursed-by-light"
+		},
+		{
+			"title":"The Seven Deadly Sins: Cursed by Light",
+			"gatsby_image_path":"..\/..\/images\/the-seven-deadly-sins-cursed-by-light.jpg",
+			"slug":"the-seven-deadly-sins-cursed-by-light"
+		},
+		{
+			"title":"The Garden of Words",
+			"gatsby_image_path":"..\/..\/images\/the-garden-of-words.jpg",
+			"slug":"the-garden-of-words"
+		},
+		{
+			"title":"Saga of Tanya the Evil: The Movie",
+			"gatsby_image_path":"..\/..\/images\/saga-of-tanya-the-evil-the-movie.jpg",
+			"slug":"saga-of-tanya-the-evil-the-movie"
+		},
+		{
+			"title":"Pokémon the Movie: The Power of Us",
+			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-the-power-of-us.jpg",
+			"slug":"pokémon-the-movie-the-power-of-us"
+		},
+		{
+			"title":"Pokémon the Movie: Secrets of the Jungle",
+			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-secrets-of-the-jungle.jpg",
+			"slug":"pokémon-the-movie-secrets-of-the-jungle"
+		},
+		{
+			"title":"Pokémon the Movie: I Choose You!",
+			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-i-choose-you.jpg",
+			"slug":"pokémon-the-movie-i-choose-you"
+		},
+		{
+			"title":"Pokémon: Mewtwo Strikes Back - Evolution",
+			"gatsby_image_path":"..\/..\/images\/pokémon-mewtwo-strikes-back-evolution.jpg",
+			"slug":"pokémon-mewtwo-strikes-back-evolution"
+		},
+		{
+			"title":"One Piece Film: GOLD",
+			"gatsby_image_path":"..\/..\/images\/one-piece-film-gold.jpg",
+			"slug":"one-piece-film-gold"
+		},
+		{
+			"title":"Ninja Escapades: Creation of Akatsuki, The Two Uchiha, The Far Reaches of Hope",
+			"gatsby_image_path":"..\/..\/images\/ninja-escapades-creation-of-akatsuki-the-two-uchiha-the-far-reaches-of-hope.jpg",
+			"slug":"ninja-escapades-creation-of-akatsuki-the-two-uchiha-the-far-reaches-of-hope"
+		},
+		{
+			"title":"My Hero Academia: World Heroes' Mission",
+			"gatsby_image_path":"..\/..\/images\/my-hero-academia-world-heroes-mission.jpg",
+			"slug":"my-hero-academia-world-heroes-mission"
 		}
 	],
 	"related_most_similar":[
@@ -283,14 +333,19 @@
 			"slug":"jackass-the-movie"
 		},
 		{
+			"title":"Descendants: The Royal Wedding",
+			"gatsby_image_path":"..\/..\/images\/descendants-the-royal-wedding.jpg",
+			"slug":"descendants-the-royal-wedding"
+		},
+		{
 			"title":"Harry Potter and the Chamber of Secrets",
 			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-chamber-of-secrets.jpg",
 			"slug":"harry-potter-and-the-chamber-of-secrets"
 		},
 		{
-			"title":"A Trash Truck Christmas",
-			"gatsby_image_path":"..\/..\/images\/a-trash-truck-christmas.jpg",
-			"slug":"a-trash-truck-christmas"
+			"title":"Home Sweet Home Alone",
+			"gatsby_image_path":"..\/..\/images\/home-sweet-home-alone.jpg",
+			"slug":"home-sweet-home-alone"
 		},
 		{
 			"title":"Madagascar",
@@ -298,14 +353,24 @@
 			"slug":"madagascar"
 		},
 		{
-			"title":"The Conquest of Siberia",
-			"gatsby_image_path":"..\/..\/images\/the-conquest-of-siberia.jpg",
-			"slug":"the-conquest-of-siberia"
-		},
-		{
 			"title":"Barbie in the Nutcracker",
 			"gatsby_image_path":"..\/..\/images\/barbie-in-the-nutcracker.jpg",
 			"slug":"barbie-in-the-nutcracker"
+		},
+		{
+			"title":"Olaf's Frozen Adventure",
+			"gatsby_image_path":"..\/..\/images\/olaf-s-frozen-adventure.jpg",
+			"slug":"olaf-s-frozen-adventure"
+		},
+		{
+			"title":"Cirque du Freak: The Vampire's Assistant",
+			"gatsby_image_path":"..\/..\/images\/cirque-du-freak-the-vampire-s-assistant.jpg",
+			"slug":"cirque-du-freak-the-vampire-s-assistant"
+		},
+		{
+			"title":"The Conquest of Siberia",
+			"gatsby_image_path":"..\/..\/images\/the-conquest-of-siberia.jpg",
+			"slug":"the-conquest-of-siberia"
 		},
 		{
 			"title":"UFO",
@@ -318,14 +383,19 @@
 			"slug":"journey-2-the-mysterious-island"
 		},
 		{
+			"title":"A Trash Truck Christmas",
+			"gatsby_image_path":"..\/..\/images\/a-trash-truck-christmas.jpg",
+			"slug":"a-trash-truck-christmas"
+		},
+		{
+			"title":"Night at the Museum: Battle of the Smithsonian",
+			"gatsby_image_path":"..\/..\/images\/night-at-the-museum-battle-of-the-smithsonian.jpg",
+			"slug":"night-at-the-museum-battle-of-the-smithsonian"
+		},
+		{
 			"title":"Final Score",
 			"gatsby_image_path":"..\/..\/images\/final-score.jpg",
 			"slug":"final-score"
-		},
-		{
-			"title":"Bayala: A Magical Adventure",
-			"gatsby_image_path":"..\/..\/images\/bayala-a-magical-adventure.jpg",
-			"slug":"bayala-a-magical-adventure"
 		},
 		{
 			"title":"Penguin Bloom",
@@ -333,34 +403,14 @@
 			"slug":"penguin-bloom"
 		},
 		{
+			"title":"Bayala: A Magical Adventure",
+			"gatsby_image_path":"..\/..\/images\/bayala-a-magical-adventure.jpg",
+			"slug":"bayala-a-magical-adventure"
+		},
+		{
 			"title":"La Casa",
 			"gatsby_image_path":"..\/..\/images\/la-casa.jpg",
 			"slug":"la-casa"
-		},
-		{
-			"title":"Psycho-Pass 3: First Inspector",
-			"gatsby_image_path":"..\/..\/images\/psycho-pass-3-first-inspector.jpg",
-			"slug":"psycho-pass-3-first-inspector"
-		},
-		{
-			"title":"The Aristocats",
-			"gatsby_image_path":"..\/..\/images\/the-aristocats.jpg",
-			"slug":"the-aristocats"
-		},
-		{
-			"title":"Parasite",
-			"gatsby_image_path":"..\/..\/images\/parasite.jpg",
-			"slug":"parasite"
-		},
-		{
-			"title":"Coming 2 America",
-			"gatsby_image_path":"..\/..\/images\/coming-2-america.jpg",
-			"slug":"coming-2-america"
-		},
-		{
-			"title":"Bad Sister",
-			"gatsby_image_path":"..\/..\/images\/bad-sister.jpg",
-			"slug":"bad-sister"
 		}
 	],
 	"tmdb_id":431819,

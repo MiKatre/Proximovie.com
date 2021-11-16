@@ -89,6 +89,11 @@
 			"slug":"the-little-vampire"
 		},
 		{
+			"title":"The Lion King",
+			"gatsby_image_path":"..\/..\/images\/the-lion-king.jpg",
+			"slug":"the-lion-king"
+		},
+		{
 			"title":"The Lion King II: Simba's Pride",
 			"gatsby_image_path":"..\/..\/images\/the-lion-king-ii-simba-s-pride.jpg",
 			"slug":"the-lion-king-ii-simba-s-pride"
@@ -102,6 +107,51 @@
 			"title":"The Hangover",
 			"gatsby_image_path":"..\/..\/images\/the-hangover.jpg",
 			"slug":"the-hangover"
+		},
+		{
+			"title":"The Good Dinosaur",
+			"gatsby_image_path":"..\/..\/images\/the-good-dinosaur.jpg",
+			"slug":"the-good-dinosaur"
+		},
+		{
+			"title":"Tall Girl",
+			"gatsby_image_path":"..\/..\/images\/tall-girl.jpg",
+			"slug":"tall-girl"
+		},
+		{
+			"title":"Monsters vs Aliens",
+			"gatsby_image_path":"..\/..\/images\/monsters-vs-aliens.jpg",
+			"slug":"monsters-vs-aliens"
+		},
+		{
+			"title":"Hercules",
+			"gatsby_image_path":"..\/..\/images\/hercules.jpg",
+			"slug":"hercules"
+		},
+		{
+			"title":"Cowboys",
+			"gatsby_image_path":"..\/..\/images\/cowboys.jpg",
+			"slug":"cowboys"
+		},
+		{
+			"title":"Beetlejuice",
+			"gatsby_image_path":"..\/..\/images\/beetlejuice.jpg",
+			"slug":"beetlejuice"
+		},
+		{
+			"title":"Back to the Future",
+			"gatsby_image_path":"..\/..\/images\/back-to-the-future.jpg",
+			"slug":"back-to-the-future"
+		},
+		{
+			"title":"Ava",
+			"gatsby_image_path":"..\/..\/images\/ava.jpg",
+			"slug":"ava"
+		},
+		{
+			"title":"Astro Boy",
+			"gatsby_image_path":"..\/..\/images\/astro-boy.jpg",
+			"slug":"astro-boy"
 		}
 	],
 	"related_most_similar":[
@@ -270,6 +320,16 @@
 			"slug":"the-little-vampire"
 		},
 		{
+			"title":"Mickey's Tale of Two Witches",
+			"gatsby_image_path":"..\/..\/images\/mickey-s-tale-of-two-witches.jpg",
+			"slug":"mickey-s-tale-of-two-witches"
+		},
+		{
+			"title":"Son of the Mask",
+			"gatsby_image_path":"..\/..\/images\/son-of-the-mask.jpg",
+			"slug":"son-of-the-mask"
+		},
+		{
 			"title":"The Goonies",
 			"gatsby_image_path":"..\/..\/images\/the-goonies.jpg",
 			"slug":"the-goonies"
@@ -280,9 +340,9 @@
 			"slug":"tad-the-lost-explorer"
 		},
 		{
-			"title":"Pinocchio",
-			"gatsby_image_path":"..\/..\/images\/pinocchio.jpg",
-			"slug":"pinocchio"
+			"title":"Jingle All the Way",
+			"gatsby_image_path":"..\/..\/images\/jingle-all-the-way.jpg",
+			"slug":"jingle-all-the-way"
 		},
 		{
 			"title":"Toy Story",
@@ -290,14 +350,14 @@
 			"slug":"toy-story"
 		},
 		{
+			"title":"Pinocchio",
+			"gatsby_image_path":"..\/..\/images\/pinocchio.jpg",
+			"slug":"pinocchio"
+		},
+		{
 			"title":"Love and Monsters",
 			"gatsby_image_path":"..\/..\/images\/love-and-monsters.jpg",
 			"slug":"love-and-monsters"
-		},
-		{
-			"title":"Dumbo",
-			"gatsby_image_path":"..\/..\/images\/dumbo.jpg",
-			"slug":"dumbo"
 		},
 		{
 			"title":"Tinker Bell and the Pirate Fairy",
@@ -315,14 +375,14 @@
 			"slug":"the-secret-life-of-pets-2"
 		},
 		{
-			"title":"Goosebumps",
-			"gatsby_image_path":"..\/..\/images\/goosebumps.jpg",
-			"slug":"goosebumps"
-		},
-		{
 			"title":"Bee Movie",
 			"gatsby_image_path":"..\/..\/images\/bee-movie.jpg",
 			"slug":"bee-movie"
+		},
+		{
+			"title":"Goosebumps",
+			"gatsby_image_path":"..\/..\/images\/goosebumps.jpg",
+			"slug":"goosebumps"
 		},
 		{
 			"title":"Peter Pan",
@@ -330,19 +390,14 @@
 			"slug":"peter-pan"
 		},
 		{
-			"title":"Cats & Dogs",
-			"gatsby_image_path":"..\/..\/images\/cats-dogs.jpg",
-			"slug":"cats-dogs"
-		},
-		{
 			"title":"Barbie as Rapunzel",
 			"gatsby_image_path":"..\/..\/images\/barbie-as-rapunzel.jpg",
 			"slug":"barbie-as-rapunzel"
 		},
 		{
-			"title":"We Bare Bears: The Movie",
-			"gatsby_image_path":"..\/..\/images\/we-bare-bears-the-movie.jpg",
-			"slug":"we-bare-bears-the-movie"
+			"title":"Cats & Dogs",
+			"gatsby_image_path":"..\/..\/images\/cats-dogs.jpg",
+			"slug":"cats-dogs"
 		},
 		{
 			"title":"Harry Potter and the Goblet of Fire",
@@ -350,14 +405,9 @@
 			"slug":"harry-potter-and-the-goblet-of-fire"
 		},
 		{
-			"title":"Harry Potter and the Philosopher's Stone",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher-s-stone.jpg",
-			"slug":"harry-potter-and-the-philosopher-s-stone"
-		},
-		{
-			"title":"Bolt",
-			"gatsby_image_path":"..\/..\/images\/bolt.jpg",
-			"slug":"bolt"
+			"title":"We Bare Bears: The Movie",
+			"gatsby_image_path":"..\/..\/images\/we-bare-bears-the-movie.jpg",
+			"slug":"we-bare-bears-the-movie"
 		}
 	],
 	"tmdb_id":10996,

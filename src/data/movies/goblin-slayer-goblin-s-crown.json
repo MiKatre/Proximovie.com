@@ -60,6 +60,11 @@
 			"slug":"the-seven-deadly-sins-the-movie-cursed-by-light"
 		},
 		{
+			"title":"The Seven Deadly Sins: Cursed by Light",
+			"gatsby_image_path":"..\/..\/images\/the-seven-deadly-sins-cursed-by-light.jpg",
+			"slug":"the-seven-deadly-sins-cursed-by-light"
+		},
+		{
 			"title":"Rascal Does Not Dream of a Dreaming Girl",
 			"gatsby_image_path":"..\/..\/images\/rascal-does-not-dream-of-a-dreaming-girl.jpg",
 			"slug":"rascal-does-not-dream-of-a-dreaming-girl"
@@ -98,6 +103,51 @@
 			"title":"Psycho-Pass 3: First Inspector",
 			"gatsby_image_path":"..\/..\/images\/psycho-pass-3-first-inspector.jpg",
 			"slug":"psycho-pass-3-first-inspector"
+		},
+		{
+			"title":"No Game No Life: Zero",
+			"gatsby_image_path":"..\/..\/images\/no-game-no-life-zero.jpg",
+			"slug":"no-game-no-life-zero"
+		},
+		{
+			"title":"Naruto Shippuden the Movie: Blood Prison",
+			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-blood-prison.jpg",
+			"slug":"naruto-shippuden-the-movie-blood-prison"
+		},
+		{
+			"title":"Magical Girl Lyrical Nanoha: Detonation",
+			"gatsby_image_path":"..\/..\/images\/magical-girl-lyrical-nanoha-detonation.jpg",
+			"slug":"magical-girl-lyrical-nanoha-detonation"
+		},
+		{
+			"title":"Kingsglaive: Final Fantasy XV",
+			"gatsby_image_path":"..\/..\/images\/kingsglaive-final-fantasy-xv.jpg",
+			"slug":"kingsglaive-final-fantasy-xv"
+		},
+		{
+			"title":"Kabaneri of the Iron Fortress: The Battle of Unato",
+			"gatsby_image_path":"..\/..\/images\/kabaneri-of-the-iron-fortress-the-battle-of-unato.jpg",
+			"slug":"kabaneri-of-the-iron-fortress-the-battle-of-unato"
+		},
+		{
+			"title":"Jujutsu Kaisen 0: The Movie",
+			"gatsby_image_path":"..\/..\/images\/jujutsu-kaisen-0-the-movie.jpg",
+			"slug":"jujutsu-kaisen-0-the-movie"
+		},
+		{
+			"title":"Heaven's Lost Property Final – The Movie: Eternally My Master",
+			"gatsby_image_path":"..\/..\/images\/heaven-s-lost-property-final-the-movie-eternally-my-master.jpg",
+			"slug":"heaven-s-lost-property-final-the-movie-eternally-my-master"
+		},
+		{
+			"title":"Grisaia: Phantom Trigger The Animation",
+			"gatsby_image_path":"..\/..\/images\/grisaia-phantom-trigger-the-animation.jpg",
+			"slug":"grisaia-phantom-trigger-the-animation"
+		},
+		{
+			"title":"Fairy Tail: Dragon Cry",
+			"gatsby_image_path":"..\/..\/images\/fairy-tail-dragon-cry.jpg",
+			"slug":"fairy-tail-dragon-cry"
 		}
 	],
 	"related_most_similar":[
@@ -261,19 +311,24 @@
 			"slug":"the-seven-deadly-sins-the-movie-cursed-by-light"
 		},
 		{
+			"title":"The Seven Deadly Sins: Cursed by Light",
+			"gatsby_image_path":"..\/..\/images\/the-seven-deadly-sins-cursed-by-light.jpg",
+			"slug":"the-seven-deadly-sins-cursed-by-light"
+		},
+		{
 			"title":"Pokémon the Movie: Volcanion and the Mechanical Marvel",
 			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-volcanion-and-the-mechanical-marvel.jpg",
 			"slug":"pokémon-the-movie-volcanion-and-the-mechanical-marvel"
 		},
 		{
-			"title":"How to Train Your Dragon",
-			"gatsby_image_path":"..\/..\/images\/how-to-train-your-dragon.jpg",
-			"slug":"how-to-train-your-dragon"
-		},
-		{
 			"title":"How to Train Your Dragon 2",
 			"gatsby_image_path":"..\/..\/images\/how-to-train-your-dragon-2.jpg",
 			"slug":"how-to-train-your-dragon-2"
+		},
+		{
+			"title":"How to Train Your Dragon",
+			"gatsby_image_path":"..\/..\/images\/how-to-train-your-dragon.jpg",
+			"slug":"how-to-train-your-dragon"
 		},
 		{
 			"title":"Ice Age: Collision Course",
@@ -291,14 +346,14 @@
 			"slug":"harry-potter-and-the-deathly-hallows-part-2"
 		},
 		{
+			"title":"The Scorpion King 3: Battle for Redemption",
+			"gatsby_image_path":"..\/..\/images\/the-scorpion-king-3-battle-for-redemption.jpg",
+			"slug":"the-scorpion-king-3-battle-for-redemption"
+		},
+		{
 			"title":"The Lord of the Rings: The Return of the King",
 			"gatsby_image_path":"..\/..\/images\/the-lord-of-the-rings-the-return-of-the-king.jpg",
 			"slug":"the-lord-of-the-rings-the-return-of-the-king"
-		},
-		{
-			"title":"Soul",
-			"gatsby_image_path":"..\/..\/images\/soul.jpg",
-			"slug":"soul"
 		},
 		{
 			"title":"Phineas and Ferb: The Movie: Candace Against the Universe",
@@ -306,9 +361,9 @@
 			"slug":"phineas-and-ferb-the-movie-candace-against-the-universe"
 		},
 		{
-			"title":"Freddy vs. Jason",
-			"gatsby_image_path":"..\/..\/images\/freddy-vs.-jason.jpg",
-			"slug":"freddy-vs.-jason"
+			"title":"Soul",
+			"gatsby_image_path":"..\/..\/images\/soul.jpg",
+			"slug":"soul"
 		},
 		{
 			"title":"Ice Age",
@@ -316,14 +371,24 @@
 			"slug":"ice-age"
 		},
 		{
+			"title":"Space Sweepers",
+			"gatsby_image_path":"..\/..\/images\/space-sweepers.jpg",
+			"slug":"space-sweepers"
+		},
+		{
+			"title":"Underworld: Awakening",
+			"gatsby_image_path":"..\/..\/images\/underworld-awakening.jpg",
+			"slug":"underworld-awakening"
+		},
+		{
+			"title":"Freddy vs. Jason",
+			"gatsby_image_path":"..\/..\/images\/freddy-vs.-jason.jpg",
+			"slug":"freddy-vs.-jason"
+		},
+		{
 			"title":"Abominable",
 			"gatsby_image_path":"..\/..\/images\/abominable.jpg",
 			"slug":"abominable"
-		},
-		{
-			"title":"Miraculous World: New York, United HeroeZ",
-			"gatsby_image_path":"..\/..\/images\/miraculous-world-new-york-united-heroez.jpg",
-			"slug":"miraculous-world-new-york-united-heroez"
 		},
 		{
 			"title":"The Hobbit: The Desolation of Smaug",
@@ -331,29 +396,14 @@
 			"slug":"the-hobbit-the-desolation-of-smaug"
 		},
 		{
-			"title":"Space Sweepers",
-			"gatsby_image_path":"..\/..\/images\/space-sweepers.jpg",
-			"slug":"space-sweepers"
+			"title":"Miraculous World: New York, United HeroeZ",
+			"gatsby_image_path":"..\/..\/images\/miraculous-world-new-york-united-heroez.jpg",
+			"slug":"miraculous-world-new-york-united-heroez"
 		},
 		{
-			"title":"Goosebumps 2: Haunted Halloween",
-			"gatsby_image_path":"..\/..\/images\/goosebumps-2-haunted-halloween.jpg",
-			"slug":"goosebumps-2-haunted-halloween"
-		},
-		{
-			"title":"Maya the Bee: The Golden Orb",
-			"gatsby_image_path":"..\/..\/images\/maya-the-bee-the-golden-orb.jpg",
-			"slug":"maya-the-bee-the-golden-orb"
-		},
-		{
-			"title":"Secret Society of Second Born Royals",
-			"gatsby_image_path":"..\/..\/images\/secret-society-of-second-born-royals.jpg",
-			"slug":"secret-society-of-second-born-royals"
-		},
-		{
-			"title":"Saw III",
-			"gatsby_image_path":"..\/..\/images\/saw-iii.jpg",
-			"slug":"saw-iii"
+			"title":"Codename: Kids Next Door - Operation Z.E.R.O.",
+			"gatsby_image_path":"..\/..\/images\/codename-kids-next-door-operation-z.e.r.o..jpg",
+			"slug":"codename-kids-next-door-operation-z.e.r.o."
 		}
 	],
 	"tmdb_id":631132,

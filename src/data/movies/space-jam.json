@@ -74,9 +74,9 @@
 			"slug":"toy-story-2"
 		},
 		{
-			"title":"The Jungle Book",
-			"gatsby_image_path":"..\/..\/images\/the-jungle-book.jpg",
-			"slug":"the-jungle-book"
+			"title":"The Monuments Men",
+			"gatsby_image_path":"..\/..\/images\/the-monuments-men.jpg",
+			"slug":"the-monuments-men"
 		},
 		{
 			"title":"Texas Chainsaw 3D",
@@ -89,9 +89,9 @@
 			"slug":"tarzan"
 		},
 		{
-			"title":"Ghostbusters",
-			"gatsby_image_path":"..\/..\/images\/ghostbusters.jpg",
-			"slug":"ghostbusters"
+			"title":"Ghostbusters II",
+			"gatsby_image_path":"..\/..\/images\/ghostbusters-ii.jpg",
+			"slug":"ghostbusters-ii"
 		},
 		{
 			"title":"Ghostbusters: Afterlife",
@@ -102,6 +102,56 @@
 			"title":"Garfield",
 			"gatsby_image_path":"..\/..\/images\/garfield.jpg",
 			"slug":"garfield"
+		},
+		{
+			"title":"Bad Boys",
+			"gatsby_image_path":"..\/..\/images\/bad-boys.jpg",
+			"slug":"bad-boys"
+		},
+		{
+			"title":"Bad Boys II",
+			"gatsby_image_path":"..\/..\/images\/bad-boys-ii.jpg",
+			"slug":"bad-boys-ii"
+		},
+		{
+			"title":"Bad Boys for Life",
+			"gatsby_image_path":"..\/..\/images\/bad-boys-for-life.jpg",
+			"slug":"bad-boys-for-life"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland: Double Tap",
+			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
+			"slug":"zombieland-double-tap"
+		},
+		{
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
+		},
+		{
+			"title":"Zack Snyder's Justice League",
+			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
+			"slug":"zack-snyder-s-justice-league"
+		},
+		{
+			"title":"Zack and Miri Make a Porno",
+			"gatsby_image_path":"..\/..\/images\/zack-and-miri-make-a-porno.jpg",
+			"slug":"zack-and-miri-make-a-porno"
+		},
+		{
+			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
+			"gatsby_image_path":"..\/..\/images\/yu-gi-oh-the-dark-side-of-dimensions.jpg",
+			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		}
 	],
 	"related_most_similar":[
@@ -265,6 +315,11 @@
 			"slug":"the-angry-birds-movie"
 		},
 		{
+			"title":"Vacation",
+			"gatsby_image_path":"..\/..\/images\/vacation.jpg",
+			"slug":"vacation"
+		},
+		{
 			"title":"Shrek",
 			"gatsby_image_path":"..\/..\/images\/shrek.jpg",
 			"slug":"shrek"
@@ -273,6 +328,11 @@
 			"title":"Finding Nemo",
 			"gatsby_image_path":"..\/..\/images\/finding-nemo.jpg",
 			"slug":"finding-nemo"
+		},
+		{
+			"title":"The Smurfs",
+			"gatsby_image_path":"..\/..\/images\/the-smurfs.jpg",
+			"slug":"the-smurfs"
 		},
 		{
 			"title":"Dogwashers",
@@ -330,24 +390,9 @@
 			"slug":"addams-family-values"
 		},
 		{
-			"title":"Pirates of the Caribbean: Dead Men Tell No Tales",
-			"gatsby_image_path":"..\/..\/images\/pirates-of-the-caribbean-dead-men-tell-no-tales.jpg",
-			"slug":"pirates-of-the-caribbean-dead-men-tell-no-tales"
-		},
-		{
-			"title":"Top Gun: Maverick",
-			"gatsby_image_path":"..\/..\/images\/top-gun-maverick.jpg",
-			"slug":"top-gun-maverick"
-		},
-		{
-			"title":"Aliens vs Predator: Requiem",
-			"gatsby_image_path":"..\/..\/images\/aliens-vs-predator-requiem.jpg",
-			"slug":"aliens-vs-predator-requiem"
-		},
-		{
-			"title":"An Optical Illusion - Interval",
-			"gatsby_image_path":"..\/..\/images\/an-optical-illusion-interval.jpg",
-			"slug":"an-optical-illusion-interval"
+			"title":"Harmonie",
+			"gatsby_image_path":"..\/..\/images\/harmonie.jpg",
+			"slug":"harmonie"
 		},
 		{
 			"title":"War of the Worlds",
@@ -355,9 +400,14 @@
 			"slug":"war-of-the-worlds"
 		},
 		{
-			"title":"The Hunchback of Notre Dame II",
-			"gatsby_image_path":"..\/..\/images\/the-hunchback-of-notre-dame-ii.jpg",
-			"slug":"the-hunchback-of-notre-dame-ii"
+			"title":"Pirates of the Caribbean: Dead Men Tell No Tales",
+			"gatsby_image_path":"..\/..\/images\/pirates-of-the-caribbean-dead-men-tell-no-tales.jpg",
+			"slug":"pirates-of-the-caribbean-dead-men-tell-no-tales"
+		},
+		{
+			"title":"Aliens vs Predator: Requiem",
+			"gatsby_image_path":"..\/..\/images\/aliens-vs-predator-requiem.jpg",
+			"slug":"aliens-vs-predator-requiem"
 		}
 	],
 	"tmdb_id":2300,

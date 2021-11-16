@@ -57,6 +57,11 @@
 			"slug":"despicable-me-3"
 		},
 		{
+			"title":"The Other Guys",
+			"gatsby_image_path":"..\/..\/images\/the-other-guys.jpg",
+			"slug":"the-other-guys"
+		},
+		{
 			"title":"Minions: The Rise of Gru",
 			"gatsby_image_path":"..\/..\/images\/minions-the-rise-of-gru.jpg",
 			"slug":"minions-the-rise-of-gru"
@@ -72,14 +77,29 @@
 			"slug":"despicable-me-2"
 		},
 		{
+			"title":"Tropic Thunder",
+			"gatsby_image_path":"..\/..\/images\/tropic-thunder.jpg",
+			"slug":"tropic-thunder"
+		},
+		{
 			"title":"Top Gun: Maverick",
 			"gatsby_image_path":"..\/..\/images\/top-gun-maverick.jpg",
 			"slug":"top-gun-maverick"
 		},
 		{
+			"title":"The Warrior's Way",
+			"gatsby_image_path":"..\/..\/images\/the-warrior-s-way.jpg",
+			"slug":"the-warrior-s-way"
+		},
+		{
 			"title":"The Town",
 			"gatsby_image_path":"..\/..\/images\/the-town.jpg",
 			"slug":"the-town"
+		},
+		{
+			"title":"The Protégé",
+			"gatsby_image_path":"..\/..\/images\/the-protégé.jpg",
+			"slug":"the-protégé"
 		},
 		{
 			"title":"The Proposal",
@@ -97,9 +117,39 @@
 			"slug":"the-help"
 		},
 		{
+			"title":"The Heat",
+			"gatsby_image_path":"..\/..\/images\/the-heat.jpg",
+			"slug":"the-heat"
+		},
+		{
 			"title":"The Flash",
 			"gatsby_image_path":"..\/..\/images\/the-flash.jpg",
 			"slug":"the-flash"
+		},
+		{
+			"title":"The Blind Side",
+			"gatsby_image_path":"..\/..\/images\/the-blind-side.jpg",
+			"slug":"the-blind-side"
+		},
+		{
+			"title":"The Addams Family",
+			"gatsby_image_path":"..\/..\/images\/the-addams-family.jpg",
+			"slug":"the-addams-family"
+		},
+		{
+			"title":"Sucker Punch",
+			"gatsby_image_path":"..\/..\/images\/sucker-punch.jpg",
+			"slug":"sucker-punch"
+		},
+		{
+			"title":"Spy",
+			"gatsby_image_path":"..\/..\/images\/spy.jpg",
+			"slug":"spy"
+		},
+		{
+			"title":"Spider-Man: Homecoming",
+			"gatsby_image_path":"..\/..\/images\/spider-man-homecoming.jpg",
+			"slug":"spider-man-homecoming"
 		}
 	],
 	"related_most_similar":[
@@ -288,19 +338,29 @@
 			"slug":"promare"
 		},
 		{
+			"title":"Avengers Grimm",
+			"gatsby_image_path":"..\/..\/images\/avengers-grimm.jpg",
+			"slug":"avengers-grimm"
+		},
+		{
 			"title":"Artemis Fowl",
 			"gatsby_image_path":"..\/..\/images\/artemis-fowl.jpg",
 			"slug":"artemis-fowl"
 		},
 		{
-			"title":"Hoodwinked Too! Hood VS. Evil",
-			"gatsby_image_path":"..\/..\/images\/hoodwinked-too-hood-vs.-evil.jpg",
-			"slug":"hoodwinked-too-hood-vs.-evil"
+			"title":"Ghostbusters II",
+			"gatsby_image_path":"..\/..\/images\/ghostbusters-ii.jpg",
+			"slug":"ghostbusters-ii"
 		},
 		{
 			"title":"Justice League: Throne of Atlantis",
 			"gatsby_image_path":"..\/..\/images\/justice-league-throne-of-atlantis.jpg",
 			"slug":"justice-league-throne-of-atlantis"
+		},
+		{
+			"title":"Hoodwinked Too! Hood VS. Evil",
+			"gatsby_image_path":"..\/..\/images\/hoodwinked-too-hood-vs.-evil.jpg",
+			"slug":"hoodwinked-too-hood-vs.-evil"
 		},
 		{
 			"title":"Terminator: Dark Fate",
@@ -323,14 +383,14 @@
 			"slug":"the-expendables"
 		},
 		{
+			"title":"Teen Titans Go! See Space Jam",
+			"gatsby_image_path":"..\/..\/images\/teen-titans-go-see-space-jam.jpg",
+			"slug":"teen-titans-go-see-space-jam"
+		},
+		{
 			"title":"Jolt",
 			"gatsby_image_path":"..\/..\/images\/jolt.jpg",
 			"slug":"jolt"
-		},
-		{
-			"title":"The Goonies",
-			"gatsby_image_path":"..\/..\/images\/the-goonies.jpg",
-			"slug":"the-goonies"
 		},
 		{
 			"title":"Justice League: War",
@@ -338,24 +398,14 @@
 			"slug":"justice-league-war"
 		},
 		{
-			"title":"Teen Titans Go! See Space Jam",
-			"gatsby_image_path":"..\/..\/images\/teen-titans-go-see-space-jam.jpg",
-			"slug":"teen-titans-go-see-space-jam"
+			"title":"Spider-Man 2",
+			"gatsby_image_path":"..\/..\/images\/spider-man-2.jpg",
+			"slug":"spider-man-2"
 		},
 		{
-			"title":"Cloudy with a Chance of Meatballs 2",
-			"gatsby_image_path":"..\/..\/images\/cloudy-with-a-chance-of-meatballs-2.jpg",
-			"slug":"cloudy-with-a-chance-of-meatballs-2"
-		},
-		{
-			"title":"Spider-Man: Far From Home",
-			"gatsby_image_path":"..\/..\/images\/spider-man-far-from-home.jpg",
-			"slug":"spider-man-far-from-home"
-		},
-		{
-			"title":"Dragon Ball Z: Lord Slug",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-lord-slug.jpg",
-			"slug":"dragon-ball-z-lord-slug"
+			"title":"The Goonies",
+			"gatsby_image_path":"..\/..\/images\/the-goonies.jpg",
+			"slug":"the-goonies"
 		}
 	],
 	"tmdb_id":211672,

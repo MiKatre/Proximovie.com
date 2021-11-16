@@ -70,6 +70,11 @@
 			"slug":"the-fault-in-our-stars"
 		},
 		{
+			"title":"Silver Linings Playbook",
+			"gatsby_image_path":"..\/..\/images\/silver-linings-playbook.jpg",
+			"slug":"silver-linings-playbook"
+		},
+		{
 			"title":"Peppermint",
 			"gatsby_image_path":"..\/..\/images\/peppermint.jpg",
 			"slug":"peppermint"
@@ -95,6 +100,11 @@
 			"slug":"breakthrough"
 		},
 		{
+			"title":"Blackhat",
+			"gatsby_image_path":"..\/..\/images\/blackhat.jpg",
+			"slug":"blackhat"
+		},
+		{
 			"title":"A Dog's Purpose",
 			"gatsby_image_path":"..\/..\/images\/a-dog-s-purpose.jpg",
 			"slug":"a-dog-s-purpose"
@@ -103,6 +113,46 @@
 			"title":"Ad Astra",
 			"gatsby_image_path":"..\/..\/images\/ad-astra.jpg",
 			"slug":"ad-astra"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
+			"title":"Zombieland: Double Tap",
+			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
+			"slug":"zombieland-double-tap"
+		},
+		{
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
+		},
+		{
+			"title":"Zack Snyder's Justice League",
+			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
+			"slug":"zack-snyder-s-justice-league"
+		},
+		{
+			"title":"Zack and Miri Make a Porno",
+			"gatsby_image_path":"..\/..\/images\/zack-and-miri-make-a-porno.jpg",
+			"slug":"zack-and-miri-make-a-porno"
+		},
+		{
+			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
+			"gatsby_image_path":"..\/..\/images\/yu-gi-oh-the-dark-side-of-dimensions.jpg",
+			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		}
 	],
 	"related_most_similar":[
@@ -261,6 +311,11 @@
 	],
 	"related_by_overview":[
 		{
+			"title":"The Scorpion King 3: Battle for Redemption",
+			"gatsby_image_path":"..\/..\/images\/the-scorpion-king-3-battle-for-redemption.jpg",
+			"slug":"the-scorpion-king-3-battle-for-redemption"
+		},
+		{
 			"title":"Jeepers Creepers 2",
 			"gatsby_image_path":"..\/..\/images\/jeepers-creepers-2.jpg",
 			"slug":"jeepers-creepers-2"
@@ -274,6 +329,11 @@
 			"title":"Deep Blue Sea 3",
 			"gatsby_image_path":"..\/..\/images\/deep-blue-sea-3.jpg",
 			"slug":"deep-blue-sea-3"
+		},
+		{
+			"title":"Friday the 13th Part VII: The New Blood",
+			"gatsby_image_path":"..\/..\/images\/friday-the-13th-part-vii-the-new-blood.jpg",
+			"slug":"friday-the-13th-part-vii-the-new-blood"
 		},
 		{
 			"title":"Hitman's Wife's Bodyguard",
@@ -311,6 +371,21 @@
 			"slug":"cars"
 		},
 		{
+			"title":"Cowboys & Aliens",
+			"gatsby_image_path":"..\/..\/images\/cowboys-aliens.jpg",
+			"slug":"cowboys-aliens"
+		},
+		{
+			"title":"Jurassic World",
+			"gatsby_image_path":"..\/..\/images\/jurassic-world.jpg",
+			"slug":"jurassic-world"
+		},
+		{
+			"title":"Halloween 5: The Revenge of Michael Myers",
+			"gatsby_image_path":"..\/..\/images\/halloween-5-the-revenge-of-michael-myers.jpg",
+			"slug":"halloween-5-the-revenge-of-michael-myers"
+		},
+		{
 			"title":"Se7en",
 			"gatsby_image_path":"..\/..\/images\/se7en.jpg",
 			"slug":"se7en"
@@ -319,16 +394,6 @@
 			"title":"Terminator Salvation",
 			"gatsby_image_path":"..\/..\/images\/terminator-salvation.jpg",
 			"slug":"terminator-salvation"
-		},
-		{
-			"title":"The Kitchen",
-			"gatsby_image_path":"..\/..\/images\/the-kitchen.jpg",
-			"slug":"the-kitchen"
-		},
-		{
-			"title":"Ice Age",
-			"gatsby_image_path":"..\/..\/images\/ice-age.jpg",
-			"slug":"ice-age"
 		},
 		{
 			"title":"Iron Mask",
@@ -341,24 +406,9 @@
 			"slug":"the-last-sharknado-it-s-about-time"
 		},
 		{
-			"title":"The Evil Dead",
-			"gatsby_image_path":"..\/..\/images\/the-evil-dead.jpg",
-			"slug":"the-evil-dead"
-		},
-		{
-			"title":"Wrong Turn 6: Last Resort",
-			"gatsby_image_path":"..\/..\/images\/wrong-turn-6-last-resort.jpg",
-			"slug":"wrong-turn-6-last-resort"
-		},
-		{
-			"title":"Jurassic World",
-			"gatsby_image_path":"..\/..\/images\/jurassic-world.jpg",
-			"slug":"jurassic-world"
-		},
-		{
-			"title":"Paranormal Activity: The Marked Ones",
-			"gatsby_image_path":"..\/..\/images\/paranormal-activity-the-marked-ones.jpg",
-			"slug":"paranormal-activity-the-marked-ones"
+			"title":"The Kitchen",
+			"gatsby_image_path":"..\/..\/images\/the-kitchen.jpg",
+			"slug":"the-kitchen"
 		}
 	],
 	"tmdb_id":440,

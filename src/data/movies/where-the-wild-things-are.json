@@ -69,6 +69,11 @@
 			"slug":"the-nightmare-before-christmas"
 		},
 		{
+			"title":"The Experiment",
+			"gatsby_image_path":"..\/..\/images\/the-experiment.jpg",
+			"slug":"the-experiment"
+		},
+		{
 			"title":"The Croods",
 			"gatsby_image_path":"..\/..\/images\/the-croods.jpg",
 			"slug":"the-croods"
@@ -82,6 +87,11 @@
 			"title":"The Avengers",
 			"gatsby_image_path":"..\/..\/images\/the-avengers.jpg",
 			"slug":"the-avengers"
+		},
+		{
+			"title":"The Addams Family",
+			"gatsby_image_path":"..\/..\/images\/the-addams-family.jpg",
+			"slug":"the-addams-family"
 		},
 		{
 			"title":"Taken 3",
@@ -102,6 +112,46 @@
 			"title":"Shutter Island",
 			"gatsby_image_path":"..\/..\/images\/shutter-island.jpg",
 			"slug":"shutter-island"
+		},
+		{
+			"title":"Rogue One: A Star Wars Story",
+			"gatsby_image_path":"..\/..\/images\/rogue-one-a-star-wars-story.jpg",
+			"slug":"rogue-one-a-star-wars-story"
+		},
+		{
+			"title":"Percy Jackson & the Olympians: The Lightning Thief",
+			"gatsby_image_path":"..\/..\/images\/percy-jackson-the-olympians-the-lightning-thief.jpg",
+			"slug":"percy-jackson-the-olympians-the-lightning-thief"
+		},
+		{
+			"title":"Now You See Me",
+			"gatsby_image_path":"..\/..\/images\/now-you-see-me.jpg",
+			"slug":"now-you-see-me"
+		},
+		{
+			"title":"Now You See Me 2",
+			"gatsby_image_path":"..\/..\/images\/now-you-see-me-2.jpg",
+			"slug":"now-you-see-me-2"
+		},
+		{
+			"title":"Monster House",
+			"gatsby_image_path":"..\/..\/images\/monster-house.jpg",
+			"slug":"monster-house"
+		},
+		{
+			"title":"Mary Magdalene",
+			"gatsby_image_path":"..\/..\/images\/mary-magdalene.jpg",
+			"slug":"mary-magdalene"
+		},
+		{
+			"title":"Jingle Jangle: A Christmas Journey",
+			"gatsby_image_path":"..\/..\/images\/jingle-jangle-a-christmas-journey.jpg",
+			"slug":"jingle-jangle-a-christmas-journey"
+		},
+		{
+			"title":"Incredibles 2",
+			"gatsby_image_path":"..\/..\/images\/incredibles-2.jpg",
+			"slug":"incredibles-2"
 		}
 	],
 	"related_most_similar":[
@@ -265,11 +315,6 @@
 			"slug":"arlo-the-alligator-boy"
 		},
 		{
-			"title":"Friday the 13th",
-			"gatsby_image_path":"..\/..\/images\/friday-the-13th.jpg",
-			"slug":"friday-the-13th"
-		},
-		{
 			"title":"Finding Dory",
 			"gatsby_image_path":"..\/..\/images\/finding-dory.jpg",
 			"slug":"finding-dory"
@@ -278,6 +323,16 @@
 			"title":"Howl's Moving Castle",
 			"gatsby_image_path":"..\/..\/images\/howl-s-moving-castle.jpg",
 			"slug":"howl-s-moving-castle"
+		},
+		{
+			"title":"Suspiria",
+			"gatsby_image_path":"..\/..\/images\/suspiria.jpg",
+			"slug":"suspiria"
+		},
+		{
+			"title":"Solitary",
+			"gatsby_image_path":"..\/..\/images\/solitary.jpg",
+			"slug":"solitary"
 		},
 		{
 			"title":"Timmy Failure: Mistakes Were Made",
@@ -290,34 +345,9 @@
 			"slug":"camp-cool-kids"
 		},
 		{
-			"title":"Jumanji: Level One",
-			"gatsby_image_path":"..\/..\/images\/jumanji-level-one.jpg",
-			"slug":"jumanji-level-one"
-		},
-		{
-			"title":"Wizards of Waverly Place: The Movie",
-			"gatsby_image_path":"..\/..\/images\/wizards-of-waverly-place-the-movie.jpg",
-			"slug":"wizards-of-waverly-place-the-movie"
-		},
-		{
-			"title":"Harry Potter and the Prisoner of Azkaban",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-prisoner-of-azkaban.jpg",
-			"slug":"harry-potter-and-the-prisoner-of-azkaban"
-		},
-		{
-			"title":"The Mortuary Collection",
-			"gatsby_image_path":"..\/..\/images\/the-mortuary-collection.jpg",
-			"slug":"the-mortuary-collection"
-		},
-		{
 			"title":"Ted",
 			"gatsby_image_path":"..\/..\/images\/ted.jpg",
 			"slug":"ted"
-		},
-		{
-			"title":"The Iron Giant",
-			"gatsby_image_path":"..\/..\/images\/the-iron-giant.jpg",
-			"slug":"the-iron-giant"
 		},
 		{
 			"title":"The Darkest Minds",
@@ -325,9 +355,34 @@
 			"slug":"the-darkest-minds"
 		},
 		{
-			"title":"The Hobbit: An Unexpected Journey",
-			"gatsby_image_path":"..\/..\/images\/the-hobbit-an-unexpected-journey.jpg",
-			"slug":"the-hobbit-an-unexpected-journey"
+			"title":"Jumanji: Level One",
+			"gatsby_image_path":"..\/..\/images\/jumanji-level-one.jpg",
+			"slug":"jumanji-level-one"
+		},
+		{
+			"title":"Harry Potter and the Prisoner of Azkaban",
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-prisoner-of-azkaban.jpg",
+			"slug":"harry-potter-and-the-prisoner-of-azkaban"
+		},
+		{
+			"title":"Wizards of Waverly Place: The Movie",
+			"gatsby_image_path":"..\/..\/images\/wizards-of-waverly-place-the-movie.jpg",
+			"slug":"wizards-of-waverly-place-the-movie"
+		},
+		{
+			"title":"The Iron Giant",
+			"gatsby_image_path":"..\/..\/images\/the-iron-giant.jpg",
+			"slug":"the-iron-giant"
+		},
+		{
+			"title":"Knowing",
+			"gatsby_image_path":"..\/..\/images\/knowing.jpg",
+			"slug":"knowing"
+		},
+		{
+			"title":"The Mortuary Collection",
+			"gatsby_image_path":"..\/..\/images\/the-mortuary-collection.jpg",
+			"slug":"the-mortuary-collection"
 		},
 		{
 			"title":"Madagascar",
@@ -335,14 +390,14 @@
 			"slug":"madagascar"
 		},
 		{
+			"title":"The Hobbit: An Unexpected Journey",
+			"gatsby_image_path":"..\/..\/images\/the-hobbit-an-unexpected-journey.jpg",
+			"slug":"the-hobbit-an-unexpected-journey"
+		},
+		{
 			"title":"The Help",
 			"gatsby_image_path":"..\/..\/images\/the-help.jpg",
 			"slug":"the-help"
-		},
-		{
-			"title":"Bayala: A Magical Adventure",
-			"gatsby_image_path":"..\/..\/images\/bayala-a-magical-adventure.jpg",
-			"slug":"bayala-a-magical-adventure"
 		},
 		{
 			"title":"Rings",
@@ -353,11 +408,6 @@
 			"title":"The Father",
 			"gatsby_image_path":"..\/..\/images\/the-father.jpg",
 			"slug":"the-father"
-		},
-		{
-			"title":"The Ridiculous 6",
-			"gatsby_image_path":"..\/..\/images\/the-ridiculous-6.jpg",
-			"slug":"the-ridiculous-6"
 		}
 	],
 	"tmdb_id":16523,

@@ -53,9 +53,14 @@
 	],
 	"related_by_cast":[
 		{
-			"title":"Ghostbusters",
-			"gatsby_image_path":"..\/..\/images\/ghostbusters.jpg",
-			"slug":"ghostbusters"
+			"title":"Ghostbusters II",
+			"gatsby_image_path":"..\/..\/images\/ghostbusters-ii.jpg",
+			"slug":"ghostbusters-ii"
+		},
+		{
+			"title":"Ghostheads",
+			"gatsby_image_path":"..\/..\/images\/ghostheads.jpg",
+			"slug":"ghostheads"
 		},
 		{
 			"title":"Zombieland",
@@ -88,9 +93,14 @@
 			"slug":"toy-story-2"
 		},
 		{
-			"title":"The Jungle Book",
-			"gatsby_image_path":"..\/..\/images\/the-jungle-book.jpg",
-			"slug":"the-jungle-book"
+			"title":"The Substitute",
+			"gatsby_image_path":"..\/..\/images\/the-substitute.jpg",
+			"slug":"the-substitute"
+		},
+		{
+			"title":"The Monuments Men",
+			"gatsby_image_path":"..\/..\/images\/the-monuments-men.jpg",
+			"slug":"the-monuments-men"
 		},
 		{
 			"title":"The Cabin in the Woods",
@@ -98,9 +108,49 @@
 			"slug":"the-cabin-in-the-woods"
 		},
 		{
+			"title":"The Addams Family",
+			"gatsby_image_path":"..\/..\/images\/the-addams-family.jpg",
+			"slug":"the-addams-family"
+		},
+		{
 			"title":"Teen Titans Go! See Space Jam",
 			"gatsby_image_path":"..\/..\/images\/teen-titans-go-see-space-jam.jpg",
 			"slug":"teen-titans-go-see-space-jam"
+		},
+		{
+			"title":"Spirit Untamed",
+			"gatsby_image_path":"..\/..\/images\/spirit-untamed.jpg",
+			"slug":"spirit-untamed"
+		},
+		{
+			"title":"Space Jam",
+			"gatsby_image_path":"..\/..\/images\/space-jam.jpg",
+			"slug":"space-jam"
+		},
+		{
+			"title":"Sausage Party",
+			"gatsby_image_path":"..\/..\/images\/sausage-party.jpg",
+			"slug":"sausage-party"
+		},
+		{
+			"title":"Role Models",
+			"gatsby_image_path":"..\/..\/images\/role-models.jpg",
+			"slug":"role-models"
+		},
+		{
+			"title":"Redemption Day",
+			"gatsby_image_path":"..\/..\/images\/redemption-day.jpg",
+			"slug":"redemption-day"
+		},
+		{
+			"title":"Pixels",
+			"gatsby_image_path":"..\/..\/images\/pixels.jpg",
+			"slug":"pixels"
+		},
+		{
+			"title":"My Salinger Year",
+			"gatsby_image_path":"..\/..\/images\/my-salinger-year.jpg",
+			"slug":"my-salinger-year"
 		}
 	],
 	"related_most_similar":[
@@ -269,14 +319,14 @@
 			"slug":"sucker-punch"
 		},
 		{
+			"title":"The Conjuring",
+			"gatsby_image_path":"..\/..\/images\/the-conjuring.jpg",
+			"slug":"the-conjuring"
+		},
+		{
 			"title":"The Autopsy of Jane Doe",
 			"gatsby_image_path":"..\/..\/images\/the-autopsy-of-jane-doe.jpg",
 			"slug":"the-autopsy-of-jane-doe"
-		},
-		{
-			"title":"A Babysitter's Guide to Monster Hunting",
-			"gatsby_image_path":"..\/..\/images\/a-babysitter-s-guide-to-monster-hunting.jpg",
-			"slug":"a-babysitter-s-guide-to-monster-hunting"
 		},
 		{
 			"title":"Descendants",
@@ -284,19 +334,19 @@
 			"slug":"descendants"
 		},
 		{
-			"title":"The Conjuring",
-			"gatsby_image_path":"..\/..\/images\/the-conjuring.jpg",
-			"slug":"the-conjuring"
+			"title":"Ghostbusters",
+			"gatsby_image_path":"..\/..\/images\/ghostbusters.jpg",
+			"slug":"ghostbusters"
 		},
 		{
-			"title":"Friday the 13th: The Final Chapter",
-			"gatsby_image_path":"..\/..\/images\/friday-the-13th-the-final-chapter.jpg",
-			"slug":"friday-the-13th-the-final-chapter"
+			"title":"A Babysitter's Guide to Monster Hunting",
+			"gatsby_image_path":"..\/..\/images\/a-babysitter-s-guide-to-monster-hunting.jpg",
+			"slug":"a-babysitter-s-guide-to-monster-hunting"
 		},
 		{
-			"title":"Scream",
-			"gatsby_image_path":"..\/..\/images\/scream.jpg",
-			"slug":"scream"
+			"title":"Dark Shadows",
+			"gatsby_image_path":"..\/..\/images\/dark-shadows.jpg",
+			"slug":"dark-shadows"
 		},
 		{
 			"title":"Saw 3D",
@@ -304,24 +354,39 @@
 			"slug":"saw-3d"
 		},
 		{
-			"title":"Night of the Living Dead",
-			"gatsby_image_path":"..\/..\/images\/night-of-the-living-dead.jpg",
-			"slug":"night-of-the-living-dead"
+			"title":"Madres",
+			"gatsby_image_path":"..\/..\/images\/madres.jpg",
+			"slug":"madres"
 		},
 		{
-			"title":"Flashback",
-			"gatsby_image_path":"..\/..\/images\/flashback.jpg",
-			"slug":"flashback"
+			"title":"Antlers",
+			"gatsby_image_path":"..\/..\/images\/antlers.jpg",
+			"slug":"antlers"
 		},
 		{
-			"title":"Heks",
-			"gatsby_image_path":"..\/..\/images\/heks.jpg",
-			"slug":"heks"
+			"title":"Friday the 13th: The Final Chapter",
+			"gatsby_image_path":"..\/..\/images\/friday-the-13th-the-final-chapter.jpg",
+			"slug":"friday-the-13th-the-final-chapter"
 		},
 		{
 			"title":"Reaptown",
 			"gatsby_image_path":"..\/..\/images\/reaptown.jpg",
 			"slug":"reaptown"
+		},
+		{
+			"title":"Scream",
+			"gatsby_image_path":"..\/..\/images\/scream.jpg",
+			"slug":"scream"
+		},
+		{
+			"title":"Night of the Living Dead",
+			"gatsby_image_path":"..\/..\/images\/night-of-the-living-dead.jpg",
+			"slug":"night-of-the-living-dead"
+		},
+		{
+			"title":"Escape Room: Tournament of Champions",
+			"gatsby_image_path":"..\/..\/images\/escape-room-tournament-of-champions.jpg",
+			"slug":"escape-room-tournament-of-champions"
 		},
 		{
 			"title":"The Final Destination",
@@ -334,29 +399,14 @@
 			"slug":"pets-united"
 		},
 		{
-			"title":"Escape Room: Tournament of Champions",
-			"gatsby_image_path":"..\/..\/images\/escape-room-tournament-of-champions.jpg",
-			"slug":"escape-room-tournament-of-champions"
-		},
-		{
-			"title":"Escape Room",
-			"gatsby_image_path":"..\/..\/images\/escape-room.jpg",
-			"slug":"escape-room"
-		},
-		{
 			"title":"Spy Kids 2: The Island of Lost Dreams",
 			"gatsby_image_path":"..\/..\/images\/spy-kids-2-the-island-of-lost-dreams.jpg",
 			"slug":"spy-kids-2-the-island-of-lost-dreams"
 		},
 		{
-			"title":"Jungle",
-			"gatsby_image_path":"..\/..\/images\/jungle.jpg",
-			"slug":"jungle"
-		},
-		{
-			"title":"Sinister",
-			"gatsby_image_path":"..\/..\/images\/sinister.jpg",
-			"slug":"sinister"
+			"title":"Heks",
+			"gatsby_image_path":"..\/..\/images\/heks.jpg",
+			"slug":"heks"
 		}
 	],
 	"tmdb_id":425909,

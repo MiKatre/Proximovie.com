@@ -56,6 +56,11 @@
 			"slug":"saw-v"
 		},
 		{
+			"title":"Saw VI",
+			"gatsby_image_path":"..\/..\/images\/saw-vi.jpg",
+			"slug":"saw-vi"
+		},
+		{
 			"title":"Saw III",
 			"gatsby_image_path":"..\/..\/images\/saw-iii.jpg",
 			"slug":"saw-iii"
@@ -99,6 +104,51 @@
 			"title":"P2",
 			"gatsby_image_path":"..\/..\/images\/p2.jpg",
 			"slug":"p2"
+		},
+		{
+			"title":"Jigsaw",
+			"gatsby_image_path":"..\/..\/images\/jigsaw.jpg",
+			"slug":"jigsaw"
+		},
+		{
+			"title":"Dead Silence",
+			"gatsby_image_path":"..\/..\/images\/dead-silence.jpg",
+			"slug":"dead-silence"
+		},
+		{
+			"title":"Cosmic Sin",
+			"gatsby_image_path":"..\/..\/images\/cosmic-sin.jpg",
+			"slug":"cosmic-sin"
+		},
+		{
+			"title":"Braveheart",
+			"gatsby_image_path":"..\/..\/images\/braveheart.jpg",
+			"slug":"braveheart"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
+			"title":"Zombieland: Double Tap",
+			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
+			"slug":"zombieland-double-tap"
+		},
+		{
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
 		}
 	],
 	"related_most_similar":[
@@ -267,9 +317,19 @@
 			"slug":"snake-eyes"
 		},
 		{
+			"title":"The Double",
+			"gatsby_image_path":"..\/..\/images\/the-double.jpg",
+			"slug":"the-double"
+		},
+		{
 			"title":"Die Hard",
 			"gatsby_image_path":"..\/..\/images\/die-hard.jpg",
 			"slug":"die-hard"
+		},
+		{
+			"title":"Reprisal",
+			"gatsby_image_path":"..\/..\/images\/reprisal.jpg",
+			"slug":"reprisal"
 		},
 		{
 			"title":"Wrath of Man",
@@ -277,9 +337,9 @@
 			"slug":"wrath-of-man"
 		},
 		{
-			"title":"Reprisal",
-			"gatsby_image_path":"..\/..\/images\/reprisal.jpg",
-			"slug":"reprisal"
+			"title":"The Spy Next Door",
+			"gatsby_image_path":"..\/..\/images\/the-spy-next-door.jpg",
+			"slug":"the-spy-next-door"
 		},
 		{
 			"title":"Die Hard: With a Vengeance",
@@ -297,14 +357,9 @@
 			"slug":"the-mule"
 		},
 		{
-			"title":"Security",
-			"gatsby_image_path":"..\/..\/images\/security.jpg",
-			"slug":"security"
-		},
-		{
-			"title":"The Little Things",
-			"gatsby_image_path":"..\/..\/images\/the-little-things.jpg",
-			"slug":"the-little-things"
+			"title":"Vehicle 19",
+			"gatsby_image_path":"..\/..\/images\/vehicle-19.jpg",
+			"slug":"vehicle-19"
 		},
 		{
 			"title":"Midnight in the Switchgrass",
@@ -312,19 +367,19 @@
 			"slug":"midnight-in-the-switchgrass"
 		},
 		{
+			"title":"The Little Things",
+			"gatsby_image_path":"..\/..\/images\/the-little-things.jpg",
+			"slug":"the-little-things"
+		},
+		{
 			"title":"Dark Web: Cicada 3301",
 			"gatsby_image_path":"..\/..\/images\/dark-web-cicada-3301.jpg",
 			"slug":"dark-web-cicada-3301"
 		},
 		{
-			"title":"Cold Pursuit",
-			"gatsby_image_path":"..\/..\/images\/cold-pursuit.jpg",
-			"slug":"cold-pursuit"
-		},
-		{
-			"title":"John Wick: Chapter 3 - Parabellum",
-			"gatsby_image_path":"..\/..\/images\/john-wick-chapter-3-parabellum.jpg",
-			"slug":"john-wick-chapter-3-parabellum"
+			"title":"Jason Goes to Hell: The Final Friday",
+			"gatsby_image_path":"..\/..\/images\/jason-goes-to-hell-the-final-friday.jpg",
+			"slug":"jason-goes-to-hell-the-final-friday"
 		},
 		{
 			"title":"The Town",
@@ -332,29 +387,24 @@
 			"slug":"the-town"
 		},
 		{
+			"title":"Cold Pursuit",
+			"gatsby_image_path":"..\/..\/images\/cold-pursuit.jpg",
+			"slug":"cold-pursuit"
+		},
+		{
 			"title":"Line of Duty",
 			"gatsby_image_path":"..\/..\/images\/line-of-duty.jpg",
 			"slug":"line-of-duty"
 		},
 		{
-			"title":"Men in Black 3",
-			"gatsby_image_path":"..\/..\/images\/men-in-black-3.jpg",
-			"slug":"men-in-black-3"
+			"title":"John Wick: Chapter 3 - Parabellum",
+			"gatsby_image_path":"..\/..\/images\/john-wick-chapter-3-parabellum.jpg",
+			"slug":"john-wick-chapter-3-parabellum"
 		},
 		{
-			"title":"Goosebumps",
-			"gatsby_image_path":"..\/..\/images\/goosebumps.jpg",
-			"slug":"goosebumps"
-		},
-		{
-			"title":"Ghost Rider",
-			"gatsby_image_path":"..\/..\/images\/ghost-rider.jpg",
-			"slug":"ghost-rider"
-		},
-		{
-			"title":"Pain & Gain",
-			"gatsby_image_path":"..\/..\/images\/pain-gain.jpg",
-			"slug":"pain-gain"
+			"title":"The Losers",
+			"gatsby_image_path":"..\/..\/images\/the-losers.jpg",
+			"slug":"the-losers"
 		}
 	],
 	"tmdb_id":663,

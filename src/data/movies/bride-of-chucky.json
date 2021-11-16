@@ -52,9 +52,19 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"The Legacy of Chucky",
+			"gatsby_image_path":"..\/..\/images\/the-legacy-of-chucky.jpg",
+			"slug":"the-legacy-of-chucky"
+		},
+		{
 			"title":"Seed of Chucky",
 			"gatsby_image_path":"..\/..\/images\/seed-of-chucky.jpg",
 			"slug":"seed-of-chucky"
+		},
+		{
+			"title":"Curse of Chucky",
+			"gatsby_image_path":"..\/..\/images\/curse-of-chucky.jpg",
+			"slug":"curse-of-chucky"
 		},
 		{
 			"title":"Cult of Chucky",
@@ -62,9 +72,19 @@
 			"slug":"cult-of-chucky"
 		},
 		{
+			"title":"Chucky's Vacation Slides",
+			"gatsby_image_path":"..\/..\/images\/chucky-s-vacation-slides.jpg",
+			"slug":"chucky-s-vacation-slides"
+		},
+		{
 			"title":"Unforgettable",
 			"gatsby_image_path":"..\/..\/images\/unforgettable.jpg",
 			"slug":"unforgettable"
+		},
+		{
+			"title":"The Ugly Truth",
+			"gatsby_image_path":"..\/..\/images\/the-ugly-truth.jpg",
+			"slug":"the-ugly-truth"
 		},
 		{
 			"title":"Stuart Little",
@@ -77,14 +97,44 @@
 			"slug":"monsters-inc"
 		},
 		{
+			"title":"Life As We Know It",
+			"gatsby_image_path":"..\/..\/images\/life-as-we-know-it.jpg",
+			"slug":"life-as-we-know-it"
+		},
+		{
+			"title":"Introducing Chucky: The Making of Child's Play",
+			"gatsby_image_path":"..\/..\/images\/introducing-chucky-the-making-of-child-s-play.jpg",
+			"slug":"introducing-chucky-the-making-of-child-s-play"
+		},
+		{
 			"title":"Home on the Range",
 			"gatsby_image_path":"..\/..\/images\/home-on-the-range.jpg",
 			"slug":"home-on-the-range"
 		},
 		{
+			"title":"Halloween",
+			"gatsby_image_path":"..\/..\/images\/halloween.jpg",
+			"slug":"halloween"
+		},
+		{
+			"title":"Halloween II",
+			"gatsby_image_path":"..\/..\/images\/halloween-ii.jpg",
+			"slug":"halloween-ii"
+		},
+		{
 			"title":"Fear of Rain",
 			"gatsby_image_path":"..\/..\/images\/fear-of-rain.jpg",
 			"slug":"fear-of-rain"
+		},
+		{
+			"title":"Dune",
+			"gatsby_image_path":"..\/..\/images\/dune.jpg",
+			"slug":"dune"
+		},
+		{
+			"title":"Child's Play",
+			"gatsby_image_path":"..\/..\/images\/child-s-play.jpg",
+			"slug":"child-s-play"
 		},
 		{
 			"title":"Child's Play 3",
@@ -258,19 +308,14 @@
 	],
 	"related_by_overview":[
 		{
-			"title":"Ghostbusters",
-			"gatsby_image_path":"..\/..\/images\/ghostbusters.jpg",
-			"slug":"ghostbusters"
-		},
-		{
 			"title":"The Nightmare Before Christmas",
 			"gatsby_image_path":"..\/..\/images\/the-nightmare-before-christmas.jpg",
 			"slug":"the-nightmare-before-christmas"
 		},
 		{
-			"title":"The Autopsy of Jane Doe",
-			"gatsby_image_path":"..\/..\/images\/the-autopsy-of-jane-doe.jpg",
-			"slug":"the-autopsy-of-jane-doe"
+			"title":"Everly",
+			"gatsby_image_path":"..\/..\/images\/everly.jpg",
+			"slug":"everly"
 		},
 		{
 			"title":"Jaws",
@@ -283,9 +328,29 @@
 			"slug":"a-babysitter-s-guide-to-monster-hunting"
 		},
 		{
+			"title":"Ghostbusters",
+			"gatsby_image_path":"..\/..\/images\/ghostbusters.jpg",
+			"slug":"ghostbusters"
+		},
+		{
+			"title":"Miss March",
+			"gatsby_image_path":"..\/..\/images\/miss-march.jpg",
+			"slug":"miss-march"
+		},
+		{
 			"title":"Harry Potter and the Deathly Hallows: Part 1",
 			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-deathly-hallows-part-1.jpg",
 			"slug":"harry-potter-and-the-deathly-hallows-part-1"
+		},
+		{
+			"title":"The Autopsy of Jane Doe",
+			"gatsby_image_path":"..\/..\/images\/the-autopsy-of-jane-doe.jpg",
+			"slug":"the-autopsy-of-jane-doe"
+		},
+		{
+			"title":"Sleepy Hollow",
+			"gatsby_image_path":"..\/..\/images\/sleepy-hollow.jpg",
+			"slug":"sleepy-hollow"
 		},
 		{
 			"title":"A Cinderella Story: Christmas Wish",
@@ -303,6 +368,11 @@
 			"slug":"mean-girls"
 		},
 		{
+			"title":"Candyman",
+			"gatsby_image_path":"..\/..\/images\/candyman.jpg",
+			"slug":"candyman"
+		},
+		{
 			"title":"Friday the 13th: The Final Chapter",
 			"gatsby_image_path":"..\/..\/images\/friday-the-13th-the-final-chapter.jpg",
 			"slug":"friday-the-13th-the-final-chapter"
@@ -313,9 +383,9 @@
 			"slug":"scream"
 		},
 		{
-			"title":"Beverly Hills Chihuahua",
-			"gatsby_image_path":"..\/..\/images\/beverly-hills-chihuahua.jpg",
-			"slug":"beverly-hills-chihuahua"
+			"title":"Under Wraps",
+			"gatsby_image_path":"..\/..\/images\/under-wraps.jpg",
+			"slug":"under-wraps"
 		},
 		{
 			"title":"Return of the Living Dead III",
@@ -323,9 +393,9 @@
 			"slug":"return-of-the-living-dead-iii"
 		},
 		{
-			"title":"Bordello of Blood",
-			"gatsby_image_path":"..\/..\/images\/bordello-of-blood.jpg",
-			"slug":"bordello-of-blood"
+			"title":"Beverly Hills Chihuahua",
+			"gatsby_image_path":"..\/..\/images\/beverly-hills-chihuahua.jpg",
+			"slug":"beverly-hills-chihuahua"
 		},
 		{
 			"title":"Zootopia",
@@ -333,29 +403,9 @@
 			"slug":"zootopia"
 		},
 		{
-			"title":"Child's Play 3",
-			"gatsby_image_path":"..\/..\/images\/child-s-play-3.jpg",
-			"slug":"child-s-play-3"
-		},
-		{
 			"title":"Raiders of the Lost Ark",
 			"gatsby_image_path":"..\/..\/images\/raiders-of-the-lost-ark.jpg",
 			"slug":"raiders-of-the-lost-ark"
-		},
-		{
-			"title":"Frankenweenie",
-			"gatsby_image_path":"..\/..\/images\/frankenweenie.jpg",
-			"slug":"frankenweenie"
-		},
-		{
-			"title":"Tinker Bell and the Legend of the NeverBeast",
-			"gatsby_image_path":"..\/..\/images\/tinker-bell-and-the-legend-of-the-neverbeast.jpg",
-			"slug":"tinker-bell-and-the-legend-of-the-neverbeast"
-		},
-		{
-			"title":"Pets United",
-			"gatsby_image_path":"..\/..\/images\/pets-united.jpg",
-			"slug":"pets-united"
 		}
 	],
 	"tmdb_id":11932,

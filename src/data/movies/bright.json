@@ -51,6 +51,11 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Suicide Squad",
+			"gatsby_image_path":"..\/..\/images\/suicide-squad.jpg",
+			"slug":"suicide-squad"
+		},
+		{
 			"title":"Yes Day",
 			"gatsby_image_path":"..\/..\/images\/yes-day.jpg",
 			"slug":"yes-day"
@@ -76,6 +81,11 @@
 			"slug":"traffik"
 		},
 		{
+			"title":"The Trip",
+			"gatsby_image_path":"..\/..\/images\/the-trip.jpg",
+			"slug":"the-trip"
+		},
+		{
 			"title":"The New Mutants",
 			"gatsby_image_path":"..\/..\/images\/the-new-mutants.jpg",
 			"slug":"the-new-mutants"
@@ -99,6 +109,46 @@
 			"title":"The Great Gatsby",
 			"gatsby_image_path":"..\/..\/images\/the-great-gatsby.jpg",
 			"slug":"the-great-gatsby"
+		},
+		{
+			"title":"Spies in Disguise",
+			"gatsby_image_path":"..\/..\/images\/spies-in-disguise.jpg",
+			"slug":"spies-in-disguise"
+		},
+		{
+			"title":"Sherlock Holmes: A Game of Shadows",
+			"gatsby_image_path":"..\/..\/images\/sherlock-holmes-a-game-of-shadows.jpg",
+			"slug":"sherlock-holmes-a-game-of-shadows"
+		},
+		{
+			"title":"Shark Tale",
+			"gatsby_image_path":"..\/..\/images\/shark-tale.jpg",
+			"slug":"shark-tale"
+		},
+		{
+			"title":"Red Sparrow",
+			"gatsby_image_path":"..\/..\/images\/red-sparrow.jpg",
+			"slug":"red-sparrow"
+		},
+		{
+			"title":"Prometheus",
+			"gatsby_image_path":"..\/..\/images\/prometheus.jpg",
+			"slug":"prometheus"
+		},
+		{
+			"title":"Point Break",
+			"gatsby_image_path":"..\/..\/images\/point-break.jpg",
+			"slug":"point-break"
+		},
+		{
+			"title":"Night Teeth",
+			"gatsby_image_path":"..\/..\/images\/night-teeth.jpg",
+			"slug":"night-teeth"
+		},
+		{
+			"title":"Neighbors",
+			"gatsby_image_path":"..\/..\/images\/neighbors.jpg",
+			"slug":"neighbors"
 		}
 	],
 	"related_most_similar":[
@@ -267,19 +317,19 @@
 			"slug":"the-final-destination"
 		},
 		{
-			"title":"Constantine",
-			"gatsby_image_path":"..\/..\/images\/constantine.jpg",
-			"slug":"constantine"
-		},
-		{
 			"title":"It",
 			"gatsby_image_path":"..\/..\/images\/it.jpg",
 			"slug":"it"
 		},
 		{
-			"title":"Ghostbusters",
-			"gatsby_image_path":"..\/..\/images\/ghostbusters.jpg",
-			"slug":"ghostbusters"
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Constantine",
+			"gatsby_image_path":"..\/..\/images\/constantine.jpg",
+			"slug":"constantine"
 		},
 		{
 			"title":"The Misfits",
@@ -292,6 +342,21 @@
 			"slug":"scream"
 		},
 		{
+			"title":"Harry Potter and the Deathly Hallows: Part 1",
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-deathly-hallows-part-1.jpg",
+			"slug":"harry-potter-and-the-deathly-hallows-part-1"
+		},
+		{
+			"title":"Final Destination",
+			"gatsby_image_path":"..\/..\/images\/final-destination.jpg",
+			"slug":"final-destination"
+		},
+		{
+			"title":"Everly",
+			"gatsby_image_path":"..\/..\/images\/everly.jpg",
+			"slug":"everly"
+		},
+		{
 			"title":"IO",
 			"gatsby_image_path":"..\/..\/images\/io.jpg",
 			"slug":"io"
@@ -302,29 +367,9 @@
 			"slug":"thunder-force"
 		},
 		{
-			"title":"Final Destination",
-			"gatsby_image_path":"..\/..\/images\/final-destination.jpg",
-			"slug":"final-destination"
-		},
-		{
-			"title":"Harry Potter and the Deathly Hallows: Part 1",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-deathly-hallows-part-1.jpg",
-			"slug":"harry-potter-and-the-deathly-hallows-part-1"
-		},
-		{
-			"title":"Tomb Invader",
-			"gatsby_image_path":"..\/..\/images\/tomb-invader.jpg",
-			"slug":"tomb-invader"
-		},
-		{
 			"title":"Ghostbusters: Afterlife",
 			"gatsby_image_path":"..\/..\/images\/ghostbusters-afterlife.jpg",
 			"slug":"ghostbusters-afterlife"
-		},
-		{
-			"title":"Friday the 13th: The Final Chapter",
-			"gatsby_image_path":"..\/..\/images\/friday-the-13th-the-final-chapter.jpg",
-			"slug":"friday-the-13th-the-final-chapter"
 		},
 		{
 			"title":"The New Mutants",
@@ -332,14 +377,14 @@
 			"slug":"the-new-mutants"
 		},
 		{
-			"title":"The Nightmare Before Christmas",
-			"gatsby_image_path":"..\/..\/images\/the-nightmare-before-christmas.jpg",
-			"slug":"the-nightmare-before-christmas"
+			"title":"Friday the 13th: The Final Chapter",
+			"gatsby_image_path":"..\/..\/images\/friday-the-13th-the-final-chapter.jpg",
+			"slug":"friday-the-13th-the-final-chapter"
 		},
 		{
-			"title":"Return of the Living Dead III",
-			"gatsby_image_path":"..\/..\/images\/return-of-the-living-dead-iii.jpg",
-			"slug":"return-of-the-living-dead-iii"
+			"title":"Tomb Invader",
+			"gatsby_image_path":"..\/..\/images\/tomb-invader.jpg",
+			"slug":"tomb-invader"
 		},
 		{
 			"title":"Mortal Engines",
@@ -347,14 +392,19 @@
 			"slug":"mortal-engines"
 		},
 		{
-			"title":"Halloween",
-			"gatsby_image_path":"..\/..\/images\/halloween.jpg",
-			"slug":"halloween"
+			"title":"Ghostbusters",
+			"gatsby_image_path":"..\/..\/images\/ghostbusters.jpg",
+			"slug":"ghostbusters"
 		},
 		{
-			"title":"The Sixth Sense",
-			"gatsby_image_path":"..\/..\/images\/the-sixth-sense.jpg",
-			"slug":"the-sixth-sense"
+			"title":"The Nightmare Before Christmas",
+			"gatsby_image_path":"..\/..\/images\/the-nightmare-before-christmas.jpg",
+			"slug":"the-nightmare-before-christmas"
+		},
+		{
+			"title":"Ouija: Origin of Evil",
+			"gatsby_image_path":"..\/..\/images\/ouija-origin-of-evil.jpg",
+			"slug":"ouija-origin-of-evil"
 		}
 	],
 	"tmdb_id":400106,

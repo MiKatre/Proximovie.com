@@ -80,6 +80,11 @@
 			"slug":"the-town"
 		},
 		{
+			"title":"The Smurfs",
+			"gatsby_image_path":"..\/..\/images\/the-smurfs.jpg",
+			"slug":"the-smurfs"
+		},
+		{
 			"title":"The Predator",
 			"gatsby_image_path":"..\/..\/images\/the-predator.jpg",
 			"slug":"the-predator"
@@ -95,6 +100,11 @@
 			"slug":"the-last-thing-he-wanted"
 		},
 		{
+			"title":"The Last Duel",
+			"gatsby_image_path":"..\/..\/images\/the-last-duel.jpg",
+			"slug":"the-last-duel"
+		},
+		{
 			"title":"The Highwaymen",
 			"gatsby_image_path":"..\/..\/images\/the-highwaymen.jpg",
 			"slug":"the-highwaymen"
@@ -103,6 +113,46 @@
 			"title":"The Flash",
 			"gatsby_image_path":"..\/..\/images\/the-flash.jpg",
 			"slug":"the-flash"
+		},
+		{
+			"title":"The Blind Side",
+			"gatsby_image_path":"..\/..\/images\/the-blind-side.jpg",
+			"slug":"the-blind-side"
+		},
+		{
+			"title":"The Accountant",
+			"gatsby_image_path":"..\/..\/images\/the-accountant.jpg",
+			"slug":"the-accountant"
+		},
+		{
+			"title":"Teenage Mutant Ninja Turtles: Out of the Shadows",
+			"gatsby_image_path":"..\/..\/images\/teenage-mutant-ninja-turtles-out-of-the-shadows.jpg",
+			"slug":"teenage-mutant-ninja-turtles-out-of-the-shadows"
+		},
+		{
+			"title":"State of Play",
+			"gatsby_image_path":"..\/..\/images\/state-of-play.jpg",
+			"slug":"state-of-play"
+		},
+		{
+			"title":"Pride & Prejudice",
+			"gatsby_image_path":"..\/..\/images\/pride-prejudice.jpg",
+			"slug":"pride-prejudice"
+		},
+		{
+			"title":"Pearl Harbor",
+			"gatsby_image_path":"..\/..\/images\/pearl-harbor.jpg",
+			"slug":"pearl-harbor"
+		},
+		{
+			"title":"PAW Patrol: The Movie",
+			"gatsby_image_path":"..\/..\/images\/paw-patrol-the-movie.jpg",
+			"slug":"paw-patrol-the-movie"
+		},
+		{
+			"title":"Logan",
+			"gatsby_image_path":"..\/..\/images\/logan.jpg",
+			"slug":"logan"
 		}
 	],
 	"related_most_similar":[
@@ -266,14 +316,14 @@
 			"slug":"bliss"
 		},
 		{
-			"title":"Hollow Point",
-			"gatsby_image_path":"..\/..\/images\/hollow-point.jpg",
-			"slug":"hollow-point"
-		},
-		{
 			"title":"Red Dot",
 			"gatsby_image_path":"..\/..\/images\/red-dot.jpg",
 			"slug":"red-dot"
+		},
+		{
+			"title":"Hollow Point",
+			"gatsby_image_path":"..\/..\/images\/hollow-point.jpg",
+			"slug":"hollow-point"
 		},
 		{
 			"title":"Unforgettable",
@@ -286,6 +336,11 @@
 			"slug":"black-box"
 		},
 		{
+			"title":"Silver Linings Playbook",
+			"gatsby_image_path":"..\/..\/images\/silver-linings-playbook.jpg",
+			"slug":"silver-linings-playbook"
+		},
+		{
 			"title":"A Score to Settle",
 			"gatsby_image_path":"..\/..\/images\/a-score-to-settle.jpg",
 			"slug":"a-score-to-settle"
@@ -296,29 +351,19 @@
 			"slug":"crisis"
 		},
 		{
-			"title":"Bad Sister",
-			"gatsby_image_path":"..\/..\/images\/bad-sister.jpg",
-			"slug":"bad-sister"
-		},
-		{
 			"title":"What Happened to Monday",
 			"gatsby_image_path":"..\/..\/images\/what-happened-to-monday.jpg",
 			"slug":"what-happened-to-monday"
 		},
 		{
-			"title":"A Werewolf Boy",
-			"gatsby_image_path":"..\/..\/images\/a-werewolf-boy.jpg",
-			"slug":"a-werewolf-boy"
+			"title":"Bad Sister",
+			"gatsby_image_path":"..\/..\/images\/bad-sister.jpg",
+			"slug":"bad-sister"
 		},
 		{
-			"title":"Law Abiding Citizen",
-			"gatsby_image_path":"..\/..\/images\/law-abiding-citizen.jpg",
-			"slug":"law-abiding-citizen"
-		},
-		{
-			"title":"Haseen Dillruba",
-			"gatsby_image_path":"..\/..\/images\/haseen-dillruba.jpg",
-			"slug":"haseen-dillruba"
+			"title":"7 Prisoners",
+			"gatsby_image_path":"..\/..\/images\/7-prisoners.jpg",
+			"slug":"7-prisoners"
 		},
 		{
 			"title":"Out of Death",
@@ -326,39 +371,44 @@
 			"slug":"out-of-death"
 		},
 		{
+			"title":"Law Abiding Citizen",
+			"gatsby_image_path":"..\/..\/images\/law-abiding-citizen.jpg",
+			"slug":"law-abiding-citizen"
+		},
+		{
+			"title":"A Werewolf Boy",
+			"gatsby_image_path":"..\/..\/images\/a-werewolf-boy.jpg",
+			"slug":"a-werewolf-boy"
+		},
+		{
+			"title":"Haseen Dillruba",
+			"gatsby_image_path":"..\/..\/images\/haseen-dillruba.jpg",
+			"slug":"haseen-dillruba"
+		},
+		{
+			"title":"Suspiria",
+			"gatsby_image_path":"..\/..\/images\/suspiria.jpg",
+			"slug":"suspiria"
+		},
+		{
+			"title":"Ticking Clock",
+			"gatsby_image_path":"..\/..\/images\/ticking-clock.jpg",
+			"slug":"ticking-clock"
+		},
+		{
 			"title":"Motherless Brooklyn",
 			"gatsby_image_path":"..\/..\/images\/motherless-brooklyn.jpg",
 			"slug":"motherless-brooklyn"
 		},
 		{
-			"title":"Bad Genius",
-			"gatsby_image_path":"..\/..\/images\/bad-genius.jpg",
-			"slug":"bad-genius"
-		},
-		{
-			"title":"Xtreme",
-			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
-			"slug":"xtreme"
-		},
-		{
-			"title":"Moxie",
-			"gatsby_image_path":"..\/..\/images\/moxie.jpg",
-			"slug":"moxie"
+			"title":"Palmer",
+			"gatsby_image_path":"..\/..\/images\/palmer.jpg",
+			"slug":"palmer"
 		},
 		{
 			"title":"Honest Thief",
 			"gatsby_image_path":"..\/..\/images\/honest-thief.jpg",
 			"slug":"honest-thief"
-		},
-		{
-			"title":"Just Say Yes",
-			"gatsby_image_path":"..\/..\/images\/just-say-yes.jpg",
-			"slug":"just-say-yes"
-		},
-		{
-			"title":"Palmer",
-			"gatsby_image_path":"..\/..\/images\/palmer.jpg",
-			"slug":"palmer"
 		}
 	],
 	"tmdb_id":210577,

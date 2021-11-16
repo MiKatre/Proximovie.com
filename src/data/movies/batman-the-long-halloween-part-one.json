@@ -58,9 +58,19 @@
 			"slug":"batman-the-long-halloween-part-two"
 		},
 		{
+			"title":"Twilight",
+			"gatsby_image_path":"..\/..\/images\/twilight.jpg",
+			"slug":"twilight"
+		},
+		{
 			"title":"Transformers: The Last Knight",
 			"gatsby_image_path":"..\/..\/images\/transformers-the-last-knight.jpg",
 			"slug":"transformers-the-last-knight"
+		},
+		{
+			"title":"Transformers: Revenge of the Fallen",
+			"gatsby_image_path":"..\/..\/images\/transformers-revenge-of-the-fallen.jpg",
+			"slug":"transformers-revenge-of-the-fallen"
 		},
 		{
 			"title":"Transformers: Age of Extinction",
@@ -101,6 +111,46 @@
 			"title":"Suicide Squad: Hell to Pay",
 			"gatsby_image_path":"..\/..\/images\/suicide-squad-hell-to-pay.jpg",
 			"slug":"suicide-squad-hell-to-pay"
+		},
+		{
+			"title":"Shaft",
+			"gatsby_image_path":"..\/..\/images\/shaft.jpg",
+			"slug":"shaft"
+		},
+		{
+			"title":"Red Riding Hood",
+			"gatsby_image_path":"..\/..\/images\/red-riding-hood.jpg",
+			"slug":"red-riding-hood"
+		},
+		{
+			"title":"Project Almanac",
+			"gatsby_image_path":"..\/..\/images\/project-almanac.jpg",
+			"slug":"project-almanac"
+		},
+		{
+			"title":"Marvel One-Shot: Item 47",
+			"gatsby_image_path":"..\/..\/images\/marvel-one-shot-item-47.jpg",
+			"slug":"marvel-one-shot-item-47"
+		},
+		{
+			"title":"Love, Simon",
+			"gatsby_image_path":"..\/..\/images\/love-simon.jpg",
+			"slug":"love-simon"
+		},
+		{
+			"title":"Lights Out",
+			"gatsby_image_path":"..\/..\/images\/lights-out.jpg",
+			"slug":"lights-out"
+		},
+		{
+			"title":"Life As We Know It",
+			"gatsby_image_path":"..\/..\/images\/life-as-we-know-it.jpg",
+			"slug":"life-as-we-know-it"
+		},
+		{
+			"title":"Escape Plan 2: Hades",
+			"gatsby_image_path":"..\/..\/images\/escape-plan-2-hades.jpg",
+			"slug":"escape-plan-2-hades"
 		}
 	],
 	"related_most_similar":[
@@ -269,14 +319,19 @@
 			"slug":"batman-v-superman-dawn-of-justice"
 		},
 		{
-			"title":"Joker",
-			"gatsby_image_path":"..\/..\/images\/joker.jpg",
-			"slug":"joker"
+			"title":"Avengers Confidential: Black Widow & Punisher",
+			"gatsby_image_path":"..\/..\/images\/avengers-confidential-black-widow-punisher.jpg",
+			"slug":"avengers-confidential-black-widow-punisher"
 		},
 		{
 			"title":"Captain Marvel",
 			"gatsby_image_path":"..\/..\/images\/captain-marvel.jpg",
 			"slug":"captain-marvel"
+		},
+		{
+			"title":"Joker",
+			"gatsby_image_path":"..\/..\/images\/joker.jpg",
+			"slug":"joker"
 		},
 		{
 			"title":"Justice League: The New Frontier",
@@ -309,14 +364,14 @@
 			"slug":"justice-league-vs.-teen-titans"
 		},
 		{
-			"title":"The Lego Batman Movie",
-			"gatsby_image_path":"..\/..\/images\/the-lego-batman-movie.jpg",
-			"slug":"the-lego-batman-movie"
-		},
-		{
 			"title":"Superman: Man of Tomorrow",
 			"gatsby_image_path":"..\/..\/images\/superman-man-of-tomorrow.jpg",
 			"slug":"superman-man-of-tomorrow"
+		},
+		{
+			"title":"The Lego Batman Movie",
+			"gatsby_image_path":"..\/..\/images\/the-lego-batman-movie.jpg",
+			"slug":"the-lego-batman-movie"
 		},
 		{
 			"title":"The Incredible Hulk",
@@ -329,14 +384,19 @@
 			"slug":"kingsman-the-golden-circle"
 		},
 		{
+			"title":"Steven Universe: The Movie",
+			"gatsby_image_path":"..\/..\/images\/steven-universe-the-movie.jpg",
+			"slug":"steven-universe-the-movie"
+		},
+		{
 			"title":"Spider-Man: Into the Spider-Verse",
 			"gatsby_image_path":"..\/..\/images\/spider-man-into-the-spider-verse.jpg",
 			"slug":"spider-man-into-the-spider-verse"
 		},
 		{
-			"title":"Steven Universe: The Movie",
-			"gatsby_image_path":"..\/..\/images\/steven-universe-the-movie.jpg",
-			"slug":"steven-universe-the-movie"
+			"title":"Hancock",
+			"gatsby_image_path":"..\/..\/images\/hancock.jpg",
+			"slug":"hancock"
 		},
 		{
 			"title":"Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
@@ -347,16 +407,6 @@
 			"title":"Black Widow",
 			"gatsby_image_path":"..\/..\/images\/black-widow.jpg",
 			"slug":"black-widow"
-		},
-		{
-			"title":"Friday the 13th: The Final Chapter",
-			"gatsby_image_path":"..\/..\/images\/friday-the-13th-the-final-chapter.jpg",
-			"slug":"friday-the-13th-the-final-chapter"
-		},
-		{
-			"title":"Minions: The Rise of Gru",
-			"gatsby_image_path":"..\/..\/images\/minions-the-rise-of-gru.jpg",
-			"slug":"minions-the-rise-of-gru"
 		}
 	],
 	"tmdb_id":736073,

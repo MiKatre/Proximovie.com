@@ -62,6 +62,11 @@
 			"slug":"troy"
 		},
 		{
+			"title":"Tropic Thunder",
+			"gatsby_image_path":"..\/..\/images\/tropic-thunder.jpg",
+			"slug":"tropic-thunder"
+		},
+		{
 			"title":"Top Gun: Maverick",
 			"gatsby_image_path":"..\/..\/images\/top-gun-maverick.jpg",
 			"slug":"top-gun-maverick"
@@ -92,6 +97,11 @@
 			"slug":"star-trek"
 		},
 		{
+			"title":"Parker",
+			"gatsby_image_path":"..\/..\/images\/parker.jpg",
+			"slug":"parker"
+		},
+		{
 			"title":"Only the Brave",
 			"gatsby_image_path":"..\/..\/images\/only-the-brave.jpg",
 			"slug":"only-the-brave"
@@ -100,6 +110,46 @@
 			"title":"Lone Survivor",
 			"gatsby_image_path":"..\/..\/images\/lone-survivor.jpg",
 			"slug":"lone-survivor"
+		},
+		{
+			"title":"Life As We Know It",
+			"gatsby_image_path":"..\/..\/images\/life-as-we-know-it.jpg",
+			"slug":"life-as-we-know-it"
+		},
+		{
+			"title":"Knight and Day",
+			"gatsby_image_path":"..\/..\/images\/knight-and-day.jpg",
+			"slug":"knight-and-day"
+		},
+		{
+			"title":"King Arthur: Legend of the Sword",
+			"gatsby_image_path":"..\/..\/images\/king-arthur-legend-of-the-sword.jpg",
+			"slug":"king-arthur-legend-of-the-sword"
+		},
+		{
+			"title":"He's Just Not That Into You",
+			"gatsby_image_path":"..\/..\/images\/he-s-just-not-that-into-you.jpg",
+			"slug":"he-s-just-not-that-into-you"
+		},
+		{
+			"title":"Ghost Rider",
+			"gatsby_image_path":"..\/..\/images\/ghost-rider.jpg",
+			"slug":"ghost-rider"
+		},
+		{
+			"title":"Funny People",
+			"gatsby_image_path":"..\/..\/images\/funny-people.jpg",
+			"slug":"funny-people"
+		},
+		{
+			"title":"Ford v Ferrari",
+			"gatsby_image_path":"..\/..\/images\/ford-v-ferrari.jpg",
+			"slug":"ford-v-ferrari"
+		},
+		{
+			"title":"Breakthrough",
+			"gatsby_image_path":"..\/..\/images\/breakthrough.jpg",
+			"slug":"breakthrough"
 		}
 	],
 	"related_most_similar":[
@@ -278,19 +328,29 @@
 			"slug":"zack-snyder-s-justice-league"
 		},
 		{
-			"title":"Spider-Man",
-			"gatsby_image_path":"..\/..\/images\/spider-man.jpg",
-			"slug":"spider-man"
-		},
-		{
 			"title":"Batman",
 			"gatsby_image_path":"..\/..\/images\/batman.jpg",
 			"slug":"batman"
 		},
 		{
+			"title":"Spider-Man",
+			"gatsby_image_path":"..\/..\/images\/spider-man.jpg",
+			"slug":"spider-man"
+		},
+		{
 			"title":"Crank: High Voltage",
 			"gatsby_image_path":"..\/..\/images\/crank-high-voltage.jpg",
 			"slug":"crank-high-voltage"
+		},
+		{
+			"title":"Green Lantern: Emerald Knights",
+			"gatsby_image_path":"..\/..\/images\/green-lantern-emerald-knights.jpg",
+			"slug":"green-lantern-emerald-knights"
+		},
+		{
+			"title":"Justice League: Doom",
+			"gatsby_image_path":"..\/..\/images\/justice-league-doom.jpg",
+			"slug":"justice-league-doom"
 		},
 		{
 			"title":"Batman: The Long Halloween, Part Two",
@@ -303,24 +363,14 @@
 			"slug":"justice-league-dark-apokolips-war"
 		},
 		{
-			"title":"Justice League: Doom",
-			"gatsby_image_path":"..\/..\/images\/justice-league-doom.jpg",
-			"slug":"justice-league-doom"
-		},
-		{
-			"title":"Green Lantern: Emerald Knights",
-			"gatsby_image_path":"..\/..\/images\/green-lantern-emerald-knights.jpg",
-			"slug":"green-lantern-emerald-knights"
+			"title":"Batman: Soul of the Dragon",
+			"gatsby_image_path":"..\/..\/images\/batman-soul-of-the-dragon.jpg",
+			"slug":"batman-soul-of-the-dragon"
 		},
 		{
 			"title":"Justice League",
 			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
 			"slug":"justice-league"
-		},
-		{
-			"title":"Batman: Soul of the Dragon",
-			"gatsby_image_path":"..\/..\/images\/batman-soul-of-the-dragon.jpg",
-			"slug":"batman-soul-of-the-dragon"
 		},
 		{
 			"title":"Joker",
@@ -333,9 +383,19 @@
 			"slug":"wonder-woman-1984"
 		},
 		{
+			"title":"Kick-Ass",
+			"gatsby_image_path":"..\/..\/images\/kick-ass.jpg",
+			"slug":"kick-ass"
+		},
+		{
 			"title":"Superman: Doomsday",
 			"gatsby_image_path":"..\/..\/images\/superman-doomsday.jpg",
 			"slug":"superman-doomsday"
+		},
+		{
+			"title":"Suicide Squad",
+			"gatsby_image_path":"..\/..\/images\/suicide-squad.jpg",
+			"slug":"suicide-squad"
 		},
 		{
 			"title":"Resident Evil: Vendetta",
@@ -346,16 +406,6 @@
 			"title":"Justice League: Gods and Monsters",
 			"gatsby_image_path":"..\/..\/images\/justice-league-gods-and-monsters.jpg",
 			"slug":"justice-league-gods-and-monsters"
-		},
-		{
-			"title":"The Lego Batman Movie",
-			"gatsby_image_path":"..\/..\/images\/the-lego-batman-movie.jpg",
-			"slug":"the-lego-batman-movie"
-		},
-		{
-			"title":"Ghost Rider: Spirit of Vengeance",
-			"gatsby_image_path":"..\/..\/images\/ghost-rider-spirit-of-vengeance.jpg",
-			"slug":"ghost-rider-spirit-of-vengeance"
 		}
 	],
 	"tmdb_id":1927,

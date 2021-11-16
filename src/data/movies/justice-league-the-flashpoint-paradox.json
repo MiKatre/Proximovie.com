@@ -56,6 +56,11 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Woodlawn",
+			"gatsby_image_path":"..\/..\/images\/woodlawn.jpg",
+			"slug":"woodlawn"
+		},
+		{
 			"title":"Toy Story That Time Forgot",
 			"gatsby_image_path":"..\/..\/images\/toy-story-that-time-forgot.jpg",
 			"slug":"toy-story-that-time-forgot"
@@ -91,9 +96,29 @@
 			"slug":"rim-of-the-world"
 		},
 		{
+			"title":"Red Tails",
+			"gatsby_image_path":"..\/..\/images\/red-tails.jpg",
+			"slug":"red-tails"
+		},
+		{
+			"title":"Red Dawn",
+			"gatsby_image_path":"..\/..\/images\/red-dawn.jpg",
+			"slug":"red-dawn"
+		},
+		{
 			"title":"Quest for Camelot",
 			"gatsby_image_path":"..\/..\/images\/quest-for-camelot.jpg",
 			"slug":"quest-for-camelot"
+		},
+		{
+			"title":"No Strings Attached",
+			"gatsby_image_path":"..\/..\/images\/no-strings-attached.jpg",
+			"slug":"no-strings-attached"
+		},
+		{
+			"title":"LEGO Marvel Spider-Man: Vexed by Venom",
+			"gatsby_image_path":"..\/..\/images\/lego-marvel-spider-man-vexed-by-venom.jpg",
+			"slug":"lego-marvel-spider-man-vexed-by-venom"
 		},
 		{
 			"title":"Justice League: Gods and Monsters",
@@ -104,6 +129,31 @@
 			"title":"Justice League: Doom",
 			"gatsby_image_path":"..\/..\/images\/justice-league-doom.jpg",
 			"slug":"justice-league-doom"
+		},
+		{
+			"title":"Fantastic Four",
+			"gatsby_image_path":"..\/..\/images\/fantastic-four.jpg",
+			"slug":"fantastic-four"
+		},
+		{
+			"title":"Ella Enchanted",
+			"gatsby_image_path":"..\/..\/images\/ella-enchanted.jpg",
+			"slug":"ella-enchanted"
+		},
+		{
+			"title":"Creed",
+			"gatsby_image_path":"..\/..\/images\/creed.jpg",
+			"slug":"creed"
+		},
+		{
+			"title":"Creed II",
+			"gatsby_image_path":"..\/..\/images\/creed-ii.jpg",
+			"slug":"creed-ii"
+		},
+		{
+			"title":"Codename: Kids Next Door - Operation Z.E.R.O.",
+			"gatsby_image_path":"..\/..\/images\/codename-kids-next-door-operation-z.e.r.o..jpg",
+			"slug":"codename-kids-next-door-operation-z.e.r.o."
 		}
 	],
 	"related_most_similar":[
@@ -282,24 +332,19 @@
 			"slug":"superman-doomsday"
 		},
 		{
-			"title":"Batman: Death in the Family",
-			"gatsby_image_path":"..\/..\/images\/batman-death-in-the-family.jpg",
-			"slug":"batman-death-in-the-family"
-		},
-		{
 			"title":"Batman",
 			"gatsby_image_path":"..\/..\/images\/batman.jpg",
 			"slug":"batman"
 		},
 		{
+			"title":"Batman: Death in the Family",
+			"gatsby_image_path":"..\/..\/images\/batman-death-in-the-family.jpg",
+			"slug":"batman-death-in-the-family"
+		},
+		{
 			"title":"Wonder Woman 1984",
 			"gatsby_image_path":"..\/..\/images\/wonder-woman-1984.jpg",
 			"slug":"wonder-woman-1984"
-		},
-		{
-			"title":"Green Lantern: Emerald Knights",
-			"gatsby_image_path":"..\/..\/images\/green-lantern-emerald-knights.jpg",
-			"slug":"green-lantern-emerald-knights"
 		},
 		{
 			"title":"Batman: Soul of the Dragon",
@@ -310,6 +355,11 @@
 			"title":"Justice League: Doom",
 			"gatsby_image_path":"..\/..\/images\/justice-league-doom.jpg",
 			"slug":"justice-league-doom"
+		},
+		{
+			"title":"Green Lantern: Emerald Knights",
+			"gatsby_image_path":"..\/..\/images\/green-lantern-emerald-knights.jpg",
+			"slug":"green-lantern-emerald-knights"
 		},
 		{
 			"title":"The Suicide Squad",
@@ -337,24 +387,24 @@
 			"slug":"guardians-of-the-galaxy"
 		},
 		{
-			"title":"Shazam!",
-			"gatsby_image_path":"..\/..\/images\/shazam.jpg",
-			"slug":"shazam"
-		},
-		{
 			"title":"Suicide Squad: Hell to Pay",
 			"gatsby_image_path":"..\/..\/images\/suicide-squad-hell-to-pay.jpg",
 			"slug":"suicide-squad-hell-to-pay"
 		},
 		{
-			"title":"Combat Wombat",
-			"gatsby_image_path":"..\/..\/images\/combat-wombat.jpg",
-			"slug":"combat-wombat"
+			"title":"Shazam!",
+			"gatsby_image_path":"..\/..\/images\/shazam.jpg",
+			"slug":"shazam"
 		},
 		{
 			"title":"Hulk",
 			"gatsby_image_path":"..\/..\/images\/hulk.jpg",
 			"slug":"hulk"
+		},
+		{
+			"title":"Justice League Dark: Apokolips War",
+			"gatsby_image_path":"..\/..\/images\/justice-league-dark-apokolips-war.jpg",
+			"slug":"justice-league-dark-apokolips-war"
 		},
 		{
 			"title":"The Matrix Revolutions",

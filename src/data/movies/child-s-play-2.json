@@ -49,9 +49,29 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"The Legacy of Chucky",
+			"gatsby_image_path":"..\/..\/images\/the-legacy-of-chucky.jpg",
+			"slug":"the-legacy-of-chucky"
+		},
+		{
+			"title":"Introducing Chucky: The Making of Child's Play",
+			"gatsby_image_path":"..\/..\/images\/introducing-chucky-the-making-of-child-s-play.jpg",
+			"slug":"introducing-chucky-the-making-of-child-s-play"
+		},
+		{
+			"title":"Curse of Chucky",
+			"gatsby_image_path":"..\/..\/images\/curse-of-chucky.jpg",
+			"slug":"curse-of-chucky"
+		},
+		{
 			"title":"Cult of Chucky",
 			"gatsby_image_path":"..\/..\/images\/cult-of-chucky.jpg",
 			"slug":"cult-of-chucky"
+		},
+		{
+			"title":"Child's Play",
+			"gatsby_image_path":"..\/..\/images\/child-s-play.jpg",
+			"slug":"child-s-play"
 		},
 		{
 			"title":"Willy's Wonderland",
@@ -74,9 +94,29 @@
 			"slug":"seed-of-chucky"
 		},
 		{
+			"title":"Halloween",
+			"gatsby_image_path":"..\/..\/images\/halloween.jpg",
+			"slug":"halloween"
+		},
+		{
+			"title":"Halloween II",
+			"gatsby_image_path":"..\/..\/images\/halloween-ii.jpg",
+			"slug":"halloween-ii"
+		},
+		{
+			"title":"Dune",
+			"gatsby_image_path":"..\/..\/images\/dune.jpg",
+			"slug":"dune"
+		},
+		{
 			"title":"Donnie Darko",
 			"gatsby_image_path":"..\/..\/images\/donnie-darko.jpg",
 			"slug":"donnie-darko"
+		},
+		{
+			"title":"Chucky's Vacation Slides",
+			"gatsby_image_path":"..\/..\/images\/chucky-s-vacation-slides.jpg",
+			"slug":"chucky-s-vacation-slides"
 		},
 		{
 			"title":"Child's Play 3",
@@ -97,6 +137,16 @@
 			"title":"Zootopia",
 			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
 			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
 		}
 	],
 	"related_most_similar":[
@@ -255,6 +305,11 @@
 	],
 	"related_by_overview":[
 		{
+			"title":"Son of the Mask",
+			"gatsby_image_path":"..\/..\/images\/son-of-the-mask.jpg",
+			"slug":"son-of-the-mask"
+		},
+		{
 			"title":"Love and Monsters",
 			"gatsby_image_path":"..\/..\/images\/love-and-monsters.jpg",
 			"slug":"love-and-monsters"
@@ -263,11 +318,6 @@
 			"title":"Zathura: A Space Adventure",
 			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
 			"slug":"zathura-a-space-adventure"
-		},
-		{
-			"title":"Backdraft 2",
-			"gatsby_image_path":"..\/..\/images\/backdraft-2.jpg",
-			"slug":"backdraft-2"
 		},
 		{
 			"title":"Don't Breathe 2",
@@ -280,14 +330,19 @@
 			"slug":"a-haunted-house"
 		},
 		{
-			"title":"Goosebumps",
-			"gatsby_image_path":"..\/..\/images\/goosebumps.jpg",
-			"slug":"goosebumps"
+			"title":"Backdraft 2",
+			"gatsby_image_path":"..\/..\/images\/backdraft-2.jpg",
+			"slug":"backdraft-2"
 		},
 		{
 			"title":"American Pie Presents: The Book of Love",
 			"gatsby_image_path":"..\/..\/images\/american-pie-presents-the-book-of-love.jpg",
 			"slug":"american-pie-presents-the-book-of-love"
+		},
+		{
+			"title":"Goosebumps",
+			"gatsby_image_path":"..\/..\/images\/goosebumps.jpg",
+			"slug":"goosebumps"
 		},
 		{
 			"title":"Memento",
@@ -305,9 +360,19 @@
 			"slug":"barbie-and-the-magic-of-pegasus-3-d"
 		},
 		{
+			"title":"Scream 4",
+			"gatsby_image_path":"..\/..\/images\/scream-4.jpg",
+			"slug":"scream-4"
+		},
+		{
 			"title":"Bruce Almighty",
 			"gatsby_image_path":"..\/..\/images\/bruce-almighty.jpg",
 			"slug":"bruce-almighty"
+		},
+		{
+			"title":"Saw VI",
+			"gatsby_image_path":"..\/..\/images\/saw-vi.jpg",
+			"slug":"saw-vi"
 		},
 		{
 			"title":"Home Alone 2: Lost in New York",
@@ -315,9 +380,9 @@
 			"slug":"home-alone-2-lost-in-new-york"
 		},
 		{
-			"title":"Ghost Rider",
-			"gatsby_image_path":"..\/..\/images\/ghost-rider.jpg",
-			"slug":"ghost-rider"
+			"title":"Super 8",
+			"gatsby_image_path":"..\/..\/images\/super-8.jpg",
+			"slug":"super-8"
 		},
 		{
 			"title":"Beetlejuice",
@@ -330,29 +395,14 @@
 			"slug":"harry-potter-and-the-goblet-of-fire"
 		},
 		{
-			"title":"Slender Man",
-			"gatsby_image_path":"..\/..\/images\/slender-man.jpg",
-			"slug":"slender-man"
-		},
-		{
-			"title":"Rio 2",
-			"gatsby_image_path":"..\/..\/images\/rio-2.jpg",
-			"slug":"rio-2"
-		},
-		{
-			"title":"Saw V",
-			"gatsby_image_path":"..\/..\/images\/saw-v.jpg",
-			"slug":"saw-v"
-		},
-		{
 			"title":"Bee Movie",
 			"gatsby_image_path":"..\/..\/images\/bee-movie.jpg",
 			"slug":"bee-movie"
 		},
 		{
-			"title":"A Nightmare on Elm Street",
-			"gatsby_image_path":"..\/..\/images\/a-nightmare-on-elm-street.jpg",
-			"slug":"a-nightmare-on-elm-street"
+			"title":"Finch",
+			"gatsby_image_path":"..\/..\/images\/finch.jpg",
+			"slug":"finch"
 		}
 	],
 	"tmdb_id":11186,

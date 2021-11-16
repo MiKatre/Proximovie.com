@@ -52,11 +52,6 @@
 	],
 	"related_by_cast":[
 		{
-			"title":"The Jungle Book",
-			"gatsby_image_path":"..\/..\/images\/the-jungle-book.jpg",
-			"slug":"the-jungle-book"
-		},
-		{
 			"title":"The Dark Knight",
 			"gatsby_image_path":"..\/..\/images\/the-dark-knight.jpg",
 			"slug":"the-dark-knight"
@@ -65,6 +60,11 @@
 			"title":"Sully",
 			"gatsby_image_path":"..\/..\/images\/sully.jpg",
 			"slug":"sully"
+		},
+		{
+			"title":"Status Update",
+			"gatsby_image_path":"..\/..\/images\/status-update.jpg",
+			"slug":"status-update"
 		},
 		{
 			"title":"Saw",
@@ -80,6 +80,11 @@
 			"title":"Piranha 3D",
 			"gatsby_image_path":"..\/..\/images\/piranha-3d.jpg",
 			"slug":"piranha-3d"
+		},
+		{
+			"title":"Olympus Has Fallen",
+			"gatsby_image_path":"..\/..\/images\/olympus-has-fallen.jpg",
+			"slug":"olympus-has-fallen"
 		},
 		{
 			"title":"Midway",
@@ -100,6 +105,51 @@
 			"title":"London Has Fallen",
 			"gatsby_image_path":"..\/..\/images\/london-has-fallen.jpg",
 			"slug":"london-has-fallen"
+		},
+		{
+			"title":"Goodbye World",
+			"gatsby_image_path":"..\/..\/images\/goodbye-world.jpg",
+			"slug":"goodbye-world"
+		},
+		{
+			"title":"Gods of Egypt",
+			"gatsby_image_path":"..\/..\/images\/gods-of-egypt.jpg",
+			"slug":"gods-of-egypt"
+		},
+		{
+			"title":"From Straight A's to XXX",
+			"gatsby_image_path":"..\/..\/images\/from-straight-a-s-to-xxx.jpg",
+			"slug":"from-straight-a-s-to-xxx"
+		},
+		{
+			"title":"Battle: Los Angeles",
+			"gatsby_image_path":"..\/..\/images\/battle-los-angeles.jpg",
+			"slug":"battle-los-angeles"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
+			"title":"Zombieland: Double Tap",
+			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
+			"slug":"zombieland-double-tap"
+		},
+		{
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
 		}
 	],
 	"related_most_similar":[
@@ -268,9 +318,19 @@
 			"slug":"the-town"
 		},
 		{
+			"title":"Cast Away",
+			"gatsby_image_path":"..\/..\/images\/cast-away.jpg",
+			"slug":"cast-away"
+		},
+		{
 			"title":"Once Upon a Time in Venice",
 			"gatsby_image_path":"..\/..\/images\/once-upon-a-time-in-venice.jpg",
 			"slug":"once-upon-a-time-in-venice"
+		},
+		{
+			"title":"The Spy Next Door",
+			"gatsby_image_path":"..\/..\/images\/the-spy-next-door.jpg",
+			"slug":"the-spy-next-door"
 		},
 		{
 			"title":"Pain & Gain",
@@ -283,14 +343,24 @@
 			"slug":"the-little-things"
 		},
 		{
+			"title":"Reprisal",
+			"gatsby_image_path":"..\/..\/images\/reprisal.jpg",
+			"slug":"reprisal"
+		},
+		{
 			"title":"In the Shadow of the Moon",
 			"gatsby_image_path":"..\/..\/images\/in-the-shadow-of-the-moon.jpg",
 			"slug":"in-the-shadow-of-the-moon"
 		},
 		{
-			"title":"Reprisal",
-			"gatsby_image_path":"..\/..\/images\/reprisal.jpg",
-			"slug":"reprisal"
+			"title":"From Paris with Love",
+			"gatsby_image_path":"..\/..\/images\/from-paris-with-love.jpg",
+			"slug":"from-paris-with-love"
+		},
+		{
+			"title":"Bad Lieutenant: Port of Call - New Orleans",
+			"gatsby_image_path":"..\/..\/images\/bad-lieutenant-port-of-call-new-orleans.jpg",
+			"slug":"bad-lieutenant-port-of-call-new-orleans"
 		},
 		{
 			"title":"Léon: The Professional",
@@ -303,9 +373,9 @@
 			"slug":"body-brokers"
 		},
 		{
-			"title":"Security",
-			"gatsby_image_path":"..\/..\/images\/security.jpg",
-			"slug":"security"
+			"title":"Contraband",
+			"gatsby_image_path":"..\/..\/images\/contraband.jpg",
+			"slug":"contraband"
 		},
 		{
 			"title":"Dark Web: Cicada 3301",
@@ -313,9 +383,14 @@
 			"slug":"dark-web-cicada-3301"
 		},
 		{
-			"title":"Snake Eyes",
-			"gatsby_image_path":"..\/..\/images\/snake-eyes.jpg",
-			"slug":"snake-eyes"
+			"title":"No Good Deed",
+			"gatsby_image_path":"..\/..\/images\/no-good-deed.jpg",
+			"slug":"no-good-deed"
+		},
+		{
+			"title":"Apex",
+			"gatsby_image_path":"..\/..\/images\/apex.jpg",
+			"slug":"apex"
 		},
 		{
 			"title":"Goosebumps",
@@ -323,39 +398,14 @@
 			"slug":"goosebumps"
 		},
 		{
-			"title":"Glass",
-			"gatsby_image_path":"..\/..\/images\/glass.jpg",
-			"slug":"glass"
+			"title":"Snake Eyes",
+			"gatsby_image_path":"..\/..\/images\/snake-eyes.jpg",
+			"slug":"snake-eyes"
 		},
 		{
-			"title":"Brothers by Blood",
-			"gatsby_image_path":"..\/..\/images\/brothers-by-blood.jpg",
-			"slug":"brothers-by-blood"
-		},
-		{
-			"title":"Dead Silence",
-			"gatsby_image_path":"..\/..\/images\/dead-silence.jpg",
-			"slug":"dead-silence"
-		},
-		{
-			"title":"Don't Be a Menace to South Central While Drinking Your Juice in the Hood",
-			"gatsby_image_path":"..\/..\/images\/don-t-be-a-menace-to-south-central-while-drinking-your-juice-in-the-hood.jpg",
-			"slug":"don-t-be-a-menace-to-south-central-while-drinking-your-juice-in-the-hood"
-		},
-		{
-			"title":"The Upside",
-			"gatsby_image_path":"..\/..\/images\/the-upside.jpg",
-			"slug":"the-upside"
-		},
-		{
-			"title":"Turner & Hooch",
-			"gatsby_image_path":"..\/..\/images\/turner-hooch.jpg",
-			"slug":"turner-hooch"
-		},
-		{
-			"title":"Homefront",
-			"gatsby_image_path":"..\/..\/images\/homefront.jpg",
-			"slug":"homefront"
+			"title":"The Double",
+			"gatsby_image_path":"..\/..\/images\/the-double.jpg",
+			"slug":"the-double"
 		}
 	],
 	"tmdb_id":346709,

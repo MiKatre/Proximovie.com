@@ -83,9 +83,24 @@
 			"slug":"war-dogs"
 		},
 		{
+			"title":"Tropic Thunder",
+			"gatsby_image_path":"..\/..\/images\/tropic-thunder.jpg",
+			"slug":"tropic-thunder"
+		},
+		{
 			"title":"TRON: Legacy",
 			"gatsby_image_path":"..\/..\/images\/tron-legacy.jpg",
 			"slug":"tron-legacy"
+		},
+		{
+			"title":"Trick 'r Treat",
+			"gatsby_image_path":"..\/..\/images\/trick-r-treat.jpg",
+			"slug":"trick-r-treat"
+		},
+		{
+			"title":"The Tourist",
+			"gatsby_image_path":"..\/..\/images\/the-tourist.jpg",
+			"slug":"the-tourist"
 		},
 		{
 			"title":"The Princess and the Frog",
@@ -98,9 +113,44 @@
 			"slug":"the-last-airbender"
 		},
 		{
-			"title":"The Jungle Book",
-			"gatsby_image_path":"..\/..\/images\/the-jungle-book.jpg",
-			"slug":"the-jungle-book"
+			"title":"The Da Vinci Code",
+			"gatsby_image_path":"..\/..\/images\/the-da-vinci-code.jpg",
+			"slug":"the-da-vinci-code"
+		},
+		{
+			"title":"The Babysitter: Killer Queen",
+			"gatsby_image_path":"..\/..\/images\/the-babysitter-killer-queen.jpg",
+			"slug":"the-babysitter-killer-queen"
+		},
+		{
+			"title":"The Avengers",
+			"gatsby_image_path":"..\/..\/images\/the-avengers.jpg",
+			"slug":"the-avengers"
+		},
+		{
+			"title":"Ted",
+			"gatsby_image_path":"..\/..\/images\/ted.jpg",
+			"slug":"ted"
+		},
+		{
+			"title":"Spider-Man: Far From Home",
+			"gatsby_image_path":"..\/..\/images\/spider-man-far-from-home.jpg",
+			"slug":"spider-man-far-from-home"
+		},
+		{
+			"title":"Sherlock Holmes: A Game of Shadows",
+			"gatsby_image_path":"..\/..\/images\/sherlock-holmes-a-game-of-shadows.jpg",
+			"slug":"sherlock-holmes-a-game-of-shadows"
+		},
+		{
+			"title":"Seventh Son",
+			"gatsby_image_path":"..\/..\/images\/seventh-son.jpg",
+			"slug":"seventh-son"
+		},
+		{
+			"title":"Se7en",
+			"gatsby_image_path":"..\/..\/images\/se7en.jpg",
+			"slug":"se7en"
 		}
 	],
 	"related_most_similar":[
@@ -314,19 +364,14 @@
 			"slug":"superman-doomsday"
 		},
 		{
-			"title":"Justice League",
-			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
-			"slug":"justice-league"
-		},
-		{
 			"title":"Batman: The Long Halloween, Part One",
 			"gatsby_image_path":"..\/..\/images\/batman-the-long-halloween-part-one.jpg",
 			"slug":"batman-the-long-halloween-part-one"
 		},
 		{
-			"title":"Justice Society: World War II",
-			"gatsby_image_path":"..\/..\/images\/justice-society-world-war-ii.jpg",
-			"slug":"justice-society-world-war-ii"
+			"title":"Justice League",
+			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
+			"slug":"justice-league"
 		},
 		{
 			"title":"Doctor Strange",
@@ -334,14 +379,24 @@
 			"slug":"doctor-strange"
 		},
 		{
-			"title":"Army of the Dead",
-			"gatsby_image_path":"..\/..\/images\/army-of-the-dead.jpg",
-			"slug":"army-of-the-dead"
+			"title":"Justice Society: World War II",
+			"gatsby_image_path":"..\/..\/images\/justice-society-world-war-ii.jpg",
+			"slug":"justice-society-world-war-ii"
 		},
 		{
 			"title":"Thor: Ragnarok",
 			"gatsby_image_path":"..\/..\/images\/thor-ragnarok.jpg",
 			"slug":"thor-ragnarok"
+		},
+		{
+			"title":"Army of the Dead",
+			"gatsby_image_path":"..\/..\/images\/army-of-the-dead.jpg",
+			"slug":"army-of-the-dead"
+		},
+		{
+			"title":"Avengers Confidential: Black Widow & Punisher",
+			"gatsby_image_path":"..\/..\/images\/avengers-confidential-black-widow-punisher.jpg",
+			"slug":"avengers-confidential-black-widow-punisher"
 		},
 		{
 			"title":"G.I. Joe: The Rise of Cobra",
@@ -352,11 +407,6 @@
 			"title":"Batman: Under the Red Hood",
 			"gatsby_image_path":"..\/..\/images\/batman-under-the-red-hood.jpg",
 			"slug":"batman-under-the-red-hood"
-		},
-		{
-			"title":"X-Men: Apocalypse",
-			"gatsby_image_path":"..\/..\/images\/x-men-apocalypse.jpg",
-			"slug":"x-men-apocalypse"
 		}
 	],
 	"tmdb_id":1726,

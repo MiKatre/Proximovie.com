@@ -60,9 +60,29 @@
 			"slug":"jurassic-world-fallen-kingdom"
 		},
 		{
+			"title":"Hocus Pocus",
+			"gatsby_image_path":"..\/..\/images\/hocus-pocus.jpg",
+			"slug":"hocus-pocus"
+		},
+		{
 			"title":"El Camino: A Breaking Bad Movie",
 			"gatsby_image_path":"..\/..\/images\/el-camino-a-breaking-bad-movie.jpg",
 			"slug":"el-camino-a-breaking-bad-movie"
+		},
+		{
+			"title":"Easy A",
+			"gatsby_image_path":"..\/..\/images\/easy-a.jpg",
+			"slug":"easy-a"
+		},
+		{
+			"title":"Carrie",
+			"gatsby_image_path":"..\/..\/images\/carrie.jpg",
+			"slug":"carrie"
+		},
+		{
+			"title":"Bad Lieutenant: Port of Call - New Orleans",
+			"gatsby_image_path":"..\/..\/images\/bad-lieutenant-port-of-call-new-orleans.jpg",
+			"slug":"bad-lieutenant-port-of-call-new-orleans"
 		},
 		{
 			"title":"Aliens vs Predator: Requiem",
@@ -73,6 +93,11 @@
 			"title":"Zootopia",
 			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
 			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
 		},
 		{
 			"title":"Zombieland",
@@ -98,6 +123,31 @@
 			"title":"Zack and Miri Make a Porno",
 			"gatsby_image_path":"..\/..\/images\/zack-and-miri-make-a-porno.jpg",
 			"slug":"zack-and-miri-make-a-porno"
+		},
+		{
+			"title":"Yu-Gi-Oh!: The Dark Side of Dimensions",
+			"gatsby_image_path":"..\/..\/images\/yu-gi-oh-the-dark-side-of-dimensions.jpg",
+			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
+		},
+		{
+			"title":"Your Name.",
+			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
+			"slug":"your-name"
+		},
+		{
+			"title":"Young Sister-in-law 3 - 2019",
+			"gatsby_image_path":"..\/..\/images\/young-sister-in-law-3-2019.jpg",
+			"slug":"young-sister-in-law-3-2019"
+		},
+		{
+			"title":"Young and Wild",
+			"gatsby_image_path":"..\/..\/images\/young-and-wild.jpg",
+			"slug":"young-and-wild"
+		},
+		{
+			"title":"Yes, No, or Maybe Half?",
+			"gatsby_image_path":"..\/..\/images\/yes-no-or-maybe-half.jpg",
+			"slug":"yes-no-or-maybe-half"
 		}
 	],
 	"related_most_similar":[
@@ -286,19 +336,29 @@
 			"slug":"saw-3d"
 		},
 		{
+			"title":"Tears of the Sun",
+			"gatsby_image_path":"..\/..\/images\/tears-of-the-sun.jpg",
+			"slug":"tears-of-the-sun"
+		},
+		{
+			"title":"Bedtime Stories",
+			"gatsby_image_path":"..\/..\/images\/bedtime-stories.jpg",
+			"slug":"bedtime-stories"
+		},
+		{
+			"title":"Camp Confidential: America's Secret Nazis",
+			"gatsby_image_path":"..\/..\/images\/camp-confidential-america-s-secret-nazis.jpg",
+			"slug":"camp-confidential-america-s-secret-nazis"
+		},
+		{
+			"title":"Ouija: Origin of Evil",
+			"gatsby_image_path":"..\/..\/images\/ouija-origin-of-evil.jpg",
+			"slug":"ouija-origin-of-evil"
+		},
+		{
 			"title":"Knives Out",
 			"gatsby_image_path":"..\/..\/images\/knives-out.jpg",
 			"slug":"knives-out"
-		},
-		{
-			"title":"Jungle",
-			"gatsby_image_path":"..\/..\/images\/jungle.jpg",
-			"slug":"jungle"
-		},
-		{
-			"title":"Enchanted",
-			"gatsby_image_path":"..\/..\/images\/enchanted.jpg",
-			"slug":"enchanted"
 		},
 		{
 			"title":"The Conjuring",
@@ -306,14 +366,24 @@
 			"slug":"the-conjuring"
 		},
 		{
-			"title":"Crisis",
-			"gatsby_image_path":"..\/..\/images\/crisis.jpg",
-			"slug":"crisis"
+			"title":"Enchanted",
+			"gatsby_image_path":"..\/..\/images\/enchanted.jpg",
+			"slug":"enchanted"
+		},
+		{
+			"title":"Jungle",
+			"gatsby_image_path":"..\/..\/images\/jungle.jpg",
+			"slug":"jungle"
 		},
 		{
 			"title":"Inglourious Basterds",
 			"gatsby_image_path":"..\/..\/images\/inglourious-basterds.jpg",
 			"slug":"inglourious-basterds"
+		},
+		{
+			"title":"Crisis",
+			"gatsby_image_path":"..\/..\/images\/crisis.jpg",
+			"slug":"crisis"
 		},
 		{
 			"title":"Spy Kids 2: The Island of Lost Dreams",
@@ -326,34 +396,14 @@
 			"slug":"once-upon-a-time-in-hollywood"
 		},
 		{
-			"title":"The Lovely Bones",
-			"gatsby_image_path":"..\/..\/images\/the-lovely-bones.jpg",
-			"slug":"the-lovely-bones"
-		},
-		{
 			"title":"The Godfather",
 			"gatsby_image_path":"..\/..\/images\/the-godfather.jpg",
 			"slug":"the-godfather"
 		},
 		{
-			"title":"The Exorcist",
-			"gatsby_image_path":"..\/..\/images\/the-exorcist.jpg",
-			"slug":"the-exorcist"
-		},
-		{
-			"title":"Home on the Range",
-			"gatsby_image_path":"..\/..\/images\/home-on-the-range.jpg",
-			"slug":"home-on-the-range"
-		},
-		{
-			"title":"Jaws",
-			"gatsby_image_path":"..\/..\/images\/jaws.jpg",
-			"slug":"jaws"
-		},
-		{
-			"title":"Friday the 13th: The Final Chapter",
-			"gatsby_image_path":"..\/..\/images\/friday-the-13th-the-final-chapter.jpg",
-			"slug":"friday-the-13th-the-final-chapter"
+			"title":"The Lovely Bones",
+			"gatsby_image_path":"..\/..\/images\/the-lovely-bones.jpg",
+			"slug":"the-lovely-bones"
 		}
 	],
 	"tmdb_id":9792,

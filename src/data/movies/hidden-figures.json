@@ -81,6 +81,11 @@
 			"slug":"the-shack"
 		},
 		{
+			"title":"The Power of the Dog",
+			"gatsby_image_path":"..\/..\/images\/the-power-of-the-dog.jpg",
+			"slug":"the-power-of-the-dog"
+		},
+		{
 			"title":"The Karate Kid",
 			"gatsby_image_path":"..\/..\/images\/the-karate-kid.jpg",
 			"slug":"the-karate-kid"
@@ -99,6 +104,51 @@
 			"title":"The Good Doctor",
 			"gatsby_image_path":"..\/..\/images\/the-good-doctor.jpg",
 			"slug":"the-good-doctor"
+		},
+		{
+			"title":"The Beguiled",
+			"gatsby_image_path":"..\/..\/images\/the-beguiled.jpg",
+			"slug":"the-beguiled"
+		},
+		{
+			"title":"The Art of Racing in the Rain",
+			"gatsby_image_path":"..\/..\/images\/the-art-of-racing-in-the-rain.jpg",
+			"slug":"the-art-of-racing-in-the-rain"
+		},
+		{
+			"title":"Spider-Man",
+			"gatsby_image_path":"..\/..\/images\/spider-man.jpg",
+			"slug":"spider-man"
+		},
+		{
+			"title":"Spider-Man: Into the Spider-Verse",
+			"gatsby_image_path":"..\/..\/images\/spider-man-into-the-spider-verse.jpg",
+			"slug":"spider-man-into-the-spider-verse"
+		},
+		{
+			"title":"Spider-Man 3",
+			"gatsby_image_path":"..\/..\/images\/spider-man-3.jpg",
+			"slug":"spider-man-3"
+		},
+		{
+			"title":"Spider-Man 2",
+			"gatsby_image_path":"..\/..\/images\/spider-man-2.jpg",
+			"slug":"spider-man-2"
+		},
+		{
+			"title":"Snowpiercer",
+			"gatsby_image_path":"..\/..\/images\/snowpiercer.jpg",
+			"slug":"snowpiercer"
+		},
+		{
+			"title":"Sand Castle",
+			"gatsby_image_path":"..\/..\/images\/sand-castle.jpg",
+			"slug":"sand-castle"
+		},
+		{
+			"title":"Roald Dahl's The Witches",
+			"gatsby_image_path":"..\/..\/images\/roald-dahl-s-the-witches.jpg",
+			"slug":"roald-dahl-s-the-witches"
 		}
 	],
 	"related_most_similar":[
@@ -262,6 +312,21 @@
 			"slug":"the-blind-side"
 		},
 		{
+			"title":"Soul Surfer",
+			"gatsby_image_path":"..\/..\/images\/soul-surfer.jpg",
+			"slug":"soul-surfer"
+		},
+		{
+			"title":"Woodlawn",
+			"gatsby_image_path":"..\/..\/images\/woodlawn.jpg",
+			"slug":"woodlawn"
+		},
+		{
+			"title":"Red Tails",
+			"gatsby_image_path":"..\/..\/images\/red-tails.jpg",
+			"slug":"red-tails"
+		},
+		{
 			"title":"More Than Miyagi: The Pat Morita Story",
 			"gatsby_image_path":"..\/..\/images\/more-than-miyagi-the-pat-morita-story.jpg",
 			"slug":"more-than-miyagi-the-pat-morita-story"
@@ -277,14 +342,14 @@
 			"slug":"until-forever"
 		},
 		{
+			"title":"The World's Fastest Indian",
+			"gatsby_image_path":"..\/..\/images\/the-world-s-fastest-indian.jpg",
+			"slug":"the-world-s-fastest-indian"
+		},
+		{
 			"title":"Togo",
 			"gatsby_image_path":"..\/..\/images\/togo.jpg",
 			"slug":"togo"
-		},
-		{
-			"title":"Bring Your Own Brigade",
-			"gatsby_image_path":"..\/..\/images\/bring-your-own-brigade.jpg",
-			"slug":"bring-your-own-brigade"
 		},
 		{
 			"title":"Finding Grace",
@@ -292,14 +357,29 @@
 			"slug":"finding-grace"
 		},
 		{
+			"title":"Bring Your Own Brigade",
+			"gatsby_image_path":"..\/..\/images\/bring-your-own-brigade.jpg",
+			"slug":"bring-your-own-brigade"
+		},
+		{
 			"title":"Kingsman: The Secret Service",
 			"gatsby_image_path":"..\/..\/images\/kingsman-the-secret-service.jpg",
 			"slug":"kingsman-the-secret-service"
 		},
 		{
+			"title":"Machine Gun Preacher",
+			"gatsby_image_path":"..\/..\/images\/machine-gun-preacher.jpg",
+			"slug":"machine-gun-preacher"
+		},
+		{
 			"title":"Money Heist: The Phenomenon",
 			"gatsby_image_path":"..\/..\/images\/money-heist-the-phenomenon.jpg",
 			"slug":"money-heist-the-phenomenon"
+		},
+		{
+			"title":"I'm Not Ashamed",
+			"gatsby_image_path":"..\/..\/images\/i-m-not-ashamed.jpg",
+			"slug":"i-m-not-ashamed"
 		},
 		{
 			"title":"Blood Diamond",
@@ -322,39 +402,9 @@
 			"slug":"anna"
 		},
 		{
-			"title":"I'm Not Ashamed",
-			"gatsby_image_path":"..\/..\/images\/i-m-not-ashamed.jpg",
-			"slug":"i-m-not-ashamed"
-		},
-		{
-			"title":"The Meg",
-			"gatsby_image_path":"..\/..\/images\/the-meg.jpg",
-			"slug":"the-meg"
-		},
-		{
 			"title":"X-Men: Days of Future Past",
 			"gatsby_image_path":"..\/..\/images\/x-men-days-of-future-past.jpg",
 			"slug":"x-men-days-of-future-past"
-		},
-		{
-			"title":"Hustlers",
-			"gatsby_image_path":"..\/..\/images\/hustlers.jpg",
-			"slug":"hustlers"
-		},
-		{
-			"title":"The Craft: Legacy",
-			"gatsby_image_path":"..\/..\/images\/the-craft-legacy.jpg",
-			"slug":"the-craft-legacy"
-		},
-		{
-			"title":"The Mitchells vs. the Machines",
-			"gatsby_image_path":"..\/..\/images\/the-mitchells-vs.-the-machines.jpg",
-			"slug":"the-mitchells-vs.-the-machines"
-		},
-		{
-			"title":"Kingdom: Ashin of the North",
-			"gatsby_image_path":"..\/..\/images\/kingdom-ashin-of-the-north.jpg",
-			"slug":"kingdom-ashin-of-the-north"
 		}
 	],
 	"tmdb_id":381284,

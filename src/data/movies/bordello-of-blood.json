@@ -76,6 +76,11 @@
 			"slug":"the-nightmare-before-christmas"
 		},
 		{
+			"title":"The Lion King",
+			"gatsby_image_path":"..\/..\/images\/the-lion-king.jpg",
+			"slug":"the-lion-king"
+		},
+		{
 			"title":"The Lion King 1½",
 			"gatsby_image_path":"..\/..\/images\/the-lion-king-1-½.jpg",
 			"slug":"the-lion-king-1-½"
@@ -99,6 +104,51 @@
 			"title":"Safe",
 			"gatsby_image_path":"..\/..\/images\/safe.jpg",
 			"slug":"safe"
+		},
+		{
+			"title":"Pocahontas",
+			"gatsby_image_path":"..\/..\/images\/pocahontas.jpg",
+			"slug":"pocahontas"
+		},
+		{
+			"title":"Man on a Ledge",
+			"gatsby_image_path":"..\/..\/images\/man-on-a-ledge.jpg",
+			"slug":"man-on-a-ledge"
+		},
+		{
+			"title":"Iron Man 3",
+			"gatsby_image_path":"..\/..\/images\/iron-man-3.jpg",
+			"slug":"iron-man-3"
+		},
+		{
+			"title":"Introducing Chucky: The Making of Child's Play",
+			"gatsby_image_path":"..\/..\/images\/introducing-chucky-the-making-of-child-s-play.jpg",
+			"slug":"introducing-chucky-the-making-of-child-s-play"
+		},
+		{
+			"title":"Friday the 13th: The Final Chapter",
+			"gatsby_image_path":"..\/..\/images\/friday-the-13th-the-final-chapter.jpg",
+			"slug":"friday-the-13th-the-final-chapter"
+		},
+		{
+			"title":"Child's Play",
+			"gatsby_image_path":"..\/..\/images\/child-s-play.jpg",
+			"slug":"child-s-play"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
 		}
 	],
 	"related_most_similar":[
@@ -267,6 +317,11 @@
 			"slug":"friday-the-13th-the-final-chapter"
 		},
 		{
+			"title":"Dark Shadows",
+			"gatsby_image_path":"..\/..\/images\/dark-shadows.jpg",
+			"slug":"dark-shadows"
+		},
+		{
 			"title":"The Exorcist",
 			"gatsby_image_path":"..\/..\/images\/the-exorcist.jpg",
 			"slug":"the-exorcist"
@@ -277,14 +332,24 @@
 			"slug":"black-widow"
 		},
 		{
+			"title":"Palmer",
+			"gatsby_image_path":"..\/..\/images\/palmer.jpg",
+			"slug":"palmer"
+		},
+		{
 			"title":"The Autopsy of Jane Doe",
 			"gatsby_image_path":"..\/..\/images\/the-autopsy-of-jane-doe.jpg",
 			"slug":"the-autopsy-of-jane-doe"
 		},
 		{
-			"title":"Palmer",
-			"gatsby_image_path":"..\/..\/images\/palmer.jpg",
-			"slug":"palmer"
+			"title":"Saw 3D",
+			"gatsby_image_path":"..\/..\/images\/saw-3d.jpg",
+			"slug":"saw-3d"
+		},
+		{
+			"title":"Everly",
+			"gatsby_image_path":"..\/..\/images\/everly.jpg",
+			"slug":"everly"
 		},
 		{
 			"title":"Law Abiding Citizen",
@@ -292,9 +357,24 @@
 			"slug":"law-abiding-citizen"
 		},
 		{
-			"title":"Saw 3D",
-			"gatsby_image_path":"..\/..\/images\/saw-3d.jpg",
-			"slug":"saw-3d"
+			"title":"Undisputed III: Redemption",
+			"gatsby_image_path":"..\/..\/images\/undisputed-iii-redemption.jpg",
+			"slug":"undisputed-iii-redemption"
+		},
+		{
+			"title":"Hancock",
+			"gatsby_image_path":"..\/..\/images\/hancock.jpg",
+			"slug":"hancock"
+		},
+		{
+			"title":"Hole in One",
+			"gatsby_image_path":"..\/..\/images\/hole-in-one.jpg",
+			"slug":"hole-in-one"
+		},
+		{
+			"title":"Black as Night",
+			"gatsby_image_path":"..\/..\/images\/black-as-night.jpg",
+			"slug":"black-as-night"
 		},
 		{
 			"title":"The Nun",
@@ -307,19 +387,9 @@
 			"slug":"jaws"
 		},
 		{
-			"title":"A Score to Settle",
-			"gatsby_image_path":"..\/..\/images\/a-score-to-settle.jpg",
-			"slug":"a-score-to-settle"
-		},
-		{
-			"title":"Flashback",
-			"gatsby_image_path":"..\/..\/images\/flashback.jpg",
-			"slug":"flashback"
-		},
-		{
-			"title":"Undisputed III: Redemption",
-			"gatsby_image_path":"..\/..\/images\/undisputed-iii-redemption.jpg",
-			"slug":"undisputed-iii-redemption"
+			"title":"Candyman",
+			"gatsby_image_path":"..\/..\/images\/candyman.jpg",
+			"slug":"candyman"
 		},
 		{
 			"title":"Bad Boys for Life",
@@ -327,34 +397,14 @@
 			"slug":"bad-boys-for-life"
 		},
 		{
-			"title":"Bad Sister",
-			"gatsby_image_path":"..\/..\/images\/bad-sister.jpg",
-			"slug":"bad-sister"
-		},
-		{
-			"title":"The Texas Chainsaw Massacre",
-			"gatsby_image_path":"..\/..\/images\/the-texas-chainsaw-massacre.jpg",
-			"slug":"the-texas-chainsaw-massacre"
+			"title":"A Score to Settle",
+			"gatsby_image_path":"..\/..\/images\/a-score-to-settle.jpg",
+			"slug":"a-score-to-settle"
 		},
 		{
 			"title":"Reaptown",
 			"gatsby_image_path":"..\/..\/images\/reaptown.jpg",
 			"slug":"reaptown"
-		},
-		{
-			"title":"First Blood",
-			"gatsby_image_path":"..\/..\/images\/first-blood.jpg",
-			"slug":"first-blood"
-		},
-		{
-			"title":"Crisis",
-			"gatsby_image_path":"..\/..\/images\/crisis.jpg",
-			"slug":"crisis"
-		},
-		{
-			"title":"Captive State",
-			"gatsby_image_path":"..\/..\/images\/captive-state.jpg",
-			"slug":"captive-state"
 		}
 	],
 	"tmdb_id":9431,

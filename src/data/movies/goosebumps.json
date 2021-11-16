@@ -55,9 +55,24 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Year One",
+			"gatsby_image_path":"..\/..\/images\/year-one.jpg",
+			"slug":"year-one"
+		},
+		{
+			"title":"Tropic Thunder",
+			"gatsby_image_path":"..\/..\/images\/tropic-thunder.jpg",
+			"slug":"tropic-thunder"
+		},
+		{
 			"title":"The Last Summer",
 			"gatsby_image_path":"..\/..\/images\/the-last-summer.jpg",
 			"slug":"the-last-summer"
+		},
+		{
+			"title":"The Interview",
+			"gatsby_image_path":"..\/..\/images\/the-interview.jpg",
+			"slug":"the-interview"
 		},
 		{
 			"title":"The Hustle",
@@ -70,6 +85,11 @@
 			"slug":"the-babysitter-killer-queen"
 		},
 		{
+			"title":"Super 8",
+			"gatsby_image_path":"..\/..\/images\/super-8.jpg",
+			"slug":"super-8"
+		},
+		{
 			"title":"Shark Tale",
 			"gatsby_image_path":"..\/..\/images\/shark-tale.jpg",
 			"slug":"shark-tale"
@@ -80,6 +100,16 @@
 			"slug":"scouts-guide-to-the-zombie-apocalypse"
 		},
 		{
+			"title":"Role Models",
+			"gatsby_image_path":"..\/..\/images\/role-models.jpg",
+			"slug":"role-models"
+		},
+		{
+			"title":"Prisoners",
+			"gatsby_image_path":"..\/..\/images\/prisoners.jpg",
+			"slug":"prisoners"
+		},
+		{
 			"title":"Nacho Libre",
 			"gatsby_image_path":"..\/..\/images\/nacho-libre.jpg",
 			"slug":"nacho-libre"
@@ -88,6 +118,11 @@
 			"title":"Monster Trucks",
 			"gatsby_image_path":"..\/..\/images\/monster-trucks.jpg",
 			"slug":"monster-trucks"
+		},
+		{
+			"title":"Lady Bird",
+			"gatsby_image_path":"..\/..\/images\/lady-bird.jpg",
+			"slug":"lady-bird"
 		},
 		{
 			"title":"Kung Fu Panda",
@@ -103,6 +138,21 @@
 			"title":"Kung Fu Panda 2",
 			"gatsby_image_path":"..\/..\/images\/kung-fu-panda-2.jpg",
 			"slug":"kung-fu-panda-2"
+		},
+		{
+			"title":"King Kong",
+			"gatsby_image_path":"..\/..\/images\/king-kong.jpg",
+			"slug":"king-kong"
+		},
+		{
+			"title":"Jumanji: Welcome to the Jungle",
+			"gatsby_image_path":"..\/..\/images\/jumanji-welcome-to-the-jungle.jpg",
+			"slug":"jumanji-welcome-to-the-jungle"
+		},
+		{
+			"title":"Jumanji: The Next Level",
+			"gatsby_image_path":"..\/..\/images\/jumanji-the-next-level.jpg",
+			"slug":"jumanji-the-next-level"
 		}
 	],
 	"related_most_similar":[
@@ -266,11 +316,6 @@
 			"slug":"love-and-monsters"
 		},
 		{
-			"title":"Tremors: A Cold Day in Hell",
-			"gatsby_image_path":"..\/..\/images\/tremors-a-cold-day-in-hell.jpg",
-			"slug":"tremors-a-cold-day-in-hell"
-		},
-		{
 			"title":"Thir13en Ghosts",
 			"gatsby_image_path":"..\/..\/images\/thir13en-ghosts.jpg",
 			"slug":"thir13en-ghosts"
@@ -281,14 +326,34 @@
 			"slug":"the-water-man"
 		},
 		{
-			"title":"Ghost Rider",
-			"gatsby_image_path":"..\/..\/images\/ghost-rider.jpg",
-			"slug":"ghost-rider"
+			"title":"Tremors: A Cold Day in Hell",
+			"gatsby_image_path":"..\/..\/images\/tremors-a-cold-day-in-hell.jpg",
+			"slug":"tremors-a-cold-day-in-hell"
+		},
+		{
+			"title":"Scream 4",
+			"gatsby_image_path":"..\/..\/images\/scream-4.jpg",
+			"slug":"scream-4"
+		},
+		{
+			"title":"Halloween III: Season of the Witch",
+			"gatsby_image_path":"..\/..\/images\/halloween-iii-season-of-the-witch.jpg",
+			"slug":"halloween-iii-season-of-the-witch"
 		},
 		{
 			"title":"The Devil's Advocate",
 			"gatsby_image_path":"..\/..\/images\/the-devil-s-advocate.jpg",
 			"slug":"the-devil-s-advocate"
+		},
+		{
+			"title":"Ghost Rider",
+			"gatsby_image_path":"..\/..\/images\/ghost-rider.jpg",
+			"slug":"ghost-rider"
+		},
+		{
+			"title":"The Return of the Living Dead",
+			"gatsby_image_path":"..\/..\/images\/the-return-of-the-living-dead.jpg",
+			"slug":"the-return-of-the-living-dead"
 		},
 		{
 			"title":"The Christmas Chronicles: Part Two",
@@ -306,9 +371,14 @@
 			"slug":"backdraft-2"
 		},
 		{
-			"title":"This Little Love of Mine",
-			"gatsby_image_path":"..\/..\/images\/this-little-love-of-mine.jpg",
-			"slug":"this-little-love-of-mine"
+			"title":"Drag Me to Hell",
+			"gatsby_image_path":"..\/..\/images\/drag-me-to-hell.jpg",
+			"slug":"drag-me-to-hell"
+		},
+		{
+			"title":"Halloween: Resurrection",
+			"gatsby_image_path":"..\/..\/images\/halloween-resurrection.jpg",
+			"slug":"halloween-resurrection"
 		},
 		{
 			"title":"Monster Trucks",
@@ -321,9 +391,9 @@
 			"slug":"dead-silence"
 		},
 		{
-			"title":"Scary Movie 5",
-			"gatsby_image_path":"..\/..\/images\/scary-movie-5.jpg",
-			"slug":"scary-movie-5"
+			"title":"This Little Love of Mine",
+			"gatsby_image_path":"..\/..\/images\/this-little-love-of-mine.jpg",
+			"slug":"this-little-love-of-mine"
 		},
 		{
 			"title":"TRON: Legacy",
@@ -331,34 +401,14 @@
 			"slug":"tron-legacy"
 		},
 		{
-			"title":"A Haunted House",
-			"gatsby_image_path":"..\/..\/images\/a-haunted-house.jpg",
-			"slug":"a-haunted-house"
+			"title":"Scary Movie 5",
+			"gatsby_image_path":"..\/..\/images\/scary-movie-5.jpg",
+			"slug":"scary-movie-5"
 		},
 		{
-			"title":"The Texas Chainsaw Massacre: The Beginning",
-			"gatsby_image_path":"..\/..\/images\/the-texas-chainsaw-massacre-the-beginning.jpg",
-			"slug":"the-texas-chainsaw-massacre-the-beginning"
-		},
-		{
-			"title":"Harry Potter and the Goblet of Fire",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
-			"slug":"harry-potter-and-the-goblet-of-fire"
-		},
-		{
-			"title":"Pain & Gain",
-			"gatsby_image_path":"..\/..\/images\/pain-gain.jpg",
-			"slug":"pain-gain"
-		},
-		{
-			"title":"Cult of Chucky",
-			"gatsby_image_path":"..\/..\/images\/cult-of-chucky.jpg",
-			"slug":"cult-of-chucky"
-		},
-		{
-			"title":"The Last Man",
-			"gatsby_image_path":"..\/..\/images\/the-last-man.jpg",
-			"slug":"the-last-man"
+			"title":"Super 8",
+			"gatsby_image_path":"..\/..\/images\/super-8.jpg",
+			"slug":"super-8"
 		}
 	],
 	"tmdb_id":257445,

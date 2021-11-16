@@ -57,6 +57,11 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
 			"title":"Willy's Wonderland",
 			"gatsby_image_path":"..\/..\/images\/willy-s-wonderland.jpg",
 			"slug":"willy-s-wonderland"
@@ -87,6 +92,21 @@
 			"slug":"snake-eyes"
 		},
 		{
+			"title":"Seeking Justice",
+			"gatsby_image_path":"..\/..\/images\/seeking-justice.jpg",
+			"slug":"seeking-justice"
+		},
+		{
+			"title":"Season of the Witch",
+			"gatsby_image_path":"..\/..\/images\/season-of-the-witch.jpg",
+			"slug":"season-of-the-witch"
+		},
+		{
+			"title":"Sea Fever",
+			"gatsby_image_path":"..\/..\/images\/sea-fever.jpg",
+			"slug":"sea-fever"
+		},
+		{
 			"title":"Primal",
 			"gatsby_image_path":"..\/..\/images\/primal.jpg",
 			"slug":"primal"
@@ -102,9 +122,39 @@
 			"slug":"pig"
 		},
 		{
+			"title":"Outcast",
+			"gatsby_image_path":"..\/..\/images\/outcast.jpg",
+			"slug":"outcast"
+		},
+		{
+			"title":"Luxor",
+			"gatsby_image_path":"..\/..\/images\/luxor.jpg",
+			"slug":"luxor"
+		},
+		{
+			"title":"Left Behind",
+			"gatsby_image_path":"..\/..\/images\/left-behind.jpg",
+			"slug":"left-behind"
+		},
+		{
+			"title":"Knowing",
+			"gatsby_image_path":"..\/..\/images\/knowing.jpg",
+			"slug":"knowing"
+		},
+		{
 			"title":"Kill Chain",
 			"gatsby_image_path":"..\/..\/images\/kill-chain.jpg",
 			"slug":"kill-chain"
+		},
+		{
+			"title":"Kick-Ass",
+			"gatsby_image_path":"..\/..\/images\/kick-ass.jpg",
+			"slug":"kick-ass"
+		},
+		{
+			"title":"Jiu Jitsu",
+			"gatsby_image_path":"..\/..\/images\/jiu-jitsu.jpg",
+			"slug":"jiu-jitsu"
 		}
 	],
 	"related_most_similar":[
@@ -268,14 +318,29 @@
 			"slug":"bliss"
 		},
 		{
+			"title":"Malignant",
+			"gatsby_image_path":"..\/..\/images\/malignant.jpg",
+			"slug":"malignant"
+		},
+		{
 			"title":"Palmer",
 			"gatsby_image_path":"..\/..\/images\/palmer.jpg",
 			"slug":"palmer"
 		},
 		{
+			"title":"The Power of the Dog",
+			"gatsby_image_path":"..\/..\/images\/the-power-of-the-dog.jpg",
+			"slug":"the-power-of-the-dog"
+		},
+		{
 			"title":"Land",
 			"gatsby_image_path":"..\/..\/images\/land.jpg",
 			"slug":"land"
+		},
+		{
+			"title":"Motherless Brooklyn",
+			"gatsby_image_path":"..\/..\/images\/motherless-brooklyn.jpg",
+			"slug":"motherless-brooklyn"
 		},
 		{
 			"title":"Mortal Engines",
@@ -288,19 +353,9 @@
 			"slug":"captive-state"
 		},
 		{
-			"title":"Motherless Brooklyn",
-			"gatsby_image_path":"..\/..\/images\/motherless-brooklyn.jpg",
-			"slug":"motherless-brooklyn"
-		},
-		{
 			"title":"The Exorcist",
 			"gatsby_image_path":"..\/..\/images\/the-exorcist.jpg",
 			"slug":"the-exorcist"
-		},
-		{
-			"title":"The Lion King II: Simba's Pride",
-			"gatsby_image_path":"..\/..\/images\/the-lion-king-ii-simba-s-pride.jpg",
-			"slug":"the-lion-king-ii-simba-s-pride"
 		},
 		{
 			"title":"The Shawshank Redemption",
@@ -308,9 +363,9 @@
 			"slug":"the-shawshank-redemption"
 		},
 		{
-			"title":"The Call of the Wild",
-			"gatsby_image_path":"..\/..\/images\/the-call-of-the-wild.jpg",
-			"slug":"the-call-of-the-wild"
+			"title":"The Lion King II: Simba's Pride",
+			"gatsby_image_path":"..\/..\/images\/the-lion-king-ii-simba-s-pride.jpg",
+			"slug":"the-lion-king-ii-simba-s-pride"
 		},
 		{
 			"title":"Friday the 13th: The Final Chapter",
@@ -318,9 +373,19 @@
 			"slug":"friday-the-13th-the-final-chapter"
 		},
 		{
-			"title":"Bordello of Blood",
-			"gatsby_image_path":"..\/..\/images\/bordello-of-blood.jpg",
-			"slug":"bordello-of-blood"
+			"title":"Forrest Gump",
+			"gatsby_image_path":"..\/..\/images\/forrest-gump.jpg",
+			"slug":"forrest-gump"
+		},
+		{
+			"title":"Candyman",
+			"gatsby_image_path":"..\/..\/images\/candyman.jpg",
+			"slug":"candyman"
+		},
+		{
+			"title":"The Call of the Wild",
+			"gatsby_image_path":"..\/..\/images\/the-call-of-the-wild.jpg",
+			"slug":"the-call-of-the-wild"
 		},
 		{
 			"title":"Reaptown",
@@ -328,9 +393,9 @@
 			"slug":"reaptown"
 		},
 		{
-			"title":"Forrest Gump",
-			"gatsby_image_path":"..\/..\/images\/forrest-gump.jpg",
-			"slug":"forrest-gump"
+			"title":"Dark Shadows",
+			"gatsby_image_path":"..\/..\/images\/dark-shadows.jpg",
+			"slug":"dark-shadows"
 		},
 		{
 			"title":"Bad Sister",
@@ -338,29 +403,14 @@
 			"slug":"bad-sister"
 		},
 		{
-			"title":"Flashback",
-			"gatsby_image_path":"..\/..\/images\/flashback.jpg",
-			"slug":"flashback"
+			"title":"Bordello of Blood",
+			"gatsby_image_path":"..\/..\/images\/bordello-of-blood.jpg",
+			"slug":"bordello-of-blood"
 		},
 		{
 			"title":"The Hills Have Eyes",
 			"gatsby_image_path":"..\/..\/images\/the-hills-have-eyes.jpg",
 			"slug":"the-hills-have-eyes"
-		},
-		{
-			"title":"A Christmas Carol",
-			"gatsby_image_path":"..\/..\/images\/a-christmas-carol.jpg",
-			"slug":"a-christmas-carol"
-		},
-		{
-			"title":"Penguin Bloom",
-			"gatsby_image_path":"..\/..\/images\/penguin-bloom.jpg",
-			"slug":"penguin-bloom"
-		},
-		{
-			"title":"Gone Girl",
-			"gatsby_image_path":"..\/..\/images\/gone-girl.jpg",
-			"slug":"gone-girl"
 		}
 	],
 	"tmdb_id":460885,

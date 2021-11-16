@@ -52,6 +52,11 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Woodlawn",
+			"gatsby_image_path":"..\/..\/images\/woodlawn.jpg",
+			"slug":"woodlawn"
+		},
+		{
 			"title":"This Little Love of Mine",
 			"gatsby_image_path":"..\/..\/images\/this-little-love-of-mine.jpg",
 			"slug":"this-little-love-of-mine"
@@ -77,9 +82,19 @@
 			"slug":"teen-titans-go-see-space-jam"
 		},
 		{
-			"title":"Security",
-			"gatsby_image_path":"..\/..\/images\/security.jpg",
-			"slug":"security"
+			"title":"LEGO Star Wars Terrifying Tales",
+			"gatsby_image_path":"..\/..\/images\/lego-star-wars-terrifying-tales.jpg",
+			"slug":"lego-star-wars-terrifying-tales"
+		},
+		{
+			"title":"LEGO Marvel Spider-Man: Vexed by Venom",
+			"gatsby_image_path":"..\/..\/images\/lego-marvel-spider-man-vexed-by-venom.jpg",
+			"slug":"lego-marvel-spider-man-vexed-by-venom"
+		},
+		{
+			"title":"Krampus",
+			"gatsby_image_path":"..\/..\/images\/krampus.jpg",
+			"slug":"krampus"
 		},
 		{
 			"title":"Justice Society: World War II",
@@ -97,9 +112,44 @@
 			"slug":"justice-league-gods-and-monsters"
 		},
 		{
+			"title":"Hannah Montana: The Movie",
+			"gatsby_image_path":"..\/..\/images\/hannah-montana-the-movie.jpg",
+			"slug":"hannah-montana-the-movie"
+		},
+		{
+			"title":"Candyman",
+			"gatsby_image_path":"..\/..\/images\/candyman.jpg",
+			"slug":"candyman"
+		},
+		{
 			"title":"Batman: The Long Halloween, Part Two",
 			"gatsby_image_path":"..\/..\/images\/batman-the-long-halloween-part-two.jpg",
 			"slug":"batman-the-long-halloween-part-two"
+		},
+		{
+			"title":"Batman: The Long Halloween, Part One",
+			"gatsby_image_path":"..\/..\/images\/batman-the-long-halloween-part-one.jpg",
+			"slug":"batman-the-long-halloween-part-one"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
+			"title":"Zombieland: Double Tap",
+			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
+			"slug":"zombieland-double-tap"
 		}
 	],
 	"related_most_similar":[
@@ -293,24 +343,9 @@
 			"slug":"the-suicide-squad"
 		},
 		{
-			"title":"Blade",
-			"gatsby_image_path":"..\/..\/images\/blade.jpg",
-			"slug":"blade"
-		},
-		{
 			"title":"Wrath of the Titans",
 			"gatsby_image_path":"..\/..\/images\/wrath-of-the-titans.jpg",
 			"slug":"wrath-of-the-titans"
-		},
-		{
-			"title":"Guardians of the Galaxy",
-			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy.jpg",
-			"slug":"guardians-of-the-galaxy"
-		},
-		{
-			"title":"Penguins of Madagascar",
-			"gatsby_image_path":"..\/..\/images\/penguins-of-madagascar.jpg",
-			"slug":"penguins-of-madagascar"
 		},
 		{
 			"title":"Vanguard",
@@ -318,19 +353,19 @@
 			"slug":"vanguard"
 		},
 		{
-			"title":"RED 2",
-			"gatsby_image_path":"..\/..\/images\/red-2.jpg",
-			"slug":"red-2"
+			"title":"Penguins of Madagascar",
+			"gatsby_image_path":"..\/..\/images\/penguins-of-madagascar.jpg",
+			"slug":"penguins-of-madagascar"
 		},
 		{
-			"title":"Justice League: Gods and Monsters",
-			"gatsby_image_path":"..\/..\/images\/justice-league-gods-and-monsters.jpg",
-			"slug":"justice-league-gods-and-monsters"
+			"title":"Blade",
+			"gatsby_image_path":"..\/..\/images\/blade.jpg",
+			"slug":"blade"
 		},
 		{
-			"title":"Zack Snyder's Justice League",
-			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
-			"slug":"zack-snyder-s-justice-league"
+			"title":"Guardians of the Galaxy",
+			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy.jpg",
+			"slug":"guardians-of-the-galaxy"
 		},
 		{
 			"title":"Wonder Woman",
@@ -338,14 +373,14 @@
 			"slug":"wonder-woman"
 		},
 		{
-			"title":"Teen Titans: The Judas Contract",
-			"gatsby_image_path":"..\/..\/images\/teen-titans-the-judas-contract.jpg",
-			"slug":"teen-titans-the-judas-contract"
+			"title":"Zack Snyder's Justice League",
+			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
+			"slug":"zack-snyder-s-justice-league"
 		},
 		{
-			"title":"Despicable Me 2",
-			"gatsby_image_path":"..\/..\/images\/despicable-me-2.jpg",
-			"slug":"despicable-me-2"
+			"title":"Justice League: Gods and Monsters",
+			"gatsby_image_path":"..\/..\/images\/justice-league-gods-and-monsters.jpg",
+			"slug":"justice-league-gods-and-monsters"
 		},
 		{
 			"title":"Justice League: The Flashpoint Paradox",
@@ -353,9 +388,24 @@
 			"slug":"justice-league-the-flashpoint-paradox"
 		},
 		{
+			"title":"Spectral",
+			"gatsby_image_path":"..\/..\/images\/spectral.jpg",
+			"slug":"spectral"
+		},
+		{
+			"title":"RED 2",
+			"gatsby_image_path":"..\/..\/images\/red-2.jpg",
+			"slug":"red-2"
+		},
+		{
 			"title":"Batman",
 			"gatsby_image_path":"..\/..\/images\/batman.jpg",
 			"slug":"batman"
+		},
+		{
+			"title":"Despicable Me 2",
+			"gatsby_image_path":"..\/..\/images\/despicable-me-2.jpg",
+			"slug":"despicable-me-2"
 		}
 	],
 	"tmdb_id":487242,

@@ -53,6 +53,16 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Mr. Popper's Penguins",
+			"gatsby_image_path":"..\/..\/images\/mr.-popper-s-penguins.jpg",
+			"slug":"mr.-popper-s-penguins"
+		},
+		{
+			"title":"Yes Man",
+			"gatsby_image_path":"..\/..\/images\/yes-man.jpg",
+			"slug":"yes-man"
+		},
+		{
 			"title":"The Truman Show",
 			"gatsby_image_path":"..\/..\/images\/the-truman-show.jpg",
 			"slug":"the-truman-show"
@@ -66,6 +76,11 @@
 			"title":"The Mask",
 			"gatsby_image_path":"..\/..\/images\/the-mask.jpg",
 			"slug":"the-mask"
+		},
+		{
+			"title":"The Jungle Book",
+			"gatsby_image_path":"..\/..\/images\/the-jungle-book.jpg",
+			"slug":"the-jungle-book"
 		},
 		{
 			"title":"The Hangover Part II",
@@ -101,6 +116,41 @@
 			"title":"Sonic the Hedgehog 2",
 			"gatsby_image_path":"..\/..\/images\/sonic-the-hedgehog-2.jpg",
 			"slug":"sonic-the-hedgehog-2"
+		},
+		{
+			"title":"Sextuplets",
+			"gatsby_image_path":"..\/..\/images\/sextuplets.jpg",
+			"slug":"sextuplets"
+		},
+		{
+			"title":"Scooby-Doo! in Where's My Mummy?",
+			"gatsby_image_path":"..\/..\/images\/scooby-doo-in-where-s-my-mummy.jpg",
+			"slug":"scooby-doo-in-where-s-my-mummy"
+		},
+		{
+			"title":"Scary Movie 5",
+			"gatsby_image_path":"..\/..\/images\/scary-movie-5.jpg",
+			"slug":"scary-movie-5"
+		},
+		{
+			"title":"Scary Movie 4",
+			"gatsby_image_path":"..\/..\/images\/scary-movie-4.jpg",
+			"slug":"scary-movie-4"
+		},
+		{
+			"title":"Promising Young Woman",
+			"gatsby_image_path":"..\/..\/images\/promising-young-woman.jpg",
+			"slug":"promising-young-woman"
+		},
+		{
+			"title":"Mamma Mia!",
+			"gatsby_image_path":"..\/..\/images\/mamma-mia.jpg",
+			"slug":"mamma-mia"
+		},
+		{
+			"title":"Leprechaun 2",
+			"gatsby_image_path":"..\/..\/images\/leprechaun-2.jpg",
+			"slug":"leprechaun-2"
 		}
 	],
 	"related_most_similar":[
@@ -269,19 +319,14 @@
 			"slug":"an-american-tail-fievel-goes-west"
 		},
 		{
+			"title":"Krampus",
+			"gatsby_image_path":"..\/..\/images\/krampus.jpg",
+			"slug":"krampus"
+		},
+		{
 			"title":"Goosebumps",
 			"gatsby_image_path":"..\/..\/images\/goosebumps.jpg",
 			"slug":"goosebumps"
-		},
-		{
-			"title":"Toy Story 4",
-			"gatsby_image_path":"..\/..\/images\/toy-story-4.jpg",
-			"slug":"toy-story-4"
-		},
-		{
-			"title":"Scooby-Doo! Curse of the Lake Monster",
-			"gatsby_image_path":"..\/..\/images\/scooby-doo-curse-of-the-lake-monster.jpg",
-			"slug":"scooby-doo-curse-of-the-lake-monster"
 		},
 		{
 			"title":"100% Wolf",
@@ -289,9 +334,9 @@
 			"slug":"100-%-wolf"
 		},
 		{
-			"title":"Monster Trucks",
-			"gatsby_image_path":"..\/..\/images\/monster-trucks.jpg",
-			"slug":"monster-trucks"
+			"title":"Toy Story 4",
+			"gatsby_image_path":"..\/..\/images\/toy-story-4.jpg",
+			"slug":"toy-story-4"
 		},
 		{
 			"title":"Casper",
@@ -299,9 +344,14 @@
 			"slug":"casper"
 		},
 		{
-			"title":"The Road to El Dorado",
-			"gatsby_image_path":"..\/..\/images\/the-road-to-el-dorado.jpg",
-			"slug":"the-road-to-el-dorado"
+			"title":"Monster Trucks",
+			"gatsby_image_path":"..\/..\/images\/monster-trucks.jpg",
+			"slug":"monster-trucks"
+		},
+		{
+			"title":"Scooby-Doo! Curse of the Lake Monster",
+			"gatsby_image_path":"..\/..\/images\/scooby-doo-curse-of-the-lake-monster.jpg",
+			"slug":"scooby-doo-curse-of-the-lake-monster"
 		},
 		{
 			"title":"Cloudy with a Chance of Meatballs",
@@ -309,9 +359,14 @@
 			"slug":"cloudy-with-a-chance-of-meatballs"
 		},
 		{
-			"title":"Beetlejuice",
-			"gatsby_image_path":"..\/..\/images\/beetlejuice.jpg",
-			"slug":"beetlejuice"
+			"title":"Jingle All the Way",
+			"gatsby_image_path":"..\/..\/images\/jingle-all-the-way.jpg",
+			"slug":"jingle-all-the-way"
+		},
+		{
+			"title":"The Road to El Dorado",
+			"gatsby_image_path":"..\/..\/images\/the-road-to-el-dorado.jpg",
+			"slug":"the-road-to-el-dorado"
 		},
 		{
 			"title":"ParaNorman",
@@ -319,19 +374,24 @@
 			"slug":"paranorman"
 		},
 		{
+			"title":"Halloween III: Season of the Witch",
+			"gatsby_image_path":"..\/..\/images\/halloween-iii-season-of-the-witch.jpg",
+			"slug":"halloween-iii-season-of-the-witch"
+		},
+		{
+			"title":"The Ogglies: Welcome to Smelliville",
+			"gatsby_image_path":"..\/..\/images\/the-ogglies-welcome-to-smelliville.jpg",
+			"slug":"the-ogglies-welcome-to-smelliville"
+		},
+		{
+			"title":"Beetlejuice",
+			"gatsby_image_path":"..\/..\/images\/beetlejuice.jpg",
+			"slug":"beetlejuice"
+		},
+		{
 			"title":"Dead Silence",
 			"gatsby_image_path":"..\/..\/images\/dead-silence.jpg",
 			"slug":"dead-silence"
-		},
-		{
-			"title":"The Little Vampire",
-			"gatsby_image_path":"..\/..\/images\/the-little-vampire.jpg",
-			"slug":"the-little-vampire"
-		},
-		{
-			"title":"The Addams Family",
-			"gatsby_image_path":"..\/..\/images\/the-addams-family.jpg",
-			"slug":"the-addams-family"
 		},
 		{
 			"title":"Bolt",
@@ -339,24 +399,14 @@
 			"slug":"bolt"
 		},
 		{
+			"title":"Scott Pilgrim vs. the World",
+			"gatsby_image_path":"..\/..\/images\/scott-pilgrim-vs.-the-world.jpg",
+			"slug":"scott-pilgrim-vs.-the-world"
+		},
+		{
 			"title":"Bumblebee",
 			"gatsby_image_path":"..\/..\/images\/bumblebee.jpg",
 			"slug":"bumblebee"
-		},
-		{
-			"title":"Ghost Rider",
-			"gatsby_image_path":"..\/..\/images\/ghost-rider.jpg",
-			"slug":"ghost-rider"
-		},
-		{
-			"title":"Tinker Bell and the Pirate Fairy",
-			"gatsby_image_path":"..\/..\/images\/tinker-bell-and-the-pirate-fairy.jpg",
-			"slug":"tinker-bell-and-the-pirate-fairy"
-		},
-		{
-			"title":"Fantastic Beasts and Where to Find Them",
-			"gatsby_image_path":"..\/..\/images\/fantastic-beasts-and-where-to-find-them.jpg",
-			"slug":"fantastic-beasts-and-where-to-find-them"
 		}
 	],
 	"tmdb_id":8871,

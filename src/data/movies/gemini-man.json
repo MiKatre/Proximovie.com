@@ -70,14 +70,29 @@
 			"slug":"the-kitchen"
 		},
 		{
+			"title":"Suicide Squad",
+			"gatsby_image_path":"..\/..\/images\/suicide-squad.jpg",
+			"slug":"suicide-squad"
+		},
+		{
 			"title":"Spies in Disguise",
 			"gatsby_image_path":"..\/..\/images\/spies-in-disguise.jpg",
 			"slug":"spies-in-disguise"
 		},
 		{
+			"title":"Shoot 'Em Up",
+			"gatsby_image_path":"..\/..\/images\/shoot--em-up.jpg",
+			"slug":"shoot--em-up"
+		},
+		{
 			"title":"Shark Tale",
 			"gatsby_image_path":"..\/..\/images\/shark-tale.jpg",
 			"slug":"shark-tale"
+		},
+		{
+			"title":"Scott Pilgrim vs. the World",
+			"gatsby_image_path":"..\/..\/images\/scott-pilgrim-vs.-the-world.jpg",
+			"slug":"scott-pilgrim-vs.-the-world"
 		},
 		{
 			"title":"Red Sparrow",
@@ -100,9 +115,44 @@
 			"slug":"men-in-black-3"
 		},
 		{
-			"title":"Lady and the Tramp",
-			"gatsby_image_path":"..\/..\/images\/lady-and-the-tramp.jpg",
-			"slug":"lady-and-the-tramp"
+			"title":"King Richard",
+			"gatsby_image_path":"..\/..\/images\/king-richard.jpg",
+			"slug":"king-richard"
+		},
+		{
+			"title":"Killer Elite",
+			"gatsby_image_path":"..\/..\/images\/killer-elite.jpg",
+			"slug":"killer-elite"
+		},
+		{
+			"title":"Kate",
+			"gatsby_image_path":"..\/..\/images\/kate.jpg",
+			"slug":"kate"
+		},
+		{
+			"title":"Jack the Giant Slayer",
+			"gatsby_image_path":"..\/..\/images\/jack-the-giant-slayer.jpg",
+			"slug":"jack-the-giant-slayer"
+		},
+		{
+			"title":"Independence Day",
+			"gatsby_image_path":"..\/..\/images\/independence-day.jpg",
+			"slug":"independence-day"
+		},
+		{
+			"title":"I Am Legend",
+			"gatsby_image_path":"..\/..\/images\/i-am-legend.jpg",
+			"slug":"i-am-legend"
+		},
+		{
+			"title":"Hummingbird",
+			"gatsby_image_path":"..\/..\/images\/hummingbird.jpg",
+			"slug":"hummingbird"
+		},
+		{
+			"title":"Hancock",
+			"gatsby_image_path":"..\/..\/images\/hancock.jpg",
+			"slug":"hancock"
 		}
 	],
 	"related_most_similar":[
@@ -296,14 +346,14 @@
 			"slug":"tron-legacy"
 		},
 		{
-			"title":"Snake Eyes: G.I. Joe Origins",
-			"gatsby_image_path":"..\/..\/images\/snake-eyes-g.i.-joe-origins.jpg",
-			"slug":"snake-eyes-g.i.-joe-origins"
-		},
-		{
 			"title":"Gunpowder Milkshake",
 			"gatsby_image_path":"..\/..\/images\/gunpowder-milkshake.jpg",
 			"slug":"gunpowder-milkshake"
+		},
+		{
+			"title":"Snake Eyes: G.I. Joe Origins",
+			"gatsby_image_path":"..\/..\/images\/snake-eyes-g.i.-joe-origins.jpg",
+			"slug":"snake-eyes-g.i.-joe-origins"
 		},
 		{
 			"title":"Minions",
@@ -311,14 +361,14 @@
 			"slug":"minions"
 		},
 		{
+			"title":"Spider-Man 2",
+			"gatsby_image_path":"..\/..\/images\/spider-man-2.jpg",
+			"slug":"spider-man-2"
+		},
+		{
 			"title":"Jolt",
 			"gatsby_image_path":"..\/..\/images\/jolt.jpg",
 			"slug":"jolt"
-		},
-		{
-			"title":"Resident Evil: Damnation",
-			"gatsby_image_path":"..\/..\/images\/resident-evil-damnation.jpg",
-			"slug":"resident-evil-damnation"
 		},
 		{
 			"title":"Terminator: Dark Fate",
@@ -326,14 +376,19 @@
 			"slug":"terminator-dark-fate"
 		},
 		{
+			"title":"Resident Evil: Damnation",
+			"gatsby_image_path":"..\/..\/images\/resident-evil-damnation.jpg",
+			"slug":"resident-evil-damnation"
+		},
+		{
+			"title":"Resident Evil: Welcome to Raccoon City",
+			"gatsby_image_path":"..\/..\/images\/resident-evil-welcome-to-raccoon-city.jpg",
+			"slug":"resident-evil-welcome-to-raccoon-city"
+		},
+		{
 			"title":"Saw V",
 			"gatsby_image_path":"..\/..\/images\/saw-v.jpg",
 			"slug":"saw-v"
-		},
-		{
-			"title":"Venom",
-			"gatsby_image_path":"..\/..\/images\/venom.jpg",
-			"slug":"venom"
 		},
 		{
 			"title":"Iron Man 2",
@@ -341,24 +396,19 @@
 			"slug":"iron-man-2"
 		},
 		{
-			"title":"Once Upon a Time in Venice",
-			"gatsby_image_path":"..\/..\/images\/once-upon-a-time-in-venice.jpg",
-			"slug":"once-upon-a-time-in-venice"
-		},
-		{
 			"title":"Artemis Fowl",
 			"gatsby_image_path":"..\/..\/images\/artemis-fowl.jpg",
 			"slug":"artemis-fowl"
 		},
 		{
-			"title":"The Amazing Spider-Man",
-			"gatsby_image_path":"..\/..\/images\/the-amazing-spider-man.jpg",
-			"slug":"the-amazing-spider-man"
+			"title":"Once Upon a Time in Venice",
+			"gatsby_image_path":"..\/..\/images\/once-upon-a-time-in-venice.jpg",
+			"slug":"once-upon-a-time-in-venice"
 		},
 		{
-			"title":"Deadpool",
-			"gatsby_image_path":"..\/..\/images\/deadpool.jpg",
-			"slug":"deadpool"
+			"title":"Man on Fire",
+			"gatsby_image_path":"..\/..\/images\/man-on-fire.jpg",
+			"slug":"man-on-fire"
 		}
 	],
 	"tmdb_id":453405,

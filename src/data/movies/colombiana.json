@@ -56,6 +56,11 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Avatar 2",
+			"gatsby_image_path":"..\/..\/images\/avatar-2.jpg",
+			"slug":"avatar-2"
+		},
+		{
 			"title":"Vivo",
 			"gatsby_image_path":"..\/..\/images\/vivo.jpg",
 			"slug":"vivo"
@@ -66,6 +71,11 @@
 			"slug":"the-meg"
 		},
 		{
+			"title":"The Losers",
+			"gatsby_image_path":"..\/..\/images\/the-losers.jpg",
+			"slug":"the-losers"
+		},
+		{
 			"title":"The Legend of the Nahuala",
 			"gatsby_image_path":"..\/..\/images\/the-legend-of-the-nahuala.jpg",
 			"slug":"the-legend-of-the-nahuala"
@@ -74,6 +84,11 @@
 			"title":"The Last Airbender",
 			"gatsby_image_path":"..\/..\/images\/the-last-airbender.jpg",
 			"slug":"the-last-airbender"
+		},
+		{
+			"title":"The Hate U Give",
+			"gatsby_image_path":"..\/..\/images\/the-hate-u-give.jpg",
+			"slug":"the-hate-u-give"
 		},
 		{
 			"title":"The Finest Hours",
@@ -104,6 +119,41 @@
 			"title":"Star Trek Into Darkness",
 			"gatsby_image_path":"..\/..\/images\/star-trek-into-darkness.jpg",
 			"slug":"star-trek-into-darkness"
+		},
+		{
+			"title":"Star Trek Beyond",
+			"gatsby_image_path":"..\/..\/images\/star-trek-beyond.jpg",
+			"slug":"star-trek-beyond"
+		},
+		{
+			"title":"Reminiscence",
+			"gatsby_image_path":"..\/..\/images\/reminiscence.jpg",
+			"slug":"reminiscence"
+		},
+		{
+			"title":"Rambo",
+			"gatsby_image_path":"..\/..\/images\/rambo.jpg",
+			"slug":"rambo"
+		},
+		{
+			"title":"Peter Rabbit 2: The Runaway",
+			"gatsby_image_path":"..\/..\/images\/peter-rabbit-2-the-runaway.jpg",
+			"slug":"peter-rabbit-2-the-runaway"
+		},
+		{
+			"title":"Missing Link",
+			"gatsby_image_path":"..\/..\/images\/missing-link.jpg",
+			"slug":"missing-link"
+		},
+		{
+			"title":"Lockout",
+			"gatsby_image_path":"..\/..\/images\/lockout.jpg",
+			"slug":"lockout"
+		},
+		{
+			"title":"Innocent Voices",
+			"gatsby_image_path":"..\/..\/images\/innocent-voices.jpg",
+			"slug":"innocent-voices"
 		}
 	],
 	"related_most_similar":[
@@ -267,14 +317,19 @@
 			"slug":"la-leyenda-del-diamante"
 		},
 		{
-			"title":"Revirginized",
-			"gatsby_image_path":"..\/..\/images\/revirginized.jpg",
-			"slug":"revirginized"
+			"title":"Machete",
+			"gatsby_image_path":"..\/..\/images\/machete.jpg",
+			"slug":"machete"
 		},
 		{
 			"title":"La Llorona",
 			"gatsby_image_path":"..\/..\/images\/la-llorona.jpg",
 			"slug":"la-llorona"
+		},
+		{
+			"title":"Revirginized",
+			"gatsby_image_path":"..\/..\/images\/revirginized.jpg",
+			"slug":"revirginized"
 		},
 		{
 			"title":"The Vault",
@@ -287,14 +342,14 @@
 			"slug":"spy-kids-2-the-island-of-lost-dreams"
 		},
 		{
-			"title":"The Immortal",
-			"gatsby_image_path":"..\/..\/images\/the-immortal.jpg",
-			"slug":"the-immortal"
-		},
-		{
 			"title":"Reaptown",
 			"gatsby_image_path":"..\/..\/images\/reaptown.jpg",
 			"slug":"reaptown"
+		},
+		{
+			"title":"The Immortal",
+			"gatsby_image_path":"..\/..\/images\/the-immortal.jpg",
+			"slug":"the-immortal"
 		},
 		{
 			"title":"A Cinderella Story: Christmas Wish",
@@ -307,9 +362,19 @@
 			"slug":"after"
 		},
 		{
+			"title":"Madres",
+			"gatsby_image_path":"..\/..\/images\/madres.jpg",
+			"slug":"madres"
+		},
+		{
 			"title":"The Drug King",
 			"gatsby_image_path":"..\/..\/images\/the-drug-king.jpg",
 			"slug":"the-drug-king"
+		},
+		{
+			"title":"Everly",
+			"gatsby_image_path":"..\/..\/images\/everly.jpg",
+			"slug":"everly"
 		},
 		{
 			"title":"The Shawshank Redemption",
@@ -317,9 +382,14 @@
 			"slug":"the-shawshank-redemption"
 		},
 		{
-			"title":"Bordello of Blood",
-			"gatsby_image_path":"..\/..\/images\/bordello-of-blood.jpg",
-			"slug":"bordello-of-blood"
+			"title":"Mama",
+			"gatsby_image_path":"..\/..\/images\/mama.jpg",
+			"slug":"mama"
+		},
+		{
+			"title":"A Nightmare on Elm Street",
+			"gatsby_image_path":"..\/..\/images\/a-nightmare-on-elm-street.jpg",
+			"slug":"a-nightmare-on-elm-street"
 		},
 		{
 			"title":"Sucker Punch",
@@ -327,39 +397,19 @@
 			"slug":"sucker-punch"
 		},
 		{
+			"title":"Bordello of Blood",
+			"gatsby_image_path":"..\/..\/images\/bordello-of-blood.jpg",
+			"slug":"bordello-of-blood"
+		},
+		{
 			"title":"The Lovely Bones",
 			"gatsby_image_path":"..\/..\/images\/the-lovely-bones.jpg",
 			"slug":"the-lovely-bones"
 		},
 		{
-			"title":"Ghostbusters: Afterlife",
-			"gatsby_image_path":"..\/..\/images\/ghostbusters-afterlife.jpg",
-			"slug":"ghostbusters-afterlife"
-		},
-		{
-			"title":"Pirates of the Caribbean: On Stranger Tides",
-			"gatsby_image_path":"..\/..\/images\/pirates-of-the-caribbean-on-stranger-tides.jpg",
-			"slug":"pirates-of-the-caribbean-on-stranger-tides"
-		},
-		{
-			"title":"The Autopsy of Jane Doe",
-			"gatsby_image_path":"..\/..\/images\/the-autopsy-of-jane-doe.jpg",
-			"slug":"the-autopsy-of-jane-doe"
-		},
-		{
-			"title":"Flashback",
-			"gatsby_image_path":"..\/..\/images\/flashback.jpg",
-			"slug":"flashback"
-		},
-		{
-			"title":"Heks",
-			"gatsby_image_path":"..\/..\/images\/heks.jpg",
-			"slug":"heks"
-		},
-		{
-			"title":"Captive State",
-			"gatsby_image_path":"..\/..\/images\/captive-state.jpg",
-			"slug":"captive-state"
+			"title":"Ciao Alberto",
+			"gatsby_image_path":"..\/..\/images\/ciao-alberto.jpg",
+			"slug":"ciao-alberto"
 		}
 	],
 	"tmdb_id":62835,

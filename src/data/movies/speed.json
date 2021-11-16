@@ -61,6 +61,11 @@
 			"slug":"toy-story-4"
 		},
 		{
+			"title":"The Substitute",
+			"gatsby_image_path":"..\/..\/images\/the-substitute.jpg",
+			"slug":"the-substitute"
+		},
+		{
 			"title":"The SpongeBob Movie: Sponge on the Run",
 			"gatsby_image_path":"..\/..\/images\/the-spongebob-movie-sponge-on-the-run.jpg",
 			"slug":"the-spongebob-movie-sponge-on-the-run"
@@ -91,6 +96,11 @@
 			"slug":"the-martian"
 		},
 		{
+			"title":"The Heat",
+			"gatsby_image_path":"..\/..\/images\/the-heat.jpg",
+			"slug":"the-heat"
+		},
+		{
 			"title":"The Happening",
 			"gatsby_image_path":"..\/..\/images\/the-happening.jpg",
 			"slug":"the-happening"
@@ -99,6 +109,46 @@
 			"title":"The Devil's Advocate",
 			"gatsby_image_path":"..\/..\/images\/the-devil-s-advocate.jpg",
 			"slug":"the-devil-s-advocate"
+		},
+		{
+			"title":"The Blind Side",
+			"gatsby_image_path":"..\/..\/images\/the-blind-side.jpg",
+			"slug":"the-blind-side"
+		},
+		{
+			"title":"Terminator 2: Judgment Day",
+			"gatsby_image_path":"..\/..\/images\/terminator-2-judgment-day.jpg",
+			"slug":"terminator-2-judgment-day"
+		},
+		{
+			"title":"State of Play",
+			"gatsby_image_path":"..\/..\/images\/state-of-play.jpg",
+			"slug":"state-of-play"
+		},
+		{
+			"title":"Siberia",
+			"gatsby_image_path":"..\/..\/images\/siberia.jpg",
+			"slug":"siberia"
+		},
+		{
+			"title":"Saw II",
+			"gatsby_image_path":"..\/..\/images\/saw-ii.jpg",
+			"slug":"saw-ii"
+		},
+		{
+			"title":"Ocean's Eight",
+			"gatsby_image_path":"..\/..\/images\/ocean-s-eight.jpg",
+			"slug":"ocean-s-eight"
+		},
+		{
+			"title":"Minions",
+			"gatsby_image_path":"..\/..\/images\/minions.jpg",
+			"slug":"minions"
+		},
+		{
+			"title":"Man of Tai Chi",
+			"gatsby_image_path":"..\/..\/images\/man-of-tai-chi.jpg",
+			"slug":"man-of-tai-chi"
 		}
 	],
 	"related_most_similar":[
@@ -312,9 +362,14 @@
 			"slug":"war-of-the-worlds"
 		},
 		{
-			"title":"Can You Keep a Secret?",
-			"gatsby_image_path":"..\/..\/images\/can-you-keep-a-secret.jpg",
-			"slug":"can-you-keep-a-secret"
+			"title":"The Most Beautiful Boy in the World",
+			"gatsby_image_path":"..\/..\/images\/the-most-beautiful-boy-in-the-world.jpg",
+			"slug":"the-most-beautiful-boy-in-the-world"
+		},
+		{
+			"title":"Vacation",
+			"gatsby_image_path":"..\/..\/images\/vacation.jpg",
+			"slug":"vacation"
 		},
 		{
 			"title":"Time to Hunt",
@@ -322,9 +377,19 @@
 			"slug":"time-to-hunt"
 		},
 		{
+			"title":"Can You Keep a Secret?",
+			"gatsby_image_path":"..\/..\/images\/can-you-keep-a-secret.jpg",
+			"slug":"can-you-keep-a-secret"
+		},
+		{
 			"title":"Death of Me",
 			"gatsby_image_path":"..\/..\/images\/death-of-me.jpg",
 			"slug":"death-of-me"
+		},
+		{
+			"title":"Due Date",
+			"gatsby_image_path":"..\/..\/images\/due-date.jpg",
+			"slug":"due-date"
 		},
 		{
 			"title":"Breaking News in Yuba County",
@@ -332,29 +397,14 @@
 			"slug":"breaking-news-in-yuba-county"
 		},
 		{
-			"title":"An Optical Illusion - Interval",
-			"gatsby_image_path":"..\/..\/images\/an-optical-illusion-interval.jpg",
-			"slug":"an-optical-illusion-interval"
-		},
-		{
 			"title":"Iron Mask",
 			"gatsby_image_path":"..\/..\/images\/iron-mask.jpg",
 			"slug":"iron-mask"
 		},
 		{
-			"title":"Hotel Artemis",
-			"gatsby_image_path":"..\/..\/images\/hotel-artemis.jpg",
-			"slug":"hotel-artemis"
-		},
-		{
-			"title":"No Country for Old Men",
-			"gatsby_image_path":"..\/..\/images\/no-country-for-old-men.jpg",
-			"slug":"no-country-for-old-men"
-		},
-		{
-			"title":"Pirates of the Caribbean: At World's End",
-			"gatsby_image_path":"..\/..\/images\/pirates-of-the-caribbean-at-world-s-end.jpg",
-			"slug":"pirates-of-the-caribbean-at-world-s-end"
+			"title":"An Optical Illusion - Interval",
+			"gatsby_image_path":"..\/..\/images\/an-optical-illusion-interval.jpg",
+			"slug":"an-optical-illusion-interval"
 		}
 	],
 	"tmdb_id":1637,

@@ -33,5 +33,209 @@
 	"crew":[
 		"Chris Hemsworth",
 		"Sally Aitken"
+	],
+	"related_by_cast":[
+		{
+			"title":"Vacation",
+			"gatsby_image_path":"..\/..\/images\/vacation.jpg",
+			"slug":"vacation"
+		},
+		{
+			"title":"Thor: The Dark World",
+			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
+			"slug":"thor-the-dark-world"
+		},
+		{
+			"title":"Thor: Ragnarok",
+			"gatsby_image_path":"..\/..\/images\/thor-ragnarok.jpg",
+			"slug":"thor-ragnarok"
+		},
+		{
+			"title":"Thor",
+			"gatsby_image_path":"..\/..\/images\/thor.jpg",
+			"slug":"thor"
+		},
+		{
+			"title":"The Huntsman: Winter's War",
+			"gatsby_image_path":"..\/..\/images\/the-huntsman-winter-s-war.jpg",
+			"slug":"the-huntsman-winter-s-war"
+		},
+		{
+			"title":"The Cabin in the Woods",
+			"gatsby_image_path":"..\/..\/images\/the-cabin-in-the-woods.jpg",
+			"slug":"the-cabin-in-the-woods"
+		},
+		{
+			"title":"The Avengers",
+			"gatsby_image_path":"..\/..\/images\/the-avengers.jpg",
+			"slug":"the-avengers"
+		},
+		{
+			"title":"Snow White and the Huntsman",
+			"gatsby_image_path":"..\/..\/images\/snow-white-and-the-huntsman.jpg",
+			"slug":"snow-white-and-the-huntsman"
+		},
+		{
+			"title":"Red Dawn",
+			"gatsby_image_path":"..\/..\/images\/red-dawn.jpg",
+			"slug":"red-dawn"
+		},
+		{
+			"title":"Men in Black: International",
+			"gatsby_image_path":"..\/..\/images\/men-in-black-international.jpg",
+			"slug":"men-in-black-international"
+		},
+		{
+			"title":"Ghostbusters",
+			"gatsby_image_path":"..\/..\/images\/ghostbusters.jpg",
+			"slug":"ghostbusters"
+		},
+		{
+			"title":"Extraction",
+			"gatsby_image_path":"..\/..\/images\/extraction.jpg",
+			"slug":"extraction"
+		},
+		{
+			"title":"Blackhat",
+			"gatsby_image_path":"..\/..\/images\/blackhat.jpg",
+			"slug":"blackhat"
+		},
+		{
+			"title":"Avengers: Infinity War",
+			"gatsby_image_path":"..\/..\/images\/avengers-infinity-war.jpg",
+			"slug":"avengers-infinity-war"
+		},
+		{
+			"title":"Avengers: Endgame",
+			"gatsby_image_path":"..\/..\/images\/avengers-endgame.jpg",
+			"slug":"avengers-endgame"
+		},
+		{
+			"title":"Avengers: Age of Ultron",
+			"gatsby_image_path":"..\/..\/images\/avengers-age-of-ultron.jpg",
+			"slug":"avengers-age-of-ultron"
+		},
+		{
+			"title":"12 Strong",
+			"gatsby_image_path":"..\/..\/images\/12-strong.jpg",
+			"slug":"12-strong"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		}
+	],
+	"related_by_overview":[
+		{
+			"title":"Deep Blue Sea 3",
+			"gatsby_image_path":"..\/..\/images\/deep-blue-sea-3.jpg",
+			"slug":"deep-blue-sea-3"
+		},
+		{
+			"title":"The Lion Guard: Return of the Roar",
+			"gatsby_image_path":"..\/..\/images\/the-lion-guard-return-of-the-roar.jpg",
+			"slug":"the-lion-guard-return-of-the-roar"
+		},
+		{
+			"title":"Special Forces",
+			"gatsby_image_path":"..\/..\/images\/special-forces.jpg",
+			"slug":"special-forces"
+		},
+		{
+			"title":"The Vault",
+			"gatsby_image_path":"..\/..\/images\/the-vault.jpg",
+			"slug":"the-vault"
+		},
+		{
+			"title":"After",
+			"gatsby_image_path":"..\/..\/images\/after.jpg",
+			"slug":"after"
+		},
+		{
+			"title":"Jeepers Creepers 2",
+			"gatsby_image_path":"..\/..\/images\/jeepers-creepers-2.jpg",
+			"slug":"jeepers-creepers-2"
+		},
+		{
+			"title":"Friday the 13th Part VI: Jason Lives",
+			"gatsby_image_path":"..\/..\/images\/friday-the-13th-part-vi-jason-lives.jpg",
+			"slug":"friday-the-13th-part-vi-jason-lives"
+		},
+		{
+			"title":"Danger Close: The Battle of Long Tan",
+			"gatsby_image_path":"..\/..\/images\/danger-close-the-battle-of-long-tan.jpg",
+			"slug":"danger-close-the-battle-of-long-tan"
+		},
+		{
+			"title":"Great White",
+			"gatsby_image_path":"..\/..\/images\/great-white.jpg",
+			"slug":"great-white"
+		},
+		{
+			"title":"Primal: Tales of Savagery",
+			"gatsby_image_path":"..\/..\/images\/primal-tales-of-savagery.jpg",
+			"slug":"primal-tales-of-savagery"
+		},
+		{
+			"title":"The Aeronauts",
+			"gatsby_image_path":"..\/..\/images\/the-aeronauts.jpg",
+			"slug":"the-aeronauts"
+		},
+		{
+			"title":"Barbie Presents: Thumbelina",
+			"gatsby_image_path":"..\/..\/images\/barbie-presents-thumbelina.jpg",
+			"slug":"barbie-presents-thumbelina"
+		},
+		{
+			"title":"Nussa",
+			"gatsby_image_path":"..\/..\/images\/nussa.jpg",
+			"slug":"nussa"
+		},
+		{
+			"title":"Playhouse",
+			"gatsby_image_path":"..\/..\/images\/playhouse.jpg",
+			"slug":"playhouse"
+		},
+		{
+			"title":"Aliens vs Predator: Requiem",
+			"gatsby_image_path":"..\/..\/images\/aliens-vs-predator-requiem.jpg",
+			"slug":"aliens-vs-predator-requiem"
+		},
+		{
+			"title":"Breaking News in Yuba County",
+			"gatsby_image_path":"..\/..\/images\/breaking-news-in-yuba-county.jpg",
+			"slug":"breaking-news-in-yuba-county"
+		},
+		{
+			"title":"The Purge: Election Year",
+			"gatsby_image_path":"..\/..\/images\/the-purge-election-year.jpg",
+			"slug":"the-purge-election-year"
+		},
+		{
+			"title":"Safe",
+			"gatsby_image_path":"..\/..\/images\/safe.jpg",
+			"slug":"safe"
+		},
+		{
+			"title":"The Wild",
+			"gatsby_image_path":"..\/..\/images\/the-wild.jpg",
+			"slug":"the-wild"
+		},
+		{
+			"title":"Cowboys & Aliens",
+			"gatsby_image_path":"..\/..\/images\/cowboys-aliens.jpg",
+			"slug":"cowboys-aliens"
+		}
 	]
 }

@@ -80,6 +80,11 @@
 			"slug":"the-debt-collector"
 		},
 		{
+			"title":"TEKKEN",
+			"gatsby_image_path":"..\/..\/images\/tekken.jpg",
+			"slug":"tekken"
+		},
+		{
 			"title":"Schindler's List",
 			"gatsby_image_path":"..\/..\/images\/schindler-s-list.jpg",
 			"slug":"schindler-s-list"
@@ -98,6 +103,51 @@
 			"title":"Incoming",
 			"gatsby_image_path":"..\/..\/images\/incoming.jpg",
 			"slug":"incoming"
+		},
+		{
+			"title":"Doctor Strange",
+			"gatsby_image_path":"..\/..\/images\/doctor-strange.jpg",
+			"slug":"doctor-strange"
+		},
+		{
+			"title":"Boyka: Undisputed IV",
+			"gatsby_image_path":"..\/..\/images\/boyka-undisputed-iv.jpg",
+			"slug":"boyka-undisputed-iv"
+		},
+		{
+			"title":"Avengement",
+			"gatsby_image_path":"..\/..\/images\/avengement.jpg",
+			"slug":"avengement"
+		},
+		{
+			"title":"Accident Man",
+			"gatsby_image_path":"..\/..\/images\/accident-man.jpg",
+			"slug":"accident-man"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
+			"title":"Zombieland: Double Tap",
+			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
+			"slug":"zombieland-double-tap"
+		},
+		{
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
 		}
 	],
 	"related_most_similar":[
@@ -266,9 +316,9 @@
 			"slug":"the-shawshank-redemption"
 		},
 		{
-			"title":"Dune",
-			"gatsby_image_path":"..\/..\/images\/dune.jpg",
-			"slug":"dune"
+			"title":"Tears of the Sun",
+			"gatsby_image_path":"..\/..\/images\/tears-of-the-sun.jpg",
+			"slug":"tears-of-the-sun"
 		},
 		{
 			"title":"Friday the 13th: The Final Chapter",
@@ -276,9 +326,9 @@
 			"slug":"friday-the-13th-the-final-chapter"
 		},
 		{
-			"title":"Saw 3D",
-			"gatsby_image_path":"..\/..\/images\/saw-3d.jpg",
-			"slug":"saw-3d"
+			"title":"Bordello of Blood",
+			"gatsby_image_path":"..\/..\/images\/bordello-of-blood.jpg",
+			"slug":"bordello-of-blood"
 		},
 		{
 			"title":"A Prayer Before Dawn",
@@ -286,9 +336,9 @@
 			"slug":"a-prayer-before-dawn"
 		},
 		{
-			"title":"Bordello of Blood",
-			"gatsby_image_path":"..\/..\/images\/bordello-of-blood.jpg",
-			"slug":"bordello-of-blood"
+			"title":"Saw 3D",
+			"gatsby_image_path":"..\/..\/images\/saw-3d.jpg",
+			"slug":"saw-3d"
 		},
 		{
 			"title":"Captive State",
@@ -296,24 +346,19 @@
 			"slug":"captive-state"
 		},
 		{
-			"title":"A Score to Settle",
-			"gatsby_image_path":"..\/..\/images\/a-score-to-settle.jpg",
-			"slug":"a-score-to-settle"
-		},
-		{
 			"title":"Megalodon",
 			"gatsby_image_path":"..\/..\/images\/megalodon.jpg",
 			"slug":"megalodon"
 		},
 		{
+			"title":"A Score to Settle",
+			"gatsby_image_path":"..\/..\/images\/a-score-to-settle.jpg",
+			"slug":"a-score-to-settle"
+		},
+		{
 			"title":"Law Abiding Citizen",
 			"gatsby_image_path":"..\/..\/images\/law-abiding-citizen.jpg",
 			"slug":"law-abiding-citizen"
-		},
-		{
-			"title":"The Misfits",
-			"gatsby_image_path":"..\/..\/images\/the-misfits.jpg",
-			"slug":"the-misfits"
 		},
 		{
 			"title":"Palmer",
@@ -326,14 +371,24 @@
 			"slug":"the-call-of-the-wild"
 		},
 		{
-			"title":"Flashback",
-			"gatsby_image_path":"..\/..\/images\/flashback.jpg",
-			"slug":"flashback"
+			"title":"The Mummy",
+			"gatsby_image_path":"..\/..\/images\/the-mummy.jpg",
+			"slug":"the-mummy"
 		},
 		{
-			"title":"My Hero Academia: World Heroes' Mission",
-			"gatsby_image_path":"..\/..\/images\/my-hero-academia-world-heroes-mission.jpg",
-			"slug":"my-hero-academia-world-heroes-mission"
+			"title":"In the Name of the King 2: Two Worlds",
+			"gatsby_image_path":"..\/..\/images\/in-the-name-of-the-king-2-two-worlds.jpg",
+			"slug":"in-the-name-of-the-king-2-two-worlds"
+		},
+		{
+			"title":"The Misfits",
+			"gatsby_image_path":"..\/..\/images\/the-misfits.jpg",
+			"slug":"the-misfits"
+		},
+		{
+			"title":"Universal Soldier: Regeneration",
+			"gatsby_image_path":"..\/..\/images\/universal-soldier-regeneration.jpg",
+			"slug":"universal-soldier-regeneration"
 		},
 		{
 			"title":"San Andreas",
@@ -341,19 +396,14 @@
 			"slug":"san-andreas"
 		},
 		{
-			"title":"The Nun",
-			"gatsby_image_path":"..\/..\/images\/the-nun.jpg",
-			"slug":"the-nun"
+			"title":"Dark Shadows",
+			"gatsby_image_path":"..\/..\/images\/dark-shadows.jpg",
+			"slug":"dark-shadows"
 		},
 		{
-			"title":"Mile 22",
-			"gatsby_image_path":"..\/..\/images\/mile-22.jpg",
-			"slug":"mile-22"
-		},
-		{
-			"title":"Jaws",
-			"gatsby_image_path":"..\/..\/images\/jaws.jpg",
-			"slug":"jaws"
+			"title":"Hancock",
+			"gatsby_image_path":"..\/..\/images\/hancock.jpg",
+			"slug":"hancock"
 		}
 	],
 	"tmdb_id":38234,

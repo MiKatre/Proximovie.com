@@ -74,6 +74,11 @@
 			"slug":"voyagers"
 		},
 		{
+			"title":"Twilight",
+			"gatsby_image_path":"..\/..\/images\/twilight.jpg",
+			"slug":"twilight"
+		},
+		{
 			"title":"The Twilight Saga: New Moon",
 			"gatsby_image_path":"..\/..\/images\/the-twilight-saga-new-moon.jpg",
 			"slug":"the-twilight-saga-new-moon"
@@ -94,6 +99,16 @@
 			"slug":"the-twilight-saga-breaking-dawn-part-1"
 		},
 		{
+			"title":"The Rover",
+			"gatsby_image_path":"..\/..\/images\/the-rover.jpg",
+			"slug":"the-rover"
+		},
+		{
+			"title":"The Power of the Dog",
+			"gatsby_image_path":"..\/..\/images\/the-power-of-the-dog.jpg",
+			"slug":"the-power-of-the-dog"
+		},
+		{
 			"title":"The Lost City of Z",
 			"gatsby_image_path":"..\/..\/images\/the-lost-city-of-z.jpg",
 			"slug":"the-lost-city-of-z"
@@ -102,6 +117,41 @@
 			"title":"The Great Gatsby",
 			"gatsby_image_path":"..\/..\/images\/the-great-gatsby.jpg",
 			"slug":"the-great-gatsby"
+		},
+		{
+			"title":"The French Dispatch",
+			"gatsby_image_path":"..\/..\/images\/the-french-dispatch.jpg",
+			"slug":"the-french-dispatch"
+		},
+		{
+			"title":"The Batman",
+			"gatsby_image_path":"..\/..\/images\/the-batman.jpg",
+			"slug":"the-batman"
+		},
+		{
+			"title":"The Banishing",
+			"gatsby_image_path":"..\/..\/images\/the-banishing.jpg",
+			"slug":"the-banishing"
+		},
+		{
+			"title":"Tenet",
+			"gatsby_image_path":"..\/..\/images\/tenet.jpg",
+			"slug":"tenet"
+		},
+		{
+			"title":"Spies in Disguise",
+			"gatsby_image_path":"..\/..\/images\/spies-in-disguise.jpg",
+			"slug":"spies-in-disguise"
+		},
+		{
+			"title":"Spencer",
+			"gatsby_image_path":"..\/..\/images\/spencer.jpg",
+			"slug":"spencer"
+		},
+		{
+			"title":"Rogue One: A Star Wars Story",
+			"gatsby_image_path":"..\/..\/images\/rogue-one-a-star-wars-story.jpg",
+			"slug":"rogue-one-a-star-wars-story"
 		}
 	],
 	"related_most_similar":[
@@ -265,9 +315,24 @@
 			"slug":"howl-s-moving-castle"
 		},
 		{
+			"title":"The Rover",
+			"gatsby_image_path":"..\/..\/images\/the-rover.jpg",
+			"slug":"the-rover"
+		},
+		{
+			"title":"Mary Magdalene",
+			"gatsby_image_path":"..\/..\/images\/mary-magdalene.jpg",
+			"slug":"mary-magdalene"
+		},
+		{
 			"title":"Ellipse",
 			"gatsby_image_path":"..\/..\/images\/ellipse.jpg",
 			"slug":"ellipse"
+		},
+		{
+			"title":"The Commuter",
+			"gatsby_image_path":"..\/..\/images\/the-commuter.jpg",
+			"slug":"the-commuter"
 		},
 		{
 			"title":"The Foreigner",
@@ -285,34 +350,9 @@
 			"slug":"the-last-mercenary"
 		},
 		{
-			"title":"The Mortuary Collection",
-			"gatsby_image_path":"..\/..\/images\/the-mortuary-collection.jpg",
-			"slug":"the-mortuary-collection"
-		},
-		{
-			"title":"The Penitent Thief",
-			"gatsby_image_path":"..\/..\/images\/the-penitent-thief.jpg",
-			"slug":"the-penitent-thief"
-		},
-		{
 			"title":"Miss Peregrine's Home for Peculiar Children",
 			"gatsby_image_path":"..\/..\/images\/miss-peregrine-s-home-for-peculiar-children.jpg",
 			"slug":"miss-peregrine-s-home-for-peculiar-children"
-		},
-		{
-			"title":"Once Upon a Snowman",
-			"gatsby_image_path":"..\/..\/images\/once-upon-a-snowman.jpg",
-			"slug":"once-upon-a-snowman"
-		},
-		{
-			"title":"The Commuter",
-			"gatsby_image_path":"..\/..\/images\/the-commuter.jpg",
-			"slug":"the-commuter"
-		},
-		{
-			"title":"Central Intelligence",
-			"gatsby_image_path":"..\/..\/images\/central-intelligence.jpg",
-			"slug":"central-intelligence"
 		},
 		{
 			"title":"The Lorax",
@@ -320,44 +360,54 @@
 			"slug":"the-lorax"
 		},
 		{
+			"title":"The Mortuary Collection",
+			"gatsby_image_path":"..\/..\/images\/the-mortuary-collection.jpg",
+			"slug":"the-mortuary-collection"
+		},
+		{
+			"title":"Army of Thieves",
+			"gatsby_image_path":"..\/..\/images\/army-of-thieves.jpg",
+			"slug":"army-of-thieves"
+		},
+		{
+			"title":"The Penitent Thief",
+			"gatsby_image_path":"..\/..\/images\/the-penitent-thief.jpg",
+			"slug":"the-penitent-thief"
+		},
+		{
+			"title":"The Eternal",
+			"gatsby_image_path":"..\/..\/images\/the-eternal.jpg",
+			"slug":"the-eternal"
+		},
+		{
+			"title":"Hummingbird",
+			"gatsby_image_path":"..\/..\/images\/hummingbird.jpg",
+			"slug":"hummingbird"
+		},
+		{
+			"title":"Once Upon a Snowman",
+			"gatsby_image_path":"..\/..\/images\/once-upon-a-snowman.jpg",
+			"slug":"once-upon-a-snowman"
+		},
+		{
+			"title":"Spy",
+			"gatsby_image_path":"..\/..\/images\/spy.jpg",
+			"slug":"spy"
+		},
+		{
+			"title":"Central Intelligence",
+			"gatsby_image_path":"..\/..\/images\/central-intelligence.jpg",
+			"slug":"central-intelligence"
+		},
+		{
+			"title":"Prince of Persia: The Sands of Time",
+			"gatsby_image_path":"..\/..\/images\/prince-of-persia-the-sands-of-time.jpg",
+			"slug":"prince-of-persia-the-sands-of-time"
+		},
+		{
 			"title":"Lucy",
 			"gatsby_image_path":"..\/..\/images\/lucy.jpg",
 			"slug":"lucy"
-		},
-		{
-			"title":"Edward Scissorhands",
-			"gatsby_image_path":"..\/..\/images\/edward-scissorhands.jpg",
-			"slug":"edward-scissorhands"
-		},
-		{
-			"title":"Anton",
-			"gatsby_image_path":"..\/..\/images\/anton.jpg",
-			"slug":"anton"
-		},
-		{
-			"title":"Avengement",
-			"gatsby_image_path":"..\/..\/images\/avengement.jpg",
-			"slug":"avengement"
-		},
-		{
-			"title":"Hostel: Part II",
-			"gatsby_image_path":"..\/..\/images\/hostel-part-ii.jpg",
-			"slug":"hostel-part-ii"
-		},
-		{
-			"title":"The Hobbit: An Unexpected Journey",
-			"gatsby_image_path":"..\/..\/images\/the-hobbit-an-unexpected-journey.jpg",
-			"slug":"the-hobbit-an-unexpected-journey"
-		},
-		{
-			"title":"The Chronicles of Narnia: The Voyage of the Dawn Treader",
-			"gatsby_image_path":"..\/..\/images\/the-chronicles-of-narnia-the-voyage-of-the-dawn-treader.jpg",
-			"slug":"the-chronicles-of-narnia-the-voyage-of-the-dawn-treader"
-		},
-		{
-			"title":"The King's Man",
-			"gatsby_image_path":"..\/..\/images\/the-king-s-man.jpg",
-			"slug":"the-king-s-man"
 		}
 	],
 	"tmdb_id":504949,

@@ -84,6 +84,16 @@
 			"slug":"resident-evil-vendetta"
 		},
 		{
+			"title":"Mortal Kombat Legends: Battle of the Realms",
+			"gatsby_image_path":"..\/..\/images\/mortal-kombat-legends-battle-of-the-realms.jpg",
+			"slug":"mortal-kombat-legends-battle-of-the-realms"
+		},
+		{
+			"title":"In the Name of the King 2: Two Worlds",
+			"gatsby_image_path":"..\/..\/images\/in-the-name-of-the-king-2-two-worlds.jpg",
+			"slug":"in-the-name-of-the-king-2-two-worlds"
+		},
+		{
 			"title":"Barbie: Princess Charm School",
 			"gatsby_image_path":"..\/..\/images\/barbie-princess-charm-school.jpg",
 			"slug":"barbie-princess-charm-school"
@@ -97,6 +107,46 @@
 			"title":"Barbie Mariposa",
 			"gatsby_image_path":"..\/..\/images\/barbie-mariposa.jpg",
 			"slug":"barbie-mariposa"
+		},
+		{
+			"title":"Barbie in The 12 Dancing Princesses",
+			"gatsby_image_path":"..\/..\/images\/barbie-in-the-12-dancing-princesses.jpg",
+			"slug":"barbie-in-the-12-dancing-princesses"
+		},
+		{
+			"title":"Barbie in A Mermaid Tale",
+			"gatsby_image_path":"..\/..\/images\/barbie-in-a-mermaid-tale.jpg",
+			"slug":"barbie-in-a-mermaid-tale"
+		},
+		{
+			"title":"Barbie and the Three Musketeers",
+			"gatsby_image_path":"..\/..\/images\/barbie-and-the-three-musketeers.jpg",
+			"slug":"barbie-and-the-three-musketeers"
+		},
+		{
+			"title":"Barbie and the Diamond Castle",
+			"gatsby_image_path":"..\/..\/images\/barbie-and-the-diamond-castle.jpg",
+			"slug":"barbie-and-the-diamond-castle"
+		},
+		{
+			"title":"Barbie: A Fashion Fairytale",
+			"gatsby_image_path":"..\/..\/images\/barbie-a-fashion-fairytale.jpg",
+			"slug":"barbie-a-fashion-fairytale"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
 		}
 	],
 	"related_most_similar":[
@@ -280,9 +330,9 @@
 			"slug":"the-suicide-squad"
 		},
 		{
-			"title":"Dawn of the Dead",
-			"gatsby_image_path":"..\/..\/images\/dawn-of-the-dead.jpg",
-			"slug":"dawn-of-the-dead"
+			"title":"RED 2",
+			"gatsby_image_path":"..\/..\/images\/red-2.jpg",
+			"slug":"red-2"
 		},
 		{
 			"title":"Justice League: Doom",
@@ -290,9 +340,9 @@
 			"slug":"justice-league-doom"
 		},
 		{
-			"title":"RED 2",
-			"gatsby_image_path":"..\/..\/images\/red-2.jpg",
-			"slug":"red-2"
+			"title":"Dawn of the Dead",
+			"gatsby_image_path":"..\/..\/images\/dawn-of-the-dead.jpg",
+			"slug":"dawn-of-the-dead"
 		},
 		{
 			"title":"The Matrix Revolutions",
@@ -310,6 +360,11 @@
 			"slug":"guardians-of-the-galaxy"
 		},
 		{
+			"title":"Suicide Squad: Hell to Pay",
+			"gatsby_image_path":"..\/..\/images\/suicide-squad-hell-to-pay.jpg",
+			"slug":"suicide-squad-hell-to-pay"
+		},
+		{
 			"title":"Star Wars: The Force Awakens",
 			"gatsby_image_path":"..\/..\/images\/star-wars-the-force-awakens.jpg",
 			"slug":"star-wars-the-force-awakens"
@@ -320,19 +375,9 @@
 			"slug":"green-lantern-emerald-knights"
 		},
 		{
-			"title":"Suicide Squad: Hell to Pay",
-			"gatsby_image_path":"..\/..\/images\/suicide-squad-hell-to-pay.jpg",
-			"slug":"suicide-squad-hell-to-pay"
-		},
-		{
 			"title":"Justice League: The Flashpoint Paradox",
 			"gatsby_image_path":"..\/..\/images\/justice-league-the-flashpoint-paradox.jpg",
 			"slug":"justice-league-the-flashpoint-paradox"
-		},
-		{
-			"title":"Mortal Kombat",
-			"gatsby_image_path":"..\/..\/images\/mortal-kombat.jpg",
-			"slug":"mortal-kombat"
 		},
 		{
 			"title":"Guardians of the Galaxy Vol. 2",
@@ -340,19 +385,24 @@
 			"slug":"guardians-of-the-galaxy-vol-2"
 		},
 		{
-			"title":"Zack Snyder's Justice League",
-			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
-			"slug":"zack-snyder-s-justice-league"
-		},
-		{
-			"title":"Batman: Soul of the Dragon",
-			"gatsby_image_path":"..\/..\/images\/batman-soul-of-the-dragon.jpg",
-			"slug":"batman-soul-of-the-dragon"
+			"title":"Mortal Kombat",
+			"gatsby_image_path":"..\/..\/images\/mortal-kombat.jpg",
+			"slug":"mortal-kombat"
 		},
 		{
 			"title":"Penguins of Madagascar",
 			"gatsby_image_path":"..\/..\/images\/penguins-of-madagascar.jpg",
 			"slug":"penguins-of-madagascar"
+		},
+		{
+			"title":"Suicide Squad",
+			"gatsby_image_path":"..\/..\/images\/suicide-squad.jpg",
+			"slug":"suicide-squad"
+		},
+		{
+			"title":"Descendants 3",
+			"gatsby_image_path":"..\/..\/images\/descendants-3.jpg",
+			"slug":"descendants-3"
 		}
 	],
 	"tmdb_id":14613,

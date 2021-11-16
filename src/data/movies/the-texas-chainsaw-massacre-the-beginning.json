@@ -58,6 +58,11 @@
 			"slug":"the-texas-chainsaw-massacre"
 		},
 		{
+			"title":"Wrong Turn",
+			"gatsby_image_path":"..\/..\/images\/wrong-turn.jpg",
+			"slug":"wrong-turn"
+		},
+		{
 			"title":"The Virtuoso",
 			"gatsby_image_path":"..\/..\/images\/the-virtuoso.jpg",
 			"slug":"the-virtuoso"
@@ -68,9 +73,24 @@
 			"slug":"the-magnificent-seven"
 		},
 		{
+			"title":"Stan Helsing",
+			"gatsby_image_path":"..\/..\/images\/stan-helsing.jpg",
+			"slug":"stan-helsing"
+		},
+		{
 			"title":"Se7en",
 			"gatsby_image_path":"..\/..\/images\/se7en.jpg",
 			"slug":"se7en"
+		},
+		{
+			"title":"Red Tails",
+			"gatsby_image_path":"..\/..\/images\/red-tails.jpg",
+			"slug":"red-tails"
+		},
+		{
+			"title":"My Best Friend's Girl",
+			"gatsby_image_path":"..\/..\/images\/my-best-friend-s-girl.jpg",
+			"slug":"my-best-friend-s-girl"
 		},
 		{
 			"title":"Justice Society: World War II",
@@ -101,6 +121,36 @@
 			"title":"F9",
 			"gatsby_image_path":"..\/..\/images\/f9.jpg",
 			"slug":"f9"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Zone 414",
+			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
+			"slug":"zone-414"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
+			"title":"Zombieland: Double Tap",
+			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
+			"slug":"zombieland-double-tap"
+		},
+		{
+			"title":"Zathura: A Space Adventure",
+			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
+			"slug":"zathura-a-space-adventure"
+		},
+		{
+			"title":"Zack Snyder's Justice League",
+			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
+			"slug":"zack-snyder-s-justice-league"
 		}
 	],
 	"related_most_similar":[
@@ -259,6 +309,11 @@
 	],
 	"related_by_overview":[
 		{
+			"title":"The Return of the Living Dead",
+			"gatsby_image_path":"..\/..\/images\/the-return-of-the-living-dead.jpg",
+			"slug":"the-return-of-the-living-dead"
+		},
+		{
 			"title":"Halloween Kills",
 			"gatsby_image_path":"..\/..\/images\/halloween-kills.jpg",
 			"slug":"halloween-kills"
@@ -279,19 +334,34 @@
 			"slug":"goosebumps"
 		},
 		{
+			"title":"Ghostbusters II",
+			"gatsby_image_path":"..\/..\/images\/ghostbusters-ii.jpg",
+			"slug":"ghostbusters-ii"
+		},
+		{
+			"title":"Halloween III: Season of the Witch",
+			"gatsby_image_path":"..\/..\/images\/halloween-iii-season-of-the-witch.jpg",
+			"slug":"halloween-iii-season-of-the-witch"
+		},
+		{
+			"title":"No Good Deed",
+			"gatsby_image_path":"..\/..\/images\/no-good-deed.jpg",
+			"slug":"no-good-deed"
+		},
+		{
 			"title":"Midnight in the Switchgrass",
 			"gatsby_image_path":"..\/..\/images\/midnight-in-the-switchgrass.jpg",
 			"slug":"midnight-in-the-switchgrass"
 		},
 		{
+			"title":"Scream 4",
+			"gatsby_image_path":"..\/..\/images\/scream-4.jpg",
+			"slug":"scream-4"
+		},
+		{
 			"title":"The Kill Team",
 			"gatsby_image_path":"..\/..\/images\/the-kill-team.jpg",
 			"slug":"the-kill-team"
-		},
-		{
-			"title":"Tremors: A Cold Day in Hell",
-			"gatsby_image_path":"..\/..\/images\/tremors-a-cold-day-in-hell.jpg",
-			"slug":"tremors-a-cold-day-in-hell"
 		},
 		{
 			"title":"Burn",
@@ -304,24 +374,24 @@
 			"slug":"body-brokers"
 		},
 		{
-			"title":"Cold Pursuit",
-			"gatsby_image_path":"..\/..\/images\/cold-pursuit.jpg",
-			"slug":"cold-pursuit"
-		},
-		{
 			"title":"Pain & Gain",
 			"gatsby_image_path":"..\/..\/images\/pain-gain.jpg",
 			"slug":"pain-gain"
 		},
 		{
-			"title":"Halloween 4: The Return of Michael Myers",
-			"gatsby_image_path":"..\/..\/images\/halloween-4-the-return-of-michael-myers.jpg",
-			"slug":"halloween-4-the-return-of-michael-myers"
+			"title":"Tremors: A Cold Day in Hell",
+			"gatsby_image_path":"..\/..\/images\/tremors-a-cold-day-in-hell.jpg",
+			"slug":"tremors-a-cold-day-in-hell"
 		},
 		{
-			"title":"Ghost Rider",
-			"gatsby_image_path":"..\/..\/images\/ghost-rider.jpg",
-			"slug":"ghost-rider"
+			"title":"Cold Pursuit",
+			"gatsby_image_path":"..\/..\/images\/cold-pursuit.jpg",
+			"slug":"cold-pursuit"
+		},
+		{
+			"title":"Super 8",
+			"gatsby_image_path":"..\/..\/images\/super-8.jpg",
+			"slug":"super-8"
 		},
 		{
 			"title":"Insidious: The Last Key",
@@ -329,34 +399,14 @@
 			"slug":"insidious-the-last-key"
 		},
 		{
-			"title":"The Magnificent Seven",
-			"gatsby_image_path":"..\/..\/images\/the-magnificent-seven.jpg",
-			"slug":"the-magnificent-seven"
+			"title":"Ghost Rider",
+			"gatsby_image_path":"..\/..\/images\/ghost-rider.jpg",
+			"slug":"ghost-rider"
 		},
 		{
-			"title":"Léon: The Professional",
-			"gatsby_image_path":"..\/..\/images\/léon-the-professional.jpg",
-			"slug":"léon-the-professional"
-		},
-		{
-			"title":"Homefront",
-			"gatsby_image_path":"..\/..\/images\/homefront.jpg",
-			"slug":"homefront"
-		},
-		{
-			"title":"Cult of Chucky",
-			"gatsby_image_path":"..\/..\/images\/cult-of-chucky.jpg",
-			"slug":"cult-of-chucky"
-		},
-		{
-			"title":"It Follows",
-			"gatsby_image_path":"..\/..\/images\/it-follows.jpg",
-			"slug":"it-follows"
-		},
-		{
-			"title":"The Hunger Games: Mockingjay - Part 2",
-			"gatsby_image_path":"..\/..\/images\/the-hunger-games-mockingjay-part-2.jpg",
-			"slug":"the-hunger-games-mockingjay-part-2"
+			"title":"Drag Me to Hell",
+			"gatsby_image_path":"..\/..\/images\/drag-me-to-hell.jpg",
+			"slug":"drag-me-to-hell"
 		}
 	],
 	"tmdb_id":10781,

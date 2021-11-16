@@ -73,14 +73,34 @@
 			"slug":"underworld"
 		},
 		{
+			"title":"Underworld: Evolution",
+			"gatsby_image_path":"..\/..\/images\/underworld-evolution.jpg",
+			"slug":"underworld-evolution"
+		},
+		{
 			"title":"Underworld: Blood Wars",
 			"gatsby_image_path":"..\/..\/images\/underworld-blood-wars.jpg",
 			"slug":"underworld-blood-wars"
 		},
 		{
+			"title":"Underworld: Awakening",
+			"gatsby_image_path":"..\/..\/images\/underworld-awakening.jpg",
+			"slug":"underworld-awakening"
+		},
+		{
+			"title":"Total Recall",
+			"gatsby_image_path":"..\/..\/images\/total-recall.jpg",
+			"slug":"total-recall"
+		},
+		{
 			"title":"The Mummy Returns",
 			"gatsby_image_path":"..\/..\/images\/the-mummy-returns.jpg",
 			"slug":"the-mummy-returns"
+		},
+		{
+			"title":"The Mummy",
+			"gatsby_image_path":"..\/..\/images\/the-mummy.jpg",
+			"slug":"the-mummy"
 		},
 		{
 			"title":"The Greatest Showman",
@@ -93,14 +113,44 @@
 			"slug":"sex-and-lucía"
 		},
 		{
+			"title":"Sanctum",
+			"gatsby_image_path":"..\/..\/images\/sanctum.jpg",
+			"slug":"sanctum"
+		},
+		{
 			"title":"Rise of the Guardians",
 			"gatsby_image_path":"..\/..\/images\/rise-of-the-guardians.jpg",
 			"slug":"rise-of-the-guardians"
 		},
 		{
+			"title":"Reminiscence",
+			"gatsby_image_path":"..\/..\/images\/reminiscence.jpg",
+			"slug":"reminiscence"
+		},
+		{
 			"title":"Real Steel",
 			"gatsby_image_path":"..\/..\/images\/real-steel.jpg",
 			"slug":"real-steel"
+		},
+		{
+			"title":"Prisoners",
+			"gatsby_image_path":"..\/..\/images\/prisoners.jpg",
+			"slug":"prisoners"
+		},
+		{
+			"title":"Pirates of the Caribbean: Dead Men Tell No Tales",
+			"gatsby_image_path":"..\/..\/images\/pirates-of-the-caribbean-dead-men-tell-no-tales.jpg",
+			"slug":"pirates-of-the-caribbean-dead-men-tell-no-tales"
+		},
+		{
+			"title":"Pearl Harbor",
+			"gatsby_image_path":"..\/..\/images\/pearl-harbor.jpg",
+			"slug":"pearl-harbor"
+		},
+		{
+			"title":"Odd Thomas",
+			"gatsby_image_path":"..\/..\/images\/odd-thomas.jpg",
+			"slug":"odd-thomas"
 		}
 	],
 	"related_most_similar":[
@@ -259,9 +309,19 @@
 	],
 	"related_by_overview":[
 		{
+			"title":"Halloween III: Season of the Witch",
+			"gatsby_image_path":"..\/..\/images\/halloween-iii-season-of-the-witch.jpg",
+			"slug":"halloween-iii-season-of-the-witch"
+		},
+		{
 			"title":"Haunting of the Mary Celeste",
 			"gatsby_image_path":"..\/..\/images\/haunting-of-the-mary-celeste.jpg",
 			"slug":"haunting-of-the-mary-celeste"
+		},
+		{
+			"title":"The Return of the Living Dead",
+			"gatsby_image_path":"..\/..\/images\/the-return-of-the-living-dead.jpg",
+			"slug":"the-return-of-the-living-dead"
 		},
 		{
 			"title":"The Mummy Returns",
@@ -269,14 +329,24 @@
 			"slug":"the-mummy-returns"
 		},
 		{
+			"title":"Psycho Goreman",
+			"gatsby_image_path":"..\/..\/images\/psycho-goreman.jpg",
+			"slug":"psycho-goreman"
+		},
+		{
+			"title":"Jonah Hex",
+			"gatsby_image_path":"..\/..\/images\/jonah-hex.jpg",
+			"slug":"jonah-hex"
+		},
+		{
 			"title":"Percy Jackson & the Olympians: The Lightning Thief",
 			"gatsby_image_path":"..\/..\/images\/percy-jackson-the-olympians-the-lightning-thief.jpg",
 			"slug":"percy-jackson-the-olympians-the-lightning-thief"
 		},
 		{
-			"title":"Psycho Goreman",
-			"gatsby_image_path":"..\/..\/images\/psycho-goreman.jpg",
-			"slug":"psycho-goreman"
+			"title":"Captain America: The First Avenger",
+			"gatsby_image_path":"..\/..\/images\/captain-america-the-first-avenger.jpg",
+			"slug":"captain-america-the-first-avenger"
 		},
 		{
 			"title":"Hotel Transylvania 3: Summer Vacation",
@@ -284,9 +354,9 @@
 			"slug":"hotel-transylvania-3-summer-vacation"
 		},
 		{
-			"title":"Captain America: The First Avenger",
-			"gatsby_image_path":"..\/..\/images\/captain-america-the-first-avenger.jpg",
-			"slug":"captain-america-the-first-avenger"
+			"title":"Ghostbusters II",
+			"gatsby_image_path":"..\/..\/images\/ghostbusters-ii.jpg",
+			"slug":"ghostbusters-ii"
 		},
 		{
 			"title":"Armageddon",
@@ -299,19 +369,9 @@
 			"slug":"john-wick-chapter-2"
 		},
 		{
-			"title":"Hotel Transylvania: Transformania",
-			"gatsby_image_path":"..\/..\/images\/hotel-transylvania-transformania.jpg",
-			"slug":"hotel-transylvania-transformania"
-		},
-		{
-			"title":"Ghost Rider",
-			"gatsby_image_path":"..\/..\/images\/ghost-rider.jpg",
-			"slug":"ghost-rider"
-		},
-		{
-			"title":"The Simpsons: The Good, the Bart, and the Loki",
-			"gatsby_image_path":"..\/..\/images\/the-simpsons-the-good-the-bart-and-the-loki.jpg",
-			"slug":"the-simpsons-the-good-the-bart-and-the-loki"
+			"title":"Halloween 5: The Revenge of Michael Myers",
+			"gatsby_image_path":"..\/..\/images\/halloween-5-the-revenge-of-michael-myers.jpg",
+			"slug":"halloween-5-the-revenge-of-michael-myers"
 		},
 		{
 			"title":"Escape Plan 2: Hades",
@@ -319,24 +379,9 @@
 			"slug":"escape-plan-2-hades"
 		},
 		{
-			"title":"Jurassic World: Fallen Kingdom",
-			"gatsby_image_path":"..\/..\/images\/jurassic-world-fallen-kingdom.jpg",
-			"slug":"jurassic-world-fallen-kingdom"
-		},
-		{
-			"title":"Aquaman",
-			"gatsby_image_path":"..\/..\/images\/aquaman.jpg",
-			"slug":"aquaman"
-		},
-		{
-			"title":"The Incredibles",
-			"gatsby_image_path":"..\/..\/images\/the-incredibles.jpg",
-			"slug":"the-incredibles"
-		},
-		{
-			"title":"Halloween 4: The Return of Michael Myers",
-			"gatsby_image_path":"..\/..\/images\/halloween-4-the-return-of-michael-myers.jpg",
-			"slug":"halloween-4-the-return-of-michael-myers"
+			"title":"Hotel Transylvania: Transformania",
+			"gatsby_image_path":"..\/..\/images\/hotel-transylvania-transformania.jpg",
+			"slug":"hotel-transylvania-transformania"
 		},
 		{
 			"title":"Peter Pan",
@@ -344,19 +389,24 @@
 			"slug":"peter-pan"
 		},
 		{
+			"title":"The Incredibles",
+			"gatsby_image_path":"..\/..\/images\/the-incredibles.jpg",
+			"slug":"the-incredibles"
+		},
+		{
+			"title":"The Simpsons: The Good, the Bart, and the Loki",
+			"gatsby_image_path":"..\/..\/images\/the-simpsons-the-good-the-bart-and-the-loki.jpg",
+			"slug":"the-simpsons-the-good-the-bart-and-the-loki"
+		},
+		{
+			"title":"Jurassic World: Fallen Kingdom",
+			"gatsby_image_path":"..\/..\/images\/jurassic-world-fallen-kingdom.jpg",
+			"slug":"jurassic-world-fallen-kingdom"
+		},
+		{
 			"title":"Abraham Lincoln: Vampire Hunter",
 			"gatsby_image_path":"..\/..\/images\/abraham-lincoln-vampire-hunter.jpg",
 			"slug":"abraham-lincoln-vampire-hunter"
-		},
-		{
-			"title":"Hunter Killer",
-			"gatsby_image_path":"..\/..\/images\/hunter-killer.jpg",
-			"slug":"hunter-killer"
-		},
-		{
-			"title":"Goosebumps",
-			"gatsby_image_path":"..\/..\/images\/goosebumps.jpg",
-			"slug":"goosebumps"
 		}
 	],
 	"tmdb_id":7131,

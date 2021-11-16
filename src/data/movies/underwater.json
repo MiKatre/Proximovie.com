@@ -57,6 +57,11 @@
 			"slug":"zathura-a-space-adventure"
 		},
 		{
+			"title":"Twilight",
+			"gatsby_image_path":"..\/..\/images\/twilight.jpg",
+			"slug":"twilight"
+		},
+		{
 			"title":"Transformers: Age of Extinction",
 			"gatsby_image_path":"..\/..\/images\/transformers-age-of-extinction.jpg",
 			"slug":"transformers-age-of-extinction"
@@ -92,6 +97,16 @@
 			"slug":"the-emoji-movie"
 		},
 		{
+			"title":"Spencer",
+			"gatsby_image_path":"..\/..\/images\/spencer.jpg",
+			"slug":"spencer"
+		},
+		{
+			"title":"Snow White and the Huntsman",
+			"gatsby_image_path":"..\/..\/images\/snow-white-and-the-huntsman.jpg",
+			"slug":"snow-white-and-the-huntsman"
+		},
+		{
 			"title":"Shrek",
 			"gatsby_image_path":"..\/..\/images\/shrek.jpg",
 			"slug":"shrek"
@@ -100,6 +115,41 @@
 			"title":"Ready Player One",
 			"gatsby_image_path":"..\/..\/images\/ready-player-one.jpg",
 			"slug":"ready-player-one"
+		},
+		{
+			"title":"Personal Shopper",
+			"gatsby_image_path":"..\/..\/images\/personal-shopper.jpg",
+			"slug":"personal-shopper"
+		},
+		{
+			"title":"Peppermint",
+			"gatsby_image_path":"..\/..\/images\/peppermint.jpg",
+			"slug":"peppermint"
+		},
+		{
+			"title":"Once Upon a Deadpool",
+			"gatsby_image_path":"..\/..\/images\/once-upon-a-deadpool.jpg",
+			"slug":"once-upon-a-deadpool"
+		},
+		{
+			"title":"Love and Monsters",
+			"gatsby_image_path":"..\/..\/images\/love-and-monsters.jpg",
+			"slug":"love-and-monsters"
+		},
+		{
+			"title":"Jurassic World: Dominion",
+			"gatsby_image_path":"..\/..\/images\/jurassic-world-dominion.jpg",
+			"slug":"jurassic-world-dominion"
+		},
+		{
+			"title":"Jonah Hex",
+			"gatsby_image_path":"..\/..\/images\/jonah-hex.jpg",
+			"slug":"jonah-hex"
+		},
+		{
+			"title":"Ice Age: A Mammoth Christmas",
+			"gatsby_image_path":"..\/..\/images\/ice-age-a-mammoth-christmas.jpg",
+			"slug":"ice-age-a-mammoth-christmas"
 		}
 	],
 	"related_most_similar":[
@@ -298,14 +348,14 @@
 			"slug":"jurassic-galaxy"
 		},
 		{
-			"title":"Phineas and Ferb: The Movie: Candace Against the Universe",
-			"gatsby_image_path":"..\/..\/images\/phineas-and-ferb-the-movie-candace-against-the-universe.jpg",
-			"slug":"phineas-and-ferb-the-movie-candace-against-the-universe"
-		},
-		{
 			"title":"Paranormal Activity: The Marked Ones",
 			"gatsby_image_path":"..\/..\/images\/paranormal-activity-the-marked-ones.jpg",
 			"slug":"paranormal-activity-the-marked-ones"
+		},
+		{
+			"title":"Phineas and Ferb: The Movie: Candace Against the Universe",
+			"gatsby_image_path":"..\/..\/images\/phineas-and-ferb-the-movie-candace-against-the-universe.jpg",
+			"slug":"phineas-and-ferb-the-movie-candace-against-the-universe"
 		},
 		{
 			"title":"Deep Blue Sea 3",
@@ -313,9 +363,9 @@
 			"slug":"deep-blue-sea-3"
 		},
 		{
-			"title":"Triple Threat",
-			"gatsby_image_path":"..\/..\/images\/triple-threat.jpg",
-			"slug":"triple-threat"
+			"title":"Scary Stories to Tell in the Dark",
+			"gatsby_image_path":"..\/..\/images\/scary-stories-to-tell-in-the-dark.jpg",
+			"slug":"scary-stories-to-tell-in-the-dark"
 		},
 		{
 			"title":"Men in Black: International",
@@ -323,9 +373,24 @@
 			"slug":"men-in-black-international"
 		},
 		{
+			"title":"Nightbooks",
+			"gatsby_image_path":"..\/..\/images\/nightbooks.jpg",
+			"slug":"nightbooks"
+		},
+		{
+			"title":"Triple Threat",
+			"gatsby_image_path":"..\/..\/images\/triple-threat.jpg",
+			"slug":"triple-threat"
+		},
+		{
 			"title":"Saw III",
 			"gatsby_image_path":"..\/..\/images\/saw-iii.jpg",
 			"slug":"saw-iii"
+		},
+		{
+			"title":"Barbie and the Three Musketeers",
+			"gatsby_image_path":"..\/..\/images\/barbie-and-the-three-musketeers.jpg",
+			"slug":"barbie-and-the-three-musketeers"
 		},
 		{
 			"title":"The Evil Dead",
@@ -338,24 +403,9 @@
 			"slug":"pirates-of-the-caribbean-dead-men-tell-no-tales"
 		},
 		{
-			"title":"Barbie and the Three Musketeers",
-			"gatsby_image_path":"..\/..\/images\/barbie-and-the-three-musketeers.jpg",
-			"slug":"barbie-and-the-three-musketeers"
-		},
-		{
 			"title":"Wrong Turn 6: Last Resort",
 			"gatsby_image_path":"..\/..\/images\/wrong-turn-6-last-resort.jpg",
 			"slug":"wrong-turn-6-last-resort"
-		},
-		{
-			"title":"Stray",
-			"gatsby_image_path":"..\/..\/images\/stray.jpg",
-			"slug":"stray"
-		},
-		{
-			"title":"The Banana Splits Movie",
-			"gatsby_image_path":"..\/..\/images\/the-banana-splits-movie.jpg",
-			"slug":"the-banana-splits-movie"
 		}
 	],
 	"tmdb_id":443791,
