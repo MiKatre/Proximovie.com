@@ -157,9 +157,29 @@
 			"slug":"friday-the-13th-the-final-chapter"
 		},
 		{
+			"title":"Friday the 13th",
+			"gatsby_image_path":"..\/..\/images\/friday-the-13th.jpg",
+			"slug":"friday-the-13th"
+		},
+		{
+			"title":"Friday the 13th Part VII: The New Blood",
+			"gatsby_image_path":"..\/..\/images\/friday-the-13th-part-vii-the-new-blood.jpg",
+			"slug":"friday-the-13th-part-vii-the-new-blood"
+		},
+		{
 			"title":"World War Z",
 			"gatsby_image_path":"..\/..\/images\/world-war-z.jpg",
 			"slug":"world-war-z"
+		},
+		{
+			"title":"Sleepy Hollow",
+			"gatsby_image_path":"..\/..\/images\/sleepy-hollow.jpg",
+			"slug":"sleepy-hollow"
+		},
+		{
+			"title":"Paranormal Activity: Next of Kin",
+			"gatsby_image_path":"..\/..\/images\/paranormal-activity-next-of-kin.jpg",
+			"slug":"paranormal-activity-next-of-kin"
 		},
 		{
 			"title":"Friday the 13th Part VI: Jason Lives",
@@ -167,14 +187,19 @@
 			"slug":"friday-the-13th-part-vi-jason-lives"
 		},
 		{
-			"title":"Friday the 13th",
-			"gatsby_image_path":"..\/..\/images\/friday-the-13th.jpg",
-			"slug":"friday-the-13th"
+			"title":"Friday the 13th Part VIII: Jason Takes Manhattan",
+			"gatsby_image_path":"..\/..\/images\/friday-the-13th-part-viii-jason-takes-manhattan.jpg",
+			"slug":"friday-the-13th-part-viii-jason-takes-manhattan"
 		},
 		{
 			"title":"A Quiet Place Part II",
 			"gatsby_image_path":"..\/..\/images\/a-quiet-place-part-ii.jpg",
 			"slug":"a-quiet-place-part-ii"
+		},
+		{
+			"title":"Anaconda",
+			"gatsby_image_path":"..\/..\/images\/anaconda.jpg",
+			"slug":"anaconda"
 		},
 		{
 			"title":"Wrong Turn",
@@ -200,6 +225,31 @@
 			"title":"Wrong Turn 2: Dead End",
 			"gatsby_image_path":"..\/..\/images\/wrong-turn-2-dead-end.jpg",
 			"slug":"wrong-turn-2-dead-end"
+		},
+		{
+			"title":"What Lies Below",
+			"gatsby_image_path":"..\/..\/images\/what-lies-below.jpg",
+			"slug":"what-lies-below"
+		},
+		{
+			"title":"War of the Worlds",
+			"gatsby_image_path":"..\/..\/images\/war-of-the-worlds.jpg",
+			"slug":"war-of-the-worlds"
+		},
+		{
+			"title":"Underwater",
+			"gatsby_image_path":"..\/..\/images\/underwater.jpg",
+			"slug":"underwater"
+		},
+		{
+			"title":"Truth or Dare",
+			"gatsby_image_path":"..\/..\/images\/truth-or-dare.jpg",
+			"slug":"truth-or-dare"
+		},
+		{
+			"title":"Traffik",
+			"gatsby_image_path":"..\/..\/images\/traffik.jpg",
+			"slug":"traffik"
 		}
 	],
 	"related_by_poster":[

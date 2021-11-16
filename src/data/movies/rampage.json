@@ -165,6 +165,16 @@
 			"slug":"skyscraper"
 		},
 		{
+			"title":"Skyline",
+			"gatsby_image_path":"..\/..\/images\/skyline.jpg",
+			"slug":"skyline"
+		},
+		{
+			"title":"Red Notice",
+			"gatsby_image_path":"..\/..\/images\/red-notice.jpg",
+			"slug":"red-notice"
+		},
+		{
 			"title":"Baywatch",
 			"gatsby_image_path":"..\/..\/images\/baywatch.jpg",
 			"slug":"baywatch"
@@ -190,11 +200,6 @@
 			"slug":"journey-2-the-mysterious-island"
 		},
 		{
-			"title":"Hercules",
-			"gatsby_image_path":"..\/..\/images\/hercules.jpg",
-			"slug":"hercules"
-		},
-		{
 			"title":"Fast & Furious Presents: Hobbs & Shaw",
 			"gatsby_image_path":"..\/..\/images\/fast-furious-presents-hobbs-shaw.jpg",
 			"slug":"fast-furious-presents-hobbs-shaw"
@@ -203,6 +208,51 @@
 			"title":"Central Intelligence",
 			"gatsby_image_path":"..\/..\/images\/central-intelligence.jpg",
 			"slug":"central-intelligence"
+		},
+		{
+			"title":"Jumanji: The Next Level",
+			"gatsby_image_path":"..\/..\/images\/jumanji-the-next-level.jpg",
+			"slug":"jumanji-the-next-level"
+		},
+		{
+			"title":"Journey to the Center of the Earth",
+			"gatsby_image_path":"..\/..\/images\/journey-to-the-center-of-the-earth.jpg",
+			"slug":"journey-to-the-center-of-the-earth"
+		},
+		{
+			"title":"G.I. Joe: Retaliation",
+			"gatsby_image_path":"..\/..\/images\/g.i.-joe-retaliation.jpg",
+			"slug":"g.i.-joe-retaliation"
+		},
+		{
+			"title":"Watchmen",
+			"gatsby_image_path":"..\/..\/images\/watchmen.jpg",
+			"slug":"watchmen"
+		},
+		{
+			"title":"The Texas Chainsaw Massacre: The Beginning",
+			"gatsby_image_path":"..\/..\/images\/the-texas-chainsaw-massacre-the-beginning.jpg",
+			"slug":"the-texas-chainsaw-massacre-the-beginning"
+		},
+		{
+			"title":"The Other Guys",
+			"gatsby_image_path":"..\/..\/images\/the-other-guys.jpg",
+			"slug":"the-other-guys"
+		},
+		{
+			"title":"The Mummy Returns",
+			"gatsby_image_path":"..\/..\/images\/the-mummy-returns.jpg",
+			"slug":"the-mummy-returns"
+		},
+		{
+			"title":"The Fate of the Furious",
+			"gatsby_image_path":"..\/..\/images\/the-fate-of-the-furious.jpg",
+			"slug":"the-fate-of-the-furious"
+		},
+		{
+			"title":"Teenage Mutant Ninja Turtles: Out of the Shadows",
+			"gatsby_image_path":"..\/..\/images\/teenage-mutant-ninja-turtles-out-of-the-shadows.jpg",
+			"slug":"teenage-mutant-ninja-turtles-out-of-the-shadows"
 		}
 	],
 	"related_by_poster":[

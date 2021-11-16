@@ -189,9 +189,19 @@
 			"slug":"the-angry-birds-movie-2"
 		},
 		{
+			"title":"Shrek the Halls",
+			"gatsby_image_path":"..\/..\/images\/shrek-the-halls.jpg",
+			"slug":"shrek-the-halls"
+		},
+		{
 			"title":"Shrek Forever After",
 			"gatsby_image_path":"..\/..\/images\/shrek-forever-after.jpg",
 			"slug":"shrek-forever-after"
+		},
+		{
+			"title":"Puss in Boots",
+			"gatsby_image_path":"..\/..\/images\/puss-in-boots.jpg",
+			"slug":"puss-in-boots"
 		},
 		{
 			"title":"Penguins of Madagascar",
@@ -202,6 +212,46 @@
 			"title":"Megamind",
 			"gatsby_image_path":"..\/..\/images\/megamind.jpg",
 			"slug":"megamind"
+		},
+		{
+			"title":"How to Train Your Dragon 2",
+			"gatsby_image_path":"..\/..\/images\/how-to-train-your-dragon-2.jpg",
+			"slug":"how-to-train-your-dragon-2"
+		},
+		{
+			"title":"Captain Underpants: The First Epic Movie",
+			"gatsby_image_path":"..\/..\/images\/captain-underpants-the-first-epic-movie.jpg",
+			"slug":"captain-underpants-the-first-epic-movie"
+		},
+		{
+			"title":"Trollhunters: Rise of the Titans",
+			"gatsby_image_path":"..\/..\/images\/trollhunters-rise-of-the-titans.jpg",
+			"slug":"trollhunters-rise-of-the-titans"
+		},
+		{
+			"title":"Toy Story That Time Forgot",
+			"gatsby_image_path":"..\/..\/images\/toy-story-that-time-forgot.jpg",
+			"slug":"toy-story-that-time-forgot"
+		},
+		{
+			"title":"The SpongeBob Movie: Sponge on the Run",
+			"gatsby_image_path":"..\/..\/images\/the-spongebob-movie-sponge-on-the-run.jpg",
+			"slug":"the-spongebob-movie-sponge-on-the-run"
+		},
+		{
+			"title":"The Road to El Dorado",
+			"gatsby_image_path":"..\/..\/images\/the-road-to-el-dorado.jpg",
+			"slug":"the-road-to-el-dorado"
+		},
+		{
+			"title":"The Croods: A New Age",
+			"gatsby_image_path":"..\/..\/images\/the-croods-a-new-age.jpg",
+			"slug":"the-croods-a-new-age"
+		},
+		{
+			"title":"The Angry Birds Movie",
+			"gatsby_image_path":"..\/..\/images\/the-angry-birds-movie.jpg",
+			"slug":"the-angry-birds-movie"
 		}
 	],
 	"related_by_poster":[

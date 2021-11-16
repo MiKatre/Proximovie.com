@@ -157,6 +157,11 @@
 			"slug":"the-aristocats"
 		},
 		{
+			"title":"The Jungle Book",
+			"gatsby_image_path":"..\/..\/images\/the-jungle-book.jpg",
+			"slug":"the-jungle-book"
+		},
+		{
 			"title":"One Hundred and One Dalmatians",
 			"gatsby_image_path":"..\/..\/images\/one-hundred-and-one-dalmatians.jpg",
 			"slug":"one-hundred-and-one-dalmatians"
@@ -167,14 +172,24 @@
 			"slug":"sleeping-beauty"
 		},
 		{
-			"title":"Robin Hood",
-			"gatsby_image_path":"..\/..\/images\/robin-hood.jpg",
-			"slug":"robin-hood"
-		},
-		{
 			"title":"Peter Pan",
 			"gatsby_image_path":"..\/..\/images\/peter-pan.jpg",
 			"slug":"peter-pan"
+		},
+		{
+			"title":"Lady and the Tramp",
+			"gatsby_image_path":"..\/..\/images\/lady-and-the-tramp.jpg",
+			"slug":"lady-and-the-tramp"
+		},
+		{
+			"title":"Cinderella",
+			"gatsby_image_path":"..\/..\/images\/cinderella.jpg",
+			"slug":"cinderella"
+		},
+		{
+			"title":"Alice in Wonderland",
+			"gatsby_image_path":"..\/..\/images\/alice-in-wonderland.jpg",
+			"slug":"alice-in-wonderland"
 		},
 		{
 			"title":"Saludos Amigos",
@@ -197,9 +212,44 @@
 			"slug":"fantasia"
 		},
 		{
+			"title":"Dumbo",
+			"gatsby_image_path":"..\/..\/images\/dumbo.jpg",
+			"slug":"dumbo"
+		},
+		{
 			"title":"Bambi",
 			"gatsby_image_path":"..\/..\/images\/bambi.jpg",
 			"slug":"bambi"
+		},
+		{
+			"title":"Snow White and the Seven Dwarfs",
+			"gatsby_image_path":"..\/..\/images\/snow-white-and-the-seven-dwarfs.jpg",
+			"slug":"snow-white-and-the-seven-dwarfs"
+		},
+		{
+			"title":"Pinocchio",
+			"gatsby_image_path":"..\/..\/images\/pinocchio.jpg",
+			"slug":"pinocchio"
+		},
+		{
+			"title":"Anastasia",
+			"gatsby_image_path":"..\/..\/images\/anastasia.jpg",
+			"slug":"anastasia"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Wreck-It Ralph",
+			"gatsby_image_path":"..\/..\/images\/wreck-it-ralph.jpg",
+			"slug":"wreck-it-ralph"
+		},
+		{
+			"title":"WALL·E",
+			"gatsby_image_path":"..\/..\/images\/wall-e.jpg",
+			"slug":"wall-e"
 		}
 	],
 	"related_by_poster":[

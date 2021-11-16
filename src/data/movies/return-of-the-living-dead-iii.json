@@ -158,6 +158,11 @@
 			"slug":"world-war-z"
 		},
 		{
+			"title":"What Lies Below",
+			"gatsby_image_path":"..\/..\/images\/what-lies-below.jpg",
+			"slug":"what-lies-below"
+		},
+		{
 			"title":"Untitled 'The Walking Dead' Film",
 			"gatsby_image_path":"..\/..\/images\/untitled-the-walking-dead-film.jpg",
 			"slug":"untitled-the-walking-dead-film"
@@ -166,6 +171,11 @@
 			"title":"Underwater",
 			"gatsby_image_path":"..\/..\/images\/underwater.jpg",
 			"slug":"underwater"
+		},
+		{
+			"title":"Turbo: A Power Rangers Movie",
+			"gatsby_image_path":"..\/..\/images\/turbo-a-power-rangers-movie.jpg",
+			"slug":"turbo-a-power-rangers-movie"
 		},
 		{
 			"title":"Tremors: A Cold Day in Hell",
@@ -198,9 +208,49 @@
 			"slug":"the-new-mutants"
 		},
 		{
-			"title":"The Mummy",
-			"gatsby_image_path":"..\/..\/images\/the-mummy.jpg",
-			"slug":"the-mummy"
+			"title":"The Meg",
+			"gatsby_image_path":"..\/..\/images\/the-meg.jpg",
+			"slug":"the-meg"
+		},
+		{
+			"title":"The Jurassic Games",
+			"gatsby_image_path":"..\/..\/images\/the-jurassic-games.jpg",
+			"slug":"the-jurassic-games"
+		},
+		{
+			"title":"The Invisible Man",
+			"gatsby_image_path":"..\/..\/images\/the-invisible-man.jpg",
+			"slug":"the-invisible-man"
+		},
+		{
+			"title":"The Hunt",
+			"gatsby_image_path":"..\/..\/images\/the-hunt.jpg",
+			"slug":"the-hunt"
+		},
+		{
+			"title":"The Grudge",
+			"gatsby_image_path":"..\/..\/images\/the-grudge.jpg",
+			"slug":"the-grudge"
+		},
+		{
+			"title":"The First Purge",
+			"gatsby_image_path":"..\/..\/images\/the-first-purge.jpg",
+			"slug":"the-first-purge"
+		},
+		{
+			"title":"The Day",
+			"gatsby_image_path":"..\/..\/images\/the-day.jpg",
+			"slug":"the-day"
+		},
+		{
+			"title":"The Car: Road to Revenge",
+			"gatsby_image_path":"..\/..\/images\/the-car-road-to-revenge.jpg",
+			"slug":"the-car-road-to-revenge"
+		},
+		{
+			"title":"The Banana Splits Movie",
+			"gatsby_image_path":"..\/..\/images\/the-banana-splits-movie.jpg",
+			"slug":"the-banana-splits-movie"
 		}
 	],
 	"related_by_poster":[

@@ -170,6 +170,11 @@
 			"slug":"fury"
 		},
 		{
+			"title":"Cast Away",
+			"gatsby_image_path":"..\/..\/images\/cast-away.jpg",
+			"slug":"cast-away"
+		},
+		{
 			"title":"Venom: Let There Be Carnage",
 			"gatsby_image_path":"..\/..\/images\/venom-let-there-be-carnage.jpg",
 			"slug":"venom-let-there-be-carnage"
@@ -205,9 +210,54 @@
 			"slug":"those-who-wish-me-dead"
 		},
 		{
+			"title":"The Monuments Men",
+			"gatsby_image_path":"..\/..\/images\/the-monuments-men.jpg",
+			"slug":"the-monuments-men"
+		},
+		{
 			"title":"The Man with the Iron Heart",
 			"gatsby_image_path":"..\/..\/images\/the-man-with-the-iron-heart.jpg",
 			"slug":"the-man-with-the-iron-heart"
+		},
+		{
+			"title":"The Amazing Spider-Man",
+			"gatsby_image_path":"..\/..\/images\/the-amazing-spider-man.jpg",
+			"slug":"the-amazing-spider-man"
+		},
+		{
+			"title":"Tears of the Sun",
+			"gatsby_image_path":"..\/..\/images\/tears-of-the-sun.jpg",
+			"slug":"tears-of-the-sun"
+		},
+		{
+			"title":"Sully",
+			"gatsby_image_path":"..\/..\/images\/sully.jpg",
+			"slug":"sully"
+		},
+		{
+			"title":"Spider-Man",
+			"gatsby_image_path":"..\/..\/images\/spider-man.jpg",
+			"slug":"spider-man"
+		},
+		{
+			"title":"Spider-Man: Homecoming",
+			"gatsby_image_path":"..\/..\/images\/spider-man-homecoming.jpg",
+			"slug":"spider-man-homecoming"
+		},
+		{
+			"title":"Spider-Man 3",
+			"gatsby_image_path":"..\/..\/images\/spider-man-3.jpg",
+			"slug":"spider-man-3"
+		},
+		{
+			"title":"Saving Private Ryan",
+			"gatsby_image_path":"..\/..\/images\/saving-private-ryan.jpg",
+			"slug":"saving-private-ryan"
+		},
+		{
+			"title":"Sausage Party",
+			"gatsby_image_path":"..\/..\/images\/sausage-party.jpg",
+			"slug":"sausage-party"
 		}
 	],
 	"related_by_poster":[

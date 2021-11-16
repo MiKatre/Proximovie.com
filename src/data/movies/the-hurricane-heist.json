@@ -173,9 +173,19 @@
 			"slug":"wild-card"
 		},
 		{
+			"title":"Blitz",
+			"gatsby_image_path":"..\/..\/images\/blitz.jpg",
+			"slug":"blitz"
+		},
+		{
 			"title":"Wrath of Man",
 			"gatsby_image_path":"..\/..\/images\/wrath-of-man.jpg",
 			"slug":"wrath-of-man"
+		},
+		{
+			"title":"Universal Soldier: Regeneration",
+			"gatsby_image_path":"..\/..\/images\/universal-soldier-regeneration.jpg",
+			"slug":"universal-soldier-regeneration"
 		},
 		{
 			"title":"Undisputed II: Last Man Standing",
@@ -186,6 +196,11 @@
 			"title":"The Virtuoso",
 			"gatsby_image_path":"..\/..\/images\/the-virtuoso.jpg",
 			"slug":"the-virtuoso"
+		},
+		{
+			"title":"The Protégé",
+			"gatsby_image_path":"..\/..\/images\/the-protégé.jpg",
+			"slug":"the-protégé"
 		},
 		{
 			"title":"The Hitman's Bodyguard",
@@ -203,14 +218,49 @@
 			"slug":"sicario-day-of-the-soldado"
 		},
 		{
-			"title":"Security",
-			"gatsby_image_path":"..\/..\/images\/security.jpg",
-			"slug":"security"
+			"title":"Scott Pilgrim vs. the World",
+			"gatsby_image_path":"..\/..\/images\/scott-pilgrim-vs.-the-world.jpg",
+			"slug":"scott-pilgrim-vs.-the-world"
 		},
 		{
 			"title":"Pandemic",
 			"gatsby_image_path":"..\/..\/images\/pandemic.jpg",
 			"slug":"pandemic"
+		},
+		{
+			"title":"Midnight in the Switchgrass",
+			"gatsby_image_path":"..\/..\/images\/midnight-in-the-switchgrass.jpg",
+			"slug":"midnight-in-the-switchgrass"
+		},
+		{
+			"title":"King Arthur: Legend of the Sword",
+			"gatsby_image_path":"..\/..\/images\/king-arthur-legend-of-the-sword.jpg",
+			"slug":"king-arthur-legend-of-the-sword"
+		},
+		{
+			"title":"John Wick: Chapter 4",
+			"gatsby_image_path":"..\/..\/images\/john-wick-chapter-4.jpg",
+			"slug":"john-wick-chapter-4"
+		},
+		{
+			"title":"John Wick: Chapter 3 - Parabellum",
+			"gatsby_image_path":"..\/..\/images\/john-wick-chapter-3-parabellum.jpg",
+			"slug":"john-wick-chapter-3-parabellum"
+		},
+		{
+			"title":"John Wick: Chapter 2",
+			"gatsby_image_path":"..\/..\/images\/john-wick-chapter-2.jpg",
+			"slug":"john-wick-chapter-2"
+		},
+		{
+			"title":"I See You",
+			"gatsby_image_path":"..\/..\/images\/i-see-you.jpg",
+			"slug":"i-see-you"
+		},
+		{
+			"title":"Honest Thief",
+			"gatsby_image_path":"..\/..\/images\/honest-thief.jpg",
+			"slug":"honest-thief"
 		}
 	],
 	"related_by_poster":[

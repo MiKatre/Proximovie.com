@@ -188,6 +188,11 @@
 			"slug":"vivo"
 		},
 		{
+			"title":"The Smurfs",
+			"gatsby_image_path":"..\/..\/images\/the-smurfs.jpg",
+			"slug":"the-smurfs"
+		},
+		{
 			"title":"The Angry Birds Movie 2",
 			"gatsby_image_path":"..\/..\/images\/the-angry-birds-movie-2.jpg",
 			"slug":"the-angry-birds-movie-2"
@@ -201,6 +206,51 @@
 			"title":"Spider-Man: Homecoming",
 			"gatsby_image_path":"..\/..\/images\/spider-man-homecoming.jpg",
 			"slug":"spider-man-homecoming"
+		},
+		{
+			"title":"Spider-Man 3",
+			"gatsby_image_path":"..\/..\/images\/spider-man-3.jpg",
+			"slug":"spider-man-3"
+		},
+		{
+			"title":"Paul Blart: Mall Cop",
+			"gatsby_image_path":"..\/..\/images\/paul-blart-mall-cop.jpg",
+			"slug":"paul-blart-mall-cop"
+		},
+		{
+			"title":"Hotel Transylvania: Transformania",
+			"gatsby_image_path":"..\/..\/images\/hotel-transylvania-transformania.jpg",
+			"slug":"hotel-transylvania-transformania"
+		},
+		{
+			"title":"Goosebumps 2: Haunted Halloween",
+			"gatsby_image_path":"..\/..\/images\/goosebumps-2-haunted-halloween.jpg",
+			"slug":"goosebumps-2-haunted-halloween"
+		},
+		{
+			"title":"Big Fish",
+			"gatsby_image_path":"..\/..\/images\/big-fish.jpg",
+			"slug":"big-fish"
+		},
+		{
+			"title":"Alpha",
+			"gatsby_image_path":"..\/..\/images\/alpha.jpg",
+			"slug":"alpha"
+		},
+		{
+			"title":"Zombieland",
+			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
+			"slug":"zombieland"
+		},
+		{
+			"title":"Wizards of Waverly Place: The Movie",
+			"gatsby_image_path":"..\/..\/images\/wizards-of-waverly-place-the-movie.jpg",
+			"slug":"wizards-of-waverly-place-the-movie"
+		},
+		{
+			"title":"Wish Dragon",
+			"gatsby_image_path":"..\/..\/images\/wish-dragon.jpg",
+			"slug":"wish-dragon"
 		}
 	],
 	"related_by_poster":[

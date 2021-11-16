@@ -155,6 +155,26 @@
 			"slug":"peter-pan"
 		},
 		{
+			"title":"Cinderella",
+			"gatsby_image_path":"..\/..\/images\/cinderella.jpg",
+			"slug":"cinderella"
+		},
+		{
+			"title":"Alice in Wonderland",
+			"gatsby_image_path":"..\/..\/images\/alice-in-wonderland.jpg",
+			"slug":"alice-in-wonderland"
+		},
+		{
+			"title":"Pinocchio",
+			"gatsby_image_path":"..\/..\/images\/pinocchio.jpg",
+			"slug":"pinocchio"
+		},
+		{
+			"title":"Lady and the Tramp",
+			"gatsby_image_path":"..\/..\/images\/lady-and-the-tramp.jpg",
+			"slug":"lady-and-the-tramp"
+		},
+		{
 			"title":"The Aristocats",
 			"gatsby_image_path":"..\/..\/images\/the-aristocats.jpg",
 			"slug":"the-aristocats"
@@ -163,6 +183,11 @@
 			"title":"Snow White and the Seven Dwarfs",
 			"gatsby_image_path":"..\/..\/images\/snow-white-and-the-seven-dwarfs.jpg",
 			"slug":"snow-white-and-the-seven-dwarfs"
+		},
+		{
+			"title":"Dumbo",
+			"gatsby_image_path":"..\/..\/images\/dumbo.jpg",
+			"slug":"dumbo"
 		},
 		{
 			"title":"Bambi",
@@ -175,6 +200,11 @@
 			"slug":"the-sword-in-the-stone"
 		},
 		{
+			"title":"The Jungle Book",
+			"gatsby_image_path":"..\/..\/images\/the-jungle-book.jpg",
+			"slug":"the-jungle-book"
+		},
+		{
 			"title":"The Fox and the Hound",
 			"gatsby_image_path":"..\/..\/images\/the-fox-and-the-hound.jpg",
 			"slug":"the-fox-and-the-hound"
@@ -185,11 +215,6 @@
 			"slug":"sleeping-beauty"
 		},
 		{
-			"title":"Robin Hood",
-			"gatsby_image_path":"..\/..\/images\/robin-hood.jpg",
-			"slug":"robin-hood"
-		},
-		{
 			"title":"One Hundred and One Dalmatians",
 			"gatsby_image_path":"..\/..\/images\/one-hundred-and-one-dalmatians.jpg",
 			"slug":"one-hundred-and-one-dalmatians"
@@ -198,6 +223,31 @@
 			"title":"Fantasia",
 			"gatsby_image_path":"..\/..\/images\/fantasia.jpg",
 			"slug":"fantasia"
+		},
+		{
+			"title":"Zootopia",
+			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
+			"slug":"zootopia"
+		},
+		{
+			"title":"Wreck-It Ralph",
+			"gatsby_image_path":"..\/..\/images\/wreck-it-ralph.jpg",
+			"slug":"wreck-it-ralph"
+		},
+		{
+			"title":"Treasure Planet",
+			"gatsby_image_path":"..\/..\/images\/treasure-planet.jpg",
+			"slug":"treasure-planet"
+		},
+		{
+			"title":"Toy Story 4",
+			"gatsby_image_path":"..\/..\/images\/toy-story-4.jpg",
+			"slug":"toy-story-4"
+		},
+		{
+			"title":"The Lion King II: Simba's Pride",
+			"gatsby_image_path":"..\/..\/images\/the-lion-king-ii-simba-s-pride.jpg",
+			"slug":"the-lion-king-ii-simba-s-pride"
 		}
 	],
 	"related_by_poster":[

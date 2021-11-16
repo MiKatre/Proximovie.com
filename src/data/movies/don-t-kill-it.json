@@ -153,6 +153,11 @@
 	],
 	"related_most_similar":[
 		{
+			"title":"Skin Trade",
+			"gatsby_image_path":"..\/..\/images\/skin-trade.jpg",
+			"slug":"skin-trade"
+		},
+		{
 			"title":"Hard Night Falling",
 			"gatsby_image_path":"..\/..\/images\/hard-night-falling.jpg",
 			"slug":"hard-night-falling"
@@ -163,6 +168,21 @@
 			"slug":"aquaman"
 		},
 		{
+			"title":"Aquaman and The Lost Kingdom",
+			"gatsby_image_path":"..\/..\/images\/aquaman-and-the-lost-kingdom.jpg",
+			"slug":"aquaman-and-the-lost-kingdom"
+		},
+		{
+			"title":"Universal Soldier: Regeneration",
+			"gatsby_image_path":"..\/..\/images\/universal-soldier-regeneration.jpg",
+			"slug":"universal-soldier-regeneration"
+		},
+		{
+			"title":"Underworld: Awakening",
+			"gatsby_image_path":"..\/..\/images\/underworld-awakening.jpg",
+			"slug":"underworld-awakening"
+		},
+		{
 			"title":"Tremors: A Cold Day in Hell",
 			"gatsby_image_path":"..\/..\/images\/tremors-a-cold-day-in-hell.jpg",
 			"slug":"tremors-a-cold-day-in-hell"
@@ -171,11 +191,6 @@
 			"title":"Toys of Terror",
 			"gatsby_image_path":"..\/..\/images\/toys-of-terror.jpg",
 			"slug":"toys-of-terror"
-		},
-		{
-			"title":"The Mummy",
-			"gatsby_image_path":"..\/..\/images\/the-mummy.jpg",
-			"slug":"the-mummy"
 		},
 		{
 			"title":"The Mortuary Collection",
@@ -201,6 +216,41 @@
 			"title":"The Craft: Legacy",
 			"gatsby_image_path":"..\/..\/images\/the-craft-legacy.jpg",
 			"slug":"the-craft-legacy"
+		},
+		{
+			"title":"The Craft",
+			"gatsby_image_path":"..\/..\/images\/the-craft.jpg",
+			"slug":"the-craft"
+		},
+		{
+			"title":"The Cabin in the Woods",
+			"gatsby_image_path":"..\/..\/images\/the-cabin-in-the-woods.jpg",
+			"slug":"the-cabin-in-the-woods"
+		},
+		{
+			"title":"Tentacles",
+			"gatsby_image_path":"..\/..\/images\/tentacles.jpg",
+			"slug":"tentacles"
+		},
+		{
+			"title":"Sleepy Hollow",
+			"gatsby_image_path":"..\/..\/images\/sleepy-hollow.jpg",
+			"slug":"sleepy-hollow"
+		},
+		{
+			"title":"Sinister",
+			"gatsby_image_path":"..\/..\/images\/sinister.jpg",
+			"slug":"sinister"
+		},
+		{
+			"title":"Rocky IV",
+			"gatsby_image_path":"..\/..\/images\/rocky-iv.jpg",
+			"slug":"rocky-iv"
+		},
+		{
+			"title":"Roald Dahl's The Witches",
+			"gatsby_image_path":"..\/..\/images\/roald-dahl-s-the-witches.jpg",
+			"slug":"roald-dahl-s-the-witches"
 		}
 	],
 	"related_by_poster":[

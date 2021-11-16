@@ -158,6 +158,11 @@
 			"slug":"upgrade"
 		},
 		{
+			"title":"Universal Soldier: Regeneration",
+			"gatsby_image_path":"..\/..\/images\/universal-soldier-regeneration.jpg",
+			"slug":"universal-soldier-regeneration"
+		},
+		{
 			"title":"Underwater",
 			"gatsby_image_path":"..\/..\/images\/underwater.jpg",
 			"slug":"underwater"
@@ -168,9 +173,34 @@
 			"slug":"ufo"
 		},
 		{
+			"title":"Turbo: A Power Rangers Movie",
+			"gatsby_image_path":"..\/..\/images\/turbo-a-power-rangers-movie.jpg",
+			"slug":"turbo-a-power-rangers-movie"
+		},
+		{
 			"title":"Trollhunters: Rise of the Titans",
 			"gatsby_image_path":"..\/..\/images\/trollhunters-rise-of-the-titans.jpg",
 			"slug":"trollhunters-rise-of-the-titans"
+		},
+		{
+			"title":"Transformers: Rise of the Beasts",
+			"gatsby_image_path":"..\/..\/images\/transformers-rise-of-the-beasts.jpg",
+			"slug":"transformers-rise-of-the-beasts"
+		},
+		{
+			"title":"Transformers: Revenge of the Fallen",
+			"gatsby_image_path":"..\/..\/images\/transformers-revenge-of-the-fallen.jpg",
+			"slug":"transformers-revenge-of-the-fallen"
+		},
+		{
+			"title":"Total Recall",
+			"gatsby_image_path":"..\/..\/images\/total-recall.jpg",
+			"slug":"total-recall"
+		},
+		{
+			"title":"Ticking Clock",
+			"gatsby_image_path":"..\/..\/images\/ticking-clock.jpg",
+			"slug":"ticking-clock"
 		},
 		{
 			"title":"The Terminator",
@@ -186,6 +216,26 @@
 			"title":"The Mitchells vs. the Machines",
 			"gatsby_image_path":"..\/..\/images\/the-mitchells-vs.-the-machines.jpg",
 			"slug":"the-mitchells-vs.-the-machines"
+		},
+		{
+			"title":"The Maze Runner",
+			"gatsby_image_path":"..\/..\/images\/the-maze-runner.jpg",
+			"slug":"the-maze-runner"
+		},
+		{
+			"title":"The Matrix Revolutions",
+			"gatsby_image_path":"..\/..\/images\/the-matrix-revolutions.jpg",
+			"slug":"the-matrix-revolutions"
+		},
+		{
+			"title":"The Matrix Reloaded",
+			"gatsby_image_path":"..\/..\/images\/the-matrix-reloaded.jpg",
+			"slug":"the-matrix-reloaded"
+		},
+		{
+			"title":"The First Purge",
+			"gatsby_image_path":"..\/..\/images\/the-first-purge.jpg",
+			"slug":"the-first-purge"
 		}
 	],
 	"related_by_poster":[

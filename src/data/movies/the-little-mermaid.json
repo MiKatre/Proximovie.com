@@ -153,9 +153,9 @@
 	],
 	"related_most_similar":[
 		{
-			"title":"Aladdin",
-			"gatsby_image_path":"..\/..\/images\/aladdin.jpg",
-			"slug":"aladdin"
+			"title":"Beauty and the Beast",
+			"gatsby_image_path":"..\/..\/images\/beauty-and-the-beast.jpg",
+			"slug":"beauty-and-the-beast"
 		},
 		{
 			"title":"Treasure Planet",
@@ -163,9 +163,19 @@
 			"slug":"treasure-planet"
 		},
 		{
+			"title":"Hercules",
+			"gatsby_image_path":"..\/..\/images\/hercules.jpg",
+			"slug":"hercules"
+		},
+		{
 			"title":"The Princess and the Frog",
 			"gatsby_image_path":"..\/..\/images\/the-princess-and-the-frog.jpg",
 			"slug":"the-princess-and-the-frog"
+		},
+		{
+			"title":"The Lion King",
+			"gatsby_image_path":"..\/..\/images\/the-lion-king.jpg",
+			"slug":"the-lion-king"
 		},
 		{
 			"title":"Sinbad: Legend of the Seven Seas",
@@ -201,6 +211,46 @@
 			"title":"The Emperor's New Groove",
 			"gatsby_image_path":"..\/..\/images\/the-emperor-s-new-groove.jpg",
 			"slug":"the-emperor-s-new-groove"
+		},
+		{
+			"title":"Soul",
+			"gatsby_image_path":"..\/..\/images\/soul.jpg",
+			"slug":"soul"
+		},
+		{
+			"title":"Sleeping Beauty",
+			"gatsby_image_path":"..\/..\/images\/sleeping-beauty.jpg",
+			"slug":"sleeping-beauty"
+		},
+		{
+			"title":"Shrek 2",
+			"gatsby_image_path":"..\/..\/images\/shrek-2.jpg",
+			"slug":"shrek-2"
+		},
+		{
+			"title":"Raya and the Last Dragon",
+			"gatsby_image_path":"..\/..\/images\/raya-and-the-last-dragon.jpg",
+			"slug":"raya-and-the-last-dragon"
+		},
+		{
+			"title":"Ratatouille",
+			"gatsby_image_path":"..\/..\/images\/ratatouille.jpg",
+			"slug":"ratatouille"
+		},
+		{
+			"title":"Peter Pan",
+			"gatsby_image_path":"..\/..\/images\/peter-pan.jpg",
+			"slug":"peter-pan"
+		},
+		{
+			"title":"Onward",
+			"gatsby_image_path":"..\/..\/images\/onward.jpg",
+			"slug":"onward"
+		},
+		{
+			"title":"Olaf's Frozen Adventure",
+			"gatsby_image_path":"..\/..\/images\/olaf-s-frozen-adventure.jpg",
+			"slug":"olaf-s-frozen-adventure"
 		}
 	],
 	"related_by_poster":[

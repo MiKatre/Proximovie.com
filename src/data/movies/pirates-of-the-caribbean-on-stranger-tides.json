@@ -175,9 +175,19 @@
 			"slug":"pirates-of-the-caribbean-dead-man-s-chest"
 		},
 		{
+			"title":"The Lone Ranger",
+			"gatsby_image_path":"..\/..\/images\/the-lone-ranger.jpg",
+			"slug":"the-lone-ranger"
+		},
+		{
 			"title":"Shrek",
 			"gatsby_image_path":"..\/..\/images\/shrek.jpg",
 			"slug":"shrek"
+		},
+		{
+			"title":"Prince of Persia: The Sands of Time",
+			"gatsby_image_path":"..\/..\/images\/prince-of-persia-the-sands-of-time.jpg",
+			"slug":"prince-of-persia-the-sands-of-time"
 		},
 		{
 			"title":"Top Gun: Maverick",
@@ -203,6 +213,46 @@
 			"title":"Avatar",
 			"gatsby_image_path":"..\/..\/images\/avatar.jpg",
 			"slug":"avatar"
+		},
+		{
+			"title":"Avatar 2",
+			"gatsby_image_path":"..\/..\/images\/avatar-2.jpg",
+			"slug":"avatar-2"
+		},
+		{
+			"title":"Shrek the Third",
+			"gatsby_image_path":"..\/..\/images\/shrek-the-third.jpg",
+			"slug":"shrek-the-third"
+		},
+		{
+			"title":"Shrek Forever After",
+			"gatsby_image_path":"..\/..\/images\/shrek-forever-after.jpg",
+			"slug":"shrek-forever-after"
+		},
+		{
+			"title":"Seventh Son",
+			"gatsby_image_path":"..\/..\/images\/seventh-son.jpg",
+			"slug":"seventh-son"
+		},
+		{
+			"title":"Pearl Harbor",
+			"gatsby_image_path":"..\/..\/images\/pearl-harbor.jpg",
+			"slug":"pearl-harbor"
+		},
+		{
+			"title":"Man of Steel",
+			"gatsby_image_path":"..\/..\/images\/man-of-steel.jpg",
+			"slug":"man-of-steel"
+		},
+		{
+			"title":"Guardians of the Galaxy",
+			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy.jpg",
+			"slug":"guardians-of-the-galaxy"
+		},
+		{
+			"title":"Godzilla vs. Kong",
+			"gatsby_image_path":"..\/..\/images\/godzilla-vs.-kong.jpg",
+			"slug":"godzilla-vs.-kong"
 		}
 	],
 	"related_by_poster":[

@@ -161,14 +161,29 @@
 			"slug":"infinite"
 		},
 		{
+			"title":"Contraband",
+			"gatsby_image_path":"..\/..\/images\/contraband.jpg",
+			"slug":"contraband"
+		},
+		{
 			"title":"Transformers: Age of Extinction",
 			"gatsby_image_path":"..\/..\/images\/transformers-age-of-extinction.jpg",
 			"slug":"transformers-age-of-extinction"
 		},
 		{
+			"title":"Salt",
+			"gatsby_image_path":"..\/..\/images\/salt.jpg",
+			"slug":"salt"
+		},
+		{
 			"title":"RED 2",
 			"gatsby_image_path":"..\/..\/images\/red-2.jpg",
 			"slug":"red-2"
+		},
+		{
+			"title":"Man on a Ledge",
+			"gatsby_image_path":"..\/..\/images\/man-on-a-ledge.jpg",
+			"slug":"man-on-a-ledge"
 		},
 		{
 			"title":"Jack Reacher",
@@ -196,6 +211,11 @@
 			"slug":"transformers-the-last-knight"
 		},
 		{
+			"title":"Transformers: Revenge of the Fallen",
+			"gatsby_image_path":"..\/..\/images\/transformers-revenge-of-the-fallen.jpg",
+			"slug":"transformers-revenge-of-the-fallen"
+		},
+		{
 			"title":"The Woman in the Window",
 			"gatsby_image_path":"..\/..\/images\/the-woman-in-the-window.jpg",
 			"slug":"the-woman-in-the-window"
@@ -204,6 +224,36 @@
 			"title":"The Mule",
 			"gatsby_image_path":"..\/..\/images\/the-mule.jpg",
 			"slug":"the-mule"
+		},
+		{
+			"title":"The Losers",
+			"gatsby_image_path":"..\/..\/images\/the-losers.jpg",
+			"slug":"the-losers"
+		},
+		{
+			"title":"The Good Doctor",
+			"gatsby_image_path":"..\/..\/images\/the-good-doctor.jpg",
+			"slug":"the-good-doctor"
+		},
+		{
+			"title":"The Equalizer 2",
+			"gatsby_image_path":"..\/..\/images\/the-equalizer-2.jpg",
+			"slug":"the-equalizer-2"
+		},
+		{
+			"title":"The Dark Knight Rises",
+			"gatsby_image_path":"..\/..\/images\/the-dark-knight-rises.jpg",
+			"slug":"the-dark-knight-rises"
+		},
+		{
+			"title":"The Dark Knight",
+			"gatsby_image_path":"..\/..\/images\/the-dark-knight.jpg",
+			"slug":"the-dark-knight"
+		},
+		{
+			"title":"TEKKEN",
+			"gatsby_image_path":"..\/..\/images\/tekken.jpg",
+			"slug":"tekken"
 		}
 	],
 	"related_by_poster":[

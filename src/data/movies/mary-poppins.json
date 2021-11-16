@@ -168,6 +168,16 @@
 			"slug":"the-aristocats"
 		},
 		{
+			"title":"Cinderella",
+			"gatsby_image_path":"..\/..\/images\/cinderella.jpg",
+			"slug":"cinderella"
+		},
+		{
+			"title":"The Jungle Book",
+			"gatsby_image_path":"..\/..\/images\/the-jungle-book.jpg",
+			"slug":"the-jungle-book"
+		},
+		{
 			"title":"Peter Pan",
 			"gatsby_image_path":"..\/..\/images\/peter-pan.jpg",
 			"slug":"peter-pan"
@@ -176,6 +186,11 @@
 			"title":"Mary Poppins Returns",
 			"gatsby_image_path":"..\/..\/images\/mary-poppins-returns.jpg",
 			"slug":"mary-poppins-returns"
+		},
+		{
+			"title":"Lady and the Tramp",
+			"gatsby_image_path":"..\/..\/images\/lady-and-the-tramp.jpg",
+			"slug":"lady-and-the-tramp"
 		},
 		{
 			"title":"Enchanted",
@@ -188,19 +203,54 @@
 			"slug":"toy-story-4"
 		},
 		{
+			"title":"Tooth Fairy",
+			"gatsby_image_path":"..\/..\/images\/tooth-fairy.jpg",
+			"slug":"tooth-fairy"
+		},
+		{
 			"title":"Timmy Failure: Mistakes Were Made",
 			"gatsby_image_path":"..\/..\/images\/timmy-failure-mistakes-were-made.jpg",
 			"slug":"timmy-failure-mistakes-were-made"
 		},
 		{
-			"title":"The Jungle Book",
-			"gatsby_image_path":"..\/..\/images\/the-jungle-book.jpg",
-			"slug":"the-jungle-book"
-		},
-		{
 			"title":"The Emperor's New Groove",
 			"gatsby_image_path":"..\/..\/images\/the-emperor-s-new-groove.jpg",
 			"slug":"the-emperor-s-new-groove"
+		},
+		{
+			"title":"Soul",
+			"gatsby_image_path":"..\/..\/images\/soul.jpg",
+			"slug":"soul"
+		},
+		{
+			"title":"Snow White and the Seven Dwarfs",
+			"gatsby_image_path":"..\/..\/images\/snow-white-and-the-seven-dwarfs.jpg",
+			"slug":"snow-white-and-the-seven-dwarfs"
+		},
+		{
+			"title":"Shrek the Third",
+			"gatsby_image_path":"..\/..\/images\/shrek-the-third.jpg",
+			"slug":"shrek-the-third"
+		},
+		{
+			"title":"Shrek Forever After",
+			"gatsby_image_path":"..\/..\/images\/shrek-forever-after.jpg",
+			"slug":"shrek-forever-after"
+		},
+		{
+			"title":"Shrek 2",
+			"gatsby_image_path":"..\/..\/images\/shrek-2.jpg",
+			"slug":"shrek-2"
+		},
+		{
+			"title":"Saludos Amigos",
+			"gatsby_image_path":"..\/..\/images\/saludos-amigos.jpg",
+			"slug":"saludos-amigos"
+		},
+		{
+			"title":"Ratatouille",
+			"gatsby_image_path":"..\/..\/images\/ratatouille.jpg",
+			"slug":"ratatouille"
 		}
 	],
 	"related_by_poster":[
