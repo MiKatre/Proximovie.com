@@ -250,6 +250,11 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"Lokillo",
+			"gatsby_image_path":"..\/..\/images\/lokillo.jpg",
+			"slug":"lokillo"
+		},
+		{
 			"title":"Backtrace",
 			"gatsby_image_path":"..\/..\/images\/backtrace.jpg",
 			"slug":"backtrace"
@@ -300,14 +305,14 @@
 			"slug":"the-penitent-thief"
 		},
 		{
+			"title":"The Cover",
+			"gatsby_image_path":"..\/..\/images\/the-cover.jpg",
+			"slug":"the-cover"
+		},
+		{
 			"title":"Ghosts of War",
 			"gatsby_image_path":"..\/..\/images\/ghosts-of-war.jpg",
 			"slug":"ghosts-of-war"
-		},
-		{
-			"title":"Justice League",
-			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
-			"slug":"justice-league"
 		},
 		{
 			"title":"Harry Potter and the Prisoner of Azkaban",
@@ -315,9 +320,9 @@
 			"slug":"harry-potter-and-the-prisoner-of-azkaban"
 		},
 		{
-			"title":"Run Hide Fight",
-			"gatsby_image_path":"..\/..\/images\/run-hide-fight.jpg",
-			"slug":"run-hide-fight"
+			"title":"Justice League",
+			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
+			"slug":"justice-league"
 		},
 		{
 			"title":"Guardians of the Galaxy Vol. 3",
@@ -325,29 +330,24 @@
 			"slug":"guardians-of-the-galaxy-vol-3"
 		},
 		{
+			"title":"Peçanha Contra o Animal",
+			"gatsby_image_path":"..\/..\/images\/peçanha-contra-o-animal.jpg",
+			"slug":"peçanha-contra-o-animal"
+		},
+		{
 			"title":"Anton",
 			"gatsby_image_path":"..\/..\/images\/anton.jpg",
 			"slug":"anton"
 		},
 		{
+			"title":"Run Hide Fight",
+			"gatsby_image_path":"..\/..\/images\/run-hide-fight.jpg",
+			"slug":"run-hide-fight"
+		},
+		{
 			"title":"Baggio: The Divine Ponytail",
 			"gatsby_image_path":"..\/..\/images\/baggio-the-divine-ponytail.jpg",
 			"slug":"baggio-the-divine-ponytail"
-		},
-		{
-			"title":"Scary Movie 3",
-			"gatsby_image_path":"..\/..\/images\/scary-movie-3.jpg",
-			"slug":"scary-movie-3"
-		},
-		{
-			"title":"A Haunted House",
-			"gatsby_image_path":"..\/..\/images\/a-haunted-house.jpg",
-			"slug":"a-haunted-house"
-		},
-		{
-			"title":"A Private War",
-			"gatsby_image_path":"..\/..\/images\/a-private-war.jpg",
-			"slug":"a-private-war"
 		}
 	],
 	"related_by_overview":[

@@ -248,6 +248,11 @@
 			"slug":"mermaid-down"
 		},
 		{
+			"title":"Cowboys & Aliens",
+			"gatsby_image_path":"..\/..\/images\/cowboys-aliens.jpg",
+			"slug":"cowboys-aliens"
+		},
+		{
 			"title":"Fifty Shades of Grey",
 			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
 			"slug":"fifty-shades-of-grey"
@@ -258,14 +263,14 @@
 			"slug":"the-legend-of-tarzan"
 		},
 		{
-			"title":"The Water Man",
-			"gatsby_image_path":"..\/..\/images\/the-water-man.jpg",
-			"slug":"the-water-man"
-		},
-		{
 			"title":"Scorched Earth",
 			"gatsby_image_path":"..\/..\/images\/scorched-earth.jpg",
 			"slug":"scorched-earth"
+		},
+		{
+			"title":"The Water Man",
+			"gatsby_image_path":"..\/..\/images\/the-water-man.jpg",
+			"slug":"the-water-man"
 		},
 		{
 			"title":"The Viking War",
@@ -273,9 +278,9 @@
 			"slug":"the-viking-war"
 		},
 		{
-			"title":"The First King",
-			"gatsby_image_path":"..\/..\/images\/the-first-king.jpg",
-			"slug":"the-first-king"
+			"title":"Jurassic Hunt",
+			"gatsby_image_path":"..\/..\/images\/jurassic-hunt.jpg",
+			"slug":"jurassic-hunt"
 		},
 		{
 			"title":"Insidious: The Last Key",
@@ -283,9 +288,14 @@
 			"slug":"insidious-the-last-key"
 		},
 		{
-			"title":"The Mummy",
-			"gatsby_image_path":"..\/..\/images\/the-mummy.jpg",
-			"slug":"the-mummy"
+			"title":"The First King",
+			"gatsby_image_path":"..\/..\/images\/the-first-king.jpg",
+			"slug":"the-first-king"
+		},
+		{
+			"title":"Project Almanac",
+			"gatsby_image_path":"..\/..\/images\/project-almanac.jpg",
+			"slug":"project-almanac"
 		},
 		{
 			"title":"Harry Potter and the Half-Blood Prince",
@@ -313,29 +323,19 @@
 			"slug":"crawl"
 		},
 		{
-			"title":"Justice League: Throne of Atlantis",
-			"gatsby_image_path":"..\/..\/images\/justice-league-throne-of-atlantis.jpg",
-			"slug":"justice-league-throne-of-atlantis"
+			"title":"Tiffany + Chucky",
+			"gatsby_image_path":"..\/..\/images\/tiffany-chucky.jpg",
+			"slug":"tiffany-chucky"
+		},
+		{
+			"title":"The Lone Ranger",
+			"gatsby_image_path":"..\/..\/images\/the-lone-ranger.jpg",
+			"slug":"the-lone-ranger"
 		},
 		{
 			"title":"Kingdom of Heaven",
 			"gatsby_image_path":"..\/..\/images\/kingdom-of-heaven.jpg",
 			"slug":"kingdom-of-heaven"
-		},
-		{
-			"title":"The Great Wall",
-			"gatsby_image_path":"..\/..\/images\/the-great-wall.jpg",
-			"slug":"the-great-wall"
-		},
-		{
-			"title":"Harry Potter and the Prisoner of Azkaban",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-prisoner-of-azkaban.jpg",
-			"slug":"harry-potter-and-the-prisoner-of-azkaban"
-		},
-		{
-			"title":"Harry Potter and the Philosopher's Stone",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher-s-stone.jpg",
-			"slug":"harry-potter-and-the-philosopher-s-stone"
 		}
 	],
 	"related_by_overview":[

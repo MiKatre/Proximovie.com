@@ -266,6 +266,11 @@
 			"slug":"adventures-of-aladdin"
 		},
 		{
+			"title":"Star Wars: Episode III - Revenge of the Sith",
+			"gatsby_image_path":"..\/..\/images\/star-wars-episode-iii-revenge-of-the-sith.jpg",
+			"slug":"star-wars-episode-iii-revenge-of-the-sith"
+		},
+		{
 			"title":"Roald Dahl's The Witches",
 			"gatsby_image_path":"..\/..\/images\/roald-dahl-s-the-witches.jpg",
 			"slug":"roald-dahl-s-the-witches"
@@ -276,19 +281,24 @@
 			"slug":"shaolin-soccer"
 		},
 		{
-			"title":"Justice League vs. Teen Titans",
-			"gatsby_image_path":"..\/..\/images\/justice-league-vs.-teen-titans.jpg",
-			"slug":"justice-league-vs.-teen-titans"
-		},
-		{
 			"title":"Star Wars: The Force Awakens",
 			"gatsby_image_path":"..\/..\/images\/star-wars-the-force-awakens.jpg",
 			"slug":"star-wars-the-force-awakens"
 		},
 		{
+			"title":"Justice League vs. Teen Titans",
+			"gatsby_image_path":"..\/..\/images\/justice-league-vs.-teen-titans.jpg",
+			"slug":"justice-league-vs.-teen-titans"
+		},
+		{
 			"title":"Avengers: Endgame",
 			"gatsby_image_path":"..\/..\/images\/avengers-endgame.jpg",
 			"slug":"avengers-endgame"
+		},
+		{
+			"title":"Beauty and the Beast",
+			"gatsby_image_path":"..\/..\/images\/beauty-and-the-beast.jpg",
+			"slug":"beauty-and-the-beast"
 		},
 		{
 			"title":"Stray",
@@ -331,29 +341,19 @@
 			"slug":"justice-league-dark-apokolips-war"
 		},
 		{
+			"title":"Injustice",
+			"gatsby_image_path":"..\/..\/images\/injustice.jpg",
+			"slug":"injustice"
+		},
+		{
 			"title":"Breach",
 			"gatsby_image_path":"..\/..\/images\/breach.jpg",
 			"slug":"breach"
 		},
 		{
-			"title":"Iron Man",
-			"gatsby_image_path":"..\/..\/images\/iron-man.jpg",
-			"slug":"iron-man"
-		},
-		{
-			"title":"Burn",
-			"gatsby_image_path":"..\/..\/images\/burn.jpg",
-			"slug":"burn"
-		},
-		{
-			"title":"The Amityville Horror",
-			"gatsby_image_path":"..\/..\/images\/the-amityville-horror.jpg",
-			"slug":"the-amityville-horror"
-		},
-		{
-			"title":"Black Fox",
-			"gatsby_image_path":"..\/..\/images\/black-fox.jpg",
-			"slug":"black-fox"
+			"title":"Reminiscence",
+			"gatsby_image_path":"..\/..\/images\/reminiscence.jpg",
+			"slug":"reminiscence"
 		}
 	],
 	"related_by_overview":[

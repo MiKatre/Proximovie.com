@@ -258,6 +258,11 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"Scott Pilgrim vs. the World",
+			"gatsby_image_path":"..\/..\/images\/scott-pilgrim-vs.-the-world.jpg",
+			"slug":"scott-pilgrim-vs.-the-world"
+		},
+		{
 			"title":"The First Purge",
 			"gatsby_image_path":"..\/..\/images\/the-first-purge.jpg",
 			"slug":"the-first-purge"
@@ -273,9 +278,24 @@
 			"slug":"madagascar-3-europe-s-most-wanted"
 		},
 		{
+			"title":"Peçanha Contra o Animal",
+			"gatsby_image_path":"..\/..\/images\/peçanha-contra-o-animal.jpg",
+			"slug":"peçanha-contra-o-animal"
+		},
+		{
 			"title":"The Night Comes for Us",
 			"gatsby_image_path":"..\/..\/images\/the-night-comes-for-us.jpg",
 			"slug":"the-night-comes-for-us"
+		},
+		{
+			"title":"Child's Play",
+			"gatsby_image_path":"..\/..\/images\/child-s-play.jpg",
+			"slug":"child-s-play"
+		},
+		{
+			"title":"Mad Max",
+			"gatsby_image_path":"..\/..\/images\/mad-max.jpg",
+			"slug":"mad-max"
 		},
 		{
 			"title":"The Villainess",
@@ -283,9 +303,19 @@
 			"slug":"the-villainess"
 		},
 		{
+			"title":"The Harder They Fall",
+			"gatsby_image_path":"..\/..\/images\/the-harder-they-fall.jpg",
+			"slug":"the-harder-they-fall"
+		},
+		{
 			"title":"Frankenweenie",
 			"gatsby_image_path":"..\/..\/images\/frankenweenie.jpg",
 			"slug":"frankenweenie"
+		},
+		{
+			"title":"Christmas with the Kranks",
+			"gatsby_image_path":"..\/..\/images\/christmas-with-the-kranks.jpg",
+			"slug":"christmas-with-the-kranks"
 		},
 		{
 			"title":"The Vast of Night",
@@ -293,24 +323,24 @@
 			"slug":"the-vast-of-night"
 		},
 		{
-			"title":"A-X-L",
-			"gatsby_image_path":"..\/..\/images\/a-x-l.jpg",
-			"slug":"a-x-l"
-		},
-		{
 			"title":"Watchmen",
 			"gatsby_image_path":"..\/..\/images\/watchmen.jpg",
 			"slug":"watchmen"
 		},
 		{
-			"title":"Jiu Jitsu",
-			"gatsby_image_path":"..\/..\/images\/jiu-jitsu.jpg",
-			"slug":"jiu-jitsu"
+			"title":"A-X-L",
+			"gatsby_image_path":"..\/..\/images\/a-x-l.jpg",
+			"slug":"a-x-l"
 		},
 		{
 			"title":"Seve",
 			"gatsby_image_path":"..\/..\/images\/seve.jpg",
 			"slug":"seve"
+		},
+		{
+			"title":"Jiu Jitsu",
+			"gatsby_image_path":"..\/..\/images\/jiu-jitsu.jpg",
+			"slug":"jiu-jitsu"
 		},
 		{
 			"title":"Next Avengers: Heroes of Tomorrow",
@@ -323,39 +353,9 @@
 			"slug":"max-steel"
 		},
 		{
-			"title":"Bumblebee",
-			"gatsby_image_path":"..\/..\/images\/bumblebee.jpg",
-			"slug":"bumblebee"
-		},
-		{
 			"title":"Meet the Robinsons",
 			"gatsby_image_path":"..\/..\/images\/meet-the-robinsons.jpg",
 			"slug":"meet-the-robinsons"
-		},
-		{
-			"title":"101 Dalmatians II: Patch's London Adventure",
-			"gatsby_image_path":"..\/..\/images\/101-dalmatians-ii-patch-s-london-adventure.jpg",
-			"slug":"101-dalmatians-ii-patch-s-london-adventure"
-		},
-		{
-			"title":"Gone Girl",
-			"gatsby_image_path":"..\/..\/images\/gone-girl.jpg",
-			"slug":"gone-girl"
-		},
-		{
-			"title":"The Accountant",
-			"gatsby_image_path":"..\/..\/images\/the-accountant.jpg",
-			"slug":"the-accountant"
-		},
-		{
-			"title":"Deadly Illusions",
-			"gatsby_image_path":"..\/..\/images\/deadly-illusions.jpg",
-			"slug":"deadly-illusions"
-		},
-		{
-			"title":"Teen Titans: The Judas Contract",
-			"gatsby_image_path":"..\/..\/images\/teen-titans-the-judas-contract.jpg",
-			"slug":"teen-titans-the-judas-contract"
 		}
 	],
 	"related_by_overview":[

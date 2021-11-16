@@ -290,6 +290,11 @@
 			"slug":"sing"
 		},
 		{
+			"title":"Alice in Wonderland",
+			"gatsby_image_path":"..\/..\/images\/alice-in-wonderland.jpg",
+			"slug":"alice-in-wonderland"
+		},
+		{
 			"title":"Dragon Ball Z: Bardock - The Father of Goku",
 			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-bardock-the-father-of-goku.jpg",
 			"slug":"dragon-ball-z-bardock-the-father-of-goku"
@@ -300,19 +305,9 @@
 			"slug":"hunter-x-hunter-the-last-mission"
 		},
 		{
-			"title":"Luca",
-			"gatsby_image_path":"..\/..\/images\/luca.jpg",
-			"slug":"luca"
-		},
-		{
 			"title":"Frozen II",
 			"gatsby_image_path":"..\/..\/images\/frozen-ii.jpg",
 			"slug":"frozen-ii"
-		},
-		{
-			"title":"Barbie: A Fashion Fairytale",
-			"gatsby_image_path":"..\/..\/images\/barbie-a-fashion-fairytale.jpg",
-			"slug":"barbie-a-fashion-fairytale"
 		},
 		{
 			"title":"Wish Dragon",
@@ -320,19 +315,34 @@
 			"slug":"wish-dragon"
 		},
 		{
+			"title":"Luca",
+			"gatsby_image_path":"..\/..\/images\/luca.jpg",
+			"slug":"luca"
+		},
+		{
+			"title":"Barbie: A Fashion Fairytale",
+			"gatsby_image_path":"..\/..\/images\/barbie-a-fashion-fairytale.jpg",
+			"slug":"barbie-a-fashion-fairytale"
+		},
+		{
+			"title":"French Lolita",
+			"gatsby_image_path":"..\/..\/images\/french-lolita.jpg",
+			"slug":"french-lolita"
+		},
+		{
 			"title":"Barbie & Chelsea the Lost Birthday",
 			"gatsby_image_path":"..\/..\/images\/barbie-chelsea-the-lost-birthday.jpg",
 			"slug":"barbie-chelsea-the-lost-birthday"
 		},
 		{
-			"title":"Barbie as The Princess & the Pauper",
-			"gatsby_image_path":"..\/..\/images\/barbie-as-the-princess-the-pauper.jpg",
-			"slug":"barbie-as-the-princess-the-pauper"
-		},
-		{
 			"title":"Barbie in The 12 Dancing Princesses",
 			"gatsby_image_path":"..\/..\/images\/barbie-in-the-12-dancing-princesses.jpg",
 			"slug":"barbie-in-the-12-dancing-princesses"
+		},
+		{
+			"title":"Barbie as The Princess & the Pauper",
+			"gatsby_image_path":"..\/..\/images\/barbie-as-the-princess-the-pauper.jpg",
+			"slug":"barbie-as-the-princess-the-pauper"
 		},
 		{
 			"title":"Barbie: The Princess & The Popstar",
@@ -343,16 +353,6 @@
 			"title":"Joseph: King of Dreams",
 			"gatsby_image_path":"..\/..\/images\/joseph-king-of-dreams.jpg",
 			"slug":"joseph-king-of-dreams"
-		},
-		{
-			"title":"Scooby-Doo! in Where's My Mummy?",
-			"gatsby_image_path":"..\/..\/images\/scooby-doo-in-where-s-my-mummy.jpg",
-			"slug":"scooby-doo-in-where-s-my-mummy"
-		},
-		{
-			"title":"Sleeping Beauty",
-			"gatsby_image_path":"..\/..\/images\/sleeping-beauty.jpg",
-			"slug":"sleeping-beauty"
 		}
 	],
 	"related_by_overview":[

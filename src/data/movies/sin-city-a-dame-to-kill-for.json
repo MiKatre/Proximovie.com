@@ -260,14 +260,14 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"Iron Sky",
+			"gatsby_image_path":"..\/..\/images\/iron-sky.jpg",
+			"slug":"iron-sky"
+		},
+		{
 			"title":"The Great Wall",
 			"gatsby_image_path":"..\/..\/images\/the-great-wall.jpg",
 			"slug":"the-great-wall"
-		},
-		{
-			"title":"Harry Potter and the Goblet of Fire",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
-			"slug":"harry-potter-and-the-goblet-of-fire"
 		},
 		{
 			"title":"The World to Come",
@@ -275,14 +275,34 @@
 			"slug":"the-world-to-come"
 		},
 		{
-			"title":"Justice League",
-			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
-			"slug":"justice-league"
+			"title":"Harry Potter and the Goblet of Fire",
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
+			"slug":"harry-potter-and-the-goblet-of-fire"
+		},
+		{
+			"title":"Peçanha Contra o Animal",
+			"gatsby_image_path":"..\/..\/images\/peçanha-contra-o-animal.jpg",
+			"slug":"peçanha-contra-o-animal"
+		},
+		{
+			"title":"Christmas with the Kranks",
+			"gatsby_image_path":"..\/..\/images\/christmas-with-the-kranks.jpg",
+			"slug":"christmas-with-the-kranks"
+		},
+		{
+			"title":"Prey",
+			"gatsby_image_path":"..\/..\/images\/prey.jpg",
+			"slug":"prey"
 		},
 		{
 			"title":"Don't Kill It",
 			"gatsby_image_path":"..\/..\/images\/don-t-kill-it.jpg",
 			"slug":"don-t-kill-it"
+		},
+		{
+			"title":"Justice League",
+			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
+			"slug":"justice-league"
 		},
 		{
 			"title":"Knives Out",
@@ -295,19 +315,29 @@
 			"slug":"corpus-christi"
 		},
 		{
+			"title":"Killer Elite",
+			"gatsby_image_path":"..\/..\/images\/killer-elite.jpg",
+			"slug":"killer-elite"
+		},
+		{
+			"title":"Cowboys & Aliens",
+			"gatsby_image_path":"..\/..\/images\/cowboys-aliens.jpg",
+			"slug":"cowboys-aliens"
+		},
+		{
 			"title":"Harry Potter and the Prisoner of Azkaban",
 			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-prisoner-of-azkaban.jpg",
 			"slug":"harry-potter-and-the-prisoner-of-azkaban"
 		},
 		{
-			"title":"Hitman's Wife's Bodyguard",
-			"gatsby_image_path":"..\/..\/images\/hitman-s-wife-s-bodyguard.jpg",
-			"slug":"hitman-s-wife-s-bodyguard"
-		},
-		{
 			"title":"Rurouni Kenshin Part I: Origins",
 			"gatsby_image_path":"..\/..\/images\/rurouni-kenshin-part-i-origins.jpg",
 			"slug":"rurouni-kenshin-part-i-origins"
+		},
+		{
+			"title":"Hitman's Wife's Bodyguard",
+			"gatsby_image_path":"..\/..\/images\/hitman-s-wife-s-bodyguard.jpg",
+			"slug":"hitman-s-wife-s-bodyguard"
 		},
 		{
 			"title":"All the Devil's Men",
@@ -325,39 +355,9 @@
 			"slug":"jumanji-welcome-to-the-jungle"
 		},
 		{
-			"title":"Thor: The Dark World",
-			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
-			"slug":"thor-the-dark-world"
-		},
-		{
-			"title":"Justice League vs. Teen Titans",
-			"gatsby_image_path":"..\/..\/images\/justice-league-vs.-teen-titans.jpg",
-			"slug":"justice-league-vs.-teen-titans"
-		},
-		{
-			"title":"How to Train Your Dragon 2",
-			"gatsby_image_path":"..\/..\/images\/how-to-train-your-dragon-2.jpg",
-			"slug":"how-to-train-your-dragon-2"
-		},
-		{
-			"title":"Addams Family Values",
-			"gatsby_image_path":"..\/..\/images\/addams-family-values.jpg",
-			"slug":"addams-family-values"
-		},
-		{
-			"title":"The Hangover Part III",
-			"gatsby_image_path":"..\/..\/images\/the-hangover-part-iii.jpg",
-			"slug":"the-hangover-part-iii"
-		},
-		{
-			"title":"Train to Busan",
-			"gatsby_image_path":"..\/..\/images\/train-to-busan.jpg",
-			"slug":"train-to-busan"
-		},
-		{
-			"title":"Scary Movie 3",
-			"gatsby_image_path":"..\/..\/images\/scary-movie-3.jpg",
-			"slug":"scary-movie-3"
+			"title":"Outcast",
+			"gatsby_image_path":"..\/..\/images\/outcast.jpg",
+			"slug":"outcast"
 		}
 	],
 	"related_by_overview":[

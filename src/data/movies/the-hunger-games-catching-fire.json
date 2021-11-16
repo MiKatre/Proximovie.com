@@ -325,14 +325,19 @@
 			"slug":"guardians-of-the-galaxy-vol-2"
 		},
 		{
+			"title":"Anaconda",
+			"gatsby_image_path":"..\/..\/images\/anaconda.jpg",
+			"slug":"anaconda"
+		},
+		{
+			"title":"Sea Fever",
+			"gatsby_image_path":"..\/..\/images\/sea-fever.jpg",
+			"slug":"sea-fever"
+		},
+		{
 			"title":"Se7en",
 			"gatsby_image_path":"..\/..\/images\/se7en.jpg",
 			"slug":"se7en"
-		},
-		{
-			"title":"Peninsula",
-			"gatsby_image_path":"..\/..\/images\/peninsula.jpg",
-			"slug":"peninsula"
 		},
 		{
 			"title":"Independence Day",
@@ -340,19 +345,14 @@
 			"slug":"independence-day"
 		},
 		{
+			"title":"Peninsula",
+			"gatsby_image_path":"..\/..\/images\/peninsula.jpg",
+			"slug":"peninsula"
+		},
+		{
 			"title":"Captain Marvel",
 			"gatsby_image_path":"..\/..\/images\/captain-marvel.jpg",
 			"slug":"captain-marvel"
-		},
-		{
-			"title":"The Last Samurai",
-			"gatsby_image_path":"..\/..\/images\/the-last-samurai.jpg",
-			"slug":"the-last-samurai"
-		},
-		{
-			"title":"Iron Man",
-			"gatsby_image_path":"..\/..\/images\/iron-man.jpg",
-			"slug":"iron-man"
 		}
 	],
 	"related_by_overview":[

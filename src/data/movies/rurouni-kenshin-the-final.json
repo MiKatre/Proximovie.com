@@ -272,6 +272,11 @@
 			"slug":"peninsula"
 		},
 		{
+			"title":"Trick 'r Treat",
+			"gatsby_image_path":"..\/..\/images\/trick-r-treat.jpg",
+			"slug":"trick-r-treat"
+		},
+		{
 			"title":"Dark Phoenix",
 			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
 			"slug":"dark-phoenix"
@@ -292,9 +297,19 @@
 			"slug":"the-water-man"
 		},
 		{
+			"title":"Reminiscence",
+			"gatsby_image_path":"..\/..\/images\/reminiscence.jpg",
+			"slug":"reminiscence"
+		},
+		{
 			"title":"Jungle Cruise",
 			"gatsby_image_path":"..\/..\/images\/jungle-cruise.jpg",
 			"slug":"jungle-cruise"
+		},
+		{
+			"title":"Cowboys & Aliens",
+			"gatsby_image_path":"..\/..\/images\/cowboys-aliens.jpg",
+			"slug":"cowboys-aliens"
 		},
 		{
 			"title":"Shang-Chi and the Legend of the Ten Rings",
@@ -307,6 +322,11 @@
 			"slug":"a-christmas-carol"
 		},
 		{
+			"title":"Dragon Fury",
+			"gatsby_image_path":"..\/..\/images\/dragon-fury.jpg",
+			"slug":"dragon-fury"
+		},
+		{
 			"title":"Crimson Peak",
 			"gatsby_image_path":"..\/..\/images\/crimson-peak.jpg",
 			"slug":"crimson-peak"
@@ -315,11 +335,6 @@
 			"title":"The Greatest Showman",
 			"gatsby_image_path":"..\/..\/images\/the-greatest-showman.jpg",
 			"slug":"the-greatest-showman"
-		},
-		{
-			"title":"Hercules",
-			"gatsby_image_path":"..\/..\/images\/hercules.jpg",
-			"slug":"hercules"
 		},
 		{
 			"title":"Pokémon the Movie: I Choose You!",
@@ -335,21 +350,6 @@
 			"title":"The Last Samurai",
 			"gatsby_image_path":"..\/..\/images\/the-last-samurai.jpg",
 			"slug":"the-last-samurai"
-		},
-		{
-			"title":"Grisaia: Phantom Trigger The Animation",
-			"gatsby_image_path":"..\/..\/images\/grisaia-phantom-trigger-the-animation.jpg",
-			"slug":"grisaia-phantom-trigger-the-animation"
-		},
-		{
-			"title":"The Expendables 2",
-			"gatsby_image_path":"..\/..\/images\/the-expendables-2.jpg",
-			"slug":"the-expendables-2"
-		},
-		{
-			"title":"Guardians of the Galaxy",
-			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy.jpg",
-			"slug":"guardians-of-the-galaxy"
 		}
 	],
 	"related_by_overview":[

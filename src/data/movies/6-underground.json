@@ -255,6 +255,11 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"Outcast",
+			"gatsby_image_path":"..\/..\/images\/outcast.jpg",
+			"slug":"outcast"
+		},
+		{
 			"title":"Scary Movie 5",
 			"gatsby_image_path":"..\/..\/images\/scary-movie-5.jpg",
 			"slug":"scary-movie-5"
@@ -280,19 +285,9 @@
 			"slug":"epic"
 		},
 		{
-			"title":"Corporate Animals",
-			"gatsby_image_path":"..\/..\/images\/corporate-animals.jpg",
-			"slug":"corporate-animals"
-		},
-		{
 			"title":"How to Train Your Dragon 2",
 			"gatsby_image_path":"..\/..\/images\/how-to-train-your-dragon-2.jpg",
 			"slug":"how-to-train-your-dragon-2"
-		},
-		{
-			"title":"Thor: The Dark World",
-			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
-			"slug":"thor-the-dark-world"
 		},
 		{
 			"title":"Fallen",
@@ -300,9 +295,19 @@
 			"slug":"fallen"
 		},
 		{
+			"title":"Corporate Animals",
+			"gatsby_image_path":"..\/..\/images\/corporate-animals.jpg",
+			"slug":"corporate-animals"
+		},
+		{
 			"title":"Scary Movie 3",
 			"gatsby_image_path":"..\/..\/images\/scary-movie-3.jpg",
 			"slug":"scary-movie-3"
+		},
+		{
+			"title":"Thor: The Dark World",
+			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
+			"slug":"thor-the-dark-world"
 		},
 		{
 			"title":"X-Men: Apocalypse",
@@ -310,19 +315,24 @@
 			"slug":"x-men-apocalypse"
 		},
 		{
+			"title":"The 5th Wave",
+			"gatsby_image_path":"..\/..\/images\/the-5th-wave.jpg",
+			"slug":"the-5th-wave"
+		},
+		{
 			"title":"Alita: Battle Angel",
 			"gatsby_image_path":"..\/..\/images\/alita-battle-angel.jpg",
 			"slug":"alita-battle-angel"
 		},
 		{
+			"title":"Stan Helsing",
+			"gatsby_image_path":"..\/..\/images\/stan-helsing.jpg",
+			"slug":"stan-helsing"
+		},
+		{
 			"title":"Spies in Disguise",
 			"gatsby_image_path":"..\/..\/images\/spies-in-disguise.jpg",
 			"slug":"spies-in-disguise"
-		},
-		{
-			"title":"The 5th Wave",
-			"gatsby_image_path":"..\/..\/images\/the-5th-wave.jpg",
-			"slug":"the-5th-wave"
 		},
 		{
 			"title":"13 Hours: The Secret Soldiers of Benghazi",
@@ -335,24 +345,14 @@
 			"slug":"io"
 		},
 		{
-			"title":"Harry Potter and the Philosopher's Stone",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher-s-stone.jpg",
-			"slug":"harry-potter-and-the-philosopher-s-stone"
-		},
-		{
 			"title":"Resident Evil: Damnation",
 			"gatsby_image_path":"..\/..\/images\/resident-evil-damnation.jpg",
 			"slug":"resident-evil-damnation"
 		},
 		{
-			"title":"Ghosts of War",
-			"gatsby_image_path":"..\/..\/images\/ghosts-of-war.jpg",
-			"slug":"ghosts-of-war"
-		},
-		{
-			"title":"Kingsglaive: Final Fantasy XV",
-			"gatsby_image_path":"..\/..\/images\/kingsglaive-final-fantasy-xv.jpg",
-			"slug":"kingsglaive-final-fantasy-xv"
+			"title":"Harry Potter and the Philosopher's Stone",
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher-s-stone.jpg",
+			"slug":"harry-potter-and-the-philosopher-s-stone"
 		}
 	],
 	"related_by_overview":[

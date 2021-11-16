@@ -263,14 +263,14 @@
 			"slug":"astro-boy"
 		},
 		{
-			"title":"Code 8",
-			"gatsby_image_path":"..\/..\/images\/code-8.jpg",
-			"slug":"code-8"
-		},
-		{
 			"title":"Rogue One: A Star Wars Story",
 			"gatsby_image_path":"..\/..\/images\/rogue-one-a-star-wars-story.jpg",
 			"slug":"rogue-one-a-star-wars-story"
+		},
+		{
+			"title":"Code 8",
+			"gatsby_image_path":"..\/..\/images\/code-8.jpg",
+			"slug":"code-8"
 		},
 		{
 			"title":"Spies in Disguise",
@@ -298,11 +298,6 @@
 			"slug":"naruto-shippuden-the-movie-the-lost-tower"
 		},
 		{
-			"title":"La leyenda de la Llorona",
-			"gatsby_image_path":"..\/..\/images\/la-leyenda-de-la-llorona.jpg",
-			"slug":"la-leyenda-de-la-llorona"
-		},
-		{
 			"title":"Final Destination 3",
 			"gatsby_image_path":"..\/..\/images\/final-destination-3.jpg",
 			"slug":"final-destination-3"
@@ -313,9 +308,9 @@
 			"slug":"psycho-pass-3-first-inspector"
 		},
 		{
-			"title":"Dragon Ball Z: The History of Trunks",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-the-history-of-trunks.jpg",
-			"slug":"dragon-ball-z-the-history-of-trunks"
+			"title":"La leyenda de la Llorona",
+			"gatsby_image_path":"..\/..\/images\/la-leyenda-de-la-llorona.jpg",
+			"slug":"la-leyenda-de-la-llorona"
 		},
 		{
 			"title":"Hotel Transylvania",
@@ -323,14 +318,19 @@
 			"slug":"hotel-transylvania"
 		},
 		{
-			"title":"Real Steel",
-			"gatsby_image_path":"..\/..\/images\/real-steel.jpg",
-			"slug":"real-steel"
+			"title":"Dragon Ball Z: The History of Trunks",
+			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-the-history-of-trunks.jpg",
+			"slug":"dragon-ball-z-the-history-of-trunks"
 		},
 		{
 			"title":"Justice League vs. Teen Titans",
 			"gatsby_image_path":"..\/..\/images\/justice-league-vs.-teen-titans.jpg",
 			"slug":"justice-league-vs.-teen-titans"
+		},
+		{
+			"title":"Real Steel",
+			"gatsby_image_path":"..\/..\/images\/real-steel.jpg",
+			"slug":"real-steel"
 		},
 		{
 			"title":"She's All That",

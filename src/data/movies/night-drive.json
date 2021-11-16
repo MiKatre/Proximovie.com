@@ -242,14 +242,14 @@
 			"slug":"prime-time"
 		},
 		{
-			"title":"6 Underground",
-			"gatsby_image_path":"..\/..\/images\/6-underground.jpg",
-			"slug":"6-underground"
-		},
-		{
 			"title":"The Exorcist",
 			"gatsby_image_path":"..\/..\/images\/the-exorcist.jpg",
 			"slug":"the-exorcist"
+		},
+		{
+			"title":"6 Underground",
+			"gatsby_image_path":"..\/..\/images\/6-underground.jpg",
+			"slug":"6-underground"
 		},
 		{
 			"title":"The Virtuoso",
@@ -257,19 +257,29 @@
 			"slug":"the-virtuoso"
 		},
 		{
-			"title":"Final Destination 2",
-			"gatsby_image_path":"..\/..\/images\/final-destination-2.jpg",
-			"slug":"final-destination-2"
-		},
-		{
 			"title":"The Thing About Harry",
 			"gatsby_image_path":"..\/..\/images\/the-thing-about-harry.jpg",
 			"slug":"the-thing-about-harry"
 		},
 		{
+			"title":"Scary Stories to Tell in the Dark",
+			"gatsby_image_path":"..\/..\/images\/scary-stories-to-tell-in-the-dark.jpg",
+			"slug":"scary-stories-to-tell-in-the-dark"
+		},
+		{
+			"title":"Final Destination 2",
+			"gatsby_image_path":"..\/..\/images\/final-destination-2.jpg",
+			"slug":"final-destination-2"
+		},
+		{
 			"title":"Dial 100",
 			"gatsby_image_path":"..\/..\/images\/dial-100.jpg",
 			"slug":"dial-100"
+		},
+		{
+			"title":"Muppets Haunted Mansion",
+			"gatsby_image_path":"..\/..\/images\/muppets-haunted-mansion.jpg",
+			"slug":"muppets-haunted-mansion"
 		},
 		{
 			"title":"The Mortuary Collection",
@@ -287,6 +297,21 @@
 			"slug":"sweet-sour"
 		},
 		{
+			"title":"Apex",
+			"gatsby_image_path":"..\/..\/images\/apex.jpg",
+			"slug":"apex"
+		},
+		{
+			"title":"Prey",
+			"gatsby_image_path":"..\/..\/images\/prey.jpg",
+			"slug":"prey"
+		},
+		{
+			"title":"Status Update",
+			"gatsby_image_path":"..\/..\/images\/status-update.jpg",
+			"slug":"status-update"
+		},
+		{
 			"title":"Naruto Shippuden the Movie: The Lost Tower",
 			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-the-lost-tower.jpg",
 			"slug":"naruto-shippuden-the-movie-the-lost-tower"
@@ -297,6 +322,11 @@
 			"slug":"sword-art-online-the-movie-ordinal-scale"
 		},
 		{
+			"title":"Lights Out",
+			"gatsby_image_path":"..\/..\/images\/lights-out.jpg",
+			"slug":"lights-out"
+		},
+		{
 			"title":"Epic",
 			"gatsby_image_path":"..\/..\/images\/epic.jpg",
 			"slug":"epic"
@@ -305,36 +335,6 @@
 			"title":"Cars 2",
 			"gatsby_image_path":"..\/..\/images\/cars-2.jpg",
 			"slug":"cars-2"
-		},
-		{
-			"title":"Stray",
-			"gatsby_image_path":"..\/..\/images\/stray.jpg",
-			"slug":"stray"
-		},
-		{
-			"title":"Lights Out",
-			"gatsby_image_path":"..\/..\/images\/lights-out.jpg",
-			"slug":"lights-out"
-		},
-		{
-			"title":"We Can Be Heroes",
-			"gatsby_image_path":"..\/..\/images\/we-can-be-heroes.jpg",
-			"slug":"we-can-be-heroes"
-		},
-		{
-			"title":"The Lego Star Wars Holiday Special",
-			"gatsby_image_path":"..\/..\/images\/the-lego-star-wars-holiday-special.jpg",
-			"slug":"the-lego-star-wars-holiday-special"
-		},
-		{
-			"title":"Ellipse",
-			"gatsby_image_path":"..\/..\/images\/ellipse.jpg",
-			"slug":"ellipse"
-		},
-		{
-			"title":"Ghostbusters: Afterlife",
-			"gatsby_image_path":"..\/..\/images\/ghostbusters-afterlife.jpg",
-			"slug":"ghostbusters-afterlife"
 		}
 	],
 	"related_by_overview":[

@@ -276,14 +276,14 @@
 			"slug":"the-world-to-come"
 		},
 		{
-			"title":"The Huntsman: Winter's War",
-			"gatsby_image_path":"..\/..\/images\/the-huntsman-winter-s-war.jpg",
-			"slug":"the-huntsman-winter-s-war"
-		},
-		{
 			"title":"Thor: The Dark World",
 			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
 			"slug":"thor-the-dark-world"
+		},
+		{
+			"title":"The Huntsman: Winter's War",
+			"gatsby_image_path":"..\/..\/images\/the-huntsman-winter-s-war.jpg",
+			"slug":"the-huntsman-winter-s-war"
 		},
 		{
 			"title":"Clash of the Titans",
@@ -301,9 +301,19 @@
 			"slug":"angels-demons"
 		},
 		{
+			"title":"Tiffany + Chucky",
+			"gatsby_image_path":"..\/..\/images\/tiffany-chucky.jpg",
+			"slug":"tiffany-chucky"
+		},
+		{
 			"title":"A Private War",
 			"gatsby_image_path":"..\/..\/images\/a-private-war.jpg",
 			"slug":"a-private-war"
+		},
+		{
+			"title":"Resident Evil: Welcome to Raccoon City",
+			"gatsby_image_path":"..\/..\/images\/resident-evil-welcome-to-raccoon-city.jpg",
+			"slug":"resident-evil-welcome-to-raccoon-city"
 		},
 		{
 			"title":"Pirates of the Caribbean: Dead Men Tell No Tales",
@@ -316,9 +326,19 @@
 			"slug":"sucker-punch"
 		},
 		{
+			"title":"Outcast",
+			"gatsby_image_path":"..\/..\/images\/outcast.jpg",
+			"slug":"outcast"
+		},
+		{
 			"title":"The Tomorrow War",
 			"gatsby_image_path":"..\/..\/images\/the-tomorrow-war.jpg",
 			"slug":"the-tomorrow-war"
+		},
+		{
+			"title":"The Monuments Men",
+			"gatsby_image_path":"..\/..\/images\/the-monuments-men.jpg",
+			"slug":"the-monuments-men"
 		},
 		{
 			"title":"Edge of Tomorrow",
@@ -331,29 +351,9 @@
 			"slug":"la-leyenda-del-diamante"
 		},
 		{
-			"title":"Fifty Shades of Grey",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
-			"slug":"fifty-shades-of-grey"
-		},
-		{
-			"title":"IO",
-			"gatsby_image_path":"..\/..\/images\/io.jpg",
-			"slug":"io"
-		},
-		{
-			"title":"Ashfall",
-			"gatsby_image_path":"..\/..\/images\/ashfall.jpg",
-			"slug":"ashfall"
-		},
-		{
-			"title":"13 Hours: The Secret Soldiers of Benghazi",
-			"gatsby_image_path":"..\/..\/images\/13-hours-the-secret-soldiers-of-benghazi.jpg",
-			"slug":"13-hours-the-secret-soldiers-of-benghazi"
-		},
-		{
-			"title":"Night at the Museum: Secret of the Tomb",
-			"gatsby_image_path":"..\/..\/images\/night-at-the-museum-secret-of-the-tomb.jpg",
-			"slug":"night-at-the-museum-secret-of-the-tomb"
+			"title":"Snow White and the Huntsman",
+			"gatsby_image_path":"..\/..\/images\/snow-white-and-the-huntsman.jpg",
+			"slug":"snow-white-and-the-huntsman"
 		}
 	],
 	"related_by_overview":[

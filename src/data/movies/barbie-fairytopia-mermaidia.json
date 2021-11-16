@@ -256,6 +256,11 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"Alice in Wonderland",
+			"gatsby_image_path":"..\/..\/images\/alice-in-wonderland.jpg",
+			"slug":"alice-in-wonderland"
+		},
+		{
 			"title":"Barbie & Chelsea the Lost Birthday",
 			"gatsby_image_path":"..\/..\/images\/barbie-chelsea-the-lost-birthday.jpg",
 			"slug":"barbie-chelsea-the-lost-birthday"
@@ -296,14 +301,19 @@
 			"slug":"barbie-and-the-diamond-castle"
 		},
 		{
+			"title":"Scooby-Doo! in Where's My Mummy?",
+			"gatsby_image_path":"..\/..\/images\/scooby-doo-in-where-s-my-mummy.jpg",
+			"slug":"scooby-doo-in-where-s-my-mummy"
+		},
+		{
 			"title":"Toy Story 2",
 			"gatsby_image_path":"..\/..\/images\/toy-story-2.jpg",
 			"slug":"toy-story-2"
 		},
 		{
-			"title":"Scooby-Doo! in Where's My Mummy?",
-			"gatsby_image_path":"..\/..\/images\/scooby-doo-in-where-s-my-mummy.jpg",
-			"slug":"scooby-doo-in-where-s-my-mummy"
+			"title":"Dancing Queens",
+			"gatsby_image_path":"..\/..\/images\/dancing-queens.jpg",
+			"slug":"dancing-queens"
 		},
 		{
 			"title":"Joseph: King of Dreams",
@@ -316,19 +326,19 @@
 			"slug":"barbie-fairytopia-magic-of-the-rainbow"
 		},
 		{
-			"title":"Dancing Queens",
-			"gatsby_image_path":"..\/..\/images\/dancing-queens.jpg",
-			"slug":"dancing-queens"
-		},
-		{
-			"title":"The Croods: A New Age",
-			"gatsby_image_path":"..\/..\/images\/the-croods-a-new-age.jpg",
-			"slug":"the-croods-a-new-age"
+			"title":"Earwig and the Witch",
+			"gatsby_image_path":"..\/..\/images\/earwig-and-the-witch.jpg",
+			"slug":"earwig-and-the-witch"
 		},
 		{
 			"title":"Next Avengers: Heroes of Tomorrow",
 			"gatsby_image_path":"..\/..\/images\/next-avengers-heroes-of-tomorrow.jpg",
 			"slug":"next-avengers-heroes-of-tomorrow"
+		},
+		{
+			"title":"The Croods: A New Age",
+			"gatsby_image_path":"..\/..\/images\/the-croods-a-new-age.jpg",
+			"slug":"the-croods-a-new-age"
 		},
 		{
 			"title":"Hoodwinked Too! Hood VS. Evil",
@@ -344,16 +354,6 @@
 			"title":"Vivo",
 			"gatsby_image_path":"..\/..\/images\/vivo.jpg",
 			"slug":"vivo"
-		},
-		{
-			"title":"Barbie: A Fashion Fairytale",
-			"gatsby_image_path":"..\/..\/images\/barbie-a-fashion-fairytale.jpg",
-			"slug":"barbie-a-fashion-fairytale"
-		},
-		{
-			"title":"PAW Patrol: The Movie",
-			"gatsby_image_path":"..\/..\/images\/paw-patrol-the-movie.jpg",
-			"slug":"paw-patrol-the-movie"
 		}
 	],
 	"related_by_overview":[

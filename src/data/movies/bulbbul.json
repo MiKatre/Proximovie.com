@@ -248,9 +248,19 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"Sanctum",
+			"gatsby_image_path":"..\/..\/images\/sanctum.jpg",
+			"slug":"sanctum"
+		},
+		{
 			"title":"22 vs. Earth",
 			"gatsby_image_path":"..\/..\/images\/22-vs.-earth.jpg",
 			"slug":"22-vs.-earth"
+		},
+		{
+			"title":"Knowing",
+			"gatsby_image_path":"..\/..\/images\/knowing.jpg",
+			"slug":"knowing"
 		},
 		{
 			"title":"The Chronicles of Narnia: Prince Caspian",
@@ -258,9 +268,24 @@
 			"slug":"the-chronicles-of-narnia-prince-caspian"
 		},
 		{
+			"title":"Krampus",
+			"gatsby_image_path":"..\/..\/images\/krampus.jpg",
+			"slug":"krampus"
+		},
+		{
+			"title":"[REC]",
+			"gatsby_image_path":"..\/..\/images\/rec.jpg",
+			"slug":"rec"
+		},
+		{
 			"title":"Undisputed II: Last Man Standing",
 			"gatsby_image_path":"..\/..\/images\/undisputed-ii-last-man-standing.jpg",
 			"slug":"undisputed-ii-last-man-standing"
+		},
+		{
+			"title":"Death Note",
+			"gatsby_image_path":"..\/..\/images\/death-note.jpg",
+			"slug":"death-note"
 		},
 		{
 			"title":"Final Destination 2",
@@ -273,11 +298,6 @@
 			"slug":"no-country-for-old-men"
 		},
 		{
-			"title":"Promising Young Woman",
-			"gatsby_image_path":"..\/..\/images\/promising-young-woman.jpg",
-			"slug":"promising-young-woman"
-		},
-		{
 			"title":"Pocahontas",
 			"gatsby_image_path":"..\/..\/images\/pocahontas.jpg",
 			"slug":"pocahontas"
@@ -288,9 +308,19 @@
 			"slug":"star-wars-the-force-awakens"
 		},
 		{
+			"title":"Promising Young Woman",
+			"gatsby_image_path":"..\/..\/images\/promising-young-woman.jpg",
+			"slug":"promising-young-woman"
+		},
+		{
 			"title":"Great White",
 			"gatsby_image_path":"..\/..\/images\/great-white.jpg",
 			"slug":"great-white"
+		},
+		{
+			"title":"Apex",
+			"gatsby_image_path":"..\/..\/images\/apex.jpg",
+			"slug":"apex"
 		},
 		{
 			"title":"Spider-Man: No Way Home",
@@ -298,19 +328,14 @@
 			"slug":"spider-man-no-way-home"
 		},
 		{
-			"title":"Dial 100",
-			"gatsby_image_path":"..\/..\/images\/dial-100.jpg",
-			"slug":"dial-100"
+			"title":"Peçanha Contra o Animal",
+			"gatsby_image_path":"..\/..\/images\/peçanha-contra-o-animal.jpg",
+			"slug":"peçanha-contra-o-animal"
 		},
 		{
-			"title":"Black Fox",
-			"gatsby_image_path":"..\/..\/images\/black-fox.jpg",
-			"slug":"black-fox"
-		},
-		{
-			"title":"The Misadventures of Rick and Morty",
-			"gatsby_image_path":"..\/..\/images\/the-misadventures-of-rick-and-morty.jpg",
-			"slug":"the-misadventures-of-rick-and-morty"
+			"title":"Tears of the Sun",
+			"gatsby_image_path":"..\/..\/images\/tears-of-the-sun.jpg",
+			"slug":"tears-of-the-sun"
 		},
 		{
 			"title":"Level Sixteen",
@@ -318,34 +343,9 @@
 			"slug":"level-sixteen"
 		},
 		{
-			"title":"Skylines",
-			"gatsby_image_path":"..\/..\/images\/skylines.jpg",
-			"slug":"skylines"
-		},
-		{
-			"title":"Ellipse",
-			"gatsby_image_path":"..\/..\/images\/ellipse.jpg",
-			"slug":"ellipse"
-		},
-		{
-			"title":"How to Be a Latin Lover",
-			"gatsby_image_path":"..\/..\/images\/how-to-be-a-latin-lover.jpg",
-			"slug":"how-to-be-a-latin-lover"
-		},
-		{
-			"title":"Breach",
-			"gatsby_image_path":"..\/..\/images\/breach.jpg",
-			"slug":"breach"
-		},
-		{
-			"title":"The Vast of Night",
-			"gatsby_image_path":"..\/..\/images\/the-vast-of-night.jpg",
-			"slug":"the-vast-of-night"
-		},
-		{
-			"title":"Seve",
-			"gatsby_image_path":"..\/..\/images\/seve.jpg",
-			"slug":"seve"
+			"title":"The Misadventures of Rick and Morty",
+			"gatsby_image_path":"..\/..\/images\/the-misadventures-of-rick-and-morty.jpg",
+			"slug":"the-misadventures-of-rick-and-morty"
 		}
 	],
 	"related_by_overview":[

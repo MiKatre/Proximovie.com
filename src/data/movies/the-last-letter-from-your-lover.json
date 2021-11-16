@@ -259,6 +259,11 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"The Cover",
+			"gatsby_image_path":"..\/..\/images\/the-cover.jpg",
+			"slug":"the-cover"
+		},
+		{
 			"title":"Fifty Shades Freed",
 			"gatsby_image_path":"..\/..\/images\/fifty-shades-freed.jpg",
 			"slug":"fifty-shades-freed"
@@ -274,6 +279,11 @@
 			"slug":"frozen-ii"
 		},
 		{
+			"title":"Justin Bieber: Our World",
+			"gatsby_image_path":"..\/..\/images\/justin-bieber-our-world.jpg",
+			"slug":"justin-bieber-our-world"
+		},
+		{
 			"title":"Last Summer",
 			"gatsby_image_path":"..\/..\/images\/last-summer.jpg",
 			"slug":"last-summer"
@@ -284,14 +294,14 @@
 			"slug":"los-viejos"
 		},
 		{
+			"title":"Lokillo",
+			"gatsby_image_path":"..\/..\/images\/lokillo.jpg",
+			"slug":"lokillo"
+		},
+		{
 			"title":"The Hard Way",
 			"gatsby_image_path":"..\/..\/images\/the-hard-way.jpg",
 			"slug":"the-hard-way"
-		},
-		{
-			"title":"Revolutionary Road",
-			"gatsby_image_path":"..\/..\/images\/revolutionary-road.jpg",
-			"slug":"revolutionary-road"
 		},
 		{
 			"title":"Fifty Shades of Grey",
@@ -302,6 +312,16 @@
 			"title":"Good on Paper",
 			"gatsby_image_path":"..\/..\/images\/good-on-paper.jpg",
 			"slug":"good-on-paper"
+		},
+		{
+			"title":"Revolutionary Road",
+			"gatsby_image_path":"..\/..\/images\/revolutionary-road.jpg",
+			"slug":"revolutionary-road"
+		},
+		{
+			"title":"Home Alone: The Holiday Heist",
+			"gatsby_image_path":"..\/..\/images\/home-alone-the-holiday-heist.jpg",
+			"slug":"home-alone-the-holiday-heist"
 		},
 		{
 			"title":"A Private War",
@@ -324,39 +344,19 @@
 			"slug":"harry-potter-and-the-goblet-of-fire"
 		},
 		{
+			"title":"The Call",
+			"gatsby_image_path":"..\/..\/images\/the-call.jpg",
+			"slug":"the-call"
+		},
+		{
 			"title":"Blue Miracle",
 			"gatsby_image_path":"..\/..\/images\/blue-miracle.jpg",
 			"slug":"blue-miracle"
 		},
 		{
-			"title":"Scooby-Doo 2: Monsters Unleashed",
-			"gatsby_image_path":"..\/..\/images\/scooby-doo-2-monsters-unleashed.jpg",
-			"slug":"scooby-doo-2-monsters-unleashed"
-		},
-		{
 			"title":"What Happened at the Carpenter's Shop",
 			"gatsby_image_path":"..\/..\/images\/what-happened-at-the-carpenter-s-shop.jpg",
 			"slug":"what-happened-at-the-carpenter-s-shop"
-		},
-		{
-			"title":"The 27-Hour Day",
-			"gatsby_image_path":"..\/..\/images\/the-27-hour-day.jpg",
-			"slug":"the-27-hour-day"
-		},
-		{
-			"title":"American Pie Presents: Band Camp",
-			"gatsby_image_path":"..\/..\/images\/american-pie-presents-band-camp.jpg",
-			"slug":"american-pie-presents-band-camp"
-		},
-		{
-			"title":"American Reunion",
-			"gatsby_image_path":"..\/..\/images\/american-reunion.jpg",
-			"slug":"american-reunion"
-		},
-		{
-			"title":"Time Freak",
-			"gatsby_image_path":"..\/..\/images\/time-freak.jpg",
-			"slug":"time-freak"
 		}
 	],
 	"related_by_overview":[

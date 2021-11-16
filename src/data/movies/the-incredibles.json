@@ -276,19 +276,24 @@
 			"slug":"madagascar-3-europe-s-most-wanted"
 		},
 		{
+			"title":"Earwig and the Witch",
+			"gatsby_image_path":"..\/..\/images\/earwig-and-the-witch.jpg",
+			"slug":"earwig-and-the-witch"
+		},
+		{
 			"title":"Spies in Disguise",
 			"gatsby_image_path":"..\/..\/images\/spies-in-disguise.jpg",
 			"slug":"spies-in-disguise"
 		},
 		{
+			"title":"Peçanha Contra o Animal",
+			"gatsby_image_path":"..\/..\/images\/peçanha-contra-o-animal.jpg",
+			"slug":"peçanha-contra-o-animal"
+		},
+		{
 			"title":"Teen Titans: The Judas Contract",
 			"gatsby_image_path":"..\/..\/images\/teen-titans-the-judas-contract.jpg",
 			"slug":"teen-titans-the-judas-contract"
-		},
-		{
-			"title":"Incredibles 2",
-			"gatsby_image_path":"..\/..\/images\/incredibles-2.jpg",
-			"slug":"incredibles-2"
 		},
 		{
 			"title":"Sword Art Online: The Movie - Ordinal Scale",
@@ -301,9 +306,24 @@
 			"slug":"101-dalmatians-ii-patch-s-london-adventure"
 		},
 		{
+			"title":"Incredibles 2",
+			"gatsby_image_path":"..\/..\/images\/incredibles-2.jpg",
+			"slug":"incredibles-2"
+		},
+		{
+			"title":"The Losers",
+			"gatsby_image_path":"..\/..\/images\/the-losers.jpg",
+			"slug":"the-losers"
+		},
+		{
 			"title":"Next Avengers: Heroes of Tomorrow",
 			"gatsby_image_path":"..\/..\/images\/next-avengers-heroes-of-tomorrow.jpg",
 			"slug":"next-avengers-heroes-of-tomorrow"
+		},
+		{
+			"title":"Muppets Haunted Mansion",
+			"gatsby_image_path":"..\/..\/images\/muppets-haunted-mansion.jpg",
+			"slug":"muppets-haunted-mansion"
 		},
 		{
 			"title":"Cinderella II: Dreams Come True",
@@ -311,9 +331,14 @@
 			"slug":"cinderella-ii-dreams-come-true"
 		},
 		{
-			"title":"The Book of Life",
-			"gatsby_image_path":"..\/..\/images\/the-book-of-life.jpg",
-			"slug":"the-book-of-life"
+			"title":"Child's Play",
+			"gatsby_image_path":"..\/..\/images\/child-s-play.jpg",
+			"slug":"child-s-play"
+		},
+		{
+			"title":"LEGO Hidden Side: Night of the Harbinger",
+			"gatsby_image_path":"..\/..\/images\/lego-hidden-side-night-of-the-harbinger.jpg",
+			"slug":"lego-hidden-side-night-of-the-harbinger"
 		},
 		{
 			"title":"Epic",
@@ -326,34 +351,9 @@
 			"slug":"miraculous-world-shanghai-the-legend-of-ladydragon"
 		},
 		{
-			"title":"Naruto Shippuden the Movie: The Lost Tower",
-			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-the-lost-tower.jpg",
-			"slug":"naruto-shippuden-the-movie-the-lost-tower"
-		},
-		{
-			"title":"Justice League: Gods and Monsters",
-			"gatsby_image_path":"..\/..\/images\/justice-league-gods-and-monsters.jpg",
-			"slug":"justice-league-gods-and-monsters"
-		},
-		{
-			"title":"Iron Man",
-			"gatsby_image_path":"..\/..\/images\/iron-man.jpg",
-			"slug":"iron-man"
-		},
-		{
-			"title":"Dial 100",
-			"gatsby_image_path":"..\/..\/images\/dial-100.jpg",
-			"slug":"dial-100"
-		},
-		{
-			"title":"Black Fox",
-			"gatsby_image_path":"..\/..\/images\/black-fox.jpg",
-			"slug":"black-fox"
-		},
-		{
-			"title":"The Legend of the Nahuala",
-			"gatsby_image_path":"..\/..\/images\/the-legend-of-the-nahuala.jpg",
-			"slug":"the-legend-of-the-nahuala"
+			"title":"The Book of Life",
+			"gatsby_image_path":"..\/..\/images\/the-book-of-life.jpg",
+			"slug":"the-book-of-life"
 		}
 	],
 	"related_by_overview":[

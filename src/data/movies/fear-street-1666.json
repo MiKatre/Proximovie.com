@@ -253,6 +253,11 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"Reminiscence",
+			"gatsby_image_path":"..\/..\/images\/reminiscence.jpg",
+			"slug":"reminiscence"
+		},
+		{
 			"title":"Fear Street: 1994",
 			"gatsby_image_path":"..\/..\/images\/fear-street-1994.jpg",
 			"slug":"fear-street-1994"
@@ -298,14 +303,19 @@
 			"slug":"harry-potter-and-the-philosopher-s-stone"
 		},
 		{
-			"title":"The Mummy",
-			"gatsby_image_path":"..\/..\/images\/the-mummy.jpg",
-			"slug":"the-mummy"
+			"title":"Earwig and the Witch",
+			"gatsby_image_path":"..\/..\/images\/earwig-and-the-witch.jpg",
+			"slug":"earwig-and-the-witch"
 		},
 		{
-			"title":"Hercules",
-			"gatsby_image_path":"..\/..\/images\/hercules.jpg",
-			"slug":"hercules"
+			"title":"Cowboys & Aliens",
+			"gatsby_image_path":"..\/..\/images\/cowboys-aliens.jpg",
+			"slug":"cowboys-aliens"
+		},
+		{
+			"title":"Altered Carbon: Resleeved",
+			"gatsby_image_path":"..\/..\/images\/altered-carbon-resleeved.jpg",
+			"slug":"altered-carbon-resleeved"
 		},
 		{
 			"title":"The Croods: A New Age",
@@ -328,29 +338,19 @@
 			"slug":"harry-potter-and-the-deathly-hallows-part-1"
 		},
 		{
-			"title":"Max Steel",
-			"gatsby_image_path":"..\/..\/images\/max-steel.jpg",
-			"slug":"max-steel"
-		},
-		{
 			"title":"Willy's Wonderland",
 			"gatsby_image_path":"..\/..\/images\/willy-s-wonderland.jpg",
 			"slug":"willy-s-wonderland"
 		},
 		{
-			"title":"Guardians of the Galaxy",
-			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy.jpg",
-			"slug":"guardians-of-the-galaxy"
+			"title":"Max Steel",
+			"gatsby_image_path":"..\/..\/images\/max-steel.jpg",
+			"slug":"max-steel"
 		},
 		{
 			"title":"Harry Potter and the Chamber of Secrets",
 			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-chamber-of-secrets.jpg",
 			"slug":"harry-potter-and-the-chamber-of-secrets"
-		},
-		{
-			"title":"Ready Player One",
-			"gatsby_image_path":"..\/..\/images\/ready-player-one.jpg",
-			"slug":"ready-player-one"
 		}
 	],
 	"related_by_overview":[

@@ -273,19 +273,24 @@
 			"slug":"night-at-the-museum-secret-of-the-tomb"
 		},
 		{
-			"title":"The Quake",
-			"gatsby_image_path":"..\/..\/images\/the-quake.jpg",
-			"slug":"the-quake"
-		},
-		{
 			"title":"The Exorcist",
 			"gatsby_image_path":"..\/..\/images\/the-exorcist.jpg",
 			"slug":"the-exorcist"
 		},
 		{
+			"title":"The Quake",
+			"gatsby_image_path":"..\/..\/images\/the-quake.jpg",
+			"slug":"the-quake"
+		},
+		{
 			"title":"Extinction",
 			"gatsby_image_path":"..\/..\/images\/extinction.jpg",
 			"slug":"extinction"
+		},
+		{
+			"title":"Earwig and the Witch",
+			"gatsby_image_path":"..\/..\/images\/earwig-and-the-witch.jpg",
+			"slug":"earwig-and-the-witch"
 		},
 		{
 			"title":"Sacrifice",
@@ -296,6 +301,11 @@
 			"title":"Maze Runner: The Death Cure",
 			"gatsby_image_path":"..\/..\/images\/maze-runner-the-death-cure.jpg",
 			"slug":"maze-runner-the-death-cure"
+		},
+		{
+			"title":"Altered Carbon: Resleeved",
+			"gatsby_image_path":"..\/..\/images\/altered-carbon-resleeved.jpg",
+			"slug":"altered-carbon-resleeved"
 		},
 		{
 			"title":"Ashfall",
@@ -313,6 +323,16 @@
 			"slug":"justice-league-vs.-teen-titans"
 		},
 		{
+			"title":"Bright: Samurai Soul",
+			"gatsby_image_path":"..\/..\/images\/bright-samurai-soul.jpg",
+			"slug":"bright-samurai-soul"
+		},
+		{
+			"title":"Cowboys & Aliens",
+			"gatsby_image_path":"..\/..\/images\/cowboys-aliens.jpg",
+			"slug":"cowboys-aliens"
+		},
+		{
 			"title":"Star Wars: The Rise of Skywalker",
 			"gatsby_image_path":"..\/..\/images\/star-wars-the-rise-of-skywalker.jpg",
 			"slug":"star-wars-the-rise-of-skywalker"
@@ -321,11 +341,6 @@
 			"title":"Rise of the Guardians",
 			"gatsby_image_path":"..\/..\/images\/rise-of-the-guardians.jpg",
 			"slug":"rise-of-the-guardians"
-		},
-		{
-			"title":"Pokémon the Movie: I Choose You!",
-			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-i-choose-you.jpg",
-			"slug":"pokémon-the-movie-i-choose-you"
 		},
 		{
 			"title":"Ghosts of War",
@@ -338,24 +353,9 @@
 			"slug":"fireproof"
 		},
 		{
-			"title":"The Mortuary Collection",
-			"gatsby_image_path":"..\/..\/images\/the-mortuary-collection.jpg",
-			"slug":"the-mortuary-collection"
-		},
-		{
-			"title":"Open 24 Hours",
-			"gatsby_image_path":"..\/..\/images\/open-24-hours.jpg",
-			"slug":"open-24-hours"
-		},
-		{
-			"title":"The Mortal Instruments: City of Bones",
-			"gatsby_image_path":"..\/..\/images\/the-mortal-instruments-city-of-bones.jpg",
-			"slug":"the-mortal-instruments-city-of-bones"
-		},
-		{
-			"title":"Iron Man",
-			"gatsby_image_path":"..\/..\/images\/iron-man.jpg",
-			"slug":"iron-man"
+			"title":"Pokémon the Movie: I Choose You!",
+			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-i-choose-you.jpg",
+			"slug":"pokémon-the-movie-i-choose-you"
 		}
 	],
 	"related_by_overview":[

@@ -257,14 +257,14 @@
 	],
 	"related_by_poster":[
 		{
-			"title":"Ghostbusters: Afterlife",
-			"gatsby_image_path":"..\/..\/images\/ghostbusters-afterlife.jpg",
-			"slug":"ghostbusters-afterlife"
-		},
-		{
 			"title":"Black Fox",
 			"gatsby_image_path":"..\/..\/images\/black-fox.jpg",
 			"slug":"black-fox"
+		},
+		{
+			"title":"Ghostbusters: Afterlife",
+			"gatsby_image_path":"..\/..\/images\/ghostbusters-afterlife.jpg",
+			"slug":"ghostbusters-afterlife"
 		},
 		{
 			"title":"Tom and Jerry: The Fast and the Furry",
@@ -277,6 +277,11 @@
 			"slug":"6-underground"
 		},
 		{
+			"title":"Apex",
+			"gatsby_image_path":"..\/..\/images\/apex.jpg",
+			"slug":"apex"
+		},
+		{
 			"title":"Extraction",
 			"gatsby_image_path":"..\/..\/images\/extraction.jpg",
 			"slug":"extraction"
@@ -287,14 +292,24 @@
 			"slug":"a-christmas-carol"
 		},
 		{
-			"title":"Ghosts of War",
-			"gatsby_image_path":"..\/..\/images\/ghosts-of-war.jpg",
-			"slug":"ghosts-of-war"
+			"title":"Outcast",
+			"gatsby_image_path":"..\/..\/images\/outcast.jpg",
+			"slug":"outcast"
 		},
 		{
 			"title":"The Thing About Harry",
 			"gatsby_image_path":"..\/..\/images\/the-thing-about-harry.jpg",
 			"slug":"the-thing-about-harry"
+		},
+		{
+			"title":"Ghosts of War",
+			"gatsby_image_path":"..\/..\/images\/ghosts-of-war.jpg",
+			"slug":"ghosts-of-war"
+		},
+		{
+			"title":"Night at the Museum: Battle of the Smithsonian",
+			"gatsby_image_path":"..\/..\/images\/night-at-the-museum-battle-of-the-smithsonian.jpg",
+			"slug":"night-at-the-museum-battle-of-the-smithsonian"
 		},
 		{
 			"title":"How to Train Your Dragon 2",
@@ -312,19 +327,19 @@
 			"slug":"epic"
 		},
 		{
-			"title":"Justice League",
-			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
-			"slug":"justice-league"
-		},
-		{
 			"title":"Scary Movie 5",
 			"gatsby_image_path":"..\/..\/images\/scary-movie-5.jpg",
 			"slug":"scary-movie-5"
 		},
 		{
-			"title":"Eternal Sunshine of the Spotless Mind",
-			"gatsby_image_path":"..\/..\/images\/eternal-sunshine-of-the-spotless-mind.jpg",
-			"slug":"eternal-sunshine-of-the-spotless-mind"
+			"title":"Justice League",
+			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
+			"slug":"justice-league"
+		},
+		{
+			"title":"Fantastic Beasts: The Secrets of Dumbledore",
+			"gatsby_image_path":"..\/..\/images\/fantastic-beasts-the-secrets-of-dumbledore.jpg",
+			"slug":"fantastic-beasts-the-secrets-of-dumbledore"
 		},
 		{
 			"title":"Blue Miracle",
@@ -332,29 +347,14 @@
 			"slug":"blue-miracle"
 		},
 		{
+			"title":"Eternal Sunshine of the Spotless Mind",
+			"gatsby_image_path":"..\/..\/images\/eternal-sunshine-of-the-spotless-mind.jpg",
+			"slug":"eternal-sunshine-of-the-spotless-mind"
+		},
+		{
 			"title":"Bumblebee",
 			"gatsby_image_path":"..\/..\/images\/bumblebee.jpg",
 			"slug":"bumblebee"
-		},
-		{
-			"title":"Spies in Disguise",
-			"gatsby_image_path":"..\/..\/images\/spies-in-disguise.jpg",
-			"slug":"spies-in-disguise"
-		},
-		{
-			"title":"Justice League Dark: Apokolips War",
-			"gatsby_image_path":"..\/..\/images\/justice-league-dark-apokolips-war.jpg",
-			"slug":"justice-league-dark-apokolips-war"
-		},
-		{
-			"title":"The 5th Wave",
-			"gatsby_image_path":"..\/..\/images\/the-5th-wave.jpg",
-			"slug":"the-5th-wave"
-		},
-		{
-			"title":"Crawl",
-			"gatsby_image_path":"..\/..\/images\/crawl.jpg",
-			"slug":"crawl"
 		}
 	],
 	"related_by_overview":[

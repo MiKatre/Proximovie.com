@@ -260,6 +260,11 @@
 			"slug":"peninsula"
 		},
 		{
+			"title":"Suspiria",
+			"gatsby_image_path":"..\/..\/images\/suspiria.jpg",
+			"slug":"suspiria"
+		},
+		{
 			"title":"Spy Kids 2: The Island of Lost Dreams",
 			"gatsby_image_path":"..\/..\/images\/spy-kids-2-the-island-of-lost-dreams.jpg",
 			"slug":"spy-kids-2-the-island-of-lost-dreams"
@@ -270,9 +275,9 @@
 			"slug":"the-expendables-2"
 		},
 		{
-			"title":"Danger Close: The Battle of Long Tan",
-			"gatsby_image_path":"..\/..\/images\/danger-close-the-battle-of-long-tan.jpg",
-			"slug":"danger-close-the-battle-of-long-tan"
+			"title":"Independence Day",
+			"gatsby_image_path":"..\/..\/images\/independence-day.jpg",
+			"slug":"independence-day"
 		},
 		{
 			"title":"Dark Phoenix",
@@ -280,9 +285,9 @@
 			"slug":"dark-phoenix"
 		},
 		{
-			"title":"Independence Day",
-			"gatsby_image_path":"..\/..\/images\/independence-day.jpg",
-			"slug":"independence-day"
+			"title":"Danger Close: The Battle of Long Tan",
+			"gatsby_image_path":"..\/..\/images\/danger-close-the-battle-of-long-tan.jpg",
+			"slug":"danger-close-the-battle-of-long-tan"
 		},
 		{
 			"title":"Backdraft 2",
@@ -300,29 +305,14 @@
 			"slug":"blood-moon"
 		},
 		{
-			"title":"Baba Yaga: Terror of the Dark Forest",
-			"gatsby_image_path":"..\/..\/images\/baba-yaga-terror-of-the-dark-forest.jpg",
-			"slug":"baba-yaga-terror-of-the-dark-forest"
+			"title":"Pokémon the Movie: Secrets of the Jungle",
+			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-secrets-of-the-jungle.jpg",
+			"slug":"pokémon-the-movie-secrets-of-the-jungle"
 		},
 		{
 			"title":"The Lovely Bones",
 			"gatsby_image_path":"..\/..\/images\/the-lovely-bones.jpg",
 			"slug":"the-lovely-bones"
-		},
-		{
-			"title":"Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
-			"gatsby_image_path":"..\/..\/images\/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train.jpg",
-			"slug":"demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train"
-		},
-		{
-			"title":"Mandy",
-			"gatsby_image_path":"..\/..\/images\/mandy.jpg",
-			"slug":"mandy"
-		},
-		{
-			"title":"Coco",
-			"gatsby_image_path":"..\/..\/images\/coco.jpg",
-			"slug":"coco"
 		},
 		{
 			"title":"Pokémon the Movie: I Choose You!",
@@ -335,24 +325,34 @@
 			"slug":"extinction"
 		},
 		{
+			"title":"Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+			"gatsby_image_path":"..\/..\/images\/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train.jpg",
+			"slug":"demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train"
+		},
+		{
+			"title":"Coco",
+			"gatsby_image_path":"..\/..\/images\/coco.jpg",
+			"slug":"coco"
+		},
+		{
+			"title":"Baba Yaga: Terror of the Dark Forest",
+			"gatsby_image_path":"..\/..\/images\/baba-yaga-terror-of-the-dark-forest.jpg",
+			"slug":"baba-yaga-terror-of-the-dark-forest"
+		},
+		{
+			"title":"Mandy",
+			"gatsby_image_path":"..\/..\/images\/mandy.jpg",
+			"slug":"mandy"
+		},
+		{
+			"title":"Earwig and the Witch",
+			"gatsby_image_path":"..\/..\/images\/earwig-and-the-witch.jpg",
+			"slug":"earwig-and-the-witch"
+		},
+		{
 			"title":"Sacrifice",
 			"gatsby_image_path":"..\/..\/images\/sacrifice.jpg",
 			"slug":"sacrifice"
-		},
-		{
-			"title":"Ellipse",
-			"gatsby_image_path":"..\/..\/images\/ellipse.jpg",
-			"slug":"ellipse"
-		},
-		{
-			"title":"Taken",
-			"gatsby_image_path":"..\/..\/images\/taken.jpg",
-			"slug":"taken"
-		},
-		{
-			"title":"Skylines",
-			"gatsby_image_path":"..\/..\/images\/skylines.jpg",
-			"slug":"skylines"
 		}
 	],
 	"related_by_overview":[

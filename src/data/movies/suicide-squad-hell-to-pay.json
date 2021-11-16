@@ -261,6 +261,11 @@
 			"slug":"ant-man"
 		},
 		{
+			"title":"There's Something About Mario",
+			"gatsby_image_path":"..\/..\/images\/there-s-something-about-mario.jpg",
+			"slug":"there-s-something-about-mario"
+		},
+		{
 			"title":"Justice League",
 			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
 			"slug":"justice-league"
@@ -271,9 +276,19 @@
 			"slug":"batman-death-in-the-family"
 		},
 		{
+			"title":"Peçanha Contra o Animal",
+			"gatsby_image_path":"..\/..\/images\/peçanha-contra-o-animal.jpg",
+			"slug":"peçanha-contra-o-animal"
+		},
+		{
 			"title":"Green Lantern: Emerald Knights",
 			"gatsby_image_path":"..\/..\/images\/green-lantern-emerald-knights.jpg",
 			"slug":"green-lantern-emerald-knights"
+		},
+		{
+			"title":"Injustice",
+			"gatsby_image_path":"..\/..\/images\/injustice.jpg",
+			"slug":"injustice"
 		},
 		{
 			"title":"Teen Titans: The Judas Contract",
@@ -281,9 +296,24 @@
 			"slug":"teen-titans-the-judas-contract"
 		},
 		{
+			"title":"Christmas with the Kranks",
+			"gatsby_image_path":"..\/..\/images\/christmas-with-the-kranks.jpg",
+			"slug":"christmas-with-the-kranks"
+		},
+		{
 			"title":"Deadpool",
 			"gatsby_image_path":"..\/..\/images\/deadpool.jpg",
 			"slug":"deadpool"
+		},
+		{
+			"title":"Shoot 'Em Up",
+			"gatsby_image_path":"..\/..\/images\/shoot--em-up.jpg",
+			"slug":"shoot--em-up"
+		},
+		{
+			"title":"Outcast",
+			"gatsby_image_path":"..\/..\/images\/outcast.jpg",
+			"slug":"outcast"
 		},
 		{
 			"title":"A Babysitter's Guide to Monster Hunting",
@@ -311,9 +341,9 @@
 			"slug":"scary-movie-3"
 		},
 		{
-			"title":"Kingsglaive: Final Fantasy XV",
-			"gatsby_image_path":"..\/..\/images\/kingsglaive-final-fantasy-xv.jpg",
-			"slug":"kingsglaive-final-fantasy-xv"
+			"title":"Child's Play",
+			"gatsby_image_path":"..\/..\/images\/child-s-play.jpg",
+			"slug":"child-s-play"
 		},
 		{
 			"title":"Justice League: Gods and Monsters",
@@ -324,36 +354,6 @@
 			"title":"13 Hours: The Secret Soldiers of Benghazi",
 			"gatsby_image_path":"..\/..\/images\/13-hours-the-secret-soldiers-of-benghazi.jpg",
 			"slug":"13-hours-the-secret-soldiers-of-benghazi"
-		},
-		{
-			"title":"The Road to El Dorado",
-			"gatsby_image_path":"..\/..\/images\/the-road-to-el-dorado.jpg",
-			"slug":"the-road-to-el-dorado"
-		},
-		{
-			"title":"Bloodshot",
-			"gatsby_image_path":"..\/..\/images\/bloodshot.jpg",
-			"slug":"bloodshot"
-		},
-		{
-			"title":"The Accountant",
-			"gatsby_image_path":"..\/..\/images\/the-accountant.jpg",
-			"slug":"the-accountant"
-		},
-		{
-			"title":"Alita: Battle Angel",
-			"gatsby_image_path":"..\/..\/images\/alita-battle-angel.jpg",
-			"slug":"alita-battle-angel"
-		},
-		{
-			"title":"Black Widow",
-			"gatsby_image_path":"..\/..\/images\/black-widow.jpg",
-			"slug":"black-widow"
-		},
-		{
-			"title":"How I Became a Superhero",
-			"gatsby_image_path":"..\/..\/images\/how-i-became-a-superhero.jpg",
-			"slug":"how-i-became-a-superhero"
 		}
 	],
 	"related_by_overview":[

@@ -265,19 +265,24 @@
 			"slug":"frankenweenie"
 		},
 		{
+			"title":"Happy Family",
+			"gatsby_image_path":"..\/..\/images\/happy-family.jpg",
+			"slug":"happy-family"
+		},
+		{
 			"title":"Kung Fu Panda 2",
 			"gatsby_image_path":"..\/..\/images\/kung-fu-panda-2.jpg",
 			"slug":"kung-fu-panda-2"
 		},
 		{
-			"title":"Next Avengers: Heroes of Tomorrow",
-			"gatsby_image_path":"..\/..\/images\/next-avengers-heroes-of-tomorrow.jpg",
-			"slug":"next-avengers-heroes-of-tomorrow"
-		},
-		{
 			"title":"101 Dalmatians II: Patch's London Adventure",
 			"gatsby_image_path":"..\/..\/images\/101-dalmatians-ii-patch-s-london-adventure.jpg",
 			"slug":"101-dalmatians-ii-patch-s-london-adventure"
+		},
+		{
+			"title":"Next Avengers: Heroes of Tomorrow",
+			"gatsby_image_path":"..\/..\/images\/next-avengers-heroes-of-tomorrow.jpg",
+			"slug":"next-avengers-heroes-of-tomorrow"
 		},
 		{
 			"title":"Epic",
@@ -305,9 +310,19 @@
 			"slug":"love-chunibyo-other-delusions-rikka-version"
 		},
 		{
+			"title":"Peçanha Contra o Animal",
+			"gatsby_image_path":"..\/..\/images\/peçanha-contra-o-animal.jpg",
+			"slug":"peçanha-contra-o-animal"
+		},
+		{
 			"title":"Hotel Transylvania: Transformania",
 			"gatsby_image_path":"..\/..\/images\/hotel-transylvania-transformania.jpg",
 			"slug":"hotel-transylvania-transformania"
+		},
+		{
+			"title":"The Jungle Book",
+			"gatsby_image_path":"..\/..\/images\/the-jungle-book.jpg",
+			"slug":"the-jungle-book"
 		},
 		{
 			"title":"Pokémon the Movie: Volcanion and the Mechanical Marvel",
@@ -315,39 +330,24 @@
 			"slug":"pokémon-the-movie-volcanion-and-the-mechanical-marvel"
 		},
 		{
-			"title":"Hoodwinked Too! Hood VS. Evil",
-			"gatsby_image_path":"..\/..\/images\/hoodwinked-too-hood-vs.-evil.jpg",
-			"slug":"hoodwinked-too-hood-vs.-evil"
-		},
-		{
-			"title":"Combat Wombat",
-			"gatsby_image_path":"..\/..\/images\/combat-wombat.jpg",
-			"slug":"combat-wombat"
-		},
-		{
 			"title":"Scooby-Doo! The Sword and the Scoob",
 			"gatsby_image_path":"..\/..\/images\/scooby-doo-the-sword-and-the-scoob.jpg",
 			"slug":"scooby-doo-the-sword-and-the-scoob"
 		},
 		{
-			"title":"Maya the Bee: The Golden Orb",
-			"gatsby_image_path":"..\/..\/images\/maya-the-bee-the-golden-orb.jpg",
-			"slug":"maya-the-bee-the-golden-orb"
+			"title":"Dumbo",
+			"gatsby_image_path":"..\/..\/images\/dumbo.jpg",
+			"slug":"dumbo"
 		},
 		{
-			"title":"Naruto Shippuden the Movie: The Will of Fire",
-			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-the-will-of-fire.jpg",
-			"slug":"naruto-shippuden-the-movie-the-will-of-fire"
+			"title":"Hoodwinked Too! Hood VS. Evil",
+			"gatsby_image_path":"..\/..\/images\/hoodwinked-too-hood-vs.-evil.jpg",
+			"slug":"hoodwinked-too-hood-vs.-evil"
 		},
 		{
-			"title":"Dragon Ball Z: The World's Strongest",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-the-world-s-strongest.jpg",
-			"slug":"dragon-ball-z-the-world-s-strongest"
-		},
-		{
-			"title":"The Seven Deadly Sins the Movie: Cursed by Light",
-			"gatsby_image_path":"..\/..\/images\/the-seven-deadly-sins-the-movie-cursed-by-light.jpg",
-			"slug":"the-seven-deadly-sins-the-movie-cursed-by-light"
+			"title":"Child's Play",
+			"gatsby_image_path":"..\/..\/images\/child-s-play.jpg",
+			"slug":"child-s-play"
 		}
 	],
 	"related_by_overview":[

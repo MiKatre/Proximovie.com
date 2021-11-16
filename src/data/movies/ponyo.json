@@ -271,6 +271,11 @@
 			"slug":"black-fox"
 		},
 		{
+			"title":"Muppets Haunted Mansion",
+			"gatsby_image_path":"..\/..\/images\/muppets-haunted-mansion.jpg",
+			"slug":"muppets-haunted-mansion"
+		},
+		{
 			"title":"Dragon Ball Z: Cooler's Revenge",
 			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-cooler-s-revenge.jpg",
 			"slug":"dragon-ball-z-cooler-s-revenge"
@@ -286,14 +291,14 @@
 			"slug":"bumblebee"
 		},
 		{
-			"title":"The Lion King 1½",
-			"gatsby_image_path":"..\/..\/images\/the-lion-king-1-½.jpg",
-			"slug":"the-lion-king-1-½"
-		},
-		{
 			"title":"Aladdin and the King of Thieves",
 			"gatsby_image_path":"..\/..\/images\/aladdin-and-the-king-of-thieves.jpg",
 			"slug":"aladdin-and-the-king-of-thieves"
+		},
+		{
+			"title":"The Lion King 1½",
+			"gatsby_image_path":"..\/..\/images\/the-lion-king-1-½.jpg",
+			"slug":"the-lion-king-1-½"
 		},
 		{
 			"title":"Astro Boy",
@@ -306,14 +311,14 @@
 			"slug":"next-avengers-heroes-of-tomorrow"
 		},
 		{
-			"title":"Scooby-Doo! in Where's My Mummy?",
-			"gatsby_image_path":"..\/..\/images\/scooby-doo-in-where-s-my-mummy.jpg",
-			"slug":"scooby-doo-in-where-s-my-mummy"
-		},
-		{
 			"title":"Voyagers",
 			"gatsby_image_path":"..\/..\/images\/voyagers.jpg",
 			"slug":"voyagers"
+		},
+		{
+			"title":"Scooby-Doo! in Where's My Mummy?",
+			"gatsby_image_path":"..\/..\/images\/scooby-doo-in-where-s-my-mummy.jpg",
+			"slug":"scooby-doo-in-where-s-my-mummy"
 		},
 		{
 			"title":"Justice League Dark: Apokolips War",
@@ -326,14 +331,19 @@
 			"slug":"inside-out"
 		},
 		{
-			"title":"Ghostbusters",
-			"gatsby_image_path":"..\/..\/images\/ghostbusters.jpg",
-			"slug":"ghostbusters"
+			"title":"The Jungle Book",
+			"gatsby_image_path":"..\/..\/images\/the-jungle-book.jpg",
+			"slug":"the-jungle-book"
 		},
 		{
-			"title":"The Simpsons: The Good, the Bart, and the Loki",
-			"gatsby_image_path":"..\/..\/images\/the-simpsons-the-good-the-bart-and-the-loki.jpg",
-			"slug":"the-simpsons-the-good-the-bart-and-the-loki"
+			"title":"LEGO Hidden Side: Night of the Harbinger",
+			"gatsby_image_path":"..\/..\/images\/lego-hidden-side-night-of-the-harbinger.jpg",
+			"slug":"lego-hidden-side-night-of-the-harbinger"
+		},
+		{
+			"title":"Peçanha Contra o Animal",
+			"gatsby_image_path":"..\/..\/images\/peçanha-contra-o-animal.jpg",
+			"slug":"peçanha-contra-o-animal"
 		},
 		{
 			"title":"Spies in Disguise",
@@ -341,24 +351,14 @@
 			"slug":"spies-in-disguise"
 		},
 		{
+			"title":"The Simpsons: The Good, the Bart, and the Loki",
+			"gatsby_image_path":"..\/..\/images\/the-simpsons-the-good-the-bart-and-the-loki.jpg",
+			"slug":"the-simpsons-the-good-the-bart-and-the-loki"
+		},
+		{
 			"title":"Dragon Ball Z: Wrath of the Dragon",
 			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-wrath-of-the-dragon.jpg",
 			"slug":"dragon-ball-z-wrath-of-the-dragon"
-		},
-		{
-			"title":"We Bare Bears: The Movie",
-			"gatsby_image_path":"..\/..\/images\/we-bare-bears-the-movie.jpg",
-			"slug":"we-bare-bears-the-movie"
-		},
-		{
-			"title":"Barbie Mariposa",
-			"gatsby_image_path":"..\/..\/images\/barbie-mariposa.jpg",
-			"slug":"barbie-mariposa"
-		},
-		{
-			"title":"Dragon Ball Z: Super Android 13!",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-super-android-13.jpg",
-			"slug":"dragon-ball-z-super-android-13"
 		}
 	],
 	"related_by_overview":[

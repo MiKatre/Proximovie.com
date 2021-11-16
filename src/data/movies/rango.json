@@ -264,6 +264,16 @@
 			"slug":"toy-story"
 		},
 		{
+			"title":"Dumbo",
+			"gatsby_image_path":"..\/..\/images\/dumbo.jpg",
+			"slug":"dumbo"
+		},
+		{
+			"title":"Happy Family",
+			"gatsby_image_path":"..\/..\/images\/happy-family.jpg",
+			"slug":"happy-family"
+		},
+		{
 			"title":"Monsters, Inc.",
 			"gatsby_image_path":"..\/..\/images\/monsters-inc.jpg",
 			"slug":"monsters-inc"
@@ -279,11 +289,6 @@
 			"slug":"combat-wombat"
 		},
 		{
-			"title":"Ella Bella Bingo",
-			"gatsby_image_path":"..\/..\/images\/ella-bella-bingo.jpg",
-			"slug":"ella-bella-bingo"
-		},
-		{
 			"title":"The Croods: A New Age",
 			"gatsby_image_path":"..\/..\/images\/the-croods-a-new-age.jpg",
 			"slug":"the-croods-a-new-age"
@@ -294,9 +299,24 @@
 			"slug":"101-dalmatians-ii-patch-s-london-adventure"
 		},
 		{
+			"title":"Puss in Boots: The Three Diablos",
+			"gatsby_image_path":"..\/..\/images\/puss-in-boots-the-three-diablos.jpg",
+			"slug":"puss-in-boots-the-three-diablos"
+		},
+		{
+			"title":"Ella Bella Bingo",
+			"gatsby_image_path":"..\/..\/images\/ella-bella-bingo.jpg",
+			"slug":"ella-bella-bingo"
+		},
+		{
 			"title":"Shrek 2",
 			"gatsby_image_path":"..\/..\/images\/shrek-2.jpg",
 			"slug":"shrek-2"
+		},
+		{
+			"title":"Daisy Quokka: World's Scariest Animal",
+			"gatsby_image_path":"..\/..\/images\/daisy-quokka-world-s-scariest-animal.jpg",
+			"slug":"daisy-quokka-world-s-scariest-animal"
 		},
 		{
 			"title":"Scooby-Doo! and the Cyber Chase",
@@ -304,9 +324,14 @@
 			"slug":"scooby-doo-and-the-cyber-chase"
 		},
 		{
-			"title":"Robin Hood",
-			"gatsby_image_path":"..\/..\/images\/robin-hood.jpg",
-			"slug":"robin-hood"
+			"title":"My Little Pony: A New Generation",
+			"gatsby_image_path":"..\/..\/images\/my-little-pony-a-new-generation.jpg",
+			"slug":"my-little-pony-a-new-generation"
+		},
+		{
+			"title":"The Book of Life",
+			"gatsby_image_path":"..\/..\/images\/the-book-of-life.jpg",
+			"slug":"the-book-of-life"
 		},
 		{
 			"title":"Next Avengers: Heroes of Tomorrow",
@@ -314,9 +339,9 @@
 			"slug":"next-avengers-heroes-of-tomorrow"
 		},
 		{
-			"title":"The Book of Life",
-			"gatsby_image_path":"..\/..\/images\/the-book-of-life.jpg",
-			"slug":"the-book-of-life"
+			"title":"The Jungle Book",
+			"gatsby_image_path":"..\/..\/images\/the-jungle-book.jpg",
+			"slug":"the-jungle-book"
 		},
 		{
 			"title":"Brother Bear 2",
@@ -332,31 +357,6 @@
 			"title":"The Wishmas Tree",
 			"gatsby_image_path":"..\/..\/images\/the-wishmas-tree.jpg",
 			"slug":"the-wishmas-tree"
-		},
-		{
-			"title":"PAW Patrol: The Movie",
-			"gatsby_image_path":"..\/..\/images\/paw-patrol-the-movie.jpg",
-			"slug":"paw-patrol-the-movie"
-		},
-		{
-			"title":"Horton Hears a Who!",
-			"gatsby_image_path":"..\/..\/images\/horton-hears-a-who.jpg",
-			"slug":"horton-hears-a-who"
-		},
-		{
-			"title":"Curious George: Go West, Go Wild",
-			"gatsby_image_path":"..\/..\/images\/curious-george-go-west-go-wild.jpg",
-			"slug":"curious-george-go-west-go-wild"
-		},
-		{
-			"title":"Hotel Transylvania: Transformania",
-			"gatsby_image_path":"..\/..\/images\/hotel-transylvania-transformania.jpg",
-			"slug":"hotel-transylvania-transformania"
-		},
-		{
-			"title":"Toy Story 2",
-			"gatsby_image_path":"..\/..\/images\/toy-story-2.jpg",
-			"slug":"toy-story-2"
 		}
 	],
 	"related_by_overview":[

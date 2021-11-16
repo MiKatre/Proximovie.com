@@ -259,6 +259,11 @@
 			"slug":"guardians"
 		},
 		{
+			"title":"Spectral",
+			"gatsby_image_path":"..\/..\/images\/spectral.jpg",
+			"slug":"spectral"
+		},
+		{
 			"title":"Rise of the Guardians",
 			"gatsby_image_path":"..\/..\/images\/rise-of-the-guardians.jpg",
 			"slug":"rise-of-the-guardians"
@@ -267,6 +272,11 @@
 			"title":"Pirates of the Caribbean: Dead Men Tell No Tales",
 			"gatsby_image_path":"..\/..\/images\/pirates-of-the-caribbean-dead-men-tell-no-tales.jpg",
 			"slug":"pirates-of-the-caribbean-dead-men-tell-no-tales"
+		},
+		{
+			"title":"Outcast",
+			"gatsby_image_path":"..\/..\/images\/outcast.jpg",
+			"slug":"outcast"
 		},
 		{
 			"title":"Dark Phoenix",
@@ -299,9 +309,9 @@
 			"slug":"x-men-apocalypse"
 		},
 		{
-			"title":"Kingsglaive: Final Fantasy XV",
-			"gatsby_image_path":"..\/..\/images\/kingsglaive-final-fantasy-xv.jpg",
-			"slug":"kingsglaive-final-fantasy-xv"
+			"title":"Peçanha Contra o Animal",
+			"gatsby_image_path":"..\/..\/images\/peçanha-contra-o-animal.jpg",
+			"slug":"peçanha-contra-o-animal"
 		},
 		{
 			"title":"Edge of Tomorrow",
@@ -309,19 +319,14 @@
 			"slug":"edge-of-tomorrow"
 		},
 		{
+			"title":"Kingsglaive: Final Fantasy XV",
+			"gatsby_image_path":"..\/..\/images\/kingsglaive-final-fantasy-xv.jpg",
+			"slug":"kingsglaive-final-fantasy-xv"
+		},
+		{
 			"title":"The Mortuary Collection",
 			"gatsby_image_path":"..\/..\/images\/the-mortuary-collection.jpg",
 			"slug":"the-mortuary-collection"
-		},
-		{
-			"title":"Jumanji: Welcome to the Jungle",
-			"gatsby_image_path":"..\/..\/images\/jumanji-welcome-to-the-jungle.jpg",
-			"slug":"jumanji-welcome-to-the-jungle"
-		},
-		{
-			"title":"Justice League",
-			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
-			"slug":"justice-league"
 		},
 		{
 			"title":"Ashfall",
@@ -329,14 +334,14 @@
 			"slug":"ashfall"
 		},
 		{
-			"title":"Descendants 3",
-			"gatsby_image_path":"..\/..\/images\/descendants-3.jpg",
-			"slug":"descendants-3"
+			"title":"Justice League",
+			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
+			"slug":"justice-league"
 		},
 		{
-			"title":"A Christmas Carol",
-			"gatsby_image_path":"..\/..\/images\/a-christmas-carol.jpg",
-			"slug":"a-christmas-carol"
+			"title":"Jumanji: Welcome to the Jungle",
+			"gatsby_image_path":"..\/..\/images\/jumanji-welcome-to-the-jungle.jpg",
+			"slug":"jumanji-welcome-to-the-jungle"
 		},
 		{
 			"title":"Jungle Cruise",
@@ -344,14 +349,9 @@
 			"slug":"jungle-cruise"
 		},
 		{
-			"title":"Astro Boy",
-			"gatsby_image_path":"..\/..\/images\/astro-boy.jpg",
-			"slug":"astro-boy"
-		},
-		{
-			"title":"Justice League vs. Teen Titans",
-			"gatsby_image_path":"..\/..\/images\/justice-league-vs.-teen-titans.jpg",
-			"slug":"justice-league-vs.-teen-titans"
+			"title":"A Christmas Carol",
+			"gatsby_image_path":"..\/..\/images\/a-christmas-carol.jpg",
+			"slug":"a-christmas-carol"
 		}
 	],
 	"related_by_overview":[

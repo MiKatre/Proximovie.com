@@ -273,6 +273,11 @@
 			"slug":"scary-movie-3"
 		},
 		{
+			"title":"Earwig and the Witch",
+			"gatsby_image_path":"..\/..\/images\/earwig-and-the-witch.jpg",
+			"slug":"earwig-and-the-witch"
+		},
+		{
 			"title":"We Can Be Heroes",
 			"gatsby_image_path":"..\/..\/images\/we-can-be-heroes.jpg",
 			"slug":"we-can-be-heroes"
@@ -308,9 +313,9 @@
 			"slug":"the-lovebirds"
 		},
 		{
-			"title":"War of Likes",
-			"gatsby_image_path":"..\/..\/images\/war-of-likes.jpg",
-			"slug":"war-of-likes"
+			"title":"Death Race 2",
+			"gatsby_image_path":"..\/..\/images\/death-race-2.jpg",
+			"slug":"death-race-2"
 		},
 		{
 			"title":"Night at the Museum: Secret of the Tomb",
@@ -318,9 +323,14 @@
 			"slug":"night-at-the-museum-secret-of-the-tomb"
 		},
 		{
-			"title":"Jingle Jangle: A Christmas Journey",
-			"gatsby_image_path":"..\/..\/images\/jingle-jangle-a-christmas-journey.jpg",
-			"slug":"jingle-jangle-a-christmas-journey"
+			"title":"War of Likes",
+			"gatsby_image_path":"..\/..\/images\/war-of-likes.jpg",
+			"slug":"war-of-likes"
+		},
+		{
+			"title":"Bright: Samurai Soul",
+			"gatsby_image_path":"..\/..\/images\/bright-samurai-soul.jpg",
+			"slug":"bright-samurai-soul"
 		},
 		{
 			"title":"Top Gun",
@@ -328,24 +338,14 @@
 			"slug":"top-gun"
 		},
 		{
+			"title":"Jingle Jangle: A Christmas Journey",
+			"gatsby_image_path":"..\/..\/images\/jingle-jangle-a-christmas-journey.jpg",
+			"slug":"jingle-jangle-a-christmas-journey"
+		},
+		{
 			"title":"Sweet & Sour",
 			"gatsby_image_path":"..\/..\/images\/sweet-sour.jpg",
 			"slug":"sweet-sour"
-		},
-		{
-			"title":"Jumanji: Welcome to the Jungle",
-			"gatsby_image_path":"..\/..\/images\/jumanji-welcome-to-the-jungle.jpg",
-			"slug":"jumanji-welcome-to-the-jungle"
-		},
-		{
-			"title":"Roald Dahl's The Witches",
-			"gatsby_image_path":"..\/..\/images\/roald-dahl-s-the-witches.jpg",
-			"slug":"roald-dahl-s-the-witches"
-		},
-		{
-			"title":"Harry Potter and the Goblet of Fire",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
-			"slug":"harry-potter-and-the-goblet-of-fire"
 		},
 		{
 			"title":"Knives Out",
@@ -353,9 +353,9 @@
 			"slug":"knives-out"
 		},
 		{
-			"title":"The Mortuary Collection",
-			"gatsby_image_path":"..\/..\/images\/the-mortuary-collection.jpg",
-			"slug":"the-mortuary-collection"
+			"title":"Harry Potter and the Goblet of Fire",
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
+			"slug":"harry-potter-and-the-goblet-of-fire"
 		}
 	],
 	"related_by_overview":[

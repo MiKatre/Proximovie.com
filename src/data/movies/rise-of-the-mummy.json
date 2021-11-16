@@ -263,14 +263,14 @@
 			"slug":"la-leyenda-del-diamante"
 		},
 		{
-			"title":"Harry Potter and the Deathly Hallows: Part 1",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-deathly-hallows-part-1.jpg",
-			"slug":"harry-potter-and-the-deathly-hallows-part-1"
-		},
-		{
 			"title":"Paranormal Activity: The Marked Ones",
 			"gatsby_image_path":"..\/..\/images\/paranormal-activity-the-marked-ones.jpg",
 			"slug":"paranormal-activity-the-marked-ones"
+		},
+		{
+			"title":"Harry Potter and the Deathly Hallows: Part 1",
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-deathly-hallows-part-1.jpg",
+			"slug":"harry-potter-and-the-deathly-hallows-part-1"
 		},
 		{
 			"title":"The Purge",
@@ -278,19 +278,9 @@
 			"slug":"the-purge"
 		},
 		{
-			"title":"Pan's Labyrinth",
-			"gatsby_image_path":"..\/..\/images\/pan-s-labyrinth.jpg",
-			"slug":"pan-s-labyrinth"
-		},
-		{
-			"title":"Death Note",
-			"gatsby_image_path":"..\/..\/images\/death-note.jpg",
-			"slug":"death-note"
-		},
-		{
-			"title":"Between Worlds",
-			"gatsby_image_path":"..\/..\/images\/between-worlds.jpg",
-			"slug":"between-worlds"
+			"title":"The Scorpion King 3: Battle for Redemption",
+			"gatsby_image_path":"..\/..\/images\/the-scorpion-king-3-battle-for-redemption.jpg",
+			"slug":"the-scorpion-king-3-battle-for-redemption"
 		},
 		{
 			"title":"King Arthur: Legend of the Sword",
@@ -298,19 +288,29 @@
 			"slug":"king-arthur-legend-of-the-sword"
 		},
 		{
+			"title":"Pan's Labyrinth",
+			"gatsby_image_path":"..\/..\/images\/pan-s-labyrinth.jpg",
+			"slug":"pan-s-labyrinth"
+		},
+		{
+			"title":"Between Worlds",
+			"gatsby_image_path":"..\/..\/images\/between-worlds.jpg",
+			"slug":"between-worlds"
+		},
+		{
 			"title":"War Room",
 			"gatsby_image_path":"..\/..\/images\/war-room.jpg",
 			"slug":"war-room"
 		},
 		{
-			"title":"Suicide Squad",
-			"gatsby_image_path":"..\/..\/images\/suicide-squad.jpg",
-			"slug":"suicide-squad"
+			"title":"Justin Bieber: Our World",
+			"gatsby_image_path":"..\/..\/images\/justin-bieber-our-world.jpg",
+			"slug":"justin-bieber-our-world"
 		},
 		{
-			"title":"Bram Stoker's Dracula",
-			"gatsby_image_path":"..\/..\/images\/bram-stoker-s-dracula.jpg",
-			"slug":"bram-stoker-s-dracula"
+			"title":"The Lone Ranger",
+			"gatsby_image_path":"..\/..\/images\/the-lone-ranger.jpg",
+			"slug":"the-lone-ranger"
 		},
 		{
 			"title":"The World to Come",
@@ -323,14 +323,14 @@
 			"slug":"se7en"
 		},
 		{
+			"title":"Bram Stoker's Dracula",
+			"gatsby_image_path":"..\/..\/images\/bram-stoker-s-dracula.jpg",
+			"slug":"bram-stoker-s-dracula"
+		},
+		{
 			"title":"Psycho Goreman",
 			"gatsby_image_path":"..\/..\/images\/psycho-goreman.jpg",
 			"slug":"psycho-goreman"
-		},
-		{
-			"title":"Predator",
-			"gatsby_image_path":"..\/..\/images\/predator.jpg",
-			"slug":"predator"
 		},
 		{
 			"title":"The Girls Of The Copacabana",
@@ -338,9 +338,9 @@
 			"slug":"the-girls-of-the-copacabana"
 		},
 		{
-			"title":"Blue Miracle",
-			"gatsby_image_path":"..\/..\/images\/blue-miracle.jpg",
-			"slug":"blue-miracle"
+			"title":"Predator",
+			"gatsby_image_path":"..\/..\/images\/predator.jpg",
+			"slug":"predator"
 		}
 	],
 	"related_by_overview":[

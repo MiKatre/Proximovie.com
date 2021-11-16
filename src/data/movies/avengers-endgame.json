@@ -284,14 +284,14 @@
 			"slug":"dark-phoenix"
 		},
 		{
-			"title":"Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
-			"gatsby_image_path":"..\/..\/images\/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train.jpg",
-			"slug":"demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train"
-		},
-		{
 			"title":"Adventures of Aladdin",
 			"gatsby_image_path":"..\/..\/images\/adventures-of-aladdin.jpg",
 			"slug":"adventures-of-aladdin"
+		},
+		{
+			"title":"Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
+			"gatsby_image_path":"..\/..\/images\/demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train.jpg",
+			"slug":"demon-slayer-kimetsu-no-yaiba-the-movie-mugen-train"
 		},
 		{
 			"title":"Stray",
@@ -299,14 +299,14 @@
 			"slug":"stray"
 		},
 		{
+			"title":"Earwig and the Witch",
+			"gatsby_image_path":"..\/..\/images\/earwig-and-the-witch.jpg",
+			"slug":"earwig-and-the-witch"
+		},
+		{
 			"title":"Star Wars: The Rise of Skywalker",
 			"gatsby_image_path":"..\/..\/images\/star-wars-the-rise-of-skywalker.jpg",
 			"slug":"star-wars-the-rise-of-skywalker"
-		},
-		{
-			"title":"The Lego Movie 2: The Second Part",
-			"gatsby_image_path":"..\/..\/images\/the-lego-movie-2-the-second-part.jpg",
-			"slug":"the-lego-movie-2-the-second-part"
 		},
 		{
 			"title":"Final Destination 2",
@@ -314,14 +314,14 @@
 			"slug":"final-destination-2"
 		},
 		{
+			"title":"The Lego Movie 2: The Second Part",
+			"gatsby_image_path":"..\/..\/images\/the-lego-movie-2-the-second-part.jpg",
+			"slug":"the-lego-movie-2-the-second-part"
+		},
+		{
 			"title":"Ellipse",
 			"gatsby_image_path":"..\/..\/images\/ellipse.jpg",
 			"slug":"ellipse"
-		},
-		{
-			"title":"Iron Man",
-			"gatsby_image_path":"..\/..\/images\/iron-man.jpg",
-			"slug":"iron-man"
 		},
 		{
 			"title":"Shang-Chi and the Legend of the Ten Rings",
@@ -329,9 +329,19 @@
 			"slug":"shang-chi-and-the-legend-of-the-ten-rings"
 		},
 		{
+			"title":"Iron Man",
+			"gatsby_image_path":"..\/..\/images\/iron-man.jpg",
+			"slug":"iron-man"
+		},
+		{
 			"title":"Guardians of the Galaxy",
 			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy.jpg",
 			"slug":"guardians-of-the-galaxy"
+		},
+		{
+			"title":"Star Wars: Episode III - Revenge of the Sith",
+			"gatsby_image_path":"..\/..\/images\/star-wars-episode-iii-revenge-of-the-sith.jpg",
+			"slug":"star-wars-episode-iii-revenge-of-the-sith"
 		},
 		{
 			"title":"Hunter x Hunter: The Last Mission",
@@ -342,16 +352,6 @@
 			"title":"Werewolves Within",
 			"gatsby_image_path":"..\/..\/images\/werewolves-within.jpg",
 			"slug":"werewolves-within"
-		},
-		{
-			"title":"Ready Player One",
-			"gatsby_image_path":"..\/..\/images\/ready-player-one.jpg",
-			"slug":"ready-player-one"
-		},
-		{
-			"title":"Psycho Goreman",
-			"gatsby_image_path":"..\/..\/images\/psycho-goreman.jpg",
-			"slug":"psycho-goreman"
 		}
 	],
 	"related_by_overview":[

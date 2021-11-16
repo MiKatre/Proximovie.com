@@ -246,6 +246,11 @@
 			"slug":"avengers-infinity-war"
 		},
 		{
+			"title":"Earwig and the Witch",
+			"gatsby_image_path":"..\/..\/images\/earwig-and-the-witch.jpg",
+			"slug":"earwig-and-the-witch"
+		},
+		{
 			"title":"Hunter x Hunter: The Last Mission",
 			"gatsby_image_path":"..\/..\/images\/hunter-x-hunter-the-last-mission.jpg",
 			"slug":"hunter-x-hunter-the-last-mission"
@@ -254,6 +259,16 @@
 			"title":"Avengers: Endgame",
 			"gatsby_image_path":"..\/..\/images\/avengers-endgame.jpg",
 			"slug":"avengers-endgame"
+		},
+		{
+			"title":"Resident Evil: Welcome to Raccoon City",
+			"gatsby_image_path":"..\/..\/images\/resident-evil-welcome-to-raccoon-city.jpg",
+			"slug":"resident-evil-welcome-to-raccoon-city"
+		},
+		{
+			"title":"Night at the Museum: Secret of the Tomb",
+			"gatsby_image_path":"..\/..\/images\/night-at-the-museum-secret-of-the-tomb.jpg",
+			"slug":"night-at-the-museum-secret-of-the-tomb"
 		},
 		{
 			"title":"Skyscraper",
@@ -271,14 +286,19 @@
 			"slug":"trollhunters-rise-of-the-titans"
 		},
 		{
-			"title":"Night at the Museum: Secret of the Tomb",
-			"gatsby_image_path":"..\/..\/images\/night-at-the-museum-secret-of-the-tomb.jpg",
-			"slug":"night-at-the-museum-secret-of-the-tomb"
-		},
-		{
 			"title":"The Mummy Returns",
 			"gatsby_image_path":"..\/..\/images\/the-mummy-returns.jpg",
 			"slug":"the-mummy-returns"
+		},
+		{
+			"title":"Conan the Barbarian",
+			"gatsby_image_path":"..\/..\/images\/conan-the-barbarian.jpg",
+			"slug":"conan-the-barbarian"
+		},
+		{
+			"title":"Bright: Samurai Soul",
+			"gatsby_image_path":"..\/..\/images\/bright-samurai-soul.jpg",
+			"slug":"bright-samurai-soul"
 		},
 		{
 			"title":"The Seventh Day",
@@ -311,34 +331,14 @@
 			"slug":"guardians-of-the-galaxy"
 		},
 		{
-			"title":"Shang-Chi and the Legend of the Ten Rings",
-			"gatsby_image_path":"..\/..\/images\/shang-chi-and-the-legend-of-the-ten-rings.jpg",
-			"slug":"shang-chi-and-the-legend-of-the-ten-rings"
-		},
-		{
-			"title":"Alice Through the Looking Glass",
-			"gatsby_image_path":"..\/..\/images\/alice-through-the-looking-glass.jpg",
-			"slug":"alice-through-the-looking-glass"
-		},
-		{
-			"title":"Jingle Jangle: A Christmas Journey",
-			"gatsby_image_path":"..\/..\/images\/jingle-jangle-a-christmas-journey.jpg",
-			"slug":"jingle-jangle-a-christmas-journey"
-		},
-		{
 			"title":"Black Panther",
 			"gatsby_image_path":"..\/..\/images\/black-panther.jpg",
 			"slug":"black-panther"
 		},
 		{
-			"title":"Roald Dahl's The Witches",
-			"gatsby_image_path":"..\/..\/images\/roald-dahl-s-the-witches.jpg",
-			"slug":"roald-dahl-s-the-witches"
-		},
-		{
-			"title":"High School Musical",
-			"gatsby_image_path":"..\/..\/images\/high-school-musical.jpg",
-			"slug":"high-school-musical"
+			"title":"Shang-Chi and the Legend of the Ten Rings",
+			"gatsby_image_path":"..\/..\/images\/shang-chi-and-the-legend-of-the-ten-rings.jpg",
+			"slug":"shang-chi-and-the-legend-of-the-ten-rings"
 		}
 	],
 	"related_by_overview":[

@@ -317,6 +317,11 @@
 			"slug":"the-water-man"
 		},
 		{
+			"title":"Reminiscence",
+			"gatsby_image_path":"..\/..\/images\/reminiscence.jpg",
+			"slug":"reminiscence"
+		},
+		{
 			"title":"Animal World",
 			"gatsby_image_path":"..\/..\/images\/animal-world.jpg",
 			"slug":"animal-world"
@@ -332,16 +337,6 @@
 			"slug":"max-steel"
 		},
 		{
-			"title":"Avengers: Infinity War",
-			"gatsby_image_path":"..\/..\/images\/avengers-infinity-war.jpg",
-			"slug":"avengers-infinity-war"
-		},
-		{
-			"title":"Pokémon the Movie: I Choose You!",
-			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-i-choose-you.jpg",
-			"slug":"pokémon-the-movie-i-choose-you"
-		},
-		{
 			"title":"Iron Man 3",
 			"gatsby_image_path":"..\/..\/images\/iron-man-3.jpg",
 			"slug":"iron-man-3"
@@ -352,9 +347,14 @@
 			"slug":"avengers-endgame"
 		},
 		{
-			"title":"Sacrifice",
-			"gatsby_image_path":"..\/..\/images\/sacrifice.jpg",
-			"slug":"sacrifice"
+			"title":"Pokémon the Movie: I Choose You!",
+			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-i-choose-you.jpg",
+			"slug":"pokémon-the-movie-i-choose-you"
+		},
+		{
+			"title":"Avengers: Infinity War",
+			"gatsby_image_path":"..\/..\/images\/avengers-infinity-war.jpg",
+			"slug":"avengers-infinity-war"
 		}
 	],
 	"related_by_overview":[

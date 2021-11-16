@@ -295,14 +295,14 @@
 			"slug":"in-the-shadow-of-the-moon"
 		},
 		{
-			"title":"Paradise Beach",
-			"gatsby_image_path":"..\/..\/images\/paradise-beach.jpg",
-			"slug":"paradise-beach"
-		},
-		{
 			"title":"How the Grinch Stole Christmas",
 			"gatsby_image_path":"..\/..\/images\/how-the-grinch-stole-christmas.jpg",
 			"slug":"how-the-grinch-stole-christmas"
+		},
+		{
+			"title":"Paradise Beach",
+			"gatsby_image_path":"..\/..\/images\/paradise-beach.jpg",
+			"slug":"paradise-beach"
 		},
 		{
 			"title":"Harry Potter and the Philosopher's Stone",
@@ -310,19 +310,9 @@
 			"slug":"harry-potter-and-the-philosopher-s-stone"
 		},
 		{
-			"title":"Voyagers",
-			"gatsby_image_path":"..\/..\/images\/voyagers.jpg",
-			"slug":"voyagers"
-		},
-		{
 			"title":"The Mitchells vs. the Machines",
 			"gatsby_image_path":"..\/..\/images\/the-mitchells-vs.-the-machines.jpg",
 			"slug":"the-mitchells-vs.-the-machines"
-		},
-		{
-			"title":"A Christmas Carol",
-			"gatsby_image_path":"..\/..\/images\/a-christmas-carol.jpg",
-			"slug":"a-christmas-carol"
 		},
 		{
 			"title":"Superman: Man of Tomorrow",
@@ -330,14 +320,24 @@
 			"slug":"superman-man-of-tomorrow"
 		},
 		{
-			"title":"Bumblebee",
-			"gatsby_image_path":"..\/..\/images\/bumblebee.jpg",
-			"slug":"bumblebee"
+			"title":"Voyagers",
+			"gatsby_image_path":"..\/..\/images\/voyagers.jpg",
+			"slug":"voyagers"
+		},
+		{
+			"title":"A Christmas Carol",
+			"gatsby_image_path":"..\/..\/images\/a-christmas-carol.jpg",
+			"slug":"a-christmas-carol"
 		},
 		{
 			"title":"Finding Nemo",
 			"gatsby_image_path":"..\/..\/images\/finding-nemo.jpg",
 			"slug":"finding-nemo"
+		},
+		{
+			"title":"Bumblebee",
+			"gatsby_image_path":"..\/..\/images\/bumblebee.jpg",
+			"slug":"bumblebee"
 		},
 		{
 			"title":"The Water Man",

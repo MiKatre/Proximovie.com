@@ -290,6 +290,11 @@
 			"slug":"stray"
 		},
 		{
+			"title":"Ghostbusters",
+			"gatsby_image_path":"..\/..\/images\/ghostbusters.jpg",
+			"slug":"ghostbusters"
+		},
+		{
 			"title":"Justice League Dark: Apokolips War",
 			"gatsby_image_path":"..\/..\/images\/justice-league-dark-apokolips-war.jpg",
 			"slug":"justice-league-dark-apokolips-war"
@@ -305,14 +310,14 @@
 			"slug":"back-to-the-future"
 		},
 		{
-			"title":"A Christmas Carol",
-			"gatsby_image_path":"..\/..\/images\/a-christmas-carol.jpg",
-			"slug":"a-christmas-carol"
-		},
-		{
 			"title":"Watchmen",
 			"gatsby_image_path":"..\/..\/images\/watchmen.jpg",
 			"slug":"watchmen"
+		},
+		{
+			"title":"A Christmas Carol",
+			"gatsby_image_path":"..\/..\/images\/a-christmas-carol.jpg",
+			"slug":"a-christmas-carol"
 		},
 		{
 			"title":"Jiu Jitsu",
@@ -325,11 +330,6 @@
 			"slug":"breach"
 		},
 		{
-			"title":"Star Wars: The Rise of Skywalker",
-			"gatsby_image_path":"..\/..\/images\/star-wars-the-rise-of-skywalker.jpg",
-			"slug":"star-wars-the-rise-of-skywalker"
-		},
-		{
 			"title":"Avengers: Endgame",
 			"gatsby_image_path":"..\/..\/images\/avengers-endgame.jpg",
 			"slug":"avengers-endgame"
@@ -340,6 +340,16 @@
 			"slug":"sacrifice"
 		},
 		{
+			"title":"Star Wars: The Rise of Skywalker",
+			"gatsby_image_path":"..\/..\/images\/star-wars-the-rise-of-skywalker.jpg",
+			"slug":"star-wars-the-rise-of-skywalker"
+		},
+		{
+			"title":"Peçanha Contra o Animal",
+			"gatsby_image_path":"..\/..\/images\/peçanha-contra-o-animal.jpg",
+			"slug":"peçanha-contra-o-animal"
+		},
+		{
 			"title":"Madagascar 3: Europe's Most Wanted",
 			"gatsby_image_path":"..\/..\/images\/madagascar-3-europe-s-most-wanted.jpg",
 			"slug":"madagascar-3-europe-s-most-wanted"
@@ -348,16 +358,6 @@
 			"title":"Leprechaun 2",
 			"gatsby_image_path":"..\/..\/images\/leprechaun-2.jpg",
 			"slug":"leprechaun-2"
-		},
-		{
-			"title":"Ellipse",
-			"gatsby_image_path":"..\/..\/images\/ellipse.jpg",
-			"slug":"ellipse"
-		},
-		{
-			"title":"Cinderella III: A Twist in Time",
-			"gatsby_image_path":"..\/..\/images\/cinderella-iii-a-twist-in-time.jpg",
-			"slug":"cinderella-iii-a-twist-in-time"
 		}
 	],
 	"related_by_overview":[

@@ -294,9 +294,24 @@
 			"slug":"barbie-fairytopia-mermaidia"
 		},
 		{
+			"title":"Muppets Haunted Mansion",
+			"gatsby_image_path":"..\/..\/images\/muppets-haunted-mansion.jpg",
+			"slug":"muppets-haunted-mansion"
+		},
+		{
+			"title":"Alice in Wonderland",
+			"gatsby_image_path":"..\/..\/images\/alice-in-wonderland.jpg",
+			"slug":"alice-in-wonderland"
+		},
+		{
 			"title":"The Croods: A New Age",
 			"gatsby_image_path":"..\/..\/images\/the-croods-a-new-age.jpg",
 			"slug":"the-croods-a-new-age"
+		},
+		{
+			"title":"The Jungle Book",
+			"gatsby_image_path":"..\/..\/images\/the-jungle-book.jpg",
+			"slug":"the-jungle-book"
 		},
 		{
 			"title":"Toy Story 2",
@@ -304,14 +319,14 @@
 			"slug":"toy-story-2"
 		},
 		{
-			"title":"The SpongeBob SquarePants Movie",
-			"gatsby_image_path":"..\/..\/images\/the-spongebob-squarepants-movie.jpg",
-			"slug":"the-spongebob-squarepants-movie"
-		},
-		{
 			"title":"Incredibles 2",
 			"gatsby_image_path":"..\/..\/images\/incredibles-2.jpg",
 			"slug":"incredibles-2"
+		},
+		{
+			"title":"The SpongeBob SquarePants Movie",
+			"gatsby_image_path":"..\/..\/images\/the-spongebob-squarepants-movie.jpg",
+			"slug":"the-spongebob-squarepants-movie"
 		},
 		{
 			"title":"Steven Universe: The Movie",
@@ -319,14 +334,14 @@
 			"slug":"steven-universe-the-movie"
 		},
 		{
+			"title":"Peçanha Contra o Animal",
+			"gatsby_image_path":"..\/..\/images\/peçanha-contra-o-animal.jpg",
+			"slug":"peçanha-contra-o-animal"
+		},
+		{
 			"title":"Toy Story",
 			"gatsby_image_path":"..\/..\/images\/toy-story.jpg",
 			"slug":"toy-story"
-		},
-		{
-			"title":"Dragon Ball Z: Cooler's Revenge",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-cooler-s-revenge.jpg",
-			"slug":"dragon-ball-z-cooler-s-revenge"
 		},
 		{
 			"title":"Spies in Disguise",
@@ -334,24 +349,9 @@
 			"slug":"spies-in-disguise"
 		},
 		{
-			"title":"Cinderella II: Dreams Come True",
-			"gatsby_image_path":"..\/..\/images\/cinderella-ii-dreams-come-true.jpg",
-			"slug":"cinderella-ii-dreams-come-true"
-		},
-		{
-			"title":"Doraemon: Nobita and the Windmasters",
-			"gatsby_image_path":"..\/..\/images\/doraemon-nobita-and-the-windmasters.jpg",
-			"slug":"doraemon-nobita-and-the-windmasters"
-		},
-		{
-			"title":"Epic",
-			"gatsby_image_path":"..\/..\/images\/epic.jpg",
-			"slug":"epic"
-		},
-		{
-			"title":"Inside Out",
-			"gatsby_image_path":"..\/..\/images\/inside-out.jpg",
-			"slug":"inside-out"
+			"title":"Dragon Ball Z: Cooler's Revenge",
+			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-cooler-s-revenge.jpg",
+			"slug":"dragon-ball-z-cooler-s-revenge"
 		}
 	],
 	"related_by_overview":[

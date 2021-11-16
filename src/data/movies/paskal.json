@@ -239,6 +239,11 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"Spectral",
+			"gatsby_image_path":"..\/..\/images\/spectral.jpg",
+			"slug":"spectral"
+		},
+		{
 			"title":"Pirates of the Caribbean: Dead Men Tell No Tales",
 			"gatsby_image_path":"..\/..\/images\/pirates-of-the-caribbean-dead-men-tell-no-tales.jpg",
 			"slug":"pirates-of-the-caribbean-dead-men-tell-no-tales"
@@ -284,9 +289,9 @@
 			"slug":"edge-of-tomorrow"
 		},
 		{
-			"title":"The Tomorrow War",
-			"gatsby_image_path":"..\/..\/images\/the-tomorrow-war.jpg",
-			"slug":"the-tomorrow-war"
+			"title":"Shoot 'Em Up",
+			"gatsby_image_path":"..\/..\/images\/shoot--em-up.jpg",
+			"slug":"shoot--em-up"
 		},
 		{
 			"title":"Leal",
@@ -294,14 +299,29 @@
 			"slug":"leal"
 		},
 		{
+			"title":"The Tomorrow War",
+			"gatsby_image_path":"..\/..\/images\/the-tomorrow-war.jpg",
+			"slug":"the-tomorrow-war"
+		},
+		{
 			"title":"Outside the Wire",
 			"gatsby_image_path":"..\/..\/images\/outside-the-wire.jpg",
 			"slug":"outside-the-wire"
 		},
 		{
+			"title":"Outcast",
+			"gatsby_image_path":"..\/..\/images\/outcast.jpg",
+			"slug":"outcast"
+		},
+		{
 			"title":"The World to Come",
 			"gatsby_image_path":"..\/..\/images\/the-world-to-come.jpg",
 			"slug":"the-world-to-come"
+		},
+		{
+			"title":"Peçanha Contra o Animal",
+			"gatsby_image_path":"..\/..\/images\/peçanha-contra-o-animal.jpg",
+			"slug":"peçanha-contra-o-animal"
 		},
 		{
 			"title":"Iron Mask",
@@ -317,26 +337,6 @@
 			"title":"12 Strong",
 			"gatsby_image_path":"..\/..\/images\/12-strong.jpg",
 			"slug":"12-strong"
-		},
-		{
-			"title":"Kingsglaive: Final Fantasy XV",
-			"gatsby_image_path":"..\/..\/images\/kingsglaive-final-fantasy-xv.jpg",
-			"slug":"kingsglaive-final-fantasy-xv"
-		},
-		{
-			"title":"Sucker Punch",
-			"gatsby_image_path":"..\/..\/images\/sucker-punch.jpg",
-			"slug":"sucker-punch"
-		},
-		{
-			"title":"Power Rangers",
-			"gatsby_image_path":"..\/..\/images\/power-rangers.jpg",
-			"slug":"power-rangers"
-		},
-		{
-			"title":"G.I. Joe: The Rise of Cobra",
-			"gatsby_image_path":"..\/..\/images\/g.i.-joe-the-rise-of-cobra.jpg",
-			"slug":"g.i.-joe-the-rise-of-cobra"
 		}
 	],
 	"related_by_overview":[

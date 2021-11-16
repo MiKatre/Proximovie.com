@@ -272,6 +272,11 @@
 			"slug":"no-sudden-move"
 		},
 		{
+			"title":"Prey",
+			"gatsby_image_path":"..\/..\/images\/prey.jpg",
+			"slug":"prey"
+		},
+		{
 			"title":"Fifty Shades of Grey",
 			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
 			"slug":"fifty-shades-of-grey"
@@ -287,14 +292,14 @@
 			"slug":"the-hangover-part-iii"
 		},
 		{
-			"title":"Deadly Illusions",
-			"gatsby_image_path":"..\/..\/images\/deadly-illusions.jpg",
-			"slug":"deadly-illusions"
-		},
-		{
 			"title":"Blood Diamond",
 			"gatsby_image_path":"..\/..\/images\/blood-diamond.jpg",
 			"slug":"blood-diamond"
+		},
+		{
+			"title":"Deadly Illusions",
+			"gatsby_image_path":"..\/..\/images\/deadly-illusions.jpg",
+			"slug":"deadly-illusions"
 		},
 		{
 			"title":"Corpus Christi",
@@ -317,19 +322,14 @@
 			"slug":"a-private-war"
 		},
 		{
-			"title":"How to Be a Latin Lover",
-			"gatsby_image_path":"..\/..\/images\/how-to-be-a-latin-lover.jpg",
-			"slug":"how-to-be-a-latin-lover"
+			"title":"The Harder They Fall",
+			"gatsby_image_path":"..\/..\/images\/the-harder-they-fall.jpg",
+			"slug":"the-harder-they-fall"
 		},
 		{
 			"title":"Blue Miracle",
 			"gatsby_image_path":"..\/..\/images\/blue-miracle.jpg",
 			"slug":"blue-miracle"
-		},
-		{
-			"title":"Siberia",
-			"gatsby_image_path":"..\/..\/images\/siberia.jpg",
-			"slug":"siberia"
 		},
 		{
 			"title":"Girl in the Basement",
@@ -342,29 +342,29 @@
 			"slug":"harry-potter-and-the-prisoner-of-azkaban"
 		},
 		{
+			"title":"Siberia",
+			"gatsby_image_path":"..\/..\/images\/siberia.jpg",
+			"slug":"siberia"
+		},
+		{
+			"title":"The Monuments Men",
+			"gatsby_image_path":"..\/..\/images\/the-monuments-men.jpg",
+			"slug":"the-monuments-men"
+		},
+		{
+			"title":"How to Be a Latin Lover",
+			"gatsby_image_path":"..\/..\/images\/how-to-be-a-latin-lover.jpg",
+			"slug":"how-to-be-a-latin-lover"
+		},
+		{
 			"title":"Dark Phoenix",
 			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
 			"slug":"dark-phoenix"
 		},
 		{
-			"title":"Valley Girl",
-			"gatsby_image_path":"..\/..\/images\/valley-girl.jpg",
-			"slug":"valley-girl"
-		},
-		{
 			"title":"The Twilight Saga: Breaking Dawn - Part 2",
 			"gatsby_image_path":"..\/..\/images\/the-twilight-saga-breaking-dawn-part-2.jpg",
 			"slug":"the-twilight-saga-breaking-dawn-part-2"
-		},
-		{
-			"title":"Addams Family Values",
-			"gatsby_image_path":"..\/..\/images\/addams-family-values.jpg",
-			"slug":"addams-family-values"
-		},
-		{
-			"title":"Don't Breathe 2",
-			"gatsby_image_path":"..\/..\/images\/don-t-breathe-2.jpg",
-			"slug":"don-t-breathe-2"
 		}
 	],
 	"related_by_overview":[

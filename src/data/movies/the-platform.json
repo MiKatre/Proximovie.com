@@ -264,14 +264,14 @@
 			"slug":"dark-web-cicada-3301"
 		},
 		{
-			"title":"Lights Out",
-			"gatsby_image_path":"..\/..\/images\/lights-out.jpg",
-			"slug":"lights-out"
-		},
-		{
 			"title":"Fantasia",
 			"gatsby_image_path":"..\/..\/images\/fantasia.jpg",
 			"slug":"fantasia"
+		},
+		{
+			"title":"Lights Out",
+			"gatsby_image_path":"..\/..\/images\/lights-out.jpg",
+			"slug":"lights-out"
 		},
 		{
 			"title":"The Empty Man",
@@ -304,9 +304,19 @@
 			"slug":"independence-day"
 		},
 		{
+			"title":"Scott Pilgrim vs. the World",
+			"gatsby_image_path":"..\/..\/images\/scott-pilgrim-vs.-the-world.jpg",
+			"slug":"scott-pilgrim-vs.-the-world"
+		},
+		{
 			"title":"Iron Man",
 			"gatsby_image_path":"..\/..\/images\/iron-man.jpg",
 			"slug":"iron-man"
+		},
+		{
+			"title":"The Deep House",
+			"gatsby_image_path":"..\/..\/images\/the-deep-house.jpg",
+			"slug":"the-deep-house"
 		},
 		{
 			"title":"Max Steel",
@@ -314,14 +324,14 @@
 			"slug":"max-steel"
 		},
 		{
-			"title":"Spiral: From the Book of Saw",
-			"gatsby_image_path":"..\/..\/images\/spiral-from-the-book-of-saw.jpg",
-			"slug":"spiral-from-the-book-of-saw"
-		},
-		{
 			"title":"The Exorcist",
 			"gatsby_image_path":"..\/..\/images\/the-exorcist.jpg",
 			"slug":"the-exorcist"
+		},
+		{
+			"title":"Spiral: From the Book of Saw",
+			"gatsby_image_path":"..\/..\/images\/spiral-from-the-book-of-saw.jpg",
+			"slug":"spiral-from-the-book-of-saw"
 		},
 		{
 			"title":"Crawl",
@@ -329,14 +339,14 @@
 			"slug":"crawl"
 		},
 		{
-			"title":"Great White",
-			"gatsby_image_path":"..\/..\/images\/great-white.jpg",
-			"slug":"great-white"
-		},
-		{
 			"title":"Ellipse",
 			"gatsby_image_path":"..\/..\/images\/ellipse.jpg",
 			"slug":"ellipse"
+		},
+		{
+			"title":"Independence Daysaster",
+			"gatsby_image_path":"..\/..\/images\/independence-daysaster.jpg",
+			"slug":"independence-daysaster"
 		},
 		{
 			"title":"Alpha",
@@ -344,19 +354,9 @@
 			"slug":"alpha"
 		},
 		{
-			"title":"Guardians of the Galaxy",
-			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy.jpg",
-			"slug":"guardians-of-the-galaxy"
-		},
-		{
-			"title":"Underworld",
-			"gatsby_image_path":"..\/..\/images\/underworld.jpg",
-			"slug":"underworld"
-		},
-		{
-			"title":"Dial 100",
-			"gatsby_image_path":"..\/..\/images\/dial-100.jpg",
-			"slug":"dial-100"
+			"title":"Great White",
+			"gatsby_image_path":"..\/..\/images\/great-white.jpg",
+			"slug":"great-white"
 		}
 	],
 	"related_by_overview":[

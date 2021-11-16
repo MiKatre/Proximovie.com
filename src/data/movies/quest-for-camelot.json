@@ -267,6 +267,11 @@
 			"slug":"midway"
 		},
 		{
+			"title":"Earwig and the Witch",
+			"gatsby_image_path":"..\/..\/images\/earwig-and-the-witch.jpg",
+			"slug":"earwig-and-the-witch"
+		},
+		{
 			"title":"Hoodwinked Too! Hood VS. Evil",
 			"gatsby_image_path":"..\/..\/images\/hoodwinked-too-hood-vs.-evil.jpg",
 			"slug":"hoodwinked-too-hood-vs.-evil"
@@ -282,14 +287,14 @@
 			"slug":"next-avengers-heroes-of-tomorrow"
 		},
 		{
-			"title":"Barbie & Chelsea the Lost Birthday",
-			"gatsby_image_path":"..\/..\/images\/barbie-chelsea-the-lost-birthday.jpg",
-			"slug":"barbie-chelsea-the-lost-birthday"
-		},
-		{
 			"title":"The Croods: A New Age",
 			"gatsby_image_path":"..\/..\/images\/the-croods-a-new-age.jpg",
 			"slug":"the-croods-a-new-age"
+		},
+		{
+			"title":"Barbie & Chelsea the Lost Birthday",
+			"gatsby_image_path":"..\/..\/images\/barbie-chelsea-the-lost-birthday.jpg",
+			"slug":"barbie-chelsea-the-lost-birthday"
 		},
 		{
 			"title":"Cloudy with a Chance of Meatballs",
@@ -297,14 +302,14 @@
 			"slug":"cloudy-with-a-chance-of-meatballs"
 		},
 		{
-			"title":"Alvin and the Chipmunks: Chipwrecked",
-			"gatsby_image_path":"..\/..\/images\/alvin-and-the-chipmunks-chipwrecked.jpg",
-			"slug":"alvin-and-the-chipmunks-chipwrecked"
-		},
-		{
 			"title":"Alice in Wonderland",
 			"gatsby_image_path":"..\/..\/images\/alice-in-wonderland.jpg",
 			"slug":"alice-in-wonderland"
+		},
+		{
+			"title":"Alvin and the Chipmunks: Chipwrecked",
+			"gatsby_image_path":"..\/..\/images\/alvin-and-the-chipmunks-chipwrecked.jpg",
+			"slug":"alvin-and-the-chipmunks-chipwrecked"
 		},
 		{
 			"title":"Toy Story That Time Forgot",
@@ -342,19 +347,14 @@
 			"slug":"love-chunibyo-other-delusions-take-on-me"
 		},
 		{
+			"title":"Paradise Beach",
+			"gatsby_image_path":"..\/..\/images\/paradise-beach.jpg",
+			"slug":"paradise-beach"
+		},
+		{
 			"title":"Toy Story",
 			"gatsby_image_path":"..\/..\/images\/toy-story.jpg",
 			"slug":"toy-story"
-		},
-		{
-			"title":"Dragon Ball Z: Super Android 13!",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-super-android-13.jpg",
-			"slug":"dragon-ball-z-super-android-13"
-		},
-		{
-			"title":"PAW Patrol: The Movie",
-			"gatsby_image_path":"..\/..\/images\/paw-patrol-the-movie.jpg",
-			"slug":"paw-patrol-the-movie"
 		}
 	],
 	"related_by_overview":[

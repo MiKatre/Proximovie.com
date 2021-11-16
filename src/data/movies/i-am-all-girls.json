@@ -255,6 +255,11 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"Tiffany + Chucky",
+			"gatsby_image_path":"..\/..\/images\/tiffany-chucky.jpg",
+			"slug":"tiffany-chucky"
+		},
+		{
 			"title":"Rogue One: A Star Wars Story",
 			"gatsby_image_path":"..\/..\/images\/rogue-one-a-star-wars-story.jpg",
 			"slug":"rogue-one-a-star-wars-story"
@@ -270,14 +275,14 @@
 			"slug":"code-8"
 		},
 		{
-			"title":"Dragon Ball Z: The History of Trunks",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-the-history-of-trunks.jpg",
-			"slug":"dragon-ball-z-the-history-of-trunks"
-		},
-		{
 			"title":"The Bouncer",
 			"gatsby_image_path":"..\/..\/images\/the-bouncer.jpg",
 			"slug":"the-bouncer"
+		},
+		{
+			"title":"Dragon Ball Z: The History of Trunks",
+			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-the-history-of-trunks.jpg",
+			"slug":"dragon-ball-z-the-history-of-trunks"
 		},
 		{
 			"title":"Fifty Shades of Grey",
@@ -310,14 +315,24 @@
 			"slug":"once-upon-a-time-in-hollywood"
 		},
 		{
+			"title":"The Protégé",
+			"gatsby_image_path":"..\/..\/images\/the-protégé.jpg",
+			"slug":"the-protégé"
+		},
+		{
+			"title":"8 Mile",
+			"gatsby_image_path":"..\/..\/images\/8-mile.jpg",
+			"slug":"8-mile"
+		},
+		{
+			"title":"Blitz",
+			"gatsby_image_path":"..\/..\/images\/blitz.jpg",
+			"slug":"blitz"
+		},
+		{
 			"title":"The Unfamiliar",
 			"gatsby_image_path":"..\/..\/images\/the-unfamiliar.jpg",
 			"slug":"the-unfamiliar"
-		},
-		{
-			"title":"Iron Mask",
-			"gatsby_image_path":"..\/..\/images\/iron-mask.jpg",
-			"slug":"iron-mask"
 		},
 		{
 			"title":"A Gruta",
@@ -325,34 +340,19 @@
 			"slug":"a-gruta"
 		},
 		{
+			"title":"Iron Mask",
+			"gatsby_image_path":"..\/..\/images\/iron-mask.jpg",
+			"slug":"iron-mask"
+		},
+		{
 			"title":"Resident Evil: Damnation",
 			"gatsby_image_path":"..\/..\/images\/resident-evil-damnation.jpg",
 			"slug":"resident-evil-damnation"
 		},
 		{
-			"title":"Corpus Christi",
-			"gatsby_image_path":"..\/..\/images\/corpus-christi.jpg",
-			"slug":"corpus-christi"
-		},
-		{
 			"title":"Harry Potter and the Prisoner of Azkaban",
 			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-prisoner-of-azkaban.jpg",
 			"slug":"harry-potter-and-the-prisoner-of-azkaban"
-		},
-		{
-			"title":"Men in Black: International",
-			"gatsby_image_path":"..\/..\/images\/men-in-black-international.jpg",
-			"slug":"men-in-black-international"
-		},
-		{
-			"title":"The Huntsman: Winter's War",
-			"gatsby_image_path":"..\/..\/images\/the-huntsman-winter-s-war.jpg",
-			"slug":"the-huntsman-winter-s-war"
-		},
-		{
-			"title":"IO",
-			"gatsby_image_path":"..\/..\/images\/io.jpg",
-			"slug":"io"
 		}
 	],
 	"related_by_overview":[

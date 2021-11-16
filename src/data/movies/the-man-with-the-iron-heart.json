@@ -291,6 +291,11 @@
 			"slug":"sputnik"
 		},
 		{
+			"title":"Star Wars: Episode III - Revenge of the Sith",
+			"gatsby_image_path":"..\/..\/images\/star-wars-episode-iii-revenge-of-the-sith.jpg",
+			"slug":"star-wars-episode-iii-revenge-of-the-sith"
+		},
+		{
 			"title":"In the Shadow of the Moon",
 			"gatsby_image_path":"..\/..\/images\/in-the-shadow-of-the-moon.jpg",
 			"slug":"in-the-shadow-of-the-moon"
@@ -311,14 +316,19 @@
 			"slug":"avatar"
 		},
 		{
+			"title":"Code 8",
+			"gatsby_image_path":"..\/..\/images\/code-8.jpg",
+			"slug":"code-8"
+		},
+		{
 			"title":"Kingsglaive: Final Fantasy XV",
 			"gatsby_image_path":"..\/..\/images\/kingsglaive-final-fantasy-xv.jpg",
 			"slug":"kingsglaive-final-fantasy-xv"
 		},
 		{
-			"title":"Code 8",
-			"gatsby_image_path":"..\/..\/images\/code-8.jpg",
-			"slug":"code-8"
+			"title":"The Lone Ranger",
+			"gatsby_image_path":"..\/..\/images\/the-lone-ranger.jpg",
+			"slug":"the-lone-ranger"
 		},
 		{
 			"title":"Inside Man: Most Wanted",
@@ -326,29 +336,9 @@
 			"slug":"inside-man-most-wanted"
 		},
 		{
-			"title":"Saving Private Ryan",
-			"gatsby_image_path":"..\/..\/images\/saving-private-ryan.jpg",
-			"slug":"saving-private-ryan"
-		},
-		{
-			"title":"The Chronicles of Narnia: Prince Caspian",
-			"gatsby_image_path":"..\/..\/images\/the-chronicles-of-narnia-prince-caspian.jpg",
-			"slug":"the-chronicles-of-narnia-prince-caspian"
-		},
-		{
-			"title":"Fifty Shades of Grey",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
-			"slug":"fifty-shades-of-grey"
-		},
-		{
-			"title":"Clash of the Titans",
-			"gatsby_image_path":"..\/..\/images\/clash-of-the-titans.jpg",
-			"slug":"clash-of-the-titans"
-		},
-		{
-			"title":"Colombiana",
-			"gatsby_image_path":"..\/..\/images\/colombiana.jpg",
-			"slug":"colombiana"
+			"title":"Jonah Hex",
+			"gatsby_image_path":"..\/..\/images\/jonah-hex.jpg",
+			"slug":"jonah-hex"
 		},
 		{
 			"title":"The Unfamiliar",
@@ -361,19 +351,29 @@
 			"slug":"justice-league-gods-and-monsters"
 		},
 		{
-			"title":"Jiu Jitsu",
-			"gatsby_image_path":"..\/..\/images\/jiu-jitsu.jpg",
-			"slug":"jiu-jitsu"
+			"title":"Fifty Shades of Grey",
+			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
+			"slug":"fifty-shades-of-grey"
 		},
 		{
-			"title":"Iron Mask",
-			"gatsby_image_path":"..\/..\/images\/iron-mask.jpg",
-			"slug":"iron-mask"
+			"title":"The Chronicles of Narnia: Prince Caspian",
+			"gatsby_image_path":"..\/..\/images\/the-chronicles-of-narnia-prince-caspian.jpg",
+			"slug":"the-chronicles-of-narnia-prince-caspian"
 		},
 		{
-			"title":"Glass",
-			"gatsby_image_path":"..\/..\/images\/glass.jpg",
-			"slug":"glass"
+			"title":"Clash of the Titans",
+			"gatsby_image_path":"..\/..\/images\/clash-of-the-titans.jpg",
+			"slug":"clash-of-the-titans"
+		},
+		{
+			"title":"Colombiana",
+			"gatsby_image_path":"..\/..\/images\/colombiana.jpg",
+			"slug":"colombiana"
+		},
+		{
+			"title":"Saving Private Ryan",
+			"gatsby_image_path":"..\/..\/images\/saving-private-ryan.jpg",
+			"slug":"saving-private-ryan"
 		}
 	],
 	"related_by_overview":[

@@ -262,14 +262,14 @@
 			"slug":"the-virtuoso"
 		},
 		{
-			"title":"Spies in Disguise",
-			"gatsby_image_path":"..\/..\/images\/spies-in-disguise.jpg",
-			"slug":"spies-in-disguise"
-		},
-		{
 			"title":"Boss Level",
 			"gatsby_image_path":"..\/..\/images\/boss-level.jpg",
 			"slug":"boss-level"
+		},
+		{
+			"title":"Spies in Disguise",
+			"gatsby_image_path":"..\/..\/images\/spies-in-disguise.jpg",
+			"slug":"spies-in-disguise"
 		},
 		{
 			"title":"The Perfect Date",
@@ -282,14 +282,14 @@
 			"slug":"girls-trip"
 		},
 		{
-			"title":"Scary Movie 3",
-			"gatsby_image_path":"..\/..\/images\/scary-movie-3.jpg",
-			"slug":"scary-movie-3"
-		},
-		{
 			"title":"Harry Potter and the Goblet of Fire",
 			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
 			"slug":"harry-potter-and-the-goblet-of-fire"
+		},
+		{
+			"title":"Scary Movie 3",
+			"gatsby_image_path":"..\/..\/images\/scary-movie-3.jpg",
+			"slug":"scary-movie-3"
 		},
 		{
 			"title":"Top Gun",
@@ -297,14 +297,24 @@
 			"slug":"top-gun"
 		},
 		{
+			"title":"The Paperboy",
+			"gatsby_image_path":"..\/..\/images\/the-paperboy.jpg",
+			"slug":"the-paperboy"
+		},
+		{
 			"title":"Harry Potter and the Philosopher's Stone",
 			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher-s-stone.jpg",
 			"slug":"harry-potter-and-the-philosopher-s-stone"
 		},
 		{
-			"title":"Breach",
-			"gatsby_image_path":"..\/..\/images\/breach.jpg",
-			"slug":"breach"
+			"title":"Funny People",
+			"gatsby_image_path":"..\/..\/images\/funny-people.jpg",
+			"slug":"funny-people"
+		},
+		{
+			"title":"Outcast",
+			"gatsby_image_path":"..\/..\/images\/outcast.jpg",
+			"slug":"outcast"
 		},
 		{
 			"title":"Naked Singularity",
@@ -312,14 +322,19 @@
 			"slug":"naked-singularity"
 		},
 		{
+			"title":"Breach",
+			"gatsby_image_path":"..\/..\/images\/breach.jpg",
+			"slug":"breach"
+		},
+		{
+			"title":"Universal Soldier: Regeneration",
+			"gatsby_image_path":"..\/..\/images\/universal-soldier-regeneration.jpg",
+			"slug":"universal-soldier-regeneration"
+		},
+		{
 			"title":"Resident Evil: Damnation",
 			"gatsby_image_path":"..\/..\/images\/resident-evil-damnation.jpg",
 			"slug":"resident-evil-damnation"
-		},
-		{
-			"title":"6 Underground",
-			"gatsby_image_path":"..\/..\/images\/6-underground.jpg",
-			"slug":"6-underground"
 		},
 		{
 			"title":"Blue Miracle",
@@ -327,34 +342,19 @@
 			"slug":"blue-miracle"
 		},
 		{
-			"title":"Harry Potter and the Prisoner of Azkaban",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-prisoner-of-azkaban.jpg",
-			"slug":"harry-potter-and-the-prisoner-of-azkaban"
-		},
-		{
-			"title":"Scary Movie 5",
-			"gatsby_image_path":"..\/..\/images\/scary-movie-5.jpg",
-			"slug":"scary-movie-5"
-		},
-		{
 			"title":"Chemical Hearts",
 			"gatsby_image_path":"..\/..\/images\/chemical-hearts.jpg",
 			"slug":"chemical-hearts"
 		},
 		{
-			"title":"Cranston Academy: Monster Zone",
-			"gatsby_image_path":"..\/..\/images\/cranston-academy-monster-zone.jpg",
-			"slug":"cranston-academy-monster-zone"
+			"title":"Harry Potter and the Prisoner of Azkaban",
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-prisoner-of-azkaban.jpg",
+			"slug":"harry-potter-and-the-prisoner-of-azkaban"
 		},
 		{
-			"title":"Time Freak",
-			"gatsby_image_path":"..\/..\/images\/time-freak.jpg",
-			"slug":"time-freak"
-		},
-		{
-			"title":"Epic",
-			"gatsby_image_path":"..\/..\/images\/epic.jpg",
-			"slug":"epic"
+			"title":"6 Underground",
+			"gatsby_image_path":"..\/..\/images\/6-underground.jpg",
+			"slug":"6-underground"
 		}
 	],
 	"related_by_overview":[

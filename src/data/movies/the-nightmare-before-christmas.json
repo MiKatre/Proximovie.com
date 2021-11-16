@@ -257,6 +257,11 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"Krampus",
+			"gatsby_image_path":"..\/..\/images\/krampus.jpg",
+			"slug":"krampus"
+		},
+		{
 			"title":"Sword Art Online: The Movie - Ordinal Scale",
 			"gatsby_image_path":"..\/..\/images\/sword-art-online-the-movie-ordinal-scale.jpg",
 			"slug":"sword-art-online-the-movie-ordinal-scale"
@@ -282,14 +287,14 @@
 			"slug":"ellipse"
 		},
 		{
+			"title":"Death Note",
+			"gatsby_image_path":"..\/..\/images\/death-note.jpg",
+			"slug":"death-note"
+		},
+		{
 			"title":"Pocahontas",
 			"gatsby_image_path":"..\/..\/images\/pocahontas.jpg",
 			"slug":"pocahontas"
-		},
-		{
-			"title":"The Virtuoso",
-			"gatsby_image_path":"..\/..\/images\/the-virtuoso.jpg",
-			"slug":"the-virtuoso"
 		},
 		{
 			"title":"Final Destination 2",
@@ -297,9 +302,19 @@
 			"slug":"final-destination-2"
 		},
 		{
+			"title":"The Virtuoso",
+			"gatsby_image_path":"..\/..\/images\/the-virtuoso.jpg",
+			"slug":"the-virtuoso"
+		},
+		{
 			"title":"The Craft: Legacy",
 			"gatsby_image_path":"..\/..\/images\/the-craft-legacy.jpg",
 			"slug":"the-craft-legacy"
+		},
+		{
+			"title":"The Perfect Date",
+			"gatsby_image_path":"..\/..\/images\/the-perfect-date.jpg",
+			"slug":"the-perfect-date"
 		},
 		{
 			"title":"Xico's Journey",
@@ -307,24 +322,19 @@
 			"slug":"xico-s-journey"
 		},
 		{
-			"title":"Black Fox",
-			"gatsby_image_path":"..\/..\/images\/black-fox.jpg",
-			"slug":"black-fox"
-		},
-		{
 			"title":"Jupiter Ascending",
 			"gatsby_image_path":"..\/..\/images\/jupiter-ascending.jpg",
 			"slug":"jupiter-ascending"
 		},
 		{
+			"title":"Black Fox",
+			"gatsby_image_path":"..\/..\/images\/black-fox.jpg",
+			"slug":"black-fox"
+		},
+		{
 			"title":"The Simpsons: The Good, the Bart, and the Loki",
 			"gatsby_image_path":"..\/..\/images\/the-simpsons-the-good-the-bart-and-the-loki.jpg",
 			"slug":"the-simpsons-the-good-the-bart-and-the-loki"
-		},
-		{
-			"title":"The Perfect Date",
-			"gatsby_image_path":"..\/..\/images\/the-perfect-date.jpg",
-			"slug":"the-perfect-date"
 		},
 		{
 			"title":"Rascal Does Not Dream of a Dreaming Girl",
@@ -337,24 +347,14 @@
 			"slug":"the-seven-deadly-sins-the-movie-cursed-by-light"
 		},
 		{
-			"title":"John Wick: Chapter 5",
-			"gatsby_image_path":"..\/..\/images\/john-wick-chapter-5.jpg",
-			"slug":"john-wick-chapter-5"
+			"title":"Ghostbusters II",
+			"gatsby_image_path":"..\/..\/images\/ghostbusters-ii.jpg",
+			"slug":"ghostbusters-ii"
 		},
 		{
-			"title":"The Water Man",
-			"gatsby_image_path":"..\/..\/images\/the-water-man.jpg",
-			"slug":"the-water-man"
-		},
-		{
-			"title":"Jiu Jitsu",
-			"gatsby_image_path":"..\/..\/images\/jiu-jitsu.jpg",
-			"slug":"jiu-jitsu"
-		},
-		{
-			"title":"Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion",
-			"gatsby_image_path":"..\/..\/images\/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-arrow-of-the-orion.jpg",
-			"slug":"is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-arrow-of-the-orion"
+			"title":"Tears of the Sun",
+			"gatsby_image_path":"..\/..\/images\/tears-of-the-sun.jpg",
+			"slug":"tears-of-the-sun"
 		}
 	],
 	"related_by_overview":[

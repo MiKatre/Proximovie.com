@@ -275,14 +275,14 @@
 			"slug":"se7en"
 		},
 		{
-			"title":"Star Trek",
-			"gatsby_image_path":"..\/..\/images\/star-trek.jpg",
-			"slug":"star-trek"
-		},
-		{
 			"title":"The Unfamiliar",
 			"gatsby_image_path":"..\/..\/images\/the-unfamiliar.jpg",
 			"slug":"the-unfamiliar"
+		},
+		{
+			"title":"Star Trek",
+			"gatsby_image_path":"..\/..\/images\/star-trek.jpg",
+			"slug":"star-trek"
 		},
 		{
 			"title":"Avatar",
@@ -298,6 +298,11 @@
 			"title":"Don't Let Go",
 			"gatsby_image_path":"..\/..\/images\/don-t-let-go.jpg",
 			"slug":"don-t-let-go"
+		},
+		{
+			"title":"Star Wars: Episode III - Revenge of the Sith",
+			"gatsby_image_path":"..\/..\/images\/star-wars-episode-iii-revenge-of-the-sith.jpg",
+			"slug":"star-wars-episode-iii-revenge-of-the-sith"
 		},
 		{
 			"title":"Cherry",
@@ -320,9 +325,9 @@
 			"slug":"backdraft-2"
 		},
 		{
-			"title":"Rise of the Guardians",
-			"gatsby_image_path":"..\/..\/images\/rise-of-the-guardians.jpg",
-			"slug":"rise-of-the-guardians"
+			"title":"Child's Play",
+			"gatsby_image_path":"..\/..\/images\/child-s-play.jpg",
+			"slug":"child-s-play"
 		},
 		{
 			"title":"Fifty Shades of Grey",
@@ -330,29 +335,24 @@
 			"slug":"fifty-shades-of-grey"
 		},
 		{
+			"title":"Rise of the Guardians",
+			"gatsby_image_path":"..\/..\/images\/rise-of-the-guardians.jpg",
+			"slug":"rise-of-the-guardians"
+		},
+		{
 			"title":"Deadly Illusions",
 			"gatsby_image_path":"..\/..\/images\/deadly-illusions.jpg",
 			"slug":"deadly-illusions"
 		},
 		{
-			"title":"Evil Eye",
-			"gatsby_image_path":"..\/..\/images\/evil-eye.jpg",
-			"slug":"evil-eye"
-		},
-		{
-			"title":"No Sudden Move",
-			"gatsby_image_path":"..\/..\/images\/no-sudden-move.jpg",
-			"slug":"no-sudden-move"
+			"title":"Tiffany + Chucky",
+			"gatsby_image_path":"..\/..\/images\/tiffany-chucky.jpg",
+			"slug":"tiffany-chucky"
 		},
 		{
 			"title":"Greenland",
 			"gatsby_image_path":"..\/..\/images\/greenland.jpg",
 			"slug":"greenland"
-		},
-		{
-			"title":"Annabelle Comes Home",
-			"gatsby_image_path":"..\/..\/images\/annabelle-comes-home.jpg",
-			"slug":"annabelle-comes-home"
 		}
 	],
 	"related_by_overview":[

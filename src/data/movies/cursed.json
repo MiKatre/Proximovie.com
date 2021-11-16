@@ -257,6 +257,11 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"Return of Chucky",
+			"gatsby_image_path":"..\/..\/images\/return-of-chucky.jpg",
+			"slug":"return-of-chucky"
+		},
+		{
 			"title":"Chronicle",
 			"gatsby_image_path":"..\/..\/images\/chronicle.jpg",
 			"slug":"chronicle"
@@ -277,19 +282,24 @@
 			"slug":"paranormal-activity-tokyo-night"
 		},
 		{
-			"title":"Spider-Man: No Way Home",
-			"gatsby_image_path":"..\/..\/images\/spider-man-no-way-home.jpg",
-			"slug":"spider-man-no-way-home"
-		},
-		{
 			"title":"Rosario Tijeras",
 			"gatsby_image_path":"..\/..\/images\/rosario-tijeras.jpg",
 			"slug":"rosario-tijeras"
 		},
 		{
+			"title":"Spider-Man: No Way Home",
+			"gatsby_image_path":"..\/..\/images\/spider-man-no-way-home.jpg",
+			"slug":"spider-man-no-way-home"
+		},
+		{
 			"title":"Breach",
 			"gatsby_image_path":"..\/..\/images\/breach.jpg",
 			"slug":"breach"
+		},
+		{
+			"title":"[REC]",
+			"gatsby_image_path":"..\/..\/images\/rec.jpg",
+			"slug":"rec"
 		},
 		{
 			"title":"Level Sixteen",
@@ -302,14 +312,14 @@
 			"slug":"insidious-the-last-key"
 		},
 		{
-			"title":"Greta",
-			"gatsby_image_path":"..\/..\/images\/greta.jpg",
-			"slug":"greta"
-		},
-		{
 			"title":"The Empty Man",
 			"gatsby_image_path":"..\/..\/images\/the-empty-man.jpg",
 			"slug":"the-empty-man"
+		},
+		{
+			"title":"Greta",
+			"gatsby_image_path":"..\/..\/images\/greta.jpg",
+			"slug":"greta"
 		},
 		{
 			"title":"Voyagers",
@@ -317,14 +327,14 @@
 			"slug":"voyagers"
 		},
 		{
-			"title":"The Terminator",
-			"gatsby_image_path":"..\/..\/images\/the-terminator.jpg",
-			"slug":"the-terminator"
-		},
-		{
 			"title":"The Mule",
 			"gatsby_image_path":"..\/..\/images\/the-mule.jpg",
 			"slug":"the-mule"
+		},
+		{
+			"title":"The Terminator",
+			"gatsby_image_path":"..\/..\/images\/the-terminator.jpg",
+			"slug":"the-terminator"
 		},
 		{
 			"title":"Pocahontas",
@@ -332,29 +342,19 @@
 			"slug":"pocahontas"
 		},
 		{
+			"title":"Anaconda",
+			"gatsby_image_path":"..\/..\/images\/anaconda.jpg",
+			"slug":"anaconda"
+		},
+		{
 			"title":"300",
 			"gatsby_image_path":"..\/..\/images\/300.jpg",
 			"slug":"300"
 		},
 		{
-			"title":"Evangelion: 3.0+1.0 Thrice Upon a Time",
-			"gatsby_image_path":"..\/..\/images\/evangelion-3.0-+1.0-thrice-upon-a-time.jpg",
-			"slug":"evangelion-3.0-+1.0-thrice-upon-a-time"
-		},
-		{
-			"title":"Porno Unplugged",
-			"gatsby_image_path":"..\/..\/images\/porno-unplugged.jpg",
-			"slug":"porno-unplugged"
-		},
-		{
 			"title":"Unbreakable",
 			"gatsby_image_path":"..\/..\/images\/unbreakable.jpg",
 			"slug":"unbreakable"
-		},
-		{
-			"title":"Glass",
-			"gatsby_image_path":"..\/..\/images\/glass.jpg",
-			"slug":"glass"
 		}
 	],
 	"related_by_overview":[

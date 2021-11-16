@@ -265,6 +265,11 @@
 			"slug":"ellipse"
 		},
 		{
+			"title":"A Christmas Carol",
+			"gatsby_image_path":"..\/..\/images\/a-christmas-carol.jpg",
+			"slug":"a-christmas-carol"
+		},
+		{
 			"title":"The Quake",
 			"gatsby_image_path":"..\/..\/images\/the-quake.jpg",
 			"slug":"the-quake"
@@ -273,11 +278,6 @@
 			"title":"The Happening",
 			"gatsby_image_path":"..\/..\/images\/the-happening.jpg",
 			"slug":"the-happening"
-		},
-		{
-			"title":"A Christmas Carol",
-			"gatsby_image_path":"..\/..\/images\/a-christmas-carol.jpg",
-			"slug":"a-christmas-carol"
 		},
 		{
 			"title":"Guardians of the Galaxy",
@@ -295,6 +295,16 @@
 			"slug":"mermaid-down"
 		},
 		{
+			"title":"Anaconda",
+			"gatsby_image_path":"..\/..\/images\/anaconda.jpg",
+			"slug":"anaconda"
+		},
+		{
+			"title":"Death Race 2",
+			"gatsby_image_path":"..\/..\/images\/death-race-2.jpg",
+			"slug":"death-race-2"
+		},
+		{
 			"title":"Justice League vs. Teen Titans",
 			"gatsby_image_path":"..\/..\/images\/justice-league-vs.-teen-titans.jpg",
 			"slug":"justice-league-vs.-teen-titans"
@@ -305,14 +315,14 @@
 			"slug":"the-grinch"
 		},
 		{
-			"title":"Spy Kids 2: The Island of Lost Dreams",
-			"gatsby_image_path":"..\/..\/images\/spy-kids-2-the-island-of-lost-dreams.jpg",
-			"slug":"spy-kids-2-the-island-of-lost-dreams"
-		},
-		{
 			"title":"Godzilla vs. Kong",
 			"gatsby_image_path":"..\/..\/images\/godzilla-vs.-kong.jpg",
 			"slug":"godzilla-vs.-kong"
+		},
+		{
+			"title":"Spy Kids 2: The Island of Lost Dreams",
+			"gatsby_image_path":"..\/..\/images\/spy-kids-2-the-island-of-lost-dreams.jpg",
+			"slug":"spy-kids-2-the-island-of-lost-dreams"
 		},
 		{
 			"title":"Ghostbusters: Afterlife",
@@ -325,9 +335,19 @@
 			"slug":"the-mortuary-collection"
 		},
 		{
-			"title":"Star Wars: The Rise of Skywalker",
-			"gatsby_image_path":"..\/..\/images\/star-wars-the-rise-of-skywalker.jpg",
-			"slug":"star-wars-the-rise-of-skywalker"
+			"title":"Extraction",
+			"gatsby_image_path":"..\/..\/images\/extraction.jpg",
+			"slug":"extraction"
+		},
+		{
+			"title":"Apex",
+			"gatsby_image_path":"..\/..\/images\/apex.jpg",
+			"slug":"apex"
+		},
+		{
+			"title":"Independence Daysaster",
+			"gatsby_image_path":"..\/..\/images\/independence-daysaster.jpg",
+			"slug":"independence-daysaster"
 		},
 		{
 			"title":"Epic",
@@ -335,29 +355,9 @@
 			"slug":"epic"
 		},
 		{
-			"title":"Extraction",
-			"gatsby_image_path":"..\/..\/images\/extraction.jpg",
-			"slug":"extraction"
-		},
-		{
-			"title":"6 Underground",
-			"gatsby_image_path":"..\/..\/images\/6-underground.jpg",
-			"slug":"6-underground"
-		},
-		{
-			"title":"Shang-Chi and the Legend of the Ten Rings",
-			"gatsby_image_path":"..\/..\/images\/shang-chi-and-the-legend-of-the-ten-rings.jpg",
-			"slug":"shang-chi-and-the-legend-of-the-ten-rings"
-		},
-		{
-			"title":"Jingle Jangle: A Christmas Journey",
-			"gatsby_image_path":"..\/..\/images\/jingle-jangle-a-christmas-journey.jpg",
-			"slug":"jingle-jangle-a-christmas-journey"
-		},
-		{
-			"title":"Dragon Ball: Yo! Son Goku and His Friends Return!!",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-yo-son-goku-and-his-friends-return.jpg",
-			"slug":"dragon-ball-yo-son-goku-and-his-friends-return"
+			"title":"Star Wars: The Rise of Skywalker",
+			"gatsby_image_path":"..\/..\/images\/star-wars-the-rise-of-skywalker.jpg",
+			"slug":"star-wars-the-rise-of-skywalker"
 		}
 	],
 	"related_by_overview":[

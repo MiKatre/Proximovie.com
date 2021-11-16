@@ -264,14 +264,14 @@
 			"slug":"given"
 		},
 		{
-			"title":"Ghostbusters: Afterlife",
-			"gatsby_image_path":"..\/..\/images\/ghostbusters-afterlife.jpg",
-			"slug":"ghostbusters-afterlife"
-		},
-		{
 			"title":"Land",
 			"gatsby_image_path":"..\/..\/images\/land.jpg",
 			"slug":"land"
+		},
+		{
+			"title":"Ghostbusters: Afterlife",
+			"gatsby_image_path":"..\/..\/images\/ghostbusters-afterlife.jpg",
+			"slug":"ghostbusters-afterlife"
 		},
 		{
 			"title":"Epic",
@@ -319,6 +319,16 @@
 			"slug":"finding-dory"
 		},
 		{
+			"title":"Apex",
+			"gatsby_image_path":"..\/..\/images\/apex.jpg",
+			"slug":"apex"
+		},
+		{
+			"title":"Bedtime Stories",
+			"gatsby_image_path":"..\/..\/images\/bedtime-stories.jpg",
+			"slug":"bedtime-stories"
+		},
+		{
 			"title":"Harry Potter and the Philosopher's Stone",
 			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher-s-stone.jpg",
 			"slug":"harry-potter-and-the-philosopher-s-stone"
@@ -334,9 +344,9 @@
 			"slug":"6-underground"
 		},
 		{
-			"title":"Mermaid Down",
-			"gatsby_image_path":"..\/..\/images\/mermaid-down.jpg",
-			"slug":"mermaid-down"
+			"title":"The Thing About Harry",
+			"gatsby_image_path":"..\/..\/images\/the-thing-about-harry.jpg",
+			"slug":"the-thing-about-harry"
 		},
 		{
 			"title":"The Last Airbender",
@@ -344,19 +354,9 @@
 			"slug":"the-last-airbender"
 		},
 		{
-			"title":"The Thing About Harry",
-			"gatsby_image_path":"..\/..\/images\/the-thing-about-harry.jpg",
-			"slug":"the-thing-about-harry"
-		},
-		{
-			"title":"Gifted",
-			"gatsby_image_path":"..\/..\/images\/gifted.jpg",
-			"slug":"gifted"
-		},
-		{
-			"title":"Magical Girl Lyrical Nanoha: Detonation",
-			"gatsby_image_path":"..\/..\/images\/magical-girl-lyrical-nanoha-detonation.jpg",
-			"slug":"magical-girl-lyrical-nanoha-detonation"
+			"title":"Mermaid Down",
+			"gatsby_image_path":"..\/..\/images\/mermaid-down.jpg",
+			"slug":"mermaid-down"
 		}
 	],
 	"related_by_overview":[

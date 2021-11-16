@@ -255,9 +255,19 @@
 			"slug":"the-twilight-saga-breaking-dawn-part-2"
 		},
 		{
+			"title":"Twilight",
+			"gatsby_image_path":"..\/..\/images\/twilight.jpg",
+			"slug":"twilight"
+		},
+		{
 			"title":"Chemical Hearts",
 			"gatsby_image_path":"..\/..\/images\/chemical-hearts.jpg",
 			"slug":"chemical-hearts"
+		},
+		{
+			"title":"Polaroid",
+			"gatsby_image_path":"..\/..\/images\/polaroid.jpg",
+			"slug":"polaroid"
 		},
 		{
 			"title":"Greta",
@@ -285,6 +295,11 @@
 			"slug":"insidious-chapter-2"
 		},
 		{
+			"title":"The Four of Us",
+			"gatsby_image_path":"..\/..\/images\/the-four-of-us.jpg",
+			"slug":"the-four-of-us"
+		},
+		{
 			"title":"Jolt",
 			"gatsby_image_path":"..\/..\/images\/jolt.jpg",
 			"slug":"jolt"
@@ -300,14 +315,14 @@
 			"slug":"the-devil-s-advocate"
 		},
 		{
-			"title":"Rich in Love",
-			"gatsby_image_path":"..\/..\/images\/rich-in-love.jpg",
-			"slug":"rich-in-love"
-		},
-		{
 			"title":"Level Sixteen",
 			"gatsby_image_path":"..\/..\/images\/level-sixteen.jpg",
 			"slug":"level-sixteen"
+		},
+		{
+			"title":"Rich in Love",
+			"gatsby_image_path":"..\/..\/images\/rich-in-love.jpg",
+			"slug":"rich-in-love"
 		},
 		{
 			"title":"Bliss",
@@ -323,21 +338,6 @@
 			"title":"The Godfather: Part II",
 			"gatsby_image_path":"..\/..\/images\/the-godfather-part-ii.jpg",
 			"slug":"the-godfather-part-ii"
-		},
-		{
-			"title":"The Mummy Returns",
-			"gatsby_image_path":"..\/..\/images\/the-mummy-returns.jpg",
-			"slug":"the-mummy-returns"
-		},
-		{
-			"title":"The Unfamiliar",
-			"gatsby_image_path":"..\/..\/images\/the-unfamiliar.jpg",
-			"slug":"the-unfamiliar"
-		},
-		{
-			"title":"The Craft: Legacy",
-			"gatsby_image_path":"..\/..\/images\/the-craft-legacy.jpg",
-			"slug":"the-craft-legacy"
 		}
 	],
 	"related_by_overview":[

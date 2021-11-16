@@ -263,14 +263,14 @@
 			"slug":"io"
 		},
 		{
+			"title":"Outcast",
+			"gatsby_image_path":"..\/..\/images\/outcast.jpg",
+			"slug":"outcast"
+		},
+		{
 			"title":"The Tomorrow War",
 			"gatsby_image_path":"..\/..\/images\/the-tomorrow-war.jpg",
 			"slug":"the-tomorrow-war"
-		},
-		{
-			"title":"Iron Man 2",
-			"gatsby_image_path":"..\/..\/images\/iron-man-2.jpg",
-			"slug":"iron-man-2"
 		},
 		{
 			"title":"12 Strong",
@@ -278,9 +278,19 @@
 			"slug":"12-strong"
 		},
 		{
+			"title":"Iron Man 2",
+			"gatsby_image_path":"..\/..\/images\/iron-man-2.jpg",
+			"slug":"iron-man-2"
+		},
+		{
 			"title":"Kingsglaive: Final Fantasy XV",
 			"gatsby_image_path":"..\/..\/images\/kingsglaive-final-fantasy-xv.jpg",
 			"slug":"kingsglaive-final-fantasy-xv"
+		},
+		{
+			"title":"The Harder They Fall",
+			"gatsby_image_path":"..\/..\/images\/the-harder-they-fall.jpg",
+			"slug":"the-harder-they-fall"
 		},
 		{
 			"title":"The First Purge",
@@ -298,14 +308,14 @@
 			"slug":"6-underground"
 		},
 		{
+			"title":"Alpha",
+			"gatsby_image_path":"..\/..\/images\/alpha.jpg",
+			"slug":"alpha"
+		},
+		{
 			"title":"American Renegades",
 			"gatsby_image_path":"..\/..\/images\/american-renegades.jpg",
 			"slug":"american-renegades"
-		},
-		{
-			"title":"Thor: The Dark World",
-			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
-			"slug":"thor-the-dark-world"
 		},
 		{
 			"title":"Spider-Man: Far From Home",
@@ -313,14 +323,9 @@
 			"slug":"spider-man-far-from-home"
 		},
 		{
-			"title":"Alpha",
-			"gatsby_image_path":"..\/..\/images\/alpha.jpg",
-			"slug":"alpha"
-		},
-		{
-			"title":"Resident Evil: Vendetta",
-			"gatsby_image_path":"..\/..\/images\/resident-evil-vendetta.jpg",
-			"slug":"resident-evil-vendetta"
+			"title":"Thor: The Dark World",
+			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
+			"slug":"thor-the-dark-world"
 		},
 		{
 			"title":"Justice League: Gods and Monsters",
@@ -328,14 +333,19 @@
 			"slug":"justice-league-gods-and-monsters"
 		},
 		{
+			"title":"Resident Evil: Vendetta",
+			"gatsby_image_path":"..\/..\/images\/resident-evil-vendetta.jpg",
+			"slug":"resident-evil-vendetta"
+		},
+		{
 			"title":"Pirates of the Caribbean: Dead Men Tell No Tales",
 			"gatsby_image_path":"..\/..\/images\/pirates-of-the-caribbean-dead-men-tell-no-tales.jpg",
 			"slug":"pirates-of-the-caribbean-dead-men-tell-no-tales"
 		},
 		{
-			"title":"Hercules",
-			"gatsby_image_path":"..\/..\/images\/hercules.jpg",
-			"slug":"hercules"
+			"title":"Jujutsu Kaisen 0: The Movie",
+			"gatsby_image_path":"..\/..\/images\/jujutsu-kaisen-0-the-movie.jpg",
+			"slug":"jujutsu-kaisen-0-the-movie"
 		},
 		{
 			"title":"Thor",
@@ -343,19 +353,9 @@
 			"slug":"thor"
 		},
 		{
-			"title":"The Unfamiliar",
-			"gatsby_image_path":"..\/..\/images\/the-unfamiliar.jpg",
-			"slug":"the-unfamiliar"
-		},
-		{
 			"title":"Clash of the Titans",
 			"gatsby_image_path":"..\/..\/images\/clash-of-the-titans.jpg",
 			"slug":"clash-of-the-titans"
-		},
-		{
-			"title":"Jumanji: Welcome to the Jungle",
-			"gatsby_image_path":"..\/..\/images\/jumanji-welcome-to-the-jungle.jpg",
-			"slug":"jumanji-welcome-to-the-jungle"
 		}
 	],
 	"related_by_overview":[

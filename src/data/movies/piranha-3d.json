@@ -268,14 +268,14 @@
 			"slug":"peninsula"
 		},
 		{
+			"title":"The Deep House",
+			"gatsby_image_path":"..\/..\/images\/the-deep-house.jpg",
+			"slug":"the-deep-house"
+		},
+		{
 			"title":"Sacrifice",
 			"gatsby_image_path":"..\/..\/images\/sacrifice.jpg",
 			"slug":"sacrifice"
-		},
-		{
-			"title":"Alpha",
-			"gatsby_image_path":"..\/..\/images\/alpha.jpg",
-			"slug":"alpha"
 		},
 		{
 			"title":"Avatar: Creating the World of Pandora",
@@ -283,9 +283,19 @@
 			"slug":"avatar-creating-the-world-of-pandora"
 		},
 		{
-			"title":"The Vast of Night",
-			"gatsby_image_path":"..\/..\/images\/the-vast-of-night.jpg",
-			"slug":"the-vast-of-night"
+			"title":"Scary Stories to Tell in the Dark",
+			"gatsby_image_path":"..\/..\/images\/scary-stories-to-tell-in-the-dark.jpg",
+			"slug":"scary-stories-to-tell-in-the-dark"
+		},
+		{
+			"title":"Alpha",
+			"gatsby_image_path":"..\/..\/images\/alpha.jpg",
+			"slug":"alpha"
+		},
+		{
+			"title":"Anaconda",
+			"gatsby_image_path":"..\/..\/images\/anaconda.jpg",
+			"slug":"anaconda"
 		},
 		{
 			"title":"Lights Out",
@@ -293,9 +303,19 @@
 			"slug":"lights-out"
 		},
 		{
+			"title":"The Vast of Night",
+			"gatsby_image_path":"..\/..\/images\/the-vast-of-night.jpg",
+			"slug":"the-vast-of-night"
+		},
+		{
 			"title":"Crawl",
 			"gatsby_image_path":"..\/..\/images\/crawl.jpg",
 			"slug":"crawl"
+		},
+		{
+			"title":"Skylines",
+			"gatsby_image_path":"..\/..\/images\/skylines.jpg",
+			"slug":"skylines"
 		},
 		{
 			"title":"2012",
@@ -303,9 +323,14 @@
 			"slug":"2012"
 		},
 		{
-			"title":"Skylines",
-			"gatsby_image_path":"..\/..\/images\/skylines.jpg",
-			"slug":"skylines"
+			"title":"Independence Daysaster",
+			"gatsby_image_path":"..\/..\/images\/independence-daysaster.jpg",
+			"slug":"independence-daysaster"
+		},
+		{
+			"title":"Shutter Island",
+			"gatsby_image_path":"..\/..\/images\/shutter-island.jpg",
+			"slug":"shutter-island"
 		},
 		{
 			"title":"Ashfall",
@@ -328,34 +353,9 @@
 			"slug":"the-misadventures-of-rick-and-morty"
 		},
 		{
-			"title":"Shutter Island",
-			"gatsby_image_path":"..\/..\/images\/shutter-island.jpg",
-			"slug":"shutter-island"
-		},
-		{
-			"title":"Spider-Man: No Way Home",
-			"gatsby_image_path":"..\/..\/images\/spider-man-no-way-home.jpg",
-			"slug":"spider-man-no-way-home"
-		},
-		{
 			"title":"Jumanji: Welcome to the Jungle",
 			"gatsby_image_path":"..\/..\/images\/jumanji-welcome-to-the-jungle.jpg",
 			"slug":"jumanji-welcome-to-the-jungle"
-		},
-		{
-			"title":"Exodus: Gods and Kings",
-			"gatsby_image_path":"..\/..\/images\/exodus-gods-and-kings.jpg",
-			"slug":"exodus-gods-and-kings"
-		},
-		{
-			"title":"World War Z",
-			"gatsby_image_path":"..\/..\/images\/world-war-z.jpg",
-			"slug":"world-war-z"
-		},
-		{
-			"title":"300",
-			"gatsby_image_path":"..\/..\/images\/300.jpg",
-			"slug":"300"
 		}
 	],
 	"related_by_overview":[

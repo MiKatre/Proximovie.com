@@ -273,14 +273,14 @@
 			"slug":"naruto-shippuden-the-movie-road-to-ninja"
 		},
 		{
+			"title":"Peçanha Contra o Animal",
+			"gatsby_image_path":"..\/..\/images\/peçanha-contra-o-animal.jpg",
+			"slug":"peçanha-contra-o-animal"
+		},
+		{
 			"title":"The Great Wall",
 			"gatsby_image_path":"..\/..\/images\/the-great-wall.jpg",
 			"slug":"the-great-wall"
-		},
-		{
-			"title":"Fifty Shades of Grey",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
-			"slug":"fifty-shades-of-grey"
 		},
 		{
 			"title":"Ant-Man",
@@ -288,9 +288,14 @@
 			"slug":"ant-man"
 		},
 		{
-			"title":"X-Men: Apocalypse",
-			"gatsby_image_path":"..\/..\/images\/x-men-apocalypse.jpg",
-			"slug":"x-men-apocalypse"
+			"title":"Fifty Shades of Grey",
+			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
+			"slug":"fifty-shades-of-grey"
+		},
+		{
+			"title":"Injustice",
+			"gatsby_image_path":"..\/..\/images\/injustice.jpg",
+			"slug":"injustice"
 		},
 		{
 			"title":"The 5th Wave",
@@ -298,9 +303,19 @@
 			"slug":"the-5th-wave"
 		},
 		{
+			"title":"X-Men: Apocalypse",
+			"gatsby_image_path":"..\/..\/images\/x-men-apocalypse.jpg",
+			"slug":"x-men-apocalypse"
+		},
+		{
 			"title":"Spider-Man: Far From Home",
 			"gatsby_image_path":"..\/..\/images\/spider-man-far-from-home.jpg",
 			"slug":"spider-man-far-from-home"
+		},
+		{
+			"title":"Outcast",
+			"gatsby_image_path":"..\/..\/images\/outcast.jpg",
+			"slug":"outcast"
 		},
 		{
 			"title":"Veinteañera, divorciada y fantástica",
@@ -313,14 +328,19 @@
 			"slug":"13-hours-the-secret-soldiers-of-benghazi"
 		},
 		{
-			"title":"6 Underground",
-			"gatsby_image_path":"..\/..\/images\/6-underground.jpg",
-			"slug":"6-underground"
+			"title":"The Other Guys",
+			"gatsby_image_path":"..\/..\/images\/the-other-guys.jpg",
+			"slug":"the-other-guys"
 		},
 		{
 			"title":"Teen Titans: The Judas Contract",
 			"gatsby_image_path":"..\/..\/images\/teen-titans-the-judas-contract.jpg",
 			"slug":"teen-titans-the-judas-contract"
+		},
+		{
+			"title":"6 Underground",
+			"gatsby_image_path":"..\/..\/images\/6-underground.jpg",
+			"slug":"6-underground"
 		},
 		{
 			"title":"Scouts Guide to the Zombie Apocalypse",
@@ -336,26 +356,6 @@
 			"title":"Midnight Sun",
 			"gatsby_image_path":"..\/..\/images\/midnight-sun.jpg",
 			"slug":"midnight-sun"
-		},
-		{
-			"title":"Time Share",
-			"gatsby_image_path":"..\/..\/images\/time-share.jpg",
-			"slug":"time-share"
-		},
-		{
-			"title":"G.I. Joe: The Rise of Cobra",
-			"gatsby_image_path":"..\/..\/images\/g.i.-joe-the-rise-of-cobra.jpg",
-			"slug":"g.i.-joe-the-rise-of-cobra"
-		},
-		{
-			"title":"Trauma Center",
-			"gatsby_image_path":"..\/..\/images\/trauma-center.jpg",
-			"slug":"trauma-center"
-		},
-		{
-			"title":"War Dogs",
-			"gatsby_image_path":"..\/..\/images\/war-dogs.jpg",
-			"slug":"war-dogs"
 		}
 	],
 	"related_by_overview":[

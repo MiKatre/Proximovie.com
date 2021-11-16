@@ -256,6 +256,11 @@
 			"slug":"final-destination-2"
 		},
 		{
+			"title":"Jason X",
+			"gatsby_image_path":"..\/..\/images\/jason-x.jpg",
+			"slug":"jason-x"
+		},
+		{
 			"title":"Black Fox",
 			"gatsby_image_path":"..\/..\/images\/black-fox.jpg",
 			"slug":"black-fox"
@@ -271,6 +276,11 @@
 			"slug":"dragon-ball-z-bardock-the-father-of-goku"
 		},
 		{
+			"title":"The Deep House",
+			"gatsby_image_path":"..\/..\/images\/the-deep-house.jpg",
+			"slug":"the-deep-house"
+		},
+		{
 			"title":"Jiu Jitsu",
 			"gatsby_image_path":"..\/..\/images\/jiu-jitsu.jpg",
 			"slug":"jiu-jitsu"
@@ -281,14 +291,29 @@
 			"slug":"no-country-for-old-men"
 		},
 		{
-			"title":"Vivarium",
-			"gatsby_image_path":"..\/..\/images\/vivarium.jpg",
-			"slug":"vivarium"
+			"title":"Scary Stories to Tell in the Dark",
+			"gatsby_image_path":"..\/..\/images\/scary-stories-to-tell-in-the-dark.jpg",
+			"slug":"scary-stories-to-tell-in-the-dark"
 		},
 		{
 			"title":"La Leyenda del Diamante",
 			"gatsby_image_path":"..\/..\/images\/la-leyenda-del-diamante.jpg",
 			"slug":"la-leyenda-del-diamante"
+		},
+		{
+			"title":"Vivarium",
+			"gatsby_image_path":"..\/..\/images\/vivarium.jpg",
+			"slug":"vivarium"
+		},
+		{
+			"title":"Peçanha Contra o Animal",
+			"gatsby_image_path":"..\/..\/images\/peçanha-contra-o-animal.jpg",
+			"slug":"peçanha-contra-o-animal"
+		},
+		{
+			"title":"Muppets Haunted Mansion",
+			"gatsby_image_path":"..\/..\/images\/muppets-haunted-mansion.jpg",
+			"slug":"muppets-haunted-mansion"
 		},
 		{
 			"title":"Frankenweenie",
@@ -321,34 +346,9 @@
 			"slug":"the-vast-of-night"
 		},
 		{
-			"title":"Sword Art Online: The Movie - Ordinal Scale",
-			"gatsby_image_path":"..\/..\/images\/sword-art-online-the-movie-ordinal-scale.jpg",
-			"slug":"sword-art-online-the-movie-ordinal-scale"
-		},
-		{
-			"title":"Astro Boy",
-			"gatsby_image_path":"..\/..\/images\/astro-boy.jpg",
-			"slug":"astro-boy"
-		},
-		{
-			"title":"The Incredibles",
-			"gatsby_image_path":"..\/..\/images\/the-incredibles.jpg",
-			"slug":"the-incredibles"
-		},
-		{
-			"title":"Final Destination 3",
-			"gatsby_image_path":"..\/..\/images\/final-destination-3.jpg",
-			"slug":"final-destination-3"
-		},
-		{
-			"title":"Stray",
-			"gatsby_image_path":"..\/..\/images\/stray.jpg",
-			"slug":"stray"
-		},
-		{
-			"title":"Insidious: The Last Key",
-			"gatsby_image_path":"..\/..\/images\/insidious-the-last-key.jpg",
-			"slug":"insidious-the-last-key"
+			"title":"Independence Daysaster",
+			"gatsby_image_path":"..\/..\/images\/independence-daysaster.jpg",
+			"slug":"independence-daysaster"
 		}
 	],
 	"related_by_overview":[

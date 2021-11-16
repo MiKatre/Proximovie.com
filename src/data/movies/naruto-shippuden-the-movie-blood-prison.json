@@ -275,14 +275,14 @@
 			"slug":"x-men-days-of-future-past"
 		},
 		{
-			"title":"Barbie as The Princess & the Pauper",
-			"gatsby_image_path":"..\/..\/images\/barbie-as-the-princess-the-pauper.jpg",
-			"slug":"barbie-as-the-princess-the-pauper"
-		},
-		{
 			"title":"Mary Poppins",
 			"gatsby_image_path":"..\/..\/images\/mary-poppins.jpg",
 			"slug":"mary-poppins"
+		},
+		{
+			"title":"Barbie as The Princess & the Pauper",
+			"gatsby_image_path":"..\/..\/images\/barbie-as-the-princess-the-pauper.jpg",
+			"slug":"barbie-as-the-princess-the-pauper"
 		},
 		{
 			"title":"Overcomer",
@@ -290,14 +290,14 @@
 			"slug":"overcomer"
 		},
 		{
+			"title":"Star Wars: Episode III - Revenge of the Sith",
+			"gatsby_image_path":"..\/..\/images\/star-wars-episode-iii-revenge-of-the-sith.jpg",
+			"slug":"star-wars-episode-iii-revenge-of-the-sith"
+		},
+		{
 			"title":"Spies in Disguise",
 			"gatsby_image_path":"..\/..\/images\/spies-in-disguise.jpg",
 			"slug":"spies-in-disguise"
-		},
-		{
-			"title":"Treasure Planet",
-			"gatsby_image_path":"..\/..\/images\/treasure-planet.jpg",
-			"slug":"treasure-planet"
 		},
 		{
 			"title":"Enola Holmes",
@@ -310,9 +310,24 @@
 			"slug":"thor"
 		},
 		{
+			"title":"Treasure Planet",
+			"gatsby_image_path":"..\/..\/images\/treasure-planet.jpg",
+			"slug":"treasure-planet"
+		},
+		{
 			"title":"Kuroko no Basket Movie 3: Winter Cup Soushuuhen - Tobira no Mukou",
 			"gatsby_image_path":"..\/..\/images\/kuroko-no-basket-movie-3-winter-cup-soushuuhen-tobira-no-mukou.jpg",
 			"slug":"kuroko-no-basket-movie-3-winter-cup-soushuuhen-tobira-no-mukou"
+		},
+		{
+			"title":"The Island of Giant Insects",
+			"gatsby_image_path":"..\/..\/images\/the-island-of-giant-insects.jpg",
+			"slug":"the-island-of-giant-insects"
+		},
+		{
+			"title":"Injustice",
+			"gatsby_image_path":"..\/..\/images\/injustice.jpg",
+			"slug":"injustice"
 		},
 		{
 			"title":"Enchanted",
@@ -320,19 +335,14 @@
 			"slug":"enchanted"
 		},
 		{
-			"title":"The Lego Star Wars Holiday Special",
-			"gatsby_image_path":"..\/..\/images\/the-lego-star-wars-holiday-special.jpg",
-			"slug":"the-lego-star-wars-holiday-special"
-		},
-		{
 			"title":"The Evil Dead",
 			"gatsby_image_path":"..\/..\/images\/the-evil-dead.jpg",
 			"slug":"the-evil-dead"
 		},
 		{
-			"title":"Kingsglaive: Final Fantasy XV",
-			"gatsby_image_path":"..\/..\/images\/kingsglaive-final-fantasy-xv.jpg",
-			"slug":"kingsglaive-final-fantasy-xv"
+			"title":"The Lego Star Wars Holiday Special",
+			"gatsby_image_path":"..\/..\/images\/the-lego-star-wars-holiday-special.jpg",
+			"slug":"the-lego-star-wars-holiday-special"
 		},
 		{
 			"title":"Ready Player One",
@@ -340,19 +350,9 @@
 			"slug":"ready-player-one"
 		},
 		{
-			"title":"Dragon Ball Z: The Tree of Might",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-the-tree-of-might.jpg",
-			"slug":"dragon-ball-z-the-tree-of-might"
-		},
-		{
 			"title":"Alita: Battle Angel",
 			"gatsby_image_path":"..\/..\/images\/alita-battle-angel.jpg",
 			"slug":"alita-battle-angel"
-		},
-		{
-			"title":"Roald Dahl's The Witches",
-			"gatsby_image_path":"..\/..\/images\/roald-dahl-s-the-witches.jpg",
-			"slug":"roald-dahl-s-the-witches"
 		}
 	],
 	"related_by_overview":[

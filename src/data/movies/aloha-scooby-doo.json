@@ -273,6 +273,11 @@
 			"slug":"shrek"
 		},
 		{
+			"title":"Alice in Wonderland",
+			"gatsby_image_path":"..\/..\/images\/alice-in-wonderland.jpg",
+			"slug":"alice-in-wonderland"
+		},
+		{
 			"title":"Scooby-Doo! in Where's My Mummy?",
 			"gatsby_image_path":"..\/..\/images\/scooby-doo-in-where-s-my-mummy.jpg",
 			"slug":"scooby-doo-in-where-s-my-mummy"
@@ -303,6 +308,11 @@
 			"slug":"toy-story-2"
 		},
 		{
+			"title":"Mickey's Tale of Two Witches",
+			"gatsby_image_path":"..\/..\/images\/mickey-s-tale-of-two-witches.jpg",
+			"slug":"mickey-s-tale-of-two-witches"
+		},
+		{
 			"title":"Dragon Ball Z: Super Android 13!",
 			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-super-android-13.jpg",
 			"slug":"dragon-ball-z-super-android-13"
@@ -323,19 +333,9 @@
 			"slug":"hoodwinked-too-hood-vs.-evil"
 		},
 		{
-			"title":"Dragon Ball Z: Dead Zone",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-dead-zone.jpg",
-			"slug":"dragon-ball-z-dead-zone"
-		},
-		{
 			"title":"Joseph: King of Dreams",
 			"gatsby_image_path":"..\/..\/images\/joseph-king-of-dreams.jpg",
 			"slug":"joseph-king-of-dreams"
-		},
-		{
-			"title":"Combat Wombat",
-			"gatsby_image_path":"..\/..\/images\/combat-wombat.jpg",
-			"slug":"combat-wombat"
 		},
 		{
 			"title":"My Hero Academia: Two Heroes",
@@ -343,14 +343,14 @@
 			"slug":"my-hero-academia-two-heroes"
 		},
 		{
+			"title":"Combat Wombat",
+			"gatsby_image_path":"..\/..\/images\/combat-wombat.jpg",
+			"slug":"combat-wombat"
+		},
+		{
 			"title":"Dragon Ball Z: Bardock - The Father of Goku",
 			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-bardock-the-father-of-goku.jpg",
 			"slug":"dragon-ball-z-bardock-the-father-of-goku"
-		},
-		{
-			"title":"Love, Chunibyo & Other Delusions! Take On Me",
-			"gatsby_image_path":"..\/..\/images\/love-chunibyo-other-delusions-take-on-me.jpg",
-			"slug":"love-chunibyo-other-delusions-take-on-me"
 		}
 	],
 	"related_by_overview":[

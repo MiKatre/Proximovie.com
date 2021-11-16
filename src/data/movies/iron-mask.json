@@ -284,9 +284,24 @@
 			"slug":"x-men-apocalypse"
 		},
 		{
+			"title":"Injustice",
+			"gatsby_image_path":"..\/..\/images\/injustice.jpg",
+			"slug":"injustice"
+		},
+		{
+			"title":"Tiffany + Chucky",
+			"gatsby_image_path":"..\/..\/images\/tiffany-chucky.jpg",
+			"slug":"tiffany-chucky"
+		},
+		{
 			"title":"Harry Potter and the Prisoner of Azkaban",
 			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-prisoner-of-azkaban.jpg",
 			"slug":"harry-potter-and-the-prisoner-of-azkaban"
+		},
+		{
+			"title":"Avengers Grimm",
+			"gatsby_image_path":"..\/..\/images\/avengers-grimm.jpg",
+			"slug":"avengers-grimm"
 		},
 		{
 			"title":"Kingsglaive: Final Fantasy XV",
@@ -314,14 +329,14 @@
 			"slug":"pirates-of-the-caribbean-dead-men-tell-no-tales"
 		},
 		{
-			"title":"Thor: The Dark World",
-			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
-			"slug":"thor-the-dark-world"
-		},
-		{
 			"title":"Edge of Tomorrow",
 			"gatsby_image_path":"..\/..\/images\/edge-of-tomorrow.jpg",
 			"slug":"edge-of-tomorrow"
+		},
+		{
+			"title":"Thor: The Dark World",
+			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
+			"slug":"thor-the-dark-world"
 		},
 		{
 			"title":"Bordello of Blood",
@@ -334,9 +349,9 @@
 			"slug":"rise-of-the-guardians"
 		},
 		{
-			"title":"Max Steel",
-			"gatsby_image_path":"..\/..\/images\/max-steel.jpg",
-			"slug":"max-steel"
+			"title":"Harry Potter and the Goblet of Fire",
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
+			"slug":"harry-potter-and-the-goblet-of-fire"
 		},
 		{
 			"title":"Dragon Ball Z: The History of Trunks",
@@ -344,24 +359,9 @@
 			"slug":"dragon-ball-z-the-history-of-trunks"
 		},
 		{
-			"title":"Harry Potter and the Goblet of Fire",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
-			"slug":"harry-potter-and-the-goblet-of-fire"
-		},
-		{
-			"title":"Sicario",
-			"gatsby_image_path":"..\/..\/images\/sicario.jpg",
-			"slug":"sicario"
-		},
-		{
-			"title":"A Gruta",
-			"gatsby_image_path":"..\/..\/images\/a-gruta.jpg",
-			"slug":"a-gruta"
-		},
-		{
-			"title":"Iron Man 3",
-			"gatsby_image_path":"..\/..\/images\/iron-man-3.jpg",
-			"slug":"iron-man-3"
+			"title":"Max Steel",
+			"gatsby_image_path":"..\/..\/images\/max-steel.jpg",
+			"slug":"max-steel"
 		}
 	],
 	"related_by_overview":[

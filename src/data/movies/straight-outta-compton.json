@@ -283,14 +283,14 @@
 			"slug":"open-24-hours"
 		},
 		{
-			"title":"John Wick: Chapter 5",
-			"gatsby_image_path":"..\/..\/images\/john-wick-chapter-5.jpg",
-			"slug":"john-wick-chapter-5"
-		},
-		{
 			"title":"Devoto, la invasión silenciosa",
 			"gatsby_image_path":"..\/..\/images\/devoto-la-invasión-silenciosa.jpg",
 			"slug":"devoto-la-invasión-silenciosa"
+		},
+		{
+			"title":"John Wick: Chapter 5",
+			"gatsby_image_path":"..\/..\/images\/john-wick-chapter-5.jpg",
+			"slug":"john-wick-chapter-5"
 		},
 		{
 			"title":"Jumanji: Welcome to the Jungle",
@@ -308,9 +308,19 @@
 			"slug":"big-time-adolescence"
 		},
 		{
-			"title":"John and the Hole",
-			"gatsby_image_path":"..\/..\/images\/john-and-the-hole.jpg",
-			"slug":"john-and-the-hole"
+			"title":"22 Bullets",
+			"gatsby_image_path":"..\/..\/images\/22-bullets.jpg",
+			"slug":"22-bullets"
+		},
+		{
+			"title":"Framed by My Husband",
+			"gatsby_image_path":"..\/..\/images\/framed-by-my-husband.jpg",
+			"slug":"framed-by-my-husband"
+		},
+		{
+			"title":"Big Driver",
+			"gatsby_image_path":"..\/..\/images\/big-driver.jpg",
+			"slug":"big-driver"
 		},
 		{
 			"title":"Sextuplets",
@@ -318,9 +328,14 @@
 			"slug":"sextuplets"
 		},
 		{
-			"title":"The Magnificent Seven",
-			"gatsby_image_path":"..\/..\/images\/the-magnificent-seven.jpg",
-			"slug":"the-magnificent-seven"
+			"title":"John and the Hole",
+			"gatsby_image_path":"..\/..\/images\/john-and-the-hole.jpg",
+			"slug":"john-and-the-hole"
+		},
+		{
+			"title":"Bingo Hell",
+			"gatsby_image_path":"..\/..\/images\/bingo-hell.jpg",
+			"slug":"bingo-hell"
 		},
 		{
 			"title":"Knives Out",
@@ -328,34 +343,19 @@
 			"slug":"knives-out"
 		},
 		{
-			"title":"Resident Evil: Damnation",
-			"gatsby_image_path":"..\/..\/images\/resident-evil-damnation.jpg",
-			"slug":"resident-evil-damnation"
+			"title":"Muppets Haunted Mansion",
+			"gatsby_image_path":"..\/..\/images\/muppets-haunted-mansion.jpg",
+			"slug":"muppets-haunted-mansion"
 		},
 		{
-			"title":"We Can Be Heroes",
-			"gatsby_image_path":"..\/..\/images\/we-can-be-heroes.jpg",
-			"slug":"we-can-be-heroes"
+			"title":"The Magnificent Seven",
+			"gatsby_image_path":"..\/..\/images\/the-magnificent-seven.jpg",
+			"slug":"the-magnificent-seven"
 		},
 		{
-			"title":"Bad Sister",
-			"gatsby_image_path":"..\/..\/images\/bad-sister.jpg",
-			"slug":"bad-sister"
-		},
-		{
-			"title":"Justice League",
-			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
-			"slug":"justice-league"
-		},
-		{
-			"title":"Friends: The Reunion",
-			"gatsby_image_path":"..\/..\/images\/friends-the-reunion.jpg",
-			"slug":"friends-the-reunion"
-		},
-		{
-			"title":"American Pie Presents: Band Camp",
-			"gatsby_image_path":"..\/..\/images\/american-pie-presents-band-camp.jpg",
-			"slug":"american-pie-presents-band-camp"
+			"title":"The Bourne Legacy",
+			"gatsby_image_path":"..\/..\/images\/the-bourne-legacy.jpg",
+			"slug":"the-bourne-legacy"
 		}
 	],
 	"related_by_overview":[

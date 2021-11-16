@@ -264,11 +264,6 @@
 			"slug":"combat-wombat"
 		},
 		{
-			"title":"Robin Hood",
-			"gatsby_image_path":"..\/..\/images\/robin-hood.jpg",
-			"slug":"robin-hood"
-		},
-		{
 			"title":"Toy Story",
 			"gatsby_image_path":"..\/..\/images\/toy-story.jpg",
 			"slug":"toy-story"
@@ -279,9 +274,14 @@
 			"slug":"shrek-2"
 		},
 		{
-			"title":"Barbie Fairytopia: Mermaidia",
-			"gatsby_image_path":"..\/..\/images\/barbie-fairytopia-mermaidia.jpg",
-			"slug":"barbie-fairytopia-mermaidia"
+			"title":"Sharkdog’s Fintastic Halloween",
+			"gatsby_image_path":"..\/..\/images\/sharkdog’s-fintastic-halloween.jpg",
+			"slug":"sharkdog’s-fintastic-halloween"
+		},
+		{
+			"title":"Alice in Wonderland",
+			"gatsby_image_path":"..\/..\/images\/alice-in-wonderland.jpg",
+			"slug":"alice-in-wonderland"
 		},
 		{
 			"title":"Cinderella II: Dreams Come True",
@@ -294,6 +294,11 @@
 			"slug":"looney-tunes-back-in-action"
 		},
 		{
+			"title":"Barbie Fairytopia: Mermaidia",
+			"gatsby_image_path":"..\/..\/images\/barbie-fairytopia-mermaidia.jpg",
+			"slug":"barbie-fairytopia-mermaidia"
+		},
+		{
 			"title":"Sing",
 			"gatsby_image_path":"..\/..\/images\/sing.jpg",
 			"slug":"sing"
@@ -302,6 +307,11 @@
 			"title":"Kuroko no Basket Movie 3: Winter Cup Soushuuhen - Tobira no Mukou",
 			"gatsby_image_path":"..\/..\/images\/kuroko-no-basket-movie-3-winter-cup-soushuuhen-tobira-no-mukou.jpg",
 			"slug":"kuroko-no-basket-movie-3-winter-cup-soushuuhen-tobira-no-mukou"
+		},
+		{
+			"title":"Happy Family",
+			"gatsby_image_path":"..\/..\/images\/happy-family.jpg",
+			"slug":"happy-family"
 		},
 		{
 			"title":"Monsters vs Aliens",
@@ -324,34 +334,24 @@
 			"slug":"epic"
 		},
 		{
+			"title":"Cinderella",
+			"gatsby_image_path":"..\/..\/images\/cinderella.jpg",
+			"slug":"cinderella"
+		},
+		{
 			"title":"PAW Patrol: The Movie",
 			"gatsby_image_path":"..\/..\/images\/paw-patrol-the-movie.jpg",
 			"slug":"paw-patrol-the-movie"
 		},
 		{
+			"title":"My Little Pony: A New Generation",
+			"gatsby_image_path":"..\/..\/images\/my-little-pony-a-new-generation.jpg",
+			"slug":"my-little-pony-a-new-generation"
+		},
+		{
 			"title":"The Book of Life",
 			"gatsby_image_path":"..\/..\/images\/the-book-of-life.jpg",
 			"slug":"the-book-of-life"
-		},
-		{
-			"title":"Hotel Transylvania: Transformania",
-			"gatsby_image_path":"..\/..\/images\/hotel-transylvania-transformania.jpg",
-			"slug":"hotel-transylvania-transformania"
-		},
-		{
-			"title":"Dragon Ball Z: The Real 4-D at Super Tenkaichi Budokai",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-the-real-4-d-at-super-tenkaichi-budokai.jpg",
-			"slug":"dragon-ball-z-the-real-4-d-at-super-tenkaichi-budokai"
-		},
-		{
-			"title":"Dragon Ball Z: The World's Strongest",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-the-world-s-strongest.jpg",
-			"slug":"dragon-ball-z-the-world-s-strongest"
-		},
-		{
-			"title":"The Croods: A New Age",
-			"gatsby_image_path":"..\/..\/images\/the-croods-a-new-age.jpg",
-			"slug":"the-croods-a-new-age"
 		}
 	],
 	"related_by_overview":[

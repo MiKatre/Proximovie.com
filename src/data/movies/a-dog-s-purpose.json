@@ -272,6 +272,11 @@
 			"slug":"stuber"
 		},
 		{
+			"title":"Son of the Mask",
+			"gatsby_image_path":"..\/..\/images\/son-of-the-mask.jpg",
+			"slug":"son-of-the-mask"
+		},
+		{
 			"title":"The Art of Racing in the Rain",
 			"gatsby_image_path":"..\/..\/images\/the-art-of-racing-in-the-rain.jpg",
 			"slug":"the-art-of-racing-in-the-rain"
@@ -297,14 +302,14 @@
 			"slug":"child-s-play-3"
 		},
 		{
-			"title":"Hachi: A Dog's Tale",
-			"gatsby_image_path":"..\/..\/images\/hachi-a-dog-s-tale.jpg",
-			"slug":"hachi-a-dog-s-tale"
+			"title":"Little Man",
+			"gatsby_image_path":"..\/..\/images\/little-man.jpg",
+			"slug":"little-man"
 		},
 		{
-			"title":"The Titan",
-			"gatsby_image_path":"..\/..\/images\/the-titan.jpg",
-			"slug":"the-titan"
+			"title":"We Are the Nobles",
+			"gatsby_image_path":"..\/..\/images\/we-are-the-nobles.jpg",
+			"slug":"we-are-the-nobles"
 		},
 		{
 			"title":"A Dog's Journey",
@@ -312,9 +317,19 @@
 			"slug":"a-dog-s-journey"
 		},
 		{
-			"title":"Bolt",
-			"gatsby_image_path":"..\/..\/images\/bolt.jpg",
-			"slug":"bolt"
+			"title":"Funny People",
+			"gatsby_image_path":"..\/..\/images\/funny-people.jpg",
+			"slug":"funny-people"
+		},
+		{
+			"title":"The Titan",
+			"gatsby_image_path":"..\/..\/images\/the-titan.jpg",
+			"slug":"the-titan"
+		},
+		{
+			"title":"Hachi: A Dog's Tale",
+			"gatsby_image_path":"..\/..\/images\/hachi-a-dog-s-tale.jpg",
+			"slug":"hachi-a-dog-s-tale"
 		},
 		{
 			"title":"Beverly Hills Chihuahua",
@@ -322,14 +337,19 @@
 			"slug":"beverly-hills-chihuahua"
 		},
 		{
+			"title":"Bolt",
+			"gatsby_image_path":"..\/..\/images\/bolt.jpg",
+			"slug":"bolt"
+		},
+		{
+			"title":"Finch",
+			"gatsby_image_path":"..\/..\/images\/finch.jpg",
+			"slug":"finch"
+		},
+		{
 			"title":"Cats & Dogs",
 			"gatsby_image_path":"..\/..\/images\/cats-dogs.jpg",
 			"slug":"cats-dogs"
-		},
-		{
-			"title":"Beverly Hills Chihuahua 3: Viva la Fiesta!",
-			"gatsby_image_path":"..\/..\/images\/beverly-hills-chihuahua-3-viva-la-fiesta.jpg",
-			"slug":"beverly-hills-chihuahua-3-viva-la-fiesta"
 		},
 		{
 			"title":"Last Summer",
@@ -337,29 +357,9 @@
 			"slug":"last-summer"
 		},
 		{
-			"title":"Once Upon a Time in Venice",
-			"gatsby_image_path":"..\/..\/images\/once-upon-a-time-in-venice.jpg",
-			"slug":"once-upon-a-time-in-venice"
-		},
-		{
-			"title":"Until Forever",
-			"gatsby_image_path":"..\/..\/images\/until-forever.jpg",
-			"slug":"until-forever"
-		},
-		{
-			"title":"Code 8",
-			"gatsby_image_path":"..\/..\/images\/code-8.jpg",
-			"slug":"code-8"
-		},
-		{
-			"title":"Latte and the Magic Waterstone",
-			"gatsby_image_path":"..\/..\/images\/latte-and-the-magic-waterstone.jpg",
-			"slug":"latte-and-the-magic-waterstone"
-		},
-		{
-			"title":"Barbie and the Diamond Castle",
-			"gatsby_image_path":"..\/..\/images\/barbie-and-the-diamond-castle.jpg",
-			"slug":"barbie-and-the-diamond-castle"
+			"title":"Beverly Hills Chihuahua 3: Viva la Fiesta!",
+			"gatsby_image_path":"..\/..\/images\/beverly-hills-chihuahua-3-viva-la-fiesta.jpg",
+			"slug":"beverly-hills-chihuahua-3-viva-la-fiesta"
 		}
 	],
 	"related_by_overview":[

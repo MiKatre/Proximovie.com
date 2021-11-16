@@ -258,9 +258,19 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"Cowboys & Aliens",
+			"gatsby_image_path":"..\/..\/images\/cowboys-aliens.jpg",
+			"slug":"cowboys-aliens"
+		},
+		{
 			"title":"Mad World",
 			"gatsby_image_path":"..\/..\/images\/mad-world.jpg",
 			"slug":"mad-world"
+		},
+		{
+			"title":"The Harder They Fall",
+			"gatsby_image_path":"..\/..\/images\/the-harder-they-fall.jpg",
+			"slug":"the-harder-they-fall"
 		},
 		{
 			"title":"Major Grom: Plague Doctor",
@@ -273,19 +283,14 @@
 			"slug":"time-share"
 		},
 		{
+			"title":"30 Minutes or Less",
+			"gatsby_image_path":"..\/..\/images\/30-minutes-or-less.jpg",
+			"slug":"30-minutes-or-less"
+		},
+		{
 			"title":"In the Shadow of the Moon",
 			"gatsby_image_path":"..\/..\/images\/in-the-shadow-of-the-moon.jpg",
 			"slug":"in-the-shadow-of-the-moon"
-		},
-		{
-			"title":"Security",
-			"gatsby_image_path":"..\/..\/images\/security.jpg",
-			"slug":"security"
-		},
-		{
-			"title":"Earth and Blood",
-			"gatsby_image_path":"..\/..\/images\/earth-and-blood.jpg",
-			"slug":"earth-and-blood"
 		},
 		{
 			"title":"Harry Potter and the Order of the Phoenix",
@@ -293,9 +298,29 @@
 			"slug":"harry-potter-and-the-order-of-the-phoenix"
 		},
 		{
+			"title":"Peçanha Contra o Animal",
+			"gatsby_image_path":"..\/..\/images\/peçanha-contra-o-animal.jpg",
+			"slug":"peçanha-contra-o-animal"
+		},
+		{
+			"title":"Earth and Blood",
+			"gatsby_image_path":"..\/..\/images\/earth-and-blood.jpg",
+			"slug":"earth-and-blood"
+		},
+		{
+			"title":"Prey",
+			"gatsby_image_path":"..\/..\/images\/prey.jpg",
+			"slug":"prey"
+		},
+		{
 			"title":"Angels & Demons",
 			"gatsby_image_path":"..\/..\/images\/angels-demons.jpg",
 			"slug":"angels-demons"
+		},
+		{
+			"title":"Christmas with the Kranks",
+			"gatsby_image_path":"..\/..\/images\/christmas-with-the-kranks.jpg",
+			"slug":"christmas-with-the-kranks"
 		},
 		{
 			"title":"Bright",
@@ -313,14 +338,9 @@
 			"slug":"the-legend-of-tarzan"
 		},
 		{
-			"title":"Eternal Sunshine of the Spotless Mind",
-			"gatsby_image_path":"..\/..\/images\/eternal-sunshine-of-the-spotless-mind.jpg",
-			"slug":"eternal-sunshine-of-the-spotless-mind"
-		},
-		{
-			"title":"Penguin Bloom",
-			"gatsby_image_path":"..\/..\/images\/penguin-bloom.jpg",
-			"slug":"penguin-bloom"
+			"title":"Blood Diamond",
+			"gatsby_image_path":"..\/..\/images\/blood-diamond.jpg",
+			"slug":"blood-diamond"
 		},
 		{
 			"title":"Clash of the Titans",
@@ -328,34 +348,14 @@
 			"slug":"clash-of-the-titans"
 		},
 		{
-			"title":"Blood Diamond",
-			"gatsby_image_path":"..\/..\/images\/blood-diamond.jpg",
-			"slug":"blood-diamond"
+			"title":"Penguin Bloom",
+			"gatsby_image_path":"..\/..\/images\/penguin-bloom.jpg",
+			"slug":"penguin-bloom"
 		},
 		{
-			"title":"The Crossroads of Hunter Wilde",
-			"gatsby_image_path":"..\/..\/images\/the-crossroads-of-hunter-wilde.jpg",
-			"slug":"the-crossroads-of-hunter-wilde"
-		},
-		{
-			"title":"Siberia",
-			"gatsby_image_path":"..\/..\/images\/siberia.jpg",
-			"slug":"siberia"
-		},
-		{
-			"title":"The Matrix Revolutions",
-			"gatsby_image_path":"..\/..\/images\/the-matrix-revolutions.jpg",
-			"slug":"the-matrix-revolutions"
-		},
-		{
-			"title":"Code 8",
-			"gatsby_image_path":"..\/..\/images\/code-8.jpg",
-			"slug":"code-8"
-		},
-		{
-			"title":"Corpus Christi",
-			"gatsby_image_path":"..\/..\/images\/corpus-christi.jpg",
-			"slug":"corpus-christi"
+			"title":"Eternal Sunshine of the Spotless Mind",
+			"gatsby_image_path":"..\/..\/images\/eternal-sunshine-of-the-spotless-mind.jpg",
+			"slug":"eternal-sunshine-of-the-spotless-mind"
 		}
 	],
 	"related_by_overview":[

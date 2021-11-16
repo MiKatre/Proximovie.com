@@ -285,6 +285,11 @@
 			"slug":"abraham-lincoln-vampire-hunter"
 		},
 		{
+			"title":"Spectral",
+			"gatsby_image_path":"..\/..\/images\/spectral.jpg",
+			"slug":"spectral"
+		},
+		{
 			"title":"Edge of Tomorrow",
 			"gatsby_image_path":"..\/..\/images\/edge-of-tomorrow.jpg",
 			"slug":"edge-of-tomorrow"
@@ -295,24 +300,19 @@
 			"slug":"batman-death-in-the-family"
 		},
 		{
-			"title":"Kingsglaive: Final Fantasy XV",
-			"gatsby_image_path":"..\/..\/images\/kingsglaive-final-fantasy-xv.jpg",
-			"slug":"kingsglaive-final-fantasy-xv"
-		},
-		{
 			"title":"Clash of the Titans",
 			"gatsby_image_path":"..\/..\/images\/clash-of-the-titans.jpg",
 			"slug":"clash-of-the-titans"
 		},
 		{
+			"title":"Kingsglaive: Final Fantasy XV",
+			"gatsby_image_path":"..\/..\/images\/kingsglaive-final-fantasy-xv.jpg",
+			"slug":"kingsglaive-final-fantasy-xv"
+		},
+		{
 			"title":"Power Rangers",
 			"gatsby_image_path":"..\/..\/images\/power-rangers.jpg",
 			"slug":"power-rangers"
-		},
-		{
-			"title":"Alita: Battle Angel",
-			"gatsby_image_path":"..\/..\/images\/alita-battle-angel.jpg",
-			"slug":"alita-battle-angel"
 		},
 		{
 			"title":"Jeepers Creepers 3",
@@ -325,6 +325,11 @@
 			"slug":"assassin-s-creed"
 		},
 		{
+			"title":"Alita: Battle Angel",
+			"gatsby_image_path":"..\/..\/images\/alita-battle-angel.jpg",
+			"slug":"alita-battle-angel"
+		},
+		{
 			"title":"The Tomorrow War",
 			"gatsby_image_path":"..\/..\/images\/the-tomorrow-war.jpg",
 			"slug":"the-tomorrow-war"
@@ -335,14 +340,14 @@
 			"slug":"american-renegades"
 		},
 		{
-			"title":"Veinteañera, divorciada y fantástica",
-			"gatsby_image_path":"..\/..\/images\/veinteañera-divorciada-y-fantástica.jpg",
-			"slug":"veinteañera-divorciada-y-fantástica"
-		},
-		{
 			"title":"Outside the Wire",
 			"gatsby_image_path":"..\/..\/images\/outside-the-wire.jpg",
 			"slug":"outside-the-wire"
+		},
+		{
+			"title":"Veinteañera, divorciada y fantástica",
+			"gatsby_image_path":"..\/..\/images\/veinteañera-divorciada-y-fantástica.jpg",
+			"slug":"veinteañera-divorciada-y-fantástica"
 		},
 		{
 			"title":"6 Underground",
@@ -353,11 +358,6 @@
 			"title":"Terminator Genisys",
 			"gatsby_image_path":"..\/..\/images\/terminator-genisys.jpg",
 			"slug":"terminator-genisys"
-		},
-		{
-			"title":"X-Men: Apocalypse",
-			"gatsby_image_path":"..\/..\/images\/x-men-apocalypse.jpg",
-			"slug":"x-men-apocalypse"
 		}
 	],
 	"related_by_overview":[

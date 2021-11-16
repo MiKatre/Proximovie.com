@@ -258,9 +258,19 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"Injustice",
+			"gatsby_image_path":"..\/..\/images\/injustice.jpg",
+			"slug":"injustice"
+		},
+		{
 			"title":"Kingsglaive: Final Fantasy XV",
 			"gatsby_image_path":"..\/..\/images\/kingsglaive-final-fantasy-xv.jpg",
 			"slug":"kingsglaive-final-fantasy-xv"
+		},
+		{
+			"title":"Avengers Grimm",
+			"gatsby_image_path":"..\/..\/images\/avengers-grimm.jpg",
+			"slug":"avengers-grimm"
 		},
 		{
 			"title":"The Accountant",
@@ -273,14 +283,14 @@
 			"slug":"redemption-day"
 		},
 		{
-			"title":"Jumanji: Welcome to the Jungle",
-			"gatsby_image_path":"..\/..\/images\/jumanji-welcome-to-the-jungle.jpg",
-			"slug":"jumanji-welcome-to-the-jungle"
-		},
-		{
 			"title":"X-Men: Apocalypse",
 			"gatsby_image_path":"..\/..\/images\/x-men-apocalypse.jpg",
 			"slug":"x-men-apocalypse"
+		},
+		{
+			"title":"Jumanji: Welcome to the Jungle",
+			"gatsby_image_path":"..\/..\/images\/jumanji-welcome-to-the-jungle.jpg",
+			"slug":"jumanji-welcome-to-the-jungle"
 		},
 		{
 			"title":"Justice League vs. Teen Titans",
@@ -288,9 +298,14 @@
 			"slug":"justice-league-vs.-teen-titans"
 		},
 		{
-			"title":"Jiu Jitsu",
-			"gatsby_image_path":"..\/..\/images\/jiu-jitsu.jpg",
-			"slug":"jiu-jitsu"
+			"title":"The Night Comes for Us",
+			"gatsby_image_path":"..\/..\/images\/the-night-comes-for-us.jpg",
+			"slug":"the-night-comes-for-us"
+		},
+		{
+			"title":"Shoot 'Em Up",
+			"gatsby_image_path":"..\/..\/images\/shoot--em-up.jpg",
+			"slug":"shoot--em-up"
 		},
 		{
 			"title":"How to Train Your Dragon 2",
@@ -298,9 +313,9 @@
 			"slug":"how-to-train-your-dragon-2"
 		},
 		{
-			"title":"The Night Comes for Us",
-			"gatsby_image_path":"..\/..\/images\/the-night-comes-for-us.jpg",
-			"slug":"the-night-comes-for-us"
+			"title":"Jiu Jitsu",
+			"gatsby_image_path":"..\/..\/images\/jiu-jitsu.jpg",
+			"slug":"jiu-jitsu"
 		},
 		{
 			"title":"Edge of Tomorrow",
@@ -323,9 +338,9 @@
 			"slug":"resident-evil-damnation"
 		},
 		{
-			"title":"Clash of the Titans",
-			"gatsby_image_path":"..\/..\/images\/clash-of-the-titans.jpg",
-			"slug":"clash-of-the-titans"
+			"title":"Hitman's Wife's Bodyguard",
+			"gatsby_image_path":"..\/..\/images\/hitman-s-wife-s-bodyguard.jpg",
+			"slug":"hitman-s-wife-s-bodyguard"
 		},
 		{
 			"title":"IO",
@@ -333,29 +348,14 @@
 			"slug":"io"
 		},
 		{
-			"title":"Hitman's Wife's Bodyguard",
-			"gatsby_image_path":"..\/..\/images\/hitman-s-wife-s-bodyguard.jpg",
-			"slug":"hitman-s-wife-s-bodyguard"
+			"title":"Clash of the Titans",
+			"gatsby_image_path":"..\/..\/images\/clash-of-the-titans.jpg",
+			"slug":"clash-of-the-titans"
 		},
 		{
-			"title":"Sacrifice",
-			"gatsby_image_path":"..\/..\/images\/sacrifice.jpg",
-			"slug":"sacrifice"
-		},
-		{
-			"title":"Iron Man 3",
-			"gatsby_image_path":"..\/..\/images\/iron-man-3.jpg",
-			"slug":"iron-man-3"
-		},
-		{
-			"title":"Thor: The Dark World",
-			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
-			"slug":"thor-the-dark-world"
-		},
-		{
-			"title":"Werewolves Within",
-			"gatsby_image_path":"..\/..\/images\/werewolves-within.jpg",
-			"slug":"werewolves-within"
+			"title":"The Scorpion King 3: Battle for Redemption",
+			"gatsby_image_path":"..\/..\/images\/the-scorpion-king-3-battle-for-redemption.jpg",
+			"slug":"the-scorpion-king-3-battle-for-redemption"
 		}
 	],
 	"related_by_overview":[

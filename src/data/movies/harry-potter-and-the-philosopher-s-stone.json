@@ -256,6 +256,11 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"Apex",
+			"gatsby_image_path":"..\/..\/images\/apex.jpg",
+			"slug":"apex"
+		},
+		{
 			"title":"Harry Potter and the Prisoner of Azkaban",
 			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-prisoner-of-azkaban.jpg",
 			"slug":"harry-potter-and-the-prisoner-of-azkaban"
@@ -276,9 +281,19 @@
 			"slug":"the-little-things"
 		},
 		{
+			"title":"Peçanha Contra o Animal",
+			"gatsby_image_path":"..\/..\/images\/peçanha-contra-o-animal.jpg",
+			"slug":"peçanha-contra-o-animal"
+		},
+		{
 			"title":"Spies in Disguise",
 			"gatsby_image_path":"..\/..\/images\/spies-in-disguise.jpg",
 			"slug":"spies-in-disguise"
+		},
+		{
+			"title":"Muppets Haunted Mansion",
+			"gatsby_image_path":"..\/..\/images\/muppets-haunted-mansion.jpg",
+			"slug":"muppets-haunted-mansion"
 		},
 		{
 			"title":"Rise of the Guardians",
@@ -336,24 +351,9 @@
 			"slug":"the-mortuary-collection"
 		},
 		{
-			"title":"Dark Phoenix",
-			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
-			"slug":"dark-phoenix"
-		},
-		{
 			"title":"Epic",
 			"gatsby_image_path":"..\/..\/images\/epic.jpg",
 			"slug":"epic"
-		},
-		{
-			"title":"Justice League: Gods and Monsters",
-			"gatsby_image_path":"..\/..\/images\/justice-league-gods-and-monsters.jpg",
-			"slug":"justice-league-gods-and-monsters"
-		},
-		{
-			"title":"Dragon Ball Z: Bardock - The Father of Goku",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-bardock-the-father-of-goku.jpg",
-			"slug":"dragon-ball-z-bardock-the-father-of-goku"
 		}
 	],
 	"related_by_overview":[

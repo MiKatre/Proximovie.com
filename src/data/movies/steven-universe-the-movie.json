@@ -267,6 +267,11 @@
 			"slug":"incredibles-2"
 		},
 		{
+			"title":"Alice in Wonderland",
+			"gatsby_image_path":"..\/..\/images\/alice-in-wonderland.jpg",
+			"slug":"alice-in-wonderland"
+		},
+		{
 			"title":"Combat Wombat",
 			"gatsby_image_path":"..\/..\/images\/combat-wombat.jpg",
 			"slug":"combat-wombat"
@@ -292,19 +297,19 @@
 			"slug":"scooby-doo-in-where-s-my-mummy"
 		},
 		{
-			"title":"Robin Hood",
-			"gatsby_image_path":"..\/..\/images\/robin-hood.jpg",
-			"slug":"robin-hood"
-		},
-		{
-			"title":"Hoodwinked Too! Hood VS. Evil",
-			"gatsby_image_path":"..\/..\/images\/hoodwinked-too-hood-vs.-evil.jpg",
-			"slug":"hoodwinked-too-hood-vs.-evil"
+			"title":"The Jungle Book",
+			"gatsby_image_path":"..\/..\/images\/the-jungle-book.jpg",
+			"slug":"the-jungle-book"
 		},
 		{
 			"title":"Next Avengers: Heroes of Tomorrow",
 			"gatsby_image_path":"..\/..\/images\/next-avengers-heroes-of-tomorrow.jpg",
 			"slug":"next-avengers-heroes-of-tomorrow"
+		},
+		{
+			"title":"Hoodwinked Too! Hood VS. Evil",
+			"gatsby_image_path":"..\/..\/images\/hoodwinked-too-hood-vs.-evil.jpg",
+			"slug":"hoodwinked-too-hood-vs.-evil"
 		},
 		{
 			"title":"Toy Story 2",
@@ -327,16 +332,6 @@
 			"slug":"phineas-and-ferb-the-movie-candace-against-the-universe"
 		},
 		{
-			"title":"Dragon Ball Z: Dead Zone",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-dead-zone.jpg",
-			"slug":"dragon-ball-z-dead-zone"
-		},
-		{
-			"title":"Pokémon the Movie: Hoopa and the Clash of Ages",
-			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-hoopa-and-the-clash-of-ages.jpg",
-			"slug":"pokémon-the-movie-hoopa-and-the-clash-of-ages"
-		},
-		{
 			"title":"Cinderella III: A Twist in Time",
 			"gatsby_image_path":"..\/..\/images\/cinderella-iii-a-twist-in-time.jpg",
 			"slug":"cinderella-iii-a-twist-in-time"
@@ -347,14 +342,19 @@
 			"slug":"the-simpsons-the-good-the-bart-and-the-loki"
 		},
 		{
+			"title":"Pokémon the Movie: Hoopa and the Clash of Ages",
+			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-hoopa-and-the-clash-of-ages.jpg",
+			"slug":"pokémon-the-movie-hoopa-and-the-clash-of-ages"
+		},
+		{
 			"title":"Hotel Transylvania: Transformania",
 			"gatsby_image_path":"..\/..\/images\/hotel-transylvania-transformania.jpg",
 			"slug":"hotel-transylvania-transformania"
 		},
 		{
-			"title":"The Book of Life",
-			"gatsby_image_path":"..\/..\/images\/the-book-of-life.jpg",
-			"slug":"the-book-of-life"
+			"title":"Earwig and the Witch",
+			"gatsby_image_path":"..\/..\/images\/earwig-and-the-witch.jpg",
+			"slug":"earwig-and-the-witch"
 		}
 	],
 	"related_by_overview":[

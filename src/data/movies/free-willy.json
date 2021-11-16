@@ -264,6 +264,11 @@
 			"slug":"pandemic"
 		},
 		{
+			"title":"The Exorcism of Emily Rose",
+			"gatsby_image_path":"..\/..\/images\/the-exorcism-of-emily-rose.jpg",
+			"slug":"the-exorcism-of-emily-rose"
+		},
+		{
 			"title":"Bohemian Rhapsody",
 			"gatsby_image_path":"..\/..\/images\/bohemian-rhapsody.jpg",
 			"slug":"bohemian-rhapsody"
@@ -294,9 +299,9 @@
 			"slug":"gone-girl"
 		},
 		{
-			"title":"The Lovely Bones",
-			"gatsby_image_path":"..\/..\/images\/the-lovely-bones.jpg",
-			"slug":"the-lovely-bones"
+			"title":"Halloween II",
+			"gatsby_image_path":"..\/..\/images\/halloween-ii.jpg",
+			"slug":"halloween-ii"
 		},
 		{
 			"title":"No Country for Old Men",
@@ -304,14 +309,14 @@
 			"slug":"no-country-for-old-men"
 		},
 		{
-			"title":"Chronicle",
-			"gatsby_image_path":"..\/..\/images\/chronicle.jpg",
-			"slug":"chronicle"
+			"title":"Everest",
+			"gatsby_image_path":"..\/..\/images\/everest.jpg",
+			"slug":"everest"
 		},
 		{
-			"title":"Underworld: Blood Wars",
-			"gatsby_image_path":"..\/..\/images\/underworld-blood-wars.jpg",
-			"slug":"underworld-blood-wars"
+			"title":"The Lovely Bones",
+			"gatsby_image_path":"..\/..\/images\/the-lovely-bones.jpg",
+			"slug":"the-lovely-bones"
 		},
 		{
 			"title":"Dead Silence",
@@ -319,19 +324,9 @@
 			"slug":"dead-silence"
 		},
 		{
-			"title":"The Mummy",
-			"gatsby_image_path":"..\/..\/images\/the-mummy.jpg",
-			"slug":"the-mummy"
-		},
-		{
-			"title":"Jupiter Ascending",
-			"gatsby_image_path":"..\/..\/images\/jupiter-ascending.jpg",
-			"slug":"jupiter-ascending"
-		},
-		{
-			"title":"2021: War of the Worlds",
-			"gatsby_image_path":"..\/..\/images\/2021-war-of-the-worlds.jpg",
-			"slug":"2021-war-of-the-worlds"
+			"title":"Underworld: Blood Wars",
+			"gatsby_image_path":"..\/..\/images\/underworld-blood-wars.jpg",
+			"slug":"underworld-blood-wars"
 		},
 		{
 			"title":"Flora & Ulysses",
@@ -339,24 +334,29 @@
 			"slug":"flora-ulysses"
 		},
 		{
+			"title":"2021: War of the Worlds",
+			"gatsby_image_path":"..\/..\/images\/2021-war-of-the-worlds.jpg",
+			"slug":"2021-war-of-the-worlds"
+		},
+		{
+			"title":"Jupiter Ascending",
+			"gatsby_image_path":"..\/..\/images\/jupiter-ascending.jpg",
+			"slug":"jupiter-ascending"
+		},
+		{
+			"title":"The American",
+			"gatsby_image_path":"..\/..\/images\/the-american.jpg",
+			"slug":"the-american"
+		},
+		{
+			"title":"Chronicle",
+			"gatsby_image_path":"..\/..\/images\/chronicle.jpg",
+			"slug":"chronicle"
+		},
+		{
 			"title":"Frankenweenie",
 			"gatsby_image_path":"..\/..\/images\/frankenweenie.jpg",
 			"slug":"frankenweenie"
-		},
-		{
-			"title":"Insurgent",
-			"gatsby_image_path":"..\/..\/images\/insurgent.jpg",
-			"slug":"insurgent"
-		},
-		{
-			"title":"Fear of Rain",
-			"gatsby_image_path":"..\/..\/images\/fear-of-rain.jpg",
-			"slug":"fear-of-rain"
-		},
-		{
-			"title":"The BFG",
-			"gatsby_image_path":"..\/..\/images\/the-bfg.jpg",
-			"slug":"the-bfg"
 		}
 	],
 	"related_by_overview":[

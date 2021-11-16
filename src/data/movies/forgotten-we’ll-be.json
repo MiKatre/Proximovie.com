@@ -290,6 +290,11 @@
 			"slug":"scary-movie-2"
 		},
 		{
+			"title":"Prey",
+			"gatsby_image_path":"..\/..\/images\/prey.jpg",
+			"slug":"prey"
+		},
+		{
 			"title":"Hitman's Wife's Bodyguard",
 			"gatsby_image_path":"..\/..\/images\/hitman-s-wife-s-bodyguard.jpg",
 			"slug":"hitman-s-wife-s-bodyguard"
@@ -315,6 +320,11 @@
 			"slug":"out-of-death"
 		},
 		{
+			"title":"Tropic Thunder",
+			"gatsby_image_path":"..\/..\/images\/tropic-thunder.jpg",
+			"slug":"tropic-thunder"
+		},
+		{
 			"title":"No Sudden Move",
 			"gatsby_image_path":"..\/..\/images\/no-sudden-move.jpg",
 			"slug":"no-sudden-move"
@@ -330,24 +340,14 @@
 			"slug":"fifty-shades-of-grey"
 		},
 		{
-			"title":"Roald Dahl's The Witches",
-			"gatsby_image_path":"..\/..\/images\/roald-dahl-s-the-witches.jpg",
-			"slug":"roald-dahl-s-the-witches"
-		},
-		{
-			"title":"Naked Singularity",
-			"gatsby_image_path":"..\/..\/images\/naked-singularity.jpg",
-			"slug":"naked-singularity"
-		},
-		{
 			"title":"Gully",
 			"gatsby_image_path":"..\/..\/images\/gully.jpg",
 			"slug":"gully"
 		},
 		{
-			"title":"Bad Sister",
-			"gatsby_image_path":"..\/..\/images\/bad-sister.jpg",
-			"slug":"bad-sister"
+			"title":"Roald Dahl's The Witches",
+			"gatsby_image_path":"..\/..\/images\/roald-dahl-s-the-witches.jpg",
+			"slug":"roald-dahl-s-the-witches"
 		}
 	],
 	"related_by_overview":[

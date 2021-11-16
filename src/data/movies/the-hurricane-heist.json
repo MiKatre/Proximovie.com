@@ -295,6 +295,11 @@
 			"slug":"the-woman-in-the-window"
 		},
 		{
+			"title":"Ghostheads",
+			"gatsby_image_path":"..\/..\/images\/ghostheads.jpg",
+			"slug":"ghostheads"
+		},
+		{
 			"title":"Watchmen",
 			"gatsby_image_path":"..\/..\/images\/watchmen.jpg",
 			"slug":"watchmen"
@@ -310,11 +315,6 @@
 			"slug":"open-24-hours"
 		},
 		{
-			"title":"The Purge: Anarchy",
-			"gatsby_image_path":"..\/..\/images\/the-purge-anarchy.jpg",
-			"slug":"the-purge-anarchy"
-		},
-		{
 			"title":"Prime Time",
 			"gatsby_image_path":"..\/..\/images\/prime-time.jpg",
 			"slug":"prime-time"
@@ -323,6 +323,11 @@
 			"title":"Devoto, la invasión silenciosa",
 			"gatsby_image_path":"..\/..\/images\/devoto-la-invasión-silenciosa.jpg",
 			"slug":"devoto-la-invasión-silenciosa"
+		},
+		{
+			"title":"The Purge: Anarchy",
+			"gatsby_image_path":"..\/..\/images\/the-purge-anarchy.jpg",
+			"slug":"the-purge-anarchy"
 		},
 		{
 			"title":"Ghosts of War",
@@ -335,14 +340,14 @@
 			"slug":"endangered-species"
 		},
 		{
+			"title":"Odd Thomas",
+			"gatsby_image_path":"..\/..\/images\/odd-thomas.jpg",
+			"slug":"odd-thomas"
+		},
+		{
 			"title":"Guardians of the Galaxy Vol. 3",
 			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy-vol-3.jpg",
 			"slug":"guardians-of-the-galaxy-vol-3"
-		},
-		{
-			"title":"Tom and Jerry: The Fast and the Furry",
-			"gatsby_image_path":"..\/..\/images\/tom-and-jerry-the-fast-and-the-furry.jpg",
-			"slug":"tom-and-jerry-the-fast-and-the-furry"
 		},
 		{
 			"title":"Scorched Earth",
@@ -350,19 +355,14 @@
 			"slug":"scorched-earth"
 		},
 		{
+			"title":"Tom and Jerry: The Fast and the Furry",
+			"gatsby_image_path":"..\/..\/images\/tom-and-jerry-the-fast-and-the-furry.jpg",
+			"slug":"tom-and-jerry-the-fast-and-the-furry"
+		},
+		{
 			"title":"The Happening",
 			"gatsby_image_path":"..\/..\/images\/the-happening.jpg",
 			"slug":"the-happening"
-		},
-		{
-			"title":"Extinction",
-			"gatsby_image_path":"..\/..\/images\/extinction.jpg",
-			"slug":"extinction"
-		},
-		{
-			"title":"Tomb Invader",
-			"gatsby_image_path":"..\/..\/images\/tomb-invader.jpg",
-			"slug":"tomb-invader"
 		}
 	],
 	"related_by_overview":[

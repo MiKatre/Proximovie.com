@@ -251,6 +251,11 @@
 			"slug":"the-banana-splits-movie"
 		},
 		{
+			"title":"Injustice",
+			"gatsby_image_path":"..\/..\/images\/injustice.jpg",
+			"slug":"injustice"
+		},
+		{
 			"title":"Promising Young Woman",
 			"gatsby_image_path":"..\/..\/images\/promising-young-woman.jpg",
 			"slug":"promising-young-woman"
@@ -271,6 +276,16 @@
 			"slug":"justice-league-the-flashpoint-paradox"
 		},
 		{
+			"title":"Rurouni Kenshin Part III: The Legend Ends",
+			"gatsby_image_path":"..\/..\/images\/rurouni-kenshin-part-iii-the-legend-ends.jpg",
+			"slug":"rurouni-kenshin-part-iii-the-legend-ends"
+		},
+		{
+			"title":"Dragon Fury",
+			"gatsby_image_path":"..\/..\/images\/dragon-fury.jpg",
+			"slug":"dragon-fury"
+		},
+		{
 			"title":"The Little Vampire",
 			"gatsby_image_path":"..\/..\/images\/the-little-vampire.jpg",
 			"slug":"the-little-vampire"
@@ -281,14 +296,14 @@
 			"slug":"hitman-s-wife-s-bodyguard"
 		},
 		{
-			"title":"Rurouni Kenshin Part III: The Legend Ends",
-			"gatsby_image_path":"..\/..\/images\/rurouni-kenshin-part-iii-the-legend-ends.jpg",
-			"slug":"rurouni-kenshin-part-iii-the-legend-ends"
-		},
-		{
 			"title":"In the Heights",
 			"gatsby_image_path":"..\/..\/images\/in-the-heights.jpg",
 			"slug":"in-the-heights"
+		},
+		{
+			"title":"Ghost Rider: Spirit of Vengeance",
+			"gatsby_image_path":"..\/..\/images\/ghost-rider-spirit-of-vengeance.jpg",
+			"slug":"ghost-rider-spirit-of-vengeance"
 		},
 		{
 			"title":"The Last Samurai",
@@ -299,11 +314,6 @@
 			"title":"Finding 'Ohana",
 			"gatsby_image_path":"..\/..\/images\/finding-ohana.jpg",
 			"slug":"finding-ohana"
-		},
-		{
-			"title":"Ghost Rider: Spirit of Vengeance",
-			"gatsby_image_path":"..\/..\/images\/ghost-rider-spirit-of-vengeance.jpg",
-			"slug":"ghost-rider-spirit-of-vengeance"
 		},
 		{
 			"title":"Kill 'em All",
@@ -326,24 +336,14 @@
 			"slug":"300"
 		},
 		{
-			"title":"Spy Kids",
-			"gatsby_image_path":"..\/..\/images\/spy-kids.jpg",
-			"slug":"spy-kids"
-		},
-		{
 			"title":"Anton",
 			"gatsby_image_path":"..\/..\/images\/anton.jpg",
 			"slug":"anton"
 		},
 		{
-			"title":"Sicario",
-			"gatsby_image_path":"..\/..\/images\/sicario.jpg",
-			"slug":"sicario"
-		},
-		{
-			"title":"The Wizard of Oz",
-			"gatsby_image_path":"..\/..\/images\/the-wizard-of-oz.jpg",
-			"slug":"the-wizard-of-oz"
+			"title":"Spy Kids",
+			"gatsby_image_path":"..\/..\/images\/spy-kids.jpg",
+			"slug":"spy-kids"
 		}
 	],
 	"related_by_overview":[

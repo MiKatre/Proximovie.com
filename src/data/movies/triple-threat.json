@@ -256,9 +256,19 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"Tropic Thunder",
+			"gatsby_image_path":"..\/..\/images\/tropic-thunder.jpg",
+			"slug":"tropic-thunder"
+		},
+		{
 			"title":"Baby Driver",
 			"gatsby_image_path":"..\/..\/images\/baby-driver.jpg",
 			"slug":"baby-driver"
+		},
+		{
+			"title":"Kick-Ass 2",
+			"gatsby_image_path":"..\/..\/images\/kick-ass-2.jpg",
+			"slug":"kick-ass-2"
 		},
 		{
 			"title":"The Night Comes for Us",
@@ -284,6 +294,11 @@
 			"title":"Accident Man",
 			"gatsby_image_path":"..\/..\/images\/accident-man.jpg",
 			"slug":"accident-man"
+		},
+		{
+			"title":"Christmas with the Kranks",
+			"gatsby_image_path":"..\/..\/images\/christmas-with-the-kranks.jpg",
+			"slug":"christmas-with-the-kranks"
 		},
 		{
 			"title":"Harry Potter and the Chamber of Secrets",
@@ -321,9 +336,14 @@
 			"slug":"3-d-sex-and-zen-extreme-ecstasy"
 		},
 		{
-			"title":"G.I. Joe: Retaliation",
-			"gatsby_image_path":"..\/..\/images\/g.i.-joe-retaliation.jpg",
-			"slug":"g.i.-joe-retaliation"
+			"title":"The Other Guys",
+			"gatsby_image_path":"..\/..\/images\/the-other-guys.jpg",
+			"slug":"the-other-guys"
+		},
+		{
+			"title":"Parker",
+			"gatsby_image_path":"..\/..\/images\/parker.jpg",
+			"slug":"parker"
 		},
 		{
 			"title":"P2",
@@ -331,29 +351,9 @@
 			"slug":"p2"
 		},
 		{
-			"title":"The Goonies",
-			"gatsby_image_path":"..\/..\/images\/the-goonies.jpg",
-			"slug":"the-goonies"
-		},
-		{
-			"title":"War Dogs",
-			"gatsby_image_path":"..\/..\/images\/war-dogs.jpg",
-			"slug":"war-dogs"
-		},
-		{
-			"title":"Reprisal",
-			"gatsby_image_path":"..\/..\/images\/reprisal.jpg",
-			"slug":"reprisal"
-		},
-		{
-			"title":"The Misfits",
-			"gatsby_image_path":"..\/..\/images\/the-misfits.jpg",
-			"slug":"the-misfits"
-		},
-		{
-			"title":"I Love You, Stupid",
-			"gatsby_image_path":"..\/..\/images\/i-love-you-stupid.jpg",
-			"slug":"i-love-you-stupid"
+			"title":"G.I. Joe: Retaliation",
+			"gatsby_image_path":"..\/..\/images\/g.i.-joe-retaliation.jpg",
+			"slug":"g.i.-joe-retaliation"
 		}
 	],
 	"related_by_overview":[

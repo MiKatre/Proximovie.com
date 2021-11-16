@@ -273,9 +273,19 @@
 			"slug":"siberia"
 		},
 		{
+			"title":"Everest",
+			"gatsby_image_path":"..\/..\/images\/everest.jpg",
+			"slug":"everest"
+		},
+		{
 			"title":"Captain America: The Winter Soldier",
 			"gatsby_image_path":"..\/..\/images\/captain-america-the-winter-soldier.jpg",
 			"slug":"captain-america-the-winter-soldier"
+		},
+		{
+			"title":"Tiffany + Chucky",
+			"gatsby_image_path":"..\/..\/images\/tiffany-chucky.jpg",
+			"slug":"tiffany-chucky"
 		},
 		{
 			"title":"Underworld: Blood Wars",
@@ -323,6 +333,11 @@
 			"slug":"the-highwaymen"
 		},
 		{
+			"title":"Along with the Gods: The Last 49 Days",
+			"gatsby_image_path":"..\/..\/images\/along-with-the-gods-the-last-49-days.jpg",
+			"slug":"along-with-the-gods-the-last-49-days"
+		},
+		{
 			"title":"The 5th Wave",
 			"gatsby_image_path":"..\/..\/images\/the-5th-wave.jpg",
 			"slug":"the-5th-wave"
@@ -333,29 +348,14 @@
 			"slug":"fifty-shades-of-grey"
 		},
 		{
+			"title":"Prey",
+			"gatsby_image_path":"..\/..\/images\/prey.jpg",
+			"slug":"prey"
+		},
+		{
 			"title":"Valley Girl",
 			"gatsby_image_path":"..\/..\/images\/valley-girl.jpg",
 			"slug":"valley-girl"
-		},
-		{
-			"title":"Along with the Gods: The Last 49 Days",
-			"gatsby_image_path":"..\/..\/images\/along-with-the-gods-the-last-49-days.jpg",
-			"slug":"along-with-the-gods-the-last-49-days"
-		},
-		{
-			"title":"Major Grom: Plague Doctor",
-			"gatsby_image_path":"..\/..\/images\/major-grom-plague-doctor.jpg",
-			"slug":"major-grom-plague-doctor"
-		},
-		{
-			"title":"The Foreigner",
-			"gatsby_image_path":"..\/..\/images\/the-foreigner.jpg",
-			"slug":"the-foreigner"
-		},
-		{
-			"title":"2012",
-			"gatsby_image_path":"..\/..\/images\/2012.jpg",
-			"slug":"2012"
 		}
 	],
 	"related_by_overview":[

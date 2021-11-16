@@ -254,6 +254,11 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"8 Mile",
+			"gatsby_image_path":"..\/..\/images\/8-mile.jpg",
+			"slug":"8-mile"
+		},
+		{
 			"title":"Sex Doll",
 			"gatsby_image_path":"..\/..\/images\/sex-doll.jpg",
 			"slug":"sex-doll"
@@ -262,6 +267,16 @@
 			"title":"Anon",
 			"gatsby_image_path":"..\/..\/images\/anon.jpg",
 			"slug":"anon"
+		},
+		{
+			"title":"Bloodthirsty",
+			"gatsby_image_path":"..\/..\/images\/bloodthirsty.jpg",
+			"slug":"bloodthirsty"
+		},
+		{
+			"title":"Safer at Home",
+			"gatsby_image_path":"..\/..\/images\/safer-at-home.jpg",
+			"slug":"safer-at-home"
 		},
 		{
 			"title":"Evil Eye",
@@ -274,14 +289,14 @@
 			"slug":"code-8"
 		},
 		{
-			"title":"Mortal Kombat",
-			"gatsby_image_path":"..\/..\/images\/mortal-kombat.jpg",
-			"slug":"mortal-kombat"
-		},
-		{
 			"title":"Child's Play 3",
 			"gatsby_image_path":"..\/..\/images\/child-s-play-3.jpg",
 			"slug":"child-s-play-3"
+		},
+		{
+			"title":"Mortal Kombat",
+			"gatsby_image_path":"..\/..\/images\/mortal-kombat.jpg",
+			"slug":"mortal-kombat"
 		},
 		{
 			"title":"Scream",
@@ -294,19 +309,29 @@
 			"slug":"final-destination"
 		},
 		{
+			"title":"The Nightingale",
+			"gatsby_image_path":"..\/..\/images\/the-nightingale.jpg",
+			"slug":"the-nightingale"
+		},
+		{
+			"title":"The Blair Witch Project",
+			"gatsby_image_path":"..\/..\/images\/the-blair-witch-project.jpg",
+			"slug":"the-blair-witch-project"
+		},
+		{
 			"title":"A Trash Truck Christmas",
 			"gatsby_image_path":"..\/..\/images\/a-trash-truck-christmas.jpg",
 			"slug":"a-trash-truck-christmas"
 		},
 		{
+			"title":"House of Gucci",
+			"gatsby_image_path":"..\/..\/images\/house-of-gucci.jpg",
+			"slug":"house-of-gucci"
+		},
+		{
 			"title":"Seed of Chucky",
 			"gatsby_image_path":"..\/..\/images\/seed-of-chucky.jpg",
 			"slug":"seed-of-chucky"
-		},
-		{
-			"title":"Bride of Chucky",
-			"gatsby_image_path":"..\/..\/images\/bride-of-chucky.jpg",
-			"slug":"bride-of-chucky"
 		},
 		{
 			"title":"The Good Doctor",
@@ -319,39 +344,14 @@
 			"slug":"tokyo-ghoul"
 		},
 		{
-			"title":"Level Sixteen",
-			"gatsby_image_path":"..\/..\/images\/level-sixteen.jpg",
-			"slug":"level-sixteen"
+			"title":"Bride of Chucky",
+			"gatsby_image_path":"..\/..\/images\/bride-of-chucky.jpg",
+			"slug":"bride-of-chucky"
 		},
 		{
 			"title":"Cherry",
 			"gatsby_image_path":"..\/..\/images\/cherry.jpg",
 			"slug":"cherry"
-		},
-		{
-			"title":"Greta",
-			"gatsby_image_path":"..\/..\/images\/greta.jpg",
-			"slug":"greta"
-		},
-		{
-			"title":"No Country for Old Men",
-			"gatsby_image_path":"..\/..\/images\/no-country-for-old-men.jpg",
-			"slug":"no-country-for-old-men"
-		},
-		{
-			"title":"How to Be a Latin Lover",
-			"gatsby_image_path":"..\/..\/images\/how-to-be-a-latin-lover.jpg",
-			"slug":"how-to-be-a-latin-lover"
-		},
-		{
-			"title":"Modest Heroes",
-			"gatsby_image_path":"..\/..\/images\/modest-heroes.jpg",
-			"slug":"modest-heroes"
-		},
-		{
-			"title":"Se7en",
-			"gatsby_image_path":"..\/..\/images\/se7en.jpg",
-			"slug":"se7en"
 		}
 	],
 	"related_by_overview":[

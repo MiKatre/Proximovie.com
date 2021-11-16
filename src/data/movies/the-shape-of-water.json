@@ -262,11 +262,6 @@
 			"slug":"guardians"
 		},
 		{
-			"title":"Friday the 13th",
-			"gatsby_image_path":"..\/..\/images\/friday-the-13th.jpg",
-			"slug":"friday-the-13th"
-		},
-		{
 			"title":"The Water Man",
 			"gatsby_image_path":"..\/..\/images\/the-water-man.jpg",
 			"slug":"the-water-man"
@@ -302,6 +297,11 @@
 			"slug":"black-water-abyss"
 		},
 		{
+			"title":"Outcast",
+			"gatsby_image_path":"..\/..\/images\/outcast.jpg",
+			"slug":"outcast"
+		},
+		{
 			"title":"Pirates of the Caribbean: Dead Men Tell No Tales",
 			"gatsby_image_path":"..\/..\/images\/pirates-of-the-caribbean-dead-men-tell-no-tales.jpg",
 			"slug":"pirates-of-the-caribbean-dead-men-tell-no-tales"
@@ -312,19 +312,24 @@
 			"slug":"kingsglaive-final-fantasy-xv"
 		},
 		{
+			"title":"Cowboys & Aliens",
+			"gatsby_image_path":"..\/..\/images\/cowboys-aliens.jpg",
+			"slug":"cowboys-aliens"
+		},
+		{
 			"title":"Finding Dory",
 			"gatsby_image_path":"..\/..\/images\/finding-dory.jpg",
 			"slug":"finding-dory"
 		},
 		{
-			"title":"Thor: The Dark World",
-			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
-			"slug":"thor-the-dark-world"
-		},
-		{
 			"title":"The Meg",
 			"gatsby_image_path":"..\/..\/images\/the-meg.jpg",
 			"slug":"the-meg"
+		},
+		{
+			"title":"Thor: The Dark World",
+			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
+			"slug":"thor-the-dark-world"
 		},
 		{
 			"title":"Alita: Battle Angel",
@@ -350,11 +355,6 @@
 			"title":"The Tomorrow War",
 			"gatsby_image_path":"..\/..\/images\/the-tomorrow-war.jpg",
 			"slug":"the-tomorrow-war"
-		},
-		{
-			"title":"The Legend of Tarzan",
-			"gatsby_image_path":"..\/..\/images\/the-legend-of-tarzan.jpg",
-			"slug":"the-legend-of-tarzan"
 		}
 	],
 	"related_by_overview":[

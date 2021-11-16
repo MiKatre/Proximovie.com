@@ -255,6 +255,11 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"Night at the Museum: Battle of the Smithsonian",
+			"gatsby_image_path":"..\/..\/images\/night-at-the-museum-battle-of-the-smithsonian.jpg",
+			"slug":"night-at-the-museum-battle-of-the-smithsonian"
+		},
+		{
 			"title":"Trollhunters: Rise of the Titans",
 			"gatsby_image_path":"..\/..\/images\/trollhunters-rise-of-the-titans.jpg",
 			"slug":"trollhunters-rise-of-the-titans"
@@ -263,6 +268,11 @@
 			"title":"Ellipse",
 			"gatsby_image_path":"..\/..\/images\/ellipse.jpg",
 			"slug":"ellipse"
+		},
+		{
+			"title":"Scary Stories to Tell in the Dark",
+			"gatsby_image_path":"..\/..\/images\/scary-stories-to-tell-in-the-dark.jpg",
+			"slug":"scary-stories-to-tell-in-the-dark"
 		},
 		{
 			"title":"The Secret Life of Pets 2",
@@ -280,9 +290,19 @@
 			"slug":"hotel-transylvania-2"
 		},
 		{
+			"title":"Ghostbusters",
+			"gatsby_image_path":"..\/..\/images\/ghostbusters.jpg",
+			"slug":"ghostbusters"
+		},
+		{
 			"title":"Monster House",
 			"gatsby_image_path":"..\/..\/images\/monster-house.jpg",
 			"slug":"monster-house"
+		},
+		{
+			"title":"Independence Daysaster",
+			"gatsby_image_path":"..\/..\/images\/independence-daysaster.jpg",
+			"slug":"independence-daysaster"
 		},
 		{
 			"title":"The Heist of the Century",
@@ -310,6 +330,21 @@
 			"slug":"naruto-the-movie-guardians-of-the-crescent-moon-kingdom"
 		},
 		{
+			"title":"Bright: Samurai Soul",
+			"gatsby_image_path":"..\/..\/images\/bright-samurai-soul.jpg",
+			"slug":"bright-samurai-soul"
+		},
+		{
+			"title":"Krampus",
+			"gatsby_image_path":"..\/..\/images\/krampus.jpg",
+			"slug":"krampus"
+		},
+		{
+			"title":"Jumanji: Level One",
+			"gatsby_image_path":"..\/..\/images\/jumanji-level-one.jpg",
+			"slug":"jumanji-level-one"
+		},
+		{
 			"title":"Sword Art Online: The Movie - Ordinal Scale",
 			"gatsby_image_path":"..\/..\/images\/sword-art-online-the-movie-ordinal-scale.jpg",
 			"slug":"sword-art-online-the-movie-ordinal-scale"
@@ -318,41 +353,6 @@
 			"title":"Jiu Jitsu",
 			"gatsby_image_path":"..\/..\/images\/jiu-jitsu.jpg",
 			"slug":"jiu-jitsu"
-		},
-		{
-			"title":"Jumanji: Level One",
-			"gatsby_image_path":"..\/..\/images\/jumanji-level-one.jpg",
-			"slug":"jumanji-level-one"
-		},
-		{
-			"title":"Spy Kids 2: The Island of Lost Dreams",
-			"gatsby_image_path":"..\/..\/images\/spy-kids-2-the-island-of-lost-dreams.jpg",
-			"slug":"spy-kids-2-the-island-of-lost-dreams"
-		},
-		{
-			"title":"Lake Placid: Legacy",
-			"gatsby_image_path":"..\/..\/images\/lake-placid-legacy.jpg",
-			"slug":"lake-placid-legacy"
-		},
-		{
-			"title":"The Wizard of Oz",
-			"gatsby_image_path":"..\/..\/images\/the-wizard-of-oz.jpg",
-			"slug":"the-wizard-of-oz"
-		},
-		{
-			"title":"Harry Potter and the Philosopher's Stone",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher-s-stone.jpg",
-			"slug":"harry-potter-and-the-philosopher-s-stone"
-		},
-		{
-			"title":"The Ten Commandments: The Movie",
-			"gatsby_image_path":"..\/..\/images\/the-ten-commandments-the-movie.jpg",
-			"slug":"the-ten-commandments-the-movie"
-		},
-		{
-			"title":"The Quake",
-			"gatsby_image_path":"..\/..\/images\/the-quake.jpg",
-			"slug":"the-quake"
 		}
 	],
 	"related_by_overview":[

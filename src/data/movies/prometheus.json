@@ -268,14 +268,14 @@
 			"slug":"evangelion-1.0-you-are-not-alone"
 		},
 		{
-			"title":"Eternals",
-			"gatsby_image_path":"..\/..\/images\/eternals.jpg",
-			"slug":"eternals"
-		},
-		{
 			"title":"Insidious: The Last Key",
 			"gatsby_image_path":"..\/..\/images\/insidious-the-last-key.jpg",
 			"slug":"insidious-the-last-key"
+		},
+		{
+			"title":"Eternals",
+			"gatsby_image_path":"..\/..\/images\/eternals.jpg",
+			"slug":"eternals"
 		},
 		{
 			"title":"Monster House",
@@ -293,19 +293,24 @@
 			"slug":"the-vast-of-night"
 		},
 		{
-			"title":"Justice League Dark: Apokolips War",
-			"gatsby_image_path":"..\/..\/images\/justice-league-dark-apokolips-war.jpg",
-			"slug":"justice-league-dark-apokolips-war"
-		},
-		{
 			"title":"Sputnik",
 			"gatsby_image_path":"..\/..\/images\/sputnik.jpg",
 			"slug":"sputnik"
 		},
 		{
+			"title":"Justice League Dark: Apokolips War",
+			"gatsby_image_path":"..\/..\/images\/justice-league-dark-apokolips-war.jpg",
+			"slug":"justice-league-dark-apokolips-war"
+		},
+		{
 			"title":"Ellipse",
 			"gatsby_image_path":"..\/..\/images\/ellipse.jpg",
 			"slug":"ellipse"
+		},
+		{
+			"title":"Scary Stories to Tell in the Dark",
+			"gatsby_image_path":"..\/..\/images\/scary-stories-to-tell-in-the-dark.jpg",
+			"slug":"scary-stories-to-tell-in-the-dark"
 		},
 		{
 			"title":"Justice League: Gods and Monsters",
@@ -316,11 +321,6 @@
 			"title":"Code 8",
 			"gatsby_image_path":"..\/..\/images\/code-8.jpg",
 			"slug":"code-8"
-		},
-		{
-			"title":"Resident Evil: Vendetta",
-			"gatsby_image_path":"..\/..\/images\/resident-evil-vendetta.jpg",
-			"slug":"resident-evil-vendetta"
 		},
 		{
 			"title":"Vivarium",
@@ -343,6 +343,11 @@
 			"slug":"toxic"
 		},
 		{
+			"title":"Resident Evil: Vendetta",
+			"gatsby_image_path":"..\/..\/images\/resident-evil-vendetta.jpg",
+			"slug":"resident-evil-vendetta"
+		},
+		{
 			"title":"The Ring Two",
 			"gatsby_image_path":"..\/..\/images\/the-ring-two.jpg",
 			"slug":"the-ring-two"
@@ -351,11 +356,6 @@
 			"title":"Shutter Island",
 			"gatsby_image_path":"..\/..\/images\/shutter-island.jpg",
 			"slug":"shutter-island"
-		},
-		{
-			"title":"Breach",
-			"gatsby_image_path":"..\/..\/images\/breach.jpg",
-			"slug":"breach"
 		}
 	],
 	"related_by_overview":[

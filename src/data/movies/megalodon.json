@@ -270,14 +270,19 @@
 			"slug":"black-water-abyss"
 		},
 		{
-			"title":"Underwater",
-			"gatsby_image_path":"..\/..\/images\/underwater.jpg",
-			"slug":"underwater"
+			"title":"Sanctum",
+			"gatsby_image_path":"..\/..\/images\/sanctum.jpg",
+			"slug":"sanctum"
 		},
 		{
 			"title":"Crawl",
 			"gatsby_image_path":"..\/..\/images\/crawl.jpg",
 			"slug":"crawl"
+		},
+		{
+			"title":"Underwater",
+			"gatsby_image_path":"..\/..\/images\/underwater.jpg",
+			"slug":"underwater"
 		},
 		{
 			"title":"The Vast of Night",
@@ -310,9 +315,9 @@
 			"slug":"predator"
 		},
 		{
-			"title":"Great White",
-			"gatsby_image_path":"..\/..\/images\/great-white.jpg",
-			"slug":"great-white"
+			"title":"Seobok",
+			"gatsby_image_path":"..\/..\/images\/seobok.jpg",
+			"slug":"seobok"
 		},
 		{
 			"title":"Friday the 13th Part VI: Jason Lives",
@@ -320,9 +325,19 @@
 			"slug":"friday-the-13th-part-vi-jason-lives"
 		},
 		{
-			"title":"Seobok",
-			"gatsby_image_path":"..\/..\/images\/seobok.jpg",
-			"slug":"seobok"
+			"title":"Independence Daysaster",
+			"gatsby_image_path":"..\/..\/images\/independence-daysaster.jpg",
+			"slug":"independence-daysaster"
+		},
+		{
+			"title":"Great White",
+			"gatsby_image_path":"..\/..\/images\/great-white.jpg",
+			"slug":"great-white"
+		},
+		{
+			"title":"Apex",
+			"gatsby_image_path":"..\/..\/images\/apex.jpg",
+			"slug":"apex"
 		},
 		{
 			"title":"Deep",
@@ -330,29 +345,14 @@
 			"slug":"deep"
 		},
 		{
+			"title":"Escape The Undertaker",
+			"gatsby_image_path":"..\/..\/images\/escape-the-undertaker.jpg",
+			"slug":"escape-the-undertaker"
+		},
+		{
 			"title":"Lights Out",
 			"gatsby_image_path":"..\/..\/images\/lights-out.jpg",
 			"slug":"lights-out"
-		},
-		{
-			"title":"Justice League Dark: Apokolips War",
-			"gatsby_image_path":"..\/..\/images\/justice-league-dark-apokolips-war.jpg",
-			"slug":"justice-league-dark-apokolips-war"
-		},
-		{
-			"title":"Harry Potter and the Philosopher's Stone",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher-s-stone.jpg",
-			"slug":"harry-potter-and-the-philosopher-s-stone"
-		},
-		{
-			"title":"Voyagers",
-			"gatsby_image_path":"..\/..\/images\/voyagers.jpg",
-			"slug":"voyagers"
-		},
-		{
-			"title":"Breakthrough",
-			"gatsby_image_path":"..\/..\/images\/breakthrough.jpg",
-			"slug":"breakthrough"
 		}
 	],
 	"related_by_overview":[

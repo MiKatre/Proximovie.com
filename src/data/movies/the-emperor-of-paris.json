@@ -267,11 +267,6 @@
 	],
 	"related_by_poster":[
 		{
-			"title":"Jumanji: Welcome to the Jungle",
-			"gatsby_image_path":"..\/..\/images\/jumanji-welcome-to-the-jungle.jpg",
-			"slug":"jumanji-welcome-to-the-jungle"
-		},
-		{
 			"title":"Blade Runner 2049",
 			"gatsby_image_path":"..\/..\/images\/blade-runner-2049.jpg",
 			"slug":"blade-runner-2049"
@@ -282,6 +277,11 @@
 			"slug":"eminence-hill"
 		},
 		{
+			"title":"Jumanji: Welcome to the Jungle",
+			"gatsby_image_path":"..\/..\/images\/jumanji-welcome-to-the-jungle.jpg",
+			"slug":"jumanji-welcome-to-the-jungle"
+		},
+		{
 			"title":"Ghosts of War",
 			"gatsby_image_path":"..\/..\/images\/ghosts-of-war.jpg",
 			"slug":"ghosts-of-war"
@@ -290,6 +290,11 @@
 			"title":"Harry Potter and the Prisoner of Azkaban",
 			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-prisoner-of-azkaban.jpg",
 			"slug":"harry-potter-and-the-prisoner-of-azkaban"
+		},
+		{
+			"title":"Little Big Mouth",
+			"gatsby_image_path":"..\/..\/images\/little-big-mouth.jpg",
+			"slug":"little-big-mouth"
 		},
 		{
 			"title":"Hitman's Wife's Bodyguard",
@@ -337,14 +342,19 @@
 			"slug":"jojo-rabbit"
 		},
 		{
+			"title":"Maze Runner: The Scorch Trials",
+			"gatsby_image_path":"..\/..\/images\/maze-runner-the-scorch-trials.jpg",
+			"slug":"maze-runner-the-scorch-trials"
+		},
+		{
 			"title":"Scary Movie 3",
 			"gatsby_image_path":"..\/..\/images\/scary-movie-3.jpg",
 			"slug":"scary-movie-3"
 		},
 		{
-			"title":"Maze Runner: The Scorch Trials",
-			"gatsby_image_path":"..\/..\/images\/maze-runner-the-scorch-trials.jpg",
-			"slug":"maze-runner-the-scorch-trials"
+			"title":"Peçanha Contra o Animal",
+			"gatsby_image_path":"..\/..\/images\/peçanha-contra-o-animal.jpg",
+			"slug":"peçanha-contra-o-animal"
 		},
 		{
 			"title":"The Hangover Part III",
@@ -355,16 +365,6 @@
 			"title":"Addams Family Values",
 			"gatsby_image_path":"..\/..\/images\/addams-family-values.jpg",
 			"slug":"addams-family-values"
-		},
-		{
-			"title":"Harry Potter and the Philosopher's Stone",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher-s-stone.jpg",
-			"slug":"harry-potter-and-the-philosopher-s-stone"
-		},
-		{
-			"title":"Dragon Ball Z: Bardock - The Father of Goku",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-bardock-the-father-of-goku.jpg",
-			"slug":"dragon-ball-z-bardock-the-father-of-goku"
 		}
 	],
 	"related_by_overview":[

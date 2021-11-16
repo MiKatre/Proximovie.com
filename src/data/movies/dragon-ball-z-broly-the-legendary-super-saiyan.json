@@ -269,19 +269,24 @@
 			"slug":"doraemon-nobita-and-the-windmasters"
 		},
 		{
+			"title":"The Jungle Book",
+			"gatsby_image_path":"..\/..\/images\/the-jungle-book.jpg",
+			"slug":"the-jungle-book"
+		},
+		{
 			"title":"Scooby-Doo! and the Cyber Chase",
 			"gatsby_image_path":"..\/..\/images\/scooby-doo-and-the-cyber-chase.jpg",
 			"slug":"scooby-doo-and-the-cyber-chase"
 		},
 		{
-			"title":"Dragon Ball Z: Bardock - The Father of Goku",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-bardock-the-father-of-goku.jpg",
-			"slug":"dragon-ball-z-bardock-the-father-of-goku"
-		},
-		{
 			"title":"Dragon Ball Z: Wrath of the Dragon",
 			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-wrath-of-the-dragon.jpg",
 			"slug":"dragon-ball-z-wrath-of-the-dragon"
+		},
+		{
+			"title":"Dragon Ball Z: Bardock - The Father of Goku",
+			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-bardock-the-father-of-goku.jpg",
+			"slug":"dragon-ball-z-bardock-the-father-of-goku"
 		},
 		{
 			"title":"The Simpsons: The Good, the Bart, and the Loki",
@@ -299,11 +304,6 @@
 			"slug":"no-game-no-life-zero"
 		},
 		{
-			"title":"Dragon Ball Z: Dead Zone",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-dead-zone.jpg",
-			"slug":"dragon-ball-z-dead-zone"
-		},
-		{
 			"title":"Naruto: The Lost Story - Mission: Protect the Waterfall Village!",
 			"gatsby_image_path":"..\/..\/images\/naruto-the-lost-story-mission-protect-the-waterfall-village.jpg",
 			"slug":"naruto-the-lost-story-mission-protect-the-waterfall-village"
@@ -312,6 +312,11 @@
 			"title":"Dragon Ball Z: Broly – Second Coming",
 			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-broly-second-coming.jpg",
 			"slug":"dragon-ball-z-broly-second-coming"
+		},
+		{
+			"title":"Dragon Ball Z: Dead Zone",
+			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-dead-zone.jpg",
+			"slug":"dragon-ball-z-dead-zone"
 		},
 		{
 			"title":"The Simpsons Movie",
@@ -329,6 +334,11 @@
 			"slug":"scooby-doo-the-sword-and-the-scoob"
 		},
 		{
+			"title":"Alice in Wonderland",
+			"gatsby_image_path":"..\/..\/images\/alice-in-wonderland.jpg",
+			"slug":"alice-in-wonderland"
+		},
+		{
 			"title":"Barbie: Spy Squad",
 			"gatsby_image_path":"..\/..\/images\/barbie-spy-squad.jpg",
 			"slug":"barbie-spy-squad"
@@ -342,16 +352,6 @@
 			"title":"Doraemon: Nobita and the Kingdom of Clouds",
 			"gatsby_image_path":"..\/..\/images\/doraemon-nobita-and-the-kingdom-of-clouds.jpg",
 			"slug":"doraemon-nobita-and-the-kingdom-of-clouds"
-		},
-		{
-			"title":"Pokémon the Movie: Hoopa and the Clash of Ages",
-			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-hoopa-and-the-clash-of-ages.jpg",
-			"slug":"pokémon-the-movie-hoopa-and-the-clash-of-ages"
-		},
-		{
-			"title":"Mulan II",
-			"gatsby_image_path":"..\/..\/images\/mulan-ii.jpg",
-			"slug":"mulan-ii"
 		}
 	],
 	"related_by_overview":[

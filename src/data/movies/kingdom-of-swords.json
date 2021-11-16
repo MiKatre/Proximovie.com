@@ -241,14 +241,14 @@
 	],
 	"related_by_poster":[
 		{
-			"title":"Jungle Cruise",
-			"gatsby_image_path":"..\/..\/images\/jungle-cruise.jpg",
-			"slug":"jungle-cruise"
-		},
-		{
 			"title":"Guardians of the Galaxy",
 			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy.jpg",
 			"slug":"guardians-of-the-galaxy"
+		},
+		{
+			"title":"Jungle Cruise",
+			"gatsby_image_path":"..\/..\/images\/jungle-cruise.jpg",
+			"slug":"jungle-cruise"
 		},
 		{
 			"title":"Peninsula",
@@ -286,14 +286,29 @@
 			"slug":"hitman-s-wife-s-bodyguard"
 		},
 		{
+			"title":"Jumanji: Welcome to the Jungle",
+			"gatsby_image_path":"..\/..\/images\/jumanji-welcome-to-the-jungle.jpg",
+			"slug":"jumanji-welcome-to-the-jungle"
+		},
+		{
 			"title":"Jiu Jitsu",
 			"gatsby_image_path":"..\/..\/images\/jiu-jitsu.jpg",
 			"slug":"jiu-jitsu"
 		},
 		{
-			"title":"Jumanji: Welcome to the Jungle",
-			"gatsby_image_path":"..\/..\/images\/jumanji-welcome-to-the-jungle.jpg",
-			"slug":"jumanji-welcome-to-the-jungle"
+			"title":"Machete",
+			"gatsby_image_path":"..\/..\/images\/machete.jpg",
+			"slug":"machete"
+		},
+		{
+			"title":"Daisy Quokka: World's Scariest Animal",
+			"gatsby_image_path":"..\/..\/images\/daisy-quokka-world-s-scariest-animal.jpg",
+			"slug":"daisy-quokka-world-s-scariest-animal"
+		},
+		{
+			"title":"6 Bullets",
+			"gatsby_image_path":"..\/..\/images\/6-bullets.jpg",
+			"slug":"6-bullets"
 		},
 		{
 			"title":"Superman: Man of Tomorrow",
@@ -306,9 +321,9 @@
 			"slug":"psycho-goreman"
 		},
 		{
-			"title":"Justice League Dark: Apokolips War",
-			"gatsby_image_path":"..\/..\/images\/justice-league-dark-apokolips-war.jpg",
-			"slug":"justice-league-dark-apokolips-war"
+			"title":"Muppets Haunted Mansion",
+			"gatsby_image_path":"..\/..\/images\/muppets-haunted-mansion.jpg",
+			"slug":"muppets-haunted-mansion"
 		},
 		{
 			"title":"Scary Movie 3",
@@ -316,29 +331,14 @@
 			"slug":"scary-movie-3"
 		},
 		{
-			"title":"Adventures of Aladdin",
-			"gatsby_image_path":"..\/..\/images\/adventures-of-aladdin.jpg",
-			"slug":"adventures-of-aladdin"
+			"title":"Justice League Dark: Apokolips War",
+			"gatsby_image_path":"..\/..\/images\/justice-league-dark-apokolips-war.jpg",
+			"slug":"justice-league-dark-apokolips-war"
 		},
 		{
 			"title":"Dancing Queens",
 			"gatsby_image_path":"..\/..\/images\/dancing-queens.jpg",
 			"slug":"dancing-queens"
-		},
-		{
-			"title":"Harry Potter and the Chamber of Secrets",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-chamber-of-secrets.jpg",
-			"slug":"harry-potter-and-the-chamber-of-secrets"
-		},
-		{
-			"title":"Dark Phoenix",
-			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
-			"slug":"dark-phoenix"
-		},
-		{
-			"title":"Rise of the Guardians",
-			"gatsby_image_path":"..\/..\/images\/rise-of-the-guardians.jpg",
-			"slug":"rise-of-the-guardians"
 		}
 	],
 	"related_by_overview":[

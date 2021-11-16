@@ -246,6 +246,11 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"Funny People",
+			"gatsby_image_path":"..\/..\/images\/funny-people.jpg",
+			"slug":"funny-people"
+		},
+		{
 			"title":"The Twilight Saga: Breaking Dawn - Part 2",
 			"gatsby_image_path":"..\/..\/images\/the-twilight-saga-breaking-dawn-part-2.jpg",
 			"slug":"the-twilight-saga-breaking-dawn-part-2"
@@ -254,6 +259,11 @@
 			"title":"Corpus Christi",
 			"gatsby_image_path":"..\/..\/images\/corpus-christi.jpg",
 			"slug":"corpus-christi"
+		},
+		{
+			"title":"Prey",
+			"gatsby_image_path":"..\/..\/images\/prey.jpg",
+			"slug":"prey"
 		},
 		{
 			"title":"The Hangover Part III",
@@ -271,19 +281,24 @@
 			"slug":"deadly-illusions"
 		},
 		{
+			"title":"The Stronghold",
+			"gatsby_image_path":"..\/..\/images\/the-stronghold.jpg",
+			"slug":"the-stronghold"
+		},
+		{
 			"title":"Ghost Lab",
 			"gatsby_image_path":"..\/..\/images\/ghost-lab.jpg",
 			"slug":"ghost-lab"
 		},
 		{
-			"title":"Fifty Shades of Grey",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
-			"slug":"fifty-shades-of-grey"
-		},
-		{
 			"title":"Harry Potter and the Goblet of Fire",
 			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
 			"slug":"harry-potter-and-the-goblet-of-fire"
+		},
+		{
+			"title":"Fifty Shades of Grey",
+			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
+			"slug":"fifty-shades-of-grey"
 		},
 		{
 			"title":"Blue Miracle",
@@ -294,6 +309,11 @@
 			"title":"A Private War",
 			"gatsby_image_path":"..\/..\/images\/a-private-war.jpg",
 			"slug":"a-private-war"
+		},
+		{
+			"title":"Little Big Mouth",
+			"gatsby_image_path":"..\/..\/images\/little-big-mouth.jpg",
+			"slug":"little-big-mouth"
 		},
 		{
 			"title":"We Can Be Heroes",
@@ -316,34 +336,14 @@
 			"slug":"love-simon"
 		},
 		{
-			"title":"Chemical Hearts",
-			"gatsby_image_path":"..\/..\/images\/chemical-hearts.jpg",
-			"slug":"chemical-hearts"
-		},
-		{
 			"title":"Fifty Shades Freed",
 			"gatsby_image_path":"..\/..\/images\/fifty-shades-freed.jpg",
 			"slug":"fifty-shades-freed"
 		},
 		{
-			"title":"Parasyte: Part 2",
-			"gatsby_image_path":"..\/..\/images\/parasyte-part-2.jpg",
-			"slug":"parasyte-part-2"
-		},
-		{
-			"title":"Bad Sister",
-			"gatsby_image_path":"..\/..\/images\/bad-sister.jpg",
-			"slug":"bad-sister"
-		},
-		{
-			"title":"American Pie Presents: Band Camp",
-			"gatsby_image_path":"..\/..\/images\/american-pie-presents-band-camp.jpg",
-			"slug":"american-pie-presents-band-camp"
-		},
-		{
-			"title":"Blood Diamond",
-			"gatsby_image_path":"..\/..\/images\/blood-diamond.jpg",
-			"slug":"blood-diamond"
+			"title":"Chemical Hearts",
+			"gatsby_image_path":"..\/..\/images\/chemical-hearts.jpg",
+			"slug":"chemical-hearts"
 		}
 	],
 	"related_by_overview":[

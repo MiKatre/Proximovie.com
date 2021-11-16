@@ -289,14 +289,14 @@
 			"slug":"singularity"
 		},
 		{
-			"title":"Justice League",
-			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
-			"slug":"justice-league"
-		},
-		{
 			"title":"Hotel Transylvania 3: Summer Vacation",
 			"gatsby_image_path":"..\/..\/images\/hotel-transylvania-3-summer-vacation.jpg",
 			"slug":"hotel-transylvania-3-summer-vacation"
+		},
+		{
+			"title":"Justice League",
+			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
+			"slug":"justice-league"
 		},
 		{
 			"title":"A Christmas Carol",
@@ -309,9 +309,19 @@
 			"slug":"dragon-ball-z-the-tree-of-might"
 		},
 		{
+			"title":"Christmas with the Kranks",
+			"gatsby_image_path":"..\/..\/images\/christmas-with-the-kranks.jpg",
+			"slug":"christmas-with-the-kranks"
+		},
+		{
 			"title":"The Evil Dead",
 			"gatsby_image_path":"..\/..\/images\/the-evil-dead.jpg",
 			"slug":"the-evil-dead"
+		},
+		{
+			"title":"There's Something About Mario",
+			"gatsby_image_path":"..\/..\/images\/there-s-something-about-mario.jpg",
+			"slug":"there-s-something-about-mario"
 		},
 		{
 			"title":"Love, Chunibyo & Other Delusions! Take On Me",
@@ -324,19 +334,14 @@
 			"slug":"scooby-doo-2-monsters-unleashed"
 		},
 		{
+			"title":"García y García",
+			"gatsby_image_path":"..\/..\/images\/garcía-y-garcía.jpg",
+			"slug":"garcía-y-garcía"
+		},
+		{
 			"title":"Missing Link",
 			"gatsby_image_path":"..\/..\/images\/missing-link.jpg",
 			"slug":"missing-link"
-		},
-		{
-			"title":"Barbie & Chelsea the Lost Birthday",
-			"gatsby_image_path":"..\/..\/images\/barbie-chelsea-the-lost-birthday.jpg",
-			"slug":"barbie-chelsea-the-lost-birthday"
-		},
-		{
-			"title":"X-Men: Days of Future Past",
-			"gatsby_image_path":"..\/..\/images\/x-men-days-of-future-past.jpg",
-			"slug":"x-men-days-of-future-past"
 		},
 		{
 			"title":"Aladdin and the King of Thieves",
@@ -344,14 +349,9 @@
 			"slug":"aladdin-and-the-king-of-thieves"
 		},
 		{
-			"title":"Eternal Sunshine of the Spotless Mind",
-			"gatsby_image_path":"..\/..\/images\/eternal-sunshine-of-the-spotless-mind.jpg",
-			"slug":"eternal-sunshine-of-the-spotless-mind"
-		},
-		{
-			"title":"The Simpsons 20th Anniversary Special - In 3D! On Ice!",
-			"gatsby_image_path":"..\/..\/images\/the-simpsons-20th-anniversary-special-in-3d-on-ice.jpg",
-			"slug":"the-simpsons-20th-anniversary-special-in-3d-on-ice"
+			"title":"X-Men: Days of Future Past",
+			"gatsby_image_path":"..\/..\/images\/x-men-days-of-future-past.jpg",
+			"slug":"x-men-days-of-future-past"
 		}
 	],
 	"related_by_overview":[

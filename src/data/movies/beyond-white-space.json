@@ -254,6 +254,11 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"John Carter",
+			"gatsby_image_path":"..\/..\/images\/john-carter.jpg",
+			"slug":"john-carter"
+		},
+		{
 			"title":"Watchmen",
 			"gatsby_image_path":"..\/..\/images\/watchmen.jpg",
 			"slug":"watchmen"
@@ -284,6 +289,11 @@
 			"slug":"kingdom-of-swords"
 		},
 		{
+			"title":"Solitary",
+			"gatsby_image_path":"..\/..\/images\/solitary.jpg",
+			"slug":"solitary"
+		},
+		{
 			"title":"Pulp Fiction",
 			"gatsby_image_path":"..\/..\/images\/pulp-fiction.jpg",
 			"slug":"pulp-fiction"
@@ -292,6 +302,16 @@
 			"title":"Anton",
 			"gatsby_image_path":"..\/..\/images\/anton.jpg",
 			"slug":"anton"
+		},
+		{
+			"title":"Independence Daysaster",
+			"gatsby_image_path":"..\/..\/images\/independence-daysaster.jpg",
+			"slug":"independence-daysaster"
+		},
+		{
+			"title":"Muppets Haunted Mansion",
+			"gatsby_image_path":"..\/..\/images\/muppets-haunted-mansion.jpg",
+			"slug":"muppets-haunted-mansion"
 		},
 		{
 			"title":"Guardians of the Galaxy",
@@ -314,6 +334,11 @@
 			"slug":"the-chronicles-of-narnia-prince-caspian"
 		},
 		{
+			"title":"22 Bullets",
+			"gatsby_image_path":"..\/..\/images\/22-bullets.jpg",
+			"slug":"22-bullets"
+		},
+		{
 			"title":"Dragon Ball Z: Bardock - The Father of Goku",
 			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-bardock-the-father-of-goku.jpg",
 			"slug":"dragon-ball-z-bardock-the-father-of-goku"
@@ -327,31 +352,6 @@
 			"title":"How the Grinch Stole Christmas",
 			"gatsby_image_path":"..\/..\/images\/how-the-grinch-stole-christmas.jpg",
 			"slug":"how-the-grinch-stole-christmas"
-		},
-		{
-			"title":"Black Fox",
-			"gatsby_image_path":"..\/..\/images\/black-fox.jpg",
-			"slug":"black-fox"
-		},
-		{
-			"title":"A Christmas Carol",
-			"gatsby_image_path":"..\/..\/images\/a-christmas-carol.jpg",
-			"slug":"a-christmas-carol"
-		},
-		{
-			"title":"Jumanji: Welcome to the Jungle",
-			"gatsby_image_path":"..\/..\/images\/jumanji-welcome-to-the-jungle.jpg",
-			"slug":"jumanji-welcome-to-the-jungle"
-		},
-		{
-			"title":"Wrong Turn 2: Dead End",
-			"gatsby_image_path":"..\/..\/images\/wrong-turn-2-dead-end.jpg",
-			"slug":"wrong-turn-2-dead-end"
-		},
-		{
-			"title":"The Evil Dead",
-			"gatsby_image_path":"..\/..\/images\/the-evil-dead.jpg",
-			"slug":"the-evil-dead"
 		}
 	],
 	"related_by_overview":[

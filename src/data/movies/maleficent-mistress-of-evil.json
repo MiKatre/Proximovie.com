@@ -260,9 +260,24 @@
 			"slug":"maleficent"
 		},
 		{
+			"title":"The Lone Ranger",
+			"gatsby_image_path":"..\/..\/images\/the-lone-ranger.jpg",
+			"slug":"the-lone-ranger"
+		},
+		{
 			"title":"Souvenir",
 			"gatsby_image_path":"..\/..\/images\/souvenir.jpg",
 			"slug":"souvenir"
+		},
+		{
+			"title":"Final Destination",
+			"gatsby_image_path":"..\/..\/images\/final-destination.jpg",
+			"slug":"final-destination"
+		},
+		{
+			"title":"From Straight A's to XXX",
+			"gatsby_image_path":"..\/..\/images\/from-straight-a-s-to-xxx.jpg",
+			"slug":"from-straight-a-s-to-xxx"
 		},
 		{
 			"title":"The Mummy Returns",
@@ -275,14 +290,9 @@
 			"slug":"the-twilight-saga-breaking-dawn-part-2"
 		},
 		{
-			"title":"From Straight A's to XXX",
-			"gatsby_image_path":"..\/..\/images\/from-straight-a-s-to-xxx.jpg",
-			"slug":"from-straight-a-s-to-xxx"
-		},
-		{
-			"title":"Final Destination",
-			"gatsby_image_path":"..\/..\/images\/final-destination.jpg",
-			"slug":"final-destination"
+			"title":"Tiffany + Chucky",
+			"gatsby_image_path":"..\/..\/images\/tiffany-chucky.jpg",
+			"slug":"tiffany-chucky"
 		},
 		{
 			"title":"Penguin Bloom",
@@ -290,9 +300,19 @@
 			"slug":"penguin-bloom"
 		},
 		{
+			"title":"Never Back Down: Revolt",
+			"gatsby_image_path":"..\/..\/images\/never-back-down-revolt.jpg",
+			"slug":"never-back-down-revolt"
+		},
+		{
 			"title":"A Private War",
 			"gatsby_image_path":"..\/..\/images\/a-private-war.jpg",
 			"slug":"a-private-war"
+		},
+		{
+			"title":"Snow White and the Huntsman",
+			"gatsby_image_path":"..\/..\/images\/snow-white-and-the-huntsman.jpg",
+			"slug":"snow-white-and-the-huntsman"
 		},
 		{
 			"title":"The Huntsman: Winter's War",
@@ -305,9 +325,9 @@
 			"slug":"greta"
 		},
 		{
-			"title":"A Star Is Born",
-			"gatsby_image_path":"..\/..\/images\/a-star-is-born.jpg",
-			"slug":"a-star-is-born"
+			"title":"The Unfamiliar",
+			"gatsby_image_path":"..\/..\/images\/the-unfamiliar.jpg",
+			"slug":"the-unfamiliar"
 		},
 		{
 			"title":"Valley Girl",
@@ -315,14 +335,14 @@
 			"slug":"valley-girl"
 		},
 		{
-			"title":"The Unfamiliar",
-			"gatsby_image_path":"..\/..\/images\/the-unfamiliar.jpg",
-			"slug":"the-unfamiliar"
+			"title":"A Star Is Born",
+			"gatsby_image_path":"..\/..\/images\/a-star-is-born.jpg",
+			"slug":"a-star-is-born"
 		},
 		{
-			"title":"Deadly Illusions",
-			"gatsby_image_path":"..\/..\/images\/deadly-illusions.jpg",
-			"slug":"deadly-illusions"
+			"title":"Sounds Like Love",
+			"gatsby_image_path":"..\/..\/images\/sounds-like-love.jpg",
+			"slug":"sounds-like-love"
 		},
 		{
 			"title":"Fifty Shades of Grey",
@@ -330,29 +350,9 @@
 			"slug":"fifty-shades-of-grey"
 		},
 		{
-			"title":"Coraline",
-			"gatsby_image_path":"..\/..\/images\/coraline.jpg",
-			"slug":"coraline"
-		},
-		{
-			"title":"Hitman's Wife's Bodyguard",
-			"gatsby_image_path":"..\/..\/images\/hitman-s-wife-s-bodyguard.jpg",
-			"slug":"hitman-s-wife-s-bodyguard"
-		},
-		{
-			"title":"Insidious: Chapter 2",
-			"gatsby_image_path":"..\/..\/images\/insidious-chapter-2.jpg",
-			"slug":"insidious-chapter-2"
-		},
-		{
-			"title":"Code 8",
-			"gatsby_image_path":"..\/..\/images\/code-8.jpg",
-			"slug":"code-8"
-		},
-		{
-			"title":"She's All That",
-			"gatsby_image_path":"..\/..\/images\/she-s-all-that.jpg",
-			"slug":"she-s-all-that"
+			"title":"Deadly Illusions",
+			"gatsby_image_path":"..\/..\/images\/deadly-illusions.jpg",
+			"slug":"deadly-illusions"
 		}
 	],
 	"related_by_overview":[

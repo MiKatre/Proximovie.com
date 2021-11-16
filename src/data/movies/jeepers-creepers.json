@@ -258,6 +258,11 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"The Wailer",
+			"gatsby_image_path":"..\/..\/images\/the-wailer.jpg",
+			"slug":"the-wailer"
+		},
+		{
 			"title":"The Last Man",
 			"gatsby_image_path":"..\/..\/images\/the-last-man.jpg",
 			"slug":"the-last-man"
@@ -288,14 +293,14 @@
 			"slug":"hotel-transylvania"
 		},
 		{
-			"title":"Halloween Kills",
-			"gatsby_image_path":"..\/..\/images\/halloween-kills.jpg",
-			"slug":"halloween-kills"
-		},
-		{
 			"title":"My Extraordinary Summer With Tess",
 			"gatsby_image_path":"..\/..\/images\/my-extraordinary-summer-with-tess.jpg",
 			"slug":"my-extraordinary-summer-with-tess"
+		},
+		{
+			"title":"Halloween Kills",
+			"gatsby_image_path":"..\/..\/images\/halloween-kills.jpg",
+			"slug":"halloween-kills"
 		},
 		{
 			"title":"Code 8",
@@ -303,24 +308,24 @@
 			"slug":"code-8"
 		},
 		{
-			"title":"The Unfamiliar",
-			"gatsby_image_path":"..\/..\/images\/the-unfamiliar.jpg",
-			"slug":"the-unfamiliar"
-		},
-		{
 			"title":"I See You",
 			"gatsby_image_path":"..\/..\/images\/i-see-you.jpg",
 			"slug":"i-see-you"
 		},
 		{
-			"title":"Supernova",
-			"gatsby_image_path":"..\/..\/images\/supernova.jpg",
-			"slug":"supernova"
+			"title":"The Unfamiliar",
+			"gatsby_image_path":"..\/..\/images\/the-unfamiliar.jpg",
+			"slug":"the-unfamiliar"
 		},
 		{
 			"title":"Fifty Shades of Grey",
 			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
 			"slug":"fifty-shades-of-grey"
+		},
+		{
+			"title":"Supernova",
+			"gatsby_image_path":"..\/..\/images\/supernova.jpg",
+			"slug":"supernova"
 		},
 		{
 			"title":"The Godfather",
@@ -333,14 +338,14 @@
 			"slug":"in-the-shadow-of-the-moon"
 		},
 		{
-			"title":"Saving Private Ryan",
-			"gatsby_image_path":"..\/..\/images\/saving-private-ryan.jpg",
-			"slug":"saving-private-ryan"
-		},
-		{
 			"title":"Mortal Kombat",
 			"gatsby_image_path":"..\/..\/images\/mortal-kombat.jpg",
 			"slug":"mortal-kombat"
+		},
+		{
+			"title":"Saving Private Ryan",
+			"gatsby_image_path":"..\/..\/images\/saving-private-ryan.jpg",
+			"slug":"saving-private-ryan"
 		},
 		{
 			"title":"Bartkowiak",
@@ -351,11 +356,6 @@
 			"title":"Child's Play 3",
 			"gatsby_image_path":"..\/..\/images\/child-s-play-3.jpg",
 			"slug":"child-s-play-3"
-		},
-		{
-			"title":"Hunter Killer",
-			"gatsby_image_path":"..\/..\/images\/hunter-killer.jpg",
-			"slug":"hunter-killer"
 		}
 	],
 	"related_by_overview":[

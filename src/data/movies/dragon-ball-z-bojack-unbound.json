@@ -262,6 +262,11 @@
 			"slug":"the-simpsons-the-good-the-bart-and-the-loki"
 		},
 		{
+			"title":"The Jungle Book",
+			"gatsby_image_path":"..\/..\/images\/the-jungle-book.jpg",
+			"slug":"the-jungle-book"
+		},
+		{
 			"title":"Dragon Ball Super: Broly",
 			"gatsby_image_path":"..\/..\/images\/dragon-ball-super-broly.jpg",
 			"slug":"dragon-ball-super-broly"
@@ -275,11 +280,6 @@
 			"title":"Dragon Ball: Yo! Son Goku and His Friends Return!!",
 			"gatsby_image_path":"..\/..\/images\/dragon-ball-yo-son-goku-and-his-friends-return.jpg",
 			"slug":"dragon-ball-yo-son-goku-and-his-friends-return"
-		},
-		{
-			"title":"Dragon Ball Z: Dead Zone",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-dead-zone.jpg",
-			"slug":"dragon-ball-z-dead-zone"
 		},
 		{
 			"title":"Dragon Ball Z: Wrath of the Dragon",
@@ -302,9 +302,19 @@
 			"slug":"dragon-ball-z-bardock-the-father-of-goku"
 		},
 		{
+			"title":"Dragon Ball Z: Dead Zone",
+			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-dead-zone.jpg",
+			"slug":"dragon-ball-z-dead-zone"
+		},
+		{
 			"title":"Jungle Beat: The Movie",
 			"gatsby_image_path":"..\/..\/images\/jungle-beat-the-movie.jpg",
 			"slug":"jungle-beat-the-movie"
+		},
+		{
+			"title":"Daisy Quokka: World's Scariest Animal",
+			"gatsby_image_path":"..\/..\/images\/daisy-quokka-world-s-scariest-animal.jpg",
+			"slug":"daisy-quokka-world-s-scariest-animal"
 		},
 		{
 			"title":"One Piece 3D: Straw Hat Chase",
@@ -312,14 +322,14 @@
 			"slug":"one-piece-3d-straw-hat-chase"
 		},
 		{
-			"title":"The Return of Jafar",
-			"gatsby_image_path":"..\/..\/images\/the-return-of-jafar.jpg",
-			"slug":"the-return-of-jafar"
-		},
-		{
 			"title":"My Hero Academia: Two Heroes",
 			"gatsby_image_path":"..\/..\/images\/my-hero-academia-two-heroes.jpg",
 			"slug":"my-hero-academia-two-heroes"
+		},
+		{
+			"title":"The Return of Jafar",
+			"gatsby_image_path":"..\/..\/images\/the-return-of-jafar.jpg",
+			"slug":"the-return-of-jafar"
 		},
 		{
 			"title":"Doraemon: Nobita and the Windmasters",
@@ -327,29 +337,19 @@
 			"slug":"doraemon-nobita-and-the-windmasters"
 		},
 		{
-			"title":"Dragon Ball Z: Cooler's Revenge",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-cooler-s-revenge.jpg",
-			"slug":"dragon-ball-z-cooler-s-revenge"
-		},
-		{
 			"title":"Justice League vs. Teen Titans",
 			"gatsby_image_path":"..\/..\/images\/justice-league-vs.-teen-titans.jpg",
 			"slug":"justice-league-vs.-teen-titans"
 		},
 		{
-			"title":"Avengers: Infinity War",
-			"gatsby_image_path":"..\/..\/images\/avengers-infinity-war.jpg",
-			"slug":"avengers-infinity-war"
+			"title":"Dragon Ball Z: Cooler's Revenge",
+			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-cooler-s-revenge.jpg",
+			"slug":"dragon-ball-z-cooler-s-revenge"
 		},
 		{
 			"title":"Pokémon the Movie: Volcanion and the Mechanical Marvel",
 			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-volcanion-and-the-mechanical-marvel.jpg",
 			"slug":"pokémon-the-movie-volcanion-and-the-mechanical-marvel"
-		},
-		{
-			"title":"Naruto Shippuden the Movie: The Lost Tower",
-			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-the-lost-tower.jpg",
-			"slug":"naruto-shippuden-the-movie-the-lost-tower"
 		}
 	],
 	"related_by_overview":[

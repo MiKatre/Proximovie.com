@@ -266,6 +266,11 @@
 			"slug":"the-bfg"
 		},
 		{
+			"title":"The Starling",
+			"gatsby_image_path":"..\/..\/images\/the-starling.jpg",
+			"slug":"the-starling"
+		},
+		{
 			"title":"The Godfather",
 			"gatsby_image_path":"..\/..\/images\/the-godfather.jpg",
 			"slug":"the-godfather"
@@ -276,14 +281,14 @@
 			"slug":"los-viejos"
 		},
 		{
-			"title":"Chronicle",
-			"gatsby_image_path":"..\/..\/images\/chronicle.jpg",
-			"slug":"chronicle"
-		},
-		{
 			"title":"Insidious: The Last Key",
 			"gatsby_image_path":"..\/..\/images\/insidious-the-last-key.jpg",
 			"slug":"insidious-the-last-key"
+		},
+		{
+			"title":"Chronicle",
+			"gatsby_image_path":"..\/..\/images\/chronicle.jpg",
+			"slug":"chronicle"
 		},
 		{
 			"title":"Crank: High Voltage",
@@ -301,6 +306,16 @@
 			"slug":"a-star-is-born"
 		},
 		{
+			"title":"Funny People",
+			"gatsby_image_path":"..\/..\/images\/funny-people.jpg",
+			"slug":"funny-people"
+		},
+		{
+			"title":"Conan the Barbarian",
+			"gatsby_image_path":"..\/..\/images\/conan-the-barbarian.jpg",
+			"slug":"conan-the-barbarian"
+		},
+		{
 			"title":"Beyond White Space",
 			"gatsby_image_path":"..\/..\/images\/beyond-white-space.jpg",
 			"slug":"beyond-white-space"
@@ -316,14 +331,19 @@
 			"slug":"fifty-shades-of-grey"
 		},
 		{
+			"title":"Jujutsu Kaisen 0: The Movie",
+			"gatsby_image_path":"..\/..\/images\/jujutsu-kaisen-0-the-movie.jpg",
+			"slug":"jujutsu-kaisen-0-the-movie"
+		},
+		{
 			"title":"Legion",
 			"gatsby_image_path":"..\/..\/images\/legion.jpg",
 			"slug":"legion"
 		},
 		{
-			"title":"The Legend of Tarzan",
-			"gatsby_image_path":"..\/..\/images\/the-legend-of-tarzan.jpg",
-			"slug":"the-legend-of-tarzan"
+			"title":"The Exorcism of Emily Rose",
+			"gatsby_image_path":"..\/..\/images\/the-exorcism-of-emily-rose.jpg",
+			"slug":"the-exorcism-of-emily-rose"
 		},
 		{
 			"title":"Point Break",
@@ -331,29 +351,9 @@
 			"slug":"point-break"
 		},
 		{
-			"title":"Evangelion: 3.0+1.0 Thrice Upon a Time",
-			"gatsby_image_path":"..\/..\/images\/evangelion-3.0-+1.0-thrice-upon-a-time.jpg",
-			"slug":"evangelion-3.0-+1.0-thrice-upon-a-time"
-		},
-		{
-			"title":"The 5th Wave",
-			"gatsby_image_path":"..\/..\/images\/the-5th-wave.jpg",
-			"slug":"the-5th-wave"
-		},
-		{
-			"title":"The Viking War",
-			"gatsby_image_path":"..\/..\/images\/the-viking-war.jpg",
-			"slug":"the-viking-war"
-		},
-		{
-			"title":"Breakthrough",
-			"gatsby_image_path":"..\/..\/images\/breakthrough.jpg",
-			"slug":"breakthrough"
-		},
-		{
-			"title":"Blue Miracle",
-			"gatsby_image_path":"..\/..\/images\/blue-miracle.jpg",
-			"slug":"blue-miracle"
+			"title":"The Legend of Tarzan",
+			"gatsby_image_path":"..\/..\/images\/the-legend-of-tarzan.jpg",
+			"slug":"the-legend-of-tarzan"
 		}
 	],
 	"related_by_overview":[

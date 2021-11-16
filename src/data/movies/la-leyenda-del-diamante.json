@@ -258,6 +258,11 @@
 			"slug":"a-private-war"
 		},
 		{
+			"title":"Nightbooks",
+			"gatsby_image_path":"..\/..\/images\/nightbooks.jpg",
+			"slug":"nightbooks"
+		},
+		{
 			"title":"Hitman's Wife's Bodyguard",
 			"gatsby_image_path":"..\/..\/images\/hitman-s-wife-s-bodyguard.jpg",
 			"slug":"hitman-s-wife-s-bodyguard"
@@ -266,11 +271,6 @@
 			"title":"Harry Potter and the Goblet of Fire",
 			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
 			"slug":"harry-potter-and-the-goblet-of-fire"
-		},
-		{
-			"title":"Bram Stoker's Dracula",
-			"gatsby_image_path":"..\/..\/images\/bram-stoker-s-dracula.jpg",
-			"slug":"bram-stoker-s-dracula"
 		},
 		{
 			"title":"Sacrifice",
@@ -283,9 +283,9 @@
 			"slug":"the-mortuary-collection"
 		},
 		{
-			"title":"The Huntsman: Winter's War",
-			"gatsby_image_path":"..\/..\/images\/the-huntsman-winter-s-war.jpg",
-			"slug":"the-huntsman-winter-s-war"
+			"title":"Bram Stoker's Dracula",
+			"gatsby_image_path":"..\/..\/images\/bram-stoker-s-dracula.jpg",
+			"slug":"bram-stoker-s-dracula"
 		},
 		{
 			"title":"Dancing Queens",
@@ -293,9 +293,24 @@
 			"slug":"dancing-queens"
 		},
 		{
-			"title":"Psycho Goreman",
-			"gatsby_image_path":"..\/..\/images\/psycho-goreman.jpg",
-			"slug":"psycho-goreman"
+			"title":"Stranded",
+			"gatsby_image_path":"..\/..\/images\/stranded.jpg",
+			"slug":"stranded"
+		},
+		{
+			"title":"The Lone Ranger",
+			"gatsby_image_path":"..\/..\/images\/the-lone-ranger.jpg",
+			"slug":"the-lone-ranger"
+		},
+		{
+			"title":"Tiffany + Chucky",
+			"gatsby_image_path":"..\/..\/images\/tiffany-chucky.jpg",
+			"slug":"tiffany-chucky"
+		},
+		{
+			"title":"The Huntsman: Winter's War",
+			"gatsby_image_path":"..\/..\/images\/the-huntsman-winter-s-war.jpg",
+			"slug":"the-huntsman-winter-s-war"
 		},
 		{
 			"title":"Blade Runner 2049",
@@ -313,6 +328,11 @@
 			"slug":"anton"
 		},
 		{
+			"title":"Psycho Goreman",
+			"gatsby_image_path":"..\/..\/images\/psycho-goreman.jpg",
+			"slug":"psycho-goreman"
+		},
+		{
 			"title":"The Mummy Returns",
 			"gatsby_image_path":"..\/..\/images\/the-mummy-returns.jpg",
 			"slug":"the-mummy-returns"
@@ -323,29 +343,9 @@
 			"slug":"ghosts-of-war"
 		},
 		{
-			"title":"Jumanji: Welcome to the Jungle",
-			"gatsby_image_path":"..\/..\/images\/jumanji-welcome-to-the-jungle.jpg",
-			"slug":"jumanji-welcome-to-the-jungle"
-		},
-		{
-			"title":"Harry Potter and the Deathly Hallows: Part 1",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-deathly-hallows-part-1.jpg",
-			"slug":"harry-potter-and-the-deathly-hallows-part-1"
-		},
-		{
-			"title":"Iron Mask",
-			"gatsby_image_path":"..\/..\/images\/iron-mask.jpg",
-			"slug":"iron-mask"
-		},
-		{
-			"title":"In the Heights",
-			"gatsby_image_path":"..\/..\/images\/in-the-heights.jpg",
-			"slug":"in-the-heights"
-		},
-		{
-			"title":"Kingsglaive: Final Fantasy XV",
-			"gatsby_image_path":"..\/..\/images\/kingsglaive-final-fantasy-xv.jpg",
-			"slug":"kingsglaive-final-fantasy-xv"
+			"title":"Earwig and the Witch",
+			"gatsby_image_path":"..\/..\/images\/earwig-and-the-witch.jpg",
+			"slug":"earwig-and-the-witch"
 		}
 	],
 	"related_by_overview":[

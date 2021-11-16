@@ -268,6 +268,11 @@
 			"slug":"shang-chi-and-the-legend-of-the-ten-rings"
 		},
 		{
+			"title":"Cowboys & Aliens",
+			"gatsby_image_path":"..\/..\/images\/cowboys-aliens.jpg",
+			"slug":"cowboys-aliens"
+		},
+		{
 			"title":"Werewolves Within",
 			"gatsby_image_path":"..\/..\/images\/werewolves-within.jpg",
 			"slug":"werewolves-within"
@@ -293,14 +298,24 @@
 			"slug":"dark-phoenix"
 		},
 		{
-			"title":"Justice League",
-			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
-			"slug":"justice-league"
+			"title":"Star Wars: Episode III - Revenge of the Sith",
+			"gatsby_image_path":"..\/..\/images\/star-wars-episode-iii-revenge-of-the-sith.jpg",
+			"slug":"star-wars-episode-iii-revenge-of-the-sith"
 		},
 		{
 			"title":"Edge of Tomorrow",
 			"gatsby_image_path":"..\/..\/images\/edge-of-tomorrow.jpg",
 			"slug":"edge-of-tomorrow"
+		},
+		{
+			"title":"Justice League",
+			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
+			"slug":"justice-league"
+		},
+		{
+			"title":"Ready Player One",
+			"gatsby_image_path":"..\/..\/images\/ready-player-one.jpg",
+			"slug":"ready-player-one"
 		},
 		{
 			"title":"Aliens",
@@ -313,19 +328,14 @@
 			"slug":"the-water-man"
 		},
 		{
-			"title":"Ready Player One",
-			"gatsby_image_path":"..\/..\/images\/ready-player-one.jpg",
-			"slug":"ready-player-one"
-		},
-		{
 			"title":"Guardians of the Galaxy",
 			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy.jpg",
 			"slug":"guardians-of-the-galaxy"
 		},
 		{
-			"title":"Blue Miracle",
-			"gatsby_image_path":"..\/..\/images\/blue-miracle.jpg",
-			"slug":"blue-miracle"
+			"title":"The Scorpion King 3: Battle for Redemption",
+			"gatsby_image_path":"..\/..\/images\/the-scorpion-king-3-battle-for-redemption.jpg",
+			"slug":"the-scorpion-king-3-battle-for-redemption"
 		},
 		{
 			"title":"Don't Let Go",
@@ -333,9 +343,9 @@
 			"slug":"don-t-let-go"
 		},
 		{
-			"title":"Hercules",
-			"gatsby_image_path":"..\/..\/images\/hercules.jpg",
-			"slug":"hercules"
+			"title":"Blue Miracle",
+			"gatsby_image_path":"..\/..\/images\/blue-miracle.jpg",
+			"slug":"blue-miracle"
 		},
 		{
 			"title":"Anton",
@@ -346,16 +356,6 @@
 			"title":"Jumanji: Welcome to the Jungle",
 			"gatsby_image_path":"..\/..\/images\/jumanji-welcome-to-the-jungle.jpg",
 			"slug":"jumanji-welcome-to-the-jungle"
-		},
-		{
-			"title":"Kingsglaive: Final Fantasy XV",
-			"gatsby_image_path":"..\/..\/images\/kingsglaive-final-fantasy-xv.jpg",
-			"slug":"kingsglaive-final-fantasy-xv"
-		},
-		{
-			"title":"Boss Level",
-			"gatsby_image_path":"..\/..\/images\/boss-level.jpg",
-			"slug":"boss-level"
 		}
 	],
 	"related_by_overview":[

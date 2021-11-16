@@ -274,19 +274,24 @@
 			"slug":"jeepers-creepers-3"
 		},
 		{
-			"title":"Alita: Battle Angel",
-			"gatsby_image_path":"..\/..\/images\/alita-battle-angel.jpg",
-			"slug":"alita-battle-angel"
-		},
-		{
 			"title":"Ant-Man",
 			"gatsby_image_path":"..\/..\/images\/ant-man.jpg",
 			"slug":"ant-man"
 		},
 		{
+			"title":"Alita: Battle Angel",
+			"gatsby_image_path":"..\/..\/images\/alita-battle-angel.jpg",
+			"slug":"alita-battle-angel"
+		},
+		{
 			"title":"G.I. Joe: The Rise of Cobra",
 			"gatsby_image_path":"..\/..\/images\/g.i.-joe-the-rise-of-cobra.jpg",
 			"slug":"g.i.-joe-the-rise-of-cobra"
+		},
+		{
+			"title":"The Last Duel",
+			"gatsby_image_path":"..\/..\/images\/the-last-duel.jpg",
+			"slug":"the-last-duel"
 		},
 		{
 			"title":"13 Hours: The Secret Soldiers of Benghazi",
@@ -314,14 +319,19 @@
 			"slug":"the-tomorrow-war"
 		},
 		{
+			"title":"Pirates of the Caribbean: Dead Men Tell No Tales",
+			"gatsby_image_path":"..\/..\/images\/pirates-of-the-caribbean-dead-men-tell-no-tales.jpg",
+			"slug":"pirates-of-the-caribbean-dead-men-tell-no-tales"
+		},
+		{
 			"title":"Django Unchained",
 			"gatsby_image_path":"..\/..\/images\/django-unchained.jpg",
 			"slug":"django-unchained"
 		},
 		{
-			"title":"Pirates of the Caribbean: Dead Men Tell No Tales",
-			"gatsby_image_path":"..\/..\/images\/pirates-of-the-caribbean-dead-men-tell-no-tales.jpg",
-			"slug":"pirates-of-the-caribbean-dead-men-tell-no-tales"
+			"title":"Outcast",
+			"gatsby_image_path":"..\/..\/images\/outcast.jpg",
+			"slug":"outcast"
 		},
 		{
 			"title":"Iron Man 2",
@@ -329,14 +339,14 @@
 			"slug":"iron-man-2"
 		},
 		{
-			"title":"Naruto Shippuden the Movie: Road to Ninja",
-			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-road-to-ninja.jpg",
-			"slug":"naruto-shippuden-the-movie-road-to-ninja"
-		},
-		{
 			"title":"Batman: Death in the Family",
 			"gatsby_image_path":"..\/..\/images\/batman-death-in-the-family.jpg",
 			"slug":"batman-death-in-the-family"
+		},
+		{
+			"title":"Naruto Shippuden the Movie: Road to Ninja",
+			"gatsby_image_path":"..\/..\/images\/naruto-shippuden-the-movie-road-to-ninja.jpg",
+			"slug":"naruto-shippuden-the-movie-road-to-ninja"
 		},
 		{
 			"title":"Spider-Man: Far From Home",
@@ -357,16 +367,6 @@
 			"title":"Terminator Genisys",
 			"gatsby_image_path":"..\/..\/images\/terminator-genisys.jpg",
 			"slug":"terminator-genisys"
-		},
-		{
-			"title":"Thor: The Dark World",
-			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
-			"slug":"thor-the-dark-world"
-		},
-		{
-			"title":"I Am All Girls",
-			"gatsby_image_path":"..\/..\/images\/i-am-all-girls.jpg",
-			"slug":"i-am-all-girls"
 		}
 	],
 	"related_by_overview":[

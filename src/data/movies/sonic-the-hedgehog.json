@@ -278,6 +278,11 @@
 			"slug":"treasure-planet"
 		},
 		{
+			"title":"Kate",
+			"gatsby_image_path":"..\/..\/images\/kate.jpg",
+			"slug":"kate"
+		},
+		{
 			"title":"Enchanted",
 			"gatsby_image_path":"..\/..\/images\/enchanted.jpg",
 			"slug":"enchanted"
@@ -313,19 +318,19 @@
 			"slug":"black-fox"
 		},
 		{
-			"title":"Love, Chunibyo & Other Delusions! Take On Me",
-			"gatsby_image_path":"..\/..\/images\/love-chunibyo-other-delusions-take-on-me.jpg",
-			"slug":"love-chunibyo-other-delusions-take-on-me"
-		},
-		{
-			"title":"Dragon Ball Z: Cooler's Revenge",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-cooler-s-revenge.jpg",
-			"slug":"dragon-ball-z-cooler-s-revenge"
-		},
-		{
 			"title":"Shaolin Soccer",
 			"gatsby_image_path":"..\/..\/images\/shaolin-soccer.jpg",
 			"slug":"shaolin-soccer"
+		},
+		{
+			"title":"Status Update",
+			"gatsby_image_path":"..\/..\/images\/status-update.jpg",
+			"slug":"status-update"
+		},
+		{
+			"title":"Love, Chunibyo & Other Delusions! Take On Me",
+			"gatsby_image_path":"..\/..\/images\/love-chunibyo-other-delusions-take-on-me.jpg",
+			"slug":"love-chunibyo-other-delusions-take-on-me"
 		},
 		{
 			"title":"Midnight Sun",
@@ -333,9 +338,14 @@
 			"slug":"midnight-sun"
 		},
 		{
-			"title":"Stray",
-			"gatsby_image_path":"..\/..\/images\/stray.jpg",
-			"slug":"stray"
+			"title":"Child's Play",
+			"gatsby_image_path":"..\/..\/images\/child-s-play.jpg",
+			"slug":"child-s-play"
+		},
+		{
+			"title":"Dragon Ball Z: Cooler's Revenge",
+			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-cooler-s-revenge.jpg",
+			"slug":"dragon-ball-z-cooler-s-revenge"
 		},
 		{
 			"title":"Jupiter Ascending",
@@ -343,24 +353,14 @@
 			"slug":"jupiter-ascending"
 		},
 		{
+			"title":"Stray",
+			"gatsby_image_path":"..\/..\/images\/stray.jpg",
+			"slug":"stray"
+		},
+		{
 			"title":"Missing Link",
 			"gatsby_image_path":"..\/..\/images\/missing-link.jpg",
 			"slug":"missing-link"
-		},
-		{
-			"title":"Wonder Woman",
-			"gatsby_image_path":"..\/..\/images\/wonder-woman.jpg",
-			"slug":"wonder-woman"
-		},
-		{
-			"title":"Barbie Mariposa",
-			"gatsby_image_path":"..\/..\/images\/barbie-mariposa.jpg",
-			"slug":"barbie-mariposa"
-		},
-		{
-			"title":"Spies in Disguise",
-			"gatsby_image_path":"..\/..\/images\/spies-in-disguise.jpg",
-			"slug":"spies-in-disguise"
 		}
 	],
 	"related_by_overview":[

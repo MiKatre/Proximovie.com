@@ -269,11 +269,6 @@
 			"slug":"ainbo-spirit-of-the-amazon"
 		},
 		{
-			"title":"Alice in Wonderland",
-			"gatsby_image_path":"..\/..\/images\/alice-in-wonderland.jpg",
-			"slug":"alice-in-wonderland"
-		},
-		{
 			"title":"Barbie: A Fashion Fairytale",
 			"gatsby_image_path":"..\/..\/images\/barbie-a-fashion-fairytale.jpg",
 			"slug":"barbie-a-fashion-fairytale"
@@ -282,6 +277,11 @@
 			"title":"Secret Magic Control Agency",
 			"gatsby_image_path":"..\/..\/images\/secret-magic-control-agency.jpg",
 			"slug":"secret-magic-control-agency"
+		},
+		{
+			"title":"Olaf's Frozen Adventure",
+			"gatsby_image_path":"..\/..\/images\/olaf-s-frozen-adventure.jpg",
+			"slug":"olaf-s-frozen-adventure"
 		},
 		{
 			"title":"Remi, Nobody's Boy",
@@ -299,11 +299,6 @@
 			"slug":"sword-art-online-the-movie-ordinal-scale"
 		},
 		{
-			"title":"Hercules",
-			"gatsby_image_path":"..\/..\/images\/hercules.jpg",
-			"slug":"hercules"
-		},
-		{
 			"title":"Quest for Camelot",
 			"gatsby_image_path":"..\/..\/images\/quest-for-camelot.jpg",
 			"slug":"quest-for-camelot"
@@ -319,9 +314,19 @@
 			"slug":"barbie-as-the-princess-the-pauper"
 		},
 		{
+			"title":"Finch",
+			"gatsby_image_path":"..\/..\/images\/finch.jpg",
+			"slug":"finch"
+		},
+		{
 			"title":"A Monster in Paris",
 			"gatsby_image_path":"..\/..\/images\/a-monster-in-paris.jpg",
 			"slug":"a-monster-in-paris"
+		},
+		{
+			"title":"Miss Peregrine's Home for Peculiar Children",
+			"gatsby_image_path":"..\/..\/images\/miss-peregrine-s-home-for-peculiar-children.jpg",
+			"slug":"miss-peregrine-s-home-for-peculiar-children"
 		},
 		{
 			"title":"Barbie and the Three Musketeers",
@@ -334,14 +339,9 @@
 			"slug":"war-dogs"
 		},
 		{
-			"title":"Miss Peregrine's Home for Peculiar Children",
-			"gatsby_image_path":"..\/..\/images\/miss-peregrine-s-home-for-peculiar-children.jpg",
-			"slug":"miss-peregrine-s-home-for-peculiar-children"
-		},
-		{
-			"title":"Haseen Dillruba",
-			"gatsby_image_path":"..\/..\/images\/haseen-dillruba.jpg",
-			"slug":"haseen-dillruba"
+			"title":"Lady of the Manor",
+			"gatsby_image_path":"..\/..\/images\/lady-of-the-manor.jpg",
+			"slug":"lady-of-the-manor"
 		},
 		{
 			"title":"Given",
@@ -349,9 +349,9 @@
 			"slug":"given"
 		},
 		{
-			"title":"The Healing Garden",
-			"gatsby_image_path":"..\/..\/images\/the-healing-garden.jpg",
-			"slug":"the-healing-garden"
+			"title":"Princess Protection Program",
+			"gatsby_image_path":"..\/..\/images\/princess-protection-program.jpg",
+			"slug":"princess-protection-program"
 		}
 	],
 	"related_by_overview":[

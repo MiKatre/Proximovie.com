@@ -257,14 +257,14 @@
 			"slug":"underworld-blood-wars"
 		},
 		{
-			"title":"Thor: The Dark World",
-			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
-			"slug":"thor-the-dark-world"
-		},
-		{
 			"title":"Iron Mask",
 			"gatsby_image_path":"..\/..\/images\/iron-mask.jpg",
 			"slug":"iron-mask"
+		},
+		{
+			"title":"Thor: The Dark World",
+			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
+			"slug":"thor-the-dark-world"
 		},
 		{
 			"title":"Bleeding Steel",
@@ -277,11 +277,6 @@
 			"slug":"rise-of-the-guardians"
 		},
 		{
-			"title":"Jumanji: Welcome to the Jungle",
-			"gatsby_image_path":"..\/..\/images\/jumanji-welcome-to-the-jungle.jpg",
-			"slug":"jumanji-welcome-to-the-jungle"
-		},
-		{
 			"title":"Psycho Goreman",
 			"gatsby_image_path":"..\/..\/images\/psycho-goreman.jpg",
 			"slug":"psycho-goreman"
@@ -290,6 +285,16 @@
 			"title":"7 Guardians of the Tomb",
 			"gatsby_image_path":"..\/..\/images\/7-guardians-of-the-tomb.jpg",
 			"slug":"7-guardians-of-the-tomb"
+		},
+		{
+			"title":"Jumanji: Welcome to the Jungle",
+			"gatsby_image_path":"..\/..\/images\/jumanji-welcome-to-the-jungle.jpg",
+			"slug":"jumanji-welcome-to-the-jungle"
+		},
+		{
+			"title":"The Scorpion King 3: Battle for Redemption",
+			"gatsby_image_path":"..\/..\/images\/the-scorpion-king-3-battle-for-redemption.jpg",
+			"slug":"the-scorpion-king-3-battle-for-redemption"
 		},
 		{
 			"title":"The Legend of Tarzan",
@@ -302,14 +307,9 @@
 			"slug":"mary-poppins"
 		},
 		{
-			"title":"Rampage",
-			"gatsby_image_path":"..\/..\/images\/rampage.jpg",
-			"slug":"rampage"
-		},
-		{
-			"title":"211",
-			"gatsby_image_path":"..\/..\/images\/211.jpg",
-			"slug":"211"
+			"title":"Harry Potter and the Deathly Hallows: Part 1",
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-deathly-hallows-part-1.jpg",
+			"slug":"harry-potter-and-the-deathly-hallows-part-1"
 		},
 		{
 			"title":"Pirates of the Caribbean: Dead Men Tell No Tales",
@@ -322,9 +322,14 @@
 			"slug":"my-hero-academia-two-heroes"
 		},
 		{
-			"title":"Harry Potter and the Deathly Hallows: Part 1",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-deathly-hallows-part-1.jpg",
-			"slug":"harry-potter-and-the-deathly-hallows-part-1"
+			"title":"Guardians",
+			"gatsby_image_path":"..\/..\/images\/guardians.jpg",
+			"slug":"guardians"
+		},
+		{
+			"title":"Rampage",
+			"gatsby_image_path":"..\/..\/images\/rampage.jpg",
+			"slug":"rampage"
 		},
 		{
 			"title":"Alita: Battle Angel",
@@ -332,19 +337,14 @@
 			"slug":"alita-battle-angel"
 		},
 		{
-			"title":"Guardians",
-			"gatsby_image_path":"..\/..\/images\/guardians.jpg",
-			"slug":"guardians"
-		},
-		{
 			"title":"Jurassic Galaxy",
 			"gatsby_image_path":"..\/..\/images\/jurassic-galaxy.jpg",
 			"slug":"jurassic-galaxy"
 		},
 		{
-			"title":"Harry Potter and the Philosopher's Stone",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher-s-stone.jpg",
-			"slug":"harry-potter-and-the-philosopher-s-stone"
+			"title":"211",
+			"gatsby_image_path":"..\/..\/images\/211.jpg",
+			"slug":"211"
 		}
 	],
 	"related_by_overview":[

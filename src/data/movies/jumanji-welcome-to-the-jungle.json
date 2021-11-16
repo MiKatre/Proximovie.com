@@ -259,6 +259,11 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"Peçanha Contra o Animal",
+			"gatsby_image_path":"..\/..\/images\/peçanha-contra-o-animal.jpg",
+			"slug":"peçanha-contra-o-animal"
+		},
+		{
 			"title":"Ghosts of War",
 			"gatsby_image_path":"..\/..\/images\/ghosts-of-war.jpg",
 			"slug":"ghosts-of-war"
@@ -299,14 +304,14 @@
 			"slug":"edge-of-tomorrow"
 		},
 		{
+			"title":"Muppets Haunted Mansion",
+			"gatsby_image_path":"..\/..\/images\/muppets-haunted-mansion.jpg",
+			"slug":"muppets-haunted-mansion"
+		},
+		{
 			"title":"Iron Man 3",
 			"gatsby_image_path":"..\/..\/images\/iron-man-3.jpg",
 			"slug":"iron-man-3"
-		},
-		{
-			"title":"Batman: Death in the Family",
-			"gatsby_image_path":"..\/..\/images\/batman-death-in-the-family.jpg",
-			"slug":"batman-death-in-the-family"
 		},
 		{
 			"title":"Eminence Hill",
@@ -314,9 +319,29 @@
 			"slug":"eminence-hill"
 		},
 		{
+			"title":"Batman: Death in the Family",
+			"gatsby_image_path":"..\/..\/images\/batman-death-in-the-family.jpg",
+			"slug":"batman-death-in-the-family"
+		},
+		{
+			"title":"Tiffany + Chucky",
+			"gatsby_image_path":"..\/..\/images\/tiffany-chucky.jpg",
+			"slug":"tiffany-chucky"
+		},
+		{
 			"title":"Hitman's Wife's Bodyguard",
 			"gatsby_image_path":"..\/..\/images\/hitman-s-wife-s-bodyguard.jpg",
 			"slug":"hitman-s-wife-s-bodyguard"
+		},
+		{
+			"title":"The Scorpion King 3: Battle for Redemption",
+			"gatsby_image_path":"..\/..\/images\/the-scorpion-king-3-battle-for-redemption.jpg",
+			"slug":"the-scorpion-king-3-battle-for-redemption"
+		},
+		{
+			"title":"Outcast",
+			"gatsby_image_path":"..\/..\/images\/outcast.jpg",
+			"slug":"outcast"
 		},
 		{
 			"title":"The Hangover Part III",
@@ -332,31 +357,6 @@
 			"title":"Harry Potter and the Philosopher's Stone",
 			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher-s-stone.jpg",
 			"slug":"harry-potter-and-the-philosopher-s-stone"
-		},
-		{
-			"title":"The Emperor of Paris",
-			"gatsby_image_path":"..\/..\/images\/the-emperor-of-paris.jpg",
-			"slug":"the-emperor-of-paris"
-		},
-		{
-			"title":"Stray",
-			"gatsby_image_path":"..\/..\/images\/stray.jpg",
-			"slug":"stray"
-		},
-		{
-			"title":"Kingsglaive: Final Fantasy XV",
-			"gatsby_image_path":"..\/..\/images\/kingsglaive-final-fantasy-xv.jpg",
-			"slug":"kingsglaive-final-fantasy-xv"
-		},
-		{
-			"title":"Corporate Animals",
-			"gatsby_image_path":"..\/..\/images\/corporate-animals.jpg",
-			"slug":"corporate-animals"
-		},
-		{
-			"title":"Dark Phoenix",
-			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
-			"slug":"dark-phoenix"
 		}
 	],
 	"related_by_overview":[

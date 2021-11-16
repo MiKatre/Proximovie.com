@@ -259,14 +259,14 @@
 			"slug":"iron-mask"
 		},
 		{
-			"title":"Code 8",
-			"gatsby_image_path":"..\/..\/images\/code-8.jpg",
-			"slug":"code-8"
-		},
-		{
 			"title":"The Green Mile",
 			"gatsby_image_path":"..\/..\/images\/the-green-mile.jpg",
 			"slug":"the-green-mile"
+		},
+		{
+			"title":"Code 8",
+			"gatsby_image_path":"..\/..\/images\/code-8.jpg",
+			"slug":"code-8"
 		},
 		{
 			"title":"Valentine",
@@ -274,14 +274,19 @@
 			"slug":"valentine"
 		},
 		{
+			"title":"Fifty Shades of Grey",
+			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
+			"slug":"fifty-shades-of-grey"
+		},
+		{
 			"title":"Harry Potter and the Philosopher's Stone",
 			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher-s-stone.jpg",
 			"slug":"harry-potter-and-the-philosopher-s-stone"
 		},
 		{
-			"title":"Fifty Shades of Grey",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
-			"slug":"fifty-shades-of-grey"
+			"title":"Avengers Grimm",
+			"gatsby_image_path":"..\/..\/images\/avengers-grimm.jpg",
+			"slug":"avengers-grimm"
 		},
 		{
 			"title":"Avatar",
@@ -299,14 +304,14 @@
 			"slug":"justice-league-gods-and-monsters"
 		},
 		{
-			"title":"Paranormal Activity: The Marked Ones",
-			"gatsby_image_path":"..\/..\/images\/paranormal-activity-the-marked-ones.jpg",
-			"slug":"paranormal-activity-the-marked-ones"
-		},
-		{
 			"title":"In the Shadow of the Moon",
 			"gatsby_image_path":"..\/..\/images\/in-the-shadow-of-the-moon.jpg",
 			"slug":"in-the-shadow-of-the-moon"
+		},
+		{
+			"title":"Home Alone 4",
+			"gatsby_image_path":"..\/..\/images\/home-alone-4.jpg",
+			"slug":"home-alone-4"
 		},
 		{
 			"title":"Sputnik",
@@ -324,9 +329,19 @@
 			"slug":"x-men-apocalypse"
 		},
 		{
+			"title":"Paranormal Activity: The Marked Ones",
+			"gatsby_image_path":"..\/..\/images\/paranormal-activity-the-marked-ones.jpg",
+			"slug":"paranormal-activity-the-marked-ones"
+		},
+		{
 			"title":"Final Destination 2",
 			"gatsby_image_path":"..\/..\/images\/final-destination-2.jpg",
 			"slug":"final-destination-2"
+		},
+		{
+			"title":"Tiffany + Chucky",
+			"gatsby_image_path":"..\/..\/images\/tiffany-chucky.jpg",
+			"slug":"tiffany-chucky"
 		},
 		{
 			"title":"The World to Come",
@@ -334,24 +349,9 @@
 			"slug":"the-world-to-come"
 		},
 		{
-			"title":"Batman: The Long Halloween, Part One",
-			"gatsby_image_path":"..\/..\/images\/batman-the-long-halloween-part-one.jpg",
-			"slug":"batman-the-long-halloween-part-one"
-		},
-		{
 			"title":"Kingsglaive: Final Fantasy XV",
 			"gatsby_image_path":"..\/..\/images\/kingsglaive-final-fantasy-xv.jpg",
 			"slug":"kingsglaive-final-fantasy-xv"
-		},
-		{
-			"title":"Dial 100",
-			"gatsby_image_path":"..\/..\/images\/dial-100.jpg",
-			"slug":"dial-100"
-		},
-		{
-			"title":"Hell on the Border",
-			"gatsby_image_path":"..\/..\/images\/hell-on-the-border.jpg",
-			"slug":"hell-on-the-border"
 		}
 	],
 	"related_by_overview":[

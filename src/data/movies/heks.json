@@ -234,6 +234,11 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"8 Mile",
+			"gatsby_image_path":"..\/..\/images\/8-mile.jpg",
+			"slug":"8-mile"
+		},
+		{
 			"title":"Bram Stoker's Dracula",
 			"gatsby_image_path":"..\/..\/images\/bram-stoker-s-dracula.jpg",
 			"slug":"bram-stoker-s-dracula"
@@ -249,6 +254,11 @@
 			"slug":"cherry"
 		},
 		{
+			"title":"Safer at Home",
+			"gatsby_image_path":"..\/..\/images\/safer-at-home.jpg",
+			"slug":"safer-at-home"
+		},
+		{
 			"title":"Hunter Killer",
 			"gatsby_image_path":"..\/..\/images\/hunter-killer.jpg",
 			"slug":"hunter-killer"
@@ -257,11 +267,6 @@
 			"title":"Sugar Daddy",
 			"gatsby_image_path":"..\/..\/images\/sugar-daddy.jpg",
 			"slug":"sugar-daddy"
-		},
-		{
-			"title":"Child's Play",
-			"gatsby_image_path":"..\/..\/images\/child-s-play.jpg",
-			"slug":"child-s-play"
 		},
 		{
 			"title":"The Purge",
@@ -284,9 +289,24 @@
 			"slug":"i-am-all-girls"
 		},
 		{
+			"title":"Tiffany + Chucky",
+			"gatsby_image_path":"..\/..\/images\/tiffany-chucky.jpg",
+			"slug":"tiffany-chucky"
+		},
+		{
 			"title":"The Green Knight",
 			"gatsby_image_path":"..\/..\/images\/the-green-knight.jpg",
 			"slug":"the-green-knight"
+		},
+		{
+			"title":"Twilight",
+			"gatsby_image_path":"..\/..\/images\/twilight.jpg",
+			"slug":"twilight"
+		},
+		{
+			"title":"The Incredible Hulk",
+			"gatsby_image_path":"..\/..\/images\/the-incredible-hulk.jpg",
+			"slug":"the-incredible-hulk"
 		},
 		{
 			"title":"Dragon Ball Z: The History of Trunks",
@@ -299,39 +319,19 @@
 			"slug":"annabelle-comes-home"
 		},
 		{
-			"title":"The Incredible Hulk",
-			"gatsby_image_path":"..\/..\/images\/the-incredible-hulk.jpg",
-			"slug":"the-incredible-hulk"
+			"title":"Death Note",
+			"gatsby_image_path":"..\/..\/images\/death-note.jpg",
+			"slug":"death-note"
 		},
 		{
-			"title":"Come True",
-			"gatsby_image_path":"..\/..\/images\/come-true.jpg",
-			"slug":"come-true"
+			"title":"The Intruder",
+			"gatsby_image_path":"..\/..\/images\/the-intruder.jpg",
+			"slug":"the-intruder"
 		},
 		{
 			"title":"The Fault in Our Stars",
 			"gatsby_image_path":"..\/..\/images\/the-fault-in-our-stars.jpg",
 			"slug":"the-fault-in-our-stars"
-		},
-		{
-			"title":"Terminator 3: Rise of the Machines",
-			"gatsby_image_path":"..\/..\/images\/terminator-3-rise-of-the-machines.jpg",
-			"slug":"terminator-3-rise-of-the-machines"
-		},
-		{
-			"title":"Code 8",
-			"gatsby_image_path":"..\/..\/images\/code-8.jpg",
-			"slug":"code-8"
-		},
-		{
-			"title":"The Bouncer",
-			"gatsby_image_path":"..\/..\/images\/the-bouncer.jpg",
-			"slug":"the-bouncer"
-		},
-		{
-			"title":"Don't Breathe 2",
-			"gatsby_image_path":"..\/..\/images\/don-t-breathe-2.jpg",
-			"slug":"don-t-breathe-2"
 		}
 	],
 	"related_by_overview":[

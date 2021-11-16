@@ -260,6 +260,11 @@
 			"slug":"seve"
 		},
 		{
+			"title":"Everest",
+			"gatsby_image_path":"..\/..\/images\/everest.jpg",
+			"slug":"everest"
+		},
+		{
 			"title":"Major Grom: Plague Doctor",
 			"gatsby_image_path":"..\/..\/images\/major-grom-plague-doctor.jpg",
 			"slug":"major-grom-plague-doctor"
@@ -300,14 +305,19 @@
 			"slug":"jeepers-creepers-3"
 		},
 		{
-			"title":"How It Ends",
-			"gatsby_image_path":"..\/..\/images\/how-it-ends.jpg",
-			"slug":"how-it-ends"
-		},
-		{
 			"title":"Fallen",
 			"gatsby_image_path":"..\/..\/images\/fallen.jpg",
 			"slug":"fallen"
+		},
+		{
+			"title":"Ripper Untold",
+			"gatsby_image_path":"..\/..\/images\/ripper-untold.jpg",
+			"slug":"ripper-untold"
+		},
+		{
+			"title":"How It Ends",
+			"gatsby_image_path":"..\/..\/images\/how-it-ends.jpg",
+			"slug":"how-it-ends"
 		},
 		{
 			"title":"Ghosts of War",
@@ -315,9 +325,9 @@
 			"slug":"ghosts-of-war"
 		},
 		{
-			"title":"Hotel Transylvania",
-			"gatsby_image_path":"..\/..\/images\/hotel-transylvania.jpg",
-			"slug":"hotel-transylvania"
+			"title":"Prey",
+			"gatsby_image_path":"..\/..\/images\/prey.jpg",
+			"slug":"prey"
 		},
 		{
 			"title":"In the Shadow of the Moon",
@@ -325,14 +335,14 @@
 			"slug":"in-the-shadow-of-the-moon"
 		},
 		{
+			"title":"Hotel Transylvania",
+			"gatsby_image_path":"..\/..\/images\/hotel-transylvania.jpg",
+			"slug":"hotel-transylvania"
+		},
+		{
 			"title":"The Crossroads of Hunter Wilde",
 			"gatsby_image_path":"..\/..\/images\/the-crossroads-of-hunter-wilde.jpg",
 			"slug":"the-crossroads-of-hunter-wilde"
-		},
-		{
-			"title":"Security",
-			"gatsby_image_path":"..\/..\/images\/security.jpg",
-			"slug":"security"
 		},
 		{
 			"title":"The Matrix",
@@ -343,16 +353,6 @@
 			"title":"Angels & Demons",
 			"gatsby_image_path":"..\/..\/images\/angels-demons.jpg",
 			"slug":"angels-demons"
-		},
-		{
-			"title":"Los viejos",
-			"gatsby_image_path":"..\/..\/images\/los-viejos.jpg",
-			"slug":"los-viejos"
-		},
-		{
-			"title":"Mad World",
-			"gatsby_image_path":"..\/..\/images\/mad-world.jpg",
-			"slug":"mad-world"
 		}
 	],
 	"related_by_overview":[

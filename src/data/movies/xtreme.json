@@ -254,6 +254,11 @@
 			"slug":"kill-chain"
 		},
 		{
+			"title":"Women",
+			"gatsby_image_path":"..\/..\/images\/women.jpg",
+			"slug":"women"
+		},
+		{
 			"title":"A Haunted House",
 			"gatsby_image_path":"..\/..\/images\/a-haunted-house.jpg",
 			"slug":"a-haunted-house"
@@ -272,6 +277,11 @@
 			"title":"Jojo Rabbit",
 			"gatsby_image_path":"..\/..\/images\/jojo-rabbit.jpg",
 			"slug":"jojo-rabbit"
+		},
+		{
+			"title":"22 Bullets",
+			"gatsby_image_path":"..\/..\/images\/22-bullets.jpg",
+			"slug":"22-bullets"
 		},
 		{
 			"title":"V.C. Andrews' Pearl in the Mist",
@@ -309,14 +319,14 @@
 			"slug":"fifty-shades-of-grey"
 		},
 		{
-			"title":"Maze Runner: The Scorch Trials",
-			"gatsby_image_path":"..\/..\/images\/maze-runner-the-scorch-trials.jpg",
-			"slug":"maze-runner-the-scorch-trials"
-		},
-		{
 			"title":"Batman: Under the Red Hood",
 			"gatsby_image_path":"..\/..\/images\/batman-under-the-red-hood.jpg",
 			"slug":"batman-under-the-red-hood"
+		},
+		{
+			"title":"Maze Runner: The Scorch Trials",
+			"gatsby_image_path":"..\/..\/images\/maze-runner-the-scorch-trials.jpg",
+			"slug":"maze-runner-the-scorch-trials"
 		},
 		{
 			"title":"Mile 22",
@@ -324,24 +334,14 @@
 			"slug":"mile-22"
 		},
 		{
-			"title":"The Penitent Thief",
-			"gatsby_image_path":"..\/..\/images\/the-penitent-thief.jpg",
-			"slug":"the-penitent-thief"
-		},
-		{
-			"title":"Black and Blue",
-			"gatsby_image_path":"..\/..\/images\/black-and-blue.jpg",
-			"slug":"black-and-blue"
-		},
-		{
 			"title":"The Hangover Part III",
 			"gatsby_image_path":"..\/..\/images\/the-hangover-part-iii.jpg",
 			"slug":"the-hangover-part-iii"
 		},
 		{
-			"title":"Harry Potter and the Goblet of Fire",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
-			"slug":"harry-potter-and-the-goblet-of-fire"
+			"title":"The Penitent Thief",
+			"gatsby_image_path":"..\/..\/images\/the-penitent-thief.jpg",
+			"slug":"the-penitent-thief"
 		}
 	],
 	"related_by_overview":[

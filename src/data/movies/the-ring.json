@@ -256,6 +256,11 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"Apex",
+			"gatsby_image_path":"..\/..\/images\/apex.jpg",
+			"slug":"apex"
+		},
+		{
 			"title":"Modest Heroes",
 			"gatsby_image_path":"..\/..\/images\/modest-heroes.jpg",
 			"slug":"modest-heroes"
@@ -271,6 +276,21 @@
 			"slug":"spider-man-far-from-home"
 		},
 		{
+			"title":"Lords of Scam",
+			"gatsby_image_path":"..\/..\/images\/lords-of-scam.jpg",
+			"slug":"lords-of-scam"
+		},
+		{
+			"title":"Frozen II",
+			"gatsby_image_path":"..\/..\/images\/frozen-ii.jpg",
+			"slug":"frozen-ii"
+		},
+		{
+			"title":"The Exorcism of Emily Rose",
+			"gatsby_image_path":"..\/..\/images\/the-exorcism-of-emily-rose.jpg",
+			"slug":"the-exorcism-of-emily-rose"
+		},
+		{
 			"title":"John Wick: Chapter 5",
 			"gatsby_image_path":"..\/..\/images\/john-wick-chapter-5.jpg",
 			"slug":"john-wick-chapter-5"
@@ -281,14 +301,14 @@
 			"slug":"the-lovely-bones"
 		},
 		{
-			"title":"Frozen II",
-			"gatsby_image_path":"..\/..\/images\/frozen-ii.jpg",
-			"slug":"frozen-ii"
-		},
-		{
 			"title":"Lights Out",
 			"gatsby_image_path":"..\/..\/images\/lights-out.jpg",
 			"slug":"lights-out"
+		},
+		{
+			"title":"The Smurfs",
+			"gatsby_image_path":"..\/..\/images\/the-smurfs.jpg",
+			"slug":"the-smurfs"
 		},
 		{
 			"title":"Dragon Ball Z: Bardock - The Father of Goku",
@@ -301,19 +321,29 @@
 			"slug":"freaks"
 		},
 		{
+			"title":"Scary Stories to Tell in the Dark",
+			"gatsby_image_path":"..\/..\/images\/scary-stories-to-tell-in-the-dark.jpg",
+			"slug":"scary-stories-to-tell-in-the-dark"
+		},
+		{
 			"title":"Dragon Ball Z: The World's Strongest",
 			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-the-world-s-strongest.jpg",
 			"slug":"dragon-ball-z-the-world-s-strongest"
 		},
 		{
-			"title":"The Quake",
-			"gatsby_image_path":"..\/..\/images\/the-quake.jpg",
-			"slug":"the-quake"
-		},
-		{
 			"title":"Ghostbusters: Afterlife",
 			"gatsby_image_path":"..\/..\/images\/ghostbusters-afterlife.jpg",
 			"slug":"ghostbusters-afterlife"
+		},
+		{
+			"title":"Krampus",
+			"gatsby_image_path":"..\/..\/images\/krampus.jpg",
+			"slug":"krampus"
+		},
+		{
+			"title":"The Quake",
+			"gatsby_image_path":"..\/..\/images\/the-quake.jpg",
+			"slug":"the-quake"
 		},
 		{
 			"title":"Seed of Chucky",
@@ -324,36 +354,6 @@
 			"title":"Paradise Beach",
 			"gatsby_image_path":"..\/..\/images\/paradise-beach.jpg",
 			"slug":"paradise-beach"
-		},
-		{
-			"title":"Exodus: Gods and Kings",
-			"gatsby_image_path":"..\/..\/images\/exodus-gods-and-kings.jpg",
-			"slug":"exodus-gods-and-kings"
-		},
-		{
-			"title":"Doraemon: Nobita and the Kingdom of Clouds",
-			"gatsby_image_path":"..\/..\/images\/doraemon-nobita-and-the-kingdom-of-clouds.jpg",
-			"slug":"doraemon-nobita-and-the-kingdom-of-clouds"
-		},
-		{
-			"title":"Doraemon: Nobita and the Windmasters",
-			"gatsby_image_path":"..\/..\/images\/doraemon-nobita-and-the-windmasters.jpg",
-			"slug":"doraemon-nobita-and-the-windmasters"
-		},
-		{
-			"title":"Harry Potter and the Philosopher's Stone",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher-s-stone.jpg",
-			"slug":"harry-potter-and-the-philosopher-s-stone"
-		},
-		{
-			"title":"Evangelion: 3.0+1.0 Thrice Upon a Time",
-			"gatsby_image_path":"..\/..\/images\/evangelion-3.0-+1.0-thrice-upon-a-time.jpg",
-			"slug":"evangelion-3.0-+1.0-thrice-upon-a-time"
-		},
-		{
-			"title":"Sword Art Online: The Movie - Ordinal Scale",
-			"gatsby_image_path":"..\/..\/images\/sword-art-online-the-movie-ordinal-scale.jpg",
-			"slug":"sword-art-online-the-movie-ordinal-scale"
 		}
 	],
 	"related_by_overview":[

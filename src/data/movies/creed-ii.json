@@ -255,6 +255,11 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"Injustice",
+			"gatsby_image_path":"..\/..\/images\/injustice.jpg",
+			"slug":"injustice"
+		},
+		{
 			"title":"The Night Comes for Us",
 			"gatsby_image_path":"..\/..\/images\/the-night-comes-for-us.jpg",
 			"slug":"the-night-comes-for-us"
@@ -275,6 +280,11 @@
 			"slug":"naruto-shippuden-the-movie-road-to-ninja"
 		},
 		{
+			"title":"Scott Pilgrim vs. the World",
+			"gatsby_image_path":"..\/..\/images\/scott-pilgrim-vs.-the-world.jpg",
+			"slug":"scott-pilgrim-vs.-the-world"
+		},
+		{
 			"title":"A Star Is Born",
 			"gatsby_image_path":"..\/..\/images\/a-star-is-born.jpg",
 			"slug":"a-star-is-born"
@@ -290,9 +300,24 @@
 			"slug":"joseph-king-of-dreams"
 		},
 		{
+			"title":"The Change-Up",
+			"gatsby_image_path":"..\/..\/images\/the-change-up.jpg",
+			"slug":"the-change-up"
+		},
+		{
+			"title":"Child's Play",
+			"gatsby_image_path":"..\/..\/images\/child-s-play.jpg",
+			"slug":"child-s-play"
+		},
+		{
 			"title":"Annabelle Comes Home",
 			"gatsby_image_path":"..\/..\/images\/annabelle-comes-home.jpg",
 			"slug":"annabelle-comes-home"
+		},
+		{
+			"title":"Narco Sub",
+			"gatsby_image_path":"..\/..\/images\/narco-sub.jpg",
+			"slug":"narco-sub"
 		},
 		{
 			"title":"The First Purge",
@@ -300,9 +325,9 @@
 			"slug":"the-first-purge"
 		},
 		{
-			"title":"Hercules",
-			"gatsby_image_path":"..\/..\/images\/hercules.jpg",
-			"slug":"hercules"
+			"title":"Southpaw",
+			"gatsby_image_path":"..\/..\/images\/southpaw.jpg",
+			"slug":"southpaw"
 		},
 		{
 			"title":"Clash of the Titans",
@@ -310,19 +335,14 @@
 			"slug":"clash-of-the-titans"
 		},
 		{
-			"title":"Naruto the Movie: Legend of the Stone of Gelel",
-			"gatsby_image_path":"..\/..\/images\/naruto-the-movie-legend-of-the-stone-of-gelel.jpg",
-			"slug":"naruto-the-movie-legend-of-the-stone-of-gelel"
-		},
-		{
 			"title":"Batman: Death in the Family",
 			"gatsby_image_path":"..\/..\/images\/batman-death-in-the-family.jpg",
 			"slug":"batman-death-in-the-family"
 		},
 		{
-			"title":"Southpaw",
-			"gatsby_image_path":"..\/..\/images\/southpaw.jpg",
-			"slug":"southpaw"
+			"title":"Naruto the Movie: Legend of the Stone of Gelel",
+			"gatsby_image_path":"..\/..\/images\/naruto-the-movie-legend-of-the-stone-of-gelel.jpg",
+			"slug":"naruto-the-movie-legend-of-the-stone-of-gelel"
 		},
 		{
 			"title":"Roald Dahl's The Witches",
@@ -330,29 +350,9 @@
 			"slug":"roald-dahl-s-the-witches"
 		},
 		{
-			"title":"Harry Potter and the Goblet of Fire",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
-			"slug":"harry-potter-and-the-goblet-of-fire"
-		},
-		{
-			"title":"Kingsglaive: Final Fantasy XV",
-			"gatsby_image_path":"..\/..\/images\/kingsglaive-final-fantasy-xv.jpg",
-			"slug":"kingsglaive-final-fantasy-xv"
-		},
-		{
-			"title":"Fifty Shades of Grey",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
-			"slug":"fifty-shades-of-grey"
-		},
-		{
-			"title":"Bright",
-			"gatsby_image_path":"..\/..\/images\/bright.jpg",
-			"slug":"bright"
-		},
-		{
-			"title":"Scary Movie 3",
-			"gatsby_image_path":"..\/..\/images\/scary-movie-3.jpg",
-			"slug":"scary-movie-3"
+			"title":"Mad Max",
+			"gatsby_image_path":"..\/..\/images\/mad-max.jpg",
+			"slug":"mad-max"
 		}
 	],
 	"related_by_overview":[

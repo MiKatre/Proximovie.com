@@ -257,11 +257,6 @@
 	],
 	"related_by_poster":[
 		{
-			"title":"Security",
-			"gatsby_image_path":"..\/..\/images\/security.jpg",
-			"slug":"security"
-		},
-		{
 			"title":"The Legend of Tarzan",
 			"gatsby_image_path":"..\/..\/images\/the-legend-of-tarzan.jpg",
 			"slug":"the-legend-of-tarzan"
@@ -270,11 +265,6 @@
 			"title":"Black Water: Abyss",
 			"gatsby_image_path":"..\/..\/images\/black-water-abyss.jpg",
 			"slug":"black-water-abyss"
-		},
-		{
-			"title":"Friday the 13th",
-			"gatsby_image_path":"..\/..\/images\/friday-the-13th.jpg",
-			"slug":"friday-the-13th"
 		},
 		{
 			"title":"The Matrix",
@@ -292,6 +282,11 @@
 			"slug":"insurgent"
 		},
 		{
+			"title":"Cowboys & Aliens",
+			"gatsby_image_path":"..\/..\/images\/cowboys-aliens.jpg",
+			"slug":"cowboys-aliens"
+		},
+		{
 			"title":"Finding Dory",
 			"gatsby_image_path":"..\/..\/images\/finding-dory.jpg",
 			"slug":"finding-dory"
@@ -307,24 +302,24 @@
 			"slug":"fear-of-rain"
 		},
 		{
-			"title":"Harry Potter and the Philosopher's Stone",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher-s-stone.jpg",
-			"slug":"harry-potter-and-the-philosopher-s-stone"
-		},
-		{
 			"title":"Batman v Superman: Dawn of Justice",
 			"gatsby_image_path":"..\/..\/images\/batman-v-superman-dawn-of-justice.jpg",
 			"slug":"batman-v-superman-dawn-of-justice"
 		},
 		{
-			"title":"The Mummy",
-			"gatsby_image_path":"..\/..\/images\/the-mummy.jpg",
-			"slug":"the-mummy"
+			"title":"Harry Potter and the Philosopher's Stone",
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher-s-stone.jpg",
+			"slug":"harry-potter-and-the-philosopher-s-stone"
 		},
 		{
 			"title":"Lights Out",
 			"gatsby_image_path":"..\/..\/images\/lights-out.jpg",
 			"slug":"lights-out"
+		},
+		{
+			"title":"The Craft",
+			"gatsby_image_path":"..\/..\/images\/the-craft.jpg",
+			"slug":"the-craft"
 		},
 		{
 			"title":"Dark Phoenix",
@@ -337,19 +332,24 @@
 			"slug":"jungle-cruise"
 		},
 		{
-			"title":"The Shape of Water",
-			"gatsby_image_path":"..\/..\/images\/the-shape-of-water.jpg",
-			"slug":"the-shape-of-water"
+			"title":"The Rover",
+			"gatsby_image_path":"..\/..\/images\/the-rover.jpg",
+			"slug":"the-rover"
 		},
 		{
-			"title":"The Water Man",
-			"gatsby_image_path":"..\/..\/images\/the-water-man.jpg",
-			"slug":"the-water-man"
+			"title":"Extraction",
+			"gatsby_image_path":"..\/..\/images\/extraction.jpg",
+			"slug":"extraction"
 		},
 		{
 			"title":"IO",
 			"gatsby_image_path":"..\/..\/images\/io.jpg",
 			"slug":"io"
+		},
+		{
+			"title":"The Shape of Water",
+			"gatsby_image_path":"..\/..\/images\/the-shape-of-water.jpg",
+			"slug":"the-shape-of-water"
 		},
 		{
 			"title":"The Remaining",

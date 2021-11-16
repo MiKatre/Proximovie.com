@@ -256,24 +256,24 @@
 	],
 	"related_by_poster":[
 		{
-			"title":"211",
-			"gatsby_image_path":"..\/..\/images\/211.jpg",
-			"slug":"211"
-		},
-		{
 			"title":"Underworld: Blood Wars",
 			"gatsby_image_path":"..\/..\/images\/underworld-blood-wars.jpg",
 			"slug":"underworld-blood-wars"
 		},
 		{
-			"title":"Guardians",
-			"gatsby_image_path":"..\/..\/images\/guardians.jpg",
-			"slug":"guardians"
+			"title":"211",
+			"gatsby_image_path":"..\/..\/images\/211.jpg",
+			"slug":"211"
 		},
 		{
 			"title":"The Ice Road",
 			"gatsby_image_path":"..\/..\/images\/the-ice-road.jpg",
 			"slug":"the-ice-road"
+		},
+		{
+			"title":"Guardians",
+			"gatsby_image_path":"..\/..\/images\/guardians.jpg",
+			"slug":"guardians"
 		},
 		{
 			"title":"Saga of Tanya the Evil: The Movie",
@@ -291,6 +291,11 @@
 			"slug":"101-dalmatians"
 		},
 		{
+			"title":"Peçanha Contra o Animal",
+			"gatsby_image_path":"..\/..\/images\/peçanha-contra-o-animal.jpg",
+			"slug":"peçanha-contra-o-animal"
+		},
+		{
 			"title":"Love, Chunibyo & Other Delusions! Take On Me",
 			"gatsby_image_path":"..\/..\/images\/love-chunibyo-other-delusions-take-on-me.jpg",
 			"slug":"love-chunibyo-other-delusions-take-on-me"
@@ -306,19 +311,14 @@
 			"slug":"naruto-shippuden-the-movie-the-will-of-fire"
 		},
 		{
-			"title":"Justice League: Gods and Monsters",
-			"gatsby_image_path":"..\/..\/images\/justice-league-gods-and-monsters.jpg",
-			"slug":"justice-league-gods-and-monsters"
-		},
-		{
 			"title":"American Renegades",
 			"gatsby_image_path":"..\/..\/images\/american-renegades.jpg",
 			"slug":"american-renegades"
 		},
 		{
-			"title":"Alpha",
-			"gatsby_image_path":"..\/..\/images\/alpha.jpg",
-			"slug":"alpha"
+			"title":"Justice League: Gods and Monsters",
+			"gatsby_image_path":"..\/..\/images\/justice-league-gods-and-monsters.jpg",
+			"slug":"justice-league-gods-and-monsters"
 		},
 		{
 			"title":"Pirates of the Caribbean: Dead Men Tell No Tales",
@@ -326,14 +326,19 @@
 			"slug":"pirates-of-the-caribbean-dead-men-tell-no-tales"
 		},
 		{
+			"title":"Alpha",
+			"gatsby_image_path":"..\/..\/images\/alpha.jpg",
+			"slug":"alpha"
+		},
+		{
+			"title":"Muppets Haunted Mansion",
+			"gatsby_image_path":"..\/..\/images\/muppets-haunted-mansion.jpg",
+			"slug":"muppets-haunted-mansion"
+		},
+		{
 			"title":"Astro Boy",
 			"gatsby_image_path":"..\/..\/images\/astro-boy.jpg",
 			"slug":"astro-boy"
-		},
-		{
-			"title":"Final Destination 3",
-			"gatsby_image_path":"..\/..\/images\/final-destination-3.jpg",
-			"slug":"final-destination-3"
 		},
 		{
 			"title":"Harry Potter and the Philosopher's Stone",
@@ -341,19 +346,14 @@
 			"slug":"harry-potter-and-the-philosopher-s-stone"
 		},
 		{
-			"title":"Thor: The Dark World",
-			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
-			"slug":"thor-the-dark-world"
+			"title":"Final Destination 3",
+			"gatsby_image_path":"..\/..\/images\/final-destination-3.jpg",
+			"slug":"final-destination-3"
 		},
 		{
 			"title":"IO",
 			"gatsby_image_path":"..\/..\/images\/io.jpg",
 			"slug":"io"
-		},
-		{
-			"title":"Dragon Ball Z: The Tree of Might",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-the-tree-of-might.jpg",
-			"slug":"dragon-ball-z-the-tree-of-might"
 		}
 	],
 	"related_by_overview":[

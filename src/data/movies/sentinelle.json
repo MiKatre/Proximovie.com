@@ -252,6 +252,11 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"Tiempo al tiempo",
+			"gatsby_image_path":"..\/..\/images\/tiempo-al-tiempo.jpg",
+			"slug":"tiempo-al-tiempo"
+		},
+		{
 			"title":"Seed of Chucky",
 			"gatsby_image_path":"..\/..\/images\/seed-of-chucky.jpg",
 			"slug":"seed-of-chucky"
@@ -270,6 +275,11 @@
 			"title":"Dial 100",
 			"gatsby_image_path":"..\/..\/images\/dial-100.jpg",
 			"slug":"dial-100"
+		},
+		{
+			"title":"Twilight",
+			"gatsby_image_path":"..\/..\/images\/twilight.jpg",
+			"slug":"twilight"
 		},
 		{
 			"title":"Prime Time",
@@ -292,6 +302,11 @@
 			"slug":"knock-knock"
 		},
 		{
+			"title":"Total Recall",
+			"gatsby_image_path":"..\/..\/images\/total-recall.jpg",
+			"slug":"total-recall"
+		},
+		{
 			"title":"Breach",
 			"gatsby_image_path":"..\/..\/images\/breach.jpg",
 			"slug":"breach"
@@ -302,9 +317,19 @@
 			"slug":"fallen"
 		},
 		{
+			"title":"Death Note",
+			"gatsby_image_path":"..\/..\/images\/death-note.jpg",
+			"slug":"death-note"
+		},
+		{
 			"title":"She's All That",
 			"gatsby_image_path":"..\/..\/images\/she-s-all-that.jpg",
 			"slug":"she-s-all-that"
+		},
+		{
+			"title":"Women",
+			"gatsby_image_path":"..\/..\/images\/women.jpg",
+			"slug":"women"
 		},
 		{
 			"title":"Insidious",
@@ -325,31 +350,6 @@
 			"title":"Ghost Lab",
 			"gatsby_image_path":"..\/..\/images\/ghost-lab.jpg",
 			"slug":"ghost-lab"
-		},
-		{
-			"title":"Glass",
-			"gatsby_image_path":"..\/..\/images\/glass.jpg",
-			"slug":"glass"
-		},
-		{
-			"title":"Siberia",
-			"gatsby_image_path":"..\/..\/images\/siberia.jpg",
-			"slug":"siberia"
-		},
-		{
-			"title":"Insidious: The Last Key",
-			"gatsby_image_path":"..\/..\/images\/insidious-the-last-key.jpg",
-			"slug":"insidious-the-last-key"
-		},
-		{
-			"title":"The Terminator",
-			"gatsby_image_path":"..\/..\/images\/the-terminator.jpg",
-			"slug":"the-terminator"
-		},
-		{
-			"title":"Awake",
-			"gatsby_image_path":"..\/..\/images\/awake.jpg",
-			"slug":"awake"
 		}
 	],
 	"related_by_overview":[

@@ -259,6 +259,11 @@
 			"slug":"kickboxer-retaliation"
 		},
 		{
+			"title":"Friday",
+			"gatsby_image_path":"..\/..\/images\/friday.jpg",
+			"slug":"friday"
+		},
+		{
 			"title":"The Immortal",
 			"gatsby_image_path":"..\/..\/images\/the-immortal.jpg",
 			"slug":"the-immortal"
@@ -269,9 +274,9 @@
 			"slug":"undisputed-iii-redemption"
 		},
 		{
-			"title":"Dragonball Evolution",
-			"gatsby_image_path":"..\/..\/images\/dragonball-evolution.jpg",
-			"slug":"dragonball-evolution"
+			"title":"Killer Elite",
+			"gatsby_image_path":"..\/..\/images\/killer-elite.jpg",
+			"slug":"killer-elite"
 		},
 		{
 			"title":"Roald Dahl's The Witches",
@@ -279,9 +284,29 @@
 			"slug":"roald-dahl-s-the-witches"
 		},
 		{
+			"title":"Kick-Ass 2",
+			"gatsby_image_path":"..\/..\/images\/kick-ass-2.jpg",
+			"slug":"kick-ass-2"
+		},
+		{
+			"title":"Dragonball Evolution",
+			"gatsby_image_path":"..\/..\/images\/dragonball-evolution.jpg",
+			"slug":"dragonball-evolution"
+		},
+		{
+			"title":"Home Alone 3",
+			"gatsby_image_path":"..\/..\/images\/home-alone-3.jpg",
+			"slug":"home-alone-3"
+		},
+		{
 			"title":"The Great Wall",
 			"gatsby_image_path":"..\/..\/images\/the-great-wall.jpg",
 			"slug":"the-great-wall"
+		},
+		{
+			"title":"Bad Boys",
+			"gatsby_image_path":"..\/..\/images\/bad-boys.jpg",
+			"slug":"bad-boys"
 		},
 		{
 			"title":"Fatherhood",
@@ -289,9 +314,9 @@
 			"slug":"fatherhood"
 		},
 		{
-			"title":"Bad Boys",
-			"gatsby_image_path":"..\/..\/images\/bad-boys.jpg",
-			"slug":"bad-boys"
+			"title":"Framed by My Husband",
+			"gatsby_image_path":"..\/..\/images\/framed-by-my-husband.jpg",
+			"slug":"framed-by-my-husband"
 		},
 		{
 			"title":"The Hunchback of Notre Dame",
@@ -304,39 +329,14 @@
 			"slug":"bright"
 		},
 		{
-			"title":"The Doorman",
-			"gatsby_image_path":"..\/..\/images\/the-doorman.jpg",
-			"slug":"the-doorman"
-		},
-		{
 			"title":"An Interview with God",
 			"gatsby_image_path":"..\/..\/images\/an-interview-with-god.jpg",
 			"slug":"an-interview-with-god"
 		},
 		{
-			"title":"Black Panther",
-			"gatsby_image_path":"..\/..\/images\/black-panther.jpg",
-			"slug":"black-panther"
-		},
-		{
-			"title":"Wreck-It Ralph",
-			"gatsby_image_path":"..\/..\/images\/wreck-it-ralph.jpg",
-			"slug":"wreck-it-ralph"
-		},
-		{
-			"title":"High School Musical",
-			"gatsby_image_path":"..\/..\/images\/high-school-musical.jpg",
-			"slug":"high-school-musical"
-		},
-		{
-			"title":"Harry Potter and the Goblet of Fire",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
-			"slug":"harry-potter-and-the-goblet-of-fire"
-		},
-		{
-			"title":"Sextuplets",
-			"gatsby_image_path":"..\/..\/images\/sextuplets.jpg",
-			"slug":"sextuplets"
+			"title":"The Secret Lives of College Freshmen",
+			"gatsby_image_path":"..\/..\/images\/the-secret-lives-of-college-freshmen.jpg",
+			"slug":"the-secret-lives-of-college-freshmen"
 		}
 	],
 	"related_by_overview":[

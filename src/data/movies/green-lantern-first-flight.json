@@ -276,11 +276,6 @@
 			"slug":"kung-fu-panda"
 		},
 		{
-			"title":"Glass",
-			"gatsby_image_path":"..\/..\/images\/glass.jpg",
-			"slug":"glass"
-		},
-		{
 			"title":"Trolls World Tour",
 			"gatsby_image_path":"..\/..\/images\/trolls-world-tour.jpg",
 			"slug":"trolls-world-tour"
@@ -296,6 +291,11 @@
 			"slug":"snake-eyes-g.i.-joe-origins"
 		},
 		{
+			"title":"Glass",
+			"gatsby_image_path":"..\/..\/images\/glass.jpg",
+			"slug":"glass"
+		},
+		{
 			"title":"Army of the Dead",
 			"gatsby_image_path":"..\/..\/images\/army-of-the-dead.jpg",
 			"slug":"army-of-the-dead"
@@ -306,14 +306,14 @@
 			"slug":"the-tax-collector"
 		},
 		{
-			"title":"The Grinch",
-			"gatsby_image_path":"..\/..\/images\/the-grinch.jpg",
-			"slug":"the-grinch"
-		},
-		{
 			"title":"The Simpsons: The Good, the Bart, and the Loki",
 			"gatsby_image_path":"..\/..\/images\/the-simpsons-the-good-the-bart-and-the-loki.jpg",
 			"slug":"the-simpsons-the-good-the-bart-and-the-loki"
+		},
+		{
+			"title":"The Grinch",
+			"gatsby_image_path":"..\/..\/images\/the-grinch.jpg",
+			"slug":"the-grinch"
 		},
 		{
 			"title":"The Little Mermaid",
@@ -326,14 +326,9 @@
 			"slug":"iron-man"
 		},
 		{
-			"title":"Teen Titans Go! To the Movies",
-			"gatsby_image_path":"..\/..\/images\/teen-titans-go-to-the-movies.jpg",
-			"slug":"teen-titans-go-to-the-movies"
-		},
-		{
-			"title":"Dragon Ball Z: Dead Zone",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-dead-zone.jpg",
-			"slug":"dragon-ball-z-dead-zone"
+			"title":"Spirited Away",
+			"gatsby_image_path":"..\/..\/images\/spirited-away.jpg",
+			"slug":"spirited-away"
 		},
 		{
 			"title":"Dragon Ball Super: Broly",
@@ -341,14 +336,19 @@
 			"slug":"dragon-ball-super-broly"
 		},
 		{
+			"title":"Legend Quest: The Legend of the Guanajuato Mummies",
+			"gatsby_image_path":"..\/..\/images\/legend-quest-the-legend-of-the-guanajuato-mummies.jpg",
+			"slug":"legend-quest-the-legend-of-the-guanajuato-mummies"
+		},
+		{
 			"title":"Sweet & Sour",
 			"gatsby_image_path":"..\/..\/images\/sweet-sour.jpg",
 			"slug":"sweet-sour"
 		},
 		{
-			"title":"Spirited Away",
-			"gatsby_image_path":"..\/..\/images\/spirited-away.jpg",
-			"slug":"spirited-away"
+			"title":"Anaconda",
+			"gatsby_image_path":"..\/..\/images\/anaconda.jpg",
+			"slug":"anaconda"
 		}
 	],
 	"related_by_overview":[

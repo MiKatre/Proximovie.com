@@ -270,6 +270,11 @@
 			"slug":"black-fox"
 		},
 		{
+			"title":"Dreamcatcher",
+			"gatsby_image_path":"..\/..\/images\/dreamcatcher.jpg",
+			"slug":"dreamcatcher"
+		},
+		{
 			"title":"Glass",
 			"gatsby_image_path":"..\/..\/images\/glass.jpg",
 			"slug":"glass"
@@ -300,19 +305,24 @@
 			"slug":"iron-man"
 		},
 		{
-			"title":"Spies in Disguise",
-			"gatsby_image_path":"..\/..\/images\/spies-in-disguise.jpg",
-			"slug":"spies-in-disguise"
-		},
-		{
 			"title":"The Incredibles",
 			"gatsby_image_path":"..\/..\/images\/the-incredibles.jpg",
 			"slug":"the-incredibles"
 		},
 		{
+			"title":"Spies in Disguise",
+			"gatsby_image_path":"..\/..\/images\/spies-in-disguise.jpg",
+			"slug":"spies-in-disguise"
+		},
+		{
 			"title":"Justice League Dark: Apokolips War",
 			"gatsby_image_path":"..\/..\/images\/justice-league-dark-apokolips-war.jpg",
 			"slug":"justice-league-dark-apokolips-war"
+		},
+		{
+			"title":"Tears of the Sun",
+			"gatsby_image_path":"..\/..\/images\/tears-of-the-sun.jpg",
+			"slug":"tears-of-the-sun"
 		},
 		{
 			"title":"Dial 100",
@@ -325,14 +335,19 @@
 			"slug":"breach"
 		},
 		{
+			"title":"Ghostbusters II",
+			"gatsby_image_path":"..\/..\/images\/ghostbusters-ii.jpg",
+			"slug":"ghostbusters-ii"
+		},
+		{
 			"title":"Star Wars: The Force Awakens",
 			"gatsby_image_path":"..\/..\/images\/star-wars-the-force-awakens.jpg",
 			"slug":"star-wars-the-force-awakens"
 		},
 		{
-			"title":"Ghostbusters",
-			"gatsby_image_path":"..\/..\/images\/ghostbusters.jpg",
-			"slug":"ghostbusters"
+			"title":"Child's Play",
+			"gatsby_image_path":"..\/..\/images\/child-s-play.jpg",
+			"slug":"child-s-play"
 		},
 		{
 			"title":"Child's Play 3",
@@ -343,21 +358,6 @@
 			"title":"First Man",
 			"gatsby_image_path":"..\/..\/images\/first-man.jpg",
 			"slug":"first-man"
-		},
-		{
-			"title":"Zathura: A Space Adventure",
-			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
-			"slug":"zathura-a-space-adventure"
-		},
-		{
-			"title":"The Vast of Night",
-			"gatsby_image_path":"..\/..\/images\/the-vast-of-night.jpg",
-			"slug":"the-vast-of-night"
-		},
-		{
-			"title":"Justice League: Gods and Monsters",
-			"gatsby_image_path":"..\/..\/images\/justice-league-gods-and-monsters.jpg",
-			"slug":"justice-league-gods-and-monsters"
 		}
 	],
 	"related_by_overview":[

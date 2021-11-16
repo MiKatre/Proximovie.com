@@ -263,6 +263,11 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"Apex",
+			"gatsby_image_path":"..\/..\/images\/apex.jpg",
+			"slug":"apex"
+		},
+		{
 			"title":"Thor: The Dark World",
 			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
 			"slug":"thor-the-dark-world"
@@ -278,9 +283,14 @@
 			"slug":"ghosts-of-war"
 		},
 		{
-			"title":"Rise of the Guardians",
-			"gatsby_image_path":"..\/..\/images\/rise-of-the-guardians.jpg",
-			"slug":"rise-of-the-guardians"
+			"title":"Peçanha Contra o Animal",
+			"gatsby_image_path":"..\/..\/images\/peçanha-contra-o-animal.jpg",
+			"slug":"peçanha-contra-o-animal"
+		},
+		{
+			"title":"Tiffany + Chucky",
+			"gatsby_image_path":"..\/..\/images\/tiffany-chucky.jpg",
+			"slug":"tiffany-chucky"
 		},
 		{
 			"title":"Los viejos",
@@ -288,14 +298,14 @@
 			"slug":"los-viejos"
 		},
 		{
+			"title":"Rise of the Guardians",
+			"gatsby_image_path":"..\/..\/images\/rise-of-the-guardians.jpg",
+			"slug":"rise-of-the-guardians"
+		},
+		{
 			"title":"A Christmas Carol",
 			"gatsby_image_path":"..\/..\/images\/a-christmas-carol.jpg",
 			"slug":"a-christmas-carol"
-		},
-		{
-			"title":"Harry Potter and the Philosopher's Stone",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher-s-stone.jpg",
-			"slug":"harry-potter-and-the-philosopher-s-stone"
 		},
 		{
 			"title":"IO",
@@ -303,9 +313,9 @@
 			"slug":"io"
 		},
 		{
-			"title":"Friday the 13th",
-			"gatsby_image_path":"..\/..\/images\/friday-the-13th.jpg",
-			"slug":"friday-the-13th"
+			"title":"Harry Potter and the Philosopher's Stone",
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher-s-stone.jpg",
+			"slug":"harry-potter-and-the-philosopher-s-stone"
 		},
 		{
 			"title":"Lights Out",
@@ -318,49 +328,39 @@
 			"slug":"fifty-shades-of-grey"
 		},
 		{
+			"title":"Cowboys & Aliens",
+			"gatsby_image_path":"..\/..\/images\/cowboys-aliens.jpg",
+			"slug":"cowboys-aliens"
+		},
+		{
+			"title":"Prey",
+			"gatsby_image_path":"..\/..\/images\/prey.jpg",
+			"slug":"prey"
+		},
+		{
 			"title":"Dark Phoenix",
 			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
 			"slug":"dark-phoenix"
 		},
 		{
+			"title":"Everest",
+			"gatsby_image_path":"..\/..\/images\/everest.jpg",
+			"slug":"everest"
+		},
+		{
+			"title":"Outcast",
+			"gatsby_image_path":"..\/..\/images\/outcast.jpg",
+			"slug":"outcast"
+		},
+		{
+			"title":"Spectral",
+			"gatsby_image_path":"..\/..\/images\/spectral.jpg",
+			"slug":"spectral"
+		},
+		{
 			"title":"The Water Man",
 			"gatsby_image_path":"..\/..\/images\/the-water-man.jpg",
 			"slug":"the-water-man"
-		},
-		{
-			"title":"Justice League",
-			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
-			"slug":"justice-league"
-		},
-		{
-			"title":"Justice League Dark: Apokolips War",
-			"gatsby_image_path":"..\/..\/images\/justice-league-dark-apokolips-war.jpg",
-			"slug":"justice-league-dark-apokolips-war"
-		},
-		{
-			"title":"Pirates of the Caribbean: Dead Men Tell No Tales",
-			"gatsby_image_path":"..\/..\/images\/pirates-of-the-caribbean-dead-men-tell-no-tales.jpg",
-			"slug":"pirates-of-the-caribbean-dead-men-tell-no-tales"
-		},
-		{
-			"title":"Black Water: Abyss",
-			"gatsby_image_path":"..\/..\/images\/black-water-abyss.jpg",
-			"slug":"black-water-abyss"
-		},
-		{
-			"title":"Blue Miracle",
-			"gatsby_image_path":"..\/..\/images\/blue-miracle.jpg",
-			"slug":"blue-miracle"
-		},
-		{
-			"title":"Kingsglaive: Final Fantasy XV",
-			"gatsby_image_path":"..\/..\/images\/kingsglaive-final-fantasy-xv.jpg",
-			"slug":"kingsglaive-final-fantasy-xv"
-		},
-		{
-			"title":"Rurouni Kenshin Part I: Origins",
-			"gatsby_image_path":"..\/..\/images\/rurouni-kenshin-part-i-origins.jpg",
-			"slug":"rurouni-kenshin-part-i-origins"
 		}
 	],
 	"related_by_overview":[

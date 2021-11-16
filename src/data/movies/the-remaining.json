@@ -260,6 +260,11 @@
 			"slug":"finding-dory"
 		},
 		{
+			"title":"Escape The Undertaker",
+			"gatsby_image_path":"..\/..\/images\/escape-the-undertaker.jpg",
+			"slug":"escape-the-undertaker"
+		},
+		{
 			"title":"Lights Out",
 			"gatsby_image_path":"..\/..\/images\/lights-out.jpg",
 			"slug":"lights-out"
@@ -280,14 +285,14 @@
 			"slug":"io"
 		},
 		{
-			"title":"Chronicle",
-			"gatsby_image_path":"..\/..\/images\/chronicle.jpg",
-			"slug":"chronicle"
-		},
-		{
 			"title":"Peninsula",
 			"gatsby_image_path":"..\/..\/images\/peninsula.jpg",
 			"slug":"peninsula"
+		},
+		{
+			"title":"Cowboys & Aliens",
+			"gatsby_image_path":"..\/..\/images\/cowboys-aliens.jpg",
+			"slug":"cowboys-aliens"
 		},
 		{
 			"title":"Rise of the Guardians",
@@ -300,9 +305,14 @@
 			"slug":"dark-phoenix"
 		},
 		{
-			"title":"Ellipse",
-			"gatsby_image_path":"..\/..\/images\/ellipse.jpg",
-			"slug":"ellipse"
+			"title":"Iron Sky",
+			"gatsby_image_path":"..\/..\/images\/iron-sky.jpg",
+			"slug":"iron-sky"
+		},
+		{
+			"title":"Chronicle",
+			"gatsby_image_path":"..\/..\/images\/chronicle.jpg",
+			"slug":"chronicle"
 		},
 		{
 			"title":"Epic",
@@ -310,9 +320,24 @@
 			"slug":"epic"
 		},
 		{
+			"title":"Ellipse",
+			"gatsby_image_path":"..\/..\/images\/ellipse.jpg",
+			"slug":"ellipse"
+		},
+		{
+			"title":"Peçanha Contra o Animal",
+			"gatsby_image_path":"..\/..\/images\/peçanha-contra-o-animal.jpg",
+			"slug":"peçanha-contra-o-animal"
+		},
+		{
 			"title":"Hunter x Hunter: The Last Mission",
 			"gatsby_image_path":"..\/..\/images\/hunter-x-hunter-the-last-mission.jpg",
 			"slug":"hunter-x-hunter-the-last-mission"
+		},
+		{
+			"title":"Cirque du Freak: The Vampire's Assistant",
+			"gatsby_image_path":"..\/..\/images\/cirque-du-freak-the-vampire-s-assistant.jpg",
+			"slug":"cirque-du-freak-the-vampire-s-assistant"
 		},
 		{
 			"title":"The Legend of Tarzan",
@@ -325,34 +350,9 @@
 			"slug":"guardians-of-the-galaxy"
 		},
 		{
-			"title":"Ghosts of War",
-			"gatsby_image_path":"..\/..\/images\/ghosts-of-war.jpg",
-			"slug":"ghosts-of-war"
-		},
-		{
-			"title":"Thor: The Dark World",
-			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
-			"slug":"thor-the-dark-world"
-		},
-		{
-			"title":"Star Wars: The Rise of Skywalker",
-			"gatsby_image_path":"..\/..\/images\/star-wars-the-rise-of-skywalker.jpg",
-			"slug":"star-wars-the-rise-of-skywalker"
-		},
-		{
-			"title":"The Mortuary Collection",
-			"gatsby_image_path":"..\/..\/images\/the-mortuary-collection.jpg",
-			"slug":"the-mortuary-collection"
-		},
-		{
-			"title":"Eggs Run",
-			"gatsby_image_path":"..\/..\/images\/eggs-run.jpg",
-			"slug":"eggs-run"
-		},
-		{
-			"title":"The Water Man",
-			"gatsby_image_path":"..\/..\/images\/the-water-man.jpg",
-			"slug":"the-water-man"
+			"title":"Super 8",
+			"gatsby_image_path":"..\/..\/images\/super-8.jpg",
+			"slug":"super-8"
 		}
 	],
 	"related_by_overview":[

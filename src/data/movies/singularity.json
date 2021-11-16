@@ -280,14 +280,14 @@
 			"slug":"the-water-man"
 		},
 		{
-			"title":"Percy Jackson & the Olympians: The Lightning Thief",
-			"gatsby_image_path":"..\/..\/images\/percy-jackson-the-olympians-the-lightning-thief.jpg",
-			"slug":"percy-jackson-the-olympians-the-lightning-thief"
-		},
-		{
 			"title":"Mary Poppins",
 			"gatsby_image_path":"..\/..\/images\/mary-poppins.jpg",
 			"slug":"mary-poppins"
+		},
+		{
+			"title":"Percy Jackson & the Olympians: The Lightning Thief",
+			"gatsby_image_path":"..\/..\/images\/percy-jackson-the-olympians-the-lightning-thief.jpg",
+			"slug":"percy-jackson-the-olympians-the-lightning-thief"
 		},
 		{
 			"title":"Secret of the Wings",
@@ -305,6 +305,11 @@
 			"slug":"justice-league"
 		},
 		{
+			"title":"Europa Report",
+			"gatsby_image_path":"..\/..\/images\/europa-report.jpg",
+			"slug":"europa-report"
+		},
+		{
 			"title":"The Lego Star Wars Holiday Special",
 			"gatsby_image_path":"..\/..\/images\/the-lego-star-wars-holiday-special.jpg",
 			"slug":"the-lego-star-wars-holiday-special"
@@ -320,14 +325,14 @@
 			"slug":"star-wars-the-rise-of-skywalker"
 		},
 		{
-			"title":"Jumanji: Welcome to the Jungle",
-			"gatsby_image_path":"..\/..\/images\/jumanji-welcome-to-the-jungle.jpg",
-			"slug":"jumanji-welcome-to-the-jungle"
-		},
-		{
 			"title":"Extraction",
 			"gatsby_image_path":"..\/..\/images\/extraction.jpg",
 			"slug":"extraction"
+		},
+		{
+			"title":"Jumanji: Welcome to the Jungle",
+			"gatsby_image_path":"..\/..\/images\/jumanji-welcome-to-the-jungle.jpg",
+			"slug":"jumanji-welcome-to-the-jungle"
 		},
 		{
 			"title":"Tad, the Lost Explorer",
@@ -348,11 +353,6 @@
 			"title":"The Last Sharknado: It's About Time",
 			"gatsby_image_path":"..\/..\/images\/the-last-sharknado-it-s-about-time.jpg",
 			"slug":"the-last-sharknado-it-s-about-time"
-		},
-		{
-			"title":"Next Avengers: Heroes of Tomorrow",
-			"gatsby_image_path":"..\/..\/images\/next-avengers-heroes-of-tomorrow.jpg",
-			"slug":"next-avengers-heroes-of-tomorrow"
 		}
 	],
 	"related_by_overview":[

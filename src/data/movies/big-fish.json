@@ -273,19 +273,24 @@
 			"slug":"28-days-later"
 		},
 		{
-			"title":"Lilo & Stitch",
-			"gatsby_image_path":"..\/..\/images\/lilo-stitch.jpg",
-			"slug":"lilo-stitch"
-		},
-		{
 			"title":"Eternals",
 			"gatsby_image_path":"..\/..\/images\/eternals.jpg",
 			"slug":"eternals"
 		},
 		{
+			"title":"Lilo & Stitch",
+			"gatsby_image_path":"..\/..\/images\/lilo-stitch.jpg",
+			"slug":"lilo-stitch"
+		},
+		{
 			"title":"Wrong Turn 2: Dead End",
 			"gatsby_image_path":"..\/..\/images\/wrong-turn-2-dead-end.jpg",
 			"slug":"wrong-turn-2-dead-end"
+		},
+		{
+			"title":"Dragon Ball Z: Dead Zone",
+			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-dead-zone.jpg",
+			"slug":"dragon-ball-z-dead-zone"
 		},
 		{
 			"title":"Evangelion: 3.0+1.0 Thrice Upon a Time",
@@ -298,9 +303,9 @@
 			"slug":"kidnapped"
 		},
 		{
-			"title":"Dragon Ball Z: Dead Zone",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-dead-zone.jpg",
-			"slug":"dragon-ball-z-dead-zone"
+			"title":"Azor",
+			"gatsby_image_path":"..\/..\/images\/azor.jpg",
+			"slug":"azor"
 		},
 		{
 			"title":"Ghostbusters: Afterlife",
@@ -313,14 +318,14 @@
 			"slug":"tom-jerry"
 		},
 		{
-			"title":"Godzilla",
-			"gatsby_image_path":"..\/..\/images\/godzilla.jpg",
-			"slug":"godzilla"
-		},
-		{
 			"title":"A Quiet Place Part II",
 			"gatsby_image_path":"..\/..\/images\/a-quiet-place-part-ii.jpg",
 			"slug":"a-quiet-place-part-ii"
+		},
+		{
+			"title":"Godzilla",
+			"gatsby_image_path":"..\/..\/images\/godzilla.jpg",
+			"slug":"godzilla"
 		},
 		{
 			"title":"Cowboys",
@@ -333,6 +338,16 @@
 			"slug":"no-country-for-old-men"
 		},
 		{
+			"title":"The Rugrats Movie",
+			"gatsby_image_path":"..\/..\/images\/the-rugrats-movie.jpg",
+			"slug":"the-rugrats-movie"
+		},
+		{
+			"title":"Toy Story That Time Forgot",
+			"gatsby_image_path":"..\/..\/images\/toy-story-that-time-forgot.jpg",
+			"slug":"toy-story-that-time-forgot"
+		},
+		{
 			"title":"6 Underground",
 			"gatsby_image_path":"..\/..\/images\/6-underground.jpg",
 			"slug":"6-underground"
@@ -341,21 +356,6 @@
 			"title":"Goodbye Summer",
 			"gatsby_image_path":"..\/..\/images\/goodbye-summer.jpg",
 			"slug":"goodbye-summer"
-		},
-		{
-			"title":"Toy Story That Time Forgot",
-			"gatsby_image_path":"..\/..\/images\/toy-story-that-time-forgot.jpg",
-			"slug":"toy-story-that-time-forgot"
-		},
-		{
-			"title":"Tom and Jerry: The Fast and the Furry",
-			"gatsby_image_path":"..\/..\/images\/tom-and-jerry-the-fast-and-the-furry.jpg",
-			"slug":"tom-and-jerry-the-fast-and-the-furry"
-		},
-		{
-			"title":"The Lovely Bones",
-			"gatsby_image_path":"..\/..\/images\/the-lovely-bones.jpg",
-			"slug":"the-lovely-bones"
 		}
 	],
 	"related_by_overview":[

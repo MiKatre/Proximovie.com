@@ -267,6 +267,16 @@
 			"slug":"prometheus"
 		},
 		{
+			"title":"Ghostbusters",
+			"gatsby_image_path":"..\/..\/images\/ghostbusters.jpg",
+			"slug":"ghostbusters"
+		},
+		{
+			"title":"Scary Stories to Tell in the Dark",
+			"gatsby_image_path":"..\/..\/images\/scary-stories-to-tell-in-the-dark.jpg",
+			"slug":"scary-stories-to-tell-in-the-dark"
+		},
+		{
 			"title":"Seve",
 			"gatsby_image_path":"..\/..\/images\/seve.jpg",
 			"slug":"seve"
@@ -287,6 +297,11 @@
 			"slug":"the-last-naruto-the-movie"
 		},
 		{
+			"title":"Women",
+			"gatsby_image_path":"..\/..\/images\/women.jpg",
+			"slug":"women"
+		},
+		{
 			"title":"Ellipse",
 			"gatsby_image_path":"..\/..\/images\/ellipse.jpg",
 			"slug":"ellipse"
@@ -297,14 +312,14 @@
 			"slug":"knock-knock"
 		},
 		{
-			"title":"Black Fox",
-			"gatsby_image_path":"..\/..\/images\/black-fox.jpg",
-			"slug":"black-fox"
-		},
-		{
 			"title":"Lights Out",
 			"gatsby_image_path":"..\/..\/images\/lights-out.jpg",
 			"slug":"lights-out"
+		},
+		{
+			"title":"Black Fox",
+			"gatsby_image_path":"..\/..\/images\/black-fox.jpg",
+			"slug":"black-fox"
 		},
 		{
 			"title":"Sacrifice",
@@ -327,34 +342,19 @@
 			"slug":"the-vast-of-night"
 		},
 		{
+			"title":"Muppets Haunted Mansion",
+			"gatsby_image_path":"..\/..\/images\/muppets-haunted-mansion.jpg",
+			"slug":"muppets-haunted-mansion"
+		},
+		{
+			"title":"R.I.P.D.",
+			"gatsby_image_path":"..\/..\/images\/r.i.p.d..jpg",
+			"slug":"r.i.p.d."
+		},
+		{
 			"title":"Jiu Jitsu",
 			"gatsby_image_path":"..\/..\/images\/jiu-jitsu.jpg",
 			"slug":"jiu-jitsu"
-		},
-		{
-			"title":"Justice League Dark: Apokolips War",
-			"gatsby_image_path":"..\/..\/images\/justice-league-dark-apokolips-war.jpg",
-			"slug":"justice-league-dark-apokolips-war"
-		},
-		{
-			"title":"Insidious: The Last Key",
-			"gatsby_image_path":"..\/..\/images\/insidious-the-last-key.jpg",
-			"slug":"insidious-the-last-key"
-		},
-		{
-			"title":"Bad Sister",
-			"gatsby_image_path":"..\/..\/images\/bad-sister.jpg",
-			"slug":"bad-sister"
-		},
-		{
-			"title":"She's All That",
-			"gatsby_image_path":"..\/..\/images\/she-s-all-that.jpg",
-			"slug":"she-s-all-that"
-		},
-		{
-			"title":"Ghosts of War",
-			"gatsby_image_path":"..\/..\/images\/ghosts-of-war.jpg",
-			"slug":"ghosts-of-war"
 		}
 	],
 	"related_by_overview":[

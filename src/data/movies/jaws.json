@@ -280,9 +280,19 @@
 			"slug":"harry-potter-and-the-philosopher-s-stone"
 		},
 		{
+			"title":"Escape The Undertaker",
+			"gatsby_image_path":"..\/..\/images\/escape-the-undertaker.jpg",
+			"slug":"escape-the-undertaker"
+		},
+		{
 			"title":"Mermaid Down",
 			"gatsby_image_path":"..\/..\/images\/mermaid-down.jpg",
 			"slug":"mermaid-down"
+		},
+		{
+			"title":"The Vast of Night",
+			"gatsby_image_path":"..\/..\/images\/the-vast-of-night.jpg",
+			"slug":"the-vast-of-night"
 		},
 		{
 			"title":"Dragon Ball Z: Bardock - The Father of Goku",
@@ -290,9 +300,9 @@
 			"slug":"dragon-ball-z-bardock-the-father-of-goku"
 		},
 		{
-			"title":"The Vast of Night",
-			"gatsby_image_path":"..\/..\/images\/the-vast-of-night.jpg",
-			"slug":"the-vast-of-night"
+			"title":"Cirque du Freak: The Vampire's Assistant",
+			"gatsby_image_path":"..\/..\/images\/cirque-du-freak-the-vampire-s-assistant.jpg",
+			"slug":"cirque-du-freak-the-vampire-s-assistant"
 		},
 		{
 			"title":"Justice League Dark: Apokolips War",
@@ -303,6 +313,11 @@
 			"title":"Awake",
 			"gatsby_image_path":"..\/..\/images\/awake.jpg",
 			"slug":"awake"
+		},
+		{
+			"title":"Scary Stories to Tell in the Dark",
+			"gatsby_image_path":"..\/..\/images\/scary-stories-to-tell-in-the-dark.jpg",
+			"slug":"scary-stories-to-tell-in-the-dark"
 		},
 		{
 			"title":"Lights Out",
@@ -325,34 +340,19 @@
 			"slug":"deep"
 		},
 		{
-			"title":"Underwater",
-			"gatsby_image_path":"..\/..\/images\/underwater.jpg",
-			"slug":"underwater"
-		},
-		{
 			"title":"Shang-Chi and the Legend of the Ten Rings",
 			"gatsby_image_path":"..\/..\/images\/shang-chi-and-the-legend-of-the-ten-rings.jpg",
 			"slug":"shang-chi-and-the-legend-of-the-ten-rings"
 		},
 		{
+			"title":"Underwater",
+			"gatsby_image_path":"..\/..\/images\/underwater.jpg",
+			"slug":"underwater"
+		},
+		{
 			"title":"Crawl",
 			"gatsby_image_path":"..\/..\/images\/crawl.jpg",
 			"slug":"crawl"
-		},
-		{
-			"title":"Ghosts of War",
-			"gatsby_image_path":"..\/..\/images\/ghosts-of-war.jpg",
-			"slug":"ghosts-of-war"
-		},
-		{
-			"title":"Voyagers",
-			"gatsby_image_path":"..\/..\/images\/voyagers.jpg",
-			"slug":"voyagers"
-		},
-		{
-			"title":"Fantasia",
-			"gatsby_image_path":"..\/..\/images\/fantasia.jpg",
-			"slug":"fantasia"
 		}
 	],
 	"related_by_overview":[

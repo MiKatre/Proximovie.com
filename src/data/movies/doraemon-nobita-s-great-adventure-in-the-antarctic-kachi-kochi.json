@@ -262,6 +262,11 @@
 			"slug":"final-destination-3"
 		},
 		{
+			"title":"Alice in Wonderland",
+			"gatsby_image_path":"..\/..\/images\/alice-in-wonderland.jpg",
+			"slug":"alice-in-wonderland"
+		},
+		{
 			"title":"Dragon Ball Z: Bardock - The Father of Goku",
 			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-bardock-the-father-of-goku.jpg",
 			"slug":"dragon-ball-z-bardock-the-father-of-goku"
@@ -297,14 +302,14 @@
 			"slug":"black-fox"
 		},
 		{
-			"title":"Dragon Ball Z: The Tree of Might",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-the-tree-of-might.jpg",
-			"slug":"dragon-ball-z-the-tree-of-might"
-		},
-		{
 			"title":"The Legend of the Nahuala",
 			"gatsby_image_path":"..\/..\/images\/the-legend-of-the-nahuala.jpg",
 			"slug":"the-legend-of-the-nahuala"
+		},
+		{
+			"title":"Dragon Ball Z: The Tree of Might",
+			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-the-tree-of-might.jpg",
+			"slug":"dragon-ball-z-the-tree-of-might"
 		},
 		{
 			"title":"Epic",
@@ -322,14 +327,19 @@
 			"slug":"dragon-ball-z-wrath-of-the-dragon"
 		},
 		{
-			"title":"Barbie Fairytopia: Mermaidia",
-			"gatsby_image_path":"..\/..\/images\/barbie-fairytopia-mermaidia.jpg",
-			"slug":"barbie-fairytopia-mermaidia"
-		},
-		{
 			"title":"Barbie and the Diamond Castle",
 			"gatsby_image_path":"..\/..\/images\/barbie-and-the-diamond-castle.jpg",
 			"slug":"barbie-and-the-diamond-castle"
+		},
+		{
+			"title":"The Jungle Book",
+			"gatsby_image_path":"..\/..\/images\/the-jungle-book.jpg",
+			"slug":"the-jungle-book"
+		},
+		{
+			"title":"Barbie Fairytopia: Mermaidia",
+			"gatsby_image_path":"..\/..\/images\/barbie-fairytopia-mermaidia.jpg",
+			"slug":"barbie-fairytopia-mermaidia"
 		},
 		{
 			"title":"Jungle Cruise",
@@ -340,16 +350,6 @@
 			"title":"The Last Sharknado: It's About Time",
 			"gatsby_image_path":"..\/..\/images\/the-last-sharknado-it-s-about-time.jpg",
 			"slug":"the-last-sharknado-it-s-about-time"
-		},
-		{
-			"title":"Missing Link",
-			"gatsby_image_path":"..\/..\/images\/missing-link.jpg",
-			"slug":"missing-link"
-		},
-		{
-			"title":"Love, Chunibyo & Other Delusions! Rikka Version",
-			"gatsby_image_path":"..\/..\/images\/love-chunibyo-other-delusions-rikka-version.jpg",
-			"slug":"love-chunibyo-other-delusions-rikka-version"
 		}
 	],
 	"related_by_overview":[

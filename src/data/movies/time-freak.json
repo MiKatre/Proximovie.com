@@ -257,14 +257,34 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"Apex",
+			"gatsby_image_path":"..\/..\/images\/apex.jpg",
+			"slug":"apex"
+		},
+		{
+			"title":"The Cover",
+			"gatsby_image_path":"..\/..\/images\/the-cover.jpg",
+			"slug":"the-cover"
+		},
+		{
 			"title":"Blue Miracle",
 			"gatsby_image_path":"..\/..\/images\/blue-miracle.jpg",
 			"slug":"blue-miracle"
 		},
 		{
+			"title":"Lokillo",
+			"gatsby_image_path":"..\/..\/images\/lokillo.jpg",
+			"slug":"lokillo"
+		},
+		{
 			"title":"Dial 100",
 			"gatsby_image_path":"..\/..\/images\/dial-100.jpg",
 			"slug":"dial-100"
+		},
+		{
+			"title":"Justin Bieber: Our World",
+			"gatsby_image_path":"..\/..\/images\/justin-bieber-our-world.jpg",
+			"slug":"justin-bieber-our-world"
 		},
 		{
 			"title":"Scary Movie 3",
@@ -277,14 +297,14 @@
 			"slug":"harry-potter-and-the-philosopher-s-stone"
 		},
 		{
-			"title":"Justice League vs. Teen Titans",
-			"gatsby_image_path":"..\/..\/images\/justice-league-vs.-teen-titans.jpg",
-			"slug":"justice-league-vs.-teen-titans"
-		},
-		{
 			"title":"Harry Potter and the Goblet of Fire",
 			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
 			"slug":"harry-potter-and-the-goblet-of-fire"
+		},
+		{
+			"title":"Justice League vs. Teen Titans",
+			"gatsby_image_path":"..\/..\/images\/justice-league-vs.-teen-titans.jpg",
+			"slug":"justice-league-vs.-teen-titans"
 		},
 		{
 			"title":"A Private War",
@@ -292,19 +312,14 @@
 			"slug":"a-private-war"
 		},
 		{
-			"title":"Scary Movie 2",
-			"gatsby_image_path":"..\/..\/images\/scary-movie-2.jpg",
-			"slug":"scary-movie-2"
-		},
-		{
 			"title":"Fifty Shades Freed",
 			"gatsby_image_path":"..\/..\/images\/fifty-shades-freed.jpg",
 			"slug":"fifty-shades-freed"
 		},
 		{
-			"title":"Revolutionary Road",
-			"gatsby_image_path":"..\/..\/images\/revolutionary-road.jpg",
-			"slug":"revolutionary-road"
+			"title":"Scary Movie 2",
+			"gatsby_image_path":"..\/..\/images\/scary-movie-2.jpg",
+			"slug":"scary-movie-2"
 		},
 		{
 			"title":"Don't Let Go",
@@ -312,9 +327,14 @@
 			"slug":"don-t-let-go"
 		},
 		{
-			"title":"Finding Grace",
-			"gatsby_image_path":"..\/..\/images\/finding-grace.jpg",
-			"slug":"finding-grace"
+			"title":"Stranded",
+			"gatsby_image_path":"..\/..\/images\/stranded.jpg",
+			"slug":"stranded"
+		},
+		{
+			"title":"Revolutionary Road",
+			"gatsby_image_path":"..\/..\/images\/revolutionary-road.jpg",
+			"slug":"revolutionary-road"
 		},
 		{
 			"title":"Sacrifice",
@@ -322,39 +342,19 @@
 			"slug":"sacrifice"
 		},
 		{
+			"title":"Finding Grace",
+			"gatsby_image_path":"..\/..\/images\/finding-grace.jpg",
+			"slug":"finding-grace"
+		},
+		{
 			"title":"Chemical Hearts",
 			"gatsby_image_path":"..\/..\/images\/chemical-hearts.jpg",
 			"slug":"chemical-hearts"
 		},
 		{
-			"title":"The Last Letter From Your Lover",
-			"gatsby_image_path":"..\/..\/images\/the-last-letter-from-your-lover.jpg",
-			"slug":"the-last-letter-from-your-lover"
-		},
-		{
-			"title":"Shang-Chi and the Legend of the Ten Rings",
-			"gatsby_image_path":"..\/..\/images\/shang-chi-and-the-legend-of-the-ten-rings.jpg",
-			"slug":"shang-chi-and-the-legend-of-the-ten-rings"
-		},
-		{
-			"title":"The Twilight Saga: Breaking Dawn - Part 2",
-			"gatsby_image_path":"..\/..\/images\/the-twilight-saga-breaking-dawn-part-2.jpg",
-			"slug":"the-twilight-saga-breaking-dawn-part-2"
-		},
-		{
-			"title":"Deadly Illusions",
-			"gatsby_image_path":"..\/..\/images\/deadly-illusions.jpg",
-			"slug":"deadly-illusions"
-		},
-		{
-			"title":"Midway",
-			"gatsby_image_path":"..\/..\/images\/midway.jpg",
-			"slug":"midway"
-		},
-		{
-			"title":"Seed of Chucky",
-			"gatsby_image_path":"..\/..\/images\/seed-of-chucky.jpg",
-			"slug":"seed-of-chucky"
+			"title":"I Am Number Four",
+			"gatsby_image_path":"..\/..\/images\/i-am-number-four.jpg",
+			"slug":"i-am-number-four"
 		}
 	],
 	"related_by_overview":[

@@ -251,6 +251,11 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"Alice in Wonderland",
+			"gatsby_image_path":"..\/..\/images\/alice-in-wonderland.jpg",
+			"slug":"alice-in-wonderland"
+		},
+		{
 			"title":"Pokémon the Movie: Hoopa and the Clash of Ages",
 			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-hoopa-and-the-clash-of-ages.jpg",
 			"slug":"pokémon-the-movie-hoopa-and-the-clash-of-ages"
@@ -281,9 +286,24 @@
 			"slug":"the-croods-a-new-age"
 		},
 		{
+			"title":"The Smurfs",
+			"gatsby_image_path":"..\/..\/images\/the-smurfs.jpg",
+			"slug":"the-smurfs"
+		},
+		{
 			"title":"Hoodwinked Too! Hood VS. Evil",
 			"gatsby_image_path":"..\/..\/images\/hoodwinked-too-hood-vs.-evil.jpg",
 			"slug":"hoodwinked-too-hood-vs.-evil"
+		},
+		{
+			"title":"Muppets Haunted Mansion",
+			"gatsby_image_path":"..\/..\/images\/muppets-haunted-mansion.jpg",
+			"slug":"muppets-haunted-mansion"
+		},
+		{
+			"title":"There's Something About Mario",
+			"gatsby_image_path":"..\/..\/images\/there-s-something-about-mario.jpg",
+			"slug":"there-s-something-about-mario"
 		},
 		{
 			"title":"Aladdin and the King of Thieves",
@@ -326,29 +346,9 @@
 			"slug":"dragon-ball-z-bardock-the-father-of-goku"
 		},
 		{
-			"title":"Dragon Ball Z: Cooler's Revenge",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-cooler-s-revenge.jpg",
-			"slug":"dragon-ball-z-cooler-s-revenge"
-		},
-		{
 			"title":"Scooby-Doo! in Where's My Mummy?",
 			"gatsby_image_path":"..\/..\/images\/scooby-doo-in-where-s-my-mummy.jpg",
 			"slug":"scooby-doo-in-where-s-my-mummy"
-		},
-		{
-			"title":"PAW Patrol: The Movie",
-			"gatsby_image_path":"..\/..\/images\/paw-patrol-the-movie.jpg",
-			"slug":"paw-patrol-the-movie"
-		},
-		{
-			"title":"My Hero Academia: Two Heroes",
-			"gatsby_image_path":"..\/..\/images\/my-hero-academia-two-heroes.jpg",
-			"slug":"my-hero-academia-two-heroes"
-		},
-		{
-			"title":"KonoSuba: God's Blessing on this Wonderful World! Legend of Crimson",
-			"gatsby_image_path":"..\/..\/images\/konosuba-god-s-blessing-on-this-wonderful-world-legend-of-crimson.jpg",
-			"slug":"konosuba-god-s-blessing-on-this-wonderful-world-legend-of-crimson"
 		}
 	],
 	"related_by_overview":[

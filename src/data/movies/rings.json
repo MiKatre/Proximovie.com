@@ -266,14 +266,14 @@
 			"slug":"the-legend-of-tarzan"
 		},
 		{
-			"title":"Escape Room",
-			"gatsby_image_path":"..\/..\/images\/escape-room.jpg",
-			"slug":"escape-room"
-		},
-		{
 			"title":"Los viejos",
 			"gatsby_image_path":"..\/..\/images\/los-viejos.jpg",
 			"slug":"los-viejos"
+		},
+		{
+			"title":"Left Behind",
+			"gatsby_image_path":"..\/..\/images\/left-behind.jpg",
+			"slug":"left-behind"
 		},
 		{
 			"title":"The Matrix",
@@ -281,14 +281,39 @@
 			"slug":"the-matrix"
 		},
 		{
+			"title":"Europa Report",
+			"gatsby_image_path":"..\/..\/images\/europa-report.jpg",
+			"slug":"europa-report"
+		},
+		{
 			"title":"Harry Potter and the Philosopher's Stone",
 			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher-s-stone.jpg",
 			"slug":"harry-potter-and-the-philosopher-s-stone"
 		},
 		{
+			"title":"Demonic",
+			"gatsby_image_path":"..\/..\/images\/demonic.jpg",
+			"slug":"demonic"
+		},
+		{
 			"title":"Crawl",
 			"gatsby_image_path":"..\/..\/images\/crawl.jpg",
 			"slug":"crawl"
+		},
+		{
+			"title":"Scary Stories to Tell in the Dark",
+			"gatsby_image_path":"..\/..\/images\/scary-stories-to-tell-in-the-dark.jpg",
+			"slug":"scary-stories-to-tell-in-the-dark"
+		},
+		{
+			"title":"Krampus",
+			"gatsby_image_path":"..\/..\/images\/krampus.jpg",
+			"slug":"krampus"
+		},
+		{
+			"title":"Happy Feet Two",
+			"gatsby_image_path":"..\/..\/images\/happy-feet-two.jpg",
+			"slug":"happy-feet-two"
 		},
 		{
 			"title":"Insurgent",
@@ -301,9 +326,9 @@
 			"slug":"lights-out"
 		},
 		{
-			"title":"Mermaid Down",
-			"gatsby_image_path":"..\/..\/images\/mermaid-down.jpg",
-			"slug":"mermaid-down"
+			"title":"Freaks",
+			"gatsby_image_path":"..\/..\/images\/freaks.jpg",
+			"slug":"freaks"
 		},
 		{
 			"title":"Frankenweenie",
@@ -311,14 +336,9 @@
 			"slug":"frankenweenie"
 		},
 		{
-			"title":"Freaks",
-			"gatsby_image_path":"..\/..\/images\/freaks.jpg",
-			"slug":"freaks"
-		},
-		{
-			"title":"Lady and the Tramp",
-			"gatsby_image_path":"..\/..\/images\/lady-and-the-tramp.jpg",
-			"slug":"lady-and-the-tramp"
+			"title":"Mermaid Down",
+			"gatsby_image_path":"..\/..\/images\/mermaid-down.jpg",
+			"slug":"mermaid-down"
 		},
 		{
 			"title":"Finding Dory",
@@ -334,26 +354,6 @@
 			"title":"The Pool",
 			"gatsby_image_path":"..\/..\/images\/the-pool.jpg",
 			"slug":"the-pool"
-		},
-		{
-			"title":"King Kong",
-			"gatsby_image_path":"..\/..\/images\/king-kong.jpg",
-			"slug":"king-kong"
-		},
-		{
-			"title":"Hacker",
-			"gatsby_image_path":"..\/..\/images\/hacker.jpg",
-			"slug":"hacker"
-		},
-		{
-			"title":"Seventh Son",
-			"gatsby_image_path":"..\/..\/images\/seventh-son.jpg",
-			"slug":"seventh-son"
-		},
-		{
-			"title":"Apocalypto",
-			"gatsby_image_path":"..\/..\/images\/apocalypto.jpg",
-			"slug":"apocalypto"
 		}
 	],
 	"related_by_overview":[

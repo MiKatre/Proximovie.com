@@ -280,6 +280,16 @@
 			"slug":"sentinelle"
 		},
 		{
+			"title":"Demonic",
+			"gatsby_image_path":"..\/..\/images\/demonic.jpg",
+			"slug":"demonic"
+		},
+		{
+			"title":"Malignant",
+			"gatsby_image_path":"..\/..\/images\/malignant.jpg",
+			"slug":"malignant"
+		},
+		{
 			"title":"The Happening",
 			"gatsby_image_path":"..\/..\/images\/the-happening.jpg",
 			"slug":"the-happening"
@@ -295,9 +305,24 @@
 			"slug":"the-green-mile"
 		},
 		{
+			"title":"Momentum",
+			"gatsby_image_path":"..\/..\/images\/momentum.jpg",
+			"slug":"momentum"
+		},
+		{
+			"title":"Jason X",
+			"gatsby_image_path":"..\/..\/images\/jason-x.jpg",
+			"slug":"jason-x"
+		},
+		{
 			"title":"The Iron Giant",
 			"gatsby_image_path":"..\/..\/images\/the-iron-giant.jpg",
 			"slug":"the-iron-giant"
+		},
+		{
+			"title":"Found",
+			"gatsby_image_path":"..\/..\/images\/found.jpg",
+			"slug":"found"
 		},
 		{
 			"title":"Insidious: The Last Key",
@@ -310,14 +335,14 @@
 			"slug":"toxic"
 		},
 		{
-			"title":"The Ring Two",
-			"gatsby_image_path":"..\/..\/images\/the-ring-two.jpg",
-			"slug":"the-ring-two"
-		},
-		{
 			"title":"Crypto",
 			"gatsby_image_path":"..\/..\/images\/crypto.jpg",
 			"slug":"crypto"
+		},
+		{
+			"title":"The Ring Two",
+			"gatsby_image_path":"..\/..\/images\/the-ring-two.jpg",
+			"slug":"the-ring-two"
 		},
 		{
 			"title":"Titanic",
@@ -328,31 +353,6 @@
 			"title":"The Final Destination",
 			"gatsby_image_path":"..\/..\/images\/the-final-destination.jpg",
 			"slug":"the-final-destination"
-		},
-		{
-			"title":"Final Destination 2",
-			"gatsby_image_path":"..\/..\/images\/final-destination-2.jpg",
-			"slug":"final-destination-2"
-		},
-		{
-			"title":"The Empty Man",
-			"gatsby_image_path":"..\/..\/images\/the-empty-man.jpg",
-			"slug":"the-empty-man"
-		},
-		{
-			"title":"Maggie Simpson in The Force Awakens from Its Nap",
-			"gatsby_image_path":"..\/..\/images\/maggie-simpson-in-the-force-awakens-from-its-nap.jpg",
-			"slug":"maggie-simpson-in-the-force-awakens-from-its-nap"
-		},
-		{
-			"title":"Seve",
-			"gatsby_image_path":"..\/..\/images\/seve.jpg",
-			"slug":"seve"
-		},
-		{
-			"title":"Jiu Jitsu",
-			"gatsby_image_path":"..\/..\/images\/jiu-jitsu.jpg",
-			"slug":"jiu-jitsu"
 		}
 	],
 	"related_by_overview":[

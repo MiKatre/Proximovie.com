@@ -273,14 +273,14 @@
 			"slug":"the-purge"
 		},
 		{
+			"title":"Demonic",
+			"gatsby_image_path":"..\/..\/images\/demonic.jpg",
+			"slug":"demonic"
+		},
+		{
 			"title":"Bram Stoker's Dracula",
 			"gatsby_image_path":"..\/..\/images\/bram-stoker-s-dracula.jpg",
 			"slug":"bram-stoker-s-dracula"
-		},
-		{
-			"title":"The Emperor of Paris",
-			"gatsby_image_path":"..\/..\/images\/the-emperor-of-paris.jpg",
-			"slug":"the-emperor-of-paris"
 		},
 		{
 			"title":"Initiation",
@@ -288,9 +288,9 @@
 			"slug":"initiation"
 		},
 		{
-			"title":"Justice League: Doom",
-			"gatsby_image_path":"..\/..\/images\/justice-league-doom.jpg",
-			"slug":"justice-league-doom"
+			"title":"The Emperor of Paris",
+			"gatsby_image_path":"..\/..\/images\/the-emperor-of-paris.jpg",
+			"slug":"the-emperor-of-paris"
 		},
 		{
 			"title":"Hunter Killer",
@@ -298,14 +298,14 @@
 			"slug":"hunter-killer"
 		},
 		{
+			"title":"Justice League: Doom",
+			"gatsby_image_path":"..\/..\/images\/justice-league-doom.jpg",
+			"slug":"justice-league-doom"
+		},
+		{
 			"title":"La Leyenda del Diamante",
 			"gatsby_image_path":"..\/..\/images\/la-leyenda-del-diamante.jpg",
 			"slug":"la-leyenda-del-diamante"
-		},
-		{
-			"title":"The Mask",
-			"gatsby_image_path":"..\/..\/images\/the-mask.jpg",
-			"slug":"the-mask"
 		},
 		{
 			"title":"The Unfamiliar",
@@ -313,19 +313,24 @@
 			"slug":"the-unfamiliar"
 		},
 		{
+			"title":"The Mask",
+			"gatsby_image_path":"..\/..\/images\/the-mask.jpg",
+			"slug":"the-mask"
+		},
+		{
 			"title":"300",
 			"gatsby_image_path":"..\/..\/images\/300.jpg",
 			"slug":"300"
 		},
 		{
+			"title":"A Nightmare on Elm Street",
+			"gatsby_image_path":"..\/..\/images\/a-nightmare-on-elm-street.jpg",
+			"slug":"a-nightmare-on-elm-street"
+		},
+		{
 			"title":"Sacrifice",
 			"gatsby_image_path":"..\/..\/images\/sacrifice.jpg",
 			"slug":"sacrifice"
-		},
-		{
-			"title":"Carrie",
-			"gatsby_image_path":"..\/..\/images\/carrie.jpg",
-			"slug":"carrie"
 		},
 		{
 			"title":"Charlie and the Chocolate Factory",
@@ -338,6 +343,11 @@
 			"slug":"castle-freak"
 		},
 		{
+			"title":"The Toll",
+			"gatsby_image_path":"..\/..\/images\/the-toll.jpg",
+			"slug":"the-toll"
+		},
+		{
 			"title":"No Country for Old Men",
 			"gatsby_image_path":"..\/..\/images\/no-country-for-old-men.jpg",
 			"slug":"no-country-for-old-men"
@@ -346,16 +356,6 @@
 			"title":"Don't Listen",
 			"gatsby_image_path":"..\/..\/images\/don-t-listen.jpg",
 			"slug":"don-t-listen"
-		},
-		{
-			"title":"Pan's Labyrinth",
-			"gatsby_image_path":"..\/..\/images\/pan-s-labyrinth.jpg",
-			"slug":"pan-s-labyrinth"
-		},
-		{
-			"title":"The Amityville Horror",
-			"gatsby_image_path":"..\/..\/images\/the-amityville-horror.jpg",
-			"slug":"the-amityville-horror"
 		}
 	],
 	"related_by_overview":[

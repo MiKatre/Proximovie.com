@@ -301,14 +301,14 @@
 			"slug":"guardians"
 		},
 		{
-			"title":"Thor: The Dark World",
-			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
-			"slug":"thor-the-dark-world"
-		},
-		{
 			"title":"The Water Man",
 			"gatsby_image_path":"..\/..\/images\/the-water-man.jpg",
 			"slug":"the-water-man"
+		},
+		{
+			"title":"Thor: The Dark World",
+			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
+			"slug":"thor-the-dark-world"
 		},
 		{
 			"title":"Iron Man 3",
@@ -316,14 +316,19 @@
 			"slug":"iron-man-3"
 		},
 		{
+			"title":"Kingsman: The Golden Circle",
+			"gatsby_image_path":"..\/..\/images\/kingsman-the-golden-circle.jpg",
+			"slug":"kingsman-the-golden-circle"
+		},
+		{
 			"title":"Avengers: Infinity War",
 			"gatsby_image_path":"..\/..\/images\/avengers-infinity-war.jpg",
 			"slug":"avengers-infinity-war"
 		},
 		{
-			"title":"Kingsman: The Golden Circle",
-			"gatsby_image_path":"..\/..\/images\/kingsman-the-golden-circle.jpg",
-			"slug":"kingsman-the-golden-circle"
+			"title":"The Scorpion King 3: Battle for Redemption",
+			"gatsby_image_path":"..\/..\/images\/the-scorpion-king-3-battle-for-redemption.jpg",
+			"slug":"the-scorpion-king-3-battle-for-redemption"
 		},
 		{
 			"title":"Psycho Goreman",
@@ -331,24 +336,19 @@
 			"slug":"psycho-goreman"
 		},
 		{
+			"title":"Dragonheart 3: The Sorcerer's Curse",
+			"gatsby_image_path":"..\/..\/images\/dragonheart-3-the-sorcerer-s-curse.jpg",
+			"slug":"dragonheart-3-the-sorcerer-s-curse"
+		},
+		{
+			"title":"Cosmic Sin",
+			"gatsby_image_path":"..\/..\/images\/cosmic-sin.jpg",
+			"slug":"cosmic-sin"
+		},
+		{
 			"title":"Dark Phoenix",
 			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
 			"slug":"dark-phoenix"
-		},
-		{
-			"title":"Kizumonogatari Part 2: Nekketsu",
-			"gatsby_image_path":"..\/..\/images\/kizumonogatari-part-2-nekketsu.jpg",
-			"slug":"kizumonogatari-part-2-nekketsu"
-		},
-		{
-			"title":"My Hero Academia: Two Heroes",
-			"gatsby_image_path":"..\/..\/images\/my-hero-academia-two-heroes.jpg",
-			"slug":"my-hero-academia-two-heroes"
-		},
-		{
-			"title":"Ready Player One",
-			"gatsby_image_path":"..\/..\/images\/ready-player-one.jpg",
-			"slug":"ready-player-one"
 		}
 	],
 	"related_by_overview":[

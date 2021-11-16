@@ -253,14 +253,14 @@
 	],
 	"related_by_poster":[
 		{
-			"title":"Pretty Guardian Sailor Moon Eternal The Movie Part 2",
-			"gatsby_image_path":"..\/..\/images\/pretty-guardian-sailor-moon-eternal-the-movie-part-2.jpg",
-			"slug":"pretty-guardian-sailor-moon-eternal-the-movie-part-2"
-		},
-		{
 			"title":"Barbie in the Pink Shoes",
 			"gatsby_image_path":"..\/..\/images\/barbie-in-the-pink-shoes.jpg",
 			"slug":"barbie-in-the-pink-shoes"
+		},
+		{
+			"title":"Pretty Guardian Sailor Moon Eternal The Movie Part 2",
+			"gatsby_image_path":"..\/..\/images\/pretty-guardian-sailor-moon-eternal-the-movie-part-2.jpg",
+			"slug":"pretty-guardian-sailor-moon-eternal-the-movie-part-2"
 		},
 		{
 			"title":"No Game No Life: Zero",
@@ -278,9 +278,19 @@
 			"slug":"barbie-mariposa"
 		},
 		{
+			"title":"Dragon Ball Z: Battle of Gods",
+			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-battle-of-gods.jpg",
+			"slug":"dragon-ball-z-battle-of-gods"
+		},
+		{
 			"title":"Dragon Ball Z: Bojack Unbound",
 			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-bojack-unbound.jpg",
 			"slug":"dragon-ball-z-bojack-unbound"
+		},
+		{
+			"title":"Alice in Wonderland",
+			"gatsby_image_path":"..\/..\/images\/alice-in-wonderland.jpg",
+			"slug":"alice-in-wonderland"
 		},
 		{
 			"title":"Dragon Ball Z: Bardock - The Father of Goku",
@@ -298,19 +308,9 @@
 			"slug":"doraemon-nobita-and-the-windmasters"
 		},
 		{
-			"title":"Dragon Ball Z: Battle of Gods",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-battle-of-gods.jpg",
-			"slug":"dragon-ball-z-battle-of-gods"
-		},
-		{
 			"title":"Barbie Fairytopia: Mermaidia",
 			"gatsby_image_path":"..\/..\/images\/barbie-fairytopia-mermaidia.jpg",
 			"slug":"barbie-fairytopia-mermaidia"
-		},
-		{
-			"title":"One Piece Film: GOLD",
-			"gatsby_image_path":"..\/..\/images\/one-piece-film-gold.jpg",
-			"slug":"one-piece-film-gold"
 		},
 		{
 			"title":"Barbie: Spy Squad",
@@ -318,14 +318,19 @@
 			"slug":"barbie-spy-squad"
 		},
 		{
+			"title":"One Piece Film: GOLD",
+			"gatsby_image_path":"..\/..\/images\/one-piece-film-gold.jpg",
+			"slug":"one-piece-film-gold"
+		},
+		{
 			"title":"Trolls World Tour",
 			"gatsby_image_path":"..\/..\/images\/trolls-world-tour.jpg",
 			"slug":"trolls-world-tour"
 		},
 		{
-			"title":"PAW Patrol: Jet to the Rescue",
-			"gatsby_image_path":"..\/..\/images\/paw-patrol-jet-to-the-rescue.jpg",
-			"slug":"paw-patrol-jet-to-the-rescue"
+			"title":"The Jungle Book",
+			"gatsby_image_path":"..\/..\/images\/the-jungle-book.jpg",
+			"slug":"the-jungle-book"
 		},
 		{
 			"title":"The Simpsons: The Good, the Bart, and the Loki",
@@ -333,24 +338,19 @@
 			"slug":"the-simpsons-the-good-the-bart-and-the-loki"
 		},
 		{
-			"title":"Black Fox",
-			"gatsby_image_path":"..\/..\/images\/black-fox.jpg",
-			"slug":"black-fox"
-		},
-		{
-			"title":"The Lion King II: Simba's Pride",
-			"gatsby_image_path":"..\/..\/images\/the-lion-king-ii-simba-s-pride.jpg",
-			"slug":"the-lion-king-ii-simba-s-pride"
-		},
-		{
-			"title":"Dragon Ball Z: Dead Zone",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-dead-zone.jpg",
-			"slug":"dragon-ball-z-dead-zone"
+			"title":"PAW Patrol: Jet to the Rescue",
+			"gatsby_image_path":"..\/..\/images\/paw-patrol-jet-to-the-rescue.jpg",
+			"slug":"paw-patrol-jet-to-the-rescue"
 		},
 		{
 			"title":"Jungle Beat: The Movie",
 			"gatsby_image_path":"..\/..\/images\/jungle-beat-the-movie.jpg",
 			"slug":"jungle-beat-the-movie"
+		},
+		{
+			"title":"Black Fox",
+			"gatsby_image_path":"..\/..\/images\/black-fox.jpg",
+			"slug":"black-fox"
 		}
 	],
 	"related_by_overview":[

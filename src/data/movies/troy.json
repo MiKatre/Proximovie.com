@@ -261,14 +261,14 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"The Rover",
+			"gatsby_image_path":"..\/..\/images\/the-rover.jpg",
+			"slug":"the-rover"
+		},
+		{
 			"title":"Edge of Tomorrow",
 			"gatsby_image_path":"..\/..\/images\/edge-of-tomorrow.jpg",
 			"slug":"edge-of-tomorrow"
-		},
-		{
-			"title":"Hercules",
-			"gatsby_image_path":"..\/..\/images\/hercules.jpg",
-			"slug":"hercules"
 		},
 		{
 			"title":"Justice League: Throne of Atlantis",
@@ -296,6 +296,16 @@
 			"slug":"kingsglaive-final-fantasy-xv"
 		},
 		{
+			"title":"Stan Helsing",
+			"gatsby_image_path":"..\/..\/images\/stan-helsing.jpg",
+			"slug":"stan-helsing"
+		},
+		{
+			"title":"The Craft",
+			"gatsby_image_path":"..\/..\/images\/the-craft.jpg",
+			"slug":"the-craft"
+		},
+		{
 			"title":"Ghosts of War",
 			"gatsby_image_path":"..\/..\/images\/ghosts-of-war.jpg",
 			"slug":"ghosts-of-war"
@@ -306,9 +316,19 @@
 			"slug":"clash-of-the-titans"
 		},
 		{
+			"title":"Outcast",
+			"gatsby_image_path":"..\/..\/images\/outcast.jpg",
+			"slug":"outcast"
+		},
+		{
 			"title":"Dark Phoenix",
 			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
 			"slug":"dark-phoenix"
+		},
+		{
+			"title":"Straight Outta Nowhere: Scooby-Doo! Meets Courage the Cowardly Dog",
+			"gatsby_image_path":"..\/..\/images\/straight-outta-nowhere-scooby-doo-meets-courage-the-cowardly-dog.jpg",
+			"slug":"straight-outta-nowhere-scooby-doo-meets-courage-the-cowardly-dog"
 		},
 		{
 			"title":"Toxic",
@@ -339,26 +359,6 @@
 			"title":"Pokémon the Movie: I Choose You!",
 			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-i-choose-you.jpg",
 			"slug":"pokémon-the-movie-i-choose-you"
-		},
-		{
-			"title":"6 Underground",
-			"gatsby_image_path":"..\/..\/images\/6-underground.jpg",
-			"slug":"6-underground"
-		},
-		{
-			"title":"Dragon Ball Z: The History of Trunks",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-the-history-of-trunks.jpg",
-			"slug":"dragon-ball-z-the-history-of-trunks"
-		},
-		{
-			"title":"The Water Man",
-			"gatsby_image_path":"..\/..\/images\/the-water-man.jpg",
-			"slug":"the-water-man"
-		},
-		{
-			"title":"Hitman's Wife's Bodyguard",
-			"gatsby_image_path":"..\/..\/images\/hitman-s-wife-s-bodyguard.jpg",
-			"slug":"hitman-s-wife-s-bodyguard"
 		}
 	],
 	"related_by_overview":[

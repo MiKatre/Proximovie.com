@@ -254,6 +254,11 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"Outcast",
+			"gatsby_image_path":"..\/..\/images\/outcast.jpg",
+			"slug":"outcast"
+		},
+		{
 			"title":"Thor: The Dark World",
 			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
 			"slug":"thor-the-dark-world"
@@ -264,9 +269,9 @@
 			"slug":"dark-phoenix"
 		},
 		{
-			"title":"X-Men: Apocalypse",
-			"gatsby_image_path":"..\/..\/images\/x-men-apocalypse.jpg",
-			"slug":"x-men-apocalypse"
+			"title":"Apex",
+			"gatsby_image_path":"..\/..\/images\/apex.jpg",
+			"slug":"apex"
 		},
 		{
 			"title":"Fallen",
@@ -274,14 +279,19 @@
 			"slug":"fallen"
 		},
 		{
+			"title":"Iron Man 3",
+			"gatsby_image_path":"..\/..\/images\/iron-man-3.jpg",
+			"slug":"iron-man-3"
+		},
+		{
 			"title":"Justice League: Gods and Monsters",
 			"gatsby_image_path":"..\/..\/images\/justice-league-gods-and-monsters.jpg",
 			"slug":"justice-league-gods-and-monsters"
 		},
 		{
-			"title":"Iron Man 3",
-			"gatsby_image_path":"..\/..\/images\/iron-man-3.jpg",
-			"slug":"iron-man-3"
+			"title":"X-Men: Apocalypse",
+			"gatsby_image_path":"..\/..\/images\/x-men-apocalypse.jpg",
+			"slug":"x-men-apocalypse"
 		},
 		{
 			"title":"Spider-Man: Far From Home",
@@ -289,14 +299,14 @@
 			"slug":"spider-man-far-from-home"
 		},
 		{
-			"title":"The Tomorrow War",
-			"gatsby_image_path":"..\/..\/images\/the-tomorrow-war.jpg",
-			"slug":"the-tomorrow-war"
-		},
-		{
 			"title":"Spies in Disguise",
 			"gatsby_image_path":"..\/..\/images\/spies-in-disguise.jpg",
 			"slug":"spies-in-disguise"
+		},
+		{
+			"title":"The Tomorrow War",
+			"gatsby_image_path":"..\/..\/images\/the-tomorrow-war.jpg",
+			"slug":"the-tomorrow-war"
 		},
 		{
 			"title":"Guardians",
@@ -304,14 +314,14 @@
 			"slug":"guardians"
 		},
 		{
+			"title":"Peçanha Contra o Animal",
+			"gatsby_image_path":"..\/..\/images\/peçanha-contra-o-animal.jpg",
+			"slug":"peçanha-contra-o-animal"
+		},
+		{
 			"title":"13 Hours: The Secret Soldiers of Benghazi",
 			"gatsby_image_path":"..\/..\/images\/13-hours-the-secret-soldiers-of-benghazi.jpg",
 			"slug":"13-hours-the-secret-soldiers-of-benghazi"
-		},
-		{
-			"title":"Harry Potter and the Philosopher's Stone",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher-s-stone.jpg",
-			"slug":"harry-potter-and-the-philosopher-s-stone"
 		},
 		{
 			"title":"The Mortuary Collection",
@@ -319,14 +329,9 @@
 			"slug":"the-mortuary-collection"
 		},
 		{
-			"title":"Epic",
-			"gatsby_image_path":"..\/..\/images\/epic.jpg",
-			"slug":"epic"
-		},
-		{
-			"title":"Ghosts of War",
-			"gatsby_image_path":"..\/..\/images\/ghosts-of-war.jpg",
-			"slug":"ghosts-of-war"
+			"title":"Harry Potter and the Philosopher's Stone",
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher-s-stone.jpg",
+			"slug":"harry-potter-and-the-philosopher-s-stone"
 		},
 		{
 			"title":"Siberia",
@@ -334,24 +339,19 @@
 			"slug":"siberia"
 		},
 		{
+			"title":"Ghosts of War",
+			"gatsby_image_path":"..\/..\/images\/ghosts-of-war.jpg",
+			"slug":"ghosts-of-war"
+		},
+		{
+			"title":"Epic",
+			"gatsby_image_path":"..\/..\/images\/epic.jpg",
+			"slug":"epic"
+		},
+		{
 			"title":"The Night Comes for Us",
 			"gatsby_image_path":"..\/..\/images\/the-night-comes-for-us.jpg",
 			"slug":"the-night-comes-for-us"
-		},
-		{
-			"title":"Batman: Death in the Family",
-			"gatsby_image_path":"..\/..\/images\/batman-death-in-the-family.jpg",
-			"slug":"batman-death-in-the-family"
-		},
-		{
-			"title":"The Legend of Tarzan",
-			"gatsby_image_path":"..\/..\/images\/the-legend-of-tarzan.jpg",
-			"slug":"the-legend-of-tarzan"
-		},
-		{
-			"title":"Rise of the Guardians",
-			"gatsby_image_path":"..\/..\/images\/rise-of-the-guardians.jpg",
-			"slug":"rise-of-the-guardians"
 		}
 	],
 	"related_by_overview":[

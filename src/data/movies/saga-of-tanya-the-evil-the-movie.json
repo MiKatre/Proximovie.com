@@ -278,6 +278,11 @@
 			"slug":"a-christmas-carol"
 		},
 		{
+			"title":"Night at the Museum: Battle of the Smithsonian",
+			"gatsby_image_path":"..\/..\/images\/night-at-the-museum-battle-of-the-smithsonian.jpg",
+			"slug":"night-at-the-museum-battle-of-the-smithsonian"
+		},
+		{
 			"title":"Avengers: Age of Ultron",
 			"gatsby_image_path":"..\/..\/images\/avengers-age-of-ultron.jpg",
 			"slug":"avengers-age-of-ultron"
@@ -296,6 +301,11 @@
 			"title":"Guardians",
 			"gatsby_image_path":"..\/..\/images\/guardians.jpg",
 			"slug":"guardians"
+		},
+		{
+			"title":"Spectral",
+			"gatsby_image_path":"..\/..\/images\/spectral.jpg",
+			"slug":"spectral"
 		},
 		{
 			"title":"6 Underground",
@@ -318,9 +328,19 @@
 			"slug":"naruto-shippuden-the-movie-the-will-of-fire"
 		},
 		{
+			"title":"Jujutsu Kaisen 0: The Movie",
+			"gatsby_image_path":"..\/..\/images\/jujutsu-kaisen-0-the-movie.jpg",
+			"slug":"jujutsu-kaisen-0-the-movie"
+		},
+		{
 			"title":"The Legend of Tarzan",
 			"gatsby_image_path":"..\/..\/images\/the-legend-of-tarzan.jpg",
 			"slug":"the-legend-of-tarzan"
+		},
+		{
+			"title":"Ghostbusters",
+			"gatsby_image_path":"..\/..\/images\/ghostbusters.jpg",
+			"slug":"ghostbusters"
 		},
 		{
 			"title":"Rogue One: A Star Wars Story",
@@ -328,29 +348,9 @@
 			"slug":"rogue-one-a-star-wars-story"
 		},
 		{
-			"title":"The Blackout",
-			"gatsby_image_path":"..\/..\/images\/the-blackout.jpg",
-			"slug":"the-blackout"
-		},
-		{
 			"title":"Batman: Death in the Family",
 			"gatsby_image_path":"..\/..\/images\/batman-death-in-the-family.jpg",
 			"slug":"batman-death-in-the-family"
-		},
-		{
-			"title":"Kingsglaive: Final Fantasy XV",
-			"gatsby_image_path":"..\/..\/images\/kingsglaive-final-fantasy-xv.jpg",
-			"slug":"kingsglaive-final-fantasy-xv"
-		},
-		{
-			"title":"Justice League",
-			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
-			"slug":"justice-league"
-		},
-		{
-			"title":"G.I. Joe: The Rise of Cobra",
-			"gatsby_image_path":"..\/..\/images\/g.i.-joe-the-rise-of-cobra.jpg",
-			"slug":"g.i.-joe-the-rise-of-cobra"
 		}
 	],
 	"related_by_overview":[

@@ -255,14 +255,14 @@
 			"slug":"guardians-of-the-galaxy"
 		},
 		{
-			"title":"Trollhunters: Rise of the Titans",
-			"gatsby_image_path":"..\/..\/images\/trollhunters-rise-of-the-titans.jpg",
-			"slug":"trollhunters-rise-of-the-titans"
-		},
-		{
 			"title":"Ellipse",
 			"gatsby_image_path":"..\/..\/images\/ellipse.jpg",
 			"slug":"ellipse"
+		},
+		{
+			"title":"Trollhunters: Rise of the Titans",
+			"gatsby_image_path":"..\/..\/images\/trollhunters-rise-of-the-titans.jpg",
+			"slug":"trollhunters-rise-of-the-titans"
 		},
 		{
 			"title":"Sacrifice",
@@ -300,9 +300,14 @@
 			"slug":"the-amityville-horror"
 		},
 		{
-			"title":"Spider-Man",
-			"gatsby_image_path":"..\/..\/images\/spider-man.jpg",
-			"slug":"spider-man"
+			"title":"Earwig and the Witch",
+			"gatsby_image_path":"..\/..\/images\/earwig-and-the-witch.jpg",
+			"slug":"earwig-and-the-witch"
+		},
+		{
+			"title":"Trick 'r Treat",
+			"gatsby_image_path":"..\/..\/images\/trick-r-treat.jpg",
+			"slug":"trick-r-treat"
 		},
 		{
 			"title":"The Expendables 2",
@@ -310,14 +315,24 @@
 			"slug":"the-expendables-2"
 		},
 		{
+			"title":"Spider-Man",
+			"gatsby_image_path":"..\/..\/images\/spider-man.jpg",
+			"slug":"spider-man"
+		},
+		{
+			"title":"Reminiscence",
+			"gatsby_image_path":"..\/..\/images\/reminiscence.jpg",
+			"slug":"reminiscence"
+		},
+		{
 			"title":"Star Wars: The Rise of Skywalker",
 			"gatsby_image_path":"..\/..\/images\/star-wars-the-rise-of-skywalker.jpg",
 			"slug":"star-wars-the-rise-of-skywalker"
 		},
 		{
-			"title":"Skylines",
-			"gatsby_image_path":"..\/..\/images\/skylines.jpg",
-			"slug":"skylines"
+			"title":"Machete",
+			"gatsby_image_path":"..\/..\/images\/machete.jpg",
+			"slug":"machete"
 		},
 		{
 			"title":"Samson",
@@ -325,29 +340,14 @@
 			"slug":"samson"
 		},
 		{
+			"title":"Skylines",
+			"gatsby_image_path":"..\/..\/images\/skylines.jpg",
+			"slug":"skylines"
+		},
+		{
 			"title":"Iron Man",
 			"gatsby_image_path":"..\/..\/images\/iron-man.jpg",
 			"slug":"iron-man"
-		},
-		{
-			"title":"The Mortuary Collection",
-			"gatsby_image_path":"..\/..\/images\/the-mortuary-collection.jpg",
-			"slug":"the-mortuary-collection"
-		},
-		{
-			"title":"Jiu Jitsu",
-			"gatsby_image_path":"..\/..\/images\/jiu-jitsu.jpg",
-			"slug":"jiu-jitsu"
-		},
-		{
-			"title":"Hitman's Wife's Bodyguard",
-			"gatsby_image_path":"..\/..\/images\/hitman-s-wife-s-bodyguard.jpg",
-			"slug":"hitman-s-wife-s-bodyguard"
-		},
-		{
-			"title":"Stray",
-			"gatsby_image_path":"..\/..\/images\/stray.jpg",
-			"slug":"stray"
 		}
 	],
 	"related_by_overview":[

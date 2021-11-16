@@ -275,19 +275,24 @@
 			"slug":"the-quake"
 		},
 		{
-			"title":"300",
-			"gatsby_image_path":"..\/..\/images\/300.jpg",
-			"slug":"300"
-		},
-		{
 			"title":"The First King",
 			"gatsby_image_path":"..\/..\/images\/the-first-king.jpg",
 			"slug":"the-first-king"
 		},
 		{
+			"title":"300",
+			"gatsby_image_path":"..\/..\/images\/300.jpg",
+			"slug":"300"
+		},
+		{
 			"title":"Max Steel",
 			"gatsby_image_path":"..\/..\/images\/max-steel.jpg",
 			"slug":"max-steel"
+		},
+		{
+			"title":"Fantasia",
+			"gatsby_image_path":"..\/..\/images\/fantasia.jpg",
+			"slug":"fantasia"
 		},
 		{
 			"title":"Mermaid Down",
@@ -300,14 +305,19 @@
 			"slug":"godzilla"
 		},
 		{
-			"title":"Fantasia",
-			"gatsby_image_path":"..\/..\/images\/fantasia.jpg",
-			"slug":"fantasia"
-		},
-		{
 			"title":"Anna",
 			"gatsby_image_path":"..\/..\/images\/anna.jpg",
 			"slug":"anna"
+		},
+		{
+			"title":"Anaconda",
+			"gatsby_image_path":"..\/..\/images\/anaconda.jpg",
+			"slug":"anaconda"
+		},
+		{
+			"title":"Sanctum",
+			"gatsby_image_path":"..\/..\/images\/sanctum.jpg",
+			"slug":"sanctum"
 		},
 		{
 			"title":"Los viejos",
@@ -348,16 +358,6 @@
 			"title":"Ghosts of War",
 			"gatsby_image_path":"..\/..\/images\/ghosts-of-war.jpg",
 			"slug":"ghosts-of-war"
-		},
-		{
-			"title":"Hacker",
-			"gatsby_image_path":"..\/..\/images\/hacker.jpg",
-			"slug":"hacker"
-		},
-		{
-			"title":"The Amazing Spider-Man",
-			"gatsby_image_path":"..\/..\/images\/the-amazing-spider-man.jpg",
-			"slug":"the-amazing-spider-man"
 		}
 	],
 	"related_by_overview":[

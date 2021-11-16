@@ -264,19 +264,24 @@
 	],
 	"related_by_poster":[
 		{
-			"title":"Tom & Jerry",
-			"gatsby_image_path":"..\/..\/images\/tom-jerry.jpg",
-			"slug":"tom-jerry"
-		},
-		{
 			"title":"Alan Saldaña: Locked Up",
 			"gatsby_image_path":"..\/..\/images\/alan-saldaña-locked-up.jpg",
 			"slug":"alan-saldaña-locked-up"
 		},
 		{
+			"title":"Tom & Jerry",
+			"gatsby_image_path":"..\/..\/images\/tom-jerry.jpg",
+			"slug":"tom-jerry"
+		},
+		{
 			"title":"The Lovebirds",
 			"gatsby_image_path":"..\/..\/images\/the-lovebirds.jpg",
 			"slug":"the-lovebirds"
+		},
+		{
+			"title":"God's Not Dead 2",
+			"gatsby_image_path":"..\/..\/images\/god-s-not-dead-2.jpg",
+			"slug":"god-s-not-dead-2"
 		},
 		{
 			"title":"Justice League vs. Teen Titans",
@@ -299,19 +304,34 @@
 			"slug":"eminence-hill"
 		},
 		{
+			"title":"Death Race 2",
+			"gatsby_image_path":"..\/..\/images\/death-race-2.jpg",
+			"slug":"death-race-2"
+		},
+		{
 			"title":"Como Hackear Seu Chefe",
 			"gatsby_image_path":"..\/..\/images\/como-hackear-seu-chefe.jpg",
 			"slug":"como-hackear-seu-chefe"
 		},
 		{
-			"title":"Black Fox",
-			"gatsby_image_path":"..\/..\/images\/black-fox.jpg",
-			"slug":"black-fox"
+			"title":"The Call",
+			"gatsby_image_path":"..\/..\/images\/the-call.jpg",
+			"slug":"the-call"
 		},
 		{
 			"title":"Guardians of the Galaxy Vol. 3",
 			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy-vol-3.jpg",
 			"slug":"guardians-of-the-galaxy-vol-3"
+		},
+		{
+			"title":"Muppets Haunted Mansion",
+			"gatsby_image_path":"..\/..\/images\/muppets-haunted-mansion.jpg",
+			"slug":"muppets-haunted-mansion"
+		},
+		{
+			"title":"Black Fox",
+			"gatsby_image_path":"..\/..\/images\/black-fox.jpg",
+			"slug":"black-fox"
 		},
 		{
 			"title":"Hitman's Wife's Bodyguard",
@@ -324,9 +344,14 @@
 			"slug":"ghosts-of-war"
 		},
 		{
-			"title":"Sweet & Sour",
-			"gatsby_image_path":"..\/..\/images\/sweet-sour.jpg",
-			"slug":"sweet-sour"
+			"title":"LEGO Hidden Side: Night of the Harbinger",
+			"gatsby_image_path":"..\/..\/images\/lego-hidden-side-night-of-the-harbinger.jpg",
+			"slug":"lego-hidden-side-night-of-the-harbinger"
+		},
+		{
+			"title":"Child's Play",
+			"gatsby_image_path":"..\/..\/images\/child-s-play.jpg",
+			"slug":"child-s-play"
 		},
 		{
 			"title":"Dancing Queens",
@@ -334,34 +359,9 @@
 			"slug":"dancing-queens"
 		},
 		{
-			"title":"Dragon Ball: Yo! Son Goku and His Friends Return!!",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-yo-son-goku-and-his-friends-return.jpg",
-			"slug":"dragon-ball-yo-son-goku-and-his-friends-return"
-		},
-		{
-			"title":"Superman: Doomsday",
-			"gatsby_image_path":"..\/..\/images\/superman-doomsday.jpg",
-			"slug":"superman-doomsday"
-		},
-		{
-			"title":"Astro Boy",
-			"gatsby_image_path":"..\/..\/images\/astro-boy.jpg",
-			"slug":"astro-boy"
-		},
-		{
-			"title":"The Mortuary Collection",
-			"gatsby_image_path":"..\/..\/images\/the-mortuary-collection.jpg",
-			"slug":"the-mortuary-collection"
-		},
-		{
-			"title":"Madagascar 3: Europe's Most Wanted",
-			"gatsby_image_path":"..\/..\/images\/madagascar-3-europe-s-most-wanted.jpg",
-			"slug":"madagascar-3-europe-s-most-wanted"
-		},
-		{
-			"title":"The Legend of the Nahuala",
-			"gatsby_image_path":"..\/..\/images\/the-legend-of-the-nahuala.jpg",
-			"slug":"the-legend-of-the-nahuala"
+			"title":"Sweet & Sour",
+			"gatsby_image_path":"..\/..\/images\/sweet-sour.jpg",
+			"slug":"sweet-sour"
 		}
 	],
 	"related_by_overview":[

@@ -271,9 +271,19 @@
 			"slug":"skylines"
 		},
 		{
+			"title":"Ghostbusters",
+			"gatsby_image_path":"..\/..\/images\/ghostbusters.jpg",
+			"slug":"ghostbusters"
+		},
+		{
 			"title":"Aladdin and the King of Thieves",
 			"gatsby_image_path":"..\/..\/images\/aladdin-and-the-king-of-thieves.jpg",
 			"slug":"aladdin-and-the-king-of-thieves"
+		},
+		{
+			"title":"The Amazing Spider-Man 2",
+			"gatsby_image_path":"..\/..\/images\/the-amazing-spider-man-2.jpg",
+			"slug":"the-amazing-spider-man-2"
 		},
 		{
 			"title":"Paradise Beach",
@@ -281,9 +291,9 @@
 			"slug":"paradise-beach"
 		},
 		{
-			"title":"The Amazing Spider-Man 2",
-			"gatsby_image_path":"..\/..\/images\/the-amazing-spider-man-2.jpg",
-			"slug":"the-amazing-spider-man-2"
+			"title":"Muppets Haunted Mansion",
+			"gatsby_image_path":"..\/..\/images\/muppets-haunted-mansion.jpg",
+			"slug":"muppets-haunted-mansion"
 		},
 		{
 			"title":"Sword Art Online: The Movie - Ordinal Scale",
@@ -301,6 +311,11 @@
 			"slug":"hoodwinked-too-hood-vs.-evil"
 		},
 		{
+			"title":"Trauma Center",
+			"gatsby_image_path":"..\/..\/images\/trauma-center.jpg",
+			"slug":"trauma-center"
+		},
+		{
 			"title":"Justice League vs. Teen Titans",
 			"gatsby_image_path":"..\/..\/images\/justice-league-vs.-teen-titans.jpg",
 			"slug":"justice-league-vs.-teen-titans"
@@ -309,11 +324,6 @@
 			"title":"Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion",
 			"gatsby_image_path":"..\/..\/images\/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-arrow-of-the-orion.jpg",
 			"slug":"is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-arrow-of-the-orion"
-		},
-		{
-			"title":"Trauma Center",
-			"gatsby_image_path":"..\/..\/images\/trauma-center.jpg",
-			"slug":"trauma-center"
 		},
 		{
 			"title":"Final Destination 3",
@@ -326,14 +336,14 @@
 			"slug":"doraemon-nobita-and-the-windmasters"
 		},
 		{
-			"title":"Missing Link",
-			"gatsby_image_path":"..\/..\/images\/missing-link.jpg",
-			"slug":"missing-link"
-		},
-		{
 			"title":"Bumblebee",
 			"gatsby_image_path":"..\/..\/images\/bumblebee.jpg",
 			"slug":"bumblebee"
+		},
+		{
+			"title":"Missing Link",
+			"gatsby_image_path":"..\/..\/images\/missing-link.jpg",
+			"slug":"missing-link"
 		},
 		{
 			"title":"Ellipse",
@@ -341,19 +351,9 @@
 			"slug":"ellipse"
 		},
 		{
-			"title":"Justice League: Gods and Monsters",
-			"gatsby_image_path":"..\/..\/images\/justice-league-gods-and-monsters.jpg",
-			"slug":"justice-league-gods-and-monsters"
-		},
-		{
-			"title":"Crawl",
-			"gatsby_image_path":"..\/..\/images\/crawl.jpg",
-			"slug":"crawl"
-		},
-		{
-			"title":"Scary Movie",
-			"gatsby_image_path":"..\/..\/images\/scary-movie.jpg",
-			"slug":"scary-movie"
+			"title":"Independence Daysaster",
+			"gatsby_image_path":"..\/..\/images\/independence-daysaster.jpg",
+			"slug":"independence-daysaster"
 		}
 	],
 	"related_by_overview":[

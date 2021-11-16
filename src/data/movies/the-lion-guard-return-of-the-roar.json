@@ -264,14 +264,14 @@
 			"slug":"bohemian-rhapsody"
 		},
 		{
-			"title":"Ellipse",
-			"gatsby_image_path":"..\/..\/images\/ellipse.jpg",
-			"slug":"ellipse"
-		},
-		{
 			"title":"Independence Day",
 			"gatsby_image_path":"..\/..\/images\/independence-day.jpg",
 			"slug":"independence-day"
+		},
+		{
+			"title":"Ellipse",
+			"gatsby_image_path":"..\/..\/images\/ellipse.jpg",
+			"slug":"ellipse"
 		},
 		{
 			"title":"World War Z",
@@ -289,19 +289,14 @@
 			"slug":"godzilla"
 		},
 		{
-			"title":"The Lovely Bones",
-			"gatsby_image_path":"..\/..\/images\/the-lovely-bones.jpg",
-			"slug":"the-lovely-bones"
-		},
-		{
 			"title":"Rambo: First Blood Part II",
 			"gatsby_image_path":"..\/..\/images\/rambo-first-blood-part-ii.jpg",
 			"slug":"rambo-first-blood-part-ii"
 		},
 		{
-			"title":"Lights Out",
-			"gatsby_image_path":"..\/..\/images\/lights-out.jpg",
-			"slug":"lights-out"
+			"title":"The Lovely Bones",
+			"gatsby_image_path":"..\/..\/images\/the-lovely-bones.jpg",
+			"slug":"the-lovely-bones"
 		},
 		{
 			"title":"John Wick: Chapter 3 - Parabellum",
@@ -309,9 +304,9 @@
 			"slug":"john-wick-chapter-3-parabellum"
 		},
 		{
-			"title":"The Battleship Island",
-			"gatsby_image_path":"..\/..\/images\/the-battleship-island.jpg",
-			"slug":"the-battleship-island"
+			"title":"Lights Out",
+			"gatsby_image_path":"..\/..\/images\/lights-out.jpg",
+			"slug":"lights-out"
 		},
 		{
 			"title":"No Country for Old Men",
@@ -319,9 +314,9 @@
 			"slug":"no-country-for-old-men"
 		},
 		{
-			"title":"The Tomorrow War",
-			"gatsby_image_path":"..\/..\/images\/the-tomorrow-war.jpg",
-			"slug":"the-tomorrow-war"
+			"title":"The Battleship Island",
+			"gatsby_image_path":"..\/..\/images\/the-battleship-island.jpg",
+			"slug":"the-battleship-island"
 		},
 		{
 			"title":"Blood Moon",
@@ -329,14 +324,9 @@
 			"slug":"blood-moon"
 		},
 		{
-			"title":"Alpha",
-			"gatsby_image_path":"..\/..\/images\/alpha.jpg",
-			"slug":"alpha"
-		},
-		{
-			"title":"Evangelion: 1.0 You Are (Not) Alone",
-			"gatsby_image_path":"..\/..\/images\/evangelion-1.0-you-are-not-alone.jpg",
-			"slug":"evangelion-1.0-you-are-not-alone"
+			"title":"The Tomorrow War",
+			"gatsby_image_path":"..\/..\/images\/the-tomorrow-war.jpg",
+			"slug":"the-tomorrow-war"
 		},
 		{
 			"title":"Spy Kids",
@@ -344,9 +334,19 @@
 			"slug":"spy-kids"
 		},
 		{
+			"title":"Alpha",
+			"gatsby_image_path":"..\/..\/images\/alpha.jpg",
+			"slug":"alpha"
+		},
+		{
 			"title":"Eternals",
 			"gatsby_image_path":"..\/..\/images\/eternals.jpg",
 			"slug":"eternals"
+		},
+		{
+			"title":"Evangelion: 1.0 You Are (Not) Alone",
+			"gatsby_image_path":"..\/..\/images\/evangelion-1.0-you-are-not-alone.jpg",
+			"slug":"evangelion-1.0-you-are-not-alone"
 		}
 	],
 	"related_by_overview":[

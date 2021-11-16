@@ -265,6 +265,11 @@
 			"slug":"penguin-bloom"
 		},
 		{
+			"title":"Twilight",
+			"gatsby_image_path":"..\/..\/images\/twilight.jpg",
+			"slug":"twilight"
+		},
+		{
 			"title":"Fifty Shades of Grey",
 			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
 			"slug":"fifty-shades-of-grey"
@@ -285,11 +290,6 @@
 			"slug":"our-friend"
 		},
 		{
-			"title":"Parasyte: Part 2",
-			"gatsby_image_path":"..\/..\/images\/parasyte-part-2.jpg",
-			"slug":"parasyte-part-2"
-		},
-		{
 			"title":"The Twilight Saga: Breaking Dawn - Part 2",
 			"gatsby_image_path":"..\/..\/images\/the-twilight-saga-breaking-dawn-part-2.jpg",
 			"slug":"the-twilight-saga-breaking-dawn-part-2"
@@ -300,14 +300,34 @@
 			"slug":"love-rosie"
 		},
 		{
-			"title":"Sugar Daddy",
-			"gatsby_image_path":"..\/..\/images\/sugar-daddy.jpg",
-			"slug":"sugar-daddy"
+			"title":"Parasyte: Part 2",
+			"gatsby_image_path":"..\/..\/images\/parasyte-part-2.jpg",
+			"slug":"parasyte-part-2"
+		},
+		{
+			"title":"The Most Beautiful Boy in the World",
+			"gatsby_image_path":"..\/..\/images\/the-most-beautiful-boy-in-the-world.jpg",
+			"slug":"the-most-beautiful-boy-in-the-world"
+		},
+		{
+			"title":"Funny People",
+			"gatsby_image_path":"..\/..\/images\/funny-people.jpg",
+			"slug":"funny-people"
 		},
 		{
 			"title":"Me Before You",
 			"gatsby_image_path":"..\/..\/images\/me-before-you.jpg",
 			"slug":"me-before-you"
+		},
+		{
+			"title":"Sugar Daddy",
+			"gatsby_image_path":"..\/..\/images\/sugar-daddy.jpg",
+			"slug":"sugar-daddy"
+		},
+		{
+			"title":"The Hate U Give",
+			"gatsby_image_path":"..\/..\/images\/the-hate-u-give.jpg",
+			"slug":"the-hate-u-give"
 		},
 		{
 			"title":"Let's Be Tigers",
@@ -333,26 +353,6 @@
 			"title":"Deadly Illusions",
 			"gatsby_image_path":"..\/..\/images\/deadly-illusions.jpg",
 			"slug":"deadly-illusions"
-		},
-		{
-			"title":"She's All That",
-			"gatsby_image_path":"..\/..\/images\/she-s-all-that.jpg",
-			"slug":"she-s-all-that"
-		},
-		{
-			"title":"No Sudden Move",
-			"gatsby_image_path":"..\/..\/images\/no-sudden-move.jpg",
-			"slug":"no-sudden-move"
-		},
-		{
-			"title":"The Unfamiliar",
-			"gatsby_image_path":"..\/..\/images\/the-unfamiliar.jpg",
-			"slug":"the-unfamiliar"
-		},
-		{
-			"title":"A Private War",
-			"gatsby_image_path":"..\/..\/images\/a-private-war.jpg",
-			"slug":"a-private-war"
 		}
 	],
 	"related_by_overview":[

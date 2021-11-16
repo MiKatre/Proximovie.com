@@ -248,9 +248,19 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"The Jungle Book",
+			"gatsby_image_path":"..\/..\/images\/the-jungle-book.jpg",
+			"slug":"the-jungle-book"
+		},
+		{
 			"title":"Kuroko no Basket Movie 3: Winter Cup Soushuuhen - Tobira no Mukou",
 			"gatsby_image_path":"..\/..\/images\/kuroko-no-basket-movie-3-winter-cup-soushuuhen-tobira-no-mukou.jpg",
 			"slug":"kuroko-no-basket-movie-3-winter-cup-soushuuhen-tobira-no-mukou"
+		},
+		{
+			"title":"Peçanha Contra o Animal",
+			"gatsby_image_path":"..\/..\/images\/peçanha-contra-o-animal.jpg",
+			"slug":"peçanha-contra-o-animal"
 		},
 		{
 			"title":"Dragon Ball Z: Super Android 13!",
@@ -263,6 +273,11 @@
 			"slug":"annabelle-comes-home"
 		},
 		{
+			"title":"Daisy Quokka: World's Scariest Animal",
+			"gatsby_image_path":"..\/..\/images\/daisy-quokka-world-s-scariest-animal.jpg",
+			"slug":"daisy-quokka-world-s-scariest-animal"
+		},
+		{
 			"title":"Dragon Ball Z: Wrath of the Dragon",
 			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-wrath-of-the-dragon.jpg",
 			"slug":"dragon-ball-z-wrath-of-the-dragon"
@@ -273,14 +288,14 @@
 			"slug":"adventures-of-aladdin"
 		},
 		{
+			"title":"The Lone Ranger",
+			"gatsby_image_path":"..\/..\/images\/the-lone-ranger.jpg",
+			"slug":"the-lone-ranger"
+		},
+		{
 			"title":"Dragon Ball Z: The Real 4-D at Super Tenkaichi Budokai",
 			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-the-real-4-d-at-super-tenkaichi-budokai.jpg",
 			"slug":"dragon-ball-z-the-real-4-d-at-super-tenkaichi-budokai"
-		},
-		{
-			"title":"Dragon Ball Z: Bardock - The Father of Goku",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-bardock-the-father-of-goku.jpg",
-			"slug":"dragon-ball-z-bardock-the-father-of-goku"
 		},
 		{
 			"title":"Incredibles 2",
@@ -288,9 +303,14 @@
 			"slug":"incredibles-2"
 		},
 		{
-			"title":"Hunter x Hunter: The Last Mission",
-			"gatsby_image_path":"..\/..\/images\/hunter-x-hunter-the-last-mission.jpg",
-			"slug":"hunter-x-hunter-the-last-mission"
+			"title":"Dragon Ball Z: Bardock - The Father of Goku",
+			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-bardock-the-father-of-goku.jpg",
+			"slug":"dragon-ball-z-bardock-the-father-of-goku"
+		},
+		{
+			"title":"Beauty and the Beast",
+			"gatsby_image_path":"..\/..\/images\/beauty-and-the-beast.jpg",
+			"slug":"beauty-and-the-beast"
 		},
 		{
 			"title":"Justice League vs. Teen Titans",
@@ -298,9 +318,9 @@
 			"slug":"justice-league-vs.-teen-titans"
 		},
 		{
-			"title":"Scooby-Doo! and the Cyber Chase",
-			"gatsby_image_path":"..\/..\/images\/scooby-doo-and-the-cyber-chase.jpg",
-			"slug":"scooby-doo-and-the-cyber-chase"
+			"title":"Hunter x Hunter: The Last Mission",
+			"gatsby_image_path":"..\/..\/images\/hunter-x-hunter-the-last-mission.jpg",
+			"slug":"hunter-x-hunter-the-last-mission"
 		},
 		{
 			"title":"Dragon Ball Z: The Tree of Might",
@@ -308,9 +328,9 @@
 			"slug":"dragon-ball-z-the-tree-of-might"
 		},
 		{
-			"title":"Dragon Ball Z: Cooler's Revenge",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-cooler-s-revenge.jpg",
-			"slug":"dragon-ball-z-cooler-s-revenge"
+			"title":"Scooby-Doo! and the Cyber Chase",
+			"gatsby_image_path":"..\/..\/images\/scooby-doo-and-the-cyber-chase.jpg",
+			"slug":"scooby-doo-and-the-cyber-chase"
 		},
 		{
 			"title":"Psycho Goreman",
@@ -323,29 +343,9 @@
 			"slug":"dark-phoenix"
 		},
 		{
-			"title":"Roald Dahl's The Witches",
-			"gatsby_image_path":"..\/..\/images\/roald-dahl-s-the-witches.jpg",
-			"slug":"roald-dahl-s-the-witches"
-		},
-		{
-			"title":"Stray",
-			"gatsby_image_path":"..\/..\/images\/stray.jpg",
-			"slug":"stray"
-		},
-		{
-			"title":"Burn",
-			"gatsby_image_path":"..\/..\/images\/burn.jpg",
-			"slug":"burn"
-		},
-		{
-			"title":"Black Fox",
-			"gatsby_image_path":"..\/..\/images\/black-fox.jpg",
-			"slug":"black-fox"
-		},
-		{
-			"title":"Dragon Ball Z: Bojack Unbound",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-bojack-unbound.jpg",
-			"slug":"dragon-ball-z-bojack-unbound"
+			"title":"Dragon Ball Z: Cooler's Revenge",
+			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-cooler-s-revenge.jpg",
+			"slug":"dragon-ball-z-cooler-s-revenge"
 		}
 	],
 	"related_by_overview":[

@@ -252,19 +252,24 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"Iron Sky",
+			"gatsby_image_path":"..\/..\/images\/iron-sky.jpg",
+			"slug":"iron-sky"
+		},
+		{
 			"title":"The Vault",
 			"gatsby_image_path":"..\/..\/images\/the-vault.jpg",
 			"slug":"the-vault"
 		},
 		{
-			"title":"All the Devil's Men",
-			"gatsby_image_path":"..\/..\/images\/all-the-devil-s-men.jpg",
-			"slug":"all-the-devil-s-men"
-		},
-		{
 			"title":"The Last Summer",
 			"gatsby_image_path":"..\/..\/images\/the-last-summer.jpg",
 			"slug":"the-last-summer"
+		},
+		{
+			"title":"All the Devil's Men",
+			"gatsby_image_path":"..\/..\/images\/all-the-devil-s-men.jpg",
+			"slug":"all-the-devil-s-men"
 		},
 		{
 			"title":"I Believe",
@@ -282,19 +287,29 @@
 			"slug":"how-to-train-your-dragon-2"
 		},
 		{
-			"title":"Devoto, la invasión silenciosa",
-			"gatsby_image_path":"..\/..\/images\/devoto-la-invasión-silenciosa.jpg",
-			"slug":"devoto-la-invasión-silenciosa"
-		},
-		{
 			"title":"Kickboxer: Retaliation",
 			"gatsby_image_path":"..\/..\/images\/kickboxer-retaliation.jpg",
 			"slug":"kickboxer-retaliation"
 		},
 		{
+			"title":"Friday",
+			"gatsby_image_path":"..\/..\/images\/friday.jpg",
+			"slug":"friday"
+		},
+		{
+			"title":"Devoto, la invasión silenciosa",
+			"gatsby_image_path":"..\/..\/images\/devoto-la-invasión-silenciosa.jpg",
+			"slug":"devoto-la-invasión-silenciosa"
+		},
+		{
 			"title":"Breaking News in Yuba County",
 			"gatsby_image_path":"..\/..\/images\/breaking-news-in-yuba-county.jpg",
 			"slug":"breaking-news-in-yuba-county"
+		},
+		{
+			"title":"Detetive Madeinusa",
+			"gatsby_image_path":"..\/..\/images\/detetive-madeinusa.jpg",
+			"slug":"detetive-madeinusa"
 		},
 		{
 			"title":"The Kissing Booth",
@@ -317,6 +332,11 @@
 			"slug":"blue-miracle"
 		},
 		{
+			"title":"The Great Wall",
+			"gatsby_image_path":"..\/..\/images\/the-great-wall.jpg",
+			"slug":"the-great-wall"
+		},
+		{
 			"title":"Harry Potter and the Goblet of Fire",
 			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-goblet-of-fire.jpg",
 			"slug":"harry-potter-and-the-goblet-of-fire"
@@ -327,29 +347,9 @@
 			"slug":"sextuplets"
 		},
 		{
-			"title":"The Great Wall",
-			"gatsby_image_path":"..\/..\/images\/the-great-wall.jpg",
-			"slug":"the-great-wall"
-		},
-		{
-			"title":"The Addams Family",
-			"gatsby_image_path":"..\/..\/images\/the-addams-family.jpg",
-			"slug":"the-addams-family"
-		},
-		{
 			"title":"We Can Be Heroes",
 			"gatsby_image_path":"..\/..\/images\/we-can-be-heroes.jpg",
 			"slug":"we-can-be-heroes"
-		},
-		{
-			"title":"Scary Movie 2",
-			"gatsby_image_path":"..\/..\/images\/scary-movie-2.jpg",
-			"slug":"scary-movie-2"
-		},
-		{
-			"title":"The Maze Runner",
-			"gatsby_image_path":"..\/..\/images\/the-maze-runner.jpg",
-			"slug":"the-maze-runner"
 		}
 	],
 	"related_by_overview":[

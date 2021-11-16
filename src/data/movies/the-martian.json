@@ -265,6 +265,11 @@
 			"slug":"sputnik"
 		},
 		{
+			"title":"Sleepy Hollow",
+			"gatsby_image_path":"..\/..\/images\/sleepy-hollow.jpg",
+			"slug":"sleepy-hollow"
+		},
+		{
 			"title":"Knock Knock",
 			"gatsby_image_path":"..\/..\/images\/knock-knock.jpg",
 			"slug":"knock-knock"
@@ -273,6 +278,11 @@
 			"title":"Homefront",
 			"gatsby_image_path":"..\/..\/images\/homefront.jpg",
 			"slug":"homefront"
+		},
+		{
+			"title":"Happier Than Ever: A Love Letter to Los Angeles",
+			"gatsby_image_path":"..\/..\/images\/happier-than-ever-a-love-letter-to-los-angeles.jpg",
+			"slug":"happier-than-ever-a-love-letter-to-los-angeles"
 		},
 		{
 			"title":"Vivarium",
@@ -300,9 +310,9 @@
 			"slug":"the-last-samurai"
 		},
 		{
-			"title":"Death of Me",
-			"gatsby_image_path":"..\/..\/images\/death-of-me.jpg",
-			"slug":"death-of-me"
+			"title":"An Ordinary Man",
+			"gatsby_image_path":"..\/..\/images\/an-ordinary-man.jpg",
+			"slug":"an-ordinary-man"
 		},
 		{
 			"title":"The Hobbit: An Unexpected Journey",
@@ -315,9 +325,9 @@
 			"slug":"victor-frankenstein"
 		},
 		{
-			"title":"Code 8",
-			"gatsby_image_path":"..\/..\/images\/code-8.jpg",
-			"slug":"code-8"
+			"title":"Death of Me",
+			"gatsby_image_path":"..\/..\/images\/death-of-me.jpg",
+			"slug":"death-of-me"
 		},
 		{
 			"title":"Monster",
@@ -325,19 +335,14 @@
 			"slug":"monster"
 		},
 		{
+			"title":"Code 8",
+			"gatsby_image_path":"..\/..\/images\/code-8.jpg",
+			"slug":"code-8"
+		},
+		{
 			"title":"The Terminator",
 			"gatsby_image_path":"..\/..\/images\/the-terminator.jpg",
 			"slug":"the-terminator"
-		},
-		{
-			"title":"Swan Song",
-			"gatsby_image_path":"..\/..\/images\/swan-song.jpg",
-			"slug":"swan-song"
-		},
-		{
-			"title":"A Babysitter's Guide to Monster Hunting",
-			"gatsby_image_path":"..\/..\/images\/a-babysitter-s-guide-to-monster-hunting.jpg",
-			"slug":"a-babysitter-s-guide-to-monster-hunting"
 		},
 		{
 			"title":"Miss Bala",
@@ -350,14 +355,9 @@
 			"slug":"bordello-of-blood"
 		},
 		{
-			"title":"Rogue One: A Star Wars Story",
-			"gatsby_image_path":"..\/..\/images\/rogue-one-a-star-wars-story.jpg",
-			"slug":"rogue-one-a-star-wars-story"
-		},
-		{
-			"title":"The Unfamiliar",
-			"gatsby_image_path":"..\/..\/images\/the-unfamiliar.jpg",
-			"slug":"the-unfamiliar"
+			"title":"Swan Song",
+			"gatsby_image_path":"..\/..\/images\/swan-song.jpg",
+			"slug":"swan-song"
 		}
 	],
 	"related_by_overview":[

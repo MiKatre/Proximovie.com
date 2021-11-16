@@ -270,9 +270,19 @@
 			"slug":"edge-of-tomorrow"
 		},
 		{
+			"title":"Outcast",
+			"gatsby_image_path":"..\/..\/images\/outcast.jpg",
+			"slug":"outcast"
+		},
+		{
 			"title":"First Blood",
 			"gatsby_image_path":"..\/..\/images\/first-blood.jpg",
 			"slug":"first-blood"
+		},
+		{
+			"title":"Christmas with the Kranks",
+			"gatsby_image_path":"..\/..\/images\/christmas-with-the-kranks.jpg",
+			"slug":"christmas-with-the-kranks"
 		},
 		{
 			"title":"IO",
@@ -290,11 +300,6 @@
 			"slug":"justice-league"
 		},
 		{
-			"title":"The Water Man",
-			"gatsby_image_path":"..\/..\/images\/the-water-man.jpg",
-			"slug":"the-water-man"
-		},
-		{
 			"title":"Audible",
 			"gatsby_image_path":"..\/..\/images\/audible.jpg",
 			"slug":"audible"
@@ -305,9 +310,14 @@
 			"slug":"the-great-wall"
 		},
 		{
-			"title":"X-Men: Apocalypse",
-			"gatsby_image_path":"..\/..\/images\/x-men-apocalypse.jpg",
-			"slug":"x-men-apocalypse"
+			"title":"The Harder They Fall",
+			"gatsby_image_path":"..\/..\/images\/the-harder-they-fall.jpg",
+			"slug":"the-harder-they-fall"
+		},
+		{
+			"title":"The Water Man",
+			"gatsby_image_path":"..\/..\/images\/the-water-man.jpg",
+			"slug":"the-water-man"
 		},
 		{
 			"title":"Ghosts of War",
@@ -315,14 +325,14 @@
 			"slug":"ghosts-of-war"
 		},
 		{
+			"title":"X-Men: Apocalypse",
+			"gatsby_image_path":"..\/..\/images\/x-men-apocalypse.jpg",
+			"slug":"x-men-apocalypse"
+		},
+		{
 			"title":"Kingsglaive: Final Fantasy XV",
 			"gatsby_image_path":"..\/..\/images\/kingsglaive-final-fantasy-xv.jpg",
 			"slug":"kingsglaive-final-fantasy-xv"
-		},
-		{
-			"title":"Fantasia",
-			"gatsby_image_path":"..\/..\/images\/fantasia.jpg",
-			"slug":"fantasia"
 		},
 		{
 			"title":"How to Train Your Dragon 2",
@@ -330,29 +340,19 @@
 			"slug":"how-to-train-your-dragon-2"
 		},
 		{
+			"title":"Tiffany + Chucky",
+			"gatsby_image_path":"..\/..\/images\/tiffany-chucky.jpg",
+			"slug":"tiffany-chucky"
+		},
+		{
+			"title":"Fantasia",
+			"gatsby_image_path":"..\/..\/images\/fantasia.jpg",
+			"slug":"fantasia"
+		},
+		{
 			"title":"Thor: The Dark World",
 			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
 			"slug":"thor-the-dark-world"
-		},
-		{
-			"title":"A Christmas Carol",
-			"gatsby_image_path":"..\/..\/images\/a-christmas-carol.jpg",
-			"slug":"a-christmas-carol"
-		},
-		{
-			"title":"The Emperor of Paris",
-			"gatsby_image_path":"..\/..\/images\/the-emperor-of-paris.jpg",
-			"slug":"the-emperor-of-paris"
-		},
-		{
-			"title":"Rise of the Guardians",
-			"gatsby_image_path":"..\/..\/images\/rise-of-the-guardians.jpg",
-			"slug":"rise-of-the-guardians"
-		},
-		{
-			"title":"Dark Phoenix",
-			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
-			"slug":"dark-phoenix"
 		}
 	],
 	"related_by_overview":[

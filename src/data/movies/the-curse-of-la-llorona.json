@@ -255,19 +255,24 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"The Craft",
+			"gatsby_image_path":"..\/..\/images\/the-craft.jpg",
+			"slug":"the-craft"
+		},
+		{
 			"title":"Extraction",
 			"gatsby_image_path":"..\/..\/images\/extraction.jpg",
 			"slug":"extraction"
 		},
 		{
+			"title":"Super 8",
+			"gatsby_image_path":"..\/..\/images\/super-8.jpg",
+			"slug":"super-8"
+		},
+		{
 			"title":"Star Trek Into Darkness",
 			"gatsby_image_path":"..\/..\/images\/star-trek-into-darkness.jpg",
 			"slug":"star-trek-into-darkness"
-		},
-		{
-			"title":"The Mummy",
-			"gatsby_image_path":"..\/..\/images\/the-mummy.jpg",
-			"slug":"the-mummy"
 		},
 		{
 			"title":"Gone Girl",
@@ -280,14 +285,14 @@
 			"slug":"underworld-blood-wars"
 		},
 		{
-			"title":"Blue Miracle",
-			"gatsby_image_path":"..\/..\/images\/blue-miracle.jpg",
-			"slug":"blue-miracle"
-		},
-		{
 			"title":"5 Centimeters per Second",
 			"gatsby_image_path":"..\/..\/images\/5-centimeters-per-second.jpg",
 			"slug":"5-centimeters-per-second"
+		},
+		{
+			"title":"Blue Miracle",
+			"gatsby_image_path":"..\/..\/images\/blue-miracle.jpg",
+			"slug":"blue-miracle"
 		},
 		{
 			"title":"Jumanji: Welcome to the Jungle",
@@ -305,9 +310,24 @@
 			"slug":"insurgent"
 		},
 		{
+			"title":"The Exorcism of Emily Rose",
+			"gatsby_image_path":"..\/..\/images\/the-exorcism-of-emily-rose.jpg",
+			"slug":"the-exorcism-of-emily-rose"
+		},
+		{
 			"title":"All the Devil's Men",
 			"gatsby_image_path":"..\/..\/images\/all-the-devil-s-men.jpg",
 			"slug":"all-the-devil-s-men"
+		},
+		{
+			"title":"The Rover",
+			"gatsby_image_path":"..\/..\/images\/the-rover.jpg",
+			"slug":"the-rover"
+		},
+		{
+			"title":"Everest",
+			"gatsby_image_path":"..\/..\/images\/everest.jpg",
+			"slug":"everest"
 		},
 		{
 			"title":"Pandemic",
@@ -320,11 +340,6 @@
 			"slug":"a-christmas-carol"
 		},
 		{
-			"title":"The Water Man",
-			"gatsby_image_path":"..\/..\/images\/the-water-man.jpg",
-			"slug":"the-water-man"
-		},
-		{
 			"title":"Ghosts of War",
 			"gatsby_image_path":"..\/..\/images\/ghosts-of-war.jpg",
 			"slug":"ghosts-of-war"
@@ -335,24 +350,9 @@
 			"slug":"ready-player-one"
 		},
 		{
-			"title":"Kickboxer: Retaliation",
-			"gatsby_image_path":"..\/..\/images\/kickboxer-retaliation.jpg",
-			"slug":"kickboxer-retaliation"
-		},
-		{
-			"title":"Pokémon the Movie: I Choose You!",
-			"gatsby_image_path":"..\/..\/images\/pokémon-the-movie-i-choose-you.jpg",
-			"slug":"pokémon-the-movie-i-choose-you"
-		},
-		{
-			"title":"Eternal Sunshine of the Spotless Mind",
-			"gatsby_image_path":"..\/..\/images\/eternal-sunshine-of-the-spotless-mind.jpg",
-			"slug":"eternal-sunshine-of-the-spotless-mind"
-		},
-		{
-			"title":"Los viejos",
-			"gatsby_image_path":"..\/..\/images\/los-viejos.jpg",
-			"slug":"los-viejos"
+			"title":"The Water Man",
+			"gatsby_image_path":"..\/..\/images\/the-water-man.jpg",
+			"slug":"the-water-man"
 		}
 	],
 	"related_by_overview":[

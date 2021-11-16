@@ -298,9 +298,9 @@
 			"slug":"terminator-3-rise-of-the-machines"
 		},
 		{
-			"title":"Fantasia",
-			"gatsby_image_path":"..\/..\/images\/fantasia.jpg",
-			"slug":"fantasia"
+			"title":"AVP: Alien vs. Predator",
+			"gatsby_image_path":"..\/..\/images\/avp-alien-vs.-predator.jpg",
+			"slug":"avp-alien-vs.-predator"
 		},
 		{
 			"title":"Crank: High Voltage",
@@ -308,9 +308,14 @@
 			"slug":"crank-high-voltage"
 		},
 		{
-			"title":"Deep",
-			"gatsby_image_path":"..\/..\/images\/deep.jpg",
-			"slug":"deep"
+			"title":"Fantasia",
+			"gatsby_image_path":"..\/..\/images\/fantasia.jpg",
+			"slug":"fantasia"
+		},
+		{
+			"title":"Child's Play",
+			"gatsby_image_path":"..\/..\/images\/child-s-play.jpg",
+			"slug":"child-s-play"
 		},
 		{
 			"title":"Call Me by Your Name",
@@ -318,14 +323,19 @@
 			"slug":"call-me-by-your-name"
 		},
 		{
+			"title":"Deep",
+			"gatsby_image_path":"..\/..\/images\/deep.jpg",
+			"slug":"deep"
+		},
+		{
+			"title":"Injustice",
+			"gatsby_image_path":"..\/..\/images\/injustice.jpg",
+			"slug":"injustice"
+		},
+		{
 			"title":"Jiu Jitsu",
 			"gatsby_image_path":"..\/..\/images\/jiu-jitsu.jpg",
 			"slug":"jiu-jitsu"
-		},
-		{
-			"title":"Glass",
-			"gatsby_image_path":"..\/..\/images\/glass.jpg",
-			"slug":"glass"
 		},
 		{
 			"title":"I See You",
@@ -333,19 +343,9 @@
 			"slug":"i-see-you"
 		},
 		{
-			"title":"The Vast of Night",
-			"gatsby_image_path":"..\/..\/images\/the-vast-of-night.jpg",
-			"slug":"the-vast-of-night"
-		},
-		{
-			"title":"Justice League Dark: Apokolips War",
-			"gatsby_image_path":"..\/..\/images\/justice-league-dark-apokolips-war.jpg",
-			"slug":"justice-league-dark-apokolips-war"
-		},
-		{
-			"title":"Sputnik",
-			"gatsby_image_path":"..\/..\/images\/sputnik.jpg",
-			"slug":"sputnik"
+			"title":"Glass",
+			"gatsby_image_path":"..\/..\/images\/glass.jpg",
+			"slug":"glass"
 		},
 		{
 			"title":"Miracles from Heaven",
@@ -353,9 +353,9 @@
 			"slug":"miracles-from-heaven"
 		},
 		{
-			"title":"A Gruta",
-			"gatsby_image_path":"..\/..\/images\/a-gruta.jpg",
-			"slug":"a-gruta"
+			"title":"The Vast of Night",
+			"gatsby_image_path":"..\/..\/images\/the-vast-of-night.jpg",
+			"slug":"the-vast-of-night"
 		}
 	],
 	"related_by_overview":[

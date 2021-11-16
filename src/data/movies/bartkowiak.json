@@ -245,6 +245,11 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"Caged",
+			"gatsby_image_path":"..\/..\/images\/caged.jpg",
+			"slug":"caged"
+		},
+		{
 			"title":"Fifty Shades of Grey",
 			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
 			"slug":"fifty-shades-of-grey"
@@ -290,14 +295,19 @@
 			"slug":"the-purge"
 		},
 		{
+			"title":"Black and Blue",
+			"gatsby_image_path":"..\/..\/images\/black-and-blue.jpg",
+			"slug":"black-and-blue"
+		},
+		{
 			"title":"Call Me by Your Name",
 			"gatsby_image_path":"..\/..\/images\/call-me-by-your-name.jpg",
 			"slug":"call-me-by-your-name"
 		},
 		{
-			"title":"Black and Blue",
-			"gatsby_image_path":"..\/..\/images\/black-and-blue.jpg",
-			"slug":"black-and-blue"
+			"title":"22 Bullets",
+			"gatsby_image_path":"..\/..\/images\/22-bullets.jpg",
+			"slug":"22-bullets"
 		},
 		{
 			"title":"Last Summer",
@@ -325,24 +335,14 @@
 			"slug":"captain-america-civil-war"
 		},
 		{
+			"title":"The Power of the Dog",
+			"gatsby_image_path":"..\/..\/images\/the-power-of-the-dog.jpg",
+			"slug":"the-power-of-the-dog"
+		},
+		{
 			"title":"No Country for Old Men",
 			"gatsby_image_path":"..\/..\/images\/no-country-for-old-men.jpg",
 			"slug":"no-country-for-old-men"
-		},
-		{
-			"title":"Siberia",
-			"gatsby_image_path":"..\/..\/images\/siberia.jpg",
-			"slug":"siberia"
-		},
-		{
-			"title":"No Sudden Move",
-			"gatsby_image_path":"..\/..\/images\/no-sudden-move.jpg",
-			"slug":"no-sudden-move"
-		},
-		{
-			"title":"Code 8",
-			"gatsby_image_path":"..\/..\/images\/code-8.jpg",
-			"slug":"code-8"
 		}
 	],
 	"related_by_overview":[

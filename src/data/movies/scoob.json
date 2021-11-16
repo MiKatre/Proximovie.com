@@ -268,6 +268,16 @@
 			"slug":"combat-wombat"
 		},
 		{
+			"title":"Lady and the Tramp",
+			"gatsby_image_path":"..\/..\/images\/lady-and-the-tramp.jpg",
+			"slug":"lady-and-the-tramp"
+		},
+		{
+			"title":"Sharkdog’s Fintastic Halloween",
+			"gatsby_image_path":"..\/..\/images\/sharkdog’s-fintastic-halloween.jpg",
+			"slug":"sharkdog’s-fintastic-halloween"
+		},
+		{
 			"title":"Toy Story",
 			"gatsby_image_path":"..\/..\/images\/toy-story.jpg",
 			"slug":"toy-story"
@@ -278,19 +288,19 @@
 			"slug":"spies-in-disguise"
 		},
 		{
-			"title":"Robin Hood",
-			"gatsby_image_path":"..\/..\/images\/robin-hood.jpg",
-			"slug":"robin-hood"
+			"title":"Hustlers",
+			"gatsby_image_path":"..\/..\/images\/hustlers.jpg",
+			"slug":"hustlers"
+		},
+		{
+			"title":"Cinderella",
+			"gatsby_image_path":"..\/..\/images\/cinderella.jpg",
+			"slug":"cinderella"
 		},
 		{
 			"title":"Hoodwinked Too! Hood VS. Evil",
 			"gatsby_image_path":"..\/..\/images\/hoodwinked-too-hood-vs.-evil.jpg",
 			"slug":"hoodwinked-too-hood-vs.-evil"
-		},
-		{
-			"title":"Hustlers",
-			"gatsby_image_path":"..\/..\/images\/hustlers.jpg",
-			"slug":"hustlers"
 		},
 		{
 			"title":"Dragon Ball Z: The Real 4-D at Super Tenkaichi Budokai",
@@ -301,6 +311,16 @@
 			"title":"Kuroko no Basket Movie 3: Winter Cup Soushuuhen - Tobira no Mukou",
 			"gatsby_image_path":"..\/..\/images\/kuroko-no-basket-movie-3-winter-cup-soushuuhen-tobira-no-mukou.jpg",
 			"slug":"kuroko-no-basket-movie-3-winter-cup-soushuuhen-tobira-no-mukou"
+		},
+		{
+			"title":"The Addams Family 2",
+			"gatsby_image_path":"..\/..\/images\/the-addams-family-2.jpg",
+			"slug":"the-addams-family-2"
+		},
+		{
+			"title":"Child's Play",
+			"gatsby_image_path":"..\/..\/images\/child-s-play.jpg",
+			"slug":"child-s-play"
 		},
 		{
 			"title":"Sing",
@@ -328,34 +348,14 @@
 			"slug":"looney-tunes-back-in-action"
 		},
 		{
-			"title":"Madagascar 3: Europe's Most Wanted",
-			"gatsby_image_path":"..\/..\/images\/madagascar-3-europe-s-most-wanted.jpg",
-			"slug":"madagascar-3-europe-s-most-wanted"
-		},
-		{
-			"title":"The Emperor's New Groove",
-			"gatsby_image_path":"..\/..\/images\/the-emperor-s-new-groove.jpg",
-			"slug":"the-emperor-s-new-groove"
-		},
-		{
 			"title":"Wish Dragon",
 			"gatsby_image_path":"..\/..\/images\/wish-dragon.jpg",
 			"slug":"wish-dragon"
 		},
 		{
-			"title":"Stray",
-			"gatsby_image_path":"..\/..\/images\/stray.jpg",
-			"slug":"stray"
-		},
-		{
-			"title":"Angela's Christmas Wish",
-			"gatsby_image_path":"..\/..\/images\/angela-s-christmas-wish.jpg",
-			"slug":"angela-s-christmas-wish"
-		},
-		{
-			"title":"Next Avengers: Heroes of Tomorrow",
-			"gatsby_image_path":"..\/..\/images\/next-avengers-heroes-of-tomorrow.jpg",
-			"slug":"next-avengers-heroes-of-tomorrow"
+			"title":"The Emperor's New Groove",
+			"gatsby_image_path":"..\/..\/images\/the-emperor-s-new-groove.jpg",
+			"slug":"the-emperor-s-new-groove"
 		}
 	],
 	"related_by_overview":[

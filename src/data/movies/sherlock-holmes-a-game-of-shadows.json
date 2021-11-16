@@ -295,11 +295,6 @@
 			"slug":"kill-chain"
 		},
 		{
-			"title":"Harry Potter and the Prisoner of Azkaban",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-prisoner-of-azkaban.jpg",
-			"slug":"harry-potter-and-the-prisoner-of-azkaban"
-		},
-		{
 			"title":"Blade Runner 2049",
 			"gatsby_image_path":"..\/..\/images\/blade-runner-2049.jpg",
 			"slug":"blade-runner-2049"
@@ -310,9 +305,19 @@
 			"slug":"air-strike"
 		},
 		{
+			"title":"Harry Potter and the Prisoner of Azkaban",
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-prisoner-of-azkaban.jpg",
+			"slug":"harry-potter-and-the-prisoner-of-azkaban"
+		},
+		{
 			"title":"Only the Brave",
 			"gatsby_image_path":"..\/..\/images\/only-the-brave.jpg",
 			"slug":"only-the-brave"
+		},
+		{
+			"title":"Rogue Hostage",
+			"gatsby_image_path":"..\/..\/images\/rogue-hostage.jpg",
+			"slug":"rogue-hostage"
 		},
 		{
 			"title":"Fifty Shades of Grey",
@@ -335,14 +340,14 @@
 			"slug":"no-sudden-move"
 		},
 		{
-			"title":"Eminence Hill",
-			"gatsby_image_path":"..\/..\/images\/eminence-hill.jpg",
-			"slug":"eminence-hill"
-		},
-		{
 			"title":"Backtrace",
 			"gatsby_image_path":"..\/..\/images\/backtrace.jpg",
 			"slug":"backtrace"
+		},
+		{
+			"title":"Eminence Hill",
+			"gatsby_image_path":"..\/..\/images\/eminence-hill.jpg",
+			"slug":"eminence-hill"
 		},
 		{
 			"title":"Polar",
@@ -350,14 +355,9 @@
 			"slug":"polar"
 		},
 		{
-			"title":"Lying and Stealing",
-			"gatsby_image_path":"..\/..\/images\/lying-and-stealing.jpg",
-			"slug":"lying-and-stealing"
-		},
-		{
-			"title":"21 Bridges",
-			"gatsby_image_path":"..\/..\/images\/21-bridges.jpg",
-			"slug":"21-bridges"
+			"title":"The Harder They Fall",
+			"gatsby_image_path":"..\/..\/images\/the-harder-they-fall.jpg",
+			"slug":"the-harder-they-fall"
 		}
 	],
 	"related_by_overview":[

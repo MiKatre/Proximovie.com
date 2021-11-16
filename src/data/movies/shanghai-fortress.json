@@ -250,6 +250,11 @@
 			"slug":"the-quake"
 		},
 		{
+			"title":"The A-Team",
+			"gatsby_image_path":"..\/..\/images\/the-a-team.jpg",
+			"slug":"the-a-team"
+		},
+		{
 			"title":"Extraction",
 			"gatsby_image_path":"..\/..\/images\/extraction.jpg",
 			"slug":"extraction"
@@ -285,14 +290,14 @@
 			"slug":"the-legend-of-tarzan"
 		},
 		{
-			"title":"Thor: The Dark World",
-			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
-			"slug":"thor-the-dark-world"
-		},
-		{
 			"title":"Extinction",
 			"gatsby_image_path":"..\/..\/images\/extinction.jpg",
 			"slug":"extinction"
+		},
+		{
+			"title":"Thor: The Dark World",
+			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
+			"slug":"thor-the-dark-world"
 		},
 		{
 			"title":"Mad World",
@@ -305,9 +310,9 @@
 			"slug":"train-to-busan"
 		},
 		{
-			"title":"Ghosts of War",
-			"gatsby_image_path":"..\/..\/images\/ghosts-of-war.jpg",
-			"slug":"ghosts-of-war"
+			"title":"Iron Sky",
+			"gatsby_image_path":"..\/..\/images\/iron-sky.jpg",
+			"slug":"iron-sky"
 		},
 		{
 			"title":"Ashfall",
@@ -315,9 +320,19 @@
 			"slug":"ashfall"
 		},
 		{
+			"title":"10.0 Earthquake",
+			"gatsby_image_path":"..\/..\/images\/10.0-earthquake.jpg",
+			"slug":"10.0-earthquake"
+		},
+		{
 			"title":"2021: War of the Worlds",
 			"gatsby_image_path":"..\/..\/images\/2021-war-of-the-worlds.jpg",
 			"slug":"2021-war-of-the-worlds"
+		},
+		{
+			"title":"Ghosts of War",
+			"gatsby_image_path":"..\/..\/images\/ghosts-of-war.jpg",
+			"slug":"ghosts-of-war"
 		},
 		{
 			"title":"6 Underground",
@@ -328,21 +343,6 @@
 			"title":"How to Train Your Dragon 2",
 			"gatsby_image_path":"..\/..\/images\/how-to-train-your-dragon-2.jpg",
 			"slug":"how-to-train-your-dragon-2"
-		},
-		{
-			"title":"Singularity",
-			"gatsby_image_path":"..\/..\/images\/singularity.jpg",
-			"slug":"singularity"
-		},
-		{
-			"title":"Blood Moon",
-			"gatsby_image_path":"..\/..\/images\/blood-moon.jpg",
-			"slug":"blood-moon"
-		},
-		{
-			"title":"The Tomorrow War",
-			"gatsby_image_path":"..\/..\/images\/the-tomorrow-war.jpg",
-			"slug":"the-tomorrow-war"
 		}
 	],
 	"related_by_overview":[

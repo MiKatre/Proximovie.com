@@ -274,9 +274,19 @@
 			"slug":"bliss"
 		},
 		{
+			"title":"The Lone Ranger",
+			"gatsby_image_path":"..\/..\/images\/the-lone-ranger.jpg",
+			"slug":"the-lone-ranger"
+		},
+		{
 			"title":"Ghost Lab",
 			"gatsby_image_path":"..\/..\/images\/ghost-lab.jpg",
 			"slug":"ghost-lab"
+		},
+		{
+			"title":"The Terminator",
+			"gatsby_image_path":"..\/..\/images\/the-terminator.jpg",
+			"slug":"the-terminator"
 		},
 		{
 			"title":"The Mummy Returns",
@@ -284,9 +294,9 @@
 			"slug":"the-mummy-returns"
 		},
 		{
-			"title":"The Terminator",
-			"gatsby_image_path":"..\/..\/images\/the-terminator.jpg",
-			"slug":"the-terminator"
+			"title":"The Call",
+			"gatsby_image_path":"..\/..\/images\/the-call.jpg",
+			"slug":"the-call"
 		},
 		{
 			"title":"Malcolm & Marie",
@@ -299,16 +309,6 @@
 			"slug":"greta"
 		},
 		{
-			"title":"How to Be a Latin Lover",
-			"gatsby_image_path":"..\/..\/images\/how-to-be-a-latin-lover.jpg",
-			"slug":"how-to-be-a-latin-lover"
-		},
-		{
-			"title":"Eminence Hill",
-			"gatsby_image_path":"..\/..\/images\/eminence-hill.jpg",
-			"slug":"eminence-hill"
-		},
-		{
 			"title":"Anton",
 			"gatsby_image_path":"..\/..\/images\/anton.jpg",
 			"slug":"anton"
@@ -319,14 +319,24 @@
 			"slug":"she-s-all-that"
 		},
 		{
+			"title":"Eminence Hill",
+			"gatsby_image_path":"..\/..\/images\/eminence-hill.jpg",
+			"slug":"eminence-hill"
+		},
+		{
+			"title":"Plan A",
+			"gatsby_image_path":"..\/..\/images\/plan-a.jpg",
+			"slug":"plan-a"
+		},
+		{
+			"title":"How to Be a Latin Lover",
+			"gatsby_image_path":"..\/..\/images\/how-to-be-a-latin-lover.jpg",
+			"slug":"how-to-be-a-latin-lover"
+		},
+		{
 			"title":"The Red Sea Diving Resort",
 			"gatsby_image_path":"..\/..\/images\/the-red-sea-diving-resort.jpg",
 			"slug":"the-red-sea-diving-resort"
-		},
-		{
-			"title":"The Drug King",
-			"gatsby_image_path":"..\/..\/images\/the-drug-king.jpg",
-			"slug":"the-drug-king"
 		},
 		{
 			"title":"The Conjuring: The Devil Made Me Do It",
@@ -339,19 +349,9 @@
 			"slug":"rich-in-love"
 		},
 		{
-			"title":"War of the Worlds",
-			"gatsby_image_path":"..\/..\/images\/war-of-the-worlds.jpg",
-			"slug":"war-of-the-worlds"
-		},
-		{
-			"title":"Naked Singularity",
-			"gatsby_image_path":"..\/..\/images\/naked-singularity.jpg",
-			"slug":"naked-singularity"
-		},
-		{
-			"title":"Greenland",
-			"gatsby_image_path":"..\/..\/images\/greenland.jpg",
-			"slug":"greenland"
+			"title":"The Drug King",
+			"gatsby_image_path":"..\/..\/images\/the-drug-king.jpg",
+			"slug":"the-drug-king"
 		}
 	],
 	"related_by_overview":[

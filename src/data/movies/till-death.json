@@ -255,9 +255,19 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"The Last Duel",
+			"gatsby_image_path":"..\/..\/images\/the-last-duel.jpg",
+			"slug":"the-last-duel"
+		},
+		{
 			"title":"Eternal Sunshine of the Spotless Mind",
 			"gatsby_image_path":"..\/..\/images\/eternal-sunshine-of-the-spotless-mind.jpg",
 			"slug":"eternal-sunshine-of-the-spotless-mind"
+		},
+		{
+			"title":"Christmas with the Kranks",
+			"gatsby_image_path":"..\/..\/images\/christmas-with-the-kranks.jpg",
+			"slug":"christmas-with-the-kranks"
 		},
 		{
 			"title":"The 5th Wave",
@@ -268,6 +278,16 @@
 			"title":"Harry Potter and the Prisoner of Azkaban",
 			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-prisoner-of-azkaban.jpg",
 			"slug":"harry-potter-and-the-prisoner-of-azkaban"
+		},
+		{
+			"title":"Lokillo: Nothing's the Same",
+			"gatsby_image_path":"..\/..\/images\/lokillo-nothing-s-the-same.jpg",
+			"slug":"lokillo-nothing-s-the-same"
+		},
+		{
+			"title":"22 Bullets",
+			"gatsby_image_path":"..\/..\/images\/22-bullets.jpg",
+			"slug":"22-bullets"
 		},
 		{
 			"title":"In the Shadow of the Moon",
@@ -305,14 +325,14 @@
 			"slug":"baby-driver"
 		},
 		{
-			"title":"Paskal",
-			"gatsby_image_path":"..\/..\/images\/paskal.jpg",
-			"slug":"paskal"
-		},
-		{
 			"title":"The Night Comes for Us",
 			"gatsby_image_path":"..\/..\/images\/the-night-comes-for-us.jpg",
 			"slug":"the-night-comes-for-us"
+		},
+		{
+			"title":"Paskal",
+			"gatsby_image_path":"..\/..\/images\/paskal.jpg",
+			"slug":"paskal"
 		},
 		{
 			"title":"Justice League vs. Teen Titans",
@@ -325,34 +345,14 @@
 			"slug":"a-private-war"
 		},
 		{
-			"title":"Solo: A Star Wars Story",
-			"gatsby_image_path":"..\/..\/images\/solo-a-star-wars-story.jpg",
-			"slug":"solo-a-star-wars-story"
+			"title":"Peçanha Contra o Animal",
+			"gatsby_image_path":"..\/..\/images\/peçanha-contra-o-animal.jpg",
+			"slug":"peçanha-contra-o-animal"
 		},
 		{
-			"title":"Wicked Minds",
-			"gatsby_image_path":"..\/..\/images\/wicked-minds.jpg",
-			"slug":"wicked-minds"
-		},
-		{
-			"title":"Soul of Hero",
-			"gatsby_image_path":"..\/..\/images\/soul-of-hero.jpg",
-			"slug":"soul-of-hero"
-		},
-		{
-			"title":"Lights Out",
-			"gatsby_image_path":"..\/..\/images\/lights-out.jpg",
-			"slug":"lights-out"
-		},
-		{
-			"title":"Fifty Shades of Grey",
-			"gatsby_image_path":"..\/..\/images\/fifty-shades-of-grey.jpg",
-			"slug":"fifty-shades-of-grey"
-		},
-		{
-			"title":"The Vault",
-			"gatsby_image_path":"..\/..\/images\/the-vault.jpg",
-			"slug":"the-vault"
+			"title":"The Double",
+			"gatsby_image_path":"..\/..\/images\/the-double.jpg",
+			"slug":"the-double"
 		}
 	],
 	"related_by_overview":[

@@ -266,6 +266,11 @@
 			"slug":"tom-jerry"
 		},
 		{
+			"title":"Reminiscence",
+			"gatsby_image_path":"..\/..\/images\/reminiscence.jpg",
+			"slug":"reminiscence"
+		},
+		{
 			"title":"Watchmen",
 			"gatsby_image_path":"..\/..\/images\/watchmen.jpg",
 			"slug":"watchmen"
@@ -281,9 +286,9 @@
 			"slug":"ashfall"
 		},
 		{
-			"title":"Iron Man",
-			"gatsby_image_path":"..\/..\/images\/iron-man.jpg",
-			"slug":"iron-man"
+			"title":"The Harder They Fall",
+			"gatsby_image_path":"..\/..\/images\/the-harder-they-fall.jpg",
+			"slug":"the-harder-they-fall"
 		},
 		{
 			"title":"Ghosts of War",
@@ -291,24 +296,29 @@
 			"slug":"ghosts-of-war"
 		},
 		{
-			"title":"The Lovebirds",
-			"gatsby_image_path":"..\/..\/images\/the-lovebirds.jpg",
-			"slug":"the-lovebirds"
-		},
-		{
 			"title":"Toxic",
 			"gatsby_image_path":"..\/..\/images\/toxic.jpg",
 			"slug":"toxic"
 		},
 		{
-			"title":"Jumanji: Welcome to the Jungle",
-			"gatsby_image_path":"..\/..\/images\/jumanji-welcome-to-the-jungle.jpg",
-			"slug":"jumanji-welcome-to-the-jungle"
+			"title":"The Lovebirds",
+			"gatsby_image_path":"..\/..\/images\/the-lovebirds.jpg",
+			"slug":"the-lovebirds"
+		},
+		{
+			"title":"Iron Man",
+			"gatsby_image_path":"..\/..\/images\/iron-man.jpg",
+			"slug":"iron-man"
 		},
 		{
 			"title":"Deadly Illusions",
 			"gatsby_image_path":"..\/..\/images\/deadly-illusions.jpg",
 			"slug":"deadly-illusions"
+		},
+		{
+			"title":"Jumanji: Welcome to the Jungle",
+			"gatsby_image_path":"..\/..\/images\/jumanji-welcome-to-the-jungle.jpg",
+			"slug":"jumanji-welcome-to-the-jungle"
 		},
 		{
 			"title":"Wrong Turn 2: Dead End",
@@ -321,14 +331,14 @@
 			"slug":"fireproof"
 		},
 		{
-			"title":"The Exorcist",
-			"gatsby_image_path":"..\/..\/images\/the-exorcist.jpg",
-			"slug":"the-exorcist"
-		},
-		{
 			"title":"RED 2",
 			"gatsby_image_path":"..\/..\/images\/red-2.jpg",
 			"slug":"red-2"
+		},
+		{
+			"title":"The Exorcist",
+			"gatsby_image_path":"..\/..\/images\/the-exorcist.jpg",
+			"slug":"the-exorcist"
 		},
 		{
 			"title":"Edge of Tomorrow",
@@ -336,24 +346,14 @@
 			"slug":"edge-of-tomorrow"
 		},
 		{
-			"title":"Max Steel",
-			"gatsby_image_path":"..\/..\/images\/max-steel.jpg",
-			"slug":"max-steel"
-		},
-		{
-			"title":"Madagascar 3: Europe's Most Wanted",
-			"gatsby_image_path":"..\/..\/images\/madagascar-3-europe-s-most-wanted.jpg",
-			"slug":"madagascar-3-europe-s-most-wanted"
+			"title":"Muppets Haunted Mansion",
+			"gatsby_image_path":"..\/..\/images\/muppets-haunted-mansion.jpg",
+			"slug":"muppets-haunted-mansion"
 		},
 		{
 			"title":"How to Train Your Dragon 2",
 			"gatsby_image_path":"..\/..\/images\/how-to-train-your-dragon-2.jpg",
 			"slug":"how-to-train-your-dragon-2"
-		},
-		{
-			"title":"Mad World",
-			"gatsby_image_path":"..\/..\/images\/mad-world.jpg",
-			"slug":"mad-world"
 		}
 	],
 	"related_by_overview":[

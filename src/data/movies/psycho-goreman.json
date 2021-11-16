@@ -271,9 +271,19 @@
 			"slug":"adventures-of-aladdin"
 		},
 		{
+			"title":"The Lone Ranger",
+			"gatsby_image_path":"..\/..\/images\/the-lone-ranger.jpg",
+			"slug":"the-lone-ranger"
+		},
+		{
 			"title":"The Last Sharknado: It's About Time",
 			"gatsby_image_path":"..\/..\/images\/the-last-sharknado-it-s-about-time.jpg",
 			"slug":"the-last-sharknado-it-s-about-time"
+		},
+		{
+			"title":"The Jungle Book",
+			"gatsby_image_path":"..\/..\/images\/the-jungle-book.jpg",
+			"slug":"the-jungle-book"
 		},
 		{
 			"title":"Barbie Fairytopia: Mermaidia",
@@ -296,14 +306,14 @@
 			"slug":"dragon-ball-z-bardock-the-father-of-goku"
 		},
 		{
-			"title":"Harry Potter and the Deathly Hallows: Part 1",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-deathly-hallows-part-1.jpg",
-			"slug":"harry-potter-and-the-deathly-hallows-part-1"
-		},
-		{
 			"title":"Dragon Ball Z: The Tree of Might",
 			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-the-tree-of-might.jpg",
 			"slug":"dragon-ball-z-the-tree-of-might"
+		},
+		{
+			"title":"Harry Potter and the Deathly Hallows: Part 1",
+			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-deathly-hallows-part-1.jpg",
+			"slug":"harry-potter-and-the-deathly-hallows-part-1"
 		},
 		{
 			"title":"The Babysitter: Killer Queen",
@@ -316,14 +326,14 @@
 			"slug":"my-hero-academia-two-heroes"
 		},
 		{
-			"title":"Dragon Ball Z: Super Android 13!",
-			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-super-android-13.jpg",
-			"slug":"dragon-ball-z-super-android-13"
-		},
-		{
 			"title":"Werewolves Within",
 			"gatsby_image_path":"..\/..\/images\/werewolves-within.jpg",
 			"slug":"werewolves-within"
+		},
+		{
+			"title":"Dragon Ball Z: Super Android 13!",
+			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-super-android-13.jpg",
+			"slug":"dragon-ball-z-super-android-13"
 		},
 		{
 			"title":"Hunter x Hunter: The Last Mission",
@@ -344,16 +354,6 @@
 			"title":"Avengers: Endgame",
 			"gatsby_image_path":"..\/..\/images\/avengers-endgame.jpg",
 			"slug":"avengers-endgame"
-		},
-		{
-			"title":"Harry Potter and the Philosopher's Stone",
-			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher-s-stone.jpg",
-			"slug":"harry-potter-and-the-philosopher-s-stone"
-		},
-		{
-			"title":"The Mortuary Collection",
-			"gatsby_image_path":"..\/..\/images\/the-mortuary-collection.jpg",
-			"slug":"the-mortuary-collection"
 		}
 	],
 	"related_by_overview":[

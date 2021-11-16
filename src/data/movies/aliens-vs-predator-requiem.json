@@ -289,9 +289,29 @@
 			"slug":"iron-mask"
 		},
 		{
+			"title":"Friday the 13th",
+			"gatsby_image_path":"..\/..\/images\/friday-the-13th.jpg",
+			"slug":"friday-the-13th"
+		},
+		{
+			"title":"Sea Fever",
+			"gatsby_image_path":"..\/..\/images\/sea-fever.jpg",
+			"slug":"sea-fever"
+		},
+		{
+			"title":"The Deep House",
+			"gatsby_image_path":"..\/..\/images\/the-deep-house.jpg",
+			"slug":"the-deep-house"
+		},
+		{
 			"title":"Friday the 13th Part VI: Jason Lives",
 			"gatsby_image_path":"..\/..\/images\/friday-the-13th-part-vi-jason-lives.jpg",
 			"slug":"friday-the-13th-part-vi-jason-lives"
+		},
+		{
+			"title":"Krampus",
+			"gatsby_image_path":"..\/..\/images\/krampus.jpg",
+			"slug":"krampus"
 		},
 		{
 			"title":"Vivarium",
@@ -314,9 +334,14 @@
 			"slug":"final-destination-3"
 		},
 		{
-			"title":"Death Note",
-			"gatsby_image_path":"..\/..\/images\/death-note.jpg",
-			"slug":"death-note"
+			"title":"Independence Daysaster",
+			"gatsby_image_path":"..\/..\/images\/independence-daysaster.jpg",
+			"slug":"independence-daysaster"
+		},
+		{
+			"title":"Apex",
+			"gatsby_image_path":"..\/..\/images\/apex.jpg",
+			"slug":"apex"
 		},
 		{
 			"title":"Justice League: Gods and Monsters",
@@ -324,39 +349,14 @@
 			"slug":"justice-league-gods-and-monsters"
 		},
 		{
-			"title":"Anna",
-			"gatsby_image_path":"..\/..\/images\/anna.jpg",
-			"slug":"anna"
-		},
-		{
 			"title":"Spider-Man: No Way Home",
 			"gatsby_image_path":"..\/..\/images\/spider-man-no-way-home.jpg",
 			"slug":"spider-man-no-way-home"
 		},
 		{
-			"title":"Child's Play 3",
-			"gatsby_image_path":"..\/..\/images\/child-s-play-3.jpg",
-			"slug":"child-s-play-3"
-		},
-		{
-			"title":"Sputnik",
-			"gatsby_image_path":"..\/..\/images\/sputnik.jpg",
-			"slug":"sputnik"
-		},
-		{
-			"title":"Bungo Stray Dogs: Dead Apple",
-			"gatsby_image_path":"..\/..\/images\/bungo-stray-dogs-dead-apple.jpg",
-			"slug":"bungo-stray-dogs-dead-apple"
-		},
-		{
-			"title":"X-Men: Apocalypse",
-			"gatsby_image_path":"..\/..\/images\/x-men-apocalypse.jpg",
-			"slug":"x-men-apocalypse"
-		},
-		{
-			"title":"Skylines",
-			"gatsby_image_path":"..\/..\/images\/skylines.jpg",
-			"slug":"skylines"
+			"title":"Lokillo",
+			"gatsby_image_path":"..\/..\/images\/lokillo.jpg",
+			"slug":"lokillo"
 		}
 	],
 	"related_by_overview":[

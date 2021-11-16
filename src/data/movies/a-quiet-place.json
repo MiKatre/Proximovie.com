@@ -262,6 +262,16 @@
 			"slug":"the-anthem-of-the-heart"
 		},
 		{
+			"title":"Demonic",
+			"gatsby_image_path":"..\/..\/images\/demonic.jpg",
+			"slug":"demonic"
+		},
+		{
+			"title":"Insidious: Chapter 3",
+			"gatsby_image_path":"..\/..\/images\/insidious-chapter-3.jpg",
+			"slug":"insidious-chapter-3"
+		},
+		{
 			"title":"The Orphanage",
 			"gatsby_image_path":"..\/..\/images\/the-orphanage.jpg",
 			"slug":"the-orphanage"
@@ -282,9 +292,9 @@
 			"slug":"the-rhythm-section"
 		},
 		{
-			"title":"Poltergeist",
-			"gatsby_image_path":"..\/..\/images\/poltergeist.jpg",
-			"slug":"poltergeist"
+			"title":"Reminiscence",
+			"gatsby_image_path":"..\/..\/images\/reminiscence.jpg",
+			"slug":"reminiscence"
 		},
 		{
 			"title":"Fear Street: 1666",
@@ -292,9 +302,24 @@
 			"slug":"fear-street-1666"
 		},
 		{
+			"title":"Poltergeist",
+			"gatsby_image_path":"..\/..\/images\/poltergeist.jpg",
+			"slug":"poltergeist"
+		},
+		{
 			"title":"The Terminator",
 			"gatsby_image_path":"..\/..\/images\/the-terminator.jpg",
 			"slug":"the-terminator"
+		},
+		{
+			"title":"An Ordinary Man",
+			"gatsby_image_path":"..\/..\/images\/an-ordinary-man.jpg",
+			"slug":"an-ordinary-man"
+		},
+		{
+			"title":"Women",
+			"gatsby_image_path":"..\/..\/images\/women.jpg",
+			"slug":"women"
 		},
 		{
 			"title":"The Maze Runner",
@@ -312,6 +337,11 @@
 			"slug":"honest-thief"
 		},
 		{
+			"title":"Jonah Hex",
+			"gatsby_image_path":"..\/..\/images\/jonah-hex.jpg",
+			"slug":"jonah-hex"
+		},
+		{
 			"title":"Jack Reacher",
 			"gatsby_image_path":"..\/..\/images\/jack-reacher.jpg",
 			"slug":"jack-reacher"
@@ -320,36 +350,6 @@
 			"title":"Breach",
 			"gatsby_image_path":"..\/..\/images\/breach.jpg",
 			"slug":"breach"
-		},
-		{
-			"title":"The Mummy Returns",
-			"gatsby_image_path":"..\/..\/images\/the-mummy-returns.jpg",
-			"slug":"the-mummy-returns"
-		},
-		{
-			"title":"Swan Song",
-			"gatsby_image_path":"..\/..\/images\/swan-song.jpg",
-			"slug":"swan-song"
-		},
-		{
-			"title":"Code 8",
-			"gatsby_image_path":"..\/..\/images\/code-8.jpg",
-			"slug":"code-8"
-		},
-		{
-			"title":"The Mortuary Collection",
-			"gatsby_image_path":"..\/..\/images\/the-mortuary-collection.jpg",
-			"slug":"the-mortuary-collection"
-		},
-		{
-			"title":"The Mortal Instruments: City of Bones",
-			"gatsby_image_path":"..\/..\/images\/the-mortal-instruments-city-of-bones.jpg",
-			"slug":"the-mortal-instruments-city-of-bones"
-		},
-		{
-			"title":"Cult of Chucky",
-			"gatsby_image_path":"..\/..\/images\/cult-of-chucky.jpg",
-			"slug":"cult-of-chucky"
 		}
 	],
 	"related_by_overview":[

@@ -277,14 +277,19 @@
 			"slug":"the-tomorrow-war"
 		},
 		{
+			"title":"Injustice",
+			"gatsby_image_path":"..\/..\/images\/injustice.jpg",
+			"slug":"injustice"
+		},
+		{
+			"title":"Odd Thomas",
+			"gatsby_image_path":"..\/..\/images\/odd-thomas.jpg",
+			"slug":"odd-thomas"
+		},
+		{
 			"title":"Enola Holmes",
 			"gatsby_image_path":"..\/..\/images\/enola-holmes.jpg",
 			"slug":"enola-holmes"
-		},
-		{
-			"title":"Epic",
-			"gatsby_image_path":"..\/..\/images\/epic.jpg",
-			"slug":"epic"
 		},
 		{
 			"title":"The Great Wall",
@@ -292,9 +297,19 @@
 			"slug":"the-great-wall"
 		},
 		{
+			"title":"Epic",
+			"gatsby_image_path":"..\/..\/images\/epic.jpg",
+			"slug":"epic"
+		},
+		{
 			"title":"Terminator 2: Judgment Day",
 			"gatsby_image_path":"..\/..\/images\/terminator-2-judgment-day.jpg",
 			"slug":"terminator-2-judgment-day"
+		},
+		{
+			"title":"Cowboys & Aliens",
+			"gatsby_image_path":"..\/..\/images\/cowboys-aliens.jpg",
+			"slug":"cowboys-aliens"
 		},
 		{
 			"title":"First Blood",
@@ -317,39 +332,24 @@
 			"slug":"harry-potter-and-the-prisoner-of-azkaban"
 		},
 		{
-			"title":"IO",
-			"gatsby_image_path":"..\/..\/images\/io.jpg",
-			"slug":"io"
+			"title":"Conan the Barbarian",
+			"gatsby_image_path":"..\/..\/images\/conan-the-barbarian.jpg",
+			"slug":"conan-the-barbarian"
 		},
 		{
-			"title":"Shang-Chi and the Legend of the Ten Rings",
-			"gatsby_image_path":"..\/..\/images\/shang-chi-and-the-legend-of-the-ten-rings.jpg",
-			"slug":"shang-chi-and-the-legend-of-the-ten-rings"
+			"title":"Lokillo",
+			"gatsby_image_path":"..\/..\/images\/lokillo.jpg",
+			"slug":"lokillo"
 		},
 		{
-			"title":"Ghosts of War",
-			"gatsby_image_path":"..\/..\/images\/ghosts-of-war.jpg",
-			"slug":"ghosts-of-war"
+			"title":"Tropic Thunder",
+			"gatsby_image_path":"..\/..\/images\/tropic-thunder.jpg",
+			"slug":"tropic-thunder"
 		},
 		{
-			"title":"Thor: The Dark World",
-			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
-			"slug":"thor-the-dark-world"
-		},
-		{
-			"title":"Kingsman: The Golden Circle",
-			"gatsby_image_path":"..\/..\/images\/kingsman-the-golden-circle.jpg",
-			"slug":"kingsman-the-golden-circle"
-		},
-		{
-			"title":"Iron Man 3",
-			"gatsby_image_path":"..\/..\/images\/iron-man-3.jpg",
-			"slug":"iron-man-3"
-		},
-		{
-			"title":"6 Underground",
-			"gatsby_image_path":"..\/..\/images\/6-underground.jpg",
-			"slug":"6-underground"
+			"title":"30 Minutes or Less",
+			"gatsby_image_path":"..\/..\/images\/30-minutes-or-less.jpg",
+			"slug":"30-minutes-or-less"
 		}
 	],
 	"related_by_overview":[

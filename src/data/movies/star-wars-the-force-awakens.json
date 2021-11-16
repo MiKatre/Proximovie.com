@@ -266,6 +266,11 @@
 			"slug":"dark-phoenix"
 		},
 		{
+			"title":"Reminiscence",
+			"gatsby_image_path":"..\/..\/images\/reminiscence.jpg",
+			"slug":"reminiscence"
+		},
+		{
 			"title":"Backdraft 2",
 			"gatsby_image_path":"..\/..\/images\/backdraft-2.jpg",
 			"slug":"backdraft-2"
@@ -281,14 +286,14 @@
 			"slug":"rise-of-the-guardians"
 		},
 		{
-			"title":"Guardians of the Galaxy",
-			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy.jpg",
-			"slug":"guardians-of-the-galaxy"
-		},
-		{
 			"title":"Iron Man",
 			"gatsby_image_path":"..\/..\/images\/iron-man.jpg",
 			"slug":"iron-man"
+		},
+		{
+			"title":"Guardians of the Galaxy",
+			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy.jpg",
+			"slug":"guardians-of-the-galaxy"
 		},
 		{
 			"title":"Justice League: Gods and Monsters",
@@ -301,9 +306,14 @@
 			"slug":"the-mortuary-collection"
 		},
 		{
-			"title":"Skylines",
-			"gatsby_image_path":"..\/..\/images\/skylines.jpg",
-			"slug":"skylines"
+			"title":"Peçanha Contra o Animal",
+			"gatsby_image_path":"..\/..\/images\/peçanha-contra-o-animal.jpg",
+			"slug":"peçanha-contra-o-animal"
+		},
+		{
+			"title":"Apex",
+			"gatsby_image_path":"..\/..\/images\/apex.jpg",
+			"slug":"apex"
 		},
 		{
 			"title":"Justice League Dark: Apokolips War",
@@ -311,19 +321,24 @@
 			"slug":"justice-league-dark-apokolips-war"
 		},
 		{
+			"title":"Skylines",
+			"gatsby_image_path":"..\/..\/images\/skylines.jpg",
+			"slug":"skylines"
+		},
+		{
 			"title":"The Lego Movie 2: The Second Part",
 			"gatsby_image_path":"..\/..\/images\/the-lego-movie-2-the-second-part.jpg",
 			"slug":"the-lego-movie-2-the-second-part"
 		},
 		{
-			"title":"Avengers: Infinity War",
-			"gatsby_image_path":"..\/..\/images\/avengers-infinity-war.jpg",
-			"slug":"avengers-infinity-war"
-		},
-		{
 			"title":"Black Fox",
 			"gatsby_image_path":"..\/..\/images\/black-fox.jpg",
 			"slug":"black-fox"
+		},
+		{
+			"title":"Avengers: Infinity War",
+			"gatsby_image_path":"..\/..\/images\/avengers-infinity-war.jpg",
+			"slug":"avengers-infinity-war"
 		},
 		{
 			"title":"Stray",
@@ -336,24 +351,9 @@
 			"slug":"the-chronicles-of-narnia-prince-caspian"
 		},
 		{
-			"title":"The Last Airbender",
-			"gatsby_image_path":"..\/..\/images\/the-last-airbender.jpg",
-			"slug":"the-last-airbender"
-		},
-		{
-			"title":"The Vast of Night",
-			"gatsby_image_path":"..\/..\/images\/the-vast-of-night.jpg",
-			"slug":"the-vast-of-night"
-		},
-		{
 			"title":"Se7en",
 			"gatsby_image_path":"..\/..\/images\/se7en.jpg",
 			"slug":"se7en"
-		},
-		{
-			"title":"Peninsula",
-			"gatsby_image_path":"..\/..\/images\/peninsula.jpg",
-			"slug":"peninsula"
 		}
 	],
 	"related_by_overview":[

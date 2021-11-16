@@ -257,6 +257,16 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"The Lone Ranger",
+			"gatsby_image_path":"..\/..\/images\/the-lone-ranger.jpg",
+			"slug":"the-lone-ranger"
+		},
+		{
+			"title":"Stan Helsing",
+			"gatsby_image_path":"..\/..\/images\/stan-helsing.jpg",
+			"slug":"stan-helsing"
+		},
+		{
 			"title":"Sicario",
 			"gatsby_image_path":"..\/..\/images\/sicario.jpg",
 			"slug":"sicario"
@@ -302,11 +312,6 @@
 			"slug":"dark-phoenix"
 		},
 		{
-			"title":"Hercules",
-			"gatsby_image_path":"..\/..\/images\/hercules.jpg",
-			"slug":"hercules"
-		},
-		{
 			"title":"Jiu Jitsu",
 			"gatsby_image_path":"..\/..\/images\/jiu-jitsu.jpg",
 			"slug":"jiu-jitsu"
@@ -317,14 +322,19 @@
 			"slug":"how-i-became-a-superhero"
 		},
 		{
+			"title":"Sacrifice",
+			"gatsby_image_path":"..\/..\/images\/sacrifice.jpg",
+			"slug":"sacrifice"
+		},
+		{
 			"title":"Kingdom of Swords",
 			"gatsby_image_path":"..\/..\/images\/kingdom-of-swords.jpg",
 			"slug":"kingdom-of-swords"
 		},
 		{
-			"title":"Sacrifice",
-			"gatsby_image_path":"..\/..\/images\/sacrifice.jpg",
-			"slug":"sacrifice"
+			"title":"Conan the Barbarian",
+			"gatsby_image_path":"..\/..\/images\/conan-the-barbarian.jpg",
+			"slug":"conan-the-barbarian"
 		},
 		{
 			"title":"Justice League vs. Teen Titans",
@@ -332,29 +342,19 @@
 			"slug":"justice-league-vs.-teen-titans"
 		},
 		{
-			"title":"The Mummy",
-			"gatsby_image_path":"..\/..\/images\/the-mummy.jpg",
-			"slug":"the-mummy"
-		},
-		{
 			"title":"6 Underground",
 			"gatsby_image_path":"..\/..\/images\/6-underground.jpg",
 			"slug":"6-underground"
 		},
 		{
-			"title":"Justice League: War",
-			"gatsby_image_path":"..\/..\/images\/justice-league-war.jpg",
-			"slug":"justice-league-war"
+			"title":"The Craft",
+			"gatsby_image_path":"..\/..\/images\/the-craft.jpg",
+			"slug":"the-craft"
 		},
 		{
 			"title":"Hitman's Wife's Bodyguard",
 			"gatsby_image_path":"..\/..\/images\/hitman-s-wife-s-bodyguard.jpg",
 			"slug":"hitman-s-wife-s-bodyguard"
-		},
-		{
-			"title":"Jumanji: Welcome to the Jungle",
-			"gatsby_image_path":"..\/..\/images\/jumanji-welcome-to-the-jungle.jpg",
-			"slug":"jumanji-welcome-to-the-jungle"
 		}
 	],
 	"related_by_overview":[

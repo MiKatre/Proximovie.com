@@ -259,9 +259,24 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"Black as Night",
+			"gatsby_image_path":"..\/..\/images\/black-as-night.jpg",
+			"slug":"black-as-night"
+		},
+		{
+			"title":"Kick-Ass 2",
+			"gatsby_image_path":"..\/..\/images\/kick-ass-2.jpg",
+			"slug":"kick-ass-2"
+		},
+		{
 			"title":"Scary Movie 3",
 			"gatsby_image_path":"..\/..\/images\/scary-movie-3.jpg",
 			"slug":"scary-movie-3"
+		},
+		{
+			"title":"John Carter",
+			"gatsby_image_path":"..\/..\/images\/john-carter.jpg",
+			"slug":"john-carter"
 		},
 		{
 			"title":"Dragon Ball GT: A Hero's Legacy",
@@ -272,6 +287,11 @@
 			"title":"Point Blank",
 			"gatsby_image_path":"..\/..\/images\/point-blank.jpg",
 			"slug":"point-blank"
+		},
+		{
+			"title":"No Escape",
+			"gatsby_image_path":"..\/..\/images\/no-escape.jpg",
+			"slug":"no-escape"
 		},
 		{
 			"title":"We Can Be Heroes",
@@ -304,6 +324,11 @@
 			"slug":"pulp-fiction"
 		},
 		{
+			"title":"Swallow",
+			"gatsby_image_path":"..\/..\/images\/swallow.jpg",
+			"slug":"swallow"
+		},
+		{
 			"title":"Blade Runner 2049",
 			"gatsby_image_path":"..\/..\/images\/blade-runner-2049.jpg",
 			"slug":"blade-runner-2049"
@@ -314,49 +339,24 @@
 			"slug":"endangered-species"
 		},
 		{
-			"title":"Line of Duty",
-			"gatsby_image_path":"..\/..\/images\/line-of-duty.jpg",
-			"slug":"line-of-duty"
-		},
-		{
 			"title":"7 Guardians of the Tomb",
 			"gatsby_image_path":"..\/..\/images\/7-guardians-of-the-tomb.jpg",
 			"slug":"7-guardians-of-the-tomb"
 		},
 		{
-			"title":"Bumblebee",
-			"gatsby_image_path":"..\/..\/images\/bumblebee.jpg",
-			"slug":"bumblebee"
+			"title":"The Scorpion King 3: Battle for Redemption",
+			"gatsby_image_path":"..\/..\/images\/the-scorpion-king-3-battle-for-redemption.jpg",
+			"slug":"the-scorpion-king-3-battle-for-redemption"
+		},
+		{
+			"title":"Injustice",
+			"gatsby_image_path":"..\/..\/images\/injustice.jpg",
+			"slug":"injustice"
 		},
 		{
 			"title":"Scary Movie 2",
 			"gatsby_image_path":"..\/..\/images\/scary-movie-2.jpg",
 			"slug":"scary-movie-2"
-		},
-		{
-			"title":"Watchmen",
-			"gatsby_image_path":"..\/..\/images\/watchmen.jpg",
-			"slug":"watchmen"
-		},
-		{
-			"title":"Como Hackear Seu Chefe",
-			"gatsby_image_path":"..\/..\/images\/como-hackear-seu-chefe.jpg",
-			"slug":"como-hackear-seu-chefe"
-		},
-		{
-			"title":"Big Time Adolescence",
-			"gatsby_image_path":"..\/..\/images\/big-time-adolescence.jpg",
-			"slug":"big-time-adolescence"
-		},
-		{
-			"title":"Return of the Living Dead III",
-			"gatsby_image_path":"..\/..\/images\/return-of-the-living-dead-iii.jpg",
-			"slug":"return-of-the-living-dead-iii"
-		},
-		{
-			"title":"Hitman's Wife's Bodyguard",
-			"gatsby_image_path":"..\/..\/images\/hitman-s-wife-s-bodyguard.jpg",
-			"slug":"hitman-s-wife-s-bodyguard"
 		}
 	],
 	"related_by_overview":[

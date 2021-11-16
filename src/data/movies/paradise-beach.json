@@ -252,9 +252,19 @@
 	],
 	"related_by_poster":[
 		{
+			"title":"John Carter",
+			"gatsby_image_path":"..\/..\/images\/john-carter.jpg",
+			"slug":"john-carter"
+		},
+		{
 			"title":"We Can Be Heroes",
 			"gatsby_image_path":"..\/..\/images\/we-can-be-heroes.jpg",
 			"slug":"we-can-be-heroes"
+		},
+		{
+			"title":"Monstruosamente Solo",
+			"gatsby_image_path":"..\/..\/images\/monstruosamente-solo.jpg",
+			"slug":"monstruosamente-solo"
 		},
 		{
 			"title":"Scary Movie 3",
@@ -267,9 +277,9 @@
 			"slug":"blue-miracle"
 		},
 		{
-			"title":"Aladdin and the King of Thieves",
-			"gatsby_image_path":"..\/..\/images\/aladdin-and-the-king-of-thieves.jpg",
-			"slug":"aladdin-and-the-king-of-thieves"
+			"title":"Peçanha Contra o Animal",
+			"gatsby_image_path":"..\/..\/images\/peçanha-contra-o-animal.jpg",
+			"slug":"peçanha-contra-o-animal"
 		},
 		{
 			"title":"Scary Movie 5",
@@ -277,14 +287,24 @@
 			"slug":"scary-movie-5"
 		},
 		{
+			"title":"The Red Sea Diving Resort",
+			"gatsby_image_path":"..\/..\/images\/the-red-sea-diving-resort.jpg",
+			"slug":"the-red-sea-diving-resort"
+		},
+		{
+			"title":"Muppets Haunted Mansion",
+			"gatsby_image_path":"..\/..\/images\/muppets-haunted-mansion.jpg",
+			"slug":"muppets-haunted-mansion"
+		},
+		{
 			"title":"Hoodwinked Too! Hood VS. Evil",
 			"gatsby_image_path":"..\/..\/images\/hoodwinked-too-hood-vs.-evil.jpg",
 			"slug":"hoodwinked-too-hood-vs.-evil"
 		},
 		{
-			"title":"The Red Sea Diving Resort",
-			"gatsby_image_path":"..\/..\/images\/the-red-sea-diving-resort.jpg",
-			"slug":"the-red-sea-diving-resort"
+			"title":"Aladdin and the King of Thieves",
+			"gatsby_image_path":"..\/..\/images\/aladdin-and-the-king-of-thieves.jpg",
+			"slug":"aladdin-and-the-king-of-thieves"
 		},
 		{
 			"title":"Naked Singularity",
@@ -292,24 +312,9 @@
 			"slug":"naked-singularity"
 		},
 		{
-			"title":"Justice League",
-			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
-			"slug":"justice-league"
-		},
-		{
-			"title":"Endangered Species",
-			"gatsby_image_path":"..\/..\/images\/endangered-species.jpg",
-			"slug":"endangered-species"
-		},
-		{
 			"title":"Harry Potter and the Philosopher's Stone",
 			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher-s-stone.jpg",
 			"slug":"harry-potter-and-the-philosopher-s-stone"
-		},
-		{
-			"title":"Meet the Robinsons",
-			"gatsby_image_path":"..\/..\/images\/meet-the-robinsons.jpg",
-			"slug":"meet-the-robinsons"
 		},
 		{
 			"title":"Wreck-It Ralph",
@@ -317,39 +322,34 @@
 			"slug":"wreck-it-ralph"
 		},
 		{
+			"title":"Endangered Species",
+			"gatsby_image_path":"..\/..\/images\/endangered-species.jpg",
+			"slug":"endangered-species"
+		},
+		{
+			"title":"Justice League",
+			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
+			"slug":"justice-league"
+		},
+		{
+			"title":"Lady and the Tramp",
+			"gatsby_image_path":"..\/..\/images\/lady-and-the-tramp.jpg",
+			"slug":"lady-and-the-tramp"
+		},
+		{
+			"title":"Detetive Madeinusa",
+			"gatsby_image_path":"..\/..\/images\/detetive-madeinusa.jpg",
+			"slug":"detetive-madeinusa"
+		},
+		{
+			"title":"Meet the Robinsons",
+			"gatsby_image_path":"..\/..\/images\/meet-the-robinsons.jpg",
+			"slug":"meet-the-robinsons"
+		},
+		{
 			"title":"Tom & Jerry",
 			"gatsby_image_path":"..\/..\/images\/tom-jerry.jpg",
 			"slug":"tom-jerry"
-		},
-		{
-			"title":"Justice League vs. Teen Titans",
-			"gatsby_image_path":"..\/..\/images\/justice-league-vs.-teen-titans.jpg",
-			"slug":"justice-league-vs.-teen-titans"
-		},
-		{
-			"title":"In the Heights",
-			"gatsby_image_path":"..\/..\/images\/in-the-heights.jpg",
-			"slug":"in-the-heights"
-		},
-		{
-			"title":"Epic",
-			"gatsby_image_path":"..\/..\/images\/epic.jpg",
-			"slug":"epic"
-		},
-		{
-			"title":"Anton",
-			"gatsby_image_path":"..\/..\/images\/anton.jpg",
-			"slug":"anton"
-		},
-		{
-			"title":"Cloudy with a Chance of Meatballs",
-			"gatsby_image_path":"..\/..\/images\/cloudy-with-a-chance-of-meatballs.jpg",
-			"slug":"cloudy-with-a-chance-of-meatballs"
-		},
-		{
-			"title":"Next Avengers: Heroes of Tomorrow",
-			"gatsby_image_path":"..\/..\/images\/next-avengers-heroes-of-tomorrow.jpg",
-			"slug":"next-avengers-heroes-of-tomorrow"
 		}
 	],
 	"related_by_overview":[

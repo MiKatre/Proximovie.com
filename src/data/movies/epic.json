@@ -267,6 +267,11 @@
 			"slug":"astro-boy"
 		},
 		{
+			"title":"Earwig and the Witch",
+			"gatsby_image_path":"..\/..\/images\/earwig-and-the-witch.jpg",
+			"slug":"earwig-and-the-witch"
+		},
+		{
 			"title":"Dragon Ball Z: The World's Strongest",
 			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-the-world-s-strongest.jpg",
 			"slug":"dragon-ball-z-the-world-s-strongest"
@@ -287,19 +292,19 @@
 			"slug":"justice-league-vs.-teen-titans"
 		},
 		{
-			"title":"Toy Story 2",
-			"gatsby_image_path":"..\/..\/images\/toy-story-2.jpg",
-			"slug":"toy-story-2"
-		},
-		{
 			"title":"Harry Potter and the Philosopher's Stone",
 			"gatsby_image_path":"..\/..\/images\/harry-potter-and-the-philosopher-s-stone.jpg",
 			"slug":"harry-potter-and-the-philosopher-s-stone"
 		},
 		{
-			"title":"Boss Level",
-			"gatsby_image_path":"..\/..\/images\/boss-level.jpg",
-			"slug":"boss-level"
+			"title":"Apex",
+			"gatsby_image_path":"..\/..\/images\/apex.jpg",
+			"slug":"apex"
+		},
+		{
+			"title":"Toy Story 2",
+			"gatsby_image_path":"..\/..\/images\/toy-story-2.jpg",
+			"slug":"toy-story-2"
 		},
 		{
 			"title":"Black Fox",
@@ -307,9 +312,19 @@
 			"slug":"black-fox"
 		},
 		{
+			"title":"Boss Level",
+			"gatsby_image_path":"..\/..\/images\/boss-level.jpg",
+			"slug":"boss-level"
+		},
+		{
 			"title":"Hoodwinked Too! Hood VS. Evil",
 			"gatsby_image_path":"..\/..\/images\/hoodwinked-too-hood-vs.-evil.jpg",
 			"slug":"hoodwinked-too-hood-vs.-evil"
+		},
+		{
+			"title":"Scary Movie",
+			"gatsby_image_path":"..\/..\/images\/scary-movie.jpg",
+			"slug":"scary-movie"
 		},
 		{
 			"title":"Dragon Ball Z: Bardock - The Father of Goku",
@@ -317,9 +332,9 @@
 			"slug":"dragon-ball-z-bardock-the-father-of-goku"
 		},
 		{
-			"title":"Scary Movie",
-			"gatsby_image_path":"..\/..\/images\/scary-movie.jpg",
-			"slug":"scary-movie"
+			"title":"Alice in Wonderland",
+			"gatsby_image_path":"..\/..\/images\/alice-in-wonderland.jpg",
+			"slug":"alice-in-wonderland"
 		},
 		{
 			"title":"Scary Movie 5",
@@ -332,29 +347,14 @@
 			"slug":"sing"
 		},
 		{
-			"title":"Justice League",
-			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
-			"slug":"justice-league"
-		},
-		{
 			"title":"We Can Be Heroes",
 			"gatsby_image_path":"..\/..\/images\/we-can-be-heroes.jpg",
 			"slug":"we-can-be-heroes"
 		},
 		{
-			"title":"Combat Wombat",
-			"gatsby_image_path":"..\/..\/images\/combat-wombat.jpg",
-			"slug":"combat-wombat"
-		},
-		{
-			"title":"The Croods: A New Age",
-			"gatsby_image_path":"..\/..\/images\/the-croods-a-new-age.jpg",
-			"slug":"the-croods-a-new-age"
-		},
-		{
-			"title":"Next Avengers: Heroes of Tomorrow",
-			"gatsby_image_path":"..\/..\/images\/next-avengers-heroes-of-tomorrow.jpg",
-			"slug":"next-avengers-heroes-of-tomorrow"
+			"title":"Justice League",
+			"gatsby_image_path":"..\/..\/images\/justice-league.jpg",
+			"slug":"justice-league"
 		}
 	],
 	"related_by_overview":[

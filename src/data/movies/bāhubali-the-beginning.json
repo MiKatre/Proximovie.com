@@ -258,6 +258,11 @@
 			"slug":"a-christmas-carol"
 		},
 		{
+			"title":"The Harder They Fall",
+			"gatsby_image_path":"..\/..\/images\/the-harder-they-fall.jpg",
+			"slug":"the-harder-they-fall"
+		},
+		{
 			"title":"Greyhound",
 			"gatsby_image_path":"..\/..\/images\/greyhound.jpg",
 			"slug":"greyhound"
@@ -303,14 +308,14 @@
 			"slug":"in-the-shadow-of-the-moon"
 		},
 		{
-			"title":"The First Purge",
-			"gatsby_image_path":"..\/..\/images\/the-first-purge.jpg",
-			"slug":"the-first-purge"
-		},
-		{
 			"title":"Fear of Rain",
 			"gatsby_image_path":"..\/..\/images\/fear-of-rain.jpg",
 			"slug":"fear-of-rain"
+		},
+		{
+			"title":"The First Purge",
+			"gatsby_image_path":"..\/..\/images\/the-first-purge.jpg",
+			"slug":"the-first-purge"
 		},
 		{
 			"title":"Frankenweenie",
@@ -318,14 +323,19 @@
 			"slug":"frankenweenie"
 		},
 		{
+			"title":"The 5th Wave",
+			"gatsby_image_path":"..\/..\/images\/the-5th-wave.jpg",
+			"slug":"the-5th-wave"
+		},
+		{
 			"title":"Mad World",
 			"gatsby_image_path":"..\/..\/images\/mad-world.jpg",
 			"slug":"mad-world"
 		},
 		{
-			"title":"The 5th Wave",
-			"gatsby_image_path":"..\/..\/images\/the-5th-wave.jpg",
-			"slug":"the-5th-wave"
+			"title":"The Eternal",
+			"gatsby_image_path":"..\/..\/images\/the-eternal.jpg",
+			"slug":"the-eternal"
 		},
 		{
 			"title":"Knock Knock",
@@ -333,24 +343,14 @@
 			"slug":"knock-knock"
 		},
 		{
-			"title":"Eternal Sunshine of the Spotless Mind",
-			"gatsby_image_path":"..\/..\/images\/eternal-sunshine-of-the-spotless-mind.jpg",
-			"slug":"eternal-sunshine-of-the-spotless-mind"
+			"title":"Major Grom: Plague Doctor",
+			"gatsby_image_path":"..\/..\/images\/major-grom-plague-doctor.jpg",
+			"slug":"major-grom-plague-doctor"
 		},
 		{
 			"title":"The Tomorrow War",
 			"gatsby_image_path":"..\/..\/images\/the-tomorrow-war.jpg",
 			"slug":"the-tomorrow-war"
-		},
-		{
-			"title":"Code 8",
-			"gatsby_image_path":"..\/..\/images\/code-8.jpg",
-			"slug":"code-8"
-		},
-		{
-			"title":"Major Grom: Plague Doctor",
-			"gatsby_image_path":"..\/..\/images\/major-grom-plague-doctor.jpg",
-			"slug":"major-grom-plague-doctor"
 		}
 	],
 	"related_by_overview":[

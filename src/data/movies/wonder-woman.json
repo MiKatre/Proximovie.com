@@ -289,11 +289,6 @@
 			"slug":"rise-of-the-guardians"
 		},
 		{
-			"title":"Hercules",
-			"gatsby_image_path":"..\/..\/images\/hercules.jpg",
-			"slug":"hercules"
-		},
-		{
 			"title":"X-Men: Days of Future Past",
 			"gatsby_image_path":"..\/..\/images\/x-men-days-of-future-past.jpg",
 			"slug":"x-men-days-of-future-past"
@@ -309,14 +304,34 @@
 			"slug":"iron-man"
 		},
 		{
+			"title":"Star Wars: Episode III - Revenge of the Sith",
+			"gatsby_image_path":"..\/..\/images\/star-wars-episode-iii-revenge-of-the-sith.jpg",
+			"slug":"star-wars-episode-iii-revenge-of-the-sith"
+		},
+		{
+			"title":"Earwig and the Witch",
+			"gatsby_image_path":"..\/..\/images\/earwig-and-the-witch.jpg",
+			"slug":"earwig-and-the-witch"
+		},
+		{
 			"title":"First Blood",
 			"gatsby_image_path":"..\/..\/images\/first-blood.jpg",
 			"slug":"first-blood"
 		},
 		{
+			"title":"Child's Play",
+			"gatsby_image_path":"..\/..\/images\/child-s-play.jpg",
+			"slug":"child-s-play"
+		},
+		{
 			"title":"The Water Man",
 			"gatsby_image_path":"..\/..\/images\/the-water-man.jpg",
 			"slug":"the-water-man"
+		},
+		{
+			"title":"The Tomorrow War",
+			"gatsby_image_path":"..\/..\/images\/the-tomorrow-war.jpg",
+			"slug":"the-tomorrow-war"
 		},
 		{
 			"title":"Aliens",
@@ -329,19 +344,9 @@
 			"slug":"the-road-to-el-dorado"
 		},
 		{
-			"title":"The Tomorrow War",
-			"gatsby_image_path":"..\/..\/images\/the-tomorrow-war.jpg",
-			"slug":"the-tomorrow-war"
-		},
-		{
 			"title":"Thor: Ragnarok",
 			"gatsby_image_path":"..\/..\/images\/thor-ragnarok.jpg",
 			"slug":"thor-ragnarok"
-		},
-		{
-			"title":"Kingsglaive: Final Fantasy XV",
-			"gatsby_image_path":"..\/..\/images\/kingsglaive-final-fantasy-xv.jpg",
-			"slug":"kingsglaive-final-fantasy-xv"
 		},
 		{
 			"title":"X-Men: Apocalypse",
@@ -349,19 +354,14 @@
 			"slug":"x-men-apocalypse"
 		},
 		{
+			"title":"Kingsglaive: Final Fantasy XV",
+			"gatsby_image_path":"..\/..\/images\/kingsglaive-final-fantasy-xv.jpg",
+			"slug":"kingsglaive-final-fantasy-xv"
+		},
+		{
 			"title":"Barb & Star Go to Vista Del Mar",
 			"gatsby_image_path":"..\/..\/images\/barb-star-go-to-vista-del-mar.jpg",
 			"slug":"barb-star-go-to-vista-del-mar"
-		},
-		{
-			"title":"Teen Titans: The Judas Contract",
-			"gatsby_image_path":"..\/..\/images\/teen-titans-the-judas-contract.jpg",
-			"slug":"teen-titans-the-judas-contract"
-		},
-		{
-			"title":"A Christmas Carol",
-			"gatsby_image_path":"..\/..\/images\/a-christmas-carol.jpg",
-			"slug":"a-christmas-carol"
 		}
 	],
 	"related_by_overview":[
