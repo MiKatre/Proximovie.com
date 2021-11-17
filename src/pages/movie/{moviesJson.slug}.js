@@ -23,22 +23,22 @@ const MoviePage = ({data}) => {
   let keywordCards = []
 
   if (movie.keywords && movie.keywords.length) {
-    keywordCards = movie.keywords.map(i => ( <div className="p-4 shadow-sm rounded-sm align-self-center m-1">
+    keywordCards = movie.keywords.map(i => ( <div className="p-2 p-md-3 shadow-sm rounded-sm align-self-center m-1">
     <Link className="text-decoration-none font-weight-bold text-secondary text-center m-auto" to={`/keyword/${slugify(i)}`}>{i}</Link>
   </div>))
   }
 
 
-  const crewCards = movie.crew.map(i => ( <div className="p-4 shadow-sm rounded-sm align-self-center m-1">
+  const crewCards = movie.crew.map(i => ( <div className="p-2 p-md-3 shadow-sm rounded-sm align-self-center m-1">
     <Link className="text-decoration-none font-weight-bold text-secondary text-center m-auto" to={`/person/${slugify(i)}`}>{i}</Link>
   </div>))
-  const castCards = movie.cast.map(i => ( <div className="p-4 shadow-sm rounded-sm align-self-center m-1">
+  const castCards = movie.cast.map(i => ( <div className="p-2 p-md-3 shadow-sm rounded-sm align-self-center m-1">
     <Link className="text-decoration-none font-weight-bold text-secondary text-center m-auto" to={`/person/${slugify(i)}`}>{i}</Link>
   </div>))
-  const countryCards = movie.production_countries.map(i => ( <div className="p-4 shadow-sm rounded-sm align-self-center m-1">
+  const countryCards = movie.production_countries.map(i => ( <div className="p-2 p-md-3 shadow-sm rounded-sm align-self-center m-1">
     <Link className="text-decoration-none font-weight-bold text-secondary text-center m-auto" to={`/country/${slugify(i)}`}>{i}</Link>
   </div>))
-  const productionCards = movie.production_companies.map(i => ( <div className="p-4 shadow-sm rounded-sm align-self-center m-1">
+  const productionCards = movie.production_companies.map(i => ( <div className="p-2 p-md-3 shadow-sm rounded-sm align-self-center m-1">
     <Link className="text-decoration-none font-weight-bold text-secondary text-center m-auto" to={`/company/${slugify(i)}`}>{i}</Link>
   </div>))
 

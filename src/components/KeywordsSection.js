@@ -6,7 +6,7 @@ const KeywordsSection = ({keywords, prefix="keyword"}) => {
     let keywordCards = []
 
     if (keywords && keywords.length) {
-        keywordCards = keywords.map(kw => ( <div className="p-4 shadow-sm rounded-sm align-self-center m-1">
+        keywordCards = keywords.map(kw => ( <div className="p-2 p-md-3 shadow-sm rounded-sm align-self-center m-1">
         <Link className="text-decoration-none font-weight-bold text-secondary text-center m-auto" to={`/${prefix}/${slugify(kw.fieldValue)}`}>{kw.fieldValue} ({kw.totalCount})</Link>
       </div>))
     }
