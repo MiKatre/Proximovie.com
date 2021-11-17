@@ -11,14 +11,32 @@ import './movie.css'
 const MoviePage = ({data}) => {
   const movie = data.allMoviesJson.edges[0].node
   const image = getImage(movie.gatsby_image_path)
+  const overview = movie.overview
   const genres = movie.genres.map(i => (<span className="text-secondary">, <Link className="text-decoration-none" to={`/genre/${slugify(i)}`}>{i}</Link></span>))
   const countries = movie.production_countries.map(i => (<span className="text-secondary"><Link className="text-decoration-none" to={`/country/${slugify(i)}`}>{i}</Link>, </span>))
   const production = movie.production_companies.map(i => (<span className="text-secondary"><Link className="text-decoration-none" to={`/company/${slugify(i)}`}>{i}</Link>, </span>))
   const actors = movie.cast.map(i => (<span className="text-secondary"><Link className="text-decoration-none" to={`/person/${slugify(i)}`}>{i}</Link>, </span>))
   const crew = movie.crew.map(i => (<span className="text-secondary"><Link className="text-decoration-none" to={`/person/${slugify(i)}`}>{i}</Link>, </span>))
-  
-  const keywords = movie.keywords.map(i => ( <div className="p-4 shadow-sm rounded-sm align-self-center m-1">
+  let keywordCards = []
+
+  if (movie.keywords && movie.keywords.length) {
+    keywordCards = movie.keywords.map(i => ( <div className="p-4 shadow-sm rounded-sm align-self-center m-1">
     <Link className="text-decoration-none font-weight-bold text-secondary text-center m-auto" to={`/keyword/${slugify(i)}`}>{i}</Link>
+  </div>))
+  }
+
+
+  const crewCards = movie.crew.map(i => ( <div className="p-4 shadow-sm rounded-sm align-self-center m-1">
+    <Link className="text-decoration-none font-weight-bold text-secondary text-center m-auto" to={`/person/${slugify(i)}`}>{i}</Link>
+  </div>))
+  const castCards = movie.cast.map(i => ( <div className="p-4 shadow-sm rounded-sm align-self-center m-1">
+    <Link className="text-decoration-none font-weight-bold text-secondary text-center m-auto" to={`/person/${slugify(i)}`}>{i}</Link>
+  </div>))
+  const countryCards = movie.production_countries.map(i => ( <div className="p-4 shadow-sm rounded-sm align-self-center m-1">
+    <Link className="text-decoration-none font-weight-bold text-secondary text-center m-auto" to={`/person/${slugify(i)}`}>{i}</Link>
+  </div>))
+  const productionCards = movie.production_companies.map(i => ( <div className="p-4 shadow-sm rounded-sm align-self-center m-1">
+    <Link className="text-decoration-none font-weight-bold text-secondary text-center m-auto" to={`/person/${slugify(i)}`}>{i}</Link>
   </div>))
 
 
@@ -44,16 +62,24 @@ const MoviePage = ({data}) => {
                 <h1 className="display-6 fw-bold mb-0">{movie.title}</h1>
                 <span className="text-secondary text-center text-md-start">{movie.release_date}</span> 
                 {genres}
+
+
                 
+                <div className="text-start">
+                  <h2 className="fw-lighter mb-1">Overview</h2> 
+                  <p>
+                    {overview} 
+                  </p>
+                </div>
                 <div className="text-start">
                   <p>
                     <span className="fw-bold text-secondary">Countries</span> <br/>
                     {countries.slice(0, 4)} 
                   </p>
-                  <p>
+                  {/* <p>
                     <span className="fw-bold text-secondary">Producion companies</span> <br/>
                     {production.slice(0, 4)}
-                  </p>
+                  </p> */}
                   <p>
                     <span className="fw-bold text-secondary">Actors</span> <br/>
                     {actors.slice(0, 4)}
@@ -63,6 +89,7 @@ const MoviePage = ({data}) => {
                     <span className="fw-bold text-secondary">Crew</span> <br/>
                     {crew.slice(0, 4)}
                   </p>
+
                 </div>
               </Col>
             </Row>
@@ -73,14 +100,15 @@ const MoviePage = ({data}) => {
 
         <Container fluid className="">
           <div>
-            <div className="text-center m-auto fw-lighter">Explore similar themes</div>
+            <div className="text-center m-auto fw-lighter mt-2">Explore similar themes</div>
             <div className="d-flex justify-content-center flex-wrap">
-              {keywords.slice(0,6)}
+              {keywordCards.slice(0,6)}
             </div>
             <div className="d-flex justify-content-center flex-wrap">
-              {keywords.slice(6,12)}
+              {keywordCards.slice(6,12)}
             </div>
           </div>
+
           <Row>
             <h1 className="fw-bolder text-center pt-5">Similar movies</h1>
             <p className="text-center">Best movies like <em>{movie.title}</em></p>
@@ -89,12 +117,12 @@ const MoviePage = ({data}) => {
             </div>
           </Row>
           <div>
-            <div className="text-center m-auto fw-lighter">Explore similar themes</div>
+            <div className="text-center m-auto fw-lighter mt-2">Explore similar themes</div>
             <div className="d-flex justify-content-center flex-wrap">
-              {keywords.slice(12,18)}
+              {keywordCards.slice(12,18)}
             </div>
             <div className="d-flex justify-content-center flex-wrap">
-              {keywords.slice(18,24)}
+              {keywordCards.slice(18,24)}
             </div>
           </div>
           <Row>
@@ -141,8 +169,37 @@ const MoviePage = ({data}) => {
             </div> */}
 
 
-
           </Row>
+
+          <div>
+            <div className="text-center m-auto fw-lighter mt-2">Explore <span className="fw-bold">crew members</span></div>
+            <div className="d-flex justify-content-center flex-wrap">
+              {crewCards.slice(0,4)}
+            </div>
+
+          </div>
+
+          <div>
+            <div className="text-center m-auto fw-lighter mt-2">Explore <span className="fw-bold">main actors</span></div>
+            <div className="d-flex justify-content-center flex-wrap">
+              {castCards.slice(0,4)}
+            </div>
+          </div>
+
+          <div>
+            <div className="text-center m-auto fw-lighter mt-2">Explore same <span className="fw-bold">countries</span></div>
+            <div className="d-flex justify-content-center flex-wrap">
+              {countryCards.slice(0,4)}
+            </div>
+          </div>
+
+          <div>
+            <div className="text-center m-auto fw-lighter mt-2">Explore the <span className="fw-bold">production companies</span></div>
+            <div className="d-flex justify-content-center flex-wrap">
+              {productionCards.slice(0,4)}
+            </div>
+          </div>
+
         </Container>
       </div>
     </Layout>
@@ -160,6 +217,7 @@ export const query = graphql`
           release_date(formatString: "YYYY")
           production_countries
           production_companies
+          overview
           genres
           keywords
           cast
