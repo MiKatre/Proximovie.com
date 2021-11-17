@@ -58,6 +58,11 @@
 			"slug":"men-in-black-3"
 		},
 		{
+			"title":"Dune",
+			"gatsby_image_path":"..\/..\/images\/dune.jpg",
+			"slug":"dune"
+		},
+		{
 			"title":"Zombieland",
 			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
 			"slug":"zombieland"
@@ -76,6 +81,11 @@
 			"title":"Venom: Let There Be Carnage",
 			"gatsby_image_path":"..\/..\/images\/venom-let-there-be-carnage.jpg",
 			"slug":"venom-let-there-be-carnage"
+		},
+		{
+			"title":"Venom",
+			"gatsby_image_path":"..\/..\/images\/venom-2018-09-28.jpg",
+			"slug":"venom-2018-09-28"
 		},
 		{
 			"title":"Unthinkable",
@@ -141,16 +151,6 @@
 			"title":"Sicario",
 			"gatsby_image_path":"..\/..\/images\/sicario.jpg",
 			"slug":"sicario"
-		},
-		{
-			"title":"Sicario: Day of the Soldado",
-			"gatsby_image_path":"..\/..\/images\/sicario-day-of-the-soldado.jpg",
-			"slug":"sicario-day-of-the-soldado"
-		},
-		{
-			"title":"Rango",
-			"gatsby_image_path":"..\/..\/images\/rango.jpg",
-			"slug":"rango"
 		}
 	],
 	"related_most_similar":[

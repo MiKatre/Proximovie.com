@@ -125,6 +125,11 @@
 			"slug":"iron-man-2"
 		},
 		{
+			"title":"Dune",
+			"gatsby_image_path":"..\/..\/images\/dune.jpg",
+			"slug":"dune"
+		},
+		{
 			"title":"Captain America: Civil War",
 			"gatsby_image_path":"..\/..\/images\/captain-america-civil-war.jpg",
 			"slug":"captain-america-civil-war"
@@ -148,11 +153,6 @@
 			"title":"Avengers: Endgame",
 			"gatsby_image_path":"..\/..\/images\/avengers-endgame.jpg",
 			"slug":"avengers-endgame"
-		},
-		{
-			"title":"Avengers: Age of Ultron",
-			"gatsby_image_path":"..\/..\/images\/avengers-age-of-ultron.jpg",
-			"slug":"avengers-age-of-ultron"
 		}
 	],
 	"related_most_similar":[

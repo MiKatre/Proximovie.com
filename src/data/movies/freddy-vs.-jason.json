@@ -129,6 +129,11 @@
 			"slug":"apex"
 		},
 		{
+			"title":"A Nightmare on Elm Street",
+			"gatsby_image_path":"..\/..\/images\/a-nightmare-on-elm-street-1984-11-09.jpg",
+			"slug":"a-nightmare-on-elm-street-1984-11-09"
+		},
+		{
 			"title":"Zootopia",
 			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
 			"slug":"zootopia"
@@ -147,14 +152,14 @@
 			"title":"Zombieland: Double Tap",
 			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
 			"slug":"zombieland-double-tap"
-		},
-		{
-			"title":"Zathura: A Space Adventure",
-			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
-			"slug":"zathura-a-space-adventure"
 		}
 	],
 	"related_most_similar":[
+		{
+			"title":"A Nightmare on Elm Street",
+			"gatsby_image_path":"..\/..\/images\/a-nightmare-on-elm-street-1984-11-09.jpg",
+			"slug":"a-nightmare-on-elm-street-1984-11-09"
+		},
 		{
 			"title":"The Hills Have Eyes 2",
 			"gatsby_image_path":"..\/..\/images\/the-hills-have-eyes-2.jpg",
@@ -211,6 +216,11 @@
 			"slug":"jason-x"
 		},
 		{
+			"title":"Friday the 13th",
+			"gatsby_image_path":"..\/..\/images\/friday-the-13th-2009-02-11.jpg",
+			"slug":"friday-the-13th-2009-02-11"
+		},
+		{
 			"title":"Cursed",
 			"gatsby_image_path":"..\/..\/images\/cursed.jpg",
 			"slug":"cursed"
@@ -244,16 +254,6 @@
 			"title":"The Nun",
 			"gatsby_image_path":"..\/..\/images\/the-nun.jpg",
 			"slug":"the-nun"
-		},
-		{
-			"title":"The Mask",
-			"gatsby_image_path":"..\/..\/images\/the-mask.jpg",
-			"slug":"the-mask"
-		},
-		{
-			"title":"The Curse of La Llorona",
-			"gatsby_image_path":"..\/..\/images\/the-curse-of-la-llorona.jpg",
-			"slug":"the-curse-of-la-llorona"
 		}
 	],
 	"related_by_poster":[

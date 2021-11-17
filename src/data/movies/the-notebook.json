@@ -314,6 +314,11 @@
 			"slug":"collateral-beauty"
 		},
 		{
+			"title":"Your Name",
+			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
+			"slug":"your-name"
+		},
+		{
 			"title":"Wild Child",
 			"gatsby_image_path":"..\/..\/images\/wild-child.jpg",
 			"slug":"wild-child"
@@ -362,11 +367,6 @@
 			"title":"The Twilight Saga: New Moon",
 			"gatsby_image_path":"..\/..\/images\/the-twilight-saga-new-moon.jpg",
 			"slug":"the-twilight-saga-new-moon"
-		},
-		{
-			"title":"The Twilight Saga: Eclipse",
-			"gatsby_image_path":"..\/..\/images\/the-twilight-saga-eclipse.jpg",
-			"slug":"the-twilight-saga-eclipse"
 		}
 	],
 	"related_by_poster":[

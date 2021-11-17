@@ -83,6 +83,11 @@
 			"slug":"jujutsu-kaisen-0-the-movie"
 		},
 		{
+			"title":"Ghost in the Shell",
+			"gatsby_image_path":"..\/..\/images\/ghost-in-the-shell-1995-11-18.jpg",
+			"slug":"ghost-in-the-shell-1995-11-18"
+		},
+		{
 			"title":"Dragon Ball Z: Wrath of the Dragon",
 			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-wrath-of-the-dragon.jpg",
 			"slug":"dragon-ball-z-wrath-of-the-dragon"
@@ -151,14 +156,14 @@
 			"title":"Zone 414",
 			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
 			"slug":"zone-414"
-		},
-		{
-			"title":"Zombieland",
-			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
-			"slug":"zombieland"
 		}
 	],
 	"related_most_similar":[
+		{
+			"title":"Ghost in the Shell",
+			"gatsby_image_path":"..\/..\/images\/ghost-in-the-shell-1995-11-18.jpg",
+			"slug":"ghost-in-the-shell-1995-11-18"
+		},
 		{
 			"title":"Dragon Ball Z: Bojack Unbound",
 			"gatsby_image_path":"..\/..\/images\/dragon-ball-z-bojack-unbound.jpg",
@@ -253,11 +258,6 @@
 			"title":"The Boy and the Beast",
 			"gatsby_image_path":"..\/..\/images\/the-boy-and-the-beast.jpg",
 			"slug":"the-boy-and-the-beast"
-		},
-		{
-			"title":"Sword Art Online the Movie -Progressive- Aria of a Starless Night",
-			"gatsby_image_path":"..\/..\/images\/sword-art-online-the-movie-progressive-aria-of-a-starless-night.jpg",
-			"slug":"sword-art-online-the-movie-progressive-aria-of-a-starless-night"
 		}
 	],
 	"related_by_poster":[

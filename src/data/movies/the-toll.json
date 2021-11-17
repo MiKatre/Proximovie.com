@@ -107,7 +107,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -301,6 +301,11 @@
 			"slug":"ready-or-not"
 		},
 		{
+			"title":"Polaroid",
+			"gatsby_image_path":"..\/..\/images\/polaroid-2019-01-10.jpg",
+			"slug":"polaroid-2019-01-10"
+		},
+		{
 			"title":"Insidious",
 			"gatsby_image_path":"..\/..\/images\/insidious.jpg",
 			"slug":"insidious"
@@ -349,11 +354,6 @@
 			"title":"Wrong Turn",
 			"gatsby_image_path":"..\/..\/images\/wrong-turn.jpg",
 			"slug":"wrong-turn"
-		},
-		{
-			"title":"Wrong Turn 5: Bloodlines",
-			"gatsby_image_path":"..\/..\/images\/wrong-turn-5-bloodlines.jpg",
-			"slug":"wrong-turn-5-bloodlines"
 		}
 	],
 	"related_by_poster":[

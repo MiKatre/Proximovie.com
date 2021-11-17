@@ -106,7 +106,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -178,6 +178,11 @@
 			"slug":"wrong-turn-2-dead-end"
 		},
 		{
+			"title":"Wrong Turn",
+			"gatsby_image_path":"..\/..\/images\/wrong-turn-2003-05-30.jpg",
+			"slug":"wrong-turn-2003-05-30"
+		},
+		{
 			"title":"Viking Quest",
 			"gatsby_image_path":"..\/..\/images\/viking-quest.jpg",
 			"slug":"viking-quest"
@@ -246,11 +251,6 @@
 			"title":"Crystal Skulls",
 			"gatsby_image_path":"..\/..\/images\/crystal-skulls.jpg",
 			"slug":"crystal-skulls"
-		},
-		{
-			"title":"World War Z",
-			"gatsby_image_path":"..\/..\/images\/world-war-z.jpg",
-			"slug":"world-war-z"
 		}
 	],
 	"related_by_poster":[

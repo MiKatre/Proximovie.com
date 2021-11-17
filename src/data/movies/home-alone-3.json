@@ -81,6 +81,11 @@
 			"slug":"the-notebook"
 		},
 		{
+			"title":"The Jungle Book",
+			"gatsby_image_path":"..\/..\/images\/the-jungle-book-2016-04-07.jpg",
+			"slug":"the-jungle-book-2016-04-07"
+		},
+		{
 			"title":"The Avengers",
 			"gatsby_image_path":"..\/..\/images\/the-avengers.jpg",
 			"slug":"the-avengers"
@@ -164,11 +169,6 @@
 			"title":"Avengers: Endgame",
 			"gatsby_image_path":"..\/..\/images\/avengers-endgame.jpg",
 			"slug":"avengers-endgame"
-		},
-		{
-			"title":"Avengers: Age of Ultron",
-			"gatsby_image_path":"..\/..\/images\/avengers-age-of-ultron.jpg",
-			"slug":"avengers-age-of-ultron"
 		}
 	],
 	"related_by_overview":[

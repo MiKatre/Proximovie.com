@@ -149,7 +149,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -308,6 +308,11 @@
 			"slug":"saw-vi"
 		},
 		{
+			"title":"Polaroid",
+			"gatsby_image_path":"..\/..\/images\/polaroid-2019-01-10.jpg",
+			"slug":"polaroid-2019-01-10"
+		},
+		{
 			"title":"Orphan",
 			"gatsby_image_path":"..\/..\/images\/orphan.jpg",
 			"slug":"orphan"
@@ -371,11 +376,6 @@
 			"title":"Unknown",
 			"gatsby_image_path":"..\/..\/images\/unknown.jpg",
 			"slug":"unknown"
-		},
-		{
-			"title":"Thir13en Ghosts",
-			"gatsby_image_path":"..\/..\/images\/thir13en-ghosts.jpg",
-			"slug":"thir13en-ghosts"
 		}
 	],
 	"related_by_poster":[

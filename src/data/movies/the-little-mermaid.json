@@ -121,7 +121,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -156,6 +156,11 @@
 			"title":"Beauty and the Beast",
 			"gatsby_image_path":"..\/..\/images\/beauty-and-the-beast.jpg",
 			"slug":"beauty-and-the-beast"
+		},
+		{
+			"title":"Aladdin",
+			"gatsby_image_path":"..\/..\/images\/aladdin-1992-11-25.jpg",
+			"slug":"aladdin-1992-11-25"
 		},
 		{
 			"title":"Treasure Planet",
@@ -246,11 +251,6 @@
 			"title":"Onward",
 			"gatsby_image_path":"..\/..\/images\/onward.jpg",
 			"slug":"onward"
-		},
-		{
-			"title":"Olaf's Frozen Adventure",
-			"gatsby_image_path":"..\/..\/images\/olaf-s-frozen-adventure.jpg",
-			"slug":"olaf-s-frozen-adventure"
 		}
 	],
 	"related_by_poster":[

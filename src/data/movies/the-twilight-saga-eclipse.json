@@ -233,6 +233,11 @@
 			"slug":"zathura-a-space-adventure"
 		},
 		{
+			"title":"Your Name",
+			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
+			"slug":"your-name"
+		},
+		{
 			"title":"Wizards of Waverly Place: The Movie",
 			"gatsby_image_path":"..\/..\/images\/wizards-of-waverly-place-the-movie.jpg",
 			"slug":"wizards-of-waverly-place-the-movie"
@@ -251,11 +256,6 @@
 			"title":"The SpongeBob Movie: Sponge Out of Water",
 			"gatsby_image_path":"..\/..\/images\/the-spongebob-movie-sponge-out-of-water.jpg",
 			"slug":"the-spongebob-movie-sponge-out-of-water"
-		},
-		{
-			"title":"The Shape of Water",
-			"gatsby_image_path":"..\/..\/images\/the-shape-of-water.jpg",
-			"slug":"the-shape-of-water"
 		}
 	],
 	"related_by_poster":[

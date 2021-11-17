@@ -95,7 +95,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -182,6 +182,11 @@
 			"slug":"the-night-house"
 		},
 		{
+			"title":"The Mummy",
+			"gatsby_image_path":"..\/..\/images\/the-mummy-2017-06-06.jpg",
+			"slug":"the-mummy-2017-06-06"
+		},
+		{
 			"title":"The Grudge",
 			"gatsby_image_path":"..\/..\/images\/the-grudge.jpg",
 			"slug":"the-grudge"
@@ -245,11 +250,6 @@
 			"title":"Reaptown",
 			"gatsby_image_path":"..\/..\/images\/reaptown.jpg",
 			"slug":"reaptown"
-		},
-		{
-			"title":"Rattlesnake",
-			"gatsby_image_path":"..\/..\/images\/rattlesnake.jpg",
-			"slug":"rattlesnake"
 		}
 	],
 	"related_by_poster":[

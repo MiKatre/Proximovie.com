@@ -54,6 +54,11 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"Venom",
+			"gatsby_image_path":"..\/..\/images\/venom-2018-09-28.jpg",
+			"slug":"venom-2018-09-28"
+		},
+		{
 			"title":"Black and Blue",
 			"gatsby_image_path":"..\/..\/images\/black-and-blue.jpg",
 			"slug":"black-and-blue"
@@ -147,14 +152,14 @@
 			"title":"Shutter Island",
 			"gatsby_image_path":"..\/..\/images\/shutter-island.jpg",
 			"slug":"shutter-island"
-		},
-		{
-			"title":"Season of the Witch",
-			"gatsby_image_path":"..\/..\/images\/season-of-the-witch.jpg",
-			"slug":"season-of-the-witch"
 		}
 	],
 	"related_most_similar":[
+		{
+			"title":"Venom",
+			"gatsby_image_path":"..\/..\/images\/venom-2018-09-28.jpg",
+			"slug":"venom-2018-09-28"
+		},
 		{
 			"title":"Spider-Man: Into the Spider-Verse",
 			"gatsby_image_path":"..\/..\/images\/spider-man-into-the-spider-verse.jpg",
@@ -249,11 +254,6 @@
 			"title":"The Incredible Hulk",
 			"gatsby_image_path":"..\/..\/images\/the-incredible-hulk.jpg",
 			"slug":"the-incredible-hulk"
-		},
-		{
-			"title":"The Dark Tower",
-			"gatsby_image_path":"..\/..\/images\/the-dark-tower.jpg",
-			"slug":"the-dark-tower"
 		}
 	],
 	"related_by_poster":[

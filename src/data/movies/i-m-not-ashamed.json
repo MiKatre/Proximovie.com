@@ -89,7 +89,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -154,6 +154,11 @@
 			"title":"Finding You",
 			"gatsby_image_path":"..\/..\/images\/finding-you.jpg",
 			"slug":"finding-you"
+		},
+		{
+			"title":"Your Name",
+			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
+			"slug":"your-name"
 		},
 		{
 			"title":"World War Z",
@@ -244,11 +249,6 @@
 			"title":"Until Forever",
 			"gatsby_image_path":"..\/..\/images\/until-forever.jpg",
 			"slug":"until-forever"
-		},
-		{
-			"title":"Unthinkable",
-			"gatsby_image_path":"..\/..\/images\/unthinkable.jpg",
-			"slug":"unthinkable"
 		}
 	],
 	"related_by_poster":[

@@ -52,6 +52,11 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"The Addams Family",
+			"gatsby_image_path":"..\/..\/images\/the-addams-family-1991-11-22.jpg",
+			"slug":"the-addams-family-1991-11-22"
+		},
+		{
 			"title":"Toy Story 3",
 			"gatsby_image_path":"..\/..\/images\/toy-story-3.jpg",
 			"slug":"toy-story-3"
@@ -145,14 +150,14 @@
 			"title":"Zone 414",
 			"gatsby_image_path":"..\/..\/images\/zone-414.jpg",
 			"slug":"zone-414"
-		},
-		{
-			"title":"Zombieland",
-			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
-			"slug":"zombieland"
 		}
 	],
 	"related_most_similar":[
+		{
+			"title":"The Addams Family",
+			"gatsby_image_path":"..\/..\/images\/the-addams-family-1991-11-22.jpg",
+			"slug":"the-addams-family-1991-11-22"
+		},
 		{
 			"title":"The Truman Show",
 			"gatsby_image_path":"..\/..\/images\/the-truman-show.jpg",
@@ -247,11 +252,6 @@
 			"title":"Toy Story 4",
 			"gatsby_image_path":"..\/..\/images\/toy-story-4.jpg",
 			"slug":"toy-story-4"
-		},
-		{
-			"title":"Toy Story 3",
-			"gatsby_image_path":"..\/..\/images\/toy-story-3.jpg",
-			"slug":"toy-story-3"
 		}
 	],
 	"related_by_poster":[

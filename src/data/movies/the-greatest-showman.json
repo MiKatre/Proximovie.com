@@ -55,6 +55,11 @@
 			"slug":"reminiscence"
 		},
 		{
+			"title":"Dune",
+			"gatsby_image_path":"..\/..\/images\/dune.jpg",
+			"slug":"dune"
+		},
+		{
 			"title":"Baywatch",
 			"gatsby_image_path":"..\/..\/images\/baywatch.jpg",
 			"slug":"baywatch"
@@ -73,6 +78,11 @@
 			"title":"Venom: Let There Be Carnage",
 			"gatsby_image_path":"..\/..\/images\/venom-let-there-be-carnage.jpg",
 			"slug":"venom-let-there-be-carnage"
+		},
+		{
+			"title":"Venom",
+			"gatsby_image_path":"..\/..\/images\/venom-2018-09-28.jpg",
+			"slug":"venom-2018-09-28"
 		},
 		{
 			"title":"Van Helsing",
@@ -138,16 +148,6 @@
 			"title":"Real Steel",
 			"gatsby_image_path":"..\/..\/images\/real-steel.jpg",
 			"slug":"real-steel"
-		},
-		{
-			"title":"Prisoners",
-			"gatsby_image_path":"..\/..\/images\/prisoners.jpg",
-			"slug":"prisoners"
-		},
-		{
-			"title":"Neighbors",
-			"gatsby_image_path":"..\/..\/images\/neighbors.jpg",
-			"slug":"neighbors"
 		}
 	],
 	"related_most_similar":[

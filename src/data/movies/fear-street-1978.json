@@ -94,7 +94,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -216,6 +216,11 @@
 			"slug":"what-lies-below"
 		},
 		{
+			"title":"Venom",
+			"gatsby_image_path":"..\/..\/images\/venom-2005-09-16.jpg",
+			"slug":"venom-2005-09-16"
+		},
+		{
 			"title":"Vacation Friends",
 			"gatsby_image_path":"..\/..\/images\/vacation-friends.jpg",
 			"slug":"vacation-friends"
@@ -244,11 +249,6 @@
 			"title":"The Ring",
 			"gatsby_image_path":"..\/..\/images\/the-ring.jpg",
 			"slug":"the-ring"
-		},
-		{
-			"title":"There's Someone Inside Your House",
-			"gatsby_image_path":"..\/..\/images\/there-s-someone-inside-your-house.jpg",
-			"slug":"there-s-someone-inside-your-house"
 		}
 	],
 	"related_by_poster":[

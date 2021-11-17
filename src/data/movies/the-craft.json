@@ -159,7 +159,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -328,6 +328,11 @@
 			"slug":"escape-room"
 		},
 		{
+			"title":"Death Note",
+			"gatsby_image_path":"..\/..\/images\/death-note-2017-08-25.jpg",
+			"slug":"death-note-2017-08-25"
+		},
+		{
 			"title":"Big Fish",
 			"gatsby_image_path":"..\/..\/images\/big-fish.jpg",
 			"slug":"big-fish"
@@ -366,11 +371,6 @@
 			"title":"World War Z",
 			"gatsby_image_path":"..\/..\/images\/world-war-z.jpg",
 			"slug":"world-war-z"
-		},
-		{
-			"title":"Wish Dragon",
-			"gatsby_image_path":"..\/..\/images\/wish-dragon.jpg",
-			"slug":"wish-dragon"
 		}
 	],
 	"related_by_poster":[

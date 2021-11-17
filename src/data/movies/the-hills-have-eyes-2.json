@@ -119,7 +119,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -283,6 +283,11 @@
 			"slug":"freddy-vs.-jason"
 		},
 		{
+			"title":"A Nightmare on Elm Street",
+			"gatsby_image_path":"..\/..\/images\/a-nightmare-on-elm-street-1984-11-09.jpg",
+			"slug":"a-nightmare-on-elm-street-1984-11-09"
+		},
+		{
 			"title":"Freddy's Dead: The Final Nightmare",
 			"gatsby_image_path":"..\/..\/images\/freddy-s-dead-the-final-nightmare.jpg",
 			"slug":"freddy-s-dead-the-final-nightmare"
@@ -343,6 +348,11 @@
 			"slug":"wrong-turn-3-left-for-dead"
 		},
 		{
+			"title":"Wrong Turn",
+			"gatsby_image_path":"..\/..\/images\/wrong-turn-2003-05-30.jpg",
+			"slug":"wrong-turn-2003-05-30"
+		},
+		{
 			"title":"World War Z",
 			"gatsby_image_path":"..\/..\/images\/world-war-z.jpg",
 			"slug":"world-war-z"
@@ -351,16 +361,6 @@
 			"title":"What Lies Below",
 			"gatsby_image_path":"..\/..\/images\/what-lies-below.jpg",
 			"slug":"what-lies-below"
-		},
-		{
-			"title":"Underwater",
-			"gatsby_image_path":"..\/..\/images\/underwater.jpg",
-			"slug":"underwater"
-		},
-		{
-			"title":"Truth or Dare",
-			"gatsby_image_path":"..\/..\/images\/truth-or-dare.jpg",
-			"slug":"truth-or-dare"
 		}
 	],
 	"related_by_poster":[

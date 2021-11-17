@@ -87,7 +87,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -184,6 +184,11 @@
 			"slug":"1917"
 		},
 		{
+			"title":"Your Name",
+			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
+			"slug":"your-name"
+		},
+		{
 			"title":"World War Z",
 			"gatsby_image_path":"..\/..\/images\/world-war-z.jpg",
 			"slug":"world-war-z"
@@ -242,11 +247,6 @@
 			"title":"Warning",
 			"gatsby_image_path":"..\/..\/images\/warning.jpg",
 			"slug":"warning"
-		},
-		{
-			"title":"War for the Planet of the Apes",
-			"gatsby_image_path":"..\/..\/images\/war-for-the-planet-of-the-apes.jpg",
-			"slug":"war-for-the-planet-of-the-apes"
 		}
 	],
 	"related_by_poster":[

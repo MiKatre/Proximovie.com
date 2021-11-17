@@ -77,7 +77,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -241,6 +241,11 @@
 			"slug":"seven-deadly-sins-envy"
 		},
 		{
+			"title":"Your Name",
+			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
+			"slug":"your-name"
+		},
+		{
 			"title":"World War Z",
 			"gatsby_image_path":"..\/..\/images\/world-war-z.jpg",
 			"slug":"world-war-z"
@@ -329,11 +334,6 @@
 			"title":"Until Forever",
 			"gatsby_image_path":"..\/..\/images\/until-forever.jpg",
 			"slug":"until-forever"
-		},
-		{
-			"title":"Unthinkable",
-			"gatsby_image_path":"..\/..\/images\/unthinkable.jpg",
-			"slug":"unthinkable"
 		}
 	],
 	"related_by_poster":[

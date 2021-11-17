@@ -102,7 +102,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -167,6 +167,11 @@
 			"title":"Bliss",
 			"gatsby_image_path":"..\/..\/images\/bliss.jpg",
 			"slug":"bliss"
+		},
+		{
+			"title":"Your Name",
+			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
+			"slug":"your-name"
 		},
 		{
 			"title":"Wild Child",
@@ -247,11 +252,6 @@
 			"title":"The Mountain Between Us",
 			"gatsby_image_path":"..\/..\/images\/the-mountain-between-us.jpg",
 			"slug":"the-mountain-between-us"
-		},
-		{
-			"title":"The Marksman",
-			"gatsby_image_path":"..\/..\/images\/the-marksman.jpg",
-			"slug":"the-marksman"
 		}
 	],
 	"related_by_poster":[

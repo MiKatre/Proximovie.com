@@ -65,6 +65,11 @@
 			"slug":"watchmen"
 		},
 		{
+			"title":"Venom",
+			"gatsby_image_path":"..\/..\/images\/venom-2005-09-16.jpg",
+			"slug":"venom-2005-09-16"
+		},
+		{
 			"title":"Thor: The Dark World",
 			"gatsby_image_path":"..\/..\/images\/thor-the-dark-world.jpg",
 			"slug":"thor-the-dark-world"
@@ -105,6 +110,11 @@
 			"slug":"the-losers"
 		},
 		{
+			"title":"The Jungle Book",
+			"gatsby_image_path":"..\/..\/images\/the-jungle-book-2016-04-07.jpg",
+			"slug":"the-jungle-book-2016-04-07"
+		},
+		{
 			"title":"The Hitman's Bodyguard",
 			"gatsby_image_path":"..\/..\/images\/the-hitman-s-bodyguard.jpg",
 			"slug":"the-hitman-s-bodyguard"
@@ -143,16 +153,6 @@
 			"title":"The Dark Knight Rises",
 			"gatsby_image_path":"..\/..\/images\/the-dark-knight-rises.jpg",
 			"slug":"the-dark-knight-rises"
-		},
-		{
-			"title":"The Dark Knight",
-			"gatsby_image_path":"..\/..\/images\/the-dark-knight.jpg",
-			"slug":"the-dark-knight"
-		},
-		{
-			"title":"Terminator Salvation",
-			"gatsby_image_path":"..\/..\/images\/terminator-salvation.jpg",
-			"slug":"terminator-salvation"
 		}
 	],
 	"related_by_overview":[

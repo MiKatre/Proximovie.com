@@ -98,7 +98,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -307,6 +307,11 @@
 			"slug":"wrong-turn-2-dead-end"
 		},
 		{
+			"title":"Wrong Turn",
+			"gatsby_image_path":"..\/..\/images\/wrong-turn-2003-05-30.jpg",
+			"slug":"wrong-turn-2003-05-30"
+		},
+		{
 			"title":"Wrath of Man",
 			"gatsby_image_path":"..\/..\/images\/wrath-of-man.jpg",
 			"slug":"wrath-of-man"
@@ -345,11 +350,6 @@
 			"title":"Turner & Hooch",
 			"gatsby_image_path":"..\/..\/images\/turner-hooch.jpg",
 			"slug":"turner-hooch"
-		},
-		{
-			"title":"Triple Frontier",
-			"gatsby_image_path":"..\/..\/images\/triple-frontier.jpg",
-			"slug":"triple-frontier"
 		}
 	],
 	"related_by_poster":[

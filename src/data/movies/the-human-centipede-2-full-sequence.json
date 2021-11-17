@@ -98,7 +98,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -235,6 +235,11 @@
 			"slug":"dunkirk"
 		},
 		{
+			"title":"Death Note",
+			"gatsby_image_path":"..\/..\/images\/death-note-2017-08-25.jpg",
+			"slug":"death-note-2017-08-25"
+		},
+		{
 			"title":"Contraband",
 			"gatsby_image_path":"..\/..\/images\/contraband.jpg",
 			"slug":"contraband"
@@ -243,11 +248,6 @@
 			"title":"Code 8",
 			"gatsby_image_path":"..\/..\/images\/code-8.jpg",
 			"slug":"code-8"
-		},
-		{
-			"title":"Batman Begins",
-			"gatsby_image_path":"..\/..\/images\/batman-begins.jpg",
-			"slug":"batman-begins"
 		}
 	],
 	"related_by_poster":[

@@ -100,7 +100,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -172,6 +172,11 @@
 			"slug":"sleeping-beauty"
 		},
 		{
+			"title":"Robin Hood",
+			"gatsby_image_path":"..\/..\/images\/robin-hood-1973-11-08.jpg",
+			"slug":"robin-hood-1973-11-08"
+		},
+		{
 			"title":"Peter Pan",
 			"gatsby_image_path":"..\/..\/images\/peter-pan.jpg",
 			"slug":"peter-pan"
@@ -222,6 +227,11 @@
 			"slug":"bambi"
 		},
 		{
+			"title":"The Jungle Book",
+			"gatsby_image_path":"..\/..\/images\/the-jungle-book-2016-04-07.jpg",
+			"slug":"the-jungle-book-2016-04-07"
+		},
+		{
 			"title":"Snow White and the Seven Dwarfs",
 			"gatsby_image_path":"..\/..\/images\/snow-white-and-the-seven-dwarfs.jpg",
 			"slug":"snow-white-and-the-seven-dwarfs"
@@ -240,16 +250,6 @@
 			"title":"Zootopia",
 			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
 			"slug":"zootopia"
-		},
-		{
-			"title":"Wreck-It Ralph",
-			"gatsby_image_path":"..\/..\/images\/wreck-it-ralph.jpg",
-			"slug":"wreck-it-ralph"
-		},
-		{
-			"title":"WALL·E",
-			"gatsby_image_path":"..\/..\/images\/wall-e.jpg",
-			"slug":"wall-e"
 		}
 	],
 	"related_by_poster":[

@@ -121,7 +121,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -295,6 +295,11 @@
 			"slug":"ready-or-not"
 		},
 		{
+			"title":"Polaroid",
+			"gatsby_image_path":"..\/..\/images\/polaroid-2019-01-10.jpg",
+			"slug":"polaroid-2019-01-10"
+		},
+		{
 			"title":"Orphan",
 			"gatsby_image_path":"..\/..\/images\/orphan.jpg",
 			"slug":"orphan"
@@ -358,11 +363,6 @@
 			"title":"Wrong Turn 2: Dead End",
 			"gatsby_image_path":"..\/..\/images\/wrong-turn-2-dead-end.jpg",
 			"slug":"wrong-turn-2-dead-end"
-		},
-		{
-			"title":"World War Z",
-			"gatsby_image_path":"..\/..\/images\/world-war-z.jpg",
-			"slug":"world-war-z"
 		}
 	],
 	"related_by_poster":[

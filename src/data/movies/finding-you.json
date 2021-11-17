@@ -116,7 +116,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -275,6 +275,11 @@
 			"slug":"war-room"
 		},
 		{
+			"title":"Your Name",
+			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
+			"slug":"your-name"
+		},
+		{
 			"title":"Wild Child",
 			"gatsby_image_path":"..\/..\/images\/wild-child.jpg",
 			"slug":"wild-child"
@@ -358,11 +363,6 @@
 			"title":"The Light Between Oceans",
 			"gatsby_image_path":"..\/..\/images\/the-light-between-oceans.jpg",
 			"slug":"the-light-between-oceans"
-		},
-		{
-			"title":"The Legend of Tarzan",
-			"gatsby_image_path":"..\/..\/images\/the-legend-of-tarzan.jpg",
-			"slug":"the-legend-of-tarzan"
 		}
 	],
 	"related_by_poster":[

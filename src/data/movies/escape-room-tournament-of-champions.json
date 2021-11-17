@@ -129,7 +129,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -226,6 +226,11 @@
 			"slug":"those-who-wish-me-dead"
 		},
 		{
+			"title":"The Mummy",
+			"gatsby_image_path":"..\/..\/images\/the-mummy-2017-06-06.jpg",
+			"slug":"the-mummy-2017-06-06"
+		},
+		{
 			"title":"The Maze Runner",
 			"gatsby_image_path":"..\/..\/images\/the-maze-runner.jpg",
 			"slug":"the-maze-runner"
@@ -249,11 +254,6 @@
 			"title":"Terminator Salvation",
 			"gatsby_image_path":"..\/..\/images\/terminator-salvation.jpg",
 			"slug":"terminator-salvation"
-		},
-		{
-			"title":"Terminator 3: Rise of the Machines",
-			"gatsby_image_path":"..\/..\/images\/terminator-3-rise-of-the-machines.jpg",
-			"slug":"terminator-3-rise-of-the-machines"
 		}
 	],
 	"related_by_poster":[

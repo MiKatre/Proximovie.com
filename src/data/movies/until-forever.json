@@ -86,7 +86,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -147,6 +147,11 @@
 		}
 	],
 	"related_most_similar":[
+		{
+			"title":"Your Name",
+			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
+			"slug":"your-name"
+		},
 		{
 			"title":"Wild Child",
 			"gatsby_image_path":"..\/..\/images\/wild-child.jpg",
@@ -241,11 +246,6 @@
 			"title":"The Great Gatsby",
 			"gatsby_image_path":"..\/..\/images\/the-great-gatsby.jpg",
 			"slug":"the-great-gatsby"
-		},
-		{
-			"title":"The French Dispatch",
-			"gatsby_image_path":"..\/..\/images\/the-french-dispatch.jpg",
-			"slug":"the-french-dispatch"
 		}
 	],
 	"related_by_poster":[

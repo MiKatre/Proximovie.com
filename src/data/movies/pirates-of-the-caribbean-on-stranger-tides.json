@@ -195,6 +195,11 @@
 			"slug":"top-gun-maverick"
 		},
 		{
+			"title":"The Lion King",
+			"gatsby_image_path":"..\/..\/images\/the-lion-king-2019-07-12.jpg",
+			"slug":"the-lion-king-2019-07-12"
+		},
+		{
 			"title":"The Road to El Dorado",
 			"gatsby_image_path":"..\/..\/images\/the-road-to-el-dorado.jpg",
 			"slug":"the-road-to-el-dorado"
@@ -220,6 +225,16 @@
 			"slug":"avatar-2"
 		},
 		{
+			"title":"Aladdin",
+			"gatsby_image_path":"..\/..\/images\/aladdin-1992-11-25.jpg",
+			"slug":"aladdin-1992-11-25"
+		},
+		{
+			"title":"The Jungle Book",
+			"gatsby_image_path":"..\/..\/images\/the-jungle-book-2016-04-07.jpg",
+			"slug":"the-jungle-book-2016-04-07"
+		},
+		{
 			"title":"Shrek the Third",
 			"gatsby_image_path":"..\/..\/images\/shrek-the-third.jpg",
 			"slug":"shrek-the-third"
@@ -238,21 +253,6 @@
 			"title":"Pearl Harbor",
 			"gatsby_image_path":"..\/..\/images\/pearl-harbor.jpg",
 			"slug":"pearl-harbor"
-		},
-		{
-			"title":"Man of Steel",
-			"gatsby_image_path":"..\/..\/images\/man-of-steel.jpg",
-			"slug":"man-of-steel"
-		},
-		{
-			"title":"Guardians of the Galaxy",
-			"gatsby_image_path":"..\/..\/images\/guardians-of-the-galaxy.jpg",
-			"slug":"guardians-of-the-galaxy"
-		},
-		{
-			"title":"Godzilla vs. Kong",
-			"gatsby_image_path":"..\/..\/images\/godzilla-vs.-kong.jpg",
-			"slug":"godzilla-vs.-kong"
 		}
 	],
 	"related_by_poster":[

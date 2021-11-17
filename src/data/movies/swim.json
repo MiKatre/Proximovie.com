@@ -83,7 +83,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -322,6 +322,11 @@
 			"slug":"the-new-mutants"
 		},
 		{
+			"title":"The Mummy",
+			"gatsby_image_path":"..\/..\/images\/the-mummy-2017-06-06.jpg",
+			"slug":"the-mummy-2017-06-06"
+		},
+		{
 			"title":"The Meg",
 			"gatsby_image_path":"..\/..\/images\/the-meg.jpg",
 			"slug":"the-meg"
@@ -340,11 +345,6 @@
 			"title":"The Jurassic Games",
 			"gatsby_image_path":"..\/..\/images\/the-jurassic-games.jpg",
 			"slug":"the-jurassic-games"
-		},
-		{
-			"title":"The Hunt",
-			"gatsby_image_path":"..\/..\/images\/the-hunt.jpg",
-			"slug":"the-hunt"
 		}
 	],
 	"related_by_poster":[

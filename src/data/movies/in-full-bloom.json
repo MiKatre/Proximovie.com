@@ -90,7 +90,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -150,6 +150,11 @@
 			"title":"Turbo: A Power Rangers Movie",
 			"gatsby_image_path":"..\/..\/images\/turbo-a-power-rangers-movie.jpg",
 			"slug":"turbo-a-power-rangers-movie"
+		},
+		{
+			"title":"The Mummy",
+			"gatsby_image_path":"..\/..\/images\/the-mummy-2017-06-06.jpg",
+			"slug":"the-mummy-2017-06-06"
 		},
 		{
 			"title":"The Last Samurai",
@@ -235,11 +240,6 @@
 			"title":"Everly",
 			"gatsby_image_path":"..\/..\/images\/everly.jpg",
 			"slug":"everly"
-		},
-		{
-			"title":"Breach",
-			"gatsby_image_path":"..\/..\/images\/breach.jpg",
-			"slug":"breach"
 		}
 	],
 	"related_by_poster":[

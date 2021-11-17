@@ -84,7 +84,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -206,6 +206,11 @@
 			"slug":"psycho-goreman"
 		},
 		{
+			"title":"Polaroid",
+			"gatsby_image_path":"..\/..\/images\/polaroid-2019-01-10.jpg",
+			"slug":"polaroid-2019-01-10"
+		},
+		{
 			"title":"Overlord",
 			"gatsby_image_path":"..\/..\/images\/overlord.jpg",
 			"slug":"overlord"
@@ -234,11 +239,6 @@
 			"title":"Hypnotic",
 			"gatsby_image_path":"..\/..\/images\/hypnotic.jpg",
 			"slug":"hypnotic"
-		},
-		{
-			"title":"For the Sake of Vicious",
-			"gatsby_image_path":"..\/..\/images\/for-the-sake-of-vicious.jpg",
-			"slug":"for-the-sake-of-vicious"
 		}
 	],
 	"related_by_poster":[

@@ -169,6 +169,11 @@
 			"slug":"collateral-beauty"
 		},
 		{
+			"title":"Your Name",
+			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
+			"slug":"your-name"
+		},
+		{
 			"title":"Twilight",
 			"gatsby_image_path":"..\/..\/images\/twilight.jpg",
 			"slug":"twilight"
@@ -234,6 +239,11 @@
 			"slug":"edward-scissorhands"
 		},
 		{
+			"title":"Cinderella",
+			"gatsby_image_path":"..\/..\/images\/cinderella-2015-03-12.jpg",
+			"slug":"cinderella-2015-03-12"
+		},
+		{
 			"title":"Carriers",
 			"gatsby_image_path":"..\/..\/images\/carriers.jpg",
 			"slug":"carriers"
@@ -242,16 +252,6 @@
 			"title":"All the Bright Places",
 			"gatsby_image_path":"..\/..\/images\/all-the-bright-places.jpg",
 			"slug":"all-the-bright-places"
-		},
-		{
-			"title":"Wizards of Waverly Place: The Movie",
-			"gatsby_image_path":"..\/..\/images\/wizards-of-waverly-place-the-movie.jpg",
-			"slug":"wizards-of-waverly-place-the-movie"
-		},
-		{
-			"title":"Wild Child",
-			"gatsby_image_path":"..\/..\/images\/wild-child.jpg",
-			"slug":"wild-child"
 		}
 	],
 	"related_by_poster":[

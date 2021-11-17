@@ -70,6 +70,11 @@
 			"slug":"the-return-of-the-living-dead"
 		},
 		{
+			"title":"Halloween",
+			"gatsby_image_path":"..\/..\/images\/halloween-1978-10-24.jpg",
+			"slug":"halloween-1978-10-24"
+		},
+		{
 			"title":"Zootopia",
 			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
 			"slug":"zootopia"
@@ -110,7 +115,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -158,11 +163,6 @@
 			"title":"Xtreme",
 			"gatsby_image_path":"..\/..\/images\/xtreme.jpg",
 			"slug":"xtreme"
-		},
-		{
-			"title":"X-Men: Days of Future Past",
-			"gatsby_image_path":"..\/..\/images\/x-men-days-of-future-past.jpg",
-			"slug":"x-men-days-of-future-past"
 		}
 	],
 	"related_by_overview":[
@@ -269,6 +269,16 @@
 	],
 	"related_most_similar":[
 		{
+			"title":"Halloween",
+			"gatsby_image_path":"..\/..\/images\/halloween-1978-10-24.jpg",
+			"slug":"halloween-1978-10-24"
+		},
+		{
+			"title":"Halloween",
+			"gatsby_image_path":"..\/..\/images\/halloween-2018-10-18.jpg",
+			"slug":"halloween-2018-10-18"
+		},
+		{
 			"title":"Halloween Kills",
 			"gatsby_image_path":"..\/..\/images\/halloween-kills.jpg",
 			"slug":"halloween-kills"
@@ -307,6 +317,11 @@
 			"title":"The Purge: Election Year",
 			"gatsby_image_path":"..\/..\/images\/the-purge-election-year.jpg",
 			"slug":"the-purge-election-year"
+		},
+		{
+			"title":"The Mummy",
+			"gatsby_image_path":"..\/..\/images\/the-mummy-2017-06-06.jpg",
+			"slug":"the-mummy-2017-06-06"
 		},
 		{
 			"title":"The Invisible Man",
@@ -352,21 +367,6 @@
 			"title":"Insidious: The Last Key",
 			"gatsby_image_path":"..\/..\/images\/insidious-the-last-key.jpg",
 			"slug":"insidious-the-last-key"
-		},
-		{
-			"title":"Freaky",
-			"gatsby_image_path":"..\/..\/images\/freaky.jpg",
-			"slug":"freaky"
-		},
-		{
-			"title":"Drag Me to Hell",
-			"gatsby_image_path":"..\/..\/images\/drag-me-to-hell.jpg",
-			"slug":"drag-me-to-hell"
-		},
-		{
-			"title":"Crimson Peak",
-			"gatsby_image_path":"..\/..\/images\/crimson-peak.jpg",
-			"slug":"crimson-peak"
 		}
 	],
 	"related_by_poster":[

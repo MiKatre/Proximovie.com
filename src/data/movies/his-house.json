@@ -53,6 +53,11 @@
 	],
 	"related_by_cast":[
 		{
+			"title":"The Mummy",
+			"gatsby_image_path":"..\/..\/images\/the-mummy-2017-06-06.jpg",
+			"slug":"the-mummy-2017-06-06"
+		},
+		{
 			"title":"The Huntsman: Winter's War",
 			"gatsby_image_path":"..\/..\/images\/the-huntsman-winter-s-war.jpg",
 			"slug":"the-huntsman-winter-s-war"
@@ -66,6 +71,11 @@
 			"title":"Slender Man",
 			"gatsby_image_path":"..\/..\/images\/slender-man.jpg",
 			"slug":"slender-man"
+		},
+		{
+			"title":"Polaroid",
+			"gatsby_image_path":"..\/..\/images\/polaroid-2019-01-10.jpg",
+			"slug":"polaroid-2019-01-10"
 		},
 		{
 			"title":"Morbius",
@@ -128,7 +138,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -141,16 +151,6 @@
 			"title":"Young and Wild",
 			"gatsby_image_path":"..\/..\/images\/young-and-wild.jpg",
 			"slug":"young-and-wild"
-		},
-		{
-			"title":"Yes, No, or Maybe Half?",
-			"gatsby_image_path":"..\/..\/images\/yes-no-or-maybe-half.jpg",
-			"slug":"yes-no-or-maybe-half"
-		},
-		{
-			"title":"Yes Man",
-			"gatsby_image_path":"..\/..\/images\/yes-man.jpg",
-			"slug":"yes-man"
 		}
 	],
 	"related_most_similar":[
@@ -175,9 +175,19 @@
 			"slug":"the-devil-s-advocate"
 		},
 		{
+			"title":"Polaroid",
+			"gatsby_image_path":"..\/..\/images\/polaroid-2019-01-10.jpg",
+			"slug":"polaroid-2019-01-10"
+		},
+		{
 			"title":"Man on Fire",
 			"gatsby_image_path":"..\/..\/images\/man-on-fire.jpg",
 			"slug":"man-on-fire"
+		},
+		{
+			"title":"Death Note",
+			"gatsby_image_path":"..\/..\/images\/death-note-2017-08-25.jpg",
+			"slug":"death-note-2017-08-25"
 		},
 		{
 			"title":"Locked Down",
@@ -243,16 +253,6 @@
 			"title":"The Witch",
 			"gatsby_image_path":"..\/..\/images\/the-witch.jpg",
 			"slug":"the-witch"
-		},
-		{
-			"title":"The Unfamiliar",
-			"gatsby_image_path":"..\/..\/images\/the-unfamiliar.jpg",
-			"slug":"the-unfamiliar"
-		},
-		{
-			"title":"The Shining",
-			"gatsby_image_path":"..\/..\/images\/the-shining.jpg",
-			"slug":"the-shining"
 		}
 	],
 	"related_by_poster":[

@@ -113,7 +113,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -287,6 +287,11 @@
 			"slug":"wrong-turn-2-dead-end"
 		},
 		{
+			"title":"Wrong Turn",
+			"gatsby_image_path":"..\/..\/images\/wrong-turn-2003-05-30.jpg",
+			"slug":"wrong-turn-2003-05-30"
+		},
+		{
 			"title":"Unknown",
 			"gatsby_image_path":"..\/..\/images\/unknown.jpg",
 			"slug":"unknown"
@@ -345,11 +350,6 @@
 			"title":"Orphan",
 			"gatsby_image_path":"..\/..\/images\/orphan.jpg",
 			"slug":"orphan"
-		},
-		{
-			"title":"Ninja Assassin",
-			"gatsby_image_path":"..\/..\/images\/ninja-assassin.jpg",
-			"slug":"ninja-assassin"
 		}
 	],
 	"related_by_poster":[

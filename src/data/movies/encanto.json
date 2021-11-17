@@ -108,7 +108,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -200,6 +200,11 @@
 			"slug":"coco"
 		},
 		{
+			"title":"Aladdin",
+			"gatsby_image_path":"..\/..\/images\/aladdin-1992-11-25.jpg",
+			"slug":"aladdin-1992-11-25"
+		},
+		{
 			"title":"Zootopia",
 			"gatsby_image_path":"..\/..\/images\/zootopia.jpg",
 			"slug":"zootopia"
@@ -248,11 +253,6 @@
 			"title":"Steven Universe: The Movie",
 			"gatsby_image_path":"..\/..\/images\/steven-universe-the-movie.jpg",
 			"slug":"steven-universe-the-movie"
-		},
-		{
-			"title":"Soul",
-			"gatsby_image_path":"..\/..\/images\/soul.jpg",
-			"slug":"soul"
 		}
 	],
 	"related_by_poster":[

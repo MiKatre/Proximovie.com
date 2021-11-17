@@ -80,7 +80,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -141,6 +141,11 @@
 		}
 	],
 	"related_most_similar":[
+		{
+			"title":"Your Name",
+			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
+			"slug":"your-name"
+		},
 		{
 			"title":"Wizards of Waverly Place: The Movie",
 			"gatsby_image_path":"..\/..\/images\/wizards-of-waverly-place-the-movie.jpg",
@@ -235,11 +240,6 @@
 			"title":"The King",
 			"gatsby_image_path":"..\/..\/images\/the-king.jpg",
 			"slug":"the-king"
-		},
-		{
-			"title":"The Imitation Game",
-			"gatsby_image_path":"..\/..\/images\/the-imitation-game.jpg",
-			"slug":"the-imitation-game"
 		}
 	],
 	"related_by_poster":[

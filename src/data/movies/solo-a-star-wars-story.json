@@ -89,9 +89,19 @@
 			"slug":"venom-let-there-be-carnage"
 		},
 		{
+			"title":"Venom",
+			"gatsby_image_path":"..\/..\/images\/venom-2018-09-28.jpg",
+			"slug":"venom-2018-09-28"
+		},
+		{
 			"title":"The Tourist",
 			"gatsby_image_path":"..\/..\/images\/the-tourist.jpg",
 			"slug":"the-tourist"
+		},
+		{
+			"title":"The Jungle Book",
+			"gatsby_image_path":"..\/..\/images\/the-jungle-book-2016-04-07.jpg",
+			"slug":"the-jungle-book-2016-04-07"
 		},
 		{
 			"title":"The Hunger Games: Mockingjay - Part 2",
@@ -142,16 +152,6 @@
 			"title":"Reminiscence",
 			"gatsby_image_path":"..\/..\/images\/reminiscence.jpg",
 			"slug":"reminiscence"
-		},
-		{
-			"title":"Now You See Me",
-			"gatsby_image_path":"..\/..\/images\/now-you-see-me.jpg",
-			"slug":"now-you-see-me"
-		},
-		{
-			"title":"Now You See Me 2",
-			"gatsby_image_path":"..\/..\/images\/now-you-see-me-2.jpg",
-			"slug":"now-you-see-me-2"
 		}
 	],
 	"related_most_similar":[
@@ -189,6 +189,11 @@
 			"title":"Raiders of the Lost Ark",
 			"gatsby_image_path":"..\/..\/images\/raiders-of-the-lost-ark.jpg",
 			"slug":"raiders-of-the-lost-ark"
+		},
+		{
+			"title":"The Jungle Book",
+			"gatsby_image_path":"..\/..\/images\/the-jungle-book-2016-04-07.jpg",
+			"slug":"the-jungle-book-2016-04-07"
 		},
 		{
 			"title":"Spider-Man: Homecoming",
@@ -249,11 +254,6 @@
 			"title":"Terminator Genisys",
 			"gatsby_image_path":"..\/..\/images\/terminator-genisys.jpg",
 			"slug":"terminator-genisys"
-		},
-		{
-			"title":"Spider-Man: Far From Home",
-			"gatsby_image_path":"..\/..\/images\/spider-man-far-from-home.jpg",
-			"slug":"spider-man-far-from-home"
 		}
 	],
 	"related_by_poster":[

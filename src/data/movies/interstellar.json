@@ -215,6 +215,11 @@
 			"slug":"the-martian"
 		},
 		{
+			"title":"Dune",
+			"gatsby_image_path":"..\/..\/images\/dune.jpg",
+			"slug":"dune"
+		},
+		{
 			"title":"Dark Phoenix",
 			"gatsby_image_path":"..\/..\/images\/dark-phoenix.jpg",
 			"slug":"dark-phoenix"
@@ -248,11 +253,6 @@
 			"title":"Blade Runner 2049",
 			"gatsby_image_path":"..\/..\/images\/blade-runner-2049.jpg",
 			"slug":"blade-runner-2049"
-		},
-		{
-			"title":"Alice Through the Looking Glass",
-			"gatsby_image_path":"..\/..\/images\/alice-through-the-looking-glass.jpg",
-			"slug":"alice-through-the-looking-glass"
 		}
 	],
 	"related_by_poster":[

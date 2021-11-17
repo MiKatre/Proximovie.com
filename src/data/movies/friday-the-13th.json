@@ -138,7 +138,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -302,6 +302,11 @@
 			"slug":"jason-goes-to-hell-the-final-friday"
 		},
 		{
+			"title":"Friday the 13th",
+			"gatsby_image_path":"..\/..\/images\/friday-the-13th-2009-02-11.jpg",
+			"slug":"friday-the-13th-2009-02-11"
+		},
+		{
 			"title":"Night of the Living Dead",
 			"gatsby_image_path":"..\/..\/images\/night-of-the-living-dead.jpg",
 			"slug":"night-of-the-living-dead"
@@ -375,11 +380,6 @@
 			"title":"A Quiet Place Part II",
 			"gatsby_image_path":"..\/..\/images\/a-quiet-place-part-ii.jpg",
 			"slug":"a-quiet-place-part-ii"
-		},
-		{
-			"title":"A Quiet Place",
-			"gatsby_image_path":"..\/..\/images\/a-quiet-place.jpg",
-			"slug":"a-quiet-place"
 		}
 	],
 	"related_by_poster":[

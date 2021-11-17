@@ -149,7 +149,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		}
@@ -236,6 +236,11 @@
 			"slug":"poltergeist"
 		},
 		{
+			"title":"Polaroid",
+			"gatsby_image_path":"..\/..\/images\/polaroid-2019-01-10.jpg",
+			"slug":"polaroid-2019-01-10"
+		},
+		{
 			"title":"P2",
 			"gatsby_image_path":"..\/..\/images\/p2.jpg",
 			"slug":"p2"
@@ -249,11 +254,6 @@
 			"title":"Insidious",
 			"gatsby_image_path":"..\/..\/images\/insidious.jpg",
 			"slug":"insidious"
-		},
-		{
-			"title":"Insidious: Chapter 3",
-			"gatsby_image_path":"..\/..\/images\/insidious-chapter-3.jpg",
-			"slug":"insidious-chapter-3"
 		}
 	],
 	"related_by_poster":[

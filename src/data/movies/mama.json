@@ -65,6 +65,11 @@
 			"slug":"the-shack"
 		},
 		{
+			"title":"The Mummy",
+			"gatsby_image_path":"..\/..\/images\/the-mummy-2017-06-06.jpg",
+			"slug":"the-mummy-2017-06-06"
+		},
+		{
 			"title":"The Martian",
 			"gatsby_image_path":"..\/..\/images\/the-martian.jpg",
 			"slug":"the-martian"
@@ -83,6 +88,11 @@
 			"title":"Slender Man",
 			"gatsby_image_path":"..\/..\/images\/slender-man.jpg",
 			"slug":"slender-man"
+		},
+		{
+			"title":"Polaroid",
+			"gatsby_image_path":"..\/..\/images\/polaroid-2019-01-10.jpg",
+			"slug":"polaroid-2019-01-10"
 		},
 		{
 			"title":"Madagascar 3: Europe's Most Wanted",
@@ -148,16 +158,6 @@
 			"title":"Zombieland",
 			"gatsby_image_path":"..\/..\/images\/zombieland.jpg",
 			"slug":"zombieland"
-		},
-		{
-			"title":"Zombieland: Double Tap",
-			"gatsby_image_path":"..\/..\/images\/zombieland-double-tap.jpg",
-			"slug":"zombieland-double-tap"
-		},
-		{
-			"title":"Zathura: A Space Adventure",
-			"gatsby_image_path":"..\/..\/images\/zathura-a-space-adventure.jpg",
-			"slug":"zathura-a-space-adventure"
 		}
 	],
 	"related_by_overview":[
@@ -289,9 +289,19 @@
 			"slug":"the-orphanage"
 		},
 		{
+			"title":"The Mummy",
+			"gatsby_image_path":"..\/..\/images\/the-mummy-2017-06-06.jpg",
+			"slug":"the-mummy-2017-06-06"
+		},
+		{
 			"title":"The Invisible Guest",
 			"gatsby_image_path":"..\/..\/images\/the-invisible-guest.jpg",
 			"slug":"the-invisible-guest"
+		},
+		{
+			"title":"Polaroid",
+			"gatsby_image_path":"..\/..\/images\/polaroid-2019-01-10.jpg",
+			"slug":"polaroid-2019-01-10"
 		},
 		{
 			"title":"Pan's Labyrinth",
@@ -352,16 +362,6 @@
 			"title":"The Thing",
 			"gatsby_image_path":"..\/..\/images\/the-thing.jpg",
 			"slug":"the-thing"
-		},
-		{
-			"title":"The Ritual",
-			"gatsby_image_path":"..\/..\/images\/the-ritual.jpg",
-			"slug":"the-ritual"
-		},
-		{
-			"title":"The Purge",
-			"gatsby_image_path":"..\/..\/images\/the-purge.jpg",
-			"slug":"the-purge"
 		}
 	],
 	"related_by_poster":[

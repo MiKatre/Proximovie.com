@@ -130,7 +130,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -314,6 +314,11 @@
 			"slug":"the-jungle-book"
 		},
 		{
+			"title":"Robin Hood",
+			"gatsby_image_path":"..\/..\/images\/robin-hood-1973-11-08.jpg",
+			"slug":"robin-hood-1973-11-08"
+		},
+		{
 			"title":"The Fox and the Hound",
 			"gatsby_image_path":"..\/..\/images\/the-fox-and-the-hound.jpg",
 			"slug":"the-fox-and-the-hound"
@@ -357,11 +362,6 @@
 			"title":"Hercules",
 			"gatsby_image_path":"..\/..\/images\/hercules.jpg",
 			"slug":"hercules"
-		},
-		{
-			"title":"Beauty and the Beast",
-			"gatsby_image_path":"..\/..\/images\/beauty-and-the-beast.jpg",
-			"slug":"beauty-and-the-beast"
 		}
 	],
 	"related_by_poster":[

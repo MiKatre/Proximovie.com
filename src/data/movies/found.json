@@ -79,7 +79,7 @@
 			"slug":"yu-gi-oh-the-dark-side-of-dimensions"
 		},
 		{
-			"title":"Your Name.",
+			"title":"Your Name",
 			"gatsby_image_path":"..\/..\/images\/your-name.jpg",
 			"slug":"your-name"
 		},
@@ -278,6 +278,11 @@
 			"slug":"venom-let-there-be-carnage"
 		},
 		{
+			"title":"Venom",
+			"gatsby_image_path":"..\/..\/images\/venom-2018-09-28.jpg",
+			"slug":"venom-2018-09-28"
+		},
+		{
 			"title":"Valerian and the City of a Thousand Planets",
 			"gatsby_image_path":"..\/..\/images\/valerian-and-the-city-of-a-thousand-planets.jpg",
 			"slug":"valerian-and-the-city-of-a-thousand-planets"
@@ -296,6 +301,11 @@
 			"title":"The Walking Dead: The Journey So Far",
 			"gatsby_image_path":"..\/..\/images\/the-walking-dead-the-journey-so-far.jpg",
 			"slug":"the-walking-dead-the-journey-so-far"
+		},
+		{
+			"title":"The Mummy",
+			"gatsby_image_path":"..\/..\/images\/the-mummy-2017-06-06.jpg",
+			"slug":"the-mummy-2017-06-06"
 		},
 		{
 			"title":"The Meg",
@@ -336,16 +346,6 @@
 			"title":"TEKKEN",
 			"gatsby_image_path":"..\/..\/images\/tekken.jpg",
 			"slug":"tekken"
-		},
-		{
-			"title":"Stuntman",
-			"gatsby_image_path":"..\/..\/images\/stuntman.jpg",
-			"slug":"stuntman"
-		},
-		{
-			"title":"Sisters on Track",
-			"gatsby_image_path":"..\/..\/images\/sisters-on-track.jpg",
-			"slug":"sisters-on-track"
 		}
 	],
 	"related_by_poster":[
