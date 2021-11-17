@@ -44,6 +44,14 @@ module.exports = {
         path: `./src/data/movies`,
       },
     },
+    {
+      resolve: `gatsby-plugin-hotjar`,
+      options: {
+        includeInDevelopment: false,
+        id: 2705581,
+        sv: 6,
+      },
+    },
     // {
     //   resolve : `gatsby-plugin-sumo`,
     //   options : {
