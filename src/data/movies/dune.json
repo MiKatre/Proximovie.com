@@ -1,484 +1,78 @@
 {
 	"title":"Dune",
 	"status":"Released",
-	"runtime":137,
-	"revenue":30925690,
-	"release_date":"1984-12-14",
+	"runtime":155,
+	"revenue":352769291,
+	"release_date":"2021-09-15",
 	"production_countries":[
 		"United States of America"
 	],
 	"production_companies":[
-		"Dino De Laurentiis Company"
+		"Legendary Pictures"
 	],
-	"poster_path":"\/ckL8dcFg2UAvLGqtNReWdobn6yd.jpg",
-	"imdb_id":"tt0087182",
+	"poster_path":"\/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+	"imdb_id":"tt1160419",
 	"original_title":"Dune",
-	"overview":"In the year 10,191, the world is at war for control of the desert planet Arrakis—the only place where the space-travel substance Melange 'Spice' can be found. But when one leader gives up control, it's only so he can stage a coup with some unsavory characters.",
+	"overview":"Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
 	"original_language":"en",
 	"adult":false,
-	"budget":40000000,
+	"budget":165000000,
 	"genres":[
-		"Action",
 		"Science Fiction",
 		"Adventure"
 	],
 	"keywords":[
 		"prophecy",
-		"witch",
-		"monster",
-		"telepathy",
-		"atomic bomb",
-		"space marine",
+		"based on novel or book",
 		"emperor",
-		"mutation",
-		"insurgence",
-		"space travel",
-		"guild",
-		"duke",
-		"chosen one",
 		"dystopia",
-		"jihad",
+		"sand",
 		"spice",
+		"army",
+		"hallucinogen",
 		"epic",
-		"steampunk",
+		"baron",
+		"remake",
+		"revenge",
+		"space",
+		"betrayal",
+		"treason",
+		"water shortage",
+		"creature",
+		"desert",
+		"knife fight",
+		"destiny",
 		"giant worm",
 		"space opera",
+		"sand dune",
 		"messiah",
-		"denunciation"
+		"giant creature"
 	],
-	"tmdb_id":"841",
 	"slug":"dune",
+	"tmdb_id":"438631",
 	"gatsby_image_path":"..\/..\/images\/dune.jpg",
 	"cast":[
-		"Kyle MacLachlan",
-		"Francesca Annis",
-		"Patrick Stewart",
-		"Linda Hunt",
-		"José Ferrer",
-		"Leonardo Cimino",
-		"Freddie Jones",
-		"Brad Dourif",
-		"Richard Jordan",
-		"Virginia Madsen"
+		"Timothée Chalamet",
+		"Rebecca Ferguson",
+		"Oscar Isaac",
+		"Zendaya",
+		"Jason Momoa",
+		"Stellan Skarsgård",
+		"Stephen McKinley Henderson",
+		"Josh Brolin",
+		"Javier Bardem",
+		"Sharon Duncan-Brewster"
 	],
 	"crew":[
-		"Kevin Phipps",
-		"Bob Ringwood",
-		"George Brand",
-		"Jane Jenkins",
-		"Benjamín Fernández",
-		"David Lynch",
-		"David Lynch",
-		"Freddie Francis",
-		"Dino De Laurentiis",
-		"Carlo Rambaldi"
-	],
-	"related_by_cast":[
-		{
-			"title":"X-Men: Days of Future Past",
-			"gatsby_image_path":"..\/..\/images\/x-men-days-of-future-past.jpg",
-			"slug":"x-men-days-of-future-past"
-		},
-		{
-			"title":"The Legacy of Chucky",
-			"gatsby_image_path":"..\/..\/images\/the-legacy-of-chucky.jpg",
-			"slug":"the-legacy-of-chucky"
-		},
-		{
-			"title":"The Flintstones",
-			"gatsby_image_path":"..\/..\/images\/the-flintstones.jpg",
-			"slug":"the-flintstones"
-		},
-		{
-			"title":"The Emoji Movie",
-			"gatsby_image_path":"..\/..\/images\/the-emoji-movie.jpg",
-			"slug":"the-emoji-movie"
-		},
-		{
-			"title":"The Black Cauldron",
-			"gatsby_image_path":"..\/..\/images\/the-black-cauldron.jpg",
-			"slug":"the-black-cauldron"
-		},
-		{
-			"title":"Ted",
-			"gatsby_image_path":"..\/..\/images\/ted.jpg",
-			"slug":"ted"
-		},
-		{
-			"title":"Ted 2",
-			"gatsby_image_path":"..\/..\/images\/ted-2.jpg",
-			"slug":"ted-2"
-		},
-		{
-			"title":"Seed of Chucky",
-			"gatsby_image_path":"..\/..\/images\/seed-of-chucky.jpg",
-			"slug":"seed-of-chucky"
-		},
-		{
-			"title":"Red Riding Hood",
-			"gatsby_image_path":"..\/..\/images\/red-riding-hood.jpg",
-			"slug":"red-riding-hood"
-		},
-		{
-			"title":"Pocahontas",
-			"gatsby_image_path":"..\/..\/images\/pocahontas.jpg",
-			"slug":"pocahontas"
-		},
-		{
-			"title":"Pocahontas II: Journey to a New World",
-			"gatsby_image_path":"..\/..\/images\/pocahontas-ii-journey-to-a-new-world.jpg",
-			"slug":"pocahontas-ii-journey-to-a-new-world"
-		},
-		{
-			"title":"Logan",
-			"gatsby_image_path":"..\/..\/images\/logan.jpg",
-			"slug":"logan"
-		},
-		{
-			"title":"Justice League: The New Frontier",
-			"gatsby_image_path":"..\/..\/images\/justice-league-the-new-frontier.jpg",
-			"slug":"justice-league-the-new-frontier"
-		},
-		{
-			"title":"Introducing Chucky: The Making of Child's Play",
-			"gatsby_image_path":"..\/..\/images\/introducing-chucky-the-making-of-child-s-play.jpg",
-			"slug":"introducing-chucky-the-making-of-child-s-play"
-		},
-		{
-			"title":"Inside Out",
-			"gatsby_image_path":"..\/..\/images\/inside-out.jpg",
-			"slug":"inside-out"
-		},
-		{
-			"title":"Halloween",
-			"gatsby_image_path":"..\/..\/images\/halloween.jpg",
-			"slug":"halloween"
-		},
-		{
-			"title":"Halloween II",
-			"gatsby_image_path":"..\/..\/images\/halloween-ii.jpg",
-			"slug":"halloween-ii"
-		},
-		{
-			"title":"Dragonheart: Battle for the Heartfire",
-			"gatsby_image_path":"..\/..\/images\/dragonheart-battle-for-the-heartfire.jpg",
-			"slug":"dragonheart-battle-for-the-heartfire"
-		},
-		{
-			"title":"Curse of Chucky",
-			"gatsby_image_path":"..\/..\/images\/curse-of-chucky.jpg",
-			"slug":"curse-of-chucky"
-		},
-		{
-			"title":"Cult of Chucky",
-			"gatsby_image_path":"..\/..\/images\/cult-of-chucky.jpg",
-			"slug":"cult-of-chucky"
-		}
-	],
-	"related_by_overview":[
-		{
-			"title":"Elysium",
-			"gatsby_image_path":"..\/..\/images\/elysium.jpg",
-			"slug":"elysium"
-		},
-		{
-			"title":"District 9",
-			"gatsby_image_path":"..\/..\/images\/district-9.jpg",
-			"slug":"district-9"
-		},
-		{
-			"title":"Cosmic Sin",
-			"gatsby_image_path":"..\/..\/images\/cosmic-sin.jpg",
-			"slug":"cosmic-sin"
-		},
-		{
-			"title":"Avatar 2",
-			"gatsby_image_path":"..\/..\/images\/avatar-2.jpg",
-			"slug":"avatar-2"
-		},
-		{
-			"title":"John Carter",
-			"gatsby_image_path":"..\/..\/images\/john-carter.jpg",
-			"slug":"john-carter"
-		},
-		{
-			"title":"Warcraft",
-			"gatsby_image_path":"..\/..\/images\/warcraft.jpg",
-			"slug":"warcraft"
-		},
-		{
-			"title":"Valerian and the City of a Thousand Planets",
-			"gatsby_image_path":"..\/..\/images\/valerian-and-the-city-of-a-thousand-planets.jpg",
-			"slug":"valerian-and-the-city-of-a-thousand-planets"
-		},
-		{
-			"title":"Viking Quest",
-			"gatsby_image_path":"..\/..\/images\/viking-quest.jpg",
-			"slug":"viking-quest"
-		},
-		{
-			"title":"In Time",
-			"gatsby_image_path":"..\/..\/images\/in-time.jpg",
-			"slug":"in-time"
-		},
-		{
-			"title":"The Hunger Games: Catching Fire",
-			"gatsby_image_path":"..\/..\/images\/the-hunger-games-catching-fire.jpg",
-			"slug":"the-hunger-games-catching-fire"
-		},
-		{
-			"title":"Paul",
-			"gatsby_image_path":"..\/..\/images\/paul.jpg",
-			"slug":"paul"
-		},
-		{
-			"title":"Beyond White Space",
-			"gatsby_image_path":"..\/..\/images\/beyond-white-space.jpg",
-			"slug":"beyond-white-space"
-		},
-		{
-			"title":"Saga of Tanya the Evil: The Movie",
-			"gatsby_image_path":"..\/..\/images\/saga-of-tanya-the-evil-the-movie.jpg",
-			"slug":"saga-of-tanya-the-evil-the-movie"
-		},
-		{
-			"title":"Rise of the Planet of the Apes",
-			"gatsby_image_path":"..\/..\/images\/rise-of-the-planet-of-the-apes.jpg",
-			"slug":"rise-of-the-planet-of-the-apes"
-		},
-		{
-			"title":"Edge of Tomorrow",
-			"gatsby_image_path":"..\/..\/images\/edge-of-tomorrow.jpg",
-			"slug":"edge-of-tomorrow"
-		},
-		{
-			"title":"Fantastic Beasts: The Crimes of Grindelwald",
-			"gatsby_image_path":"..\/..\/images\/fantastic-beasts-the-crimes-of-grindelwald.jpg",
-			"slug":"fantastic-beasts-the-crimes-of-grindelwald"
-		},
-		{
-			"title":"No Game No Life: Zero",
-			"gatsby_image_path":"..\/..\/images\/no-game-no-life-zero.jpg",
-			"slug":"no-game-no-life-zero"
-		},
-		{
-			"title":"The Last Samurai",
-			"gatsby_image_path":"..\/..\/images\/the-last-samurai.jpg",
-			"slug":"the-last-samurai"
-		},
-		{
-			"title":"The Expendables 2",
-			"gatsby_image_path":"..\/..\/images\/the-expendables-2.jpg",
-			"slug":"the-expendables-2"
-		},
-		{
-			"title":"Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion",
-			"gatsby_image_path":"..\/..\/images\/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-arrow-of-the-orion.jpg",
-			"slug":"is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-arrow-of-the-orion"
-		}
-	],
-	"related_most_similar":[
-		{
-			"title":"X-Men: Days of Future Past",
-			"gatsby_image_path":"..\/..\/images\/x-men-days-of-future-past.jpg",
-			"slug":"x-men-days-of-future-past"
-		},
-		{
-			"title":"Justice League: The New Frontier",
-			"gatsby_image_path":"..\/..\/images\/justice-league-the-new-frontier.jpg",
-			"slug":"justice-league-the-new-frontier"
-		},
-		{
-			"title":"Zack Snyder's Justice League",
-			"gatsby_image_path":"..\/..\/images\/zack-snyder-s-justice-league.jpg",
-			"slug":"zack-snyder-s-justice-league"
-		},
-		{
-			"title":"X-Men: Apocalypse",
-			"gatsby_image_path":"..\/..\/images\/x-men-apocalypse.jpg",
-			"slug":"x-men-apocalypse"
-		},
-		{
-			"title":"Valerian and the City of a Thousand Planets",
-			"gatsby_image_path":"..\/..\/images\/valerian-and-the-city-of-a-thousand-planets.jpg",
-			"slug":"valerian-and-the-city-of-a-thousand-planets"
-		},
-		{
-			"title":"Universal Soldier: Regeneration",
-			"gatsby_image_path":"..\/..\/images\/universal-soldier-regeneration.jpg",
-			"slug":"universal-soldier-regeneration"
-		},
-		{
-			"title":"Turbo: A Power Rangers Movie",
-			"gatsby_image_path":"..\/..\/images\/turbo-a-power-rangers-movie.jpg",
-			"slug":"turbo-a-power-rangers-movie"
-		},
-		{
-			"title":"Troy",
-			"gatsby_image_path":"..\/..\/images\/troy.jpg",
-			"slug":"troy"
-		},
-		{
-			"title":"TRON: Legacy",
-			"gatsby_image_path":"..\/..\/images\/tron-legacy.jpg",
-			"slug":"tron-legacy"
-		},
-		{
-			"title":"Trollhunters: Rise of the Titans",
-			"gatsby_image_path":"..\/..\/images\/trollhunters-rise-of-the-titans.jpg",
-			"slug":"trollhunters-rise-of-the-titans"
-		},
-		{
-			"title":"Tremors: A Cold Day in Hell",
-			"gatsby_image_path":"..\/..\/images\/tremors-a-cold-day-in-hell.jpg",
-			"slug":"tremors-a-cold-day-in-hell"
-		},
-		{
-			"title":"Tremors 5: Bloodlines",
-			"gatsby_image_path":"..\/..\/images\/tremors-5-bloodlines.jpg",
-			"slug":"tremors-5-bloodlines"
-		},
-		{
-			"title":"Transformers: The Last Knight",
-			"gatsby_image_path":"..\/..\/images\/transformers-the-last-knight.jpg",
-			"slug":"transformers-the-last-knight"
-		},
-		{
-			"title":"Transformers: Rise of the Beasts",
-			"gatsby_image_path":"..\/..\/images\/transformers-rise-of-the-beasts.jpg",
-			"slug":"transformers-rise-of-the-beasts"
-		},
-		{
-			"title":"Transformers: Revenge of the Fallen",
-			"gatsby_image_path":"..\/..\/images\/transformers-revenge-of-the-fallen.jpg",
-			"slug":"transformers-revenge-of-the-fallen"
-		},
-		{
-			"title":"Transformers: Age of Extinction",
-			"gatsby_image_path":"..\/..\/images\/transformers-age-of-extinction.jpg",
-			"slug":"transformers-age-of-extinction"
-		},
-		{
-			"title":"Total Recall",
-			"gatsby_image_path":"..\/..\/images\/total-recall.jpg",
-			"slug":"total-recall"
-		},
-		{
-			"title":"Thor: Ragnarok",
-			"gatsby_image_path":"..\/..\/images\/thor-ragnarok.jpg",
-			"slug":"thor-ragnarok"
-		},
-		{
-			"title":"The Suicide Squad",
-			"gatsby_image_path":"..\/..\/images\/the-suicide-squad.jpg",
-			"slug":"the-suicide-squad"
-		},
-		{
-			"title":"The Predator",
-			"gatsby_image_path":"..\/..\/images\/the-predator.jpg",
-			"slug":"the-predator"
-		}
-	],
-	"related_by_poster":[
-		{
-			"title":"Maggie Simpson in The Force Awakens from Its Nap",
-			"gatsby_image_path":"..\/..\/images\/maggie-simpson-in-the-force-awakens-from-its-nap.jpg",
-			"slug":"maggie-simpson-in-the-force-awakens-from-its-nap"
-		},
-		{
-			"title":"The Perfect Date",
-			"gatsby_image_path":"..\/..\/images\/the-perfect-date.jpg",
-			"slug":"the-perfect-date"
-		},
-		{
-			"title":"The Virtuoso",
-			"gatsby_image_path":"..\/..\/images\/the-virtuoso.jpg",
-			"slug":"the-virtuoso"
-		},
-		{
-			"title":"It Follows",
-			"gatsby_image_path":"..\/..\/images\/it-follows.jpg",
-			"slug":"it-follows"
-		},
-		{
-			"title":"Dial 100",
-			"gatsby_image_path":"..\/..\/images\/dial-100.jpg",
-			"slug":"dial-100"
-		},
-		{
-			"title":"Spies in Disguise",
-			"gatsby_image_path":"..\/..\/images\/spies-in-disguise.jpg",
-			"slug":"spies-in-disguise"
-		},
-		{
-			"title":"Black Fox",
-			"gatsby_image_path":"..\/..\/images\/black-fox.jpg",
-			"slug":"black-fox"
-		},
-		{
-			"title":"Death Note",
-			"gatsby_image_path":"..\/..\/images\/death-note.jpg",
-			"slug":"death-note"
-		},
-		{
-			"title":"100% Wolf",
-			"gatsby_image_path":"..\/..\/images\/100-%-wolf.jpg",
-			"slug":"100-%-wolf"
-		},
-		{
-			"title":"Stray",
-			"gatsby_image_path":"..\/..\/images\/stray.jpg",
-			"slug":"stray"
-		},
-		{
-			"title":"Breach",
-			"gatsby_image_path":"..\/..\/images\/breach.jpg",
-			"slug":"breach"
-		},
-		{
-			"title":"Spider-Man: No Way Home",
-			"gatsby_image_path":"..\/..\/images\/spider-man-no-way-home.jpg",
-			"slug":"spider-man-no-way-home"
-		},
-		{
-			"title":"They Live Inside Us",
-			"gatsby_image_path":"..\/..\/images\/they-live-inside-us.jpg",
-			"slug":"they-live-inside-us"
-		},
-		{
-			"title":"Bring Your Own Brigade",
-			"gatsby_image_path":"..\/..\/images\/bring-your-own-brigade.jpg",
-			"slug":"bring-your-own-brigade"
-		},
-		{
-			"title":"Beauty and the Beast",
-			"gatsby_image_path":"..\/..\/images\/beauty-and-the-beast.jpg",
-			"slug":"beauty-and-the-beast"
-		},
-		{
-			"title":"Tom Clancy's Without Remorse",
-			"gatsby_image_path":"..\/..\/images\/tom-clancy-s-without-remorse.jpg",
-			"slug":"tom-clancy-s-without-remorse"
-		},
-		{
-			"title":"The Mortuary Collection",
-			"gatsby_image_path":"..\/..\/images\/the-mortuary-collection.jpg",
-			"slug":"the-mortuary-collection"
-		},
-		{
-			"title":"Peçanha Contra o Animal",
-			"gatsby_image_path":"..\/..\/images\/peçanha-contra-o-animal.jpg",
-			"slug":"peçanha-contra-o-animal"
-		},
-		{
-			"title":"Born to Race: Fast Track",
-			"gatsby_image_path":"..\/..\/images\/born-to-race-fast-track.jpg",
-			"slug":"born-to-race-fast-track"
-		},
-		{
-			"title":"Sentinelle",
-			"gatsby_image_path":"..\/..\/images\/sentinelle.jpg",
-			"slug":"sentinelle"
-		}
+		"Eric Roth",
+		"Mark A. Mangini",
+		"Hans Zimmer",
+		"Hans Zimmer",
+		"Francine Maisler",
+		"Joseph M. Caracciolo Jr.",
+		"Kathy Driscoll",
+		"Richard Roberts",
+		"Peter Popken",
+		"Frank Herbert"
 	]
 }

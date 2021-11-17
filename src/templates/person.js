@@ -35,19 +35,33 @@ const Person = ({ pageContext, data }) => {
         <div>
             <h1 className=" bg-dark text-white fw-bolder text-center p-4">{personHeader}</h1>
 
-            <h2 className="fw-bolder text-center pt-5">Recent {person} Movies </h2>
-            <p className="text-center">Last released {person.toLowerCase()} movies </p>
-            <div>
-                <MovieList movies={recent} />
-                <MovieList movies={recentCrew} />
-            </div>
+           { recent.length &&
+            <>
+              <h2 className="fw-bolder text-center pt-5">Recent {person} Movies </h2>
+              <p className="text-center">Last released {person.toLowerCase()} movies </p>
+              <div>
+                  <MovieList movies={recent} width={150} minHeight={250}/>
+              </div>
+            </> || ""
+            }
 
-            <h2 className="fw-bolder text-center pt-5">Popular {person} Movies </h2>
-            <p className="text-center">The most popular {person.toLowerCase()} movies </p>
-            <div>
-                <MovieList movies={budget} />
-                <MovieList movies={budgetCrew} />
-            </div>
+
+            { budget.length &&
+            <>
+              <h2 className="fw-bolder text-center pt-5">Popular Movies with {person} </h2>
+              <p className="text-center">The most popular {person.toLowerCase()} movies </p>
+              <div>
+                  <MovieList movies={budget} />
+              </div>
+            </> || ""
+            } 
+            { budgetCrew.length &&
+              <div>
+                <h2 className="fw-bolder text-center pt-5">With {person} as a crew member </h2>
+                <p className="text-center">Producter, director, writer, etc. </p>
+                <MovieList movies={budgetCrew} width={150} minHeight={250}/>
+              </div>
+            } 
         </div>
       </Layout>
   )
@@ -59,7 +73,7 @@ export const pageQuery = graphql`
     recent: allMoviesJson(
         sort: { fields: release_date, order: DESC}
         filter: { cast: { in: [$person] } } 
-        limit: 20
+        limit: 5
     ) {
       totalCount
       edges {
@@ -71,7 +85,7 @@ export const pageQuery = graphql`
             gatsby_image_path {
                 childImageSharp {
                   gatsbyImageData(
-                    width: 300
+                    width: 150
                     placeholder: BLURRED
                   )
                 }

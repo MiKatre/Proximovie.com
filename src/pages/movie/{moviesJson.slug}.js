@@ -16,6 +16,10 @@ const MoviePage = ({data}) => {
   const production = movie.production_companies.map(i => (<span className="text-secondary"><Link className="text-decoration-none" to={`/company/${slugify(i)}`}>{i}</Link>, </span>))
   const actors = movie.cast.map(i => (<span className="text-secondary"><Link className="text-decoration-none" to={`/person/${slugify(i)}`}>{i}</Link>, </span>))
   const crew = movie.crew.map(i => (<span className="text-secondary"><Link className="text-decoration-none" to={`/person/${slugify(i)}`}>{i}</Link>, </span>))
+  
+  const keywords = movie.keywords.map(i => ( <div className="p-4 shadow-sm rounded-sm align-self-center m-1">
+    <Link className="text-decoration-none font-weight-bold text-secondary text-center m-auto" to={`/keyword/${slugify(i)}`}>{i}</Link>
+  </div>))
 
 
   const title = `Best movies like ${movie.title} (${movie.release_date})`
@@ -68,6 +72,15 @@ const MoviePage = ({data}) => {
 
 
         <Container fluid className="">
+          <div>
+            <div className="text-center m-auto fw-lighter">Explore similar themes</div>
+            <div className="d-flex justify-content-center flex-wrap">
+              {keywords.slice(0,6)}
+            </div>
+            <div className="d-flex justify-content-center flex-wrap">
+              {keywords.slice(6,12)}
+            </div>
+          </div>
           <Row>
             <h1 className="fw-bolder text-center pt-5">Similar movies</h1>
             <p className="text-center">Best movies like <em>{movie.title}</em></p>
@@ -75,6 +88,15 @@ const MoviePage = ({data}) => {
               <MovieList movies={movie.related_most_similar}/>
             </div>
           </Row>
+          <div>
+            <div className="text-center m-auto fw-lighter">Explore similar themes</div>
+            <div className="d-flex justify-content-center flex-wrap">
+              {keywords.slice(12,18)}
+            </div>
+            <div className="d-flex justify-content-center flex-wrap">
+              {keywords.slice(18,24)}
+            </div>
+          </div>
           <Row>
             <h1 className="fw-bolder text-center pt-5">Movies with similar <em className="text-secondary">posters</em> </h1>
             <p className="text-center">Best movies like <em>{movie.title}</em> with similar posters</p>
@@ -139,6 +161,7 @@ export const query = graphql`
           production_countries
           production_companies
           genres
+          keywords
           cast
           crew
           gatsby_image_path {

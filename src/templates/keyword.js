@@ -5,17 +5,15 @@ import MovieList from "../components/MovieList"
 import Layout from "../components/Layout"
 import Seo from "../components/Seo"
 
-const Genres = ({ pageContext, data }) => {
-  const { genre } = pageContext
+const Keywords = ({ pageContext, data }) => {
+  const { keyword } = pageContext
   const { totalCount } = data.recent
   const recent = data.recent.edges
   const budget = data.budget.edges
-  const genreHeader = `${genre} movie${
-    totalCount === 1 ? "" : "s"
-  }`
+  const keywordHeader = `Movies about: ${keyword}`
 
-  const title = `${genre} movies and similar`
-  const description = `Browse recent and popular ${genre} movies such as ${recent[0].node.title}, ${recent[1].node.title}, ${budget[0].node.title}, ${budget[1].node.title}.`
+  const title = `${keyword} movies and similar`
+  const description = `Browse recent and popular ${keyword} movies such as ${recent[0].node.title}.`
   return (
       <Layout>
         <Seo 
@@ -23,14 +21,16 @@ const Genres = ({ pageContext, data }) => {
             description={description}
         />
         <div>
-            <h1 className=" bg-dark text-white fw-bolder text-center p-4">{genreHeader}</h1>
-            <p className="text-center">Recent {genre.toLowerCase()} movies </p>
+            <h1 className=" bg-dark text-white fw-bolder text-center p-4">{keywordHeader}</h1>
+
+            {/* <h2 className="fw-bolder text-center pt-5">Recent {keyword} Movies </h2>
+            <p className="text-center">Last released {keyword.toLowerCase()} movies </p>
             <div>
-                <MovieList movies={recent} width={150} minHeight={250}/>
+                <MovieList movies={recent} />
             </div>
 
-            <h2 className="fw-bolder text-center pt-5">Popular {genre} Movies </h2>
-            <p className="text-center">The most popular {genre.toLowerCase()} movies </p>
+            <h2 className="fw-bolder text-center pt-5">Popular {keyword} Movies </h2>
+            <p className="text-center">The most popular {keyword.toLowerCase()} movies </p> */}
             <div>
                 <MovieList movies={budget} />
             </div>
@@ -39,13 +39,13 @@ const Genres = ({ pageContext, data }) => {
   )
 }
 
-export default Genres
+export default Keywords
 export const pageQuery = graphql`
-  query($genre: String) {
+  query($keyword: String) {
     recent: allMoviesJson(
         sort: { fields: release_date, order: DESC}
-        filter: { genres: { in: [$genre] } } 
-        limit: 5
+        filter: { keywords: { in: [$keyword] } } 
+        limit: 20
     ) {
       totalCount
       edges {
@@ -57,7 +57,7 @@ export const pageQuery = graphql`
             gatsby_image_path {
                 childImageSharp {
                   gatsbyImageData(
-                    width: 150
+                    width: 300
                     placeholder: BLURRED
                   )
                 }
@@ -68,7 +68,7 @@ export const pageQuery = graphql`
 
     budget: allMoviesJson(
         sort: { fields: budget, order: DESC}
-        filter: { genres: { in: [$genre] } } 
+        filter: { keywords: { in: [$keyword] } } 
         limit: 200
     ) {
       edges {

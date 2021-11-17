@@ -1,6 +1,8 @@
 .wrapper {
     max-width: 48%;
-    margin: 0.1rem;
+    margin: .2rem;
+    border-radius: .25rem!important;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
 }
 
 /* @media (min-width: 374px) { 
@@ -13,7 +15,7 @@
 @media (min-width: 576px) { 
     .wrapper {
         max-width: 30%;
-        margin: 0.4rem;
+        margin: 0.5rem;
     }
 }
 

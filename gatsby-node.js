@@ -15,6 +15,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   const personTemplate = path.resolve("src/templates/person.js")
   const countryTemplate = path.resolve("src/templates/country.js")
   const companyTemplate = path.resolve("src/templates/company.js")
+  const keywordTemplate = path.resolve("src/templates/keyword.js")
 
   const result = await graphql(`
     {
@@ -43,6 +44,11 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
           fieldValue
         }
       }
+      keywordsGroup: allMoviesJson(limit: 4000) {
+        group(field: keywords) {
+          fieldValue
+        }
+      }
     }
   `)
 
@@ -57,6 +63,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   const persons = [...result.data.castGroup.group,...result.data.crewGroup.group]
   const countries = result.data.countryGroup.group
   const companies = result.data.companyGroup.group
+  const keywords = result.data.keywordsGroup.group
 
   // Make genre pages
   genres.forEach(genre => {
@@ -65,6 +72,17 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       component: genreTemplate,
       context: {
         genre: genre.fieldValue,
+      },
+    })
+  })
+
+  // Make keword pages
+  keywords.forEach(keyword => {
+    createPage({
+      path: `/keyword/${slugify(keyword.fieldValue)}/`,
+      component: keywordTemplate,
+      context: {
+        keyword: keyword.fieldValue,
       },
     })
   })
