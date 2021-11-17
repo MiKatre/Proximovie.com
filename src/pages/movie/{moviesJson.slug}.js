@@ -1,4 +1,4 @@
-import * as React from 'react'
+import React, {useState} from 'react'
 import { graphql, Link } from 'gatsby' 
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import { Col, Container, Row, Tabs, Tab } from 'react-bootstrap'
@@ -9,6 +9,9 @@ import Seo from '../../components/Seo'
 import './movie.css'
 
 const MoviePage = ({data}) => {
+  
+  const [tab, setTab] = useState("posters")
+
   const movie = data.allMoviesJson.edges[0].node
   const image = getImage(movie.gatsby_image_path)
   const overview = movie.overview
@@ -33,15 +36,19 @@ const MoviePage = ({data}) => {
     <Link className="text-decoration-none font-weight-bold text-secondary text-center m-auto" to={`/person/${slugify(i)}`}>{i}</Link>
   </div>))
   const countryCards = movie.production_countries.map(i => ( <div className="p-4 shadow-sm rounded-sm align-self-center m-1">
-    <Link className="text-decoration-none font-weight-bold text-secondary text-center m-auto" to={`/person/${slugify(i)}`}>{i}</Link>
+    <Link className="text-decoration-none font-weight-bold text-secondary text-center m-auto" to={`/country/${slugify(i)}`}>{i}</Link>
   </div>))
   const productionCards = movie.production_companies.map(i => ( <div className="p-4 shadow-sm rounded-sm align-self-center m-1">
-    <Link className="text-decoration-none font-weight-bold text-secondary text-center m-auto" to={`/person/${slugify(i)}`}>{i}</Link>
+    <Link className="text-decoration-none font-weight-bold text-secondary text-center m-auto" to={`/company/${slugify(i)}`}>{i}</Link>
   </div>))
 
 
   const title = `Best movies like ${movie.title} (${movie.release_date})`
   const description = `Discover movies like ${movie.title} (${movie.release_date}): ${movie.related_by_cast[0].title}, ${movie.related_by_cast[1].title}, ${movie.related_by_cast[2].title}, ${movie.related_by_cast[3].title}`
+
+  if (movie.related_by_poster === null && tab !== "actors") {
+    setTab("actors")
+  }
 
   return (
     <Layout>
@@ -126,35 +133,42 @@ const MoviePage = ({data}) => {
             </div>
           </div>
           <Row>
-            <h1 className="fw-bolder text-center pt-5">Movies with similar <em className="text-secondary">posters</em> </h1>
-            <p className="text-center">Best movies like <em>{movie.title}</em> with similar posters</p>
+            <h1 className="fw-bolder text-center pt-5">Movies with similar <em className="text-secondary">{tab}</em> </h1>
+            <p className="text-center">Best movies like <em>{movie.title}</em> with similar {tab}</p>
             <p className="text-center"> 
             {/* <Button className="mx-1" variant="dark" size="sm">Posters</Button> */}
 
 
             <Tabs
-              defaultActiveKey="posters"
+              activeKey={tab} 
+              onSelect={(eventKey) => setTab(eventKey) }
               transition={false}
               id="noanim-tab-example"
               className="pills-dark"
               variant="pills"
             >
 
-              <Tab eventKey="posters" title="Posters" tabClassName="m-auto">
-                <div>
-                  <MovieList movies={movie.related_by_poster}/>
-                </div>
-              </Tab>
+              {movie.related_by_poster && 
+                <Tab eventKey="posters" title="Posters" tabClassName="m-auto">
+                  <div>
+                    <MovieList movies={movie.related_by_poster}/>
+                  </div>
+                </Tab>
+              }
+
               <Tab eventKey="actors" title="Actors">
                 <div>
                   <MovieList movies={movie.related_by_cast}/>
                 </div>
               </Tab>
-              <Tab eventKey="plot" title="Plot">
-                <div>
-                  <MovieList movies={movie.related_by_overview}/>
-                </div>
-              </Tab>
+
+              { movie.related_by_overview && 
+                <Tab eventKey="plot" title="Plot">
+                  <div>
+                    <MovieList movies={movie.related_by_overview}/>
+                  </div>
+                </Tab>
+              }
 
             </Tabs>
 
