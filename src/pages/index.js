@@ -10,7 +10,8 @@ import KeywordsSection from '../components/KeywordsSection'
 const IndexPage = ({data}) => {
 
   const recent = data.recent.edges
-  const budget = data.budget.edges
+  // const budget = data.budget.edges
+  const popular = data.popular.edges
 
   const keywords = data.keywords.group.sort((a,b) => a.totalCount < b.totalCount).slice(0,20)
   const genres = data.genres.group.sort((a,b) => a.totalCount < b.totalCount).slice(0,30)
@@ -27,7 +28,7 @@ const IndexPage = ({data}) => {
         </Row>
         <Row>
           <h1 id="popular_movies" className="fw-bolder text-center pt-1 pt-md-5 pb-3">Most popular movies</h1>
-          <MovieList movies={budget}/>
+          <MovieList movies={popular}/>
         </Row>
         <Row>
           <h5 id="popular_genres" className="fw-bolder text-center pt-1 pt-md-5 pb-3">Genres</h5>
@@ -68,7 +69,25 @@ export const query = graphql`
         }
       }
     }
-    budget: allMoviesJson(sort: {fields: budget, order: DESC}, limit: 30) {
+    budget: allMoviesJson(sort: {fields: budget, order: DESC}, limit: 1) {
+      edges {
+        node {
+          id
+          title
+          slug
+          release_date(formatString: "MMMM D, YYYY")
+          gatsby_image_path {
+            childImageSharp {
+              gatsbyImageData(
+                width: 300
+                placeholder: BLURRED
+              )
+            }
+          }
+        }
+      }
+    }
+    popular: allMoviesJson(sort: {fields: tmdb_popularity, order: DESC}, limit: 30) {
       edges {
         node {
           id
