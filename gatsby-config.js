@@ -94,8 +94,8 @@ module.exports = {
     //         indexed: true,
     //         resolver: 'title',
     //         attributes: {
-    //           encode: 'balance',
-    //           tokenize: 'strict',
+    //           encode: 'default',
+    //           tokenize: 'full',
     //           threshold: 6,
     //           depth: 3,
     //         },
@@ -142,7 +142,12 @@ module.exports = {
         // for advanced users.
         //
         // Note: Only the flexsearch engine supports options.
-        engineOptions: 'speed',
+        engineOptions: {
+          encode: "icase",
+          tokenize: "full",
+          threshold: 10,
+          depth: 1
+        },
 
         // GraphQL query used to fetch all data for the search index. This is
         // required.

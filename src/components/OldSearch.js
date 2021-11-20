@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import { Link } from 'gatsby'
 
 // Search component
-class Search extends Component {
+class OldSearch extends Component {
   state = {
     query: '',
     results: [],
@@ -53,7 +53,7 @@ class Search extends Component {
     } else {
       var results = []
       Object.keys(index).forEach(idx => {
-        results.push(...index[idx].values.search(query))
+        results.push(...index[idx].values.search(query, {suggest: true }))
       })
 
       results = Array.from(new Set(results))
@@ -77,4 +77,4 @@ class Search extends Component {
   }
 }
 
-export default Search
+export default OldSearch
