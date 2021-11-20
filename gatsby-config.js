@@ -83,48 +83,8 @@ module.exports = {
         },
       },
     },
-    // {
-    //   resolve: 'gatsby-plugin-flexsearch',
-    //   options: {
-    //     languages: ['en'],
-    //     type: 'MoviesJson',
-    //     fields: [
-    //       {
-    //         name: 'title',
-    //         indexed: true,
-    //         resolver: 'title',
-    //         attributes: {
-    //           encode: 'default',
-    //           tokenize: 'full',
-    //           threshold: 6,
-    //           depth: 3,
-    //         },
-    //         store: true,
-    //       },
-    //       {
-    //         name: 'overview',
-    //         indexed: true,
-    //         resolver: 'overview',
-    //         attributes: {
-    //           encode: 'balance',
-    //           tokenize: 'strict',
-    //           threshold: 6,
-    //           depth: 3,
-    //         },
-    //         store: false,
-    //       },
-    //       {
-    //         name: 'url',
-    //         indexed: false,
-    //         resolver: 'slug',
-    //         store: true,
-    //       },
-    //     ],
-    //   },
-    // },
 
-
-        // You can have multiple instances of this plugin to create indexes with
+    // You can have multiple instances of this plugin to create indexes with
     // different names or engines. For example, multi-lingual sites could create
     // an index for each language.
     {

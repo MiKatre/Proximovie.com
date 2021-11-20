@@ -5,14 +5,8 @@ import {  graphql, Link, StaticQuery } from "gatsby"
 import { Dropdown } from 'react-bootstrap'
 
 const SearchBar = ({data}) => {
-    // const index = data.localSearchMovies.index
-    // const store = data.localSearchMovies.store
-    // const [query, setQuery] = useState(null)
     const [index, setIndex] = useState(null)
     const [store, setStore] = useState(null)
-
-    // const entireIndex = data.localSearchMovies.index
-    // const entireStore = data.localSearchMovies.store
 
     const indexURL = data.localSearchMovies.publicIndexURL
     const storeURL = data.localSearchMovies.publicStoreURL
@@ -21,24 +15,13 @@ const SearchBar = ({data}) => {
       const response = await fetch(indexURL)
       const result = await response.text()
       setIndex(result)
-      // localStorage.setItem("localSearchMoviesIndex",result)
-      // console.log("fetched index "+result)
-      // console.log("entire index "+entireIndex)
     }
     async function fetchStore() {
       const response = await fetch(storeURL)
       const result = await response.json()
       setStore(result)
     }
-    // async function fetchStore() {
-    //   let result = await localStorage.getItem("localSearchMoviesStore")
-    //   if (result === null) {
-    //     const response = await fetch(storeURL)
-    //     result = await response.json()
-    //     localStorage.setItem("localSearchMoviesStore",result)
-    //   }
-    //   setStore(result)
-    // }
+
 
     useEffect(() => {
       fetchIndex();
@@ -79,8 +62,8 @@ const LoadedSearchBar = ({index, store}) => {
   let results = useFlexSearch({query: query, suggest: false, limit: 10}, index, store)
 
   return (
-    <div>
-        <Dropdown>
+    <div className="w-100">
+        <Dropdown className="">
         <input 
             size="sm" 
             className="form-control mr-sm-2" 
@@ -112,8 +95,6 @@ export default function Search(props) {
         query={graphql`
         query {
             localSearchMovies {
-              index
-              store
               publicIndexURL
               publicStoreURL
             }
