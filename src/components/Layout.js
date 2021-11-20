@@ -26,10 +26,10 @@ const Navi = () => {
             <Navbar.Toggle aria-controls="responsive-navbar-nav" />
             <Navbar.Collapse id="responsive-navbar-nav">
                 <Nav className="me-auto">
-                    <Nav.Link href="/keyword/">Movies</Nav.Link>
+                    {/* <Nav.Link href="/keyword/">Movies</Nav.Link>
                     <Nav.Link href="/keyword/">TV Shows</Nav.Link>
                     <Nav.Link href="/keyword/">Keywords</Nav.Link>
-                    <Nav.Link href="/keyword/">Genres</Nav.Link>
+                    <Nav.Link href="/keyword/">Genres</Nav.Link> */}
                 </Nav>
                 <Nav>
                     <Search/>
