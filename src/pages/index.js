@@ -6,6 +6,7 @@ import { Container, Row } from 'react-bootstrap'
 import Jumbotron from '../components/Jumbotron'
 import Seo from '../components/Seo'
 import KeywordsSection from '../components/KeywordsSection'
+import Search from '../components/Search'
 
 const IndexPage = ({data}) => {
 
