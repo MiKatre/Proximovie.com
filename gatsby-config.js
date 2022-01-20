@@ -45,6 +45,12 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `./src/data/shows`,
+      },
+    },
+    {
       resolve: `gatsby-plugin-hotjar`,
       options: {
         includeInDevelopment: false,

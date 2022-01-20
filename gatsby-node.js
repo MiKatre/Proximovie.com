@@ -47,6 +47,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       keywordsGroup: allMoviesJson(limit: 4000) {
         group(field: keywords) {
           fieldValue
+          totalCount
         }
       }
     }
@@ -76,6 +77,10 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     })
   })
 
+
+  // const postsPerPage = 6
+  // const numPages = Math.ceil(posts.length / postsPerPage)
+  
   // Make keword pages
   keywords.forEach(keyword => {
     createPage({
@@ -86,6 +91,8 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       },
     })
   })
+
+
 
   // Make person pages
   persons.forEach(person => {
