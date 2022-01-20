@@ -6,13 +6,13 @@ import Layout from '../../components/Layout'
 import MovieList from '../../components/MovieList'
 import { slugify } from '../../utils/main'
 import Seo from '../../components/Seo'
-import './movie.css'
+import './show.css'
 
-const MoviePage = ({data}) => {
+const ShowPage = ({data}) => {
   
   const [tab, setTab] = useState("posters")
 
-  const movie = data.allMoviesJson.edges[0].node
+  const movie = data.allShowsJson.edges[0].node
   const image = getImage(movie.gatsby_image_path)
   const overview = movie.overview
   const genres = movie.genres.map(i => (<span className="text-secondary">, <Link className="text-decoration-none" to={`/genre/${slugify(i)}`}>{i}</Link></span>))
@@ -43,8 +43,8 @@ const MoviePage = ({data}) => {
   </div>))
 
 
-  const title = `Best movies like ${movie.title} (${movie.release_date})`
-  const description = `Discover movies like ${movie.title} (${movie.release_date}): ${movie.related_by_cast[0].title}, ${movie.related_by_cast[1].title}, ${movie.related_by_cast[2].title}, ${movie.related_by_cast[3].title}`
+  const title = `Best TV Shows like ${movie.title} (${movie.first_air_date})`
+  const description = `Discover TV Shows like ${movie.title} (${movie.first_air_date}): ${movie.related_by_cast[0].title}, ${movie.related_by_cast[1].title}, ${movie.related_by_cast[2].title}, ${movie.related_by_cast[3].title}`
 
   if (movie.related_by_poster === null && tab !== "actors") {
     setTab("actors")
@@ -67,7 +67,7 @@ const MoviePage = ({data}) => {
               </Col>
               <Col xs={12} md={8} lg={6} className="bg-dark rounded-3 p-3 text-center text-md-start">
                 <h1 className="display-6 fw-bold mb-0">{movie.title}</h1>
-                <span className="text-secondary text-center text-md-start">{movie.release_date}</span> 
+                <span className="text-secondary text-center text-md-start">{movie.first_air_date}</span> 
                 {genres}
 
 
@@ -117,10 +117,10 @@ const MoviePage = ({data}) => {
           </div>
 
           <Row>
-            <h1 className="fw-bolder text-center pt-5">Similar movies</h1>
-            <p className="text-center">Best movies like <em>{movie.title}</em></p>
+            <h1 className="fw-bolder text-center pt-5">Similar TV Shows</h1>
+            <p className="text-center">Best TV Shows like <em>{movie.title}</em></p>
             <div>
-              <MovieList movies={movie.related_most_similar}/>
+              <MovieList movies={movie.related_most_similar} isTvShow={'first_air_date' in movie}/>
             </div>
           </Row>
           <div>
@@ -133,8 +133,8 @@ const MoviePage = ({data}) => {
             </div>
           </div>
           <Row>
-            <h1 className="fw-bolder text-center pt-5">Movies with similar <em className="text-secondary">{tab}</em> </h1>
-            <p className="text-center">Best movies like <em>{movie.title}</em> with similar {tab}</p>
+            <h1 className="fw-bolder text-center pt-5">TV Shows with similar <em className="text-secondary">{tab}</em> </h1>
+            <p className="text-center">Best TV Shows like <em>{movie.title}</em> with similar {tab}</p>
             <p className="text-center"> 
             {/* <Button className="mx-1" variant="dark" size="sm">Posters</Button> */}
 
@@ -151,21 +151,21 @@ const MoviePage = ({data}) => {
               {movie.related_by_poster && 
                 <Tab eventKey="posters" title="Posters" tabClassName="m-auto">
                   <div>
-                    <MovieList movies={movie.related_by_poster}/>
+                    <MovieList movies={movie.related_by_poster} isTvShow={'first_air_date' in movie}/>
                   </div>
                 </Tab>
               }
 
               <Tab eventKey="actors" title="Actors">
                 <div>
-                  <MovieList movies={movie.related_by_cast}/>
+                  <MovieList movies={movie.related_by_cast} isTvShow={'first_air_date' in movie}/>
                 </div>
               </Tab>
 
               { movie.related_by_overview && 
                 <Tab eventKey="plot" title="Plot">
                   <div>
-                    <MovieList movies={movie.related_by_overview}/>
+                    <MovieList movies={movie.related_by_overview} isTvShow={'first_air_date' in movie}/>
                   </div>
                 </Tab>
               }
@@ -220,15 +220,15 @@ const MoviePage = ({data}) => {
   )
 }
 
-export default MoviePage
+export default ShowPage
 
 export const query = graphql`
-  query MyQuery($id: String) {
-    allMoviesJson(filter: {id: {eq: $id}}) {
+  query ShowsQuery($id: String) {
+    allShowsJson(filter: {id: {eq: $id}}) {
       edges {
         node {
           title
-          release_date(formatString: "YYYY")
+          first_air_date(formatString: "YYYY")
           production_countries
           production_companies
           overview
@@ -268,32 +268,34 @@ export const query = graphql`
               }
             }
           }
-          related_by_poster {
-            title
-            slug
-            gatsby_image_path {
-              childImageSharp {
-                gatsbyImageData(
-                  width: 300
-                  placeholder: BLURRED
-                )
-              }
-            }
-          }
-          related_by_overview {
-            title
-            slug
-            gatsby_image_path {
-              childImageSharp {
-                gatsbyImageData(
-                  width: 300
-                  placeholder: BLURRED
-                )
-              }
-            }
-          }
+
         }
       }
     }
   }
 `
+
+// related_by_poster {
+//   title
+//   slug
+//   gatsby_image_path {
+//     childImageSharp {
+//       gatsbyImageData(
+//         width: 300
+//         placeholder: BLURRED
+//       )
+//     }
+//   }
+// }
+// related_by_overview {
+//   title
+//   slug
+//   gatsby_image_path {
+//     childImageSharp {
+//       gatsbyImageData(
+//         width: 300
+//         placeholder: BLURRED
+//       )
+//     }
+//   }
+// }

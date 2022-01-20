@@ -6,6 +6,7 @@ import { wrapper } from './movielist.module.css'
 const MovieList = props => {
     if (!props.movies || !props.movies.length) return ''
     const movies = props.movies
+    const prefix = props.isTvShow ? "show" : "movie" ;
     let minHeight = 225
     let width = 300
     if (props.width) {
@@ -19,7 +20,7 @@ const MovieList = props => {
         let image = getImage(m.gatsby_image_path)
         return (
             <div className={wrapper}>
-                <Link to={`/movie/${m.slug}`} className="text-decoration-none">
+                <Link to={`/${prefix}/${m.slug}`} className="text-decoration-none">
                     <div className="d-flex flex-column " style={{maxWidth: width}}>
                         <div style={{minHeight: minHeight}}>
                             <GatsbyImage className="rounded img-fluid" image={image} alt={m.title}/>
