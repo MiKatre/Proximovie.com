@@ -268,34 +268,33 @@ export const query = graphql`
               }
             }
           }
-
+          related_by_poster {
+            title
+            slug
+            gatsby_image_path {
+              childImageSharp {
+                gatsbyImageData(
+                  width: 300
+                  placeholder: BLURRED
+                )
+              }
+            }
+          }
+          related_by_overview {
+            title
+            slug
+            gatsby_image_path {
+              childImageSharp {
+                gatsbyImageData(
+                  width: 300
+                  placeholder: BLURRED
+                )
+              }
+            }
+          }
         }
       }
     }
   }
 `
 
-// related_by_poster {
-//   title
-//   slug
-//   gatsby_image_path {
-//     childImageSharp {
-//       gatsbyImageData(
-//         width: 300
-//         placeholder: BLURRED
-//       )
-//     }
-//   }
-// }
-// related_by_overview {
-//   title
-//   slug
-//   gatsby_image_path {
-//     childImageSharp {
-//       gatsbyImageData(
-//         width: 300
-//         placeholder: BLURRED
-//       )
-//     }
-//   }
-// }
