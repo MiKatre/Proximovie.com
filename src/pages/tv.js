@@ -31,7 +31,7 @@ const TVShowPage = ({data}) => {
       <Container fluid className="">
         <Row>
           <h5 id="popular_keywords" className="fw-bolder text-center pt-1 pt-md-2 pb-3 mt-3">Popular TV keywords</h5>
-          <KeywordsSection keywords={keywords} />
+          <KeywordsSection keywords={keywords} postfix="tv"/>
         </Row>
         <Row>
           <h1 id="popular_movies" className="fw-bolder text-center pt-1 pt-md-5 pb-3">Most popular TV Shows</h1>
@@ -39,16 +39,16 @@ const TVShowPage = ({data}) => {
         </Row>
         <Row>
           <h5 id="popular_genres" className="fw-bolder text-center pt-1 pt-md-5 pb-3">Genres</h5>
-          <KeywordsSection keywords={genres} prefix="genre"/>
+          <KeywordsSection keywords={genres} prefix="genre" postfix="tv"/>
         </Row>
-        <Row>
+        {/* <Row>
           <h1 id="recent_movies"  className="fw-bolder text-center pt-1 pt-md-5 pt-4 pb-3">Recent TV Shows</h1>
           <MovieList movies={recent} isTvShow={true} />
         </Row>
         <Row>
           <h5 id="popular_genres" className="fw-bolder text-center pt-1 pt-md-5 pb-3">Popular TV Actors</h5>
           <KeywordsSection keywords={cast} prefix="person"/>
-        </Row>
+        </Row> */}
       </Container>
     </Layout>
   )
@@ -100,7 +100,7 @@ export const query = graphql`
         totalCount
       }
     }
-    genres: allShowsJson(limit: 100) {
+    genres: allShowsJson(limit: 400) {
       group(field: genres) {
         fieldValue
         totalCount

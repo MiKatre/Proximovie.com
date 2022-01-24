@@ -2,12 +2,12 @@ import { Link } from "gatsby"
 import React from "react"
 import { slugify } from "../utils/main"
 
-const KeywordsSection = ({keywords, prefix="keyword"}) => {
+const KeywordsSection = ({keywords, prefix="keyword", postfix=""}) => {
     let keywordCards = []
 
     if (keywords && keywords.length) {
         keywordCards = keywords.map(kw => ( <div className="p-2 p-md-3 shadow-sm rounded-sm align-self-center m-1">
-        <Link className="text-decoration-none font-weight-bold text-secondary text-center m-auto" to={`/${prefix}/${slugify(kw.fieldValue)}`}>{kw.fieldValue} ({kw.totalCount})</Link>
+        <Link className="text-decoration-none font-weight-bold text-secondary text-center m-auto" to={`/${prefix}/${slugify(kw.fieldValue)}/${postfix}`}>{kw.fieldValue} ({kw.totalCount})</Link>
       </div>))
     }
     return (

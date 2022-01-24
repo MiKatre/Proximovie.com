@@ -112,13 +112,13 @@ export const query = graphql`
         totalCount
       }
     }
-    genres: allMoviesJson(limit: 100) {
+    genres: allMoviesJson(limit: 400) {
       group(field: genres) {
         fieldValue
         totalCount
       }
     }
-    cast: allMoviesJson(limit: 1000) {
+    cast: allMoviesJson(limit: 4000) {
       group(field: cast) {
         fieldValue
         totalCount

@@ -1,16 +1,17 @@
 import React from "react"
 
-import { graphql } from "gatsby"
+import { graphql, Link } from "gatsby"
 import MovieList from "../components/MovieList"
 import Layout from "../components/Layout"
 import Seo from "../components/Seo"
+import { Button } from "react-bootstrap"
 
 const Genres = ({ pageContext, data }) => {
   const { genre } = pageContext
   const { totalCount } = data.recent
   const recent = data.recent.edges
   const budget = data.budget.edges
-  const genreHeader = `${genre} movie${
+  const genreHeader = `${genre} Movie${
     totalCount === 1 ? "" : "s"
   }`
 
@@ -23,7 +24,14 @@ const Genres = ({ pageContext, data }) => {
             description={description}
         />
         <div>
-            <h1 className=" bg-dark text-white fw-bolder text-center p-4">{genreHeader}</h1>
+            <h1 className=" bg-dark text-white fw-bolder text-center p-4">
+              {genreHeader}
+              <br/>
+              <Button className="mx-1" variant="light" outline size="sm">Movies</Button> 
+              <Link to="tv">
+                <Button className="mx-1" variant="outline-light" size="sm">TV Shows</Button> 
+              </Link>
+            </h1>
             <p className="text-center">Recent {genre.toLowerCase()} movies </p>
             <div>
                 <MovieList movies={recent} width={150} minHeight={250}/>

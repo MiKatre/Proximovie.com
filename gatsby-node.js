@@ -12,14 +12,21 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions
 
   const genreTemplate = path.resolve("src/templates/genre.js")
+  const genreTVTemplate = path.resolve("src/templates/genreTV.js")
   const personTemplate = path.resolve("src/templates/person.js")
   const countryTemplate = path.resolve("src/templates/country.js")
   const companyTemplate = path.resolve("src/templates/company.js")
   const keywordTemplate = path.resolve("src/templates/keyword.js")
+  const keywordTVTemplate = path.resolve("src/templates/keywordTV.js")
 
   const result = await graphql(`
     {
       genresGroup: allMoviesJson(limit: 2000) {
+        group(field: genres) {
+          fieldValue
+        }
+      }
+      tvGenresGroup: allShowsJson(limit: 1000) {
         group(field: genres) {
           fieldValue
         }
@@ -60,7 +67,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   }
 
   // Extract tag data from query
-  const genres = result.data.genresGroup.group
+  const genres = [...result.data.genresGroup.group, ...result.data.tvGenresGroup.group]
   const persons = [...result.data.castGroup.group,...result.data.crewGroup.group]
   const countries = result.data.countryGroup.group
   const companies = result.data.companyGroup.group
@@ -71,6 +78,13 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     createPage({
       path: `/genre/${slugify(genre.fieldValue)}/`,
       component: genreTemplate,
+      context: {
+        genre: genre.fieldValue,
+      },
+    }),
+    createPage({
+      path: `/genre/${slugify(genre.fieldValue)}/tv`,
+      component: genreTVTemplate,
       context: {
         genre: genre.fieldValue,
       },
@@ -86,6 +100,13 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     createPage({
       path: `/keyword/${slugify(keyword.fieldValue)}/`,
       component: keywordTemplate,
+      context: {
+        keyword: keyword.fieldValue,
+      },
+    }),
+    createPage({
+      path: `/keyword/${slugify(keyword.fieldValue)}/tv`,
+      component: keywordTVTemplate,
       context: {
         keyword: keyword.fieldValue,
       },

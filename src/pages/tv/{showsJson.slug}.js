@@ -15,7 +15,7 @@ const ShowPage = ({data}) => {
   const movie = data.allShowsJson.edges[0].node
   const image = getImage(movie.gatsby_image_path)
   const overview = movie.overview
-  const genres = movie.genres.map(i => (<span className="text-secondary">, <Link className="text-decoration-none" to={`/genre/${slugify(i)}`}>{i}</Link></span>))
+  const genres = movie.genres.map(i => (<span className="text-secondary">, <Link className="text-decoration-none" to={`/genre/${slugify(i)}/tv`}>{i}</Link></span>))
   const countries = movie.production_countries.map(i => (<span className="text-secondary"><Link className="text-decoration-none" to={`/country/${slugify(i)}`}>{i}</Link>, </span>))
   const production = movie.production_companies.map(i => (<span className="text-secondary"><Link className="text-decoration-none" to={`/company/${slugify(i)}`}>{i}</Link>, </span>))
   const actors = movie.cast.map(i => (<span className="text-secondary"><Link className="text-decoration-none" to={`/person/${slugify(i)}`}>{i}</Link>, </span>))
@@ -24,7 +24,7 @@ const ShowPage = ({data}) => {
 
   if (movie.keywords && movie.keywords.length) {
     keywordCards = movie.keywords.map(i => ( <div className="p-2 p-md-3 shadow-sm rounded-sm align-self-center m-1">
-    <Link className="text-decoration-none font-weight-bold text-secondary text-center m-auto" to={`/keyword/${slugify(i)}`}>{i}</Link>
+    <Link className="text-decoration-none font-weight-bold text-secondary text-center m-auto" to={`/keyword/${slugify(i)}/tv`}>{i}</Link>
   </div>))
   }
 
