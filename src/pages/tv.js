@@ -18,29 +18,35 @@ const TVShowPage = ({data}) => {
   const genres = data.genres.group.sort((a,b) => a.totalCount < b.totalCount).slice(0,30)
   const cast = data.cast.group.sort((a,b) => a.totalCount < b.totalCount).slice(0,30)
 
+  const title = "Best and most recent TV Shows"
+  const description = "Browse popular and recent TV Shows. Also browse by Actors, genres or keywords."
+
   return (
     <Layout>
-      <Seo/>
-      <Jumbotron/>
+      <Seo
+        title={title}
+        description={description}
+      />
+      {/* <Jumbotron/> */}
       <Container fluid className="">
         <Row>
-          <h5 id="popular_keywords" className="fw-bolder text-center pt-1 pt-md-2 pb-3">Popular keywords</h5>
-          <KeywordsSection keywords={keywords}/>
+          <h5 id="popular_keywords" className="fw-bolder text-center pt-1 pt-md-2 pb-3 mt-3">Popular TV keywords</h5>
+          <KeywordsSection keywords={keywords} />
         </Row>
         <Row>
-          <h1 id="popular_movies" className="fw-bolder text-center pt-1 pt-md-5 pb-3">Most popular movies</h1>
-          <MovieList movies={popular}/>
+          <h1 id="popular_movies" className="fw-bolder text-center pt-1 pt-md-5 pb-3">Most popular TV Shows</h1>
+          <MovieList movies={popular} isTvShow={true} />
         </Row>
         <Row>
           <h5 id="popular_genres" className="fw-bolder text-center pt-1 pt-md-5 pb-3">Genres</h5>
           <KeywordsSection keywords={genres} prefix="genre"/>
         </Row>
         <Row>
-          <h1 id="recent_movies"  className="fw-bolder text-center pt-1 pt-md-5 pt-4 pb-3">Recent Movies</h1>
-          <MovieList movies={recent}/>
+          <h1 id="recent_movies"  className="fw-bolder text-center pt-1 pt-md-5 pt-4 pb-3">Recent TV Shows</h1>
+          <MovieList movies={recent} isTvShow={true} />
         </Row>
         <Row>
-          <h5 id="popular_genres" className="fw-bolder text-center pt-1 pt-md-5 pb-3">Popular Actors</h5>
+          <h5 id="popular_genres" className="fw-bolder text-center pt-1 pt-md-5 pb-3">Popular TV Actors</h5>
           <KeywordsSection keywords={cast} prefix="person"/>
         </Row>
       </Container>
@@ -52,13 +58,13 @@ export default TVShowPage
 
 export const query = graphql`
   query {
-    recent: allShowsJson(sort: {fields: release_date, order: DESC}, limit: 30) {
+    recent: allShowsJson(sort: {fields: first_air_date, order: DESC}, limit: 30) {
       edges {
         node {
           id
           title
           slug
-          release_date(formatString: "MMMM D, YYYY")
+          first_air_date(formatString: "MMMM D, YYYY")
           gatsby_image_path {
             childImageSharp {
               gatsbyImageData(
@@ -70,31 +76,13 @@ export const query = graphql`
         }
       }
     }
-    budget: allShowsJson(sort: {fields: budget, order: DESC}, limit: 1) {
+    popular: allShowsJson(sort: {fields: popularity, order: DESC}, limit: 30) {
       edges {
         node {
           id
           title
           slug
-          release_date(formatString: "MMMM D, YYYY")
-          gatsby_image_path {
-            childImageSharp {
-              gatsbyImageData(
-                width: 300
-                placeholder: BLURRED
-              )
-            }
-          }
-        }
-      }
-    }
-    popular: allShowsJson(sort: {fields: tmdb_popularity, order: DESC}, limit: 30) {
-      edges {
-        node {
-          id
-          title
-          slug
-          release_date(formatString: "MMMM D, YYYY")
+          first_air_date(formatString: "MMMM D, YYYY")
           gatsby_image_path {
             childImageSharp {
               gatsbyImageData(

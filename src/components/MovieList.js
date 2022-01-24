@@ -6,7 +6,7 @@ import { wrapper } from './movielist.module.css'
 const MovieList = props => {
     if (!props.movies || !props.movies.length) return ''
     const movies = props.movies
-    const prefix = props.isTvShow ? "show" : "movie" ;
+    const prefix = props.isTvShow ? "tv" : "movie" ;
     let minHeight = 225
     let width = 300
     if (props.width) {
