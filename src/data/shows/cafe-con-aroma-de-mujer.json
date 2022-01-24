@@ -1,46 +1,252 @@
 {
-	"status":"Returning Series",
-	"episode_run_time":45,
-	"first_air_date":"2021-05-25",
+	"status":"Ended",
+	"episode_run_time":0,
+	"first_air_date":"1994-12-30",
 	"production_countries":[
-		"United States of America"
+		"Colombia",
+		"United States of America",
+		"United Kingdom"
 	],
 	"production_companies":[
-		"Telemundo Global Studios"
+		"RCN"
 	],
-	"poster_path":"\/ztyJqTdS7RApGgl6ZXmFdGZX3g0.jpg",
-	"overview":"",
+	"poster_path":"\/tvcpeQNt28GQLtNljhuLwgRBRv8.jpg",
+	"overview":"Café con aroma de mujer is a 1994 Colombian telenovela, produced by then programming company RCN TV on state-owned Canal A. It was written and created by Fernando Gaitán. It was broadcast in several countries throughout Latin America, North America and Europe.",
 	"original_language":"es",
 	"adult":false,
 	"genres":[
-		"Soap"
+		"Drama"
 	],
 	"keywords":[
 		"Taglines",
 		"Plot Summary",
 		"Synopsis",
 		"Plot Keywords",
-		"Parents Guide"
+		"Parents Guide",
+		"telenovela"
 	],
-	"popularity":6.58736e2,
-	"imdb_id":"tt14471346",
+	"popularity":1.22482e2,
+	"imdb_id":"tt0216459",
 	"slug":"cafe-con-aroma-de-mujer",
 	"media_type":"TV Show",
-	"tmdb_id":"124124",
+	"tmdb_id":"16961",
 	"gatsby_image_path":"..\/..\/images\/cafe-con-aroma-de-mujer.jpg",
 	"cast":[
-		"Luis Eduardo Motoa",
-		"María Teresa Barreto",
-		"William Levy",
-		"Laura Londoño",
-		"Carmen Villalobos",
-		"Diego Cadavid",
-		"Juan David Agudelo",
-		"Katherine Vélez",
-		"Laura Archbold",
-		"Lincoln Palomeque"
+		"Silvia de Dios",
+		"Cristóbal Errazúriz",
+		"Alejandra Borrero",
+		"Margarita Rosa de Francisco",
+		"Guy Ecker",
+		"Danna García"
 	],
-	"crew":[],
-	"title":"Café con aroma de mujer",
-	"original_title":"Café con aroma de mujer"
+	"crew":[
+		"Fernando Gaitán",
+		"Pepe Sánchez"
+	],
+	"title":"Café con Aroma de Mujer",
+	"original_title":"Café con Aroma de Mujer",
+	"related_most_similar":[
+		{
+			"title":"The Lord of the Skies",
+			"gatsby_image_path":"..\/..\/images\/the-lord-of-the-skies.jpg",
+			"slug":"the-lord-of-the-skies"
+		},
+		{
+			"title":"La hija del Mariachi",
+			"gatsby_image_path":"..\/..\/images\/la-hija-del-mariachi.jpg",
+			"slug":"la-hija-del-mariachi"
+		},
+		{
+			"title":"The Queen of Flow",
+			"gatsby_image_path":"..\/..\/images\/the-queen-of-flow.jpg",
+			"slug":"the-queen-of-flow"
+		},
+		{
+			"title":"The Crown",
+			"gatsby_image_path":"..\/..\/images\/the-crown.jpg",
+			"slug":"the-crown"
+		},
+		{
+			"title":"The Cartel",
+			"gatsby_image_path":"..\/..\/images\/the-cartel.jpg",
+			"slug":"the-cartel"
+		},
+		{
+			"title":"Surviving Escobar - Alias JJ",
+			"gatsby_image_path":"..\/..\/images\/surviving-escobar-alias-jj.jpg",
+			"slug":"surviving-escobar-alias-jj"
+		},
+		{
+			"title":"Sin senos sí hay paraíso",
+			"gatsby_image_path":"..\/..\/images\/sin-senos-si-hay-paraiso.jpg",
+			"slug":"sin-senos-si-hay-paraiso"
+		},
+		{
+			"title":"Senora Acero",
+			"gatsby_image_path":"..\/..\/images\/senora-acero.jpg",
+			"slug":"senora-acero"
+		},
+		{
+			"title":"See",
+			"gatsby_image_path":"..\/..\/images\/see.jpg",
+			"slug":"see"
+		},
+		{
+			"title":"Raised by Wolves",
+			"gatsby_image_path":"..\/..\/images\/raised-by-wolves.jpg",
+			"slug":"raised-by-wolves"
+		},
+		{
+			"title":"Outlander",
+			"gatsby_image_path":"..\/..\/images\/outlander.jpg",
+			"slug":"outlander"
+		},
+		{
+			"title":"Malverde: The Patron Saint",
+			"gatsby_image_path":"..\/..\/images\/malverde-the-patron-saint.jpg",
+			"slug":"malverde-the-patron-saint"
+		},
+		{
+			"title":"Lady, la vendedora de rosas",
+			"gatsby_image_path":"..\/..\/images\/lady-la-vendedora-de-rosas.jpg",
+			"slug":"lady-la-vendedora-de-rosas"
+		},
+		{
+			"title":"His Dark Materials",
+			"gatsby_image_path":"..\/..\/images\/his-dark-materials.jpg",
+			"slug":"his-dark-materials"
+		},
+		{
+			"title":"Game of Thrones",
+			"gatsby_image_path":"..\/..\/images\/game-of-thrones.jpg",
+			"slug":"game-of-thrones"
+		},
+		{
+			"title":"Fate: The Winx Saga",
+			"gatsby_image_path":"..\/..\/images\/fate-the-winx-saga.jpg",
+			"slug":"fate-the-winx-saga"
+		},
+		{
+			"title":"El Chema",
+			"gatsby_image_path":"..\/..\/images\/el-chema.jpg",
+			"slug":"el-chema"
+		},
+		{
+			"title":"El Chapo",
+			"gatsby_image_path":"..\/..\/images\/el-chapo.jpg",
+			"slug":"el-chapo"
+		},
+		{
+			"title":"Daughter from Another Mother",
+			"gatsby_image_path":"..\/..\/images\/daughter-from-another-mother.jpg",
+			"slug":"daughter-from-another-mother"
+		},
+		{
+			"title":"Cumbia Ninja",
+			"gatsby_image_path":"..\/..\/images\/cumbia-ninja.jpg",
+			"slug":"cumbia-ninja"
+		}
+	],
+	"related_by_cast":[
+		{
+			"title":"The Lord of the Skies",
+			"gatsby_image_path":"..\/..\/images\/the-lord-of-the-skies.jpg",
+			"slug":"the-lord-of-the-skies"
+		},
+		{
+			"title":"La hija del Mariachi",
+			"gatsby_image_path":"..\/..\/images\/la-hija-del-mariachi.jpg",
+			"slug":"la-hija-del-mariachi"
+		},
+		{
+			"title":"Y: The Last Man",
+			"gatsby_image_path":"..\/..\/images\/y-the-last-man.jpg",
+			"slug":"y-the-last-man"
+		},
+		{
+			"title":"Young Sheldon",
+			"gatsby_image_path":"..\/..\/images\/young-sheldon.jpg",
+			"slug":"young-sheldon"
+		},
+		{
+			"title":"You",
+			"gatsby_image_path":"..\/..\/images\/you.jpg",
+			"slug":"you"
+		},
+		{
+			"title":"Yo soy Betty, la fea",
+			"gatsby_image_path":"..\/..\/images\/yo-soy-betty-la-fea.jpg",
+			"slug":"yo-soy-betty-la-fea"
+		},
+		{
+			"title":"Yellowstone",
+			"gatsby_image_path":"..\/..\/images\/yellowstone.jpg",
+			"slug":"yellowstone"
+		},
+		{
+			"title":"Yellowjackets",
+			"gatsby_image_path":"..\/..\/images\/yellowjackets.jpg",
+			"slug":"yellowjackets"
+		},
+		{
+			"title":"Yashahime: Princess Half-Demon",
+			"gatsby_image_path":"..\/..\/images\/yashahime-princess-half-demon.jpg",
+			"slug":"yashahime-princess-half-demon"
+		},
+		{
+			"title":"World's End Harem",
+			"gatsby_image_path":"..\/..\/images\/world-s-end-harem.jpg",
+			"slug":"world-s-end-harem"
+		},
+		{
+			"title":"Without Breasts There Is No Paradise",
+			"gatsby_image_path":"..\/..\/images\/without-breasts-there-is-no-paradise.jpg",
+			"slug":"without-breasts-there-is-no-paradise"
+		},
+		{
+			"title":"Who Killed Sara?",
+			"gatsby_image_path":"..\/..\/images\/who-killed-sara.jpg",
+			"slug":"who-killed-sara"
+		},
+		{
+			"title":"White Collar",
+			"gatsby_image_path":"..\/..\/images\/white-collar.jpg",
+			"slug":"white-collar"
+		},
+		{
+			"title":"Wheel of Fortune",
+			"gatsby_image_path":"..\/..\/images\/wheel-of-fortune.jpg",
+			"slug":"wheel-of-fortune"
+		},
+		{
+			"title":"What If...?",
+			"gatsby_image_path":"..\/..\/images\/what-if.jpg",
+			"slug":"what-if"
+		},
+		{
+			"title":"Westworld",
+			"gatsby_image_path":"..\/..\/images\/westworld.jpg",
+			"slug":"westworld"
+		},
+		{
+			"title":"Wer weiß denn sowas?",
+			"gatsby_image_path":"..\/..\/images\/wer-weiss-denn-sowas.jpg",
+			"slug":"wer-weiss-denn-sowas"
+		},
+		{
+			"title":"We Bare Bears",
+			"gatsby_image_path":"..\/..\/images\/we-bare-bears.jpg",
+			"slug":"we-bare-bears"
+		},
+		{
+			"title":"We Baby Bears",
+			"gatsby_image_path":"..\/..\/images\/we-baby-bears.jpg",
+			"slug":"we-baby-bears"
+		},
+		{
+			"title":"WandaVision",
+			"gatsby_image_path":"..\/..\/images\/wandavision.jpg",
+			"slug":"wandavision"
+		}
+	]
 }

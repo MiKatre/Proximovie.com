@@ -106,19 +106,19 @@ export const query = graphql`
         }
       }
     }
-    keywords: allMoviesJson(limit: 4000) {
+    keywords: allMoviesJson(limit: 1000) {
       group(field: keywords) {
         fieldValue
         totalCount
       }
     }
-    genres: allMoviesJson(limit: 4000) {
+    genres: allMoviesJson(limit: 100) {
       group(field: genres) {
         fieldValue
         totalCount
       }
     }
-    cast: allMoviesJson(limit: 4000) {
+    cast: allMoviesJson(limit: 1000) {
       group(field: cast) {
         fieldValue
         totalCount

@@ -89,7 +89,7 @@
 		"male writer",
 		"police procedural"
 	],
-	"popularity":3.24426e2,
+	"popularity":2.74196e2,
 	"imdb_id":"tt1219024",
 	"slug":"castle",
 	"media_type":"TV Show",
@@ -108,15 +108,219 @@
 	"crew":[
 		"Barry O'Brien",
 		"Mark S. Glick",
-		"Nathan Fillion",
-		"Stana Katic",
-		"Alexi Hawley",
 		"Terence Paul Winter",
+		"Stana Katic",
+		"Nathan Fillion",
+		"Alexi Hawley",
 		"Zach Cannon",
-		"Rob Hanning",
-		"Jim Adler",
-		"Christine Roum"
+		"Chad Gomez Creasey",
+		"Christine Roum",
+		"Jim Adler"
 	],
 	"title":"Castle",
-	"original_title":"Castle"
+	"original_title":"Castle",
+	"related_most_similar":[
+		{
+			"title":"The Rookie",
+			"gatsby_image_path":"..\/..\/images\/the-rookie.jpg",
+			"slug":"the-rookie"
+		},
+		{
+			"title":"Monk",
+			"gatsby_image_path":"..\/..\/images\/monk.jpg",
+			"slug":"monk"
+		},
+		{
+			"title":"Marvel's The Punisher",
+			"gatsby_image_path":"..\/..\/images\/marvel-s-the-punisher.jpg",
+			"slug":"marvel-s-the-punisher"
+		},
+		{
+			"title":"Marvel's Daredevil",
+			"gatsby_image_path":"..\/..\/images\/marvel-s-daredevil.jpg",
+			"slug":"marvel-s-daredevil"
+		},
+		{
+			"title":"You",
+			"gatsby_image_path":"..\/..\/images\/you.jpg",
+			"slug":"you"
+		},
+		{
+			"title":"True Story",
+			"gatsby_image_path":"..\/..\/images\/true-story.jpg",
+			"slug":"true-story"
+		},
+		{
+			"title":"This Is Us",
+			"gatsby_image_path":"..\/..\/images\/this-is-us.jpg",
+			"slug":"this-is-us"
+		},
+		{
+			"title":"The Mentalist",
+			"gatsby_image_path":"..\/..\/images\/the-mentalist.jpg",
+			"slug":"the-mentalist"
+		},
+		{
+			"title":"The Good Doctor",
+			"gatsby_image_path":"..\/..\/images\/the-good-doctor.jpg",
+			"slug":"the-good-doctor"
+		},
+		{
+			"title":"S.W.A.T.",
+			"gatsby_image_path":"..\/..\/images\/s.w.a.t..jpg",
+			"slug":"s.w.a.t."
+		},
+		{
+			"title":"Station 19",
+			"gatsby_image_path":"..\/..\/images\/station-19.jpg",
+			"slug":"station-19"
+		},
+		{
+			"title":"Sons of Anarchy",
+			"gatsby_image_path":"..\/..\/images\/sons-of-anarchy.jpg",
+			"slug":"sons-of-anarchy"
+		},
+		{
+			"title":"Scream: The TV Series",
+			"gatsby_image_path":"..\/..\/images\/scream-the-tv-series.jpg",
+			"slug":"scream-the-tv-series"
+		},
+		{
+			"title":"Scorpion",
+			"gatsby_image_path":"..\/..\/images\/scorpion.jpg",
+			"slug":"scorpion"
+		},
+		{
+			"title":"Riverdale",
+			"gatsby_image_path":"..\/..\/images\/riverdale.jpg",
+			"slug":"riverdale"
+		},
+		{
+			"title":"Power Book II: Ghost",
+			"gatsby_image_path":"..\/..\/images\/power-book-ii-ghost.jpg",
+			"slug":"power-book-ii-ghost"
+		},
+		{
+			"title":"Perry Mason",
+			"gatsby_image_path":"..\/..\/images\/perry-mason.jpg",
+			"slug":"perry-mason"
+		},
+		{
+			"title":"Ozark",
+			"gatsby_image_path":"..\/..\/images\/ozark.jpg",
+			"slug":"ozark"
+		},
+		{
+			"title":"Once Upon a Time",
+			"gatsby_image_path":"..\/..\/images\/once-upon-a-time.jpg",
+			"slug":"once-upon-a-time"
+		},
+		{
+			"title":"NCIS: Los Angeles",
+			"gatsby_image_path":"..\/..\/images\/ncis-los-angeles.jpg",
+			"slug":"ncis-los-angeles"
+		}
+	],
+	"related_by_cast":[
+		{
+			"title":"This Is Us",
+			"gatsby_image_path":"..\/..\/images\/this-is-us.jpg",
+			"slug":"this-is-us"
+		},
+		{
+			"title":"The Rookie",
+			"gatsby_image_path":"..\/..\/images\/the-rookie.jpg",
+			"slug":"the-rookie"
+		},
+		{
+			"title":"Arcane",
+			"gatsby_image_path":"..\/..\/images\/arcane.jpg",
+			"slug":"arcane"
+		},
+		{
+			"title":"Y: The Last Man",
+			"gatsby_image_path":"..\/..\/images\/y-the-last-man.jpg",
+			"slug":"y-the-last-man"
+		},
+		{
+			"title":"Young Sheldon",
+			"gatsby_image_path":"..\/..\/images\/young-sheldon.jpg",
+			"slug":"young-sheldon"
+		},
+		{
+			"title":"You",
+			"gatsby_image_path":"..\/..\/images\/you.jpg",
+			"slug":"you"
+		},
+		{
+			"title":"Yo soy Betty, la fea",
+			"gatsby_image_path":"..\/..\/images\/yo-soy-betty-la-fea.jpg",
+			"slug":"yo-soy-betty-la-fea"
+		},
+		{
+			"title":"Yellowstone",
+			"gatsby_image_path":"..\/..\/images\/yellowstone.jpg",
+			"slug":"yellowstone"
+		},
+		{
+			"title":"Yellowjackets",
+			"gatsby_image_path":"..\/..\/images\/yellowjackets.jpg",
+			"slug":"yellowjackets"
+		},
+		{
+			"title":"Yashahime: Princess Half-Demon",
+			"gatsby_image_path":"..\/..\/images\/yashahime-princess-half-demon.jpg",
+			"slug":"yashahime-princess-half-demon"
+		},
+		{
+			"title":"World's End Harem",
+			"gatsby_image_path":"..\/..\/images\/world-s-end-harem.jpg",
+			"slug":"world-s-end-harem"
+		},
+		{
+			"title":"Without Breasts There Is No Paradise",
+			"gatsby_image_path":"..\/..\/images\/without-breasts-there-is-no-paradise.jpg",
+			"slug":"without-breasts-there-is-no-paradise"
+		},
+		{
+			"title":"Who Killed Sara?",
+			"gatsby_image_path":"..\/..\/images\/who-killed-sara.jpg",
+			"slug":"who-killed-sara"
+		},
+		{
+			"title":"White Collar",
+			"gatsby_image_path":"..\/..\/images\/white-collar.jpg",
+			"slug":"white-collar"
+		},
+		{
+			"title":"Wheel of Fortune",
+			"gatsby_image_path":"..\/..\/images\/wheel-of-fortune.jpg",
+			"slug":"wheel-of-fortune"
+		},
+		{
+			"title":"What If...?",
+			"gatsby_image_path":"..\/..\/images\/what-if.jpg",
+			"slug":"what-if"
+		},
+		{
+			"title":"Westworld",
+			"gatsby_image_path":"..\/..\/images\/westworld.jpg",
+			"slug":"westworld"
+		},
+		{
+			"title":"Wer weiß denn sowas?",
+			"gatsby_image_path":"..\/..\/images\/wer-weiss-denn-sowas.jpg",
+			"slug":"wer-weiss-denn-sowas"
+		},
+		{
+			"title":"We Bare Bears",
+			"gatsby_image_path":"..\/..\/images\/we-bare-bears.jpg",
+			"slug":"we-bare-bears"
+		},
+		{
+			"title":"We Baby Bears",
+			"gatsby_image_path":"..\/..\/images\/we-baby-bears.jpg",
+			"slug":"we-baby-bears"
+		}
+	]
 }

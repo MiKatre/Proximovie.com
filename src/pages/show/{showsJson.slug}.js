@@ -91,11 +91,13 @@ const ShowPage = ({data}) => {
                     <span className="fw-bold text-secondary">Actors</span> <br/>
                     {actors.slice(0, 4)}
                   </p>
-
-                  <p>
-                    <span className="fw-bold text-secondary">Crew</span> <br/>
-                    {crew.slice(0, 4)}
-                  </p>
+                  { crew.length ?
+                    <p>
+                      <span className="fw-bold text-secondary">Crew</span> <br/>
+                      {crew.slice(0, 4)}
+                    </p>
+                    : <span></span>
+                  }
 
                 </div>
               </Col>
