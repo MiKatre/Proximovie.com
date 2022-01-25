@@ -94,7 +94,7 @@ export const pageQuery = graphql`
     budget: allMoviesJson(
         sort: { fields: budget, order: DESC}
         filter: { genres: { in: [$genre] } } 
-        limit: 200
+        limit: 100
     ) {
       edges {
         node {
