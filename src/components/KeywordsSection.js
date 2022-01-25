@@ -1,6 +1,7 @@
 import { Link } from "gatsby"
 import React from "react"
 import { slugify } from "../utils/main"
+import { ScrollingCarousel, Carousel } from '@trendyol-js/react-carousel'
 
 const KeywordsSection = ({keywords, prefix="keyword", postfix=""}) => {
     let keywordCards = []
@@ -12,7 +13,9 @@ const KeywordsSection = ({keywords, prefix="keyword", postfix=""}) => {
     }
     return (
         <div className="d-flex justify-content-center flex-wrap">
-            {keywordCards}
+            <ScrollingCarousel className="movie-carousel">
+                {keywordCards}
+            </ScrollingCarousel>
         </div>
     )
 }

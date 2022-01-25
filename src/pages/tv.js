@@ -35,17 +35,17 @@ const TVShowPage = ({data}) => {
         </Row>
         <Row>
           <h1 id="popular_movies" className="fw-bolder text-center pt-1 pt-md-5 pb-3">Most popular TV Shows</h1>
-          <MovieList movies={popular} isTvShow={true} />
+          <MovieList movies={popular} isTvShow={true} scroll width={250} />
         </Row>
         <Row>
           <h5 id="popular_genres" className="fw-bolder text-center pt-1 pt-md-5 pb-3">Genres</h5>
           <KeywordsSection keywords={genres} prefix="genre" postfix="tv"/>
         </Row>
-        {/* <Row>
-          <h1 id="recent_movies"  className="fw-bolder text-center pt-1 pt-md-5 pt-4 pb-3">Recent TV Shows</h1>
-          <MovieList movies={recent} isTvShow={true} />
-        </Row>
         <Row>
+          <h1 id="recent_movies"  className="fw-bolder text-center pt-1 pt-md-5 pt-4 pb-3">Recent TV Shows</h1>
+          <MovieList movies={recent} isTvShow={true} scroll width={250} />
+        </Row>
+        {/* <Row>
           <h5 id="popular_genres" className="fw-bolder text-center pt-1 pt-md-5 pb-3">Popular TV Actors</h5>
           <KeywordsSection keywords={cast} prefix="person"/>
         </Row> */}
@@ -68,8 +68,9 @@ export const query = graphql`
           gatsby_image_path {
             childImageSharp {
               gatsbyImageData(
+                height:450
                 width: 300
-                placeholder: BLURRED
+                placeholder: TRACED_SVG
               )
             }
           }
@@ -86,8 +87,9 @@ export const query = graphql`
           gatsby_image_path {
             childImageSharp {
               gatsbyImageData(
+                height:450
                 width: 300
-                placeholder: BLURRED
+                placeholder: TRACED_SVG
               )
             }
           }

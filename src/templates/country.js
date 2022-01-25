@@ -33,13 +33,13 @@ const Country = ({ pageContext, data }) => {
             <h2 className="fw-bolder text-center pt-5">Recent Movies made in {country}  </h2>
             <p className="text-center">Last released movies produced in {country.toLowerCase()} </p>
             <div>
-                <MovieList movies={recent} />
+                <MovieList movies={recent} scroll width={250} />
             </div>
 
             <h2 className="fw-bolder text-center pt-5">Popular Movies made in {country} </h2>
             <p className="text-center">The most popular movies produced in {country.toLowerCase()} </p>
             <div>
-                <MovieList movies={budget} />
+                <MovieList movies={budget} scroll width={250}/>
             </div>
         </div>
       </Layout>
@@ -64,8 +64,9 @@ export const pageQuery = graphql`
             gatsby_image_path {
                 childImageSharp {
                   gatsbyImageData(
+                    height:450
                     width: 300
-                    placeholder: BLURRED
+                    placeholder: TRACED_SVG
                   )
                 }
             }
@@ -87,8 +88,9 @@ export const pageQuery = graphql`
             gatsby_image_path {
                 childImageSharp {
                   gatsbyImageData(
+                    height:450
                     width: 300
-                    placeholder: BLURRED
+                    placeholder: TRACED_SVG
                   )
                 }
             }

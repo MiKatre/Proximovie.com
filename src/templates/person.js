@@ -40,7 +40,8 @@ const Person = ({ pageContext, data }) => {
               <h2 className="fw-bolder text-center pt-5">Recent {person} Movies </h2>
               <p className="text-center">Last released {person.toLowerCase()} movies </p>
               <div>
-                  <MovieList movies={recent} width={150} minHeight={250}/>
+                  <MovieList movies={recent} scroll width={250}/>
+                  {/* <MovieList movies={recent} width={150} minHeight={250}/> */}
               </div>
             </> || ""
             }
@@ -51,7 +52,7 @@ const Person = ({ pageContext, data }) => {
               <h2 className="fw-bolder text-center pt-5">Popular Movies with {person} </h2>
               <p className="text-center">The most popular {person.toLowerCase()} movies </p>
               <div>
-                  <MovieList movies={budget} />
+                  <MovieList movies={budget} scroll width={250}/>
               </div>
             </> || ""
             } 
@@ -59,7 +60,8 @@ const Person = ({ pageContext, data }) => {
               <div>
                 <h2 className="fw-bolder text-center pt-5">With {person} as a crew member </h2>
                 <p className="text-center">Producter, director, writer, etc. </p>
-                <MovieList movies={budgetCrew} width={150} minHeight={250}/>
+                {/* <MovieList movies={budgetCrew} width={150} minHeight={250}/> */}
+                <MovieList movies={budgetCrew} scroll width={250}/>
               </div>
             } 
         </div>
@@ -85,8 +87,9 @@ export const pageQuery = graphql`
             gatsby_image_path {
                 childImageSharp {
                   gatsbyImageData(
-                    width: 150
-                    placeholder: BLURRED
+                    height:450
+                    width: 300
+                    placeholder: TRACED_SVG
                   )
                 }
             }
@@ -108,8 +111,9 @@ export const pageQuery = graphql`
             gatsby_image_path {
                 childImageSharp {
                   gatsbyImageData(
+                    height:450
                     width: 300
-                    placeholder: BLURRED
+                    placeholder: TRACED_SVG
                   )
                 }
             }
@@ -132,8 +136,9 @@ export const pageQuery = graphql`
             gatsby_image_path {
                 childImageSharp {
                   gatsbyImageData(
+                    height:450
                     width: 300
-                    placeholder: BLURRED
+                    placeholder: TRACED_SVG
                   )
                 }
             }
@@ -156,8 +161,9 @@ export const pageQuery = graphql`
             gatsby_image_path {
                 childImageSharp {
                   gatsbyImageData(
+                    height:450
                     width: 300
-                    placeholder: BLURRED
+                    placeholder: TRACED_SVG
                   )
                 }
             }

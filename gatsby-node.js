@@ -31,7 +31,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
           fieldValue
         }
       }
-      castGroup: allMoviesJson(limit: 2000) {
+      castGroup: allMoviesJson(limit: 4000) {
         group(field: cast) {
           fieldValue
         }

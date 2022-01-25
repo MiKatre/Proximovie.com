@@ -62,13 +62,13 @@ const GenresTV = ({ pageContext, data }) => {
             </h1>
             <p className="text-center">Recent {genre.toLowerCase()} TV Shows </p>
             <div>
-                <MovieList movies={recent} width={150} minHeight={250} isTvShow={true}/>
+                <MovieList movies={recent} isTvShow={true} scroll width={250} />
             </div>
 
             <h2 className="fw-bolder text-center pt-5">Popular {genre} TV Shows </h2>
             <p className="text-center">The most popular {genre.toLowerCase()} TV Shows </p>
             <div>
-                <MovieList movies={popular} isTvShow={true} />
+                <MovieList movies={popular} isTvShow={true} scroll width={250} />
             </div>
         </div>
       </Layout>
@@ -94,8 +94,9 @@ export const GenresTVQuery = graphql`
             gatsby_image_path {
                 childImageSharp {
                   gatsbyImageData(
-                    width: 150
-                    placeholder: BLURRED
+                    height:450
+                    width: 300
+                    placeholder: TRACED_SVG
                   )
                 }
             }
@@ -117,8 +118,9 @@ export const GenresTVQuery = graphql`
             gatsby_image_path {
                 childImageSharp {
                   gatsbyImageData(
+                    height:450
                     width: 300
-                    placeholder: BLURRED
+                    placeholder: TRACED_SVG
                   )
                 }
             }

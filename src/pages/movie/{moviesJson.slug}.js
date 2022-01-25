@@ -120,7 +120,7 @@ const MoviePage = ({data}) => {
             <h1 className="fw-bolder text-center pt-5">Similar movies</h1>
             <p className="text-center">Best movies like <em>{movie.title}</em></p>
             <div>
-              <MovieList movies={movie.related_most_similar}/>
+              <MovieList movies={movie.related_most_similar} scroll width={250}/>
             </div>
           </Row>
           <div>
@@ -151,21 +151,21 @@ const MoviePage = ({data}) => {
               {movie.related_by_poster && 
                 <Tab eventKey="posters" title="Posters" tabClassName="m-auto">
                   <div>
-                    <MovieList movies={movie.related_by_poster}/>
+                    <MovieList movies={movie.related_by_poster} scroll width={250}/>
                   </div>
                 </Tab>
               }
 
               <Tab eventKey="actors" title="Actors">
                 <div>
-                  <MovieList movies={movie.related_by_cast}/>
+                  <MovieList movies={movie.related_by_cast} scroll width={250}/>
                 </div>
               </Tab>
 
               { movie.related_by_overview && 
                 <Tab eventKey="plot" title="Plot">
                   <div>
-                    <MovieList movies={movie.related_by_overview}/>
+                    <MovieList movies={movie.related_by_overview} scroll width={250}/>
                   </div>
                 </Tab>
               }
@@ -239,8 +239,8 @@ export const query = graphql`
           gatsby_image_path {
             childImageSharp {
               gatsbyImageData(
-                width: 300
-                placeholder: BLURRED
+                width: 350
+                placeholder: TRACED_SVG
               )
             }
           }
@@ -250,8 +250,9 @@ export const query = graphql`
             gatsby_image_path {
               childImageSharp {
                 gatsbyImageData(
+                  height:450
                   width: 300
-                  placeholder: BLURRED
+                  placeholder: TRACED_SVG
                 )
               }
             }
@@ -262,8 +263,9 @@ export const query = graphql`
             gatsby_image_path {
               childImageSharp {
                 gatsbyImageData(
+                  height:450
                   width: 300
-                  placeholder: BLURRED
+                  placeholder: TRACED_SVG
                 )
               }
             }
@@ -274,8 +276,9 @@ export const query = graphql`
             gatsby_image_path {
               childImageSharp {
                 gatsbyImageData(
+                  height:450
                   width: 300
-                  placeholder: BLURRED
+                  placeholder: TRACED_SVG
                 )
               }
             }
@@ -286,8 +289,9 @@ export const query = graphql`
             gatsby_image_path {
               childImageSharp {
                 gatsbyImageData(
+                  height:450
                   width: 300
-                  placeholder: BLURRED
+                  placeholder: TRACED_SVG
                 )
               }
             }

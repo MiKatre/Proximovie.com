@@ -1,3 +1,4 @@
+import { ScrollingCarousel } from "@trendyol-js/react-carousel"
 import { Link } from "gatsby"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
 import React from "react"
@@ -21,7 +22,7 @@ const MovieList = props => {
         return (
             <div className={wrapper}>
                 <Link to={`/${prefix}/${m.slug}`} className="text-decoration-none">
-                    <div className="d-flex flex-column " style={{maxWidth: width}}>
+                    <div className="d-flex flex-column" style={{maxWidth: width }}>
                         <div style={{minHeight: minHeight}}>
                             <GatsbyImage className="rounded img-fluid" image={image} alt={m.title}/>
                         </div>
@@ -32,6 +33,15 @@ const MovieList = props => {
                 </Link>
             </div>
         )})
+    if ("scroll" in props && props.scroll === true) {
+        return (
+            <div className="">
+                <ScrollingCarousel className="movie-carousel">
+                    {list}
+                </ScrollingCarousel>
+            </div>
+        )
+    }
     return (
         <div className="d-flex flex-wrap justify-content-center">
             {list}

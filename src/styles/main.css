@@ -1,0 +1,62 @@
+body {
+    background-color: #fafafa;
+}
+
+.movie-carousel>[data-arrow=right] {
+    background: linear-gradient(270deg,#fff 10%,hsla(0,0%,100%,0));
+    right: 0;
+}
+.movie-carousel>[data-arrow=left] {
+    background: linear-gradient(90deg,#fff 10%,hsla(0,0%,100%,0));
+    left: 0;
+}
+
+.movie-carousel>[data-arrow=right]>button  {
+    background: url(https://cdn.dsmcdn.com/web/production/slick-arrow.svg) 50% no-repeat;
+    border: none;
+    cursor: pointer;
+    height: 100%;
+    outline: 0;
+    position: absolute;
+    right: -1px;
+    -webkit-transform: scale(.5);
+    transform: scale(.5);
+}
+.movie-carousel>[data-arrow=left]>button {
+    background: url(https://cdn.dsmcdn.com/web/production/slick-arrow.svg) 50% no-repeat;
+    border: none;
+    cursor: pointer;
+    height: 100%;
+    outline: 0;
+    position: absolute;
+    left: -1px;
+    -webkit-transform: rotate(180deg) scale(.5);
+    transform: rotate(180deg) scale(.5);
+}
+
+
+.movie-carousel>[data-arrow=left], .movie-carousel>[data-arrow=right] {
+    bottom: 0;
+    height: 100%;
+    width: 44px;
+    margin-bottom: auto;
+    margin-top: auto;
+    position: absolute;
+    top: 0;
+    opacity: 1;
+    cursor: pointer;
+    z-index: 10;
+}
+
+
+@media (min-width: 576px) { 
+    .movie-carousel>[data-arrow=left], .movie-carousel>[data-arrow=right] {
+        width: 65px;
+    }
+}
+
+@media (min-width: 992px) { 
+    .movie-carousel>[data-arrow=left], .movie-carousel>[data-arrow=right] {
+        width: 88px;
+    }
+}

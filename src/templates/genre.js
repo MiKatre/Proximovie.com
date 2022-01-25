@@ -50,13 +50,13 @@ const Genres = ({ pageContext, data }) => {
             </h1>
             <p className="text-center">Recent {genre.toLowerCase()} movies </p>
             <div>
-                <MovieList movies={recent} width={150} minHeight={250}/>
+                <MovieList movies={recent} scroll width={250} />
             </div>
 
             <h2 className="fw-bolder text-center pt-5">Popular {genre} Movies </h2>
             <p className="text-center">The most popular {genre.toLowerCase()} movies </p>
             <div>
-                <MovieList movies={budget} />
+                <MovieList movies={budget} scroll width={250} />
             </div>
         </div>
       </Layout>
@@ -69,7 +69,7 @@ export const pageQuery = graphql`
     recent: allMoviesJson(
         sort: { fields: release_date, order: DESC}
         filter: { genres: { in: [$genre] } } 
-        limit: 5
+        limit: 40
     ) {
       totalCount
       edges {
@@ -81,8 +81,9 @@ export const pageQuery = graphql`
             gatsby_image_path {
                 childImageSharp {
                   gatsbyImageData(
-                    width: 150
-                    placeholder: BLURRED
+                    height:450
+                    width: 300
+                    placeholder: TRACED_SVG
                   )
                 }
             }
@@ -104,8 +105,9 @@ export const pageQuery = graphql`
             gatsby_image_path {
                 childImageSharp {
                   gatsbyImageData(
+                    height:450
                     width: 300
-                    placeholder: BLURRED
+                    placeholder: TRACED_SVG
                   )
                 }
             }

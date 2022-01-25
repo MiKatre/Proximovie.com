@@ -29,7 +29,7 @@ const IndexPage = ({data}) => {
         </Row>
         <Row>
           <h1 id="popular_movies" className="fw-bolder text-center pt-1 pt-md-5 pb-3">Most popular movies</h1>
-          <MovieList movies={popular}/>
+          <MovieList movies={popular} scroll width={250}/>
         </Row>
         <Row>
           <h5 id="popular_genres" className="fw-bolder text-center pt-1 pt-md-5 pb-3">Genres</h5>
@@ -37,7 +37,7 @@ const IndexPage = ({data}) => {
         </Row>
         <Row>
           <h1 id="recent_movies"  className="fw-bolder text-center pt-1 pt-md-5 pt-4 pb-3">Recent Movies</h1>
-          <MovieList movies={recent}/>
+          <MovieList movies={recent} scroll width={250}/>
         </Row>
         <Row>
           <h5 id="popular_genres" className="fw-bolder text-center pt-1 pt-md-5 pb-3">Popular Actors</h5>
@@ -62,8 +62,9 @@ export const query = graphql`
           gatsby_image_path {
             childImageSharp {
               gatsbyImageData(
+                height:450
                 width: 300
-                placeholder: BLURRED
+                placeholder: TRACED_SVG
               )
             }
           }
@@ -81,7 +82,7 @@ export const query = graphql`
             childImageSharp {
               gatsbyImageData(
                 width: 300
-                placeholder: BLURRED
+                placeholder: TRACED_SVG
               )
             }
           }
@@ -98,8 +99,9 @@ export const query = graphql`
           gatsby_image_path {
             childImageSharp {
               gatsbyImageData(
+                height:450
                 width: 300
-                placeholder: BLURRED
+                placeholder: TRACED_SVG
               )
             }
           }

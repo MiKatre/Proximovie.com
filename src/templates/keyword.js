@@ -69,8 +69,9 @@ export const pageQuery = graphql`
             gatsby_image_path {
                 childImageSharp {
                   gatsbyImageData(
+                    height:450
                     width: 300
-                    placeholder: BLURRED
+                    placeholder: TRACED_SVG
                   )
                 }
             }
@@ -92,8 +93,9 @@ export const pageQuery = graphql`
             gatsby_image_path {
                 childImageSharp {
                   gatsbyImageData(
+                    height:450
                     width: 300
-                    placeholder: BLURRED
+                    placeholder: TRACED_SVG
                   )
                 }
             }
