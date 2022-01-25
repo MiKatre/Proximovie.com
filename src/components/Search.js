@@ -33,7 +33,7 @@ const SearchBar = ({data}) => {
     let results = []
 
     return (
-        <div>
+        <div className="w-100">
             <Dropdown>
             <input 
                 size="sm" 
