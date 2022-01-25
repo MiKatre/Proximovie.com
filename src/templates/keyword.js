@@ -14,7 +14,7 @@ const Keywords = ({ pageContext, data }) => {
   const keywordHeader = `Movies about: ${keyword}`
 
   const title = `${keyword} movies and similar`
-  const description = `Browse recent and popular ${keyword} movies such as ${recent[0].node.title}.`
+  const description = `Browse recent and popular ${keyword} movies such as ${recent && recent.length > 0 ? recent[0].node.title : ''}.`
   return (
       <Layout>
         <Seo 
@@ -30,6 +30,10 @@ const Keywords = ({ pageContext, data }) => {
                 <Button className="mx-1" variant="outline-light" size="sm">TV Shows</Button> 
               </Link>
             </h1>
+
+            { recent && recent.length <= 0 &&
+              <p className="text-center">No movies with this tag </p>
+            }
 
             {/* <h2 className="fw-bolder text-center pt-5">Recent {keyword} Movies </h2>
             <p className="text-center">Last released {keyword.toLowerCase()} movies </p>

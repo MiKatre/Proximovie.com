@@ -18,6 +18,26 @@ const GenresTV = ({ pageContext, data }) => {
 
   let tvOnlyGenres = ["politics","soap","kids","reality"]
 
+  if (recent && !recent.length) {
+    return (
+      <Layout>
+        <h1 className=" bg-dark text-white fw-bolder text-center p-4">
+          {genreHeader}
+          <br/>
+          { !tvOnlyGenres.includes(slugify(genre)) &&
+            <>
+                <Link to={`/genre/${slugify(genre)}/`}>
+                    <Button className="mx-1" variant="outline-light" outline size="sm">Movies</Button> 
+                </Link>
+                <Button className="mx-1" variant="light" size="sm">TV Shows</Button> 
+            </>
+          }
+        </h1>
+        <p className="text-center">No TV Shows with this genre </p>
+      </Layout>
+    )
+  }
+
   const title = `${genre} TV Shows and similar`
   const description = `Browse recent and popular ${genre} TV Shows such as ${recent[0].node.title}, ${recent[1].node.title}, ${popular[0].node.title}, ${popular[1].node.title}.`
   return (

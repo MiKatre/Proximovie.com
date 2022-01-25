@@ -15,6 +15,22 @@ const Genres = ({ pageContext, data }) => {
     totalCount === 1 ? "" : "s"
   }`
 
+  if (recent && !recent.length) {
+    return (
+      <Layout>
+        <h1 className=" bg-dark text-white fw-bolder text-center p-4">
+          {genreHeader}
+          <br/>
+          <Button className="mx-1" variant="light" outline size="sm">Movies</Button> 
+          <Link to="tv">
+            <Button className="mx-1" variant="outline-light" size="sm">TV Shows</Button> 
+          </Link>
+        </h1>
+        <p className="text-center">No movies with this genre </p>
+      </Layout>
+    )
+  }
+
   const title = `${genre} movies and similar`
   const description = `Browse recent and popular ${genre} movies such as ${recent[0].node.title}, ${recent[1].node.title}, ${budget[0].node.title}, ${budget[1].node.title}.`
   return (

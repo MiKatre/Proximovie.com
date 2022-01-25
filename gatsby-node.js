@@ -57,6 +57,12 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
           totalCount
         }
       }
+      tvKeywordsGroup: allShowsJson(limit: 4000) {
+        group(field: keywords) {
+          fieldValue
+          totalCount
+        }
+      }
     }
   `)
 
@@ -71,7 +77,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   const persons = [...result.data.castGroup.group,...result.data.crewGroup.group]
   const countries = result.data.countryGroup.group
   const companies = result.data.companyGroup.group
-  const keywords = result.data.keywordsGroup.group
+  const keywords = [...result.data.keywordsGroup.group, ...result.data.tvKeywordsGroup.group]
 
   // Make genre pages
   genres.forEach(genre => {
