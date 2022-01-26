@@ -1,7 +1,7 @@
 import { Link } from "gatsby"
 import React from "react"
 import { slugify } from "../utils/main"
-import { ScrollingCarousel, Carousel } from '@trendyol-js/react-carousel'
+import { ScrollingCarousel } from '@trendyol-js/react-carousel'
 
 const KeywordsSection = ({keywords, prefix="keyword", postfix=""}) => {
     let keywordCards = []
