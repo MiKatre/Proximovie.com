@@ -35,7 +35,7 @@ const Person = ({ pageContext, data }) => {
         <div>
             <h1 className=" bg-dark text-white fw-bolder text-center p-4">{personHeader}</h1>
 
-           { recent.length &&
+           { (recent.length && 
             <>
               <h2 className="fw-bolder text-center pt-5">Recent {person} Movies </h2>
               <p className="text-center">Last released {person.toLowerCase()} movies </p>
@@ -43,26 +43,26 @@ const Person = ({ pageContext, data }) => {
                   <MovieList movies={recent} scroll width={250}/>
                   {/* <MovieList movies={recent} width={150} minHeight={250}/> */}
               </div>
-            </> || ""
+            </>) || ("")
             }
 
 
-            { budget.length &&
+            { (budget.length &&
             <>
               <h2 className="fw-bolder text-center pt-5">Popular Movies with {person} </h2>
               <p className="text-center">The most popular {person.toLowerCase()} movies </p>
               <div>
                   <MovieList movies={budget} scroll width={250}/>
               </div>
-            </> || ""
+            </>) || ("")
             } 
-            { budgetCrew.length &&
+            { (budgetCrew.length &&
               <div>
                 <h2 className="fw-bolder text-center pt-5">With {person} as a crew member </h2>
                 <p className="text-center">Producter, director, writer, etc. </p>
                 {/* <MovieList movies={budgetCrew} width={150} minHeight={250}/> */}
                 <MovieList movies={budgetCrew} scroll width={250}/>
-              </div>
+              </div>) || ("")
             } 
         </div>
       </Layout>
