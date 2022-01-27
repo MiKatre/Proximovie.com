@@ -96,7 +96,7 @@ export const GenresTVQuery = graphql`
                   gatsbyImageData(
                     height:450
                     width: 300
-                    placeholder: TRACED_SVG
+                    
                   )
                 }
             }
@@ -120,7 +120,7 @@ export const GenresTVQuery = graphql`
                   gatsbyImageData(
                     height:450
                     width: 300
-                    placeholder: TRACED_SVG
+                    
                   )
                 }
             }
