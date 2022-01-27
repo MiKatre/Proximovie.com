@@ -109,7 +109,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       context: {
         keyword: keyword.fieldValue,
       },
-      defer: true,
+      defer: false,
     }),
     createPage({
       path: `/keyword/${slugify(keyword.fieldValue)}/tv`,
@@ -117,7 +117,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       context: {
         keyword: keyword.fieldValue,
       },
-      defer: true,
+      defer: false,
     })
   })
 
@@ -131,7 +131,7 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
       context: {
         person: person.fieldValue,
       },
-      defer: true,
+      defer: false,
     })
   })
 
