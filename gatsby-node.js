@@ -5,7 +5,7 @@ function slugify(slug) {
     if (!slug){
       return ''
     }
-    return slug.toLowerCase().replace(/ /g,'-').replace(/[^\w-]+/g,'')
+    return slug.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/ /g,'-').replace(/[^\w-]+/g,'')
 }
 
 exports.createPages = async ({ actions, graphql, reporter }) => {
@@ -157,3 +157,8 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
     })
   })
 }
+
+
+// exports.createSchemaCustomization = ({ actions: { createTypes, printTypeDefinitions } }) => {
+//   printTypeDefinitions({ path: './typeDefs.txt' })
+// }
