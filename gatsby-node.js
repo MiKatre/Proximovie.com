@@ -162,3 +162,24 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
 // exports.createSchemaCustomization = ({ actions: { createTypes, printTypeDefinitions } }) => {
 //   printTypeDefinitions({ path: './typeDefs.txt' })
 // }
+
+
+
+
+
+// exports.createSchemaCustomization = ({ actions }) => {
+//   const { createTypes } = actions
+//   const typeDefs = `
+//     type MarkdownRemark implements Node {
+//       frontmatter: Frontmatter
+//     }
+//     type Frontmatter {
+//       author: AuthorJson @link # default foreign-key relation by id
+//       reviewers: [AuthorJson] @link(by: "email") # foreign-key relation by custom field
+//     }
+//     type AuthorJson implements Node {
+//       posts: [MarkdownRemark] @link(by: "frontmatter.author.email", from: "email") # easy back-ref
+//     }
+//   `
+//   createTypes(typeDefs)
+// }
