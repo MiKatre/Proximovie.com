@@ -76,6 +76,12 @@ module.exports = {
       },
     },
     {
+      resolve: `@vtex/gatsby-plugin-onesignal`,
+      options: {
+        oneSignalAppId: "90a32f20-5e54-4a5a-9218-b1aaa650fb12"
+      },
+    },
+    {
       resolve: `gatsby-plugin-google-gtag`,
       options: {
         // You can add multiple tracking ids and a pageview event will be fired for all of them.
